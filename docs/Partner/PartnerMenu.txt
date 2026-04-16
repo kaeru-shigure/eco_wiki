@@ -1,0 +1,6 @@
+# Partner/PartnerMenu
+
+#author("2017-02-07T01:04:59+00:00","","")
+[[パートナーシステム>Partner]] ([[初心者向け説明>TutorialPartner]]) / [[ステータス>Partner/Status]] / [[スキル>Partner/Skill]] / [[装備>Partner/Equip]] / [[AI>Partner/AI]] ([[考察>Partner/AI/Study]]) / [[ユニットシステム>Partner/UnitSystem]]
+一覧： [[通常>PartnerList/Normal]] / [[ライド>PartnerList/Ride]] / [[ネコマタ>PartnerList/nekomata]] / [[オートマタ>PartnerList/automata]] / [[武神>PartnerList/busin]] / [[守護魔>PartnerList/Syugoma]] / [[ハートメイト>PartnerList/Heartmate]] / [[アルマ>PartnerList/Almamonster]] / [[ロア>PartnerList/Lore]] / [[御魂>PartnerList/Mitama]] / [[神魔>PartnerList/Shinma]] / [[背中装備>PetList/Shoulder]] 
+RIGHT:&size(12){[[一覧編集ガイド>PartnerList]] / &edit(,noicon){メニュー編集};};

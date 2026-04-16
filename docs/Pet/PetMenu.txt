@@ -1,0 +1,8 @@
+# Pet/PetMenu
+
+現行のパートナーシステムは[[こちら>Partner]]
+&color(red){''2014/07/24アップデートにより、ペット・ユニオンペットシステムは現在のパートナーシステムとして大幅変更されました。&br;このページは旧ペットシステム時代の古いデータです。''};
+
+[[ペットシステム>Pet]] / [[ユニオンペットシステム>Pet/UnionPet]]
+[[一覧表 >PetList/List]] ([[台詞>PetSpeech]])：[[通常>PetList/Normal]] / [[騎乗>PetList/Ride]] / [[背中装備>PetList/Shoulder]] / [[ネコマタ>PetList/nekomata]] / [[オートマタ>PetList/automata]] / [[武神>busin]] / [[守護魔>PetList/Syugoma]] / [[ハートメイト>PetList/Heartmate]] / [[アルマ・モンスター>PetList/Almamonster]] / [[ロア>PetList/Lore]] / [[御魂>PetList/Mitama]]
+RIGHT:&edit(,noicon){ペットメニューを編集};

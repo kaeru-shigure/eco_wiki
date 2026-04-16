@@ -1,0 +1,27 @@
+# Jargon/Menu
+
+*ECO用語大辞典 [#fc779a37]
+-ECOに関係する用語・地名・人名などを掲載します。
+-必要があればリンクを貼ってください。
+-間違いを発見した場合、訂正をして訂正部分にコメントを残してください。
+-wikiの編集が苦手な方は[[最下部の投稿フォーム>#comment]]よりどうぞ
+
+ ■凡例
+ 用語[分類]
+ 用語説明
+　
+ ■分類例
+ [ECO] ： ECO内でのみ通用する用語。他では通じない、または異なる意味となる用語。
+ [ネトゲ] ： オンラインゲーム全般で通用する用語。
+ [ネット] ： インターネット上の掲示板、チャット、メールなどで使われる用語。
+ [ゲーム] ： オンラインに限らず、一般のゲームなどでも通用する用語。
+ [一般] ： 上記に分類されない、一般的な用語。
+ ※上にあるほど限定された特殊な表現になる傾向がある。
+
+|~かな・漢字|[[あ行>Jargon/Japanese#aa]]|[[か行>Jargon/Japanese#ka]]|[[さ行>Jargon/Japanese#sa]]|[[た行>Jargon/Japanese#ta]]|[[な行>Jargon/Japanese#na]]|[[は行>Jargon/Japanese#ha]]|[[ま行>Jargon/Japanese#ma]]|[[や行>Jargon/Japanese#ya]]|[[ら行>Jargon/Japanese#ra]]|[[わ行>Jargon/Japanese#wa]]|
+|~[[英数・記号>Jargon/Alphabet#abc]]|||||||||||
+**コメント欄(Wikiの編集が苦手な人はこちらに) [#comment]
+
+#pcomment(Jargon/hoihoi)
+
+//(([[06/09/23以前：この先のバックアップ→>Jargon]]))

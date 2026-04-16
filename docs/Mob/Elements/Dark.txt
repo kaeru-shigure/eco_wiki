@@ -1,0 +1,131 @@
+# Mob/Elements/Dark
+
+#author("2017-04-07T17:31:27+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（闇属性） [#f493294b]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv11～20 [#y80186ef]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CaviA-chin.jpg,nolink,100x100);|キャビアーチン|15|90|25/25|BGCOLOR(#c4adff):闇|NonActive|スノップ雪原&br;ノーザリン岬&br;ノース中央山脈&br;永遠への北限|アーチン印のミソ&br;キャビア&br;黒キャビア&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dracky.jpg,nolink,100x100);|ドラッキー|19|230|69/31|BGCOLOR(#c4adff):闇|Active&br;Link|【大陸の洞窟】&br;B1F,B2F|肉&br;破れた魔法書&br;鉄製の小さな刀身&br;力の結晶&br;&color(slateblue){ドラッキースタンプ};|旋風剣||
+
+***Lv21～30 [#cb033a49]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PanserDead.jpg,nolink,100x100);|パンサーデッド|22|280|58/48|BGCOLOR(#c4adff):闇|-|ウテナ湖|&color(slateblue){ワックス};&br;&color(red){カッパーメダル};||高DEF&br;アンデッド|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PanserGhost.jpg,nolink,100x100);|パンサーゴースト|24|400|65/65|BGCOLOR(#c4adff):闇|特殊詠唱反応&br;自分へのスキル使用を察知すると反応|ウテナ湖|マナ・ウォーター&br;紫のゼリコ&br;&color(red){水晶のかけら};||高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NightBat.jpg,nolink,100x100);|ナイトバット|25|430|89/120|BGCOLOR(#c4adff):闇||【インスタンスダンジョン】&br;地下迷宮|肉&br;力の結晶|マジックスリープ|数を集めると憑依してジャンボナイトバットに変身。&br;瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mirra.jpg,nolink,100x100);|ミイラ|26|360|75/75|BGCOLOR(#c4adff):闇|Active|【大陸の洞窟】&br;B4F|丈夫な布&br;布&br;紋章紙&br;&color(red){シルク};&br;&color(red){包帯♀};&br;&color(slateblue){ミイラスタンプ};|スロウロジック|アンデッド&br;（ヒーリング100%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mummy.jpg,nolink,100x100);|マミー|27|420|95/85|BGCOLOR(#c4adff):闇|Link|アンデッド島・島|丈夫な布&br;布&br;紋章紙&br;&color(red){シルク};&br;&color(red){包帯♀};&br;&color(slateblue){マミースタンプ};|スタンアタック|高MDEF&br;アンデッド&br;（ヒーリング150%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/LivingDead.jpg,nolink,97x100);|リヴィングデッド|29|520|125/125|BGCOLOR(#c4adff):闇|Active|アンデッド島・島&br;&br;【大陸の洞窟】&br;B4F|青汁&br;腐った体液&br;紋章紙&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){リヴィングデッドスタンプ};|スタンアタック|アンデッド&br;（ヒーリング100%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GreyHound.jpg,nolink,100x101);|グレイハウンド|30|460|220/80|BGCOLOR(#c4adff):闇|Active|【氷結の坑道】&br;B1F,B2F&br;&br;【サウスダンジョン】&br;B1F&br;&br;（スノップ雪原）|上等な肉&br;サーロイン&br;いのちの結晶&br;革&br;&color(red){スウェード};&br;&color(red){フサフサしっぽ（銀）};|ダークバラッド||
+
+***Lv31～40 [#k4e56d2d]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Prune.jpg,nolink,100x100);|プルーン|31|&color(gray){900};|245/255|BGCOLOR(#c4adff):闇|詠唱反応|永遠への北限&br;ノース中央山脈（北部）|ミルク&br;マシュマロ&br;氷砂糖&br;いのちの結晶&br;&color(red){スノードロップ};&br;&color(red){カッパーメダル};&br;&color(slateblue){ファイアードラゴの卵};|コンフュージョンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tsukaima.jpg,nolink,100x100);|使い魔|31|280|120/180|BGCOLOR(#c4adff):闇|Active(広範囲)&br;→Lvの低いキャラ優先|永遠への北限&br;&br;【ノーザンダンジョン】&br;1F|毒消しの実&br;マジックキャンディー&br;ラピスラズリのかけら&br;クリティカルの結晶&br;&color(orange){トラップツール};&br;&color(orange){マルチコンディション};&br;&color(red){カッパーメダル};&br;&color(slateblue){使い魔スタンプ};|マジックポイズン|キャラと距離を置こうとする傾向有り|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Skeleton.jpg,nolink,100x100);|スケルトン|32|444|230/170|BGCOLOR(#c4adff):闇|Active|アンデッド島・島|骨&br;紋章紙&br;破れた魔法書&br;&color(red){シルバーメダル};&br;&color(red){プラチナ製の刀身};&br;&color(slateblue){スケルトンスタンプ};|居合&br;兜割り&br;旋風剣|広範囲索敵&br;高ASPD&br;アンデッド&br;（ヒーリング150%）&br;HPを削ると大人しくなる|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Zircon2.jpg,nolink,100x100);|ジルコンII|34|440|180/320|BGCOLOR(#c4adff):闇|Link|【廃炭鉱】&br;B2F,B3F|ガラス生地&br;&color(orange){水晶のかけら};&br;ナニカの入った宝石&br;破れた魔法書&br;&color(red){マリオネット・ベリル};&br;&color(slateblue){超硬石};&br;&color(slateblue){ジルコン;|ヒーリング|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DarkFeather.jpg,nolink,100x100);|ダークフェザー|35|300|130/340|BGCOLOR(#c4adff):闇|詠唱反応&br;HP3割？以下でActive化|永遠への北限&br;&br;【ノーザンダンジョン】&br;1F|ダークフェザーの羽&br;紋章紙&br;こころのかけら&br;魔力の結晶&br;&color(red){カッパーメダル};&br;&color(slateblue){ダークフェザースタンプ};|ナッシングネス&br;ブラックウィドウ|詠唱反応範囲が広い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SkeletonArcher.jpg,nolink,100x100);|スケルトンアーチャー|35|500?|245/255|BGCOLOR(#c4adff):闇|Active|永遠への北限&br;ノース中央山脈&br;&br;【ノーザンダンジョン】&br;1F&br;&br;【インスタンスダンジョン】&br;遺跡の宝探し|骨&br;紋章紙&br;こころのかけら&br;&color(slateblue){スケルトンアーチャースタンプ};|ブラックウィドウ|高MDEF&br;遠距離攻撃&br;アンデッド&br;（ヒーリング100%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Flurry.jpg,nolink,100x100);|フューリー|36|1400|530/500|BGCOLOR(#c4adff):闇|Link&br;→スタートラー&br;→モーリー|穀倉地帯&br;&br;イーストダンジョン&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;地下迷宮 第3階層&br;遺跡の宝探し|流氷詰めの缶&br;パートナーフード&br;マジックポーション&br;&color(red){マリオネット・マンドラゴラ};&br;&color(slateblue){マリオネット・ニンフ};&br;&color(red){ヒスイ};|カオスウィドウ&br;ナッシングネス&br;オブセッション|CW乱射癖あり|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dumpty.jpg,nolink,100x100);|ダンプティー|37|540|270/330|BGCOLOR(#c4adff):闇|Active|【氷結の坑道】&br;B1F～B3F|マナ・ウォーター&br;&color(orange){ぬいぐるみの生地};&br;丈夫な布&br;破れた魔法書&br;&color(red){マリオネット・タイニー};&br;&color(slateblue){ダンプティースタンプ};|サイレントグリーン&br;スローロジック|高ATK&br;高MDEF&br;警告無しに襲ってくることあり|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MummyBane.jpg,nolink,150x150);|マミーベイン|37|620|360/320|BGCOLOR(#c4adff):闇|Active|【光の塔】&br;メインフロア4F&br;A-5F|ねばねば&br;毒消しの実&br;ロウ&br;シルク&br;&color(red){包帯♀};&br;&color(slateblue){赤のタリスマン};|オブセッション&br;パープルガス|アンデッド|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Peekaboo.jpg,nolink,100x100);|ピッカブー|38|1800|880/1600|BGCOLOR(#c4adff):闇|Active|【氷結の坑道】&br;B3F|ぬいぐるみの生地&br;マナ・ウォーター&br;&color(red){マリオネット・タイニー};|ファイアストーム|ピッカブー召喚でのみ出現&br;高MATK|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DarkBear.jpg,nolink,100x100);|ダークベア|39|2000|2420/330|BGCOLOR(#c4adff):闇|Active|【廃炭鉱】&br;B3F&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;集う魔物 第2階層|ブランクイリスカード&br;&color(red){ベルベット};|スタンポゼション||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/RottyPururu.png,nolink,100x100);|ロッティープルル|40|1300|320/350|BGCOLOR(#c4adff):闇|Active|【氷結の坑道】&br;B3F|オイル&br;マシンオイル&br;黒いゼリコ&br;|アースライズ&br;ダークバラット||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/LesserGhost.jpg,nolink,100x100);|レッサーゴースト|40|1500|280/320|BGCOLOR(#c4adff):闇|NonActive|【アンデッドの城】&br;1F外周&br;2F左外周&br;3F外周&br;居館4F|たましいの粉&br;紋章紙&br;&color(orange){チョーキングガス};&br;ガスバルーン&br;上等なマジックキャンディー&br;&color(red){カッパーメダル};||低MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/LesserSpectre.jpg,nolink,100x100);|レッサースペクター|40|1800|320/300|BGCOLOR(#c4adff):闇|特殊詠唱反応&br;（自分へのスキル使用を察知すると反応）|【アンデッドの城】&br;1F外周&br;2F左外周&br;3F外周|紋章紙&br;上等なマジックキャンディー&br;ガスバルーン&br;チョーキングガス&br;&color(red){カッパーメダル};||アンデッド&br;（ヒーリング100%）&br;低MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/LivingArmor.jpg,nolink,100x100);|リビングアーマー|40|750|490/310|BGCOLOR(#c4adff):闇|詠唱反応|【ノーザンダンジョン】&br;1F|鉄くず&br;マジックポーション&br;破れた魔法書&br;&color(slateblue){背負い魔・ネコマタ};&br;&color(slateblue){リビングアーマースタンプ};|居合&br;兜割り|高DEF&br;高MDEF&br;アンデッド&br;（ヒーリング100%）|
+
+***Lv41～50 [#f1cdefa9]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/BlackBear.jpg,nolink,100x100);|ブラックベア|41|650|580/260|BGCOLOR(#c4adff):闇|Active|【廃炭鉱】&br;B2F～B3F&br;&br;（モースグ崖）|革&br;毛皮&br;&color(orange){ベルベット};&br;&color(red){ベルベットクロス};&br;&color(slateblue){ブラックベアスタンプ};|スロウロジック&br;ダークバラッド&br;ブランディッシュ|高ATK&br;極めてターゲットが移り易い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Zircon3.jpg,nolink,100x100);|ジルコンIII|42|900|210/340|BGCOLOR(#c4adff):闇|Link|【サウスダンジョン】&br;B1F,B2F|ガラス生地&br;&color(orange){水晶のかけら};&br;ナニカの入った宝石&br;魔力の結晶&br;破れた魔法書&br;&color(red){マリオネット・ベリル};|ヒーリング|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NecroBat.jpg,nolink,100x100);|ネクロバット|43|1500|450/550|BGCOLOR(#c4adff):闇|Active|【インスタンスダンジョン】&br;地下に巣くう者&br;地下迷宮|肉&br;力の結晶|エクスクラメーション&br;トランスマインド||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KowaretaNuigurumi.jpg,nolink,100x100);|壊れたぬいぐるみ|43|12000|9900/17700|BGCOLOR(#c4adff):闇|Active|【氷結の坑道】&br;B3F中央|頑丈な布(PT)&br;マリオネット・タイニー&br;マナ・ウォーター(PT)&br;ぬいぐるみの生地(PT？)&br;真珠&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){壊れたぬいぐるみスタンプ};|アースストーム&br;ポケポケ&br;ピッカブー召喚|BOSS&br;30～90分毎沸き&br;取り巻き(ピッカブー)&br;瀕死時Escape|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Guards.jpg,nolink,100x100);|ガーズ|43|3200|3600/1800|BGCOLOR(#c4adff):闇|Active|【ノーザンダンジョン】&br;1F&br;&br;【インスタンスダンジョン】&br;集う魔物 第4階層&br;遺跡の宝探し|骨|ブラックウィドウ&br;サイレントポゼション|ガーズ召喚でのみ出現（ノーザンD）&br;高MATK&br;高MDEF&br;アンデッド&br;（ヒーリング100%?）&br;警告無しに襲ってくること有り|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ghost.jpg,nolink,100x100);|ゴースト|45|2100|550/590|BGCOLOR(#c4adff):闇|詠唱反応|【アンデッドの城】&br;1F外周&br;城の入り口&br;右の門衛棟1F&br;王の館1F&br;倉庫1F&br;連絡通路&br;右の門衛棟2F&br;3F右外周&br;右の門衛棟3F&br;左の門衛棟3F&br;倉庫3F&br;居館4F|たましいの粉&br;紋章紙&br;上等なマジックキャンディー&br;&color(red){シルバーメダル};|ララバイ&br;サイレントグリーン&br;氷化ガス&br;エナジークロウ|死亡時に&br;氷化ガスか&br;ララバイを&br;使用することあり|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Spectre.jpg,nolink,100x100);|スペクター|45|2200|580/540|BGCOLOR(#c4adff):闇|NonActive|【アンデッドの城】&br;1F外周&br;城の入り口&br;右の門衛棟1F&br;王の館1F&br;倉庫1F&br;連絡通路&br;右の門衛棟2F&br;倉庫2F&br;居館3F|たましいの粉&br;紋章紙&br;上等なマジックキャンディー&br;レプリカ・格闘帽子|ワー・クライ&br;ディープフォレスト&br;コンフューズスタッド|アンデッド&br;（ヒーリング100%）|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/smellman.png,nolink,100x100);|スメルマン|46|2000|666/555|BGCOLOR(#c4adff):闇|Link|【氷結の坑道】&br;B3F|丈夫な布&br;布&br;紋章紙&br;&color(red){シルク};|ダークウェポン&br;スタンアタック&br;|アンデッド|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/UndeadArmor.jpg,nolink,100x100);|アンデッドアーマー|48|3000|686/700|BGCOLOR(#c4adff):闇|詠唱反応|【氷結の坑道】&br;B3F|鉄くず&br;マジックポーション&br;ブランクイリスカード&br;&color(slateblue){背負い魔・ネコマタ};|ダークウェポン&br;居合い&br;兜割り&br;ホーリーシールド||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Onyx.jpg,nolink,100x100);|オニックス|47|1550|410/495|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;メインフロア4F&br;光の塔下層（4F左上）|金属の混じった石５&br;黒色火薬&br;キャリアオイル&br;チタニウム塊&br;&color(red){超氷石};|ブラックウィドウ&br;ダークファング&br;アイスフェード&br;デクライズウェポン&br;デクライズシールド||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Soulooter.jpg,nolink,100x100);|ソウルーター|49|2800|1999/1368|BGCOLOR(#c4adff):闇|Active|【氷結の坑道】&br;B3F|骨&br;&color(red){ブランクイリスカード};|ダークウェポン&br;サイレントポゼション&br;||
+//|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaWhiteFang.jpg,nolink,zoom,100x100);|でかホワイトファング|50|500000|0/0|BGCOLOR(#c4adff):闇|Active|スノップ雪原パートナー育成場|-|||
+
+***Lv51～60 [#d38f91e2]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Loubnan.jpg,nolink,100x100);|ルブナン|51|1980|852/825|BGCOLOR(#c4adff):闇|Link&br;→Undead|【アンデッドの城】&br;1F外周&br;居館1F&br;訓練所1F&br;牢屋&br;倉庫2F&br;法務官の間&br;訓練所2F&br;右の門衛棟3F&br;左の門衛棟3F&br;政務官の間|ねばねば&br;紋章紙&br;ワックス&br;&color(red){シルバーメダル};|ポイズンマーシュ&br;スタンアタック&br;コンフュージョンブロウ|アンデッド&br;（ヒーリング150%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EvilDead.jpg,nolink,100x100);|イヴィルデッド|51|1980|852/825|BGCOLOR(#c4adff):闇|-|【アンデッドの城】&br;1F外周&br;訓練所1F&br;牢屋&br;左の門衛棟2F&br;王の館2F&br;倉庫2F&br;法務官の間&br;訓練所2F&br;右の門衛棟3F&br;左の門衛棟3F|ねばねば&br;紋章紙&br;ワックス&br;&color(red){シルバーメダル};|ポイズンマーシュ&br;スタンアタック&br;オブセッション|アンデッド&br;（ヒーリング150%）&br;稀に死亡時にスキル使用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RavenGhost.jpg,nolink,100x100);|レイヴンゴースト|52|2330？|550/590|BGCOLOR(#c4adff):闇|詠唱反応|【インスタンスダンジョン】&br;デスメイズ&br;地下迷宮 第9階層&br;地下に巣くう者&br;集う魔物 第4階層|たましいの粉&br;紋章紙&br;上等なマジックキャンディー&br;&color(red){シルバーメダル};|||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DarkElement.jpg,nolink,100x100);|ダークエレメント|52|36000|900/800|BGCOLOR(#c4adff):闇|詠唱反応|【氷結の坑道】&br;B3F|ガラス生地&br;破れた魔法書&br;ブランクイリスカードUC|デクライズウエポン&br;デクライズシールド&br;カオスウィドウ&br;ララバイ&br;ソリッドオーラ|１時間沸き|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SkeletonLapiere.jpg,nolink,100x100);|スケルトンラピエレ|52|2250|1030/700|BGCOLOR(#c4adff):闇|Link|【アンデッドの城】&br;左の門衛棟1F&br;-倉庫1F&br;居館1F&br;アカズの間&br;2F右外周&br;連絡通路&br;左の門衛棟2F&br;王の館2F&br;礼拝堂2F&br;大ホール&br;王の館3F&br;&br;【インスタンスダンジョン】&br;急襲アンデッドの城&br;デスメイズ&br;地下迷宮 第5階層|丈夫な骨&br;紋章紙&br;カビ&br;破れた魔法書&br;&color(red){シルバーメダル};|ダークバラッド&br;ディレイキャンセル&br;ブランディッシュ&br;ダークウェポン|アンデッド&br;（ヒーリング150%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SkeletonShooter.jpg,nolink,100x100);|スケルトンシューター|53|2200|862/810|BGCOLOR(#c4adff):闇|Active|【アンデッドの城】&br;左の門衛棟1F&br;倉庫1F&br;居館1F&br;アカズの間&br;2F右外周&br;連絡通路&br;左の門衛棟2F&br;王の館2F&br;礼拝堂2F&br;王の館3F&br;居館4F&br;&br;【インスタンスダンジョン】&br;急襲アンデッドの城&br;戦慄のプリズン&br;地下迷宮 第10階層|丈夫な骨&br;紋章紙&br;鋼の矢&br;闇の矢&br;&color(red){シルバーメダル};|ダークネスアロー&br;チャージアロー&br;デュアルアロー&br;ロラン|遠距離攻撃&br;アンデッド&br;（ヒーリング100%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CurseFeather.jpg,nolink,100x100);|カースフェザー|54|2000|550/550|BGCOLOR(#c4adff):闇|Active|原初の森&br;毒の湿原&br;&br;【インスタンスダンジョン】&br;デスメイズ&br;地下迷宮 第9階層|やわらかな羽&br;たましいの粉&br;リザレクションポーション&br;ブランクイリスカード&br;&color(red){シルバーメダル};|カオスウィドウ&br;ダークファング|攻撃はL-Hit扱い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionHaitokusha.jpg,nolink,100x100);|ドミニオン背徳者|56|2050|1483/880|BGCOLOR(#c4adff):闇|Active|【サウスダンジョン】&br;B2F,B3F|マジックキャンディ&br;マジックポーション&br;聖者の涙&br;&color(slateblue){ドミニオン背徳者スタンプ};|カオスウィドウ&br;サイレントポゼション&br;リフレクションウォール|高MATK|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Geister.jpg,nolink,100x100);|ガイスター|57|2100|1050/730|BGCOLOR(#c4adff):闇|特殊詠唱反応&br;自分へのスキル使用を察知すると反応|【光の塔】&br;A-8F|燐粉&br;たましいの粉&br;&color(red){プラズム};|ブラックウィドウ|高L.Avoid|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ScarletGhost.jpg,nolink,100x100);|スカーレットゴースト|60|2400？|1450/1700|BGCOLOR(#c4adff):闇|特殊詠唱反応&br;自分へのスキル使用を察知すると反応|【インスタンスダンジョン】&br;戦慄のプリズン&br;地下迷宮 第10階層|たましいの粉&br;紋章紙&br;上等なマジックキャンディー&br;&color(red){シルバーメダル};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Obsidian.jpg,nolink,100x100);|オブシディアン|60|&color(gray){7000?};|1800/750|BGCOLOR(#c4adff):闇|Active|【アンデッドの城】&br;居館2F&br;礼拝堂2F&br;倉庫3F&br;礼拝堂3F&br;謁見の前と聖者の間のあいだの通路&br;&br;【インスタンスダンジョン】&br;急襲アンデッドの城|ガラス生地&br;破れた魔法書&br;ナニカの入った宝石|カオスウィドウ&br;ショックウェーブ&br;ナッシングネス&br;ヒーリング&br;デクライズシールド|高M-ATK&br;稀に死亡時にスキル使用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Remuresu.jpg,nolink,100x100);|レムレス|60|2600|1400/1700|BGCOLOR(#c4adff):闇|詠唱反応|【光の塔】&br;B-7F&br;A-11F|パートナーフード&br;風の召喚石&br;誘惑の糸&br;&color(red){壊れたリュート};&br;&color(slateblue){金糸のリボン};|ブラックウィドウ&br;エンドライン|高MDEF&br;１回以上ダメージを受ける→&br;Active＆稀に周囲に見境なく攻撃&br;周囲に他人がいる場合は注意|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Incubus.jpg,nolink,100x100);|インキュバス|60|2400|680/740|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;光の塔下層（4F左上）&br;A-7F|上等なマジックキャンディー&br;紙&br;マジックポーション&br;ドクロ&br;水晶&br;&color(red){魔力の結晶};|パープルガス&br;エンドライン&br;サテライトカロン&br;ゴゥアウト|高DEF&br;高MDEF&br;瀕死時のみ→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NecroArmor.jpg,nolink,100x100);|ネクロアーマー|60|2800|1650/1120|BGCOLOR(#c4adff):闇|Link&br;→ALL|【アンデッドの城】&br;左の門衛棟1F&br;アカズの間&br;牢屋&br;2F左外周&br;倉庫2F&br;3F左外周&br;王の館3F&br;謁見の間&br;【サウスダンジョン】&br;B3F|鉄くず&br;&color(orange){パワードリンク};&br;紋章紙&br;ハイプレートメイル（赤）&br;&color(red){ハイプレートメイル（銀）};|ハイパーチャージ&br;スタンアタック&br;居合|高SHIT&br;アンデッド&br;（ヒーリング100%）|
+
+***Lv61～70 [#a224ae89]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HellDiver.jpg,nolink,100x100);|ヘルダイバー|61|2500|1580/1050|BGCOLOR(#c4adff):闇|詠唱反応&br;Link|【光の塔】&br;光の塔周辺&br;光の塔下層（4F右上）&br;B-7F|トニックウォーター&br;パートナーフード&br;パワードリンク&br;コンポジットシールド（銀）&br;&color(red){力の結晶};&br;&color(red){壊れたマシンアクス};|旋風剣&br;ダークウェポン&br;ブラックウィドウ|アンデッド&br;光属性攻撃が有効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Marou.jpg,nolink,100x98);|魔狼|67|2500|5500/5060|BGCOLOR(#c4adff):闇|Active|原初の森&br;&br;【インスタンスダンジョン】&br;戦慄のプリズン&br;地下迷宮 第10階層&br;集う魔物 第5階層&br;残存するモンスターの駆除|サーロイン&br;上等な肉&br;&color(red){上等な革};&br;&color(red){スウェード};|ダークブレイズ&br;ゴゥアウト&br;ディスプレイズ&br;スケア||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Veillard.jpg,nolink,100x100);|ベイヤール|68|3550|6490/6380|BGCOLOR(#c4adff):闇|Link&br;→ゲッコ系&br;→ウメボア|原初の森&br;毒の湿原&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|だいこん&br;スウェード&br;パートナーフード&br;&color(red){シルバーメダル};&br;|ナッシングネス&br;チャージ&br;パープルガス||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Avenger.jpg,nolink,100x100);|アベンジャー|67|4350|1800/1750|BGCOLOR(#c4adff):闇||【アンデッドの城】&br;1F外周&br;大ホール&br;小ホール&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|トニックウォーター&br;パートナーフード&br;パワードリンク&br;&color(red){戦乙女の涙};&br;&color(red){傭兵};|バイタリティダウン&br;兜割り&br;ダークウェポン&br;コンフューズスタッド|高DEF&br;高M-ATK&br;アンデッド&br;（ヒーリング100%）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AncientCaster.jpg,nolink,100x100);|エンシェントキャスター|68|3850|2050/1950|BGCOLOR(#c4adff):闇|NonActive|【イーストダンジョン】&br;原初の森&br;毒の湿原|上等なマジックキャンディー&br;紋章紙&br;&color(red){マジックポーション};|トランスマインド&br;超電磁波&br;マジックスロウ|高DEF&br;瀕死時のみ→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Meiou.jpg,nolink,100x100);|メイオウ|68|360000|59000/36000|BGCOLOR(#c4adff):闇|Active|冥王の森&br;&br;【インスタンスダンジョン】&br;黒き王&br;集う魔物 第5階層|カッパーメダル(PT)&br;シルバーメダル&br;タイニーメダル(PT)&br;ドミニオンのヘアカタログ&br;タイニーレインボーメダル&br;&color(slateblue){メイオウスタンプ};&br;&color(slateblue){おおかみの耳};&br;&color(red){背負い魔・ブースト};|メガダークブレイズ&br;エセリアルボディ&br;ハウリングスクイーザー&br;魔狼召喚|超大型BOSS&br;50～60分毎沸き&br;&br;出現時に魔狼召喚使用&br;取り巻きが全滅すると&br;魔狼召喚再使用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SpellMilitant.jpg,nolink,100x100);|スペルミリタント|70|3550|1850/2150|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;光の塔下層（B棟屋上）&br;B-8F|上等なマジックキャンディー&br;紙&br;マジックポーション&br;&color(slateblue){古い本};&br;&color(red){力の本};&br;&color(red){信頼のお札};|マジックスロウ&br;メデューサスキン&br;ディープフォレスト&br;コンフュージョンブロウ|高DEF&br;瀕死時のみ→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SkyRadar.jpg,nolink,100x100);|スカイレイダー|70|4650|2350/2000|BGCOLOR(#c4adff):闇|詠唱反応|【光の塔】&br;光の塔下層（B棟屋上）&br;B-8F&br;A-10F&br;&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|トニックウォーター&br;パートナーフード&br;パワードリンク&br;&color(slateblue){コンポジットシールド（紺）};&br;&color(slateblue){ナックルガード};&br;&color(slateblue){壊れたチェインソード};&br;&color(slateblue){いのちの結晶};&br;|リフレクション&br;ヴァニッシュメント&br;ディレイキャンセル&br;兜割り&br;スタンブロウ&br;ダークライズ(Lv3)|アンデッド|
+
+***Lv71～80 [#y2b145c8]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionAnimus.jpg,nolink,100x100);|ドミニオン・アニムス|71|6000|2030/2000|BGCOLOR(#c4adff):闇||【アンデッドの城】&br;大ホール&br;礼拝堂3F&br;謁見の間&br;聖者の間&br;小ホール|たましいの粉&br;マジック･ポーション&br;マジックドリンク&br;紫金の宝玉&br;&color(red){魔力の結晶};&br;&color(red){聖者の涙};|サイレントポゼション&br;グラビティフォール&br;カオスウィドウ&br;エンドライン|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionMalicious.jpg,nolink,100x100);|ドミニオン・マリシャス|73|&color(gray){7000?};|2250/2080|BGCOLOR(#c4adff):闇|Active|【アンデッドの城】&br;大ホール&br;礼拝堂3F&br;謁見の間&br;聖者の間|たましいの粉&br;マジック･ポーション&br;マジックドリンク&br;紫金の宝玉&br;&color(red){魔力の結晶};&br;&color(red){聖者の涙};|デッドエンド&br;ブラックホール&br;リフレクション&br;エンドライン||
+
+***Lv81～90 [#t103f8fa]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShellsLei.jpg,nolink,100x100);|シェルズレイ|83|6250|2350/2500|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;A-13F～A-16F|固い石ころ&br;ボルト&br;破れた魔法書&br;アーチンの化石&br;&color(red){オリハルコン};|エクスクラメーション&br;バイタリティダウン&br;グラビティフォール||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/WickyBoo.jpg,nolink,100x100);|ウィッキーブー|90||3200/3350|BGCOLOR(#c4adff):闇|Active|【光の塔】&br;A-22F&br;上層|異界の羽&br;珍しい種&br;するどい牙|ダークファング&br;ハイパーチャージ&br;ゴゥアウト&br;怒||
+
+***Lv91～100 [#m3fa430e]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionPenance.jpg,nolink,100x100);|ドミニオン・ペナンス|92|16000|3980/4350|BGCOLOR(#c4adff):闇||【光の塔】&br;光の塔上層（A棟屋上）|上等なマジックキャンディー&br;古い紙幣&br;力の本&br;古い本&br;&color(red){古代の弓};|ナッシングネス&br;カオスウィドウ&br;エナジーブラスト&br;リフレクション||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Orcus.jpg,nolink,100x100);|オルクス|96|23000|6000/6600|BGCOLOR(#c4adff):闇|詠唱反応|バオバブの森（夜）|上等なマジックキャンディー&br;古い紙幣&br;ドクロ|カオスウィドウ&br;ブラックウィドウ&br;ナッシングネス&br;ライフスティール|アンデッド&br;瀕死時アクティブ&br;時折距離を置く傾向有り|
+
+***Lv111～ [#ybdd0cb6]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/shadow.jpg,nolink,100x100);|シャドウ|145|155950|102300/153600|BGCOLOR(#c4adff):闇|Active|【クジラ岩】&br;虚淵&br;深淵|闇のコロン&br;嘆きの懐中時計&br;ダーク・マーター&br;破れた魔法書&br;魔力の結晶&br;超絶水分補給水&br;激震のど飴|ダークブレイズ&br;メガダークブレイズ&br;ロラン&br;カオスウィドウ&br;オブセッション|HPが減るとNonActive化するが&br;メガダークブレイズをランダム周期で使用するようになる&br;EW2（凍結）無効|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/avalition.jpg,nolink,100x100);|アパリション|150|172590|445800/498900|BGCOLOR(#c4adff):闇|Active|【クジラ岩】&br;幻淵&br;歪淵・骸|マジックポーション&br;ダーク・マーター&br;超絶水分補給水&br;激震のど飴&br;&color(red){嘆きの懐中時計(PT)};&br;&color(slateblue){力の結晶};|ナッシングネス&br;エンドライン&br;サテライトカロン&br;ハウリングスクイーザー&br;ドップ|HPが半分になった段階で行動不能中でも&br;ハウリングスクイーザーを使う&br;EW2（凍結）無効|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Phantom.jpg,nolink,100x100);|ファントム|160|209586|509300/544200|BGCOLOR(#c4adff):闇|Active|【クジラ岩】&br;深淵|闇のコロン&br;ダーク・マーター&br;超絶水分補給水&br;激震のど飴&br;&color(slateblue){クリティカルの結晶};|ソウルブレイク&br;ブラックホール&br;ドップ&br;ノクシャスブラスト|高威力で詠唱の無いソウルブレイクに注意&br;EW2（凍結）無効|

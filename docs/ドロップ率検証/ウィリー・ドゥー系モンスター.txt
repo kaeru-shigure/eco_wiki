@@ -1,0 +1,38 @@
+# ドロップ率検証/ウィリー・ドゥー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***ウィリー・ドゥ [#tbcf0430]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マジックキャンディー|ウィリー・ドゥの玉|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|269個（89.67％）|29個（9.67％）|2個（0.67％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***ミニー・ドゥ [#b3ce2969]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マジックキャンディー|にんじん|背負い魔・ネコマタ|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|141個（47.00％）|152個（50.67％）|7個（2.33％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|48個（48.00％）|49個（49.00％）|1個（1.00％）|1個（1.00％）|1個（1.00％）|
+
+***シナモン [#l5083004]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|シナモン缶|マジックキャンディー|にんじん|マジックポーション|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（2900体）|1398個（48.21％）|1158個（39.93％）|306個（10.55％）|38個（1.31％）|0個（0.00％）|
+|知識あり（900体）|440個（48.89％）|360個（40.00％）|87個（9.67％）|12個（1.33％）|1個（0.11％）|
+
+***ココナッツ [#md31db7a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|氷砂糖|上等なマジックキャンディー|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|50個（50.00％）|41個（41.00％）|8個（8.00％）|1個（1.00％）|
+
+***ライチー [#s36a715f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|氷砂糖|上等なマジックキャンディー|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（210体）|98個（46.67％）|87個（41.43％）|23個（10.95％）|2個（0.95％）|
+|知識あり（462体）|194個（41.99％）|210個（45.45％）|54個（11.69％）|4個（0.87％）|

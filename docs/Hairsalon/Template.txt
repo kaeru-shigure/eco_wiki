@@ -1,0 +1,23 @@
+# Hairsalon/Template
+
+紹介状個別ページテンプレート
+
+ファイル名
+Hairsalon/紹介状名
+ 
+----
+
+[[男性ヘアサロン]]
+[[女性ヘアサロン]]
+[[女性ヘアカタログ>HearCatalogF_testpage]]（テストページ）
+**●●の紹介状（ECOくじ「■■■■■■」） [#●●] [#u98395d0]
+
+***男性 [#mm]
+|CENTER:画像募集中|
+
+***女性 [#ff]
+|~髪型１|
+|CENTER:&ref(画像URL,nolink);|
+|~髪型２|
+|CENTER:&ref(画像URL,nolink);|
+|ヘアカラー・リボン色の一覧（募集中）|

@@ -1,0 +1,10 @@
+# ドロップ率検証/スタートラー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***スタートラー [#k375c697]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|頑丈な布|布|上等な綿花|ハートルビー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（910体）|497個（54.62％）|316個（34.73％）|85個（9.34％）|12個（1.32％）|0個（0.00％）|
+|知識あり（365体）|188個（51.51％）|67個（18.36％）|48個（13.15％）|3個（0.82％）|59個（16.16％）|

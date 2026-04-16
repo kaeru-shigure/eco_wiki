@@ -1,0 +1,39 @@
+# Quest/Season/TinyCompanyShinmaHyoui03
+
+#author("2016-05-25T10:01:36+00:00","","")
+*神魔の来訪 タイニー・かんぱにー ～憑依研究編～ 「導きの神鳥」 [#Top_TinyCompanyShinmaHyoui]
+RIGHT:&edit(,noicon){TinyCompanyShinmaHyoui03を編集};
+#contents
+
+-期間： COLOR(red):''2016年2月25日（木）定期メンテナンス終了後 ～ ''
+
+**公式の告知 [#Press_TinyCompanyShinmaHyoui]
+神魔の来訪 タイニー・かんぱにー ～憑依研究編～
+http://econline.gungho.jp/special/shinma/
+
+**これまでの依頼 [#Past_TinyCompany]
+総合ページ: [[神魔の来訪 タイニー・かんぱにー ～憑依研究編～>Quest/Season/TinyCompanyShinmaHyoui]]
+01月:[[「アスモデウス事件」>Quest/Season/TinyCompanyShinmaHyoui01]]
+02月:[[「浄化の戦乙女」>Quest/Season/TinyCompanyShinmaHyoui02]]
+
+**イベント内容 [#Event_TinyCompanyShinmaHyoui]
+
+[[過去の通年イベント>Quest/Season/Log#yearround]]の様に選択肢によって分岐があるかは不明。
++アップタウン・ギルド元宮の入口の傍にいる、｢古びたガイドマシーン｣に話しかけてタイ兄さんの飛空城に移動する。
++タイ兄さんの研究室で「オリヴィア」か｢タイ兄さん｣か「サイクロプス・アルマ」か「ヤタガラス」に話しかける。
+--''｢男性向け情報誌｣''を入手。
+--2016/3/24メンテ前までにクリアすると''「3話SPモーション3」''を無料入手。
+---この期間を過ぎている場合は無料入手できませんが、EXイベントチケット5枚で入手が可能です。（下記）
+
+**タイ兄さんの研究室 [#Guild]
+***EXイベント「ガイアノ煌キ」入手 [#EX_Event_TinyCompanyShinmaHyoui]
+-上記のイベントをクリアした後、タイ兄さんの研究室にいる「ヤタガラス」か「サイクロプス・アルマ」に話しかけると
+｢[[EXイベントチケット>http://eco.acronia.net/itemdb/#id=285]]｣ 5枚と交換で''｢ガイアノ煌キ｣''を入手できる。
+
+***EXイベント「3話SPモーション3」入手 [#EX_Event_TinyCompanyShinmaHyouiMotion]
+-上記のイベントを2016/3/24メンテナンス以降にクリアした場合、タイ兄さんの研究室にいる「ヤタガラス」か「サイクロプス・アルマ」に話しかけると
+｢[[EXイベントチケット>http://eco.acronia.net/itemdb/#id=285]]｣ 5枚と交換で''｢3話SPモーション3｣''を習得できる。
+--2016/3/24メンテ前までにクリアした場合は無料入手できます。
+
+**神魔の来訪 タイニー・かんぱにー ～憑依研究編～ 関連コメント欄 [#Comment_TinyCompany]
+#pcomment(,20,noname)

@@ -1,0 +1,56 @@
+# Dungeon/InfiniteCorridorAbyssSkill/JokerDEM
+
+#author("2016-07-14T05:44:17+00:00","","")
+**ノービス系 [#z6ea85b3]
+
+***スキル早見表　ジョーカー [#Jo]
+|~名称|~進行PT|~狩りPT|~コメント|h
+|LEFT:|CENTER:|CENTER:|LEFT:|c
+|[[ジョーカーストライク>Skill/Joker/Explanation#jokerst]]|○|○|両手剣で単体攻撃をしたい時に使える、進行時関係無い敵を殴りたく無い時にでも。|
+|[[フルウエポンマスター>Skill/Joker/Explanation#fullwm]]|☆|☆|ジョーカーの必須パッシブ。|
+|[[フルドレッサーマスター>Skill/Joker/Explanation#fulldm]]|☆|☆|ジョーカーの必須パッシブ。|
+|[[ヘイトスティール>Skill/Joker/Explanation#hatest]]|◯|◯|無詠唱・無ディレイのため釣りスキルとして便利。&br;ヘイトを奪う効果はやや信頼性に欠ける。|
+|[[ジョーカーディレイキャンセル>Skill/Joker/Explanation#jokerdc]]|◯|◯|効果時間が長くDC率がパートナーのDCより高い。&br;Glのジリオン連携が非常に難しくなるので事前に要相談。&br;また、ルチフェロアナザー中はインテル>コンチェルの連携がシビアになるのでこちら要相談。|
+|[[ダメージチャージ>Skill/Joker/Explanation#damagec]]|×|×|ダメチャで倒せる敵がまともにいない上、モーションが邪魔になる事がある。イリス剣を使う場合ディレイが10秒になるのでその場合はレベル1を取っておこう。|
+|[[ジョーカーアート>Skill/Joker/Explanation#jokerart]]|×|×|一部敵のオプセッションから暴発の恐れがある、ただし対ナイアー限定で回復不能をもらいSPが尽きかけたら自爆してHPをゼロにしてからすぐさま復活すると何も出来ない時間が減る。ただし確実に自爆出来る訳じゃないので注意。|
+|[[道化師の魂>Skill/Joker/Explanation#soul]]|○|○|中身役をやる事があるのなら必須。|
+|[[イクスパンジアーム>Skill/Joker/Explanation#ikusu]]|☆|△|進行においては一部のボス戦で必須級のスキル。&br;道中はミラー・ミューテ―ション・オールターゼロ等の解除に。&br;可能ならデュアルHawの精密射撃と組み合わせたい。|
+|[[ジョーカースタイル>Skill/Joker/Explanation#style]]||||
+|[[神の加護>Skill/Joker/Explanation#kago]]|◯|◯|PTメンバーにステータス上昇効果。手軽にPT全体にバフ効果を付与できるのが強み。&br;ただしラウズ系と同じステータス上昇アイコンのためラウズボディ等を使用されると効果・効果時間が上書きされる。|
+|[[スタイルチェンジ>Skill/Joker/Explanation#StyleChange]]|◎|◎|神の加護を習得した状態で使用するとラウズ系を上回るステータスバフを付与できる。&br;基準ステータスに乗るため素手ジョーカーの上昇値を底上げ可能|
+|[[ジョーカー>Skill/Joker/Explanation#Joker]]|☆|☆|素手でのステータス底上げ、両手武器での範囲攻撃等、ジョーカーの基本となるスキル|
+|CENTER:~名称|~進行PT|~狩りPT|CENTER:~コメント|f
+
+**DEM [#w271efe3]
+
+***スキル早見表　DEM [#DEM]
+-DEM専用スキルのみ記載しています
+その他のスキルは各職の評価を参照願います
+
+|~名称|~進行PT|~狩りPT|~コメント|h
+|LEFT:|CENTER:|CENTER:|LEFT:|c
+|[[ルーキーブロウ>DEM/Skill/Explanation#RookieBlow]]|×|×||
+|[[ルーキーバレット>DEM/Skill/Explanation#RookieBullet]]|×|×||
+|[[ストーム:プライム>DEM/Skill/Explanation]]||||
+|[[ファイアアート>DEM/Skill/Explanation#FileArt]]||||
+|[[ビットアタック>DEM/Skill/Explanation#BitAttack]]||||
+|[[ガトリングバースト>DEM/Skill/Explanation#GatlingBurst]]||||
+|[[スプリットミサイル>DEM/Skill/Explanation#SplitMissile]]||||
+|[[超電磁砲撃>DEM/Skill/Explanation#g3ba6b50]]||||
+|[[ビットビーム砲撃>DEM/Skill/Explanation#da41e2f3]]||||
+|[[バレットラッシュ>DEM/Skill/Explanation#e8a99a31]]||||
+|[[クロッシングエッジ>DEM/Skill/Explanation#clock]]||||
+|[[ソニックブレイカー>DEM/Skill/Explanation#sonic]]||||
+|[[ラピッドストライク>DEM/Skill/Explanation#rapid]]||||
+|[[クーデグラ>DEM/Skill/Explanation#kude]]||||
+|[[レガシースペル>DEM/Skill/Explanation#legase]]||||
+|[[インサニティヴォーテックス>DEM/Skill/Explanation#insanity]]||||
+|[[ブロウディレイキャンセル>DEM/Skill/Explanation#BlowDelayCancel]]||||
+|[[スラッシュディレイキャンセル>DEM/Skill/Explanation#SlashDelayCancel]]||||
+|[[スティングディレイキャンセル>DEM/Skill/Explanation#StingDelayCancel]]||||
+|[[バレットディレイキャンセル>DEM/Skill/Explanation#BulletDelayCancel]]||||
+|[[ヴァリアブルウエポン>DEM/Skill/Explanation#VariableWepon]]|◯|◯|自分にしか使用できないが好きな属性剣を使用できるため便利。ただし、PTにAsがいる場合は腐りやすい。|
+|[[ソリッドコーティング>DEM/Skill/Explanation#SolidCoating]]|☆|☆|超広範囲に物理無効効果を配布できる。機械系パートナーの使用できる同名スキルより圧倒的に強力。&br;PTに効果を及ぼすためか、ヘイトが非常に高いため自身に攻撃が集中し死なないように注意。|
+|[[オーバークロック>DEM/Skill/Explanation#overclock]]|☆|☆|非常に強力なバフを得ることができるが、ヴァニッシュメントを食らうと大幅に弱体化してしまう。|
+|[[ガラスフロムレン>DEM/Skill/Explanation#garasu]]||||
+|CENTER:~名称|~進行PT|~狩りPT|CENTER:~コメント|f

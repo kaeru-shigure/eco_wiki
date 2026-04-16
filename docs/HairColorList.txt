@@ -1,0 +1,48 @@
+# HairColorList
+
+[[←外見ページへ戻る>face]]
+*ヘアカラー一覧 [#z818286c]
+
+|~アイテム名|~髪色名|~色見本|>|>|~新規入手方法|~備考|
+|~|~|~|~箱((木箱・宝箱))|~[[券>Quest/Cleanup#dcedaf09]]((ECO券))|~その他|~|
+||||CENTER:|CENTER:|||c
+|ヘアカラー・エミルカラーライト|ハニーベージュ|BGCOLOR(#984933):|○|○||エミル種族の初期色(男女共通)|
+|ヘアカラー・エミルカラーミドル|ココアブラウン|BGCOLOR(#773c2a):|○|○||~|
+|ヘアカラー・エミルカラーヘビー|ビターブラウン|BGCOLOR(#573228):|○|○||~|
+|ヘアカラー・タイタニアカラーライト|ホワイトゴールド|BGCOLOR(#f0ba7f):|○|○||タイタニア種族の初期色(男女共通)|
+|ヘアカラー・タイタニアカラーミドル|プラチナブロンド|BGCOLOR(#c2883e):|○|○||~|
+|ヘアカラー・タイタニアカラーヘビー|シャンパンゴールド|BGCOLOR(#a76935):|○|○||~|
+|ヘアカラー・ドミニオンカラーライト|アクアブルー(男性)|BGCOLOR(#629ae4):|○|○||ドミニオン種族の初期色(男女別)&br;性別でアイテム効果が異なる|
+|~|ローズ(女性)|BGCOLOR(#b33e60):|~|~|~|~|
+|ヘアカラー・ドミニオンカラーミドル|オーシャン(男性)|BGCOLOR(#3f6bbe):|○|○||~|
+|~|ワインレッド(女性)|BGCOLOR(#872944):|~|~|~|~|
+|ヘアカラー・ドミニオンカラーヘビー|ウルトラマリン(男性)|BGCOLOR(#254178):|○|○||~|
+|~|ダークチェリー(女性)|BGCOLOR(#4a0a1c):|~|~|~|~|
+|ヘアカラー・セラミックホワイト|セラミックホワイト|BGCOLOR(#d0d1d1):|||[[エレキテルラボ(19,000CP)>Quest/ElekitelLab#lcfb70d8]]|DEM種族の初期色(男女共通)|
+|ヘアカラー・ダークブルー|ダークブルー|BGCOLOR(#1b2141):|||[[軍艦島地下(4,000CP～)>defense#ada59d20]]|~|
+|ヘアカラー・ライトバイオレット|ライトバイオレット|BGCOLOR(#7d7199):|||[[軍艦島地下(4,000CP～)>defense#ada59d20]]|~|
+|ヘアカラー・ダルグレー|ダルグレー|BGCOLOR(#1e2b2d):|○|○|||
+|ヘアカラー・シルバー|シルバー|BGCOLOR(#9a9ea0):|○|○|||
+|ヘアカラー・モイストシルバー|モイストシルバー|BGCOLOR(#93a0af):|○|○|||
+|ヘアカラー・マットブラック|マットブラック|BGCOLOR(#2e2520):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=513]]([[黒いゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=848]]＋他)||
+|ヘアカラー・チェリーレッド|チェリーレッド|BGCOLOR(#9f3040):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=521]]([[赤いゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=45]]＋他)||
+|ヘアカラー・ジェードパープル|ジェードパープル|BGCOLOR(#894681):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=520]]([[紫のゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=2557]]＋他)||
+|ヘアカラー・ブルー|ブルー|BGCOLOR(#3f4e90):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=519]]([[青いゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=27]]＋他)||
+|ヘアカラー・アイスブルー|アイスブルー|BGCOLOR(#3f7e8f):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=518]]([[水色のゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=2496]]＋他)||
+|ヘアカラー・グリーン|グリーン|BGCOLOR(#3a794c):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=517]]([[緑のゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=2519]]＋他)||
+|ヘアカラー・ライトグリーン|ライトグリーン|BGCOLOR(#749f58):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=516]]([[黄緑のゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=722]]＋他)||
+|ヘアカラー・キャンディーイエロー|キャンディーイエロー|BGCOLOR(#9c8133):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=515]]([[黄色いゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=632]]＋他)||
+|ヘアカラー・オレンジ|オレンジ|BGCOLOR(#bd6c29):|○|○|[[薬品作成>http://jasmin.sakura.ne.jp/eco/script/recipedb/#id=514]]([[橙色のゼリコ>http://jasmin.sakura.ne.jp/eco/script/itemdb/#id=1433]]＋他)||
+|ヘアカラー・スプリング|スプリング|BGCOLOR(#fea3c5):||○|[[チュートリアル>Event/Nheartful#bec5a611]] &size(12){※1キャラ1個・取引不可};&br;リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「第7弾」(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji07/#13]] &size(12){※リサイクル対象};&br;[[ECOくじ「春☆スペシャル」(2008年)>http://econline.gungho.jp/econetstore/2008/SpringSpecial/#13]] &size(12){※リサイクル対象};&br;[[ECOくじ「イメチェン！」(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#13]]&br;[[ECOくじ「春色御伽草子」(2012年)>http://econline.gungho.jp/econetstore/2012/HaruiroOtogiZoushi/#14]]|
+|ヘアカラー・サマー|サマー|BGCOLOR(#87cfa5):||○|[[チュートリアル>Event/Nheartful#bec5a611]] &size(12){※1キャラ1個・取引不可};&br;リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「第9弾」(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji09/#12]] &size(12){※リサイクル対象};&br;[[ECOくじ「初夏☆スペシャル」(2008年)>http://econline.gungho.jp/econetstore/2008/SummerSpecial/#8]] &size(12){※リサイクル対象};&br;[[ECOくじ「真夏のアンコール」(2009年)>http://econline.gungho.jp/econetstore/2009/manau-no-encore/#5]] &size(12){※リサイクル対象};&br;[[ECOくじ「イメチェン！」(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#12]]&br;[[ECOくじ「清月の電脳幻想」(2012年)>http://econline.gungho.jp/econetstore/2012/SeigetsuNoDennouGensou/#15]]|
+|ヘアカラー・オータム|オータム|BGCOLOR(#c98bd7):||○|[[チュートリアル>Event/Nheartful#bec5a611]] &size(12){※1キャラ1個・取引不可};&br;リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「第4弾」(2006年)>http://econline.gungho.jp/econetstore/2006/ecokuji04/#9]] &size(12){※リサイクル対象};&br;[[ECOくじ「イメチェン！」(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#10]]&br;[[ECOくじ「令月の盗賊」(2012年)>http://econline.gungho.jp/econetstore/2012/ReigetsuNoTouzoku/#14]]|
+|ヘアカラー・ウィンター|ウィンター|BGCOLOR(#86cffe):||○|[[チュートリアル>Event/Nheartful#bec5a611]] &size(12){※1キャラ1個・取引不可};&br;リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「第5弾」(2006年)>http://econline.gungho.jp/econetstore/2006/ecokuji05/#14]] &size(12){※リサイクル対象};&br;[[ECOくじ「第17弾」(2008年)>http://econline.gungho.jp/econetstore/2008/ecokuji17/#9]] &size(12){※リサイクル対象};&br;[[ECOくじ「イメチェン！」(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#11]]&br;[[ECOくじ「もこもこファーコーデ」(2012年)>http://econline.gungho.jp/econetstore/2012/MocomocoFurCorde/#14]]|
+|ヘアカラー・ペールゴールド|ペールゴールド|BGCOLOR(#c1ad92):|||[[チュートリアル>Event/Nheartful#bec5a611]] &size(12){※1キャラ1個・取引不可};&br;リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「新生活」(2010年)>http://econline.gungho.jp/econetstore/2010/ShinSeikatsu/#12]] &size(12){※リサイクル対象};&br;[[ECOくじ「ドリーミーナイト」(2011年)>http://econline.gungho.jp/econetstore/2011/DreamyNight/#14]]&br;[[ECOくじ「ノーティ・スクールガールズ」(2012年)>http://econline.gungho.jp/econetstore/2012/NaughtySchoolGirls/#14]]&br;[[ECOくじ「天正月の赤頭巾」(2012年)>http://econline.gungho.jp/econetstore/2012/TensyougetuNoAkazukin/#14]]|
+|ヘアカラー・メタリックピンク|メタリックピンク|BGCOLOR(#bf7475):|||[[チュートリアル>Event/Nheartful#bec5a611]] &size(12){※1キャラ1個・取引不可};&br;リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「盤上の騎士団」(2010年)>http://econline.gungho.jp/econetstore/2010/BanjoNoKishidan/#14]] &size(12){※リサイクル対象};&br;[[ECOくじ「エレクトロメモリーズ」(2011年)>http://econline.gungho.jp/econetstore/2011/ElectroMemories/#14]]&br;[[ECOくじ「涼月の姫君」(2012年)>http://econline.gungho.jp/econetstore/2012/RyougetsuNoHimegimi/#14]]&br;[[ECOくじ「スチームパンク」(2012年)>http://econline.gungho.jp/econetstore/2012/Steampunk/#14]]|
+|ヘアカラー・バイオレット|バイオレット|BGCOLOR(#776ca5):|||[[エンシェントアーク報酬(1階層～)>http://eco.acronia.net/wiki/?cmd=read&page=Quest%2FAncientArkBoxDrop&word=%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88#Page1_3]]||
+|ヘアカラー・アッシュブラウン|アッシュブラウン|BGCOLOR(#4e3a39):|||[[エンシェントアーク報酬(13階層～)>http://eco.acronia.net/wiki/?cmd=read&page=Quest%2FAncientArkBoxDrop&word=%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3#y545b827]]||
+|ヘアカラー・リリーホワイト|リリーホワイト|BGCOLOR(#b7bda3):|||[[エンシェントアーク報酬(19階層～)>http://eco.acronia.net/wiki/?cmd=read&page=Quest%2FAncientArkBoxDrop&word=%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88#g98ce931]]||
+|ヘアカラー・モスグリーン|モスグリーン|BGCOLOR(#4d5a2d):|||リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「やすらぎカントリーライフ」(2010年)>http://econline.gungho.jp/econetstore/2010/YasuragiCountryLife/#12]] &size(12){※リサイクル対象};&br;[[ECOくじ「雨月の妖精物語」(2012年)>http://econline.gungho.jp/econetstore/2012/UgetsuNoYouseiMonogatari/#14]]&br;[[ECOくじ「カントリー・カウガール」(2013年)>http://econline.gungho.jp/econetstore/2013/CountryCowgirl/#14]]|
+|ヘアカラー・エメラルドグリーン|エメラルドグリーン|BGCOLOR(#28655f):|||リサイクル&br;[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「あこがれアートコレクション」(2010年)>http://econline.gungho.jp/econetstore/2010/AkogareArtCollection/#11]] &size(12){※リサイクル対象};&br;[[ECOくじ「萌黄色のゆりかご」(2012年)>http://econline.gungho.jp/econetstore/2012/MoegiiroNoYurikago/#14]]&br;[[ECOくじ「ウィキッド・ナイトパレード」(2012年)>http://econline.gungho.jp/econetstore/2012/WickedNightParade/#14]]&br;[[ECOくじ「ワーキング・ワーウルフ」(2013年)>http://econline.gungho.jp/econetstore/2013/WorkingWerewolf/#14]]|
+|ヘアカラー・ミルクティー|ミルクティー|BGCOLOR(#b68a77):|||[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「スウィート・ロリポップ」(2011年)>http://econline.gungho.jp/econetstore/2011/SweetLolipop/#14]]&br;[[ECOくじ「チェック＆ウィング」(2012年)>http://econline.gungho.jp/econetstore/2012/CheckAndWing/#14]]&br;[[ECOくじ「詠月の郷愁」(2012年)>http://econline.gungho.jp/econetstore/2012/EigetsuNoKyousyu/#14]]&br;[[ECOくじ「鏡祭月の双子」(2012年)>http://econline.gungho.jp/econetstore/2012/KyousaigetuNoFutago/#14]]&br;[[ECOくじ「ブランシュ・プチ・アンジュ」(2013年)>http://econline.gungho.jp/econetstore/2013/BlanchePetitAnge/#14]]&br;[[ECOくじ「星降る夜の物語」(2013年)>http://econline.gungho.jp/econetstore/2013/HoshihuruyoruNoMonogatari/#15]]|
+|ヘアカラー・アンティークパープル|アンティークパープル|BGCOLOR(#5a3e5a):|||[[ECOショップ(300円)>ECOShop#DressupItem]]|[[ECOくじ「ゴシックパーティー」(2011年)>http://econline.gungho.jp/econetstore/2011/GothicParty/#12]]&br;[[ECOくじ「臘月の守り手」(2012年)>http://econline.gungho.jp/econetstore/2012/RougetuNoMamorite/#14]]&br;[[ECOくじ「記憶の図書館」(2013年)>http://econline.gungho.jp/econetstore/2013/KiokuNotosyokan/#14]]|

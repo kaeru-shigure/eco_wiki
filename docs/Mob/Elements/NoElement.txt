@@ -1,0 +1,106 @@
+# Mob/Elements/NoElement
+
+#author("2017-04-07T17:32:33+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（無属性） [#s545fad8]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv1～10 [#zfb84540]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pururu.jpg,nolink,100x100);|プルル|1|23|3/1|無|NonActive|アクロニア平原&br;アクロニアの林&br;ウテナ湖&br;スノップの山道|ゼリコ&br;ゼリコポーション&br;ソーダ水&br;青いゼリコ&br;&color(orange){ロウ};&br;&color(red){ワックス};&br;&color(slateblue){プルルスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Crawler.jpg,nolink,100x100);|クローラー|3|60|5/3|無|NonActive|アクロニア周辺地域&br;アクロニアの林&br;ファーイースト街道&br;ウテナ湖&br;東アクロニア海岸|キチン&br;青汁&br;緑のゼリコ&br;&color(#cccccc){魔力の結晶};&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){クローラースタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bow.jpg,nolink,100x100);|バウ|9|110|24/2|無|Active|スノップ山道&br;スノップ追分&br;キラービーの峠道&br;ウテナ湖&br;ウテナ川河口&br;サウスリン岬&br;モースグ崖&br;アンデッド島・大陸&br;軍艦島|肉&br;&color(orange){バウの革切れ};&br;骨&br;&color(red){革};&br;&color(red){上等な肉};&br;&color(red){スウェード};&br;&color(red){骨おしゃぶり};&br;いのちの結晶&br;&color(slateblue){捨て犬バウ};&br;&color(slateblue){バウスタンプ};|-||
+
+***Lv11～20 [#leffd0c0]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaCrawler.jpg,nolink,100x100);|でかクローラー|15|3000|100/60|無|Link|東アクロニア海岸|キチン&br;青汁&br;緑のゼリコ&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){でかクローラースタンプ};|-|高HP&br;鈍足|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PutiMetallica.jpg,nolink,100x100);|プチメタリカ|15|7|77/7|無|Escape|アクロニアの林&br;アクロニア平原（北西東南）&br;ウテナ湖&br;キラービーの峠道&br;%%ステップ砂漠%%|鉄のナゲット&br;銀のナゲット&br;金のナゲット&br;&color(red){プラチナ塊};|-|高DEF&br;魔法攻撃無効（DS、RS除）&br;近付くと逃亡&br;壁に追い詰めると反撃&br;高確率被クリティカル|
+
+***Lv21～30 [#c8106f7d]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bear.jpg,nolink,100x100);|ベア|22|230|%%75/45%%&br;85/70|無|Active|アンデッド島・大陸&br;キラービーの峠道&br;モースグ崖&br;軍艦島&br;（アクロニアの林）|りんご&br;&color(orange){毛皮};&br;革&br;上等な毛皮&br;破れた魔法書&br;&color(slateblue){ベアスタンプ};|ウインドアタック&br;スタンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MaigoNoMetallica.jpg,nolink,100x100);|迷子のメタリカ|24|14|333/33|無|Escape|アンデッド島&br;イストー岬&br;ファーイースト街道&br;永遠への北限&br;軍艦島&br;スノップの山道&br;スノップ追分&br;モースグ崖&br;ウテナ川河口&br;ステップ砂漠&br;果物の森&br;サウスリン岬&br;ノーザリン岬&br;スノップ雪原&br;ノース台地&br;ノース中央山脈&br;東アクロニア海岸&br;バオバブの森&br;&br;【インスタンスダンジョン】&br;地下迷宮|鉄のナゲット&br;銅のナゲット&br;鉛のナゲット&br;銀のナゲット&br;金のナゲット&br;プラチナ塊&br;&color(red){オリハルコン};&br;&color(slateblue){迷子のメタリカスタンプ};|-|高DEF&br;魔法攻撃無効（DS、RS除）&br;近付くと逃亡&br;壁に追い詰めると反撃&br;高確率被クリティカル|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/JerseyWorm.jpg,nolink,100x100);|ジャージーワーム|26|350|100/72|無|NonActive|モーモー草原&br;穀倉地帯|キチン&br;毛皮&br;パートナーフード&br;&color(orange){白い毛皮};&br;&color(slateblue){クローラーキャリアー（緑）};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingRX1.jpg,nolink,94x100);|ブリキングＲＸ１|26|240|%%85/55%%&br;110/70|無|Active|ウテナ川河口&br;サウスリン岬|ブリキの板&br;赤いコード&br;乾電池&br;コイル&br;ＣＰＵ&br;電卓&br;ブリキの部品&br;ポケコン&br;メモリ&br;モーター&br;&color(red){マリオネット・エレキテル};&br;&color(slateblue){ブリキングＲＸ１スタンプ};|-|高ATK&br;高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mo-Mo-.jpg,nolink,100x100);|モーモー|27|300|77/90|無|NonActive|モーモー草原&br;穀倉地帯|革&br;&color(slateblue){牛革};&br;&color(orange){サーロイン};&br;ミルク&br;&color(red){カッパーメダル};&br;&color(red){四葉のクローバー};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokokko-.jpg,nolink,100x100);|ココッコー|27|300?|70/50|無|NonActive|モーモー草原&br;穀倉地帯|肉&br;バードケーキ&br;カビ&br;&color(orange){上等な肉};&br;&color(red){カッパーメダル};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/JumboPururu.jpg,nolink,100x100);|ジャンボプルル|28|||無||【インスタンスダンジョン】&br;迷宮探索|ソーダ水(PT)|ワークライ&br;リフレクション|BOSS|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MetalA-chin.jpg,nolink,100x100);|メタルアーチン|30|250|%%160/140%%&br;288/252|無|-|【廃炭鉱】&br;B2F,B3F|砂鉄&br;鉄のナゲット&br;プラチナの塊&br;メタルアーチンのとげ&br;&color(slateblue){メタルアーチンスタンプ};|-|高DEF|
+
+***Lv31～40 [#i61928b7]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WiliDu.jpg,nolink,100x100);|ウィリー・ドゥ|31|240|228/209|無|Link→動物系|永遠への北限&br;ノース台地&br;ノース中央山脈|マジックキャンディー&br;にんじん&br;破れた魔法書&br;ウィリー・ドゥの玉&br;シニヨンキャップ&br;&color(red){カッパーメダル};&br;&color(slateblue){ウィリー・ドゥスタンプ};|-|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MinyDu.jpg,nolink,100x100);|ミニー・ドゥ|32|320|235/165|無|Active|【ノーザンダンジョン】&br;1F|にんじん&br;破れた魔法書&br;&color(slateblue){背負い魔・ネコマタ（桃）};&br;&color(slateblue){ミニー・ドゥスタンプ};|衝撃波&br;ポケポケ&br;ホーリーウェポン|近接攻撃タイプだがAIが遠距離タイプな為&br;近づかなければ通常攻撃を受けない|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ArcanaJack.jpg,nolink,100x100);|アルカナジャック|38|800|%%350/350%%&br;1380/660|無|Active|【ノーザンダンジョン】&br;1F|紙&br;スタミナポーション&br;破れた魔法書&br;&color(red){リザレクションポーション};&br;&color(slateblue){アルカナジャックスタンプ};|旋風剣&br;デクライズウェポン|BOSS属性&br;&color(#cccccc){高MDEF};&br;高ASPD|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cinnamon.jpg,nolink,100x100);|シナモン|39|525|308/295|無|-|鬼の寝床岩&br;鉄火山&br;アイアンサウス街道&br;&br;【サウスダンジョン】&br;B1F|シナモン缶&br;マジックキャンディー&br;にんじん&br;マジックポーション&br;破れた魔法書&br;&color(red){カッパーメダル};&br;&color(slateblue){シナモンスタンプ};|-|高S.HIT。AGI81でも回避しにくい&br;瀕死時→無移動、近づくとActive&br;物理攻撃時、稀に射程１で高速反撃（カウンター並の速度）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Metallica.jpg,nolink,100x100);|メタリカ|40|25|777/77|無|Escape|永遠への北限&br;&br;【廃炭鉱】&br;B2F,B3F|鉄のナゲット&br;銀のナゲット&br;金のナゲット&br;ブリキの板&br;&color(slateblue){メタリカスタンプ};|-|高DEF&br;魔法攻撃無効（DS、RS除）&br;近付くと逃亡&br;壁に追い詰めると反撃&br;高確率被クリティカル|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MeikyuuNoPutiMetallica.jpg,nolink,100x100);|迷宮のプチメタリカ|40|10|0/0|無|Active|【インスタンスダンジョン】&br;地下迷宮|-|チャージ|迷宮のプチメタリカ召喚でのみ出現&br;魔法攻撃無効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MeikyuuNoMetallica.jpg,nolink,100x100);|迷宮のメタリカ|40|100||無|Escape|【インスタンスダンジョン】&br;地下迷宮|-|ハイパーチャージ&br;迷宮のプチメタリカ召喚|BOSS&br;一律1ダメージしか与えられない？&br;魔法攻撃無効|
+
+***Lv41～50 [#t7cd7796]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Devastator.jpg,nolink,100x100);|デバステイター|43|1200|%%635/333%%&br;935/1000|無|Link→デバステイター|【サウスダンジョン】&br;B1F,B2F|トニックウォーター&br;ヒールポーション&br;戦乙女の涙&br;&color(slateblue){デバステイタースタンプ};|アークパワーライズ&br;バイタリティダウン||
+
+***Lv51～60 [#ybc530de]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrystalA-chin.jpg,nolink,100x100);|クリスタルアーチン|55|2000|%%560/610%%&br;1716/1771|無|詠唱反応|【光の塔】&br;メインフロア3F&br;A-7F|金属の混じった石５&br;鉄のとげ&br;水晶&br;&color(red){プラチナ塊};|パープルガス&br;マジックポイズン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Coconuts.jpg,nolink,100x100);|ココナッツ|60|2100|%%1030/730%%&br;2208/2076|無|詠唱反応|【光の塔】&br;光の塔下層（連絡通路）&br;A-6F&br;A-8F|氷砂糖&br;上等なマジックキャンディー&br;破れた魔法書&br;&color(red){カッパーメダル};|ポケポケ&br;デクライズウェポン&br;デクライズシールド&br;エナジークロウ|瀕死時→Active|
+
+***Lv71～80 [#jf59a727]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bandit.jpg,nolink,100x100);|バンディット|74|4400|2100/2400|無|Link&br;→人間|【フシギ団の砦】&br;南部&br;中立のシマ&br;海賊のシマ&br;&br;【インスタンスダンジョン】&br;遺跡荒しを追い出せ|パートナーフード&br;頑丈な革&br;&color(orange){手裏剣};&br;金のナゲット&br;&color(slateblue){いのちの結晶};|ファランクス&br;ディレイキャンセル&br;ハチの一刺し&br;アヴォイドバースト||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Escargot.jpg,nolink,100x100);|エスカルゴ|75|4750|%%2450/2500%%&br;3450/3600|無|NonActive|バオバブの森|ソーダ水&br;ねばねば&br;ロウ&br;キャベツ&br;&color(red){透明シール};|アイスグローブ&br;マジックスロウ&br;マジックポイズン&br;ディフェンス・バースト|攻撃を受けると近くにいる人に&br;タゲが行くことがあるので注意|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Umbrella.jpg,nolink,100x108);|アンブレラ|79|12350|%%3000/3250%%&br;4150/4250|無|詠唱反応|【光の塔】&br;光の塔周辺&br;A-12F&br;【インスタンスダンジョン】&br;超兵器の破壊|青汁&br;上等な飴&br;たましいの粉&br;&color(slateblue){ドクロ};&br;&color(slateblue){悪魔の槍};|マジックシールド&br;メデューサスキン&br;ガトリングブレイズ&br;ララバイ|ガトリングブレイスの発射点を攻撃可能&br;メデューサスキンは残りＨＰが低い時限定|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gattenga-sigma.jpg,nolink,100x100);|ガッテンガーΣ|80|16530|%%3300/3500%%&br;4785/4950|無|NonActive|【光の塔】&br;A-12F&br;&br;【インスタンスダンジョン】&br;超兵器の破壊・第1階層&br;&br;マイマイ遺跡|機械の破片&br;鉄の部品&br;鉄の部品(PT)&br;グレネード弾(PT)&br;銀の部品&br;閃光音響手榴弾&br;ロボットボディ&br;オリハルコン&br;壊れたマシンアクス|ショックウェーブ&br;スタンブロウ&br;グラヴィティフォール&br;ハイパーチャージ|高DEF&br;約15分間隔沸き（光の塔A-12F）|
+
+***Lv81～90 [#o0b0e36f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gattenga-Lambda.jpg,nolink,100x100);|ガッテンガーΛ|87|21500|%%4000/4300%%&br;7560/8160|無|NonActive|【光の塔】&br;A-13F&br;A-14F&br;A-15F&br;A-16F&br;&br;【インスタンスダンジョン】&br;超兵器の破壊・第2階層|カッパーメダル&br;カッパーメダル(PT)&br;魔法のトランジスタ&br;マッチロックの銃筒&br;壊れたチェインソード|ショックウェーブ&br;スタンブロウ&br;ディフェンス・バースト&br;ガッテンガーミサイル！|高DEF|
+
+***Lv91～100 [#eff1dc1e]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM01.jpg,nolink,100x100);|DEM-01|92|18500|%%4200/4550%%&br;5500/5650|無|Active|【光の塔】&br;A-21F&br;A-22F&br;光の塔上層（A棟屋上）&br;【マイマイ遺跡】|ハーブのど飴&br;古い紙幣&br;破れた魔法書&br;&color(red){壊れたボーワ};&br;オートマチックの銃筒(黒)|ディレイキャンセル&br;足払い&br;ブランディッシュ&br;ハイパーチャージ|広範囲索敵&br;高ASPD&br;タゲ移りしやすい|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Surveyor.jpg,nolink,100x100);|サーベイヤー|94|14500|%%3800/4000%%&br;5700/5000|無||バオバブの森（夜）|だいこん&br;頑丈な布&br;&color(orange){かたい木の棒};&br;&color(red){破れた魔法書};|ロックストーン&br;ヴァニッシュメント&br;コンフューズスタッド|視線方向に対して背中を見せると襲ってくる|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gattenga-7.jpg,nolink,100x100);|ガッテンガー７|95|30000|%%5000/5000%%&br;7000/7150|無|NonActive|【光の塔】&br;A-21F&br;A-22F&br;光の塔上層（A棟屋上）&br;&br;【インスタンスダンジョン】&br;超兵器の破壊・第3階層|カッパーメダル(PT)&br;マスケットの銃筒&br;オートマチックの銃筒（黒）&br;壊れたトゥールハンマー|ショックウェーブ&br;コンフュージョンブロウ&br;アタック・バースト&br;ガッテンガーミサイル一斉発射！&br;ミラー|高DEF&br;一斉発射は、周囲にいる人にも被害を与えるので注意|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM-Sniper.jpg,nolink,100x100);|DEM-スナイパー|96|24500|%%5000/4700%%&br;8000/8800|無|Active|マイマイ遺跡|黒色火薬&br;ケセランパサラン(PT)&br;バッテリー(PT)&br;&color(slateblue){武器庫入室パスカード};|連続射撃&br;チャージショット&br;ディレイキャンセル&br;アイスフェード|遠距離攻撃|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Eliminater.jpg,nolink,100x100);|イリミネーター|96|25500|%%4850/5000%%&br;8850/7800|無|NonActive|マイマイ遺跡|ナット&br;ケセランパサラン(PT)&br;バッテリー(PT)&br;&color(slateblue){サイコガンの銃筒};|ディレイキャンセル&br;つむじ風&br;ファランクス&br;連続攻撃||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/ProtoGattenga.jpg,nolink,100x100);|プロトガッテンガー|98||%%5800/5700%%&br;9800/8700|無|NonActive|マイマイ遺跡|黒色火薬(PT)&br;ケセランパサラン(PT)&br;バッテリー(PT)&br;ロボットアーム&br;壊れたピボット|超電磁波&br;ディレイキャンセル&br;ショックウェーブ&br;ガッテンガーミサイル！&br;ガッテンガーミサイル一斉発射！||
+
+***Lv101～110 [#n4b5c37a]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MotherDrago.jpg,nolink,100x100);|マザードラゴ|110||68000/73000|無||バオバブの森(曇り)|カッパーメダル&br;カッパーメダル(PT)&br;ドラゴの革(PT)&br;&color(slateblue){金の卵};|バーニングロード&br;猛毒針&br;ノクシャスブラスト&br;ディフェンス・バースト&br;怒&br;ハウリングスクイーザー|BOSS|
+
+***Lv111～ [#c1e8822b]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|MIRROR属性で&br;自キャラ姿で登場|正体不明|120||1/1|無|Active|夢幻|勇気のかけら|オールターフェイト&br;アニマドレイン(※)&br;チャージ(※)&br;エナジーショック&br;スタンブロウ|LV99防具入手イベント用&br;敵が画面に入った時点での自キャラの見た目が反映されます&br;※職によって使用スキルが変化&br;オールターフェイトにより属性変化|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilDragonAnima.jpg,nolink,100x100);|エミルドラゴン・アルマ|250||/|無|Active|終淵||アニマドレイン&br;オールターフェイト&br;オールターゼロ&br;ソーマミラージュ&br;エミルフェザー召喚|BOSS。高M.ATK、高M.DEF&br;99防具を解放するために闘う人型モード&br;繰り出す攻撃がほぼクリティカル&br;オールターフェイトにより属性変化&br;クエスト「終淵に立つ最強の竜 参」|

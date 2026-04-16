@@ -1,0 +1,151 @@
+# Skill/BladeMaster
+
+[[ソードマン >Skill/SwordMan]]([[詳細>Skill/SwordMan/Explanation]])/ ''ブレイドマスター'' ([[詳細>Skill/BladeMaster/Explanation]])/[[ バウンティーハンター >Skill/Bountyhunter]]([[詳細>Skill/Bountyhunter/Explanation]])/[[ グラディエイター >Skill/Gladiator]]([[詳細>Skill/Gladiator/Explanation]])
+* ブレイドマスター [#Top]
+#contents
+
+→''&size(20){[[スキル詳細>./Explanation]]};''
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ソードマンの[[''外部スレッド''>Skill/SwordMan#p81644f8]]を参照
+
+**特徴 [#pac089f5]
+-''ブレイドマスター（エキスパートジョブ）''
+ソードマンのクラスアップ
+-近接戦闘を極めたブレイドマスターは、前衛で''&color(RED){爆発的な攻撃力};''を誇ります。
+-盾を捨て、両手剣にすべてをかけることで、さらに能力を発揮します。
+''以上公式説明''
+-二次職中最高のSTR補正を持ちます。（バウンティーハンターは2位のSTR補正)
+-前衛職に必要と思われるDEX、VIT、AGIも満遍なく伸び、ステータス補正においては他F系と比較して優秀です。
+-''HP係数：3.05''、''MP係数：1.25''、''SP係数：1.75''
+
+-[[新ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/BladeMaster2.jpg]]
+-[[旧ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/BladeMaster.jpg]]
+
+***ソードマン系職相関表 [#o35242b4]
+
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ソードマン>Skill/SwordMan]]|⇒|ブレイドマスター|⇔|[[バウンティーハンター>Skill/Bountyhunter]]|⇒|[[グラディエイター>Skill/Gladiator]]|
+
+** ブレイドマスターに転職するには [#u042195a]
+　１．アップタウンにあるギルド元宮2F「ソードマンマスター」に転職を申し込む。
+　　　・条件　''JobLv30以上、かつSTR30以上。(Job、装備補正込み)''&br;
+　２．アイアンサウス下層の酒屋にいる「ミヤギ」に話を聞く。&br;
+　３．「[[ブラックビネガー>http://eco.acronia.net/itemdb/#id=2189]]」(「[[南国ペペン>MobBird#Pepen]]」ドロップ)を持ってもう一度「ミヤギ」に話を聞く。&br;
+　４．討伐クエストを受ける。[[ラバープルル>MobRock#RubberPururu]]5体、[[ギーゴ>MobBird#Thunderbird]]3体。COLOR(red):制限時間が10分、かつ場所が「鉄火山」であることに注意。''クエスト数1消費。''(報告はどこでもよい)&br;
+　５．クエストアイテム「認定書」を受け取り、「ソードマンマスター」に報告。確認の後転職可能。
+
+** ブレイドマスターに転職する際のJobLvについて [#y82ef14e]
+-現在、一次職のスキルポイントはNPCクエストで徐々に増えていっている。
+とはいえ、悔いを残したくないのであれば、''&color(RED){JobLv50転職をオススメしたい。};''
+-また、ここに記載されている内容は全て''&color(red){あくまでも1つの例};''である。
+この通りでないといけないという訳ではなく、事実殆どの人が自分なりの転職をしている。
+スキルの取り方はその人の個性の現れ。是非自分の最も満足いくスタイルを見出していただきたい。
+-''下記は2012/8/23のスキル大幅調整前の旧・取得例です。''
+''3次スキルはまだまだ調整不足な物も多く、あまりに強力すぎて職間格差やデュアルジョブステムにまで影響を与えてしまっているスキル、''
+''3次スキルとしては効果が微妙なスキルが数多く存在しますが、''
+''1次、2次スキルは一部を除いてバランスが取れてきたため、効果や評価を参考に自分で決めるのもいいでしょう。''
+
+//リンク切れだったのでコメントアウト。
+//---スキル習得の参考にどうぞ⇒''[[スキル計算機>http://ecotee.hp.infoseek.co.jp/skill/?wiki]]''
+
+剣を使う場合についての参考例）
+&color(red){※全一次職スキルポイント習得イベントを終えたものとする};（2009/7/8現在21P）
+
+-必須スキル
+[[最大HP上昇>Skill/SwordMan/Explanation#n163056f]]5 [[ソードマスタリー>Skill/SwordMan/Explanation#pe4ad457]]5 [[剣命中率上昇>Skill/SwordMan/Explanation#n09347a4]]5 [[スタンブロウ>Skill/SwordMan/Explanation#c180d595]]5 [[ソードディレイキャンセル>Skill/SwordMan/Explanation#rd5b89b5]]3
+（[[最大SP上昇>Skill/SwordMan/Explanation#wd28207e]]4～5 [[HP回復率上昇>Skill/SwordMan/Explanation#x8ad14d9]]1 [[SP回復率上昇>Skill/SwordMan/Explanation#cb2b5ec1]]1）
+
+--ジョブLv32転職（SDC習得可能Lv）
+　対人・高回避敵用の[[コンセントレート>Skill/SwordMan/Explanation#i130379e]]を5までとるか、HP・SP回復率上昇をMAXレベルまで取るか、
+[[居合い>Skill/SwordMan/Explanation#s5b95493]]等の単体攻撃スキルをMAXまで取るかが焦点となる。
+早い時期での転職のため、多少高いレベルの狩場でソロが可能になる。（HPの急激な上昇により）
+ブレイドマスターには[[旋風剣>Skill/BladeMaster/Explanation#odb9e44b]]があるので、居合いを取らず、残りの二つから選ぶ方が無難か。
+正直なところ、スキルポイントが勿体無さすぎる32転職はあまりお勧めしない。
+
+--ジョブLv35転職（[[居合い2段>Skill/SwordMan/Explanation#q57e7057]]習得可能Lv）
+　ブレイドマスターは居合い1・2段の後に連携するスキルが有るため、
+消費と威力に優れ発動も遅くない1段目を習得する意味は大きい。
+HP回復率上昇とSP回復率上昇を5にし2段のみMAXにするか、
+居合い1・2段を5にして回復率上昇を1で止めるかの二択。
+
+--ジョブLv42転職
+　35転職のスキルに加え、新たにもう一つスキルをMAXにすることができる。
+対人で威力を発揮するコンセントレートが最有力候補か。
+
+--ジョブLv50転職
+　[[居合い3段>Skill/SwordMan/Explanation#vfaaf54a]]が欲しいか、やらないかで分かれる。
+ここまで育てるのは歴戦のソードマンだと思うので、スキルに関しては何もいえません…。
+
+**&aname(skill); スキル早見表 [#ufa96982]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){”[[''ブレイドマスター・スキル考察''>./Explanation]]”};
+#include(./Table,notitle)
+
+**JOBLVによるステータス補正 [#z97e1e58]
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~jobLv|~STR|~DEX|~INT|~VIT|~AGI|~MAG|~jobLv|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|~1|9|7|1|6|6|0|~26|16|13|2|11|11|1|
+|~2|9|7|1|6|6|0|~27|''&color(red){17};''|13|2|11|11|1|
+|~3|9|7|1|6|6|0|~28|17|13|2|11|11|1|
+|~4|''&color(red){10};''|''&color(red){8};''|1|6|6|0|~29|17|''&color(red){14};''|2|11|11|1|
+|~5|10|8|1|''&color(red){7};''|''&color(red){7};''|0|~30|''&color(red){18};''|14|2|''&color(red){12};''|''&color(red){12};''|1|
+|~6|10|8|1|7|7|0|~31|18|14|2|12|12|1|
+|~7|''&color(red){11};''|8|1|7|7|0|~32|18|14|2|12|12|1|
+|~8|11|''&color(red){9};''|1|7|7|0|~33|18|''&color(red){15};''|2|12|12|1|
+|~9|11|9|1|7|7|0|~34|''&color(red){19};''|15|2|12|12|1|
+|~10|''&color(red){12};''|9|1|''&color(red){8};''|''&color(red){8};''|0|~35|19|15|2|''&color(red){13};''|''&color(red){13};''|1|
+|~11|12|9|1|8|8|0|~36|19|15|2|13|13|1|
+|~12|12|''&color(red){10};''|1|8|8|0|~37|''&color(red){20};''|''&color(red){16};''|2|13|13|1|
+|~13|12|10|1|8|8|0|~38|20|16|2|13|13|1|
+|~14|''&color(red){13};''|10|1|8|8|0|~39|20|16|2|13|13|1|
+|~15|13|10|1|''&color(red){9};''|''&color(red){9};''|0|~40|''&color(red){21};''|16|2|''&color(red){14};''|''&color(red){14};''|1|
+|~16|13|''&color(red){11};''|1|9|9|0|~41|21|''&color(red){17};''|2|14|14|1|
+|~17|''&color(red){14};''|11|1|9|9|0|~42|21|17|2|14|14|1|
+|~18|14|11|1|9|9|0|~43|21|17|2|14|14|1|
+|~19|14|11|1|9|9|0|~44|''&color(red){22};''|17|2|14|14|1|
+|~20|''&color(red){15};''|''&color(red){12};''|''&color(red){2};''|''&color(red){10};''|''&color(red){10};''|''&color(red){1};''|~45|22|''&color(red){18};''|''&color(red){3};''|''&color(red){15};''|''&color(red){15};''|1|
+|~21|15|12|2|10|10|1|~46|22|18|3|15|15|1|
+|~22|15|12|2|10|10|1|~47|''&color(red){23};''|18|3|15|15|1|
+|~23|15|12|2|10|10|1|~48|23|18|3|15|15|1|
+|~24|''&color(red){16};''|12|2|10|10|1|~49|23|18|3|15|15|1|
+|~25|16|''&color(red){13};''|2|''&color(red){11};''|''&color(red){11};''|1|~50|''&color(red){24};''|''&color(red){19};''|3|''&color(red){16};''|''&color(red){16};''|1|
+|~jobLv|~STR|~DEX|~INT|~VIT|~AGI|~MAG|~jobLv|~STR|~DEX|~INT|~VIT|~AGI|~MAG|f
+
+-補正率は[[ステータス>Status#jobrev]]を参照
+
+//CENTER:補正値＝FLOOR((JobLV+30) * 補正率)
+//CENTER:補正率一覧（暫定:06/08/31）
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~STR|30%|~DEX|24%|~INT|4%|
+//|~VIT|20%|~AGI|20%|~MAG|2%|
+
+
+**種族一覧表　[#abcc1234]
+・2009/5/19現在
+・ボス、インスタンスダンジョン内モンスター、スキルを覚える時点では会う事が出来ない敵([[ビーの巣穴>Dungeon/BeeNest]]の敵等)は除外してます
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|''種族(技)''|''mob''|||||~''&color(black){種族総計};''|h
+|~昆虫&br;(兜割り)|[[蜘蛛系>MobInsect#Kumo]] 6種|[[クローラー系>MobInsect#Crawler]] 7種|[[ビー系>MobInsect#KillerBee]] 5種|[[バタフライ系>MobInsect#batafurai]] 3種|[[ヤドスラッグ系>MobInsect#clam]] 3種|~''&color(red){計24種};''|
+|~植物&br;(巨木断ち)|[[プルル系>MobPlant#Pururu]] 14種|[[ローパー系>MobPlant#Roper]] 3種|[[マンドラニンジン系>MobPlant#Mandora]] 1種|[[エスカルゴ系>MobPlant#Escargot]] 1種|[[マリュス系>MobPlant#Malus]] 2種|~''&color(green){計24種};''|
+|~|[[ドリアード系>MobPlant#purant]] 3種|||||~|
+|~水中生物&br;(隼の太刀)|[[インスマウス系>MobUnderwater#Innsmouth]] 2種|[[サラマンドラ系>MobUnderwater#Salamandra]] 1種|[[フィッシュ系>MobUnderwater#Fish]] 5種|[[シーサーペント系>MobUnderwater#Seaserpent]] 1種|[[シーホース系>MobUnderwater#Seahorse]] 2種|~''&color(blue){計13種};''|
+|~|[[ジェル系>MobUnderwater#Gel]] 2種|||||~|
+|~鳥&br;(霞斬り)|[[キメラ系>MobBird#Chimera]] 3種|[[コッコー系>MobBird#Kokko]] 8種|[[サンダーバード系>MobBird#Thunderbird]] 5種|[[ドラッキー系>MobBird#Dracky]] 4種|[[ペペン系>MobBird#Pepen]] 3種|~''&color(teal){計26種};''|
+|~|[[ホムラ系>MobBird#Homura]] 1種|[[ハーピー系>MobBird#Ha-Pi-]] 2種||||~|
+|~動物&br;(アギト砕き)|[[アーチン系>MobAnimal#A-chin]] 9種|[[ウィリー･ドゥ系>MobAnimal#WiliDu]] 5種|[[ゲッコ系>MobAnimal#Gekko]] 4種|[[ゼレブ系>MobAnimal#Zerebu]] 5種|[[バウ系>MobAnimal#Bow]] 3種|~''&color(maroon){計51種};''|
+|~|[[ベア系>MobAnimal#Bear]] 8種|[[モーモー系>MobAnimal#Mo-Mo-]] 1種|[[ローキー系>MobAnimal#Lowkey]] 5種|[[ボア系>MobAnimal#Boar]] 4種|[[ドラゴ系>MobAnimal#Drago]] 1種|~|
+|~|[[バルル系>MobAnimal#Baruru]] 1種|[[バクバク系>MobAnimal#bakbak]] 3種|[[スキンク系>MobAnimal#Sukinku]] 2種|||~|
+|~飛行&br;(燕返し)|[[サンダーバード系>MobBird#Thunderbird]] 5種|[[ドラッキー系>MobBird#Dracky]] 4種|[[ビー系>MobInsect#KillerBee]] 5種|[[ベリル系>MobMagic#Beryl]] 6種|[[ゴースト系>MobMagic#Ghost]] 3種|~''&color(olive){計52種};''|
+|~|[[スペクター系>MobGhost#Spectre]] 3種|[[ハーピー系>MobBird#Ha-Pi-]] 2種|[[フェザー系>MobMagic#Feather]] 4種|[[ウィスプ系>MobMagic#Wisp]] 6種|[[リビングアーマー系>MobGhost#LivingArmor]] 3種|~|
+|~|[[デス系>MobGhost#Death]] 2種|[[ホムラ系>MobBird#Homura]] 1種|[[ニンフ系>MobSpirit#Nymph]] 3種|[[フィッシュ系>MobUnderwater#Fish]] 5種||~|
+
+　　
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#p6af7878]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/SwordMan#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらにお願いします。
+
+#pcomment

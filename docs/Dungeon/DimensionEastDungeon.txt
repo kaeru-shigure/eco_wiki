@@ -1,0 +1,97 @@
+# Dungeon/DimensionEastDungeon
+
+*ディメンションイーストダンジョン [#dede0024]
+
+-適正Lv：102～105
+
+-[[ダンジョン>Dungeon]]
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+
+#contents
+
+**ディメンション原初の森 [#ua5a4a19]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionEastDungeon/DimensionPrimitiveForest.jpg,nolink,ディメンション原初の森);
+-隣接マップ：[[ファーイーストシティ>Quest/Fareast#fareastcity]]、ディメンション毒の湿原
+-属性：全属性、地+水（南東）
+
+-出現モンスター
+--[[D-コッカラス>MobDimension#EastDungeon]]（アクティブ）
+　(Lv102/水)[HP:40000?][17500/19000]
+--[[D-スタートラー>MobDimension#EastDungeon]]（アクティブ）
+　(Lv102/水)[HP:40000?][18000/18500]
+--[[D-ウメボア>MobDimension#EastDungeon]]（アクティブ）
+　(Lv103/土)[HP:40000?][24000/25000]
+--[[D-アルトゲッコ>MobDimension#EastDungeon]]（アクティブ）
+　(Lv103/水)[HP:40000?][22000/23500]
+--[[D-フューリー>MobDimension#EastDungeon]]（アクティブ）
+　(Lv104/闇)[HP:40000?][26000/28000]
+--[[ディメンションロック>MobDimension#EastDungeon]]（アクティブ、リンク、BOSS）
+　(Lv105/土)[HP:31000?][32500/32500]
+--[[ディメンションツリー>MobDimension#EastDungeon]]（アクティブ、BOSS）
+　(Lv105/光)[HP:33000?][37500/37500]
+
+-自然物
+
+**ディメンション毒の湿原 [#xc5cfe5b]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionEastDungeon/DimensionPoisonedSwamp.jpg,nolink,ディメンション毒の湿原);
+-隣接マップ：ディメンション原初の森、ディメンションイーストダンジョン
+-属性：全属性、地（毒の沼地）
+
+-出現モンスター
+--[[D-ウメボア>MobDimension#EastDungeon]]（アクティブ）
+　(Lv103/土)[HP:40000?][24000/25000]
+--[[D-ナイトストーク>MobDimension#EastDungeon]]（アクティブ）
+　(Lv105/風)[HP:?][42500/41000]
+--[[D-カースフェザー>MobDimension#EastDungeon]]（アクティブ）
+　(Lv105/闇)[HP:?][34000/33000]
+--[[ディメンションロック>MobDimension#EastDungeon]]（アクティブ、リンク、BOSS）
+　(Lv105/土)[HP:31000?][32500/32500]
+--[[ディメンションツリー>MobDimension#EastDungeon]]（アクティブ、BOSS）
+　(Lv105/光)[HP:33000?][37500/37500]
+--[[D-アラウネ>MobDimension#EastDungeon]]（アクティブ）
+　(Lv106/土)[HP:?][40500/43000]
+--[[D-エルダーゲッコ>MobDimension#EastDungeon]]（アクティブ）
+　(Lv106/水)[HP:?][40000/40000]
+--[[D-エンシェントキャスター>MobDimension#EastDungeon]]（アクティブ）
+　(Lv106/闇)[HP:45000][47000/49000]
+
+-自然物
+
+**ディメンションイーストダンジョン [#j60c975a]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionEastDungeon/DimensionEasternDungeon.jpg,nolink,ディメンションイーストダンジョン);
+-隣接マップ：ディメンション毒の湿原
+-属性：全属性、地+水（中央の小島）
+
+-出現モンスター
+--[[D-ウメボア>MobDimension#EastDungeon]]（アクティブ）
+　(Lv103/土)[HP:40000?][24000/25000]
+--[[D-アルトゲッコ>MobDimension#EastDungeon]]（アクティブ）
+　(Lv103/水)[HP:40000?][22000/23500]
+--[[D-カースフェザー>MobDimension#EastDungeon]]（アクティブ）
+　(Lv105/闇)[HP:?][34000/33000]
+--[[ディメンションロック>MobDimension#EastDungeon]]（アクティブ、リンク、BOSS）
+　(Lv105/土)[HP:31000?][32500/32500]
+--[[ディメンションツリー>MobDimension#EastDungeon]]（アクティブ、BOSS）
+　(Lv105/光)[HP:33000?][37500/37500]
+--[[D-アラウネ>MobDimension#EastDungeon]]（アクティブ）
+　(Lv106/土)[HP:?][40500/43000]
+--[[D-エルダーゲッコ>MobDimension#EastDungeon]]（アクティブ）
+　(Lv106/水)[HP:?][40000/40000]
+--[[D-エンシェントキャスター>MobDimension#EastDungeon]]（アクティブ）
+　(Lv106/闇)[HP:45000][47000/49000]
+--[[D-ベイヤール>MobDimension#EastDungeon]]（アクティブ）
+　(Lv107/闇)[HP:?][53000/55000]
+--[[D-魔狼>MobDimension#EastDungeon]]（アクティブ）
+　(Lv109/闇)[HP:?][68000/67000]
+--[[ラタトスク>MobDimension#EastDungeon]]（アクティブ、BOSS）
+　(Lv111/光)[HP:?][150000/150000]
+--[[ヴィゾーフニル>MobDimension#EastDungeon]]（アクティブ、BOSS）
+　(Lv115/風＋光)[HP:200000?][?/?]
+--[[フレースヴェルグ>MobDimension#EastDungeon]]（アクティブ、BOSS、取り巻き：ヴィゾーフニル）
+　(Lv120/風)[HP:5000000?][?/?]
+
+-自然物
+
+**コメント欄 [#icebcec9]
+#pcomment

@@ -1,0 +1,1097 @@
+# PartnerList/Ride
+
+#author("2023-12-13T16:37:13+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （ライドパートナー） [#y7d2e06b]
+#contents
+
+--パラメーターは、レイアウトの関係で英語表記としています。
+---パラメーターの表示順序はゲーム内の説明と同じです。
+//---初期パラメーターのうち、&color(#a0a0a0){''灰色で表示''};されたものは旧隠しステータスであり、数値が不正確である場合があります。確定したもののみ黒で表示に戻してください。
+---転生パラメーターのうち、&color(#a0a0a0){''灰色の値''};（M.RCV・S.RCV）は信頼度換算の際、上限(300)に達していたため信頼度黒での数値が算出できませんでした。確定したものは黒で表示に戻してください。
+--13/12/26より飛空庭に設置が可能になりました。設置後右クリックでポーズを変えることができます。
+設置したライドパートナーに騎乗することができます。
+--14/07/24に「ペット」から「パートナー」にカテゴリ名が変更されました。
+プレイヤー間では未だペットと呼ぶ人も少なくないが、総じて「パートナー」の事を指します。
+--ライドパートナーにチェンジ可能なアルマモンスター系については[[パートナー一覧表 （アルマ・モンスター）>PartnerList/Almamonster]]を参照。
+--入手先は[[びっくりアイテムＢＯＸ>ECOShop#BikkuriItemBox]]1等のパートナー引き換え券を省略しています。
+各種キャンペーンについては任意に記載されます。
+
+--ライドパートナーは、スキル自体が原則として存在せず、操作も全てプレイヤー自身に委ねられます。
+//そのため、ライドパートナーのページではスキル表は非記載とします（ライドクローラーの擬態化など、何かしら特別な効果がある場合は詳細の備考に記載）。
+
+**ライドパートナー [#xbf16ef7]
+
+***ライドクローラー [#q42355cd]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/RideClawler.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv1&br;信頼度&br;&br;170&br;13&br;14&br;12&br;12&br;12&br;8&br;&br;10&br;20&br;25&br;17&br;3&br;3&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15250&br;715&br;766&br;698&br;878&br;248&br;232&br;&br;410&br;20&br;405&br;17&br;81&br;78&br;400&br;390&br;&br;RCV|【説明】&br;移動速度は、プチクローラー時代の育成量に応じます[[（速度検証）>Partner#ka8f1700]]。&br;ステータスもプチクローラー時代のを引継ぎ、更に転生回数１から始まります。&br;&br;攻撃タイプ：叩き&br;PAYL/CAPA +120&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【パッシブスキル】&br;擬似態 &br;移動以外の行動をしなければアクティブモンスターに狙われなくなる。&br;ダンジョンでは無効。BOSSに無効。&br;&br;【入手法】&br;[[ファーイーストイベント参照>Quest/Fareast#ride_crawler]]|
+
+***ファイアードラゴ [#k67fd6b4]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/FireDorago.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;ドラゴンの騎乗パートナー&br;フィールドではブルードラゴより速い&br;モーションディレイが長い&br;&br;攻撃タイプ：斬り&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;１：ペペン、プルーンが稀にドロップする。&br;２：[[ドラゴ入手イベント参照>Event/Others#wef43354]]|
+
+***ブルードラゴ [#red35e00]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/BlueDorago.jpg,nolink,128x138);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;ドラゴンの騎乗パートナー&br;フィールドではファイアードラゴより遅く、&br;ダンジョンではファイアードラゴより速い&br;モーションディレイが長い&br;&br;攻撃タイプ：斬り&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【パッシブスキル】&br;[[ケイブギャロップ>Skill/Special#t08ba9e3]]&br;ダンジョンで速度アップ&br;&br;【入手法】&br;１：サイクロプス、オーガが稀にドロップする。&br;２：[[ドラゴ入手イベント参照>Event/Others#wef43354]]|
+
+***ダークドラゴ [#b277e50f]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/DarkDorago.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;ドラゴンの騎乗パートナー&br;フィールドではブルードラゴより速い&br;&br;モーションディレイが長い&br;&br;攻撃タイプ：斬り&br;&br;【固有命令スキル習得職業】&br;ブリーダー&br;【適用される能力上乗せスキル】&br;？&br;&br;【装備条件】&br;パッシブスキル「[[手綱>Skill/Breeder#wf54bb4d]]」の習得(ブリーダーLv13習得)&br;&br;【スキル】&br;[[プロミネンス>Skill/Special#x9b4e602]]&br;&br;【入手法】&br;[[ブリーダ参照>Skill/Breeder#o0b10bea]]&br;&br;【備考】&br;ブリーダー専用の騎乗パートナー|
+
+***探索用エレキテル・※ [#ElekitelLab]
+ライドパートナー扱いの特殊アイテム
+「エレキテルラボ」の「[[探索用エレキテル>Quest/ElekitelLab#x6990180]]」を参照
+
+***２足歩行ロボ [#a35e2045]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~基本|~強化値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Machinely.jpg,nolink,128x128);&br;&br;&ref(http://eco.acronia.net/img/wiki/PetList/Ride/KyoukaGaisou.jpg,nolink,240x240);&br;[[強化外装>Skill/Machinery#k25f5f23]]|HP&br;ATK&br;-&br;M.ATK&br;-&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.HIT&br;L.HIT&br;&color(Blue){M.HIT};&br;S.AVOID&br;L.AVOID&br;&color(Blue){M.RST};&br;&color(Blue){CRITICAL};&br;&color(Blue){C.AVOID};&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|2000&br;150&br;-&br;300&br;-&br;50&br;?&br;30&br;?&br;100&br;100&br;100&br;70&br;60&br;50&br;10&br;10&br;250&br;250&br;&br;120&br;1&br;0|+1200&br;+150&br;-&br;+100&br;-&br;+104&br;-&br;+26&br;-&br;+90&br;+60&br;+250&br;+90&br;+55&br;+60&br;+50&br;+20&br;+0&br;+0&br;&br;+100&br;+2&br;+0|&color(Red){''※２足歩行ロボは他のライドパートナーと仕様が異なります''};&br;&color(#ff8000){レベルやランクがなく、経験値では成長しません&br;特殊アイテムを消費して強化を行います。&br;「転生」についても大きく異なります。};&br;詳細は[[こちら>Skill/Machinery#d520cefc]]&br;&br;【説明】&br;マシンナリー専用の騎乗ロボット&br;移動速度はファイアードラゴと同じです。&br;&br;攻撃タイプ：&br;&br;【固有命令スキル習得職業】&br;マシンナリー&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【装備条件】&br;スキル''パイロットマスタリー''が必須&br;&br;【入手法】&br;1.マシンナリーギルドで1,000,000Gで購入&br;2.ロボットのパーツを集め、機械組み立てを行う。&br;[[マシンナリーのページ>Skill/Machinery#jae0714c]]も参照|
+
+***犬ぞり（クリスマス） [#md2f504c]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/InuZoriChristmas.jpg,nolink,128x120);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15470&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;クリスマスバウの犬ぞりが騎乗パートナー化&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「第5弾」1等>Kuji/2006#z51006fd]]&br;エレキテルラボ景品(07/12/21～08/02/08)|
+
+***勝利のボール [#q1691ce3]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/winningball.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;100&br;15&br;16&br;12&br;12&br;12&br;8&br;&br;10&br;20&br;25&br;17&br;3&br;3&br;105&br;120&br;&br;120|110&br;黒&br;&br;14160&br;778&br;839&br;752&br;872&br;299&br;248&br;&br;310&br;20&br;355&br;17&br;73&br;73&br;220&br;180&br;&br;RCV|【説明】&br;古の民に伝わる太陽を象ったボール&br;輝かしい未来を呼び込むと伝えられる。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;季節イベント「ECOでGet a GOAL 2010」の景品|
+
+***ケット・シー　（通常パートナー←→騎乗パートナー） [#CaitSith]
+-[[パートナー一覧表 （通常パートナー）>PartnerList/Normal#CaitSith]]を参照
+
+***ティラ [#tyra]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/tyra.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;300|【説明】&br;PARTNER装備&br;パズル＆ドラゴンズのティラ&br;「ガル？ ガルル、ガルガル♪」&br;背中に乗れと言っている気がする&br;&br;移動速度はフィールドでのブルードラゴと同程度&br;&br;攻撃タイプ：斬り&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;コラボイベント「EMIL & DRAGONS」以降、タイニーアイランドにいる「ティラ」に話しかける。|
+
+***ワームドラゴン [#t6b1e48d]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/worm_dragon.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;騎乗できるワームドラゴン&br;物は積めないが飛行速度には&br;定評がある&br;&br;攻撃タイプ：斬り&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;ドラゴンライダーが稀にワームドラゴンの卵をドロップする。&br;卵を軍艦島のやり手の商人に孵してもらうことで入手できる。&br;ただし[[''ライドパートナードラゴ入手''>Event/Others#wef43354]]を進めている必要がある。|
+
+***ウィッカ・グレイル [#Wicca_Grail]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Wicca_Grail.jpg,nolink,128x123);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(1%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;105&br;130&br;&br;RCV|110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;287&br;420&br;&br;RCV|【説明】&br;魔女の聖杯とも呼ばれる魔導器&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;マエストロ？&br;&br;【入手法】&br;ウィッカ・アラディア、ウィッカ・アラディア・シャドーがドロップ。|
+
+***カッカラン [#af8bf176]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Kakkaran.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;280&br;45&br;46&br;40&br;40&br;40&br;21&br;&br;34&br;23&br;15&br;10&br;28&br;15&br;150&br;130&br;&br;120|110&br;黒&br;&br;15559&br;881&br;942&br;810&br;990&br;360&br;266&br;&br;434&br;23&br;385&br;10&br;168&br;115&br;410&br;420&br;&br;RCV|【説明】&br;砂漠に住むつぶらな瞳の顔と&br;鳥のような胴体を持つ動物&br;あんまり足は速くない&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;モンスタードロップ ([[サンドワーム>http://eco.acronia.net/mobdb/#id=1357]](昼夜ともにドロップ有))|
+
+***ホワイトカッカラン [#WhiteKakkaran]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;黒&br;&br;330&br;50&br;51&br;43&br;43&br;42&br;22&br;&br;37&br;26&br;18&br;12&br;29&br;16&br;160&br;130&br;&br;120|Lv&br;黒&br;&br;15830&br;899&br;957&br;823&br;1003&br;367&br;267&br;&br;437&br;26&br;388&br;12&br;184&br;121&br;420&br;430&br;&br;120|【説明】&br;ライドパートナー装備&br;普通のカッカランと色の違う&br;突然変異の白いカッカラン&br;個体数が少なく、足が速い&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;モンスタードロップ ([[微睡のジノ>http://eco.acronia.net/mobdb/#id=1540]])|
+
+***弁天丸 [#bentenmaru]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/bentenmaru.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;500&br;40&br;41&br;40&br;40&br;45&br;40&br;&br;30&br;20&br;30&br;20&br;30&br;30&br;150&br;130&br;&br;120|110&br;黒&br;&br;15200&br;870&br;931&br;870&br;1010&br;375&br;370&br;&br;435&br;20&br;400&br;20&br;150&br;150&br;410&br;420&br;&br;RCV|【説明】&br;「劇場版モーレツ宇宙海賊」とのコラボレーション記念アイテム&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;コラボイベント「ECO×モーレツ宇宙海賊」モーレツコラボ第3弾&br;(14/03/27～14/04/24)|
+
+***刻印の宝玉 [#Jewelofengraved]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;35&br;36&br;50&br;50&br;30&br;25&br;&br;37&br;20&br;18&br;25&br;28&br;15&br;100&br;150&br;&br;RCV|110&br;黒&br;&br;15270&br;810&br;871&br;865&br;1045&br;340&br;273&br;&br;427&br;20&br;413&br;25&br;172&br;120&br;360&br;520&br;&br;RCV|【説明】&br;海神ダゴンの乗りし&br;浮遊する宝玉&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【パッシブスキル】&br;[[ケイブギャロップ>Skill/Special#t08ba9e3]]&br;ダンジョンで速度アップ&br;&br;【入手法】&br;アイテム精製Lv3（ダゴンの水:1＋刻印の玉:1）|
+
+***ドリアードの球根 [#Dryad]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv1&br;信頼度&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ハーヴェストマスター&br;&br;【入手法】&br;パートナープロテクトBOXよりランダム|
+
+***フィーラープラントの球根 [#feelerPlant]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/feelerplant.jpg,nolink,170x170);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv1&br;信頼度&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ハーヴェストマスター&br;&br;【入手法】&br;パートナープロテクトBOXよりランダム|
+
+***アルセイドの球根 [#Aruseido]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv1&br;信頼度&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ハーヴェストマスター&br;&br;【入手法】&br;パートナープロテクトBOXよりランダム|
+
+***アルルーンの球根 [#Arurun]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv1&br;信頼度&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv110&br;黒&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ハーヴェストマスター&br;&br;【入手法】&br;パートナープロテクトBOXよりランダム|
+
+***アルビノドリアードの球根 [#AlbinoDryad]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/arubinodoria-do.jpg,nolink,150x150);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;340&br;295&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;300|【説明】&br;突然変異したドリアードの根っこの部分&br;発芽すると動き出すのだが&br;発芽していない状態で乗ると球根が勘違いして動いてくれる&br;どちらが本体なのかは永遠の謎である&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;ストライダー・ハーヴェストマスター&br;&br;【入手法】&br;運試しガチャ|
+
+***空飛ぶじゅうたん（１０ｔｈ） [#pe6d293b]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;ライチーが操縦してくれるかわいい空飛ぶじゅうたん&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[アニバーサリーＢＯＸ>Quest/Season/Anniversaryevent2015#anivbox10]]|
+
+***タイニーホッピング[#PartnerName]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]];|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;20&br;18&br;15&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15750&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;20&br;390&br;15&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;ライドパートナー装備&br;タイニーのモチーフが可愛い&br;懐かしのホッピング&br;みんつく２０１６第2回&br;投稿者：にばん&br;&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;ECOショップ（無料）|
+
+**ライドパートナー(ネットカフェ、課金アイテム) [#qdaacb6f]
+***機関車タイニー [#vfcb7266]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/TinyKikansha.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;15720&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;410&br;26&br;390&br;10&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;子ども用機関車&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECO1周年記念パッケージ「アニバ！BOX」>Package#s6e2bf77]](期限：2008年12月)|
+
+***機関車ダンプティー [#x7800f81]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KikanshaDampty.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;子ども用機関車&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[イーフロストアのECO1周年記念パッケージ「アニバ！BOX」>Package#s6e2bf77]](期限：2008年12月)|
+
+***空飛ぶじゅうたん [#r3538db9]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuJuutan.jpg,nolink,128x120);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;シナモンが運転する「空とぶじゅうたん」&br;(ドミニオン♀でも正座をする)&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第6弾」1等>Kuji/2007#m80e4541]]|
+
+***空飛ぶじゅうたん（桜） [#g1c956ec]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuJuutanSakura.jpg,nolink,128x122);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;ウィリー・ドゥが運転する桜色のじゅうたん。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「春☆スペシャル」1等>Kuji/2008#fd14a2d4]]|
+
+***空飛ぶコウモリ傘 [#b73e7128]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuKoumoriGasa.jpg,nolink,128x120);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;152&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;140&br;1&br;90&br;1&br;190&br;190&br;410&br;420&br;&br;RCV|【説明】&br;つかまってふわふわと飛べるコウモリ傘。&br;&br;攻撃タイプ：&br;&color(#ff8000){最大ごきげん度：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第7弾」1等>Kuji/2007#l1609e0a]]&br;[[ECOくじ「初夏☆スペシャル」1等>Kuji/2008#akis9873]]&br;[[復刻・ECOくじ第7弾 雨のち晴れ」1等>Kuji/2010#b037523e]]&br;&br;ブースト点火時と等速&br;※旧仕様ではパパと等速だったが、&br;PC移動速度上昇に伴い相対的に移動速度が低下|
+
+***空飛ぶコウモリ傘（ピンク） [#j51433d0]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuKoumoriGasaPink.jpg,nolink,128x147);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;1&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;1&br;18&br;1&br;40&br;40&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「アニバ☆スペシャル！」1等>Kuji/2007#c14adc54]]|
+
+***空飛ぶコウモリ傘（赤） [#v2e610b4]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/SoraTobuKoumoriGasaAka.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;1&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;1&br;18&br;1&br;40&br;40&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECO祭2009>Package#wc533eca]](期限：2010年12月)|
+
+***空飛ぶコウモリ傘（白） [#KasaSiro]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/SoraTobuKoumoriGasaSiro.jpg,nolink,124x148);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;1&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;1&br;18&br;1&br;40&br;40&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;152&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;140&br;1&br;90&br;1&br;190&br;190&br;410&br;420&br;&br;300|【説明】&br;ライドパートナー装備&br;どんな所でもひとっ飛び！？&br;とは行かない空飛ぶ傘&br;&br;攻撃タイプ：突き&br;&color(#ff8000){最大ごきげん度：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECO祭2010>Package#gc5079c2]](期限：2011年4月)|
+
+***たんぽぽの綿毛 [#a57e9e0a]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/watage.JPG,nolink,128x137);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;1&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;1&br;18&br;1&br;40&br;40&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;妖精気分が味わえる&br;巨大なたんぽぽの綿毛&br;&br;攻撃タイプ：&br;&color(#ff8000){最大ごきげん度：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「さんぽ日和」1等>Kuji/2010#SanpoBiyori]]|
+
+***人力車（金のインスマウス） [#d0425ecb]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Jinrikisha.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;金のインスマウスが引く「人力車」&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECO公認ネットカフェ アイテムゲットキャンペーン3>Package#bec78a4c]]特賞(30名限定)&br;宝箱15(期間限定)&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***風船ブランコ [#fb1335ee]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/FuusenBuranko.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;いくつもの風船が支えてくれる華やかなブランコ。&br;&br;攻撃タイプ：&br;&color(#ff8000){最大ごきげん度：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第8弾」1等>Kuji/2007#o7bbac06]]&br;[[ECOくじ「新春ベスト」1等>Kuji/2009#obae3744]]&br;&br;フィールドでのファイアードラゴと等速|
+
+***コウモリブランコ [#r98fd2eb]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Koumori.png,nolink,128x126);&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/koumori2.png,nolink,128x120);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：突き&br;&color(#ff8000){最大ごきげん度：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「アニバゴージャス」1等>Kuji/2009#anvgorgeous]]&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***スリーピーカー [#ud07e5d9]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SleepyCar.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;150&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;スリーピーの運転する真っ赤な車。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【スキル】&br;「クラクション」を使うことができる。&br;&br;【入手法】&br;[[オリジナルサウンドトラック 第2弾>Package#c4047380]](期限：2010年8月)|
+
+***インス神輿 [#jf4ecbfb]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/InnsMikoshi.jpg,nolink,128x170);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;インスマウス達がかついでくれるお神輿。ある意味神々しい。&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECO公認ネットカフェ夏祭り2007>Package#t26ba9ae]]特賞(50名限定)&br;宝箱15&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***インス神輿(金) [#k12e1120]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/MikoshiKinNoInnsmouth.jpg,nolink,128x127);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;金のインスマウス達がかついでくれるお神輿。輝く姿に神々しさ倍増。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ネットカフェ専用クエスト報酬(宝箱１５)&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***インス神輿(黒) [#InsuMikosiBlack]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/MikoshiKuroNoInnsmouth.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;インス達が担いでくれるお神輿に乗って優雅に移動しよう！&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;宝箱１５&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***インス神輿(レインボー) [#InsuMikosiRainbow]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/MikoshiRainbowNoInnsmouth.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;インス達が担いでくれるお神輿に乗って優雅に移動しよう！&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;宝箱１５&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***インスライダー [#me2de8a4]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/InnsRider.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;マリオネット大運動会、短距離走部門で優勝した&br;インスマウスにのって、世界中を駆け巡ろう！&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECO公認ネットカフェ アイテムゲットキャンペーン5>Package#d7909311]]特賞(100名限定)&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***インスライダー（黒） [#InsuRiderBlack]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/InnsRiderBlack.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;マリオネット大運動会、短距離走部門で優勝した&br;インスマウスにのって、世界中を駆け巡ろう！&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;宝箱１５&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***ゴールドライダー [#v6708333]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/GoldRider.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;ネットカフェ専用クエスト報酬の宝箱15&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***救急わんわん [#nb3cfb33]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KyuukyuuWanWan.jpg,nolink,125x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;レスキュー犬として厳しい訓練を積んだセントバーナード&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[スペシャルBOX2>Package#t8d63639]]&br;（[[お得に冒険！ 30DAYSパック Ver.3>Package#v6958d5b]]で入手）|
+
+***ゴロ付スーツケース [#l65fba41]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/GoroTsukiSuitcase.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;カワイイ妖精付きの騎乗パートナー&br;360度回転の自動キャスター付&br;高性能スーツケース&br;約４万７７ｋｍまで走行可能&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ガンホーゲームズ『パチンコ・パチスロ』景品>Package#pachionly]]&br;宝箱15(期間限定)|
+
+***パンダ [#ad9a6a5a]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Panda.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;愛らしいパンダ&br;ハイハイしてあるく&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[スペシャルBOX3>Package#t8d63ijy]]&br;（[[お得に冒険！ 30DAYSパック Ver.4>Package#j76e31c7]]で入手）|
+
+***パンダ（赤） [#iac3edc4]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「トリップ・オブ・スペクター・トゥ・チャイナ」2等>Kuji/2015#kd403d31]]|
+
+*** 波乗りサーフボード[#surfboard]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NaminoriSurfBoard.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;PARTNER装備&br;陸の上でもサーフィンができる？！&br;真夏の太陽に相応しいサーフボード&br;（早い話がリ○ボード）&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第15弾」1等>Kuji/2008#ks8dj38q]]|
+
+*** 波乗りサーフボード☆[#surfboardStar]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/surfboardStar.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;PARTNER装備&br;陸の上でもサーフィンができる？！&br;真夏の太陽に相応しいサーフボード&br;（説明文は無印と同じ）&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[復刻・ECOくじ第15弾「エンジョイ夏休み☆」1等>Kuji/2010#log_re_summer2010]]&br;&br;重量10.0 容量10.0　ごきげん度30|
+　
+
+***超絶合体エレキテル [#v464272d]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/erekiteru_01.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;ECOi「超絶合体エレキテル」の登場メカ。黄金のカラーリングがなんとも眩しい！&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[ECOくじ「DX」2等>Kuji/2008#f7b4bf48]]|
+
+***暁の白鰐丸 [#dda24cf7]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/eco_003.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;PARTNER装備&br;伝説の空飛ぶ戦艦&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ドラマCD「エミる☆みらくる」Vol.1>Package#ke7a522d]]～3(期限：2012年1月)にて入手する「魔法のコンパス部品」３種を[[伝説の宝箱>Quest/Northern#densetu]]と交換。|
+
+***召喚獣・銀狼 [#iac8b30d]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ginrou.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「西洋ファンタジーロマン」1等>Kuji/2009#fantasyromance]]&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）&br;&br;重量5.0　容量5.0|
+
+***宙飛ぶ南京錠 [#ze4cd9be]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/key.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;宙に浮き、走る謎の巨大南京錠。&br;一説には高名な錬金術師の作と&br;言われているが、詳細は不明。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;ワンタイムパスワード（OTP）付BitCashに付属|
+
+***きらめく流星群 [#fb1335ef]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/MeteorShower.jpg,nolink,121x112);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;星々が足元に集い、光と共に運んでくれる&br;&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「サマーナイトカーニバル」1等>Kuji/2010#log_summernight]]&br;&br;フィールドでのファイアードラゴと等速|
+
+***陽夜子のハングライダー [#t892rbtk]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/hiyoko_no_hangrider.jpg,nolink,127x123);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;陽夜子とお揃いのハングライダー&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ECO×ハローキティといっしょ！」2等>Kuji/2010#log_kitty]]|
+
+***フライング・パンプキン [#s7qir082]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/FlyingPumpkin.jpg,nolink,128x120);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;340&br;295&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;空飛ぶかぼちゃのお化け&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「洋風ハロウィン」1等>Kuji/2010#log_halloween2]]|
+
+***年代物の愛車 [#vintage_bike]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/vintage_bike.jpg,nolink,128x143);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;340&br;295&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;古き良き時代を感じさせるバイク。どこかの探偵も愛用していた!?&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[ECOくじ「怪盗★ハード＆ワイルド」1等>Kuji/2010#log_kaitou]]|
+
+***ロイヤルガードグリフォン [#RoGriffon]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/griffon.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;350&br;45&br;46&br;29&br;29&br;28&br;20&br;&br;45&br;30&br;45&br;32&br;18&br;5&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15200&br;850&br;911&br;789&br;969&br;327&br;240&br;&br;479&br;30&br;370&br;32&br;133&br;140&br;410&br;420&br;&br;RCV|【説明】&br;ラグナロクオンラインの３次職「ロイヤルガード」が騎乗している勇敢なグリフォン。&br;ドラゴより足が速い&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ROコラボパッケージ>http://www.econline.jp/md/dlpack/ecoro.html]]&br;[[2016ダウンロードパッケージ復刻>http://econline.gungho.jp/niconico/econetstore/2016/ecoro2016/]]|
+
+***あけましタイニー [#AkemasiTiny]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/akemashi_tiny.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;乗れる程大きなタイニー&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「あけましアニバ」1等>Kuji/2010#log_aniva]]|
+
+***スノーボード [#SnowBoard]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/snowboard_01.JPG,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;白銀の世界を移動する際にとっても便利な板&br;ドラゴより足が速い&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「粉雪のプレゼント」1等>Kuji/2010#log_powder_snow]]|
+
+***アザラシ [#re4c142a]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/azarasi.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;雪国の移動には欠かせない相棒。&br;寒さに強く滑りにくい。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「雪国アニマルズ」1等>Kuji/2011#log_snowanimals]]|
+
+***魔法のスーツケース [#MahouNoSuitcase]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/suit.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;空を飛ぶ魔法のスーツケース。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「スウィート・ロリポップ」1等>Kuji/2011#log_sweet_lolipop]]|
+
+***忍びの大がま [#ed176a62]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/gama.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;ニンジャの下僕の大ガマガエル&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「くのいち絵巻」1等>Kuji/2011#log_kunoichi]]|
+
+***リビングうさ子 [#LivingUsako]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/living%20usako.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;少し破れた大きなウサギの&br;ぬいぐるみ&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ゴシックパーティー」1等>Kuji/2011#log_gothicparty]]|
+
+***おやすみムーン [#b79b0615]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ドリーミーナイト」1等>Kuji/2011#log_dreamynight]]|
+
+***伝書鳩の自転車 [#n9384826]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「花咲く！アクロニア便り」1等>Kuji/2011#log_flower_bloom]]|
+
+***カップル☆自転車 [#uecb0019]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/CoupleBicycle.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;モーラン・アルマを&br;後ろに乗せた&br;可愛い自転車&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「華やぐ街角のモーラン」2等>Kuji/2015#l02842ed]]|
+
+***おでかけタイニー（抹茶） [#gecadbb1]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/mattya_tiny.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;乗れる程大きなタイニー&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;「タイニーのロールケーキ」購入特典|
+
+***マジカルステッキ [#magical_s]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/magicals.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;1&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;1&br;18&br;1&br;40&br;40&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：突き&br;&color(#ff8000){最大ごきげん度：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECO祭2011>Package#n6a9d11e]](期限：2012年5月)|
+
+***東方青龍 [#ac1460df]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/seiryu_1.jpg,nolink,128x110);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;東方を守護する龍。春の化身ともいわれる&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「花月の桃源郷」1等>Kuji/2012#KagetsuNoTougenkyou]]|
+
+***みやびな牛車 [#tc21d0a8]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/gyuusya_1.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;みやびな雰囲気を漂わせる牛車&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「春色御伽草子」2等>Kuji/2012#HaruiroOtogiZoushi]]&br;[[スペシャルECOくじ「アルマたちとの絆」2等>Kuji/2014#n2948f75]]|
+
+***炎のスケートボード [#jc6ac60f]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/skb.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;炎を出しながら疾走できるスケートボード&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「陰月の“契約者”」2等>Kuji/2012#IngetsuNoKeiyakusya]]|
+
+***肝っ玉母ちゃん [#p8988fe3]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/brr.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;時に厳しく、時に優しく&br;どっしり構えて、大きな愛で&br;導いてくれる&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ノーティ・スクールガールズ」2等>Kuji/2012#NaughtySchoolGirls]]&br;[[スペシャルECOくじ「アルマたちとの絆」2等>Kuji/2014#n2948f75]]|
+
+***ミナヅキの日傘 [#ub1a5323]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/minahigasa.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;「守護魔・ミナヅキ」が&br;愛用している日傘&br;&br;攻撃タイプ：&br;&color(#ff8000){最大ごきげん度大：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「水月の待ち人」2等>Kuji/2012#SuigetsuNoMachibito]]|
+
+***遊泳のガラス球 [#ja4c3275]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/yueiglass.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;1&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;1&br;18&br;1&br;40&br;40&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;海に浮かんでいるような&br;気分になれるガラス球&br;&br;攻撃タイプ：&br;&color(#ff8000){最大ごきげん度：100};&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「涼月の姫君」2等>Kuji/2012#RyougetsuNoHimegimi]]|
+
+***西方白虎 [#k8df7d57]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/byakko.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;500&br;30&br;31&br;30&br;30&br;30&br;30&br;&br;30&br;20&br;25&br;20&br;10&br;10&br;200&br;200&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;西方を守護する白い虎&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「スカーレット・フレイム」2等>Kuji/2012#ScarletFlame]]&br;[[スペシャルECOくじ「アルマたちとの絆」2等>Kuji/2014#n2948f75]]|
+
+***ジャグラー・ドゥ [#k8df7d58]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/juggler2.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;シナモンが突然変異？により&br;大きくなってしまった姿&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「マッド・ティータイム」2等>Kuji/2012#MadTeaTime]]&br;[[スペシャルECOくじ「アルマたちとの絆」2等>Kuji/2014#n2948f75]]|
+
+***黒魔術の箒 [#fd3ad6d6]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/kuromajutu.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;350&br;40&br;41&br;45&br;50&br;35&br;25&br;&br;25&br;25&br;30&br;30&br;20&br;10&br;200&br;200&br;&br;RCV|110&br;黒&br;&br;15040&br;886&br;947&br;824&br;1009&br;364&br;273&br;&br;426&br;25&br;374&br;30&br;164&br;115&br;460&br;490&br;&br;RCV|【説明】&br;黒魔術に用いる怪しげな箒&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;DEF(%)25&br;M.DEF(%)30&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「ウィキッド・ナイトパレード」2等>Kuji/2012#WickedNightParade]]&br;[[スペシャルECOくじ「アルマたちとの絆」2等>Kuji/2014#n2948f75]]|
+
+***カーズド・チェア [#cursed]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/cursed_chair.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;350&br;40&br;41&br;45&br;50&br;35&br;25&br;&br;25&br;25&br;30&br;30&br;20&br;10&br;200&br;200&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;偉くなった気分に浸れる&br;魔法の椅子&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「臘月の守り手」2等>Kuji/2012#RougetuNoMamorite]]|
+
+***コウモリぶらんこ（アルカード） [#Koumori_Alucard]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Koumori_Alucard.jpg,nolink,128x256);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;340&br;295&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;可愛らしいコウモリたちが運んでくれるブランコ。&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ヴァンパイア・ロマンス」2等>Kuji/2013#z7e3c72d]]&br;[[ECOくじ「ロアたちの記憶」2等>Kuji/2015#w761e266]]|
+
+***まきばのポニー　（通常パートナー←→騎乗パートナー） [#kf1f0bd8]
+-[[パートナー一覧表 （通常パートナー）>PartnerList/Normal#kf1f0bd8]]を参照
+
+***進撃のチャリオット [#shingeki]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ss20140409_22083812.jpg,nolink,128x120);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;立ち乗りで進む&br;チャリオット型の魔法生物&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「黒鉄の騎士団」2等>Kuji/2013#a169ef02]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***戦乙女のチャリオット [#Valkyrie_Chariot]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/Valkyrie_Chariot.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;350&br;40&br;41&br;45&br;50&br;35&br;25&br;&br;25&br;25&br;30&br;30&br;20&br;10&br;200&br;200&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;異世界の戦の際に使われているとされるチャリオット&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ヴァルハラの戦乙女」2等>Kuji/2016#i312f906]]|
+
+***傀儡のスフィンクス　（通常パートナー←→騎乗パートナー） [#ycec5141]
+-[[パートナー一覧表 （通常パートナー）>PartnerList/Normal#ycec5141]]を参照
+
+***ココッコーおさんぽ軍団 [#osampo_gundan]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/osampogundan.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;大きく成長したココッコーと&br;ミニココッコーたち&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「ぴよぴよぴくにっく」2等>Kuji/2013#y78b503e]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***コッカラス軍団 [#kokarasu_gundan]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;ヤタガラスに憧れているコッカラスたち&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「煌めく宵の狂宴‐ヤタガラス‐」2等>Kuji/2016#kj160301]]|
+
+***白面金毛九尾ノ狐　（通常パートナー←→騎乗パートナー） [#nine-tailedfox]
+-[[パートナー一覧表 （通常パートナー）>PartnerList/Normal#nine-tailedfox]]を参照
+
+***パンキッシュロックステージ [#punkkish-rockstage]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/punkkish-rockstage.jpg,nolink,128x256);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;20&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;ロックンローラーが愛する&br;ステージを模した姿をしている&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「スパイダー＆パンキッシュ」2等>Kuji/2013#ab1cc0ff]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***プリンセスジェリーフィッシュ [#princess_jellyfish]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/princess_jellyfish.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;透き通った美しい体を持つ&br;ピンクと水色のクラゲ&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「マーメイド・オン・ステージ」2等>Kuji/2013#y5e37cef]]&br;[[ECOくじ「ロアたちの記憶」2等>Kuji/2015#w761e266]]|
+
+***魔法のスーツケース（白） [#MahouNoSuitcaseShiro]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/magicbaggage_white.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;空飛ぶスーツケース。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;薫風☆のってけ！キャンペーン（ECOスタートキャンペーン）|
+
+***悪魔機甲ファウスト [#Akumakikou_Faust]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/faust.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;350&br;35&br;36&br;45&br;50&br;30&br;25&br;&br;45&br;25&br;25&br;25&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15040&br;881&br;942&br;824&br;1004&br;320&br;295&br;&br;446&br;25&br;369&br;25&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;メフィストが乗っている&br;機械の乗り物&br;何で動いているかはわからない&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[ECOくじ「デーモニック・ディテクティブ」2等>Kuji/2013#DemonicDetective]]&br;[[ECOくじ「ロアたちの記憶」2等>Kuji/2015#w761e266]]|
+
+***悪魔機甲ファウスト（アナザー） [#Akumakikou_Another]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;350&br;35&br;36&br;45&br;50&br;30&br;25&br;&br;45&br;25&br;25&br;25&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;メフィストが乗っている&br;機械の乗り物に似ているが&br;その実態は定かではない&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;ShopPointチャージで記念アイテムゲット！キャンペーン (2015年) [[公式サイト>http://econline.gungho.jp/special/bc201509charge/]]|
+
+***薔薇杖 [#Baratsue]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15010&br;842&br;947&br;895&br;1009&br;363&br;273&br;&br;438&br;10&br;362&br;25&br;172&br;120&br;410&br;490&br;&br;RCV|【説明】&br;マミーが持っている&br;杖の乗り物&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ローズウィッチ・ハロウィーン」2等>Kuji/2013#RoseWitchHalloween]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***暗黒劇場 [#AnkokuGekijyou]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ankokugekijyou.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;ダークな雰囲気が漂う劇場&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「終幕オペラハウス」2等>Kuji/2013#SyumakuOperaHouse]]&br;[[ECOくじ「ロアたちの記憶」2等>Kuji/2015#w761e266]]|
+
+***でかでかオオコウモリ [#DekaDekaOokoumori]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/dekadekaookoumori.jpg,nolink,170x170);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;200&br;18&br;19&br;25&br;25&br;19&br;9&br;&br;17&br;11&br;12&br;10&br;22&br;12&br;200&br;200&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;魔王が従える、でかいコウモリ&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「大正レトロモダニズム」2等>Kuji/2013#TaisyouRetroModernism]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***ファンタジア・ビブリオ [#FantasiaBiblio]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/FantasiaBiblio.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;350&br;30&br;31&br;45&br;55&br;35&br;25&br;&br;25&br;25&br;30&br;30&br;20&br;10&br;200&br;200&br;&br;120|110&br;黒&br;&br;15040&br;876&br;937&br;824&br;1014&br;364&br;273&br;&br;426&br;25&br;402&br;30&br;164&br;115&br;460&br;490&br;&br;RCV|【説明】&br;ぷかぷか浮かぶ大きな本&br;乗るとなんだか賢くなった&br;気がする&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「記憶の図書館」2等>Kuji/2013#KiokuNotosyokan]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***キシリトール（ライムミント） [#Xylitol_limemint]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;食べておいしい！当たって嬉しい！「エミル・クロニクル・オンライン」レアアイテムプレゼントキャンペーン&br;オリジナルボトルガムコース応募者の中から抽選で最大1300名に当たる&br;|
+
+***妖怪・ライジュウ[#YoukaiRaiju]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/raijyu.jpg,nolink,170x193);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;500&br;30&br;31&br;30&br;30&br;30&br;30&br;&br;30&br;20&br;25&br;20&br;10&br;10&br;200&br;200&br;&br;RCV|110&br;黒&br;&br;15350&br;823&br;884&br;880&br;1060&br;350&br;295&br;&br;431&br;20&br;369&br;20&br;154&br;115&br;460&br;490&br;&br;RCV|【説明】&br;遥か遠い世界の電気を纏う妖怪。&br;&br;モーションディレイが長い。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「雪国あやかし絵巻」2等>Kuji/2014#YukiguniAyakasiEmaki]]|
+
+***南方朱雀[#NanpouSuzaku]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/nanpo-suzaku.jpg,nolink,170x170);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;300&br;30&br;31&br;55&br;55&br;30&br;35&br;&br;30&br;20&br;35&br;25&br;15&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15150&br;823&br;884&br;905&br;1085&br;350&br;300&br;&br;434&br;20&br;379&br;25&br;169&br;120&br;410&br;420&br;&br;RCV|【説明】&br;南方を守護する神獣。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「迅雷の鳳雛」2等>Kuji/2014#JinraiNoHousu]]|
+
+***通学用電動自動二輪[#Tsugakuyo-jidonirin]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/jidonirin.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15470&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;足に羽が生えたように移動できる&br;電動立ち乗り二輪車&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[ECOくじ「早春スクールライフ」2等>Kuji/2014#SousyunSchoolLife]]|
+
+***聖なるアルパカ[#Holyalpaca]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/alpaca.jpg,nolink,200x201);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;25&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;ふわふわモコモコの毛をもつ動物。&br;少し乗りづらい。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「メイド・イン・グランドハウス」2等>Kuji/2014#MaidInGrandHouse]]|
+
+***ネコスクーター [#NekoScooter]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/Neko-suku.jpg,nolink,170x170);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;猫をふんだんにあしらったスクーター。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「にゃんにゃん☆ぱらだいす」2等>Kuji/2014#NyannyanParadise]]|
+
+***蒸気機関飛行船 [#Joukikikanhikousen]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/joukikikanfune.jpg,nolink,128x150);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;蒸気の力で動く飛行船。&br;スチームパンクなデザインがレトロな雰囲気を醸し出している。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「スチームエイジ・アドベンチャー」2等>Kuji/2014#SteamageAdventure]]|
+
+***看守長の椅子 [#Kansyutyounoisu]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15040&br;886&br;947&br;824&br;1009&br;364&br;273&br;&br;426&br;25&br;374&br;30&br;164&br;115&br;460&br;490&br;&br;RCV|【説明】&br;看守長専用の椅子。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ジェイルハウス・インプリズン」2等>Kuji/2014#JailhouseImprison]]|
+
+***神秘の貝殻 [#Sinpinokaigara]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/sinpi-kaigara.jpg,nolink,170x170);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;人が乗れるほどの大きな貝殻。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「水辺の納涼夜会」2等>Kuji/2014#MizubenoNouryouyakai]]|
+
+
+***ハンプティ・ダンプティ  [#HumptyDumpty]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/HumptyDumpty.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;人が浮くフシギな装置。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ナイツ・オブ・ナーサリーライム」2等>Kuji/2014#KnightsOfNurseryrhyme]]|
+
+***搭乗型パワードスーツ [#ToujougataPoweredSuit]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;20&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15470&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;20&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;壊れた機械のパーツを使って組み上げた戦闘用パワードスーツ。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[ECOくじ「エンシェント・サイバーウェポン」2等>Kuji/2014#AncientCyberWeapon]]|
+
+***ユニコーン [#Unicorn]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;妖精が住むとされる森の奥深くで生きる神秘の生き物。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「優しい森の住人」2等>Kuji/2014#YasashiiMorinoJyuunin]]|
+
+***スーパーブリキングＲＸ１ [#SuperBrikingRX1]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/Superburiking-RX1.jpg,nolink,170x170);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;アクロニアの平和を護るスーパーロボット！&br;正義の心を胸に秘め、今だ必殺！ブリキンダイナマイト！&br;砕け！必殺！ブリキンパーンチ！&br;&br;今日もアクロニアは平和です&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[ECOくじ「鉄腕少女ブリキング」2等>Kuji/2015#nb8042cd]]&br;[[ECOくじ「おめかし巫女装束」2等>Kuji/2015#ka48d116]]|
+
+***鬼火の番傘 [#BnibiBangasa]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/bangasa.jpg,nolink,170x564);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|※染色娘にて交換可（青・赤・灰）&br;&br;【説明】&br;持つと体がふわふわ浮かぶ鬼火のように軽くなれる番傘&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「オリエンタル・ウィル・オ・ウィスプ」2等>Kuji/2015#q4f2d8f0]]&br;[[ECOくじ「精霊の国のウィスプ」2等>Kuji/2015#n8597dd7]]|
+
+***おしゃれなスーツケース [#StylishSuitcase]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;空を飛ぶ魔法のスーツケース。&br;開いたケースにちょこんと座って移動する。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「リトルシューターの休日」3等>Kuji/2015#k99f19c3]]|
+
+***ユニコーン（黒） [#BlackUnicorn]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;　&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「アベンジャー・イン・ダークテリトリー」2等>Kuji/2015#i97847b8]]|
+
+***ニドエッグボード [#NidoeggBoard]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/nidosurf.jpg,nolink,128x288);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|※染色娘にて交換可（ブルー・ピンク・イエロー）&br;&br;【説明】&br;陸の上でもサーフィンが出来る！？&br;ニドエッグ・アルマが描かれている&br;かわいいサーフボード&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ざぶーん！ニドエッグ」2等>Kuji/2015#sb4b0c03]]|
+
+***白面金毛九尾ノ狐（黒）　（通常パートナー←→騎乗パートナー） [#blackninetailedfox]
+-[[パートナー一覧表 （通常パートナー）>PartnerList/Normal#blackninetailedfox]]を参照
+
+***空飛ぶ財宝 [#SoratobuZaihou]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;夏到来☆チャージで財宝ゲットキャンペーン(2015年) [[公式サイト>http://econline.gungho.jp/special/naturenka2015/charge.html]]|
+
+***青薔薇劇場 [#AobaraGekijou]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;20&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「旋律のアルケーさん」2等>Kuji/2015#t90c80a8]]|
+
+***真紅の浮遊石 [#RubyLevistone]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ベイヤール・イン・ゴシックナイト」2等>Kuji/2015#u8454b2c]]|
+
+***秋色スクーター [#AkiiroScooter]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;秋の色に染まった&br;ネコ模様のスクーター&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「秋空の下のサンドラット」2等>Kuji/2015#be5c876d]]|
+
+***きのこシチューのレシピ本 [#BookOfMushroomStewRecipe]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15040&br;876&br;937&br;824&br;1014&br;364&br;273&br;&br;426&br;25&br;402&br;30&br;164&br;115&br;460&br;490&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「マタンガ・ラボラトリー」2等>Kuji/2015#i0848929]]|
+
+***桃色アザラシ [#PinkSeal]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/PinkSeal2.jpg,nolink,200x149);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;雪国の移動には欠かせない相棒。&br;寒さに強く滑りにくい。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「氷の都のクリスタル」2等>Kuji/2015#yad017a7]]|
+
+***パンキッシュスケボ [#PunkishSkateboard]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/%E7%84%A1%E9%A1%8C2.jpg,nolink,128x144);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;疾走できるスケートボード&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ストイック・パンキッシュ・アーチン」2等>Kuji/2015#z8755708]]|
+
+***地獄の竜 [#jigokunoryuu]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;45&br;45&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;地獄より降臨したと言われている黒い鱗の竜&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「レジェンド・オブ・アスモデウス」2等>Kuji/2016#y2167233]]|
+
+***ライオン [#lion]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;異国に生息すると言われている動物&br;たてがみが特徴的&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「星空と舞うサイクロプス」2等>Kuji/2016#kj160315]]|
+
+***搭乗型フォックストロットＢ３ [#fokkusutorottob3]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/toujyougata.jpg,nolink,150x150);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(1%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;20&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;搭乗型のフォックストロットＢ３&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOドリーム「突貫少女フォックストロット！」B賞>Kuji/2016#kj160315]]|
+
+***ダークネスゴート [#darknessgoat]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;バフォメットが連れてきた主人に忠実な僕&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOドリーム「バフォメットはパンがお好き？」B賞>Kuji/2016#ne2dc284]]|
+
+***搭乗型体感ゲームのパワードスーツ [#ToujougataGamesPoweredSuit]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;壊れた機械のパーツを使って組み上げた戦闘用体感ゲームのパワードスーツ。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「ドリーム放課後ゲーセンファイト！」B賞|
+
+***忠犬わんわん [#chukenwanwan]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;飼い主に忠誠を誓うとっても大きくて頼もしい犬。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「冥府の守護者ケルベロス」B賞|
+
+***相方ポイズンジェル [#aikatapoizunjeru]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;ポイズンジェル・アルマといつも一緒のポイズンジェル。&br;実は好奇心旺盛でいろんな世界を見られるようになった今を楽しんでいる。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「ポイズンジェルのゆるゆる夏休み」B賞|
+
+***ＵＦＯ [#UFO]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15470&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;25&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;宙に漂う不思議な乗り物。&br;カグヤが乗っていたらしい。&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「ムーン・ナビゲーター・カグヤ」B賞|
+
+***ライダースバイク [#Raidasubaiku]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Ride/Ridersubaiku_big.jpg,nolink,166x197);>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;クールなデザインの１人乗り用バイク。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「ロックだ！ゴーチン！」B賞|
+
+***ノーブルドラゴ [#noburudorago]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/nobledoraco.jpg,nolink,128x152);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;気位の高い竜種。&br;力強い心根の持ち主を好む。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「覇王竜バハムート」B賞|
+
+***クリスマス・カッカラン [#kurisumasukakkaran]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;聖夜にのみ出没すると言われる豪華な装飾が施されたカッカラン。：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「コッコー・聖夜の戦い」B賞|
+
+***ストレッチャー [#stretcher]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;傷病者を安全・快適・迅速に運びます！&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「ゴーストのマッドクリニック」B賞&br;|
+**多人数騎乗パートナー [#y5db0691]
+***やさしい象 [#i29dbe35]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/YasashiiZou.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り] &br;&br;大きくてやさしいゾウさん。&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOプレイチケット第9弾|
+//あまり知られていないが、象は本来気性が荒い。
+
+***夢見のイルカ [#zc45b14f]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/dolphin01.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;空飛ぶイルカ&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「スプラッシュサマー」2等>Kuji/2009#ek0908aa]]&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***夢見のイルカ（黒） [#l0921eff]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/dolphinbk.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;空飛ぶイルカ&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「夢見るアクアマリン」2等>Kuji/2011#log_aquamarine]]|
+
+***シャチフロート [#tb48f4df]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/shachi_float.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;空飛ぶシャチ型の乗り物&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;釣り図鑑　（泥）4ページ目コンプリート報酬&br;&br;&color(,#99CCFF){水属性？};|
+
+***騎士の愛馬 [#Kisinoaiba]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/horse%20of%20knight_00.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;2人乗りの馬&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「RPG」1等>Kuji/2009#z3f76d4f]]&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***ナイトの騎馬 [#h4e72945]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/knightnokiba_00.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;チェスの駒の「ナイト」をイメージして馬具が身に着けられている騎馬&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「盤上の騎士団」2等>Kuji/2010#Chess]]&br;釣りの宝箱（Ｌｉｇｈｔ）（2015/4/23～2015/5/28）|
+
+***おとぎの国の白馬 [#x50fee49]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/OtogiNoKuniNoHakuba.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第13弾」1等>Kuji/2008#ndb8b5d6]]|
+
+***ユニコーンの馬車 [#q215a537]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/basya.JPG,nolink,128x123);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;ユニコーンが引く馬車&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「あこがれアートコレクション」1等>Kuji/2010#log_akogare]]|
+
+***ジニアの馬車 [#p8d831b7]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/ZinniaNoBasha.jpg,nolink,128x114);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;ジニアの花で飾られた白く美しい馬車&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手？に憑依しているキャラクターが&br;一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ハートフルパッケージ ワールドフラワーセット>Package#x33f6b53]](期限：2008年8月)|
+
+***浪漫の人力車 [#m9baa385]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/roman_01.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;古き良き時代の浪漫溢れる人力車&br;胸アクセサリーに憑依してもらえば&br;大切なあの人を乗せることができる&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;ストライダー&br;&br;【入手法】&br;[[ECOくじ「第18弾」1等>Kuji/2009#h45e1f2a]]&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***浪漫の人力車☆ [#jbaefcde]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[復刻・ECOくじ第18弾「大正浪漫☆」1等>Kuji/2010#log_roman]]|
+
+***田舎道の手車 [#zeb6243b]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/teguruma.JPG,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;PARTNER装備&br;田舎道をのどかに走る手車&br;&br;胸アクセサリーに憑依してもらえば&br;後ろに乗せることができる&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「やすらぎカントリーライフ」1等>Kuji/2010#log_countrylife]]|
+
+***青春☆自転車 [#bicycle]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/chari.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;120|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;どこにでもあるような普通の自転車&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「新生活」1等>Kuji/2010#Sinseikatu]]|
+
+***二人乗りのそり [#yd5911db]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/FutariNoriNoSori.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;力強いバウの引く、二人乗り用のそり。&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;&color(#ff8000){移動速度は、捨て犬バウ時代の育成量に応じます（検証中）。};&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;1回以上転生した捨て犬バウと木片1000個（50個ずつで可）を&br;巡礼者のおじいさん（マイマイ島）に渡す。 |
+
+***キラキラほうき星 [#mc7ed585]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KiraKiraHoukiBoshi.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;夜空に浮かぶ星を集めて作ったフシギな乗り物。4人まで騎乗が可能。&br;&br;&color(#ff8000){使用者に続き、胸アクセサリー、鎧、右手の順で&br;憑依しているキャラクターが一列に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第9弾」2等>Kuji/2007#ha4f5e5a]]|
+
+***キラキラほうき星☆ [#KirakiraHoukuBosiStar]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「真夏のアンコール（12星座）」1等>Kuji/2009#ek0907ab]]|
+
+***バイク（※） [#d82c57ba]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/baiku_01.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;ドミニオン界謹製？オートバイ。&br;（※）内には、赤、青、緑、黒、黄色、オレンジ、白、ピンクの車体カラーが入ります。&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;（赤、青、緑、黒、黄色、オレンジ）&br;   ウェストフォート レジスタンス守衛 CP交換（24000CP～）&br;（白、ピンク）ECOタウン アトラクションゾーン景品交換所(2,000,000e)|
+
+***サイドカーバイク [#f25f95a7]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SidecarBike.jpg,nolink,128x122);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;二人乗りのサイドカーバイク&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第12弾」1等>Kuji/2008#ndb8b5de]]|
+
+***インペリアルバイク [#dbdb0073]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%82%AFUP.jpg,nolink,128x172);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;メカニカルなバイク&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ウィンターホリデー」1等>Kuji/2010#WinterHoliday]]|
+
+***インペリアルバイク（赤） [#rb2e6f07]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ImperialBike-Red.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;オートバイ。&br;胸アクセサリーに憑依しているお友達と一緒に乗ることができ、&br;移動速度がとても早くなる(※)。&br;(※背負い魔・ブーストの点火時と同じ速度です。)&br;&br;【パッシブスキル】&br;モンスタースルー&br;騎乗すると自分から手を出さない限りモンスターから発見されなくなる。&br;（ボスモンスター、ダンジョン内は無効。）&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;びっくりアイテムBOX一等賞|
+
+***インペリアルバイク（シルバー） [#hd8cb056]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;黒&br;&br;152&br;595&br;656&br;522&br;702&br;372&br;272&br;&br;140&br;1&br;90&br;1&br;190&br;190&br;410&br;420&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;オートバイ。&br;胸アクセサリーに憑依しているお友達と一緒に乗ることができ、&br;&color(silver){移動速度がとても早くなる(※)。&br;(※背負い魔・ブーストの点火時と同じ速度です。)&br;&br;【パッシブスキル】&br;モンスタースルー&br;騎乗すると自分から手を出さない限りモンスターから発見されなくなる。&br;（ボスモンスター、ダンジョン内は無効。）};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「キラキラ☆キラーマシーン」2等>Kuji/2015#i8cf7cc8]]|
+
+***戦車 [#hdcda81e]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Tank01.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［３人乗り］&br;&br;機械時代に開発されたと思われる兵器。&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧の順番に２人まで乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧に憑依しているキャラクターが戦車の上に乗って表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「第19弾」1等>Kuji/2009#m4e69166]]&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***オフロードバギー [#w329a646]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Buggy.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;オフロードバギー。&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の順番に３人まで乗ることが出来る&br;&br;&color(#ff8000){&br;※後ろの2人には専用モーションあり};&color(#ff8000){&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;CP48000|
+
+***ウィングトラック [#vdf974f0]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/wingtrack.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|110&br;黒&br;&br;15470&br;895&br;956&br;822&br;1002&br;372&br;272&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;荷室に何が積んであるかは秘密&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の&br;順番に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[ECOくじ「バレンタインライブ」2等>Kuji/2010#ValentainLive]]|
+
+***ハネムーン気球 [#q215a536]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/kikyuu.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;あまり高くは飛べない熱気球の一種&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ハネムーンバカンス」2等>Kuji/2010#honeymoon]]|
+
+***夢境のゴンドラ [#b2010cd4]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/gondora.JPG,nolink,124x117);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;４人乗りのゴンドラ&br;シナモンが船頭となってゴンドラを漕いでくれます&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ドラマCD連動イベント&br;&br;Vol.1特典「壊れた船体」、Vol.2特典「ほつれたぬいぐるみ」を揃え、タイニーアイランド・湖畔のティタに話しかけると開始|
+
+***くるくるティータイム [#h629a953]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KurukuruTeaTime.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;二人乗りできるティーカップ&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOプレイチケット第10弾|
+
+***カーニバルの飛行船 [#gkanikj1]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/hikousen.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;４人乗りの飛行船&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の&br;順番に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ハートメイトカーニバル」1等>Kuji/2011#log_heartmate]]|
+
+***ゴシック風馬車 [#g122580d]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/gothiccarriage.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［３人乗り］&br;&br;3人乗りできるゴシック風馬車。&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る。&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧の順番に２人まで乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー憑依してるキャラクターは隣座席に、鎧に憑依しているキャラクターは馬に騎乗して表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「プリティ・サーヴァント！」2等>Kuji/2012#PrettyServant]]&br;[[スペシャルECOくじ「アルマたちとの絆」2等>Kuji/2014#n2948f75]]|
+
+***クラシック・カー [#classic]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/classic_car.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;レトロ調で古き良き時代を感じさせる車&br;胸アクセサリー装備に憑依したものを一緒に乗せることができる&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「スイートフレンチ＆クラシック」2等>Kuji/2013#j9eebd0b]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***海賊船・マーチャント号 [#PirateShip]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Pirate_Ship.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;海賊が使う、大きな帆船&br;&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の順番に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「パイレーツ・クロニクル」2等>Kuji/2013#x3544f4f]]&br;[[ECOくじ「ロアたちの記憶」2等>Kuji/2015#w761e266]]&br;[[ECOドリーム「渦巻く大海のリヴァイアサン」B賞>Kuji/2016#kj160404]]|
+
+***メリーゴーランド [#b04b1aaf]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/merry-go-round.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;13&br;43&br;30&br;25&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［３人乗り］&br;&br;３人乗りできる回転木馬&br;胸アクセサリーと &br;右手に憑依しているお友達が &br;馬に乗ることができる。&br;&br;&color(#ff8000){胸アクセサリー、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：叩き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ふぁん☆ふぁん　ファンフェアー！」2等>Kuji/2013#mab54256]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***みんなの鍋 [#aa494486]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Minna_no_nabe.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15040&br;881&br;942&br;824&br;1004&br;320&br;295&br;&br;446&br;40&br;369&br;20&br;172&br;120&br;410&br;420&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;グツグツ煮込んだ鍋が&br;食欲をそそる&br;みんなと一緒に入ると楽しい……？&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ドキドキ・クッキング！」2等>Kuji/2013#DokidokiCooking]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+
+***サークルＫサンクス気球 [#circlek0]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/circleksunkus_kikyuu.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［２人乗り］&br;&br;熱気球の一種、&br;サークルＫサンクスのロゴと&br;ユニフォームカラーが施されている&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br; ＥＣＯ×ＬＯＴＴＥ サークルＫサンクス限定&br;通常商品コース|
+
+***アヒルボート [#Duckboat]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;SAGA18第一弾実装記念　WebMoney協賛Shop Pointチャージキャンペーン|
+
+***アクロニア・イーグル [#Acroniaeagle]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;SAGA18第二弾実装記念　BitCash協賛超お宝ゲットキャンペーン|
+
+***コンバット・タンク [#CombatTank]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;重厚な戦闘用車両。憑依することで、使用者に続き胸アクセサリー、鎧の順番に2人まで乗ることが出来る。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ホワイト＆ミリタリー」2等>Kuji/2014#WhiteMilitary]]|
+
+***舞踏会の馬車 [#Butoukainobasya]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/Butoukainobasya.jpg,nolink,170x205);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;20&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;素敵な王子様と出会えるかもしれない２人乗りできる舞踏会の馬車。&br;胸アクセサリーに憑依しているお友達が馬車の席に座ることができる。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「夜会への招待状」2等>Kuji/2014#YakaihenoSyoutaijyou]]|
+
+***小悪魔バルーン [#KoakumaBalloon]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;メフィストフェレスのお気に入りの乗り物。&br;胸アクセサリーに憑依しているお友達と一緒に乗ることができる。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「プリティロリータデビル」2等>Kuji/2014#PrettyLolitaDevil]]|
+
+***路面電車 [#Romendensya]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;25&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;４人乗りのレトロな路面電車。&br;憑依することで、使用者に続き胸アクセサリー、鎧、右手の順番に乗ることが出来る。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「悠久の古物商」2等>Kuji/2014#YuukyuuNoKobutusyou]]|
+
+***イルミネーショントラック [#IlluminationTrack]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/irumineisyontorakku.jpg,nolink,128x100);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;男のロマンが詰まったデコトラ。&br;憑依することで、使用者に続き胸アクセサリー、鎧、右手の順番に乗ることが出来る。&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「イルミネーション・クリスマス」2等>Kuji/2014#a64b7fd3]]|
+
+
+***ワイルド・カー [#w6d712be]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「ばきゅーん！ギーゴ」2等>Kuji/2015#h5b03ba0]]|
+
+***ファーマー・カート [#ga9db321]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;620&br;59&br;60&br;43&br;43&br;43&br;24&br;&br;67&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;[[ECOくじ「豊饒の村のスタートラー」2等>Kuji/2015#j0890528]]|
+
+***びっくりおこた [#Bikkuriokota]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;500&br;50&br;52&br;50&br;50&br;30&br;30&br;&br;30&br;30&br;30&br;25&br;30&br;30&br;150&br;140&br;&br;RCV|110&br;黒&br;&br;18800&br;900&br;961&br;830&br;1000&br;295&br;285&br;&br;455&br;30&br;390&br;25&br;185&br;100&br;410&br;420&br;&br;RCV|【説明】&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;びっくりアイテムBOX一等賞|
+
+***プレミアムオープンカー [#premium_opencar]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Ride/premium_opencar.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;43&br;24&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;［４人乗り］&br;&br;黒塗りでどことなく高級感を感じさせる車&br;憑依することで、使用者に続き胸アクセサリー、鎧、右手の順番に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;攻撃タイプ：突き&br;&br;【適用される能力上乗せスキル】&br;マエストロ&br;&br;【入手法】&br;[[11thアニバーサリーＢＯＸ]]|
+
+***ベーカリーカー [#Bakerycar]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;移動するパン屋さん。&br;鎧に憑依しているお友達と一緒に乗ることが出来る。：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;ECOドリーム「バフォメットはパンがお好き？」B賞|
+
+
+
+//**ＤＥＭ [#kef3cb50] 
+//***ＤＥＭ・キマイラフォーム [#ja3d961b]
+//-パートナーではなくＤＥＭキャラクタ、[[キマイラフォーム>DEM#Kimaira]]を参照
+//質問スレにあった騎乗パートナーと間違えて探しに来た人用です
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment

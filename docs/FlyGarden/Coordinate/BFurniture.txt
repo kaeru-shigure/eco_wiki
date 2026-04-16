@@ -1,0 +1,251 @@
+# FlyGarden/Coordinate/BFurniture
+
+#author("2017-05-08T06:16:51+00:00","","")
+#include(FlyGarden/Menu,notitle)
+
+*大型家具 [#yfebf115]
+
+#contents
+
+***テーブル [#y29cf80e]
+|>|>|>|LEFT:~テーブル|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|おしゃれなテーブル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OshareNaTable.jpg,nolink,150x150);|家具屋共通&br;5000G||
+|おしゃれなテーブル（青）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OshareNaTableAo.jpg,nolink,150x120);|高度金属精錬Lv2|トンカタイル:30&br;鉄の板:1&br;ネジ:8&br;鉄の棒:1|
+|おしゃれなテーブル(タイニー)|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OshareNaTableTiny.png,nolink,150x150);|タイニーアイランド&br;パイレーツタイニー|タイニーメダル*1|
+|ウッディーなテーブル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaTable.jpg,nolink,150x150);|木材加工Lv2|かたい木材:5&br;サンドペーパー:10&br;釘:20&br;かたい木の棒:4&br;金槌|
+|ウッディーなテーブル（青）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaTableAo.jpg,nolink,150x68);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ウッディーなテーブル*2（火曜日）|
+|丸太のテーブル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarutaNoTable.jpg,nolink,150x150);|木材加工Lv2|丸太:1&br;丈夫な布:1&br;サンドペーパー:10&br;かたい木の棒:4|
+|丸太のテーブル（赤）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarutaNoTableAka.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|丸太のテーブル*2（月曜日）|
+|ローテーブル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/LowTable.jpg,nolink,150x150);|宝箱3/5/6/10&br;コンテナ1/5||
+|ローテーブル（緑）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/LowTableMidori.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ローテーブル*1（水曜日）|
+|ピクニックテーブル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PicnicTable.jpg,nolink,150x150);|コンテナ1/5||
+|ピクニックテーブル（ポップ）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PicnicTablePop.jpg,nolink,150x90);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ピクニックテーブル*1（火曜日）|
+|脚なし机|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AshiNashiTsukue.jpg,nolink,150x150);|大陸の洞窟スタンプ&br;廃炭坑スタンプ||
+|きのこなテーブル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KinokoNaTable.jpg,nolink,150x110);|ECOくじ Ver.4||
+|コタツ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Kotatsu.jpg,nolink,150x113);|正月イベント||
+|鍋コタツ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NabeKotatsu.jpg,nolink,150x150);|ECOくじ Ver.17||
+|パンダ机|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Panda_desk.jpg,nolink,147x150);|お得に冒険！30DAYSパックVer.4　スペシャルBOX3||
+|浪漫のちゃぶ台|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RomanNoChabudai.jpg,nolink,150x150);|ECOくじ Ver.18|「使う」でちゃぶ台返し|
+|会議テーブル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigiTable.jpg,nolink,150x150);|ECOくじ Ver.19|「使う」でテーブル上に地図を広げる|
+|教室用の机|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KyoushitsuYouNoTsukue.jpg,nolink,150x150);|ECOプレイチケット第12弾||
+|カジノテーブル|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1276017305272.jpg,nolink,150x150);|カジノ景品交換所（6月・12月）&br;1200e||
+|長机|-|ファーム図鑑コンプリート報酬||
+|占い机|&ref(http://eco.acronia.net/img/test/uranaidukue.jpg,nolink,150x150);|ファーム図鑑コンプリート報酬||
+|応接机|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Receptiondesk.jpg,nolink,150x149);|ファーム図鑑コンプリート報酬||
+|学習机|&ref(http://eco.acronia.net/img/wiki/FlyGarden/bennkyoudukue.jpg,nolink,150x150);|ECOくじ ノーティ・スクールガールズ||
+|学習机（ダークブラウン|画像募集中|染色||
+|テーブルアクアリウム|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tableaquarium.jpg,nolink,150x150);|ECOくじ ピングアクアリウム||
+|おかしなパーティーテーブル（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/okasinapa-texi-te-burusiro.jpg,nolink,150x150);|ECOくじ マッド・ティータイム|（赤）に染色可能。「使う」でティータイムにピッタリのセットが現れる|
+|おかしなパーティーテーブル（赤)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Partytable_r.jpg,nolink,150x150);|染色にて入手|「使う」でティータイムにピッタリのセットが現れる|
+|おかしなパーティーテーブル（青)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/PatryTable_b.jpg,nolink,150x149);|ECOくじ メイド・イン・グランドハウス|（黄）に染色可能「使う」でティータイムにピッタリのセットが現れる|
+|おかしなパーティーテーブル（黄)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/PartyTable_y.jpg,nolink,150x150);|染色にて入手|「使う」でティータイムにピッタリのセットが現れる|
+|アンティークデスク（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Antiquedesk_br.jpg,nolink,150x150);|ECOくじ 臘月の守り手|「使う」で本やランプが出現する。|
+|アンティークデスク（白)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Antiquedesk_s.jpg,nolink,150x150);|アンティークデスク（茶）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」で本やランプが出現する。|
+|アンティークデスク（黒)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Antiquedesk_b.jpg,nolink,150x150);|アンティークデスク（茶）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」で本やランプが出現する。|
+|アンテペンディウムの机（茶・燭台）|画像募集中|ECOくじ ブバスティスの子猫たち|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（白・燭台）（茶色）（白色）に染色できる。|
+|クラシック・テーブル（白色）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Classictable_w.jpg,nolink,150x150);|ECOくじ スイートフレンチ・クラシック&br;ECOくじ リトルシューターの休日|（茶色）（黒色）に染色可能&br;「使う」でスイーツが現れる|
+|クラシック・テーブル（茶色）|-|染色で入手||
+|クラシック・テーブル（黒色）|-|染色で入手||
+|シンプルな円卓|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/SimpleRoundTable.jpg,nolink,150x150);|ECOくじ 迅雷の鳳雛|「使う」で豪華な料理が現れたり、テーブルが回る。|
+|カフェテーブル（こげ茶・パンケーキ）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Cafetable_b.jpg,nolink,150x150);|ECOくじ ウィンターストリートカフェ|（茶・コーヒー）（白・パスタ）（赤・ケーキ）」に染色可能&br;「使う」でティータイムのセットが現れる。|
+|丸テーブル|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Circletable_mahogany.jpg,nolink,150x150);|まいにちダンジョン（ゴールド）まいにちＢＯＸ|（ブラウン）（ベージュ）（マホガニー）（ブラック）|
+
+***椅子 [#u2d1ec28]
+|>|>|>|LEFT:~椅子|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|おしゃれな椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OshareNaIsu.jpg,nolink,150x150);|家具屋共通&br;5000G||
+|おしゃれな椅子（黄）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OshareNaIsuKi.jpg,nolink,150x150);|木材加工Lv1|木材:1&br;上等な革:1&br;サンドペーパー:4&br;釘:10&br;金槌|
+|ウッディーな椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaIsu.jpg,nolink,150x150);|木材加工Lv2|鉄の板:1&br;サンドペーパー:5&br;釘:20&br;木材:5&br;金槌|
+|ウッディーな椅子（鉄板）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaIsuTeppan.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ウッディーな椅子*2（土曜日）|
+|丸太の椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarutaNoIsu.jpg,nolink,150x150);|木材加工Lv2|丸太:1&br;サンドペーパー:5&br;釘:20&br;金槌|
+|丸太の椅子（赤）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarutaNoIsuAka.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|丸太の椅子*2（金曜日）|
+|安楽椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AnrakuIsu.jpg,nolink,150x150);|木材加工Lv2|かたい木材:5&br;釘:20&br;スムージーワックス:5&br;サンドペーパー:5&br;金槌&br;&br;「使う」でゆれる|
+|安楽椅子（黒）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AnrakuIsuKuro.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|安楽椅子*2（月曜日）&br;&br;「使う」でゆれる|
+|ピクニックチェアー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PicnicChair.jpg,nolink,150x150);|宝箱7&br;コンテナ1/4||
+|ピクニックチェアー（青白）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PicnicChairAo.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ピクニックチェアー*1（日曜日）|
+|ピクニックチェアー（タイニー）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PicnicChairTiny.png,nolink,150x150);|タイニーアイランド&br;パイレーツタイニー|タイニーメダル*1|
+|ソファー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Sofa.jpg,nolink,150x150);|宝箱3/4/5/7/9/10||
+|ソファー（茶）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/SofaCha.jpg,nolink,150x150);|木材加工Lv2|バウの革切れ:50&br;なめし剤:10&br;木材:4&br;綿花:4&br;裁縫道具|
+|ごうかなソファー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/GoukaNaSofa.jpg,nolink,150x150);|木箱2&br;宝箱2/3/4/5/7/9&br;コンテナ1||
+|ごうかなソファー（黒）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/GoukaNaSofaKuro.jpg,nolink,150x100);|木材加工Lv3|上等な革:25&br;なめし剤:10&br;かたい木材:4&br;上等な綿花:4&br;裁縫道具|
+|峠茶屋の椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TougeChayaNoIsu.jpg,nolink,150x110);|ECOひなまつり2007||
+|絆のベンチ（茶）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KizunaNoBenchCha.jpg,nolink,123x150);|ジューンブライトロマンス2007||
+|絆のベンチ（白）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KizunaNoBenchShiro.jpg,nolink,150x118);|ECOくじ Ver.8||
+|きのこな椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KinokoNaIsu.png,nolink,150x150);|ECOくじ Ver.4||
+|パンダ椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PandaIsu.jpg,nolink,150x150);|お得に冒険！30DAYSパックVer.4　スペシャルBOX3||
+|ヴァンパイアの玉座|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248962907099.jpg,nolink,150x150);|ECOくじ Ver.16||
+|なごみの縁台|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/endai.jpg,nolink,150x150);|ECOくじ Ver.15|「使う」でスイカが出る|
+|なごみの縁台☆|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292889848278.jpg,nolink,150x150);|ECOくじ 復刻ECOくじ第15弾 エンジョイ夏休み☆|「使う」でスイカが出る|
+|なごみの縁台（こげ茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/BFurniture/Nagomi_koge.jpg,nolink,150x150);|ECOくじ 水辺の納涼夜会|「使う」でスイカが出る|
+|教室用のイス|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KyoushitsuYouNoIsu.jpg,nolink,150x150);|ECOプレイチケット第12弾||
+|あみあみ椅子|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AmiAmiIsu.jpg,nolink,150x150);|ECOくじ スプラッシュサマー||
+|ビーチチェア|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Beach_chair.jpg,nolink,150x145);|カジノ景品交換所（1月・7月）&br;1200e||
+|ヴァンパイアソファー|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/VampireSofa.jpg,nolink,150x150);|ハロウィンイベント2009||
+|ヴァンパイアソファー(緑)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/VampireSofa-Green.jpg,nolink,150x138);|ハロウィンイベント2009||
+|木漏れ日ベンチ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1276017412184.jpg,nolink,150x150);|ECOくじ 新生活||
+|マカロンソファー|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Macaroon_sofa.jpg,nolink,150x150);|ECOくじ　スウィート・ロリポップ&br;ECOくじ スイートバレンタイン||
+|プリティフリルソファ（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/prityfrill_white.jpg,nolink,150x150);|ECOくじ　プリティ・サーヴァント！||
+|プリティフリルソファ（水色）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/prityfrill_lightblue.jpg,nolink,150x150);|プリティフリルソファ（白）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|プリティフリルソファ（ピンク）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/prityfrill_pink.jpg,nolink,150x150);|プリティフリルソファ（白）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|プリティフリルソファ（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/prityfrill_black.jpg,nolink,150x150);|プリティフリルソファ（白）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|謁見の間の玉座|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Ekkenchair.jpg,nolink,150x150);|ECOくじ　お城の童話||
+|高級ソファー|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Luxurysofa.jpg,nolink,150x149);|ファーム図鑑コンプリート報酬||
+|アトラクションチェアー|-|ファーム図鑑コンプリート報酬||
+|シンプルスツール|-|ファーム図鑑コンプリート報酬||
+|シンプルロングスツール|-|ファーム図鑑コンプリート報酬||
+|白木のベンチ|-|ファーム図鑑コンプリート報酬||
+|ドレッサーチェアー|-|ファーム図鑑コンプリート報酬||
+|サウスベンチ|-|ファーム図鑑コンプリート報酬||
+|クラシック・ソファ（水色）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Classicsofa_l.jpg,nolink,150x149);|ECOくじ スイートフレンチ・クラシック|（桃色）（黒色）に染色可能|
+|クラシック・ソファ（桃色）|画像募集中|染色で入手||
+|クラシック・ソファ（黒色）|画像募集中|染色で入手||
+|探偵の安楽椅子（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Anrakuisu.jpg,nolink,150x150);|ECOくじ デーモニック・ディテクティブ|（黒）に染色可能。&br;「使う」でゆらゆらと揺れる|
+|探偵の安楽椅子（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Anrakuisu_b.jpg,nolink,150x150);|染色にて入手|「使う」でゆらゆらと揺れる|
+|サイバーチェア（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/BFurniture/Cyberchair_w.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/BFurniture/Cyberchair_b.jpg,nolink,150x150);|ECOくじ エンシェント・サイバーウェポン|（黒）に染色可|
+|L字型ソファ(赤)|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Sofa_type_L.jpg,nolink,150x149);|ECOくじ 夜会への招待状|(青)に染色可能|
+
+
+***たんす [#ub441dfe]
+|>|>|>|LEFT:~たんす|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|たんす小|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TansuShou.jpg,nolink,150x150);|木材加工Lv2|かたい木材:1&br;木の枠:4&br;ワックス:5&br;サンドペーパー:5&br;&br;飛空庭倉庫+10|
+|たんす小（橙）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TansuShouDaidai.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|タンス小*2（土曜日）&br;&br;飛空庭倉庫+10|
+|たんす大|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TansuDai.jpg,nolink,150x150);|木材加工Lv3|ひのきの木材:1&br;木の枠:8&br;スムージーワックス:5&br;サンドペーパー:5&br;&br;飛空庭倉庫+20|
+|たんす大（橙）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TansuDaiDaidai.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|たんす大*1（日曜日）&br;&br;飛空庭倉庫+20|
+|クローゼット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Closet.jpg,nolink,150x150);|宝箱1/3|&br;&br;飛空庭倉庫+20|
+|クローゼット（橙）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClosetDaidai.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|クローゼット*1（月曜日）&br;&br;飛空庭倉庫+20|
+|クローゼット（緑）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Closet_g.jpg,nolink,150x150);|飛空庭(2台目)入手イベント報酬|飛空庭倉庫+20|
+|浪漫の階段箪笥|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/roman_tansu.jpg,nolink,150x150);|ECOくじ Ver.18|飛空庭倉庫+10|
+|浪漫の階段箪笥☆||ECOくじ 大正浪漫☆|飛空庭倉庫+10|
+|浪漫の階段箪笥（赤壇）||ECOくじ 悠久の古物商|（黒壇）（白壇）に染色可能&br;飛空庭倉庫+10|
+|エミリークローゼット|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Emily_Closet.jpg,nolink,85x150);|ECOくじ フシギの国のEmily|飛空庭倉庫+20|
+|アジアンチェスト|画像募集中|ECOくじ 花月の桃源郷|飛空庭倉庫+10|
+|きのこなタンス|&ref(http://eco.acronia.net/img/wiki/FlyGarden/kinokonatannsu.jpg,nolink,150x150);|2012年 きのこ狩りイベント|飛空庭倉庫+20|
+|隠し扉付本棚（スライド）|画像募集中|ECOくじ シークレット・ラボラトリー|飛空庭倉庫+10&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（スライド無し）に染色できる。&br;「使う」で本棚が両側にスライドし隠し通路が現れる。|
+|キャットキャビネット|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/BFurniture/CatCabinet_w.jpg,nolink,150x150);|ECOくじ にゃんにゃん☆ぱらだいす|飛空庭倉庫+10&br;（茶）（黒）に染色可能|
+|シンプルカラーボックス（黄桃）|画像募集中|ECOくじ リトルシューターの休日|飛空庭倉庫+10&br;（青緑）（白黒）に染色可能|
+|ゴスロリ・ローチェスト（黒）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/gosurori.jpg,nolink,150x150);|ECOくじ 人気者はつらいよ|飛空庭倉庫+20&br;アップタウン「裁縫おばさん」の家にいる「染色娘」に渡すと「茶」に交換することができる。|
+
+***ベッド [#w370dc9c]
+|>|>|>|LEFT:~ベッド|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|ベッド|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Bed.jpg,nolink,150x150);|家具屋共通&br;5000G||
+//|ベッド(青)|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BedAo.png,nolink,150x150);|||
+|ベッド(紺)|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BedKon.jpg,nolink,150x150);|木材加工Lv2|上等な布:20&br;上等な綿花:20&br;木材:4&br;かたい木の棒:4&br;裁縫道具|
+|ダブルベッド|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DoubleBed.jpg,nolink,150x150);|宝箱2/3/4/5/7/8/9&br;コンテナ1/5||
+|ダブルベッド（ピンク）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DoubleBedPink.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ダブルベッド*1（水曜日）|
+|ネコマタベッド（桃）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NekomataBedMomo.jpg,nolink,124x150);|イストー岬ペットショップ&br;13,000G|キチン150万個をママさんに届けると商品追加|
+|ネコマタベッド（藍）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Ai.jpg,nolink,112x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（山吹）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Yamabuki.jpg,nolink,100x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（菫）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Sumire.jpg,nolink,106x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（茜）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Akane.jpg,nolink,113x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（杏）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Anzu.jpg,nolink,97x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（空）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Sora.jpg,nolink,98x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（胡桃・若菜）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_hutago.jpg,nolink,106x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（緑）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Midori.jpg,nolink,100x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Shiro.jpg,nolink,104x150);|イストー岬ペットショップ&br;13,000G||
+|ネコマタベッド（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/NekomataBed_Kuro.jpg,nolink,99x150);|イストー岬ペットショップ&br;13,000G||
+|敷布団|-|カジノ景品交換所（2月・8月）&br;1200e||
+|敷布団（若草）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/futon_wakakusa.png,nolink,150x150);|カジノ景品交換所（3月・9月）&br;1200e||
+|敷布団（ゼブラ）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/futon_zebra.png,nolink,150x150);|カジノ景品交換所（4月・10月）&br;1200e||
+|敷布団（迷彩）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/futon_meisai.png,nolink,150x150);|カジノ景品交換所（5月・11月）&br;1200e||
+|敷布団（ピンク）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/shikifuton_pink.jpg,nolink,150x150);|カジノ景品交換所（6月・12月）&br;1200e||
+|敷布団（赤）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Huton_red.jpg,nolink,85x150);|カジノ景品交換所（1月・7月）&br;1200e||
+|やしの木ハンモック|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/YashinokiHammock.jpg,nolink,150x150);|カジノ景品交換所（5月・11月）&br;1200e||
+|おとぎの国のベッド|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OtogiNoKuniNoBed.jpg,nolink,150x150);|ECOくじ Ver.13||
+|おとぎの国のベッド(黒)|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OtogiNoKuniNoBedKuro.jpg,nolink,150x150);|ECOくじ アニバゴージャス||
+|プリンセスベッド|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Princess_bed.jpg,nolink,150x132);|ECOくじ ウインターホリデー||
+|プリンセスベッド（ティタ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Princessbed_tita.jpg,nolink,150x150);|ECOくじ ハートメイトカーニバル||
+|羽毛掛け布団|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/UmouKakeButon.jpg,nolink,150x150);|ECO Shop 1000ShopPoint &br;（2009年期間限定お歳暮）||
+|水辺のビーチベッド|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292889734023.jpg,nolink,150x150);|ECOくじ ハネムーンバカンス||
+|カプセルベッド|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Capsulebed.jpg,nolink,150x149);|ECOくじ エレクトロメモリーズ||
+|きのこなベッド|-|2012年 きのこ狩りイベント||
+|リラクベッド（ピンク）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Rirakubed_p.jpg,nolink,150x149);|ECOくじ 天正月の赤頭巾|「使う」で…。|
+|リラクベッド（赤）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Rirakubed_r.jpg,nolink,150x150);|リラクベッド（ピンク）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」で…。|
+|診察ベッド（青・ゴースト有り）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/sinnryoudai.jpg,nolink,150x157);|ゴーストのマッドクリニック|アップタウン「裁縫おばさん」の家にいる「染色娘」に渡すと「桃・ゴースト有り」か「青・ゴースト無し」か「桃・ゴースト無し」のいずれかに交換することができる。|
+***壁・階段 [#a876f44e]
+|>|>|>|LEFT:~壁・階段|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|壁（クラシック）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_classic.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（カントリー）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_country.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（ノルマン）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_norman.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（マイナー）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_minor.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（クール）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_cool.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（ポップ）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_pop.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（ファンシー）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_fancy.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（ワイルド）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_wild.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|壁（ウッディー）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kabe_woody.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|階段（木）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1228452654909.jpg,nolink,110x150);|ECOタウンの家具屋ジュグラー|600e|
+|階段（金属）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kaidann_kinzoku.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|階段（大理石）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/kaidann_dairiseki.jpg,nolink,150x150);|ECOタウンの家具屋ジュグラー|600e|
+|螺旋階段（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/HelixStair_b.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/HelixStair_w.jpg,nolink,150x149);|ECOくじ ラジカル・セルフコンシャス|（白）に染色可能|
+|木の螺旋階段（ツタなし）|画像募集中|ECOくじ 優しい森の住人|（ツタあり）に染色可能|
+
+***その他 [#bf1d7c96]
+|>|>|>|LEFT:~その他|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|暖炉|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Danro.jpg,nolink,150x150);|高度金属精錬|&br;セメント:5&br;粘土:10&br;木片:5&br;ダイヤモンドのやすり:1&br;タタラ炉&br;&br;「使う」で暖炉に火がつく|
+|暖炉（赤）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DanroAka.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|暖炉*1（土曜日）&br;&br;「使う」で暖炉に火がつく|
+|本棚|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Hondana.jpg,nolink,150x150);|木材加工Lv3|&br;かたい木材:5&br;古書:1&br;釘:20&br;スムージーワックス:5&br;金槌|
+|本棚（水色）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HondanaMizuiro.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|本棚*1（日曜日）|
+|積み本（少）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Stackedbooks_l.jpg,nolink,150x150);|ファーム図鑑コンプリート報酬||
+|積み本（多）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/StackedBooks_m.jpg,nolink,150x149);|ファーム図鑑コンプリート報酬||
+|書架|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Boolshelf.jpg,nolink,150x150);|ファーム図鑑コンプリート報酬||
+|大きな書架|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Bookshelf_b.jpg,nolink,150x149);|ファーム図鑑コンプリート報酬||
+|大きな書架（両面）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Bookshelf_bs.jpg,nolink,150x149);|ファーム図鑑コンプリート報酬||
+|まきばの木棚（瓶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/smallshelf_bottle.png,nolink,150x150);|ECOくじ カントリー・カウガール&br;ECOくじ ロイヤルハニー・クイーンビー|（チーズ）（食器）（無し）に染色可能|
+|まきばの木棚（チーズ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/smallshelf_cheese.jpg,nolink,150x150);|染色||
+|まきばの木棚（食器）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/smallshelf_tableware.png,nolink,150x150);|染色||
+|まきばの木棚（無し）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/smallshelf_empty.png,nolink,150x150);|染色||
+|ドレッサー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Dresser.jpg,nolink,99x150);|||
+|ドレッサー（緑）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DresserMidori.jpg,nolink,124x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ドレッサー*1（金曜日）|
+|ラブリードレッサー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/LovelyDresser.jpg,nolink,86x150);|ECOプレイチケット第4弾||
+|不思議な鏡台|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/fushigi_kyodai.jpg,nolink,150x150);|ECOくじ Ver.16|「使う」で鏡にデスが映る|
+|おめかしドレッサー（桃）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Omekasdhidresser.jpg,nolink,150x150);|ECOくじ プリティロリータデビル|（緑）に染色可能&br;飛空庭倉庫+10|
+|冷蔵庫|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Reizouko.jpg,nolink,102x150);|平原スタンプコンプリート報酬|「使う」で飛空庭倉庫にアクセス可能|
+|瓶牛乳冷蔵庫|-|ファーム図鑑コンプリート報酬||
+|キッチンセット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KitchenSet.jpg,nolink,150x150);|ECOくじ Ver.6|「使う」でコンロに火がつく|
+|キッチンセット（茶）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KitchenSetBrown.jpg,nolink,150x150);|ECOくじ アニバ☆スペシャル！|「使う」でコンロに火がつく|
+|Ｌ字型キッチン|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/LJiGataKitchin.jpg,nolink,150x150);|ECOくじ RPG&br;ECOくじ ドキドキ・クッキング！|「使う」で鍋の蓋が開く|
+|キッチン|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/ss1.jpg,nolink,150x150);|ファームの収穫で入手|「使う」でコンロに火がつく|
+|ねこあしのバスタブ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NekoashiNoBathTub.jpg,nolink,150x150);|ECOプレイチケット第7弾|※「使う」を選んでも水は張らない|
+|湯煙露天風呂|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248965670589.jpg,nolink,150x150);|ECOくじ Ver.17|「使う」でアイテムを消費して湯を変更できる&br;選択肢は以下&br;&br;どのアイテムを使う？&br;・ミルク&br;・コーヒー豆&br;・オレンジ&br;・緑のゼリコ&br;・デフォルトに戻す&br;・何も使わない|
+|ビニールプール|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/VinylPool.jpg,nolink,150x150);|ECOくじ スプラッシュサマー|「使う」でプールに水を張る|
+|シャワールーム|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1276017648819.jpg,nolink,150x150);|ECOくじ スプラッシュサマー||
+|おばあちゃんのいろり|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ObaachanNoIrori.jpg,nolink,106x150);|ECOくじ Ver.11|「使う」で鍋の蓋が開く|
+|棺桶|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Kanoke.jpg,nolink,150x121);|ECOくじ Ver.10&br;ECOくじ 新春ベスト2009|飛空庭倉庫+10|
+|檻|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Ori.jpg,nolink,150x150);|ECOくじ Ver.19&br;ECOくじ パイレーツアドベンチャー|「使う」で扉の開閉|
+|檻（茶）|画像募集中|ECOくじ ジェイルハウス・インプリズン|「使う」で扉の開閉|
+|名家のグランドピアノ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/piano.jpg,nolink,150x150);|ECOくじ Ver.14|「使う」で鍵盤の蓋が開き♪モーションが流れる|
+|グランドピアノ（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Grandpiano_white.jpg,nolink,150x150);|ECOくじ エピック オブ ロマンス|「使う」で鍵盤の蓋が開き♪モーションが流れる|
+|パイプオルガン|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Pipeorgan.jpg,nolink,150x150);|ECOくじ 鏡祭月の双子||
+|レトロな黒板|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RetroNaKokuban.jpg,nolink,150x150);|ECOプレイチケット第12弾||
+|レトロな教壇|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RetroNaKyoudan.jpg,nolink,150x150);|ECOプレイチケット第12弾||
+|スピーカー|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1276017591905.jpg,nolink,150x150);|ECOくじ バレンタインライブ&br;ECOくじ スターライト☆ステージ||
+|ユニットバス|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Modular_bath.jpg,nolink,134x150);|ECOくじ 新生活|「使う」で風呂に湯を張り、洗面台の蛇口から水が出る|
+|バーラック|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Bar%20rack.jpg,nolink,150x150);|ECOくじ ワーキング・ワーウルフ|「使う」でバーラックの中身を片付ける|
+|バーカウンター（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Barcounter.jpg,nolink,150x150);|ECOくじ ワーキング・ワーウルフ|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（白）に染色できる。&br;「使う」でカウンターの上を片付ける|
+|バーカウンター（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Barcounter_w.jpg,nolink,150x149);|染色で入手|「使う」でカウンターの上を片付ける|
+|大きなかまど（パン）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kamado_pan.jpg,nolink,150x149);|ECOくじ ドキドキ・クッキング！|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで（ピザ）（パイ）に染色できる。&br;「使う」で巨麦粉を１個使用して対応する料理(投擲)が作れる|
+|大きなかまど（ピザ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kamado_piza.jpg,nolink,150x149);|染色|巨麦粉を所持した状態で「使う」でピザ(投擲)を作成する。&br;巨麦粉を所持していない場合、蓋が開く。|
+|大きなかまど（パイ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kamado_pai.jpg,nolink,150x150);|染色|巨麦粉を所持した状態で「使う」でパイ(投擲)を作成する。&br;巨麦粉を所持していない場合、蓋が開く。|
+|記憶の書架（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/memory_bookshelf_white.jpg,nolink,150x150);|2013年通年イベント「イリスと記憶の書架」|「使う」で各段が回転|
+|記憶の書架（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/memory_bookshelf_black.jpg,nolink,150x150);|~|~|
+|記憶の書架（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/memory_bookshelf_brown.jpg,nolink,150x150);|~|~|
+|スクールロッカー|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Schoollocker.jpg,nolink,150x150);|ECOくじ 早春スクールライフ|「使う」でロッカーが開く|
+|サイバータワー（青）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/BFurniture/CyberTower_b.jpg,nolink,150x149);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/BFurniture/CyberTower_w.jpg,nolink,150x150);|ECOくじ エンシェント・サイバーウェポン|（白）に染色可&br;タワーの中に物の設置可|
+|洋風東屋(大・白)|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/KohuAzumaya_b.jpg,nolink,150x150);|ECOくじ 夜会への招待状|(大・黒)(小・白)(小・黒)のいずれかに染色可能|
+|洋風東屋(小・白)|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/KohuAzumaya_s.jpg,nolink,150x150);|染色||

@@ -1,0 +1,17 @@
+# ドロップ率検証/リビングアーマー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[死霊知識>ドロップ率検証#qc2da4d1]]
+
+***リビングアーマー [#b27a95cf]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|鉄くず|マジックポーション|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（130体）|55個（42.31％）|57個（43.85％）|13個（10.00％）|5個（3.85％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***ネクロアーマー [#fb0a2eea]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|鉄くず|紋章紙|パワードリンク|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|162個（54.00％）|135個（45.00％）|1個（0.33％）|2個（0.67％）|
+|知識あり（165体）|78個（47.27％）|43個（26.06％）|1個（0.61％）|43個（26.06％）|

@@ -1,0 +1,42 @@
+# Skill/BladeMaster/Table
+
+#author("2017-04-07T18:47:49+00:00","","")
+-''&color(red){威力はATK比を基準とする。};''
+例：（使用者のATKのみを考慮した場合）ATK100で威力200%なら与えるダメージは200となる。
+//-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-スキル名称の色は&color(red){アクティブスキル};と&color(blue){パッシブスキル};に分類。&color(RED){アクティブスキルはLVの調整が可能};である。
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+☆:必須クラス
+◎:取得推奨
+○:あると便利
+△:限定状況でのみ役に立つ
+×:全く役に立たない
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #ブレイドマスター>Dungeon/InfiniteCorridorAbyssSkill#x49daef0]]''
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+|~LV|~スキル名|~最大Lv|~消費SP|~装備条件|~対象|~評価|~効果･備考|h
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|c
+|~1|''[[&color(blue){フードファイター};>Skill/BladeMaster/Explanation#g3892f88]]''|Lv5|-|-|-|◯|食べ物に部類される回復剤の効果を上昇。&br;上昇率：10%+Lv*5% &br;ソロ主体ならば、食料の現地調達が可能な廃鉱と光の塔の[[シュバリス>MobMagic#Lamia]]等で活躍する。&br;逆に他の場所では、狩場と安全地帯が近い等の理由から、使いづらいと言える。&br;サンドイッチなどを持ち歩くなら☆|
+|~|''[[&color(red){瞑想};>Skill/BladeMaster/Explanation#n7b72b53]]''|Lv5|11/24/38/53/69|無し|自分|×|[[フェンサー>Skill/Fencer]]の[[瞑想>Skill/Fencer/スキル詳細#h2938876]]と同一。&br;SPを消費してHPを回復。現在では金策手段も豊富な上に回復アイテムを大量に持てるため使い道はゼロに等しい|
+|~4|''[[&color(blue){ツーハンドソードマスタリー};>Skill/BladeMaster/Explanation#koriudk]]''|Lv5|-|両手剣・細剣|-|☆|両手剣装備時に、最低攻撃力を上昇させる。[[ソードマスタリー>Skill/SwordMan/Explanation#pe4ad457]]併用可&br;恩恵が1番大きいのがLv1だが、両手剣士ならば出来れば5まで上げたい所。|
+|~8|''[[&color(red){兜割り};>Skill/BladeMaster/Explanation#acbdfg7]]''|Lv5|24/24/24/24/24|一般|単体|◯|飛び上がり、体重を乗せて頭上から斬り下ろす。&br;対象が''虫''の場合、追加ダメージを与える。&br;♀と♂でモーションが違う。♂は垂直ジャンプ斬り下ろし。&br;♀は空中一回転斬り下ろし。&br;虫系の敵をよく狩るなら☆|
+|~10|''[[&color(red){気合};>Skill/BladeMaster/Explanation#def9188a]]''|Lv5|6/6/6/6/6|無し|自分|△|一定確率でステータス変化を解消。&br;支援ステも消滅するので注意。&br;覚えていると混乱した瞬間自己治療することもある。が、信用に値する確率ではない。|
+|~|''[[&color(red){ワー・クライ};>Skill/BladeMaster/Explanation#ueedda93]]''|Lv5|&color(#FF6666){MP6/6/6/6/8};&br;SP12/14/16/18/20|無し|円周囲|◯|周囲の敵にスタン効果、ダメージなし。範囲狩りのお供に。|
+|~13|''[[&color(red){巨木断ち};>Skill/BladeMaster/Explanation#acbdfg7]]''|Lv5|24/24/24/24/24|一般|単体|◯|巨木を切り倒す様に対象を真横に斬り抜く。&br;対象が''植物''の場合追加ダメージを与える。&br;左から右に銅薙ぎ。斧[[ブロウ>Skill/SwordMan/Explanation#kec10044]]と似た感じ。&br;植物系の敵をよく狩るなら☆|
+|~15|''[[&color(red){旋風剣};>Skill/BladeMaster/Explanation#odb9e44b]]''|Lv5|10/16/22/28/34|一般|円周囲|△|周囲８マスの敵にダメージ。威力は2倍～4倍。&br;ディレイが長すぎる。[[DC>Skill/SwordMan/Explanation#rd5b89b5]]と併用が吉。&br;下がって振り向き二段抜刀の方がいいかも。|
+|~18|''[[&color(red){隼の太刀};>Skill/BladeMaster/Explanation#acbdfg7]]''|Lv5|24/24/24/24/24|一般|単体|◯|隼が小鳥を捕らえる様に、鋭く斬り下ろす。&br;対象が''水中生物''の場合、追加ダメージを与える。&br;捻りを入れながら小ジャンプ後叩き下ろし。&br;%%水中生物系は''数えるほどしか存在しない''ため注意。%%&br;''[[海底洞窟>Dungeon/UnderseaCave]]実装で少しは使えるようになった？''&br;水中生物系の敵をよく狩るなら☆|
+|~20|''[[&color(red){アタックアシスト};>Skill/BladeMaster/Explanation#q951d7b3]]''|Lv5|&color(#FF6666){MP5/10/15/20/25};&br;SP5/12/20/27/35|-|宿主|△|一定時間宿主の攻撃力に自分の攻撃力(ATKとM.ATK)を上乗せする。&br;憑依時専用の為、消費SP、消費MPは実質二倍。ソードマン系は憑依する機会が少ない。|
+|~22|''[[&color(red){霞斬り};>Skill/BladeMaster/Explanation#acbdfg7]]''|Lv5|24/24/24/24/24|一般|単体|◯|素早い鳥を捕らえられる様な正確な斬り攻撃を行う。&br;対象が''鳥''の場合、追加ダメージを与える。&br;波紋状のエフェクトと共に袈裟切り。&br;鳥系の敵をよく狩るなら☆|
+|~24|''[[&color(red){アギト砕き};>Skill/BladeMaster/Explanation#acbdfg7]]''|Lv5|24/24/24/24/24|一般|単体|◯|獣の顎を砕くように斬り上げる。&br;対象が''動物''の場合、追加ダメージを与える。&br;切り上げと共に橙色の針の様なエフェクト。&br;Lv動物系の敵をよく狩るなら☆、イーストDの狩りでは特に役立つ。|
+|~25|''[[&color(red){真空波};>Skill/BladeMaster/Explanation#zb9ce50c]]''|Lv5|10/15/20/25/30|一般|単体|△|射程3マスの中距離攻撃。命中はSHit依存|
+|~28|''[[&color(red){燕返し};>Skill/BladeMaster/Explanation#tubamek]]''|Lv5|5/6/7/8/10|一般|単体|◯|対象が''飛行''属性を持っている場合、二回斬り付ける。&br;飛行する敵をよく狩るなら☆|
+|~30|''[[&color(blue){バーサーク};>Skill/BladeMaster/Explanation#g3892fas]]''|Lv5|-|-|-|△|HPが一定値以下になるとで自動的に狂戦士状態となる。&br;狂戦士状態中は操作不能（例外あり）。狩場で迷惑をかける事も。&br;通常は「バーサークコントロール」とセットで習得するとよい。|
+|~|''[[&color(blue){バーサークコントロール};>Skill/BladeMaster/Explanation#ge4uai6]]''|Lv5|-|-|-|△|狂戦士時に一定確率で操作が可能になる。&br;判定成功率はINT・スキルレベルに依存する。&br;対象を狂戦士化する[[ファナティシズム>Skill/Cabalist/Explanation#e53a7a5f]]にも効果有。|
+|~|''[[&color(blue){剣士の魂};>Skill/BladeMaster/Explanation#soulofs]]''|Lv1|-|-|宿主|◯|憑依時宿主の戦闘能力を上昇させる。上昇量は、自分の能力に依存する。&br;ログアウト時にも効果が引き継がれる。|
+|~35|''[[&color(red){流水の構え};>Skill/BladeMaster/Explanation#ryuusui]]''|Lv5|&color(#FF6666){MP30/30/30/30/30};&br;SP30/30/30/30/30|一般|自分|◎|効果時間中、武器を用いたスキルの消費SPを軽減する。&br;MP消費が大きすぎる為、MPの回復手段が必要になる。[[居合い>Skill/SwordMan/Explanation#s5b95493]]型には有効。&br;憑依中に使用すると宿主にかかる。&br;一閃連打、神速斬り、ジリオンブレイドなど燃費の悪いスキルが増えたため取る価値は上がった。|
+|~38|''[[&color(red){殺界};>Skill/BladeMaster/Explanation#sakkai4]]''|Lv5|8/10/12/14/16|無し|自分|◯|効果中、次の行動のキャストを無くす。&br;以前は動くと解除されていたが、現在は移動可能。|
+|~40|''[[&color(red){無拍子};>Skill/BladeMaster/Explanation#muhyous]]''|Lv5|4/6/8/10/12|無し|指定地面|△|指定座標に高速移動する。総合的には[[ドラゴ>PartnerList/Ride#k67fd6b4]]と同程度。%%ネタスキル。%%&br;三次職スキル「[[グラディエイター>Skill/Gladiator/Explanation#reino3]]」発動時の移動手段としては不要に、バーサーク時の制御にはあり|
+|~|''[[&color(blue){コンバインフォース};>Skill/BladeMaster/Explanation#combine]]''|Lv3|-|-|-|☆|パーティを組むと自身の攻撃力にボーナスが付く。&br;組むだけで効果が発動する。|
+|~43|''[[&color(red){二段抜刀};>Skill/BladeMaster/Explanation#battou]]''|Lv5|18/20/22/24/26|剣・短剣・斧|自身扇型|◯|自分の前方を二回攻撃。|
+|~50|''[[&color(red){百鬼哭};>Skill/BladeMaster/Explanation#hyakki]]''|Lv5|22/27/32/37/42|一般|単体|◎|連続で切り付ける。&br; 居合い発動後のディレイ中に使用することで、居合いのディレイと百鬼哭のキャストがキャンセル。|

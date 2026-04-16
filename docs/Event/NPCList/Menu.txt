@@ -1,0 +1,8 @@
+# Event/NPCList/Menu
+
+-[[NPCリスト>Event/NPCList]]
+--[[アクロポリスシティ >Event/NPCList/AcropolisCity]]/[[ タイニーアイランド >Event/NPCList/TinyIsland]]/[[ ダンプティーアイランド >Event/NPCList/DumptyIsland]]
+--[[ノーザン >Event/NPCList/Northern]]/[[ アイアンサウス >Event/NPCList/IronSouth]]/[[ ファーイースト >Event/NPCList/Fareast]]/[[ モーグ >Event/NPCList/Morg]]
+--[[トンカ >Event/NPCList/Tonka]]/[[ マイマイ島 >Event/NPCList/MaimaiIsland]]
+--[[ドミニオン界 >Event/NPCList/Westfort]]/[[ タイタニア界 >Event/NPCList#Taitania]]/[[ 特殊マップ >Event/NPCList#special]]
+RIGHT:&edit(,noicon){NPCリストメニューを編集};

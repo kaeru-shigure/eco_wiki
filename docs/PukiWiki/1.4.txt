@@ -1,0 +1,6 @@
+# PukiWiki/1.4
+
+#freeze
+#nofollow
+#norelated
+#ls2

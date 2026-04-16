@@ -1,0 +1,80 @@
+# ドロップ率検証/草系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***草（西アクロニア平原） [#af4c513d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|レグナ草|リール草|クコーの実|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（46体）|22個（47.83％）|10個（21.74％）|12個（26.09％）|2個（4.35％）|
+
+***草（ノーザン岬） [#u72d4040]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マリカ草|クコーの実|草の種1|アボリー草|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|94個（47.00％）|76個（38.00％）|24個（12.00％）|6個（3.00％）|0個（0.00％）|
+|知識あり（50体）|0個（0.00％）|15個（30.00％）|15個（30.00％）|0個（0.00％）|20個（40.00％）|
+
+***草（東アクロニア平原） [#rbae8522]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|アボリー草|ミティー草|マリカ草|ルーン草|クコーの実|草の種（４）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（150体）|21個（14.00％）|38個（25.33％）|18個（12.00％）|31個（20.67％）|17個（11.33％）|24個（16.00％）|1個（0.67％）|
+
+***草（南アクロニア平原） [#h44843bb]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ギコギコ草|タムタム草|クコーの実|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（20体）|5個（25.00％）|7個（35.00％）|5個（25.00％）|3個（15.00％）|
+
+***草（北アクロニア平原） [#d436d6e6]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミティー草|ルーン草|クコーの実|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（27体）|10個（37.04％）|9個（33.33％）|4個（14.81％）|4個（14.81％）|
+
+***草（イストー岬） [#a0e01779]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|レグナ草|リール草|クコーの実|草の種（２）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（50体）|14個（28.00％）|20個（40.00％）|12個（24.00％）|3個（6.00％）|1個（2.00％）|
+
+***草（アクロニアの林） [#b250f1f2]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マリカ草|アボリー草|リール草|レグナ草|クコーの実|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（30体）|9個（30.00％）|4個（13.33％）|3個（10.00％）|4個（13.33％）|5個（16.67％）|5個（16.67％）|
+
+***草（スノップ山道（南）） [#a69b03fa]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||マリカ草|クコーの実|アボリー草|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（20体）|9個（45.00％）|8個（40.00％）|3個（15.00％）|
+|知識あり（100体）|44個（44.00％）|26個（26.00％）|30個（30.00％）|
+
+***草（スノップ雪原） [#j1103d8a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||マリカ草|アボリー草|クコーの実|草の種（１）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（30体）|9個（30.00％）|10個（33.33％）|10個（33.33％）|1個（3.33％）|
+
+***草（軍艦島） [#hd11b450]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||ギコギコ草|タムタム草|クコーの実|草の種（３）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（30体）|10個（33.33％）|10個（33.33％）|9個（30.00％）|1個（3.33％）|
+
+***スパイシーハーブ [#m623c457]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|コーヒー豆|ペッパー|香辛料|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（16体）|12個（75.00％）|4個（25.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|113個（56.50％）|41個（20.50％）|29個（14.50％）|17個（8.50％）|

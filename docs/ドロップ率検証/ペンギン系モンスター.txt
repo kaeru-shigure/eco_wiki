@@ -1,0 +1,17 @@
+# ドロップ率検証/ペンギン系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鳥知識>ドロップ率検証#kd456d9b]]
+
+***プルーン [#d9fe44a3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミルク|マシュマロ|スノードロップ|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|53個（53.00％）|31個（31.00％）|16個（16.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（400体）|197個（49.25％）|126個（31.50％）|60個（15.00％）|16個（4.00％）|1個（0.25％）|
+
+***南国ペペン [#c5431424]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ブラックビネガー|香辛料|マシュマロ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|45個（45.00％）|36個（36.00％）|19個（19.00％）|0個（0.00％）|
+|知識あり（358体）|176個（49.16％）|109個（30.45％）|58個（16.20％）|15個（4.19％）|

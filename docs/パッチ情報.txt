@@ -1,0 +1,290 @@
+# パッチ情報
+
+*最新パッチ情報 [#hc08991d]
+
+-最新のアップデートは、[[公式サイト:http://www.econline.jp/news/play/update/index.html]] をご覧ください。
+
+//パッチが当たった場合は編集で#include()内の日付を変更し、
+//[[テンプレート>パッチ情報/テンプレート]]を元に「パッチ情報/YYMMDD」のページを作成してください。
+//#include(パッチ情報/061222,notitle)
+　
+**パッチ情報 [#od25aa07]
+新規ページを作る場合のページ名は「パッチ情報/YYMMDD」形式としてください。
+そうすることで、パッチ情報トップページから一覧表示出来るようになります。
+
+内容を見たい場合は下記リンク先から各ページに飛んでください。
+#ls2(,link,過去ログ一覧)
+
+**パッチファイル [#s3b28acf]
+//-[[現在のクライアント（ver.181）>ftp://download.gungho.jp/eco/ECO_SETUP.exe]]に適用するパッチです。
+//http://patch.gungho.jp:8081/D00000002/ver00000002_1.cab (07/29)
+//http://patch.gungho.jp:8081/D00000003/ver00000003_1.cab (07/31)
+//http://patch.gungho.jp:8081/D00000004/ver00000004_1.cab (08/01)
+//http://patch.gungho.jp:8081/D00000005/ver00000005_1.cab (08/03)
+//http://patch.gungho.jp:8081/D00000006/ver00000006_1.cab (08/03)
+//http://patch.gungho.jp:8081/D00000007/ver00000007_1.cab (08/05)
+//http://patch.gungho.jp:8081/D00000008/ver00000008_1.cab (08/09)
+//http://patch.gungho.jp:8081/D00000009/ver00000009_1.cab (08/10)
+//http://patch.gungho.jp:8081/D00000009/ver00000009_2.cab (08/10)
+//http://patch.gungho.jp:8081/D00000010/ver00000010_1.cab (08/10)
+//http://patch.gungho.jp:8081/D00000011/ver00000011_1.cab (08/12)
+//http://patch.gungho.jp:8081/D00000012/ver00000012_1.cab (08/15)
+//http://patch.gungho.jp:8081/D00000013/ver00000013_1.cab (08/16)
+//http://patch.gungho.jp:8081/D00000014/ver00000014_1.cab (08/19)
+//http://patch.gungho.jp:8081/D00000014/ver00000014_2.cab (08/19)
+//http://patch.gungho.jp:8081/D00000015/ver00000015_1.cab (08/19)
+//http://patch.gungho.jp:8081/D00000016/ver00000016_1.cab (08/19)
+//http://patch.gungho.jp:8081/D00000017/ver00000017_1.cab (08/26)
+//http://patch.gungho.jp:8081/D00000018/ver00000018_1.cab (08/26)
+//http://patch.gungho.jp:8081/D00000019/ver00000019_1.cab (08/02)
+//http://patch.gungho.jp:8081/D00000020/ver00000020_1.cab (09/06)
+//http://patch.gungho.jp:8081/D00000021/ver00000021_1.cab (09/06)
+//http://patch.gungho.jp:8081/D00000022/ver00000022_1.cab (09/09)
+//http://patch.gungho.jp:8081/D00000022/ver00000022_2.cab (09/09)
+//http://patch.gungho.jp:8081/D00000023/ver00000023_1.cab (09/09)
+//http://patch.gungho.jp:8081/D00000024/ver00000024_1.cab (09/16)
+//http://patch.gungho.jp:8081/D00000025/ver00000025_1.cab (09/16)
+//http://patch.gungho.jp:8081/D00000026/ver00000026_1.cab (09/16)
+//http://patch.gungho.jp:8081/D00000027/ver00000027_1.cab (09/20)
+//http://patch.gungho.jp:8081/D00000028/ver00000028_1.cab (09/22)
+//http://patch.gungho.jp:8081/D00000029/ver00000029_1.cab (09/22)
+//http://patch.gungho.jp:8081/D00000030/ver00000030_1.cab (09/22)
+//http://patch.gungho.jp:8081/D00000031/ver00000031_1.cab (09/30)
+//http://patch.gungho.jp:8081/D00000031/ver00000031_2.cab (09/30)
+//http://patch.gungho.jp:8081/D00000032/ver00000032_1.cab (09/30)
+//http://patch.gungho.jp:8081/D00000033/ver00000033_1.cab (09/30)
+//http://patch.gungho.jp:8081/D00000034/ver00000034_1.cab (10/01)
+//http://patch.gungho.jp:8081/D00000035/ver00000035_1.cab (10/07)
+//http://patch.gungho.jp:8081/D00000036/ver00000036_1.cab (10/14)
+//http://patch.gungho.jp:8081/D00000036/ver00000036_2.cab (10/14)
+//http://patch.gungho.jp:8081/D00000036/ver00000036_3.cab (10/14)
+//http://patch.gungho.jp:8081/D00000037/ver00000037_1.cab (10/15)
+//http://patch.gungho.jp:8081/D00000038/ver00000038_1.cab (10/15)
+//http://patch.gungho.jp:8081/D00000039/ver00000039_1.cab (10/17)
+//http://patch.gungho.jp:8081/D00000040/ver00000040_1.cab (10/21)
+//http://patch.gungho.jp:8081/D00000041/ver00000041_1.cab (10/26)
+//http://patch.gungho.jp:8081/D00000042/ver00000042_1.cab (10/27)
+//http://patch.gungho.jp:8081/D00000043/ver00000043_1.cab (10/27)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_1.cab (10/28)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_2.cab (10/28)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_3.cab (10/28)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_4.cab (10/28)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_5.cab (10/28)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_6.cab (10/28)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_7.cab (10/28)
+//http://patch.gungho.jp:8081/D00000044/ver00000044_8.cab (10/28)
+//http://patch.gungho.jp:8081/D00000045/ver00000045_1.cab (10/28)
+//http://patch.gungho.jp:8081/D00000046/ver00000046_1.cab (11/04)
+//http://patch.gungho.jp:8081/D00000047/ver00000047_1.cab (11/04)
+//http://patch.gungho.jp:8081/D00000048/ver00000048_1.cab (11/04)
+//http://patch.gungho.jp:8081/D00000049/ver00000049_1.cab (11/11)
+//http://patch.gungho.jp:8081/D00000050/ver00000050_1.cab (11/11)
+//http://patch.gungho.jp:8081/D00000051/ver00000051_1.cab (11/11)
+//http://patch.gungho.jp:8081/D00000052/ver00000052_1.cab (11/18)
+//http://patch.gungho.jp:8081/D00000052/ver00000052_2.cab (11/18)
+//http://patch.gungho.jp:8081/D00000053/ver00000053_1.cab (11/18)
+//http://patch.gungho.jp:8081/D00000054/ver00000054_1.cab (11/25)
+//http://patch.gungho.jp:8081/D00000055/ver00000055_1.cab (12/02)
+//http://patch.gungho.jp:8081/D00000055/ver00000055_2.cab (12/02)
+//http://patch.gungho.jp:8081/D00000055/ver00000055_3.cab (12/02)
+//http://patch.gungho.jp:8081/D00000055/ver00000055_4.cab (12/02)
+//http://patch.gungho.jp:8081/D00000056/ver00000056_1.cab (12/03)
+//http://patch.gungho.jp:8081/D00000057/ver00000057_1.cab (12/09)
+//http://patch.gungho.jp:8081/D00000057/ver00000057_2.cab (12/09)
+//http://patch.gungho.jp:8081/D00000057/ver00000057_3.cab (12/09)
+//http://patch.gungho.jp:8081/D00000057/ver00000057_4.cab (12/09)
+//http://patch.gungho.jp:8081/D00000058/ver00000058_1.cab (12/09)
+//http://patch.gungho.jp:8081/D00000059/ver00000059_1.cab (12/16)
+//http://patch.gungho.jp:8081/D00000059/ver00000059_2.cab (12/16)
+//http://patch.gungho.jp:8081/D00000060/ver00000060_1.cab (12/17)
+//http://patch.gungho.jp:8081/D00000061/ver00000061_1.cab (12/18)
+//http://patch.gungho.jp:8081/D00000062/ver00000062_1.cab (12/22)
+//http://patch.gungho.jp:8081/D00000063/ver00000063_1.cab (12/22)
+//http://patch.gungho.jp:8081/D00000064/ver00000064_1.cab (12/23)
+//http://patch.gungho.jp:8081/D00000065/ver00000065_1.cab (12/24)
+//http://patch.gungho.jp:8081/D00000066/ver00000066_1.cab (12/26)
+//http://patch.gungho.jp:8081/D00000067/ver00000067_1.cab (12/29)
+//http://patch.gungho.jp:8081/D00000067/ver00000067_2.cab (12/29)
+//http://patch.gungho.jp:8081/D00000068/ver00000068_1.cab (12/29)
+//http://patch.gungho.jp:8081/D00000069/ver00000069_1.cab (12/29)
+//http://patch.gungho.jp:8081/D00000070/ver00000070_1.cab (01/06)
+//http://patch.gungho.jp:8081/D00000071/ver00000071_1.cab (01/13)
+//http://patch.gungho.jp:8081/D00000072/ver00000072_1.cab (01/13)
+//http://patch.gungho.jp:8081/D00000073/ver00000073_1.cab (01/17)
+//http://patch.gungho.jp:8081/D00000074/ver00000074_1.cab (01/20)
+//http://patch.gungho.jp:8081/D00000075/ver00000075_1.cab (01/20)
+//http://patch.gungho.jp:8081/D00000076/ver00000076_1.cab (01/27)
+//http://patch.gungho.jp:8081/D00000076/ver00000076_2.cab (01/27)
+//http://patch.gungho.jp:8081/D00000077/ver00000077_1.cab (01/27)
+//http://patch.gungho.jp:8081/D00000078/ver00000078_1.cab (01/27)
+//http://patch.gungho.jp:8081/D00000079/ver00000079_1.cab (02/03)
+//http://patch.gungho.jp:8081/D00000080/ver00000080_1.cab (02/10)
+//http://patch.gungho.jp:8081/D00000081/ver00000081_1.cab (02/17)
+//http://patch.gungho.jp:8081/D00000082/ver00000082_1.cab (02/17)
+//http://patch.gungho.jp:8081/D00000083/ver00000083_1.cab (02/24)
+//http://patch.gungho.jp:8081/D00000084/ver00000084_1.cab (03/03)
+//http://patch.gungho.jp:8081/D00000085/ver00000085_1.cab (03/03)
+//http://patch.gungho.jp:8081/D00000086/ver00000086_1.cab (03/10)
+//http://patch.gungho.jp:8081/D00000086/ver00000086_2.cab (03/10)
+//http://patch.gungho.jp:8081/D00000087/ver00000087_1.cab (03/10)
+//http://patch.gungho.jp:8081/D00000088/ver00000088_1.cab (03/13)
+//http://patch.gungho.jp:8081/D00000089/ver00000089_1.cab (03/17)
+//http://patch.gungho.jp:8081/D00000090/ver00000090_1.cab (03/24)
+//http://patch.gungho.jp:8081/D00000090/ver00000090_2.cab (03/24)
+//http://patch.gungho.jp:8081/D00000090/ver00000090_3.cab (03/24)
+//http://patch.gungho.jp:8081/D00000090/ver00000090_4.cab (03/24)
+//http://patch.gungho.jp:8081/D00000090/ver00000090_5.cab (03/24)
+//http://patch.gungho.jp:8081/D00000090/ver00000090_6.cab (03/24)
+//http://patch.gungho.jp:8081/D00000091/ver00000091_1.cab (03/31)
+//http://patch.gungho.jp:8081/D00000092/ver00000092_1.cab (04/07)
+//http://patch.gungho.jp:8081/D00000093/ver00000093_1.cab (04/07)
+//http://patch.gungho.jp:8081/D00000094/ver00000094_1.cab (04/14)
+//http://patch.gungho.jp:8081/D00000095/ver00000095_1.cab (04/14)
+//http://patch.gungho.jp:8081/D00000096/ver00000096_1.cab (04/21)
+//http://patch.gungho.jp:8081/D00000096/ver00000096_2.cab (04/21)
+//http://patch.gungho.jp:8081/D00000097/ver00000097_1.cab (04/21)
+//http://patch.gungho.jp:8081/D00000098/ver00000098_1.cab (04/21)
+//http://patch.gungho.jp:8081/D00000099/ver00000099_1.cab (04/24)
+//http://patch.gungho.jp:8081/D00000100/ver00000100_1.cab (04/28)
+//http://patch.gungho.jp:8081/D00000100/ver00000100_2.cab (04/28)
+//http://patch.gungho.jp:8081/D00000100/ver00000100_3.cab (04/28)
+//http://patch.gungho.jp:8081/D00000100/ver00000100_4.cab (04/28)
+//http://patch.gungho.jp:8081/D00000101/ver00000101_1.cab (04/28)
+//http://patch.gungho.jp:8081/D00000102/ver00000102_1.cab (04/28)
+//http://patch.gungho.jp:8081/D00000103/ver00000103_1.cab (05/01)
+//http://patch.gungho.jp:8081/D00000104/ver00000104_1.cab (05/09)
+//http://patch.gungho.jp:8081/D00000105/ver00000105_1.cab (05/12)
+//http://patch.gungho.jp:8081/D00000106/ver00000106_1.cab (05/12)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_1.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_2.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_3.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_4.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_5.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_6.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_7.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_8.cab (05/19)
+//http://patch.gungho.jp:8081/D00000107/ver00000107_9.cab (05/19)
+//http://patch.gungho.jp:8081/D00000108/ver00000108_1.cab (05/19)
+//http://patch.gungho.jp:8081/D00000109/ver00000109_1.cab (05/26)
+//http://patch.gungho.jp:8081/D00000109/ver00000109_2.cab (05/26)
+//http://patch.gungho.jp:8081/D00000110/ver00000110_1.cab (05/26)
+//http://patch.gungho.jp:8081/D00000111/ver00000111_1.cab (06/02)
+//http://patch.gungho.jp:8081/D00000111/ver00000111_2.cab (06/02)
+//http://patch.gungho.jp:8081/D00000112/ver00000112_1.cab (06/09)
+//http://patch.gungho.jp:8081/D00000113/ver00000113_1.cab (06/16)
+//http://patch.gungho.jp:8081/D00000114/ver00000114_1.cab (06/16)
+//http://patch.gungho.jp:8081/D00000115/ver00000115_1.cab (06/16)
+//http://patch.gungho.jp:8081/D00000116/ver00000116_1.cab (06/19)
+//http://patch.gungho.jp:8081/D00000117/ver00000117_1.cab (06/23)
+//http://patch.gungho.jp:8081/D00000117/ver00000117_2.cab (06/23)
+//http://patch.gungho.jp:8081/D00000118/ver00000118_1.cab (06/26)
+//http://patch.gungho.jp:8081/D00000119/ver00000119_1.cab (06/30)
+//http://patch.gungho.jp:8081/D00000120/ver00000120_1.cab (07/07)
+//http://patch.gungho.jp:8081/D00000120/ver00000120_2.cab (07/07)
+//http://patch.gungho.jp:8081/D00000120/ver00000120_3.cab (07/07)
+//http://patch.gungho.jp:8081/D00000120/ver00000120_4.cab (07/07)
+//http://patch.gungho.jp:8081/D00000120/ver00000120_5.cab (07/07)
+//http://patch.gungho.jp:8081/D00000120/ver00000120_6.cab (07/07)
+//http://patch.gungho.jp:8081/D00000121/ver00000121_1.cab (07/07)
+//http://patch.gungho.jp:8081/D00000122/ver00000122_1.cab (07/14)
+//http://patch.gungho.jp:8081/D00000123/ver00000123_1.cab (07/14)
+//http://patch.gungho.jp:8081/D00000124/ver00000124_1.cab (07/21)
+//http://patch.gungho.jp:8081/D00000124/ver00000124_2.cab (07/21)
+//http://patch.gungho.jp:8081/D00000125/ver00000125_1.cab (07/21)
+//http://patch.gungho.jp:8081/D00000126/ver00000126_1.cab (07/22)
+//http://patch.gungho.jp:8081/D00000127/ver00000127_1.cab (07/26)
+//http://patch.gungho.jp:8081/D00000128/ver00000128_1.cab (07/28)
+//http://patch.gungho.jp:8081/D00000129/ver00000129_1.cab (07/28)
+//http://patch.gungho.jp:8081/D00000130/ver00000130_1.cab (08/04)
+//http://patch.gungho.jp:8081/D00000131/ver00000131_1.cab (08/11)
+//http://patch.gungho.jp:8081/D00000132/ver00000132_1.cab (08/18)
+//http://patch.gungho.jp:8081/D00000133/ver00000133_1.cab (08/25)
+//http://patch.gungho.jp:8081/D00000134/ver00000134_1.cab (08/26)
+//http://patch.gungho.jp:8081/D00000135/ver00000135_1.cab (08/28)
+//http://patch.gungho.jp:8081/D00000136/ver00000136_1.cab (09/01)
+//http://patch.gungho.jp:8081/D00000137/ver00000137_1.cab (09/08)
+//http://patch.gungho.jp:8081/D00000138/ver00000138_1.cab (09/08)
+//http://patch.gungho.jp:8081/D00000139/ver00000139_1.cab (09/15)
+//http://patch.gungho.jp:8081/D00000140/ver00000140_1.cab (09/22)
+//http://patch.gungho.jp:8081/D00000141/ver00000141_1.cab (09/25)
+//http://patch.gungho.jp:8081/D00000142/ver00000142_1.cab (09/29)
+//http://patch.gungho.jp:8081/D00000143/ver00000143_1.cab (09/29)
+//http://patch.gungho.jp:8081/D00000144/ver00000144_1.cab (10/06)
+//http://patch.gungho.jp:8081/D00000144/ver00000144_2.cab (10/06)
+//http://patch.gungho.jp:8081/D00000145/ver00000145_1.cab (10/06)
+//http://patch.gungho.jp:8081/D00000146/ver00000146_1.cab (10/13)
+//http://patch.gungho.jp:8081/D00000147/ver00000147_1.cab (10/14)
+//http://patch.gungho.jp:8081/D00000148/ver00000148_1.cab (10/20)
+//http://patch.gungho.jp:8081/D00000149/ver00000149_1.cab (10/20)
+//http://patch.gungho.jp:8081/D00000150/ver00000150_1.cab (10/27)
+//http://patch.gungho.jp:8081/D00000151/ver00000151_1.cab (10/27)
+//http://patch.gungho.jp:8081/D00000152/ver00000152_1.cab (11/02)
+//http://patch.gungho.jp:8081/D00000153/ver00000153_1.cab (11/10)
+//http://patch.gungho.jp:8081/D00000154/ver00000154_1.cab (11/17)
+//http://patch.gungho.jp:8081/D00000155/ver00000155_1.cab (11/24)
+//http://patch.gungho.jp:8081/D00000156/ver00000156_1.cab (12/01)
+//http://patch.gungho.jp:8081/D00000156/ver00000156_2.cab (12/01)
+//http://patch.gungho.jp:8081/D00000156/ver00000156_3.cab (12/01)
+//http://patch.gungho.jp:8081/D00000156/ver00000156_4.cab (12/01)
+//http://patch.gungho.jp:8081/D00000157/ver00000157_1.cab (12/01)
+//http://patch.gungho.jp:8081/D00000158/ver00000158_1.cab (12/04)
+//http://patch.gungho.jp:8081/D00000159/ver00000159_1.cab (12/08)
+//http://patch.gungho.jp:8081/D00000159/ver00000159_2.cab (12/08)
+//http://patch.gungho.jp:8081/D00000159/ver00000159_3.cab (12/08)
+//http://patch.gungho.jp:8081/D00000170/ver00000170_1.cab
+//&br;
+-手動でアップデートする場合、解凍だけでは適用されない場合があります。
+その場合は、解凍したファイルを読み取り専用属性にして_tempフォルダに入れてください。
+cabが展開出来ないだけなので手動で解凍しておけばランチャーがパッチを適用してくれます。
+&br;
+-クライアントは約1.6GBあるので分割ダウンロードは[[公式>http://www.econline.jp/start/lv0/dl.html]]をご覧ください。
+
+**サーバー情報 [#j39525c8]
+
+***Notice [#v371d9a9]
+61.215.220.73:80
+=www.econline.jp
+
+***Patch Server [#bedc599b]
+221.247.195.165:8081
+＝patch.gungho.jp
+＝usen-219x123x155x165.ap-US.usen.ad.jp
+
+***Login Server [#d4eb50ba]
+211.13.236.212:12000
+
+***Lupinus [#v6d83301]
+211.13.236.210:12000
+211.13.236.210:12001
+211.13.236.211:12000
+211.13.236.211:12001
+211.13.236.212:12000
+211.13.236.212:12001
+
+***Clover [#f5f18f56]
+211.13.236.226:12000
+211.13.236.226:12001
+211.13.236.227:12000
+211.13.236.227:12001
+211.13.236.228:12000
+211.13.236.228:12001
+
+***Freesia [#d32d682f]
+211.13.236.242:12000
+211.13.236.242:12001
+211.13.236.243:12000
+211.13.236.243:12001
+211.13.236.244:12000
+211.13.236.244:12001
+
+***Zinnia [#q4c4b56a]
+211.13.236.162:12000
+211.13.236.162:12001
+211.13.236.163:12000
+211.13.236.163:12001
+211.13.236.164:12000
+211.13.236.164:12001
+
+**コメント [#w97ed097]
+
+#pcomment

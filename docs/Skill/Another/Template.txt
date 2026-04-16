@@ -1,0 +1,148 @@
+# Skill/Another/Template
+
+#author("2016-03-22T13:55:45+00:00","","")
+#include(Skill/Another/MenuList,notitle)
+
+*アナザーページ [#zef7ba04]
+#contents
+
+**アナザーページの特徴 [#ud8018c0]
+-[[アナザークロニクル>Job/AnotherChronicle]]のシステム「アナザーブック」にて装着可能なアナザーロアの1つ。
+-（公式より）
+-アナザー自身が持つ職業系統は系。
+
+**アナザーページ装着時のステータス上昇値 [#j5e45543]
+|>|>|~完成数|~1|~2|~3|~4|~5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|~STR||||||
+|>|>|~DEX||||||
+|>|>|~INT||||||
+|>|>|~VIT||||||
+|>|>|~AGI||||||
+|>|>|~MAG||||||
+|>|>|~ |>|>|>|>| |
+|>|>|~最大HP||||||
+|>|>|~最大MP||||||
+|>|>|~最大SP||||||
+|>|>|~ |>|>|>|>| |
+|>|~ATK|~MIN||||||
+|>|~|~MAX||||||
+|>|~M.ATK|~MIN||||||
+|>|~|~MAX||||||
+|>|>|~DEF(-)||||||
+|>|>|~M.DEF(-)||||||
+|>|>|~S.HIT||||||
+|>|>|~L.HIT||||||
+|>|>|~S.AVO||||||
+|>|>|~L.AVO||||||
+
+**スキル [#b3f5b602]
+|~タイプ|~スキル名|~使用対象&br;範囲|~射程|~消費&br;&color(blue){MP};/&color(red){SP};|~説明|~拡張スキル|~追加効果|~備考|h
+|LEFT:|LEFT:|CENTER:|CENTER:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|&color(red){Active};|[[アナザーブック開放>#trans_book]]|自分|－|－|アナザークロニクル状態になる|なし|||
+|&color(blue){Passive};|[[スキル名>#skill1]]|－|－|－||なし|||
+|&color(red){Active};|[[スキル名>#skill2]]||||||||
+|~|~|~|~|~|~||||
+|~|~|~|~|~|~||||
+|~|~|~|~|~|~||||
+|~|~|~|~|~|~||||
+|&color(red){Active};|[[スキル名>#skill3]]||||||||
+|~|~|~|~|~|~||||
+|~|~|~|~|~|~||||
+|~|~|~|~|~|~||||
+|~|~|~|~|~|~||||
+
+**スキル詳細 [#k0e8599d]
+
+***アナザーブック開放 [#trans_book]
+-&color(red){''Active''};
+
+-憑依中使用不能
+-装備しているアナザーページのアナザーを開放し、アナザークロニクル状態になる&br;スキル使用後は30分後に再度使用することが可能。
+
+|>|>|~SkillLv|~1|~2|~3|~4|~5|~6|~7|~8|~9|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|~STR||||||||||
+|>|>|~DEX||||||||||
+|>|>|~INT||||||||||
+|>|>|~VIT||||||||||
+|>|>|~AGI||||||||||
+|>|>|~MAG||||||||||
+|>|>|~ |>|>|>|>|>|>|>|>| |
+|>|>|~最大HP||||||||||
+|>|>|~最大MP||||||||||
+|>|>|~最大SP||||||||||
+|>|>|~ |>|>|>|>|>|>|>|>| |
+|>|~ATK|~MIN||||||||||
+|>|~|~MAX||||||||||
+|>|~M.ATK|~MIN||||||||||
+|>|~|~MAX||||||||||
+|>|>|~DEF(-)||||||||||
+|>|>|~M.DEF(-)||||||||||
+|>|>|~S.HIT||||||||||
+|>|>|~L.HIT||||||||||
+|>|>|~S.AVO||||||||||
+|>|>|~L.AVO||||||||||
+|>|>|~A.SPD||||||||||
+|>|>|~C.SPD||||||||||
+|>|>|~ |>|>|>|>|>|>|>|>| |
+|>|>|~効果時間(s)|180|185|190|195|200|205|210|220|230|
+|>|>|~再使用時間|>|>|>|>|>|>|>|>|30分|
+~
+|>|>|~SkillLv|~10|~11|~12|~13|~14|~15|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|~STR|||||||
+|>|>|~DEX|||||||
+|>|>|~INT|||||||
+|>|>|~VIT|||||||
+|>|>|~AGI|||||||
+|>|>|~MAG|||||||
+|>|>|~ |>|>|>|>|>| |
+|>|>|~最大HP|||||||
+|>|>|~最大MP|||||||
+|>|>|~最大SP|||||||
+|>|>|~ |>|>|>|>|>| |
+|>|~ATK|~MIN|||||||
+|>|~|~MAX|||||||
+|>|~M.ATK|~MIN|||||||
+|>|~|~MAX|||||||
+|>|>|~DEF(-)|||||||
+|>|>|~M.DEF(-)|||||||
+|>|>|~S.HIT|||||||
+|>|>|~L.HIT|||||||
+|>|>|~S.AVO|||||||
+|>|>|~L.AVO|||||||
+|>|>|~A.SPD|||||||
+|>|>|~C.SPD|||||||
+|>|>|~ |>|>|>|>|>| |
+|>|>|~効果時間(s)|240|250|270|280|290|300|
+|>|>|~再使用時間|>|>|>|>|>|30分|
+
+*** [#skill1]
+-&color(blue){''Passive''};
+
+
+*** [#skill2]
+-&color(red){Active};
+
+|>|>|~SkillLv|~1|~2|~3|~4|~5|~6|~7|~8|~9|~10|~11|~12|~13|~14|~15|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~基&br;礎&br;効&br;果|>|~消費||||||||||||||||
+~
+|>|>|~SkillLv|~1|~2|~3|~4|~5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~拡&br;張&br;効&br;果|~スキル名|~効果||||||
+
+*** [#skill3]
+-&color(red){Active};
+
+|>|>|~SkillLv|~1|~2|~3|~4|~5|~6|~7|~8|~9|~10|~11|~12|~13|~14|~15|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~基&br;礎&br;効&br;果|>|~消費||||||||||||||||
+~
+|>|>|~SkillLv|~1|~2|~3|~4|~5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~拡&br;張&br;効&br;果|~スキル名|~効果||||||
+
+**コメント欄 [#ffb3e82a]
+#pcomment(,10)

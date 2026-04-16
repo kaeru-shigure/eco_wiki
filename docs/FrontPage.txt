@@ -1,0 +1,100 @@
+# FrontPage
+
+#freeze
+#author("2024-10-22T23:49:39+09:00","","")
+* ECO-Wiki (acronia)：エミル・クロニクル・オンライン攻略情報wiki [#c9c17be8]
+** このWikiについて [#m0dc0da2]
+- エミル・クロニクル・オンラインの攻略情報を扱うwikiです。
+//- [[ECO-Wiki(gamedb)>http://ec.gamedb.info/wiki/]]からの移行先として公開されました。
+- 利用上の注意については、[[Wiki利用上の注意>Notice]]を確認してください。
+
+*** 移転先URL [#efbe2993]
+[[https://eco.lycolia.info/wiki/]]
+
+*** Wikiコンテンツの一括ダウンロード [#mb1a4072]
+- 以下のページから取得してください。
+-- [[説明(blog) http://jasmin.sakura.ne.jp/blog/0267>http://jasmin.sakura.ne.jp/blog/0267]]
+-- [[公開フォルダ(OneDrive) https://1drv.ms/f/s!AnSRcn9f69SKc4CAx9lQfF72edQ>https://1drv.ms/f/s!AnSRcn9f69SKc4CAx9lQfF72edQ]] 2017/11/26更新
+- [2024/03/31] 改変部分を含めたWikiプログラムを公開しました。
+-- [[説明(blog) ECO-Wiki (acronia) 環境ダウンロード>http://jasmin.sakura.ne.jp/blog/0275]]
+- &color(red){New [2024/10/22] データベースなどの関連ツールを公開しました。};（なお、ドメイン失効後もツール関係は[[http://jasmin.sakura.ne.jp/eco/script/]]から引き続きアクセス可能です。）
+-- [[説明(blog) ECO関連ツールダウンロード>http://jasmin.sakura.ne.jp/blog/0276]]
+
+*** おしらせ [#vb6806c7]
+- [2019/03/04] [[Internet Archive>http://web.archive.org/]]参照を2017年スナップショットを指すように変更しました。((最新スナップショットはwww.gungho.jpへのリダイレクトになっていて役に立たないものが多かったため。))
+- [2018/01/05] http://econline.gungho.jp/ へのリンクを [[Internet Archive>http://web.archive.org/]] 参照に自動置換するようにしました。 
+- [2017/11/26] ECO-Wiki (acronia)の一括ダウンロードデータを更新しました。
+- [2017/11/26] [[装備品DB>http://eco.acronia.net/equipdb/]]、[[アイテムDB>http://eco.acronia.net/itemdb/]]、[[製法DB>http://eco.acronia.net/recipedb/]]、[[モンスターDB>http://eco.acronia.net/mobdb/]]の投稿機能を停止しました。
+- [2017/09/18] [[ECO-Wiki (acronia)の一括ダウンロードデータ>http://jasmin.sakura.ne.jp/blog/0267]]を公開しました。
+-- [[説明(blog) http://jasmin.sakura.ne.jp/blog/0267>http://jasmin.sakura.ne.jp/blog/0267]]
+-- [[公開フォルダ(OneDrive) https://1drv.ms/f/s!AnSRcn9f69SKc4CAx9lQfF72edQ>https://1drv.ms/f/s!AnSRcn9f69SKc4CAx9lQfF72edQ]]
+- [2017/09/01] ECO-Wiki (acronia) の今後について。
+-- 9月中: Wikiデータの一括ダウンロード提供予定。（公開後もWiki編集があれば適宜更新します。）
+-- %%2017年末頃%%2018年以降: Wikiのリードオンリー化。（スパムが目立つなどメンテナンスが厳しくなったときに実施します。）
+-- 2024年11月3日: ドメイン失効。（他の事情でこれ以前に閉鎖になる可能性もあります。）
+- [2017/07/02] [[ECO Memories: ECO関連画像アップローダー>http://jasmin.sakura.ne.jp/eco/script/ecomemories/]]を公開しました。不具合報告などは[[ブログ記事のコメント欄>http://jasmin.sakura.ne.jp/blog/0264]]などにお願いしますm(_ _)m
+[[過去のお知らせ>Notice#history]]
+
+*** 一言BBS [#MiniBBS]
+#pcomment(MiniBBS,10)
+
+#include(WhatsNew,notitle)
+#title(エミル・クロニクル・オンライン攻略情報wiki,ECO-Wiki (acronia))
+*** コメント [#dd327176]
+- 利用者間での簡易連絡にお使いください。（下記スレッドでの相談呼びかけ等。）
+-- 編集方針の相談等は[[ECOwiki編集・相談スレッド>http://jbbs.shitaraba.net/bbs/read.cgi/netgame/11977/1388806946/]]をご利用ください。
+#pcomment(コメント/FrontPage2,5)
+
+*** 管理者連絡先 [#h66dbb83]
+- 問題の報告・要望などがあれば、[[BBS>http://jasmin.sakura.ne.jp/schwarzes_brett/]]または[[blog>http://jasmin.sakura.ne.jp/blog/]]にお願いします。
+-- MenuBar変更依頼も[[BBS(MenuBar変更依頼)>http://jasmin.sakura.ne.jp/schwarzes_brett/joyful.cgi?list=view&num=384#FORM]]にお願いします。
+
+//** 他のミラーサイト [#b054c57d]
+//- http://emil.wiki.fc2.com/
+//- http://ecowiki.nyanta.jp/
+
+//Wiki利用上の注意ページへ移動//
+//**Wiki利用上の注意 [#de83ace7]
+//-あらし厳禁。
+//→直ちにプロバイダーに通報します。
+//-引用・転載は自由ですが、Wikiへの書き込み及びその引用・転載について著作権その他の権利を主張することは不可です。
+//--また、BROCCOLI/GungHo Online Entertainment,Inc./HEADLOCK Inc.、その他の者の権利を害さないように注意してください。
+
+**利用上の注意（正文） [#a96a7d22]
+-当Wikiへの書き込みその他の編集行為は、著作権その他の知的財産権を放棄してなされるものとします。
+--当Wikiの記載内容を引用・転載するといった利用は自由に行うことができます。
+--当Wikiへの書き込みについて著作権その他の権利を主張することは、当Wiki外の場所における編集行為等により新たに編集著作権などを発生させる場合を除いては認められません。
+--権利を有しない者が権利を放棄することはできません。それゆえ、当Wikiの記載内容であっても、BROCCOLI、GungHo Online Entertainment,Inc.、HEADLOCK Inc.、その他の者の知的財産権に属する場合があります。
+-データの修正のため必要がある場合を除いて書き込まれた内容を削除することは、他の方々の迷惑になりますので絶対におやめ下さい。
+--不当な削除その他これに類する行為が認められる場合には、Wikiへの接続を拒否し、また適当な者に通告・通報する場合があります。
+
+//Wiki利用上の注意ページへ移動//
+//**FAQ [#n11f1c7f]
+//:情報が間違ってる・足りない|編集可能ですので、適宜、加筆・修正してください。
+//:あらしにページが消された|ページ上部の「バックアップ」より、以前の編集データを呼び出すことができます。
+//:ページが真っ白|少し時間をおいてから、ページを更新（リロード）してください。
+
+**ECO公式サイト [#o29d22ba]
+-[[公式サイト:http://econline.gungho.jp/]]
+***管理・制作・デザイン [#w7dfad09]
+管理/運営　[[ガンホー・オンライン・エンターテイメント株式会社:http://www.gungho.jp/]]
+制作　[[株式会社ヘッドロック:http://www.headlock.jp/]]
+イメージイラスト　[[羽々キロ:http://www.hanehane.net/]]→[[尾谷おさむ:http://rigoletto.fc2web.com/]]→関川成人 from [[Production I.G:http://www.production-ig.co.jp/]]→[[雀葵蘭:http://hb4.seikyou.ne.jp/home/kirouran/]]
+
+//**ゴールド(G)の現金取引(RMT)について [#r8123005]
+//したらばでゴールド(G)の現金取引(RMT)への対策について議論をしています。
+//&color(red){ゴールド(G)の現金取引(RMT)はゲームのバランスを崩し、ゲーム本来の楽しみを失わせるものです。};
+//&color(red){そのような取引を行う業者の利用はゲームの破壊に荷担するものであり、アカウント停止・削除といったペナルティーを受ける可能性があります。};
+//効果的な対策や要望の出し方などについて、是非、ご意見をお寄せ下さい。
+//議論の場はこちら。
+//http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1126285522/
+//
+//**favicon案内 [#k9638086]
+//favicon制作者の紹介[[専用ページ>Favicon]]。
+**権利表記 [#mbfe49c3]
+//''『エミル・クロニクル Online』に関わる著作権、その他一切の知的財産権は、BROCCOLI/GungHo Online Entertainment,Inc./HEADLOCK Inc.に帰属します。''
+>(C) BROCCOLI/GungHo Online Entertainment,Inc./HEADLOCK Inc.
+このページ内におけるECOから転載された全て のコンテンツの著作権につきましては、株式会社ブロッコリーとガンホー・オンライン・エンターテイメント株式会社および株式会社ヘッドロックに帰属します。
+なお、当ページに掲載しているコンテンツの再利用（再転載・配布など）は、禁止しています。
+
+→[[http://econline.gungho.jp/support/guideline/copyright.html(archive)>https://web.archive.org/web/20170722181522/http://econline.gungho.jp/support/guideline/copyright.html]]

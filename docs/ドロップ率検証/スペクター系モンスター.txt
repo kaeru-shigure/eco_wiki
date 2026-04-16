@@ -1,0 +1,17 @@
+# ドロップ率検証/スペクター系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[死霊知識>ドロップ率検証#qc2da4d1]]
+
+***スペクター [#gb70f079]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|紋章紙|上等なマジックキャンディー|レプリカ・格闘帽子|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|77個（38.50％）|66個（33.00％）|42個（21.00％）|15個（7.50％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***レッサースペクター [#re9dc5cb]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|紋章紙|上等なマジックキャンディー|カッパーメダル|ガスバルーン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（3782体）|1092個（28.87％）|945個（24.99％）|1269個（33.55％）|301個（7.96％）|175個（4.63％）|

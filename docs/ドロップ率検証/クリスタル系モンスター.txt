@@ -1,0 +1,31 @@
+# ドロップ率検証/クリスタル系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[精霊知識>ドロップ率検証#cf2c3a58]]
+
+***クリスタル [#d52d518f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|スノードロップ|キャリアオイル|融けない氷|シルバーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（660体）|322個（48.79％）|247個（37.42％）|81個（12.27％）|10個（1.52％）|0個（0.00％）|0個（0.00％）|
+|知識あり（700体）|334個（47.71％）|283個（40.43％）|70個（10.00％）|11個（1.57％）|1個（0.14％）|1個（0.14％）|
+
+***フロスティクリスタル [#c1a08e63]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|スノードロップ|キャリアオイル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|120個（40.00％）|141個（47.00％）|36個（12.00％）|3個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***スノークリスタル [#rb06e5ec]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マナウォーター|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（226体）|131個（57.96％）|94個（41.59％）|1個（0.44％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***オニックス [#pcf2a9fc]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|黒色火薬|金属の混じった石５|キャリアオイル|チタニウム塊|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（570体）|290個（50.87％）|226個（39.65％）|49個（8.60％）|3個（0.53％）|2個（0.35％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

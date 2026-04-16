@@ -1,0 +1,129 @@
+# Mob/Elements/Fire
+
+#author("2017-04-07T17:31:56+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（火属性） [#daeaa829]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv1～10 [#ob9a9b1c]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/A-chin.jpg,nolink,98x94);|アーチン|2|54|4/2|BGCOLOR(#ffdddd):火|NonActive|アクロニア平原&br;スノップの山道&br;スノップ追分|アーチンのとげ&br;ゼリコポーション&br;オイル&br;ロウ&br;アーチン印のミソ&br;&color(red){ワックス};&br;&color(slateblue){アーチンスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokko-.jpg,nolink,100x100);|コッコー|8|50|12/11|BGCOLOR(#ffdddd):火|Active&br;|ファーイースト街道&br;イストー岬&br;ウテナ湖&br;果物の森|卵&br;コッコーの羽&br;破れた魔法書&br;力の結晶&br;&color(red){ガーネット};&br;&color(red){砂キモ};&br;&color(slateblue){コッコースタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GiantKokko-.jpg,nolink,100x100);|ジャイアントコッケー|10|9800|10000/4000|BGCOLOR(#ffdddd):火|Active|東アクロニア海岸&br;&br;【インスタンダンジョン】&br;地下に巣くう者|コケトリスの瞳&br;羽かざり&br;羽マスク&br;インペリアルトパーズ&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){ジャイアントコッケースタンプ};|スーパーファイアーストーム&br;スロウロジック&br;石化ガス&br;コケトリス召喚|フィールドBOSS&br;30～90分毎&br;取り巻き(コケトリス)|
+
+***Lv11～20 [#fdd11b17]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CoalTar.jpg,nolink,100x100);|コールタール|11|80|19/11|BGCOLOR(#ffdddd):火|NonActive|軍艦島&br;&br;【廃炭鉱】&br;B1F|オイル&br;黒いゼリコ&br;マシンオイル&br;&color(red){スムージーワックス};&br;&color(slateblue){コールタールスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SandCrawler.jpg,nolink,100x100);|サンドクローラー|14|135|25/15|BGCOLOR(#ffdddd):火|NonActive|ウテナ川河口&br;ウテナ湖&br;ステップ砂漠&br;サウスリン岬|キチン&br;クローラーのまゆ&br;黄色のゼリコ&br;いのちの結晶&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){サンドクローラスタンプ};|スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Caterpillar.jpg,nolink,100x86);|キャタピラー|16|160|35/25|BGCOLOR(#ffdddd):火|NonActive|東アクロニア海岸|キチン&br;赤いゼリコ&br;クローラーのまゆ&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){キャタピラースタンプ};|スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/CrimsonBow.jpg,nolink,100x100);|クリムゾンバウ|17|150|%%40/30%%&br;48/45|BGCOLOR(#ffdddd):火|Active|果物の森&br;ステップ砂漠&br;サウスリン岬&br;（キラービーの峠）&br;&br;【インスタンスダンジョン】&br;迷宮探索&br;地下迷宮 第5階層|革&br;上等な肉&br;肉&br;骨おしゃぶり&br;&color(red){スウェード};&br;&color(slateblue){バウバウ};&br;&color(slateblue){クリムゾンバウスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tanker.jpg,nolink,100x100);|タンカー|18|65|%%47/33%%&br;50/49|BGCOLOR(#ffdddd):火|NonActive|軍艦島|オイル&br;原油&br;プラスチック&br;&color(slateblue){タンカースタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Koketorisu.jpg,nolink,100x100);|コケトリス|19|130|68/22|BGCOLOR(#ffdddd):火|Active&br;|東アクロニア海岸&br;(イストー岬)&br;(ウテナ湖)&br;(ファーイースト街道)|コケトリスの羽&br;上等な肉&br;卵&br;&color(orange){コケトリスの瞳};&br;破れた魔法書&br;力の結晶&br;砂肝&br;&color(red){ガーネット};&br;&color(slateblue){コケトリススタンプ};|ロックストーン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Wasp.jpg,nolink,100x100);|ワスプ|20|155|51/49|BGCOLOR(#ffdddd):火|Link→ビー系|ビーの巣穴&br;モースグ崖&br;軍艦島&br;アンデッド島・大陸|ビーの針&br;破れた魔法書&br;ロイヤルゼリー&br;クリティカルの結晶&br;&color(red){カッパーメダル};&br;&color(slateblue){ワスプスタンプ};|スロウロジック|スティンガー取り巻き|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Bambylock.JPG,nolink,100x100);|バンピーロック|20||0/0|BGCOLOR(#ffdddd):火|Active|&color(gray){カセドラル鉱山B1・B2};|アルモフの欠片|ハイパーチャージ&br;コンフューズスタッド||
+
+***Lv21～30 [#c241f29c]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/OchreJelly.jpg,nolink,100x100);|オーカージェリー|21|210|48/62|BGCOLOR(#ffdddd):火|Link|【大陸の洞窟】&br;B1F,B2F|ゼリコ&br;氷砂糖&br;破れた魔法書&br;ロウ&br;ワックス&br;スムージーワックス&br;赤いゼリコ&br;&color(slateblue){オーカージェリースタンプ};|スタンアタック||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/CaveBear.jpg,nolink,100x100);|ケイブベア|24|290|90/70|BGCOLOR(#ffdddd):火|Active|軍艦島&br;アンデッド島・大陸|革&br;毛皮&br;サーロイン&br;&color(orange){上等な毛皮};&br;スウェード&br;破れた魔法書&br;ラズベリー&br;りんご|コンフュージョンブロウ&br;ラッシュ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ImmatureKokko-.jpg,nolink,100x100);|イマチュアーコッコー|24|300|60/70|BGCOLOR(#ffdddd):火|NonActive|モーモー草原&br;穀倉地帯|卵&br;肉&br;ブラックビネガー&br;&color(orange){上等な肉};&br;&color(red){カッパーメダル};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Oily.jpg,nolink,100x100);|オイリー|28|380|94/86|BGCOLOR(#ffdddd):火|Link|【廃炭鉱】&br;B1F|オイル&br;マシンオイル&br;黒いゼリコ|エクスクラメーション||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bu-Pi-.jpg,nolink,100x100);|ブーピー|28|320|80/120|BGCOLOR(#ffdddd):火|Active|【大陸の洞窟】&br;B3F,B4F|燐粉&br;パチパチ薬&br;ガスバルーン&br;&color(slateblue){ブーピースタンプ};|コンフュージョンスタッド||
+
+***Lv31～40 [#d24d2e0f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MinyDu.jpg,nolink,100x100);|ミニー・ドゥ|32|112144||BGCOLOR(#ffdddd):火|NonActive→&br;一定以上体力が減少すると、特殊詠唱反応&br;（自分へのスキル使用を察知すると反応。）|【ノーザンダンジョン】||ファイアボール&br;ファイアーストーム&br;衝撃波&br;ポケポケ&br;自爆|クエスト「[[逃げたうさぎ>Quest/Northern#zc360118]]」対象|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RubberPururu.jpg,nolink,100x100);|ラバープルル|32|550|207/170|BGCOLOR(#ffdddd):火|NonActive|鬼ノ寝床岩&br;鉄火山&br;アイアンサウス街道|ゼリコ&br;ロウ&br;腐った体液&br;カビ&br;&color(red){金属の混じった石５};&br;&color(slateblue){ラバープルルスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gaburu.jpg,nolink,100x100);|ガブル|36|480|330/220|BGCOLOR(#ffdddd):火|Active|【廃炭鉱】&br;B2F,B3F|サーロイン&br;革&br;上等な肉&br;スウェード&br;フサフサしっぽ（黄）&br;&color(slateblue){ガブルスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RedBeast.jpg,nolink,100x100);|レッドビースト|37|470|360/240|BGCOLOR(#ffdddd):火|Active|【廃炭鉱】&br;B2F,B3F&br;&br;（軍艦島）|革&br;毛皮&br;&color(orange){丈夫な革};|スロウロジック&br;ファイアアタック|高DEF&br;高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantB1.jpg,nolink,100x97);|ギガントＢ１|38|1500|360/450|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア4F&br;B-5F&br;A-6F|機械の破片&br;グレネード弾&br;マグナム弾&br;ミサイル&br;黄金弾&br;銀弾&br;地雷&br;実包&br;魔法のトランジスタ&br;ロボットレッグ&br;ロボットボディ&br;ロボットアーム&br;&color(slateblue){マッチロックの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotC1.jpg,nolink,100x100);|フォックストロットＣ１|38|1350|350/420|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア4F&br;B-5F&br;B-6F&br;A-5F|機械の破片&br;ＣＰＵ&br;乾電池&br;電卓&br;コイル&br;メモリ&br;守りのトランジスタ&br;修復のトランジスタ&br;対魔のトランジスタ&br;ポケコン&br;モーター&br;マシンオイル&br;&color(slateblue){マッチロックの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundR1.jpg,nolink,100x100);|フォックスハウンドＲ１|38|1400|360/430|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;メインフロア3F&br;B-5F&br;B-6F&br;A-5F|機械の破片&br;実包&br;ミサイル&br;メモリ&br;ＣＰＵ&br;電卓&br;力のトランジスタ&br;&color(red){ロボット操縦装置};&br;&color(slateblue){マスケットライフルの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BasiliKokke.jpg,nolink,100x100);|バジリコッケ|40|1560|540/540|BGCOLOR(#ffdddd):火|Active|フシギ団の砦&br;穀倉地帯|コケトリスの羽&br;卵&br;高級卵&br;上等な肉&br;カビ&br;コケトリスの瞳&br;カッパーメダル&br;&color(red){サーロイン};|スタンアタック&br;ラッシュ&br;ロックストーン||
+
+***Lv41～50 [#fab4f473]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gi-go.jpg,nolink,100x100);|ギーゴ|41|665|374/336|BGCOLOR(#ffdddd):火|Active|鬼ノ寝床岩&br;鉄火山|卵&br;クチバシ&br;力の結晶&br;&color(slateblue){ギーゴスタンプ};|-|高回避|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Andante.jpg,nolink,100x100);|アンダンテ|41|1800|268/362|BGCOLOR(#ffdddd):火|Link|【鉄火山】&br;【サウスダンジョン】&br;B1F,B2F&br;&br;【インスタンスダンジョン】&br;潜む白い影&br;地下迷宮 第3,8階層&br;遺跡の宝探し|燐粉&br;パチパチ薬&br;アンダンテの灰&br;&color(red){シルバーメダル};&br;&color(slateblue){アンダンテスタンプ};|ヒーリング|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Chimera.jpg,nolink,100x100);|キメラ|48|1500|777/364|BGCOLOR(#ffdddd):火|Active|【サウスダンジョン】&br;B1F～B3F|くんせい肉&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};&br;&color(slateblue){キメラスタンプ};|バードケージ&br;ロックストーン&br;コンフューズスタッド||
+
+***Lv51～60 [#hba02cb3]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NightStalk.jpg,nolink,100x100);|ナイトストーク|55|2550|774/653|BGCOLOR(#ffdddd):火|Active&br;　→瀕死時のみ|毒の湿原&br;フシギ団の砦&br;フシギ団の砦(中立のシマ)|高級卵&br;卵&br;クチバシ&br;力の結晶&br;&color(slateblue){ロック鳥};|バードケージ&br;衝撃波&br;チャージ|&color(#cccccc){高回避};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotG2.jpg,nolink,100x100);|フォックストロットＧ２|55|1600|570/570|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;メインフロア3F&br;A-6F&br;A-11F|機械の破片&br;ＣＰＵ&br;乾電池&br;電卓&br;コイル&br;メモリ&br;力のトランジスタ&br;ロボット操縦装置&br;ポケコン&br;マシンオイル&br;&color(slateblue){マッチロックの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundC2.jpg,nolink,100x102);|フォックスハウンドＣ２|55|1750|560/560|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;メインフロア3F&br;メインフロア4F&br;A-8F|機械の破片&br;マグナム弾&br;ミサイル&br;魔法のトランジスタ|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantG2.jpg,nolink,100x100);|ギガントＧ２|58|1950|590/590|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;B-6F&br;A-7F|機械の破片&br;マグナム弾&br;銀弾&br;ミサイル&br;グレネード弾&br;地雷&br;ＣＰＵ&br;乾電池&br;電卓&br;コイル&br;メモリ&br;修復のトランジスタ&br;対魔のトランジスタ&br;&color(slateblue){マッチロックの銃筒};|||
+
+***Lv61～70 [#y8c60a94]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotB3.jpg,nolink,135x135);|フォックストロットＢ３|62|3700|1500/1600|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア1F&br;B-7F|機械の破片&br;ＣＰＵ&br;乾電池&br;電卓&br;コイル&br;メモリ&br;守りのトランジスタ&br;ロボットボディ&br;ポケコン&br;モーター&br;オイル&br;&color(slateblue){壊れたマシンアクス};&br;&color(red){臨界のトランジスタ};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Houou.jpg,nolink,100x100);|ホウオウ|64|2400|1800/1543|BGCOLOR(#ffdddd):火||【サウスダンジョン】&br;B3F|上等な肉&br;炎のコロン&br;炎の翼&br;&color(red){炎の召喚石};&br;&color(red){赤い粉末};&br;&color(slateblue){ホウオウスタンプ};|クロスファイア&br;バーニングロード&br;ファイアボール|高S.AVOID&br;高L.AVOID&br;高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundB3.jpg,nolink,100x100);|フォックスハウンドＢ３|64|3800|1600/1700|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア1F&br;A-8F|機械の破片&br;コイル&br;銀弾&br;ミサイル&br;銃の機関部&br;臨界のトランジスタ&br;&color(slateblue){ライフルの銃筒};|範囲射撃||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantR3.jpg,nolink,100x100);|ギガントＲ３|65|3850|1700/1600|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;光の塔下層(B屋上)&br;B-8F&br;A-9F|機械の破片&br;グレネード弾&br;マグナム弾&br;ミサイル&br;黄金弾&br;銀弾&br;地雷&br;実包&br;銃床&br;臨界のトランジスタ&br;&color(slateblue){マスケットの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundG4.jpg,nolink,100x100);|フォックスハウンドＧ４|70|5500|2600/2400|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア2F&br;A-11F&br;A-12F|機械の破片&br;黄金弾&br;ミサイル&br;銃の機関部&br;守りのトランジスタ&br;臨界のトランジスタ&br;&color(slateblue){スナイパーライフルの銃筒};|範囲射撃&br;連続射撃&br;ディレイキャンセル||
+
+***Lv71～80 [#e97b93dc]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotR4.jpg,nolink,100x100);|フォックストロットＲ４|71|5000|2500/2500|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア2F&br;A-11F&br;A-12F|機械の破片&br;ＣＰＵ&br;乾電池&br;電卓&br;コイル&br;メモリ&br;力のトランジスタ&br;ロボットレッグ&br;&color(slateblue){対魔のトランジスタ};&br;&color(slateblue){ポケコン};&br;&color(red){壊れたチェインソード};&br;&color(slateblue){モーター};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PirateBomber.jpg,nolink,100x100);|パイレーツボマー|74|4500|2400/2000|BGCOLOR(#ffdddd):火|Active&br;瀕死時→Escape|【フシギ団の砦】&br;海賊のシマ&br;&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|黒色火薬&br;血判状&br;赤いゼリコ&br;&color(red){赤ペンキ};|エクスプロージョン&br;ファイアアタック&br;スロウロジック|高M-ATK&br;HPが半分以下になると魔法発動|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantC4.jpg,nolink,100x100);|ギガントＣ４|77|6000|2950/2900|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア1F&br;A-12F|機械の破片&br;グレネード弾&br;地雷&br;銃の機関部&br;ロボットボディ&br;魔法のトランジスタ&br;&color(slateblue){オートマチックの銃筒（黒）};|範囲射撃||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotS5.jpg,nolink,100x100);|フォックストロットＳ５|80|7500|2800/2800|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;A-13F&br;A-14F&br;A-15F&br;A-16F&br;【インスタンスダンジョン】&br;超兵器の破壊|ナット&br;強力磁石&br;破れた魔法書&br;守りのトランジスタ&br;力のトランジスタ&br;オリハルコンの部品&br;壊れたマシンアクス||攻撃を受けると近くにいる人にタゲが行くことがあるので注意|
+
+***Lv81～90 [#ic32fa52]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundS5.jpg,nolink,100x100);|フォックスハウンドＳ５|83|8500|3300/3300|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;A-17F&br;A-18F&br;A-19F&br;A-20F&br;【インスタンスダンジョン】&br;超兵器の破壊|強力磁石&br;金属の混じった石５&br;破れた魔法書&br;オートマチックの銃筒（銀）&br;&color(slateblue){マグナムの銃筒};|範囲射撃&br;連続射撃|高S.Avoid|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DPivot.jpg,nolink,100x100);|Dピボット|85|8500|2100/2200|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;A-16F|ナット&br;金属の混じった石&br;破れた魔法書(PT)&br;オリハルコンの部品&br;&color(red){電気石};|-|クリティカルヒット時&br;高確率で貫通攻撃&br;低MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerMachine.jpg,nolink,100x100);|キラーマシーン|86|15000|3000/4000|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;A-17F&br;A-18F&br;A-19F&br;A-20F&br;A-21F&br;A-22F&br;【インスタンスダンジョン】&br;超兵器の破壊|ナット&br;ボルト&br;破れた魔法書&br;ナックルガード&br;&color(red){力のトランジスタ};&br;&color(red){守りのトランジスタ};|ファランクス&br;アサルト&br;チャージ|高DEF&br;高MDEF&br;タゲ移りしやすいので、周囲に人がいるときは注意|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Fernis.jpg,nolink,100x100);|ファーニス|88|6800|2500/2400|BGCOLOR(#ffdddd):火||【光の塔】&br;A-17F～A-20F|強力磁石&br;鉛のナゲット&br;破れた魔法書&br;ドクロ&br;&color(red){オリハルコン};|ファイアアタック&br;ファイアストーム&br;アッシュ&br;ファイアアート|プレイヤーとファーニスの直線状に障害物等があると自爆する|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerMachineAlpha.jpg,nolink,100x100);|キラーマシーンα|90|22275|4000/4500|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;A-21F&br;A-22F|ナット（PT）&br;強力磁石（PT）&br;ボルト（PT）&br;壊れたマシンアクス&br;&color(red){臨界のトランジスタ};|ファランクス&br;アサルト&br;チャージ&br;アヴォイド・バースト|高DEF&br;高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/InferiorDragon.jpg,nolink,100x100);|インフェリアドラゴン|90|16000|4000/4200|BGCOLOR(#ffdddd):火|NonActive|【天まで続く塔】&br;エレベータールーム|角笛&br;角笛(PT)|ゴゥアウト&br;ファイヤーボール&br;ランドクラッグ&br;サンダーボルト&br;アイスアロー|風属性攻撃が有効|
+
+***Lv91～100 [#y5fb3869]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Holograph.jpg,nolink,100x100);|ホログラフ|93|15500|4650/4450|BGCOLOR(#ffdddd):火|NonActive|マイマイ遺跡第一甲板&br;マイマイ遺跡|ナット&br;ボルト&br;鉛のナゲット&br;対魔のトランジスタ&br;砂鉄&br;&color(red){力のトランジスタ};&br;&color(slateblue){ラスト・キッスの銃筒};&br;&color(slateblue){武器庫入室パスカード};|サンダーボルト&br;ファイアアート&br;ショックウェーブ&br;ディビリテイト|超高Hit（AGI108、Int60でも全弾被弾）&br;高S.Avoid|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/HolographCD.jpg,nolink,100x100);|ホログラフCD|93|15000程度|4650/4450|BGCOLOR(#ffdddd):火|詠唱反応|マイマイ遺跡第一甲板|ナット&br;ボルト&br;鉛のナゲット&br;対魔のトランジスタ&br;砂鉄&br;&color(red){力のトランジスタ};&br;&color(slateblue){ラスト・キッスの銃筒};&br;&color(slateblue){武器庫入室パスカード};|サンダーボルト&br;ファイアアート&br;ショックウェーブ&br;ディビリテイト&br;デクライズウェポン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WildDorago.jpg,nolink,100x100);|ワイルドドラゴ|95|45000|%%5800/5900%%&br;7800/7900|BGCOLOR(#ffdddd):火|Active|バオバブの森(夜)|丈夫な骨&br;ジューシーなお肉&br;&color(orange){ドラゴの革(PT)};&br;ジューシーなお肉(PT)&br;逆鱗&br;カッパーメダル|ワー・クライ&br;バーニングロード&br;アッシュ|遠距離攻撃|
+
+***Lv101～110 [#z655ab3f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Partisan.jpg,nolink,100x100);|パーティザン|105||45000/50000|BGCOLOR(#ffdddd):火|Active|【マイマイ遺跡】&br;遺跡の奥へ・・・|サラマンドラの首飾り&br;カッパーメダル&br;タイニーメダル&br;天まで続く塔の鍵&br;&color(slateblue){機械時代のヘアカタログ};|ダークブレイズ&br;メガダークブレイズ&br;ガトリングブレイズ&br;ディープトランス&br;グラヴィティフォール|BOSS|
+|~|武器庫の番人|105||/|BGCOLOR(#ffdddd):火|Active||&color(red){真空パック(隊長用)(PT)};&br;真空パック(一般兵用)(PT)|ダークブレイズ&br;ガトリングブレイズ&br;グラヴィティフォール|BOSS&br;90武器入手クエスト|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Cyclone.jpg,nolink,100x100);|サイクロン|105|51580|7000/7250|BGCOLOR(#ffdddd):火|NonActive|【クジラ岩】&br;歪淵・迷&br;幻淵&br;歪淵・骸&br;深淵|ナット&br;異界の歯車&br;&color(red){運命の車輪};&br;&color(red){嘆きの懐中時計(PT)};&br;&color(slateblue){超絶水分補給水};|旋風剣&br;ファランクス&br;ディビリテイト||
+
+***Lv111～ [#y3c88696]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TitaniaDragon.jpg,nolink,100x100);|タイタニアドラゴン|118|958000|80000/76000|BGCOLOR(#ffdddd):火|Active|【天まで続く塔】&br;エレベータールーム|ジューシーなお肉(PT)&br;タイタニアレザー&br;シルバーメダル&br;タイニーメダル&br;&color(red){逆鱗};|グランドクロス&br;サンダークランク&br;ディフェンス・バースト&br;怒&br;ノクシャスブラスト&br;ラーヴァフロウ|BOSS&br;一定時間毎沸き&br;ＰＴドロップはLv98から&br;クエスト「天まで続く塔を登れ」にも出現|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/loebknight.jpg,nolink,100x100);|ロウブナイト|136|87890|103600/116500|BGCOLOR(#ffdddd):火|Link→&br;ナイト系|【クジラ岩】&br;虚淵&br;歪淵・骸&br;深淵|たましいの粉&br;チタニウム塊&br;&color(red){リザレクションポーション};&br;超絶水分補給水&br;激震のど飴&br;&color(red){魔力の結晶};|リフレクション&br;デッドリーアタック&br;ハイパーチャージ&br;連続攻撃|アンデッド&br;1マス空けるとデッドリーアタック、ハイパーチャージ、連続攻撃を使わなくなる&br;L.HITと思われる&br;獲得EXP&br;～96：10360&br;97～101：25900&br;102～106：51800&br;107～：77700|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/doomknight.jpg,nolink,100x100);|ドゥームナイト|148|95680|343200/364200|BGCOLOR(#ffdddd):火|Link→&br;ナイト系|【クジラ岩】&br;幻淵&br;深淵|たましいの粉&br;プラチナ塊&br;&color(orange){リザレクションポーション};&br;超絶水分補給水&br;激震のど飴&br;&color(red){魔力の結晶};|ディレイキャンセル&br;ファイアボール&br;ハウルアウト&br;ガトリングブレイズ|アンデッド&br;獲得EXP&br;～108:34320&br;109～:85800|

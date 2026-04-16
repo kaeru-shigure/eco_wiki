@@ -1,0 +1,9 @@
+# Hairsalon/Menu
+
+&aname(TopMenu);
+
+-外観一覧（[[ 顔 >外見一覧#uf3f08ca]]/[[ キャラ作成時の初期髪型 >外見一覧#ic018783]]/[[ ヘアカラー >外見一覧#kc52228d]]/[[ コメント欄 >外見一覧#eb2de96a]]）
+-[[髪型の変更>髪型の変更]] 
+--[[男性ヘアサロン]]（[[ 紹介状一覧 >男性ヘアサロン#HairsalonM]]/[[ コメント欄 >男性ヘアサロン#comment]]）　（[[ 2006 >Hairsalon/2006M]]/[[ 2007 >Hairsalon/2007M]]/[[ 2008 >Hairsalon/2008M]]/[[ 2009 >Hairsalon/2009M]]/[[ 2010 >Hairsalon/2010M]]/[[ 2011 >Hairsalon/2011M]]/[[ 2012 >Hairsalon/2012M]]/[[ 2013 >Hairsalon/2013M]]/[[ 2014 >Hairsalon/2014M]]）
+--[[女性ヘアサロン]]（[[ 紹介状一覧 >女性ヘアサロン#HairsalonF]]/[[ コメント欄 >女性ヘアサロン#z0fdfa66]]）　（[[ 2006 >Hairsalon/2006F]]/[[ 2007 >Hairsalon/2007F]]/[[ 2008 >Hairsalon/2008F]]/[[ 2009 >Hairsalon/2009F]]/[[ 2010 >Hairsalon/2010F]]/[[ 2011 >Hairsalon/2011F]]/[[ 2012 >Hairsalon/2012F]]/[[ 2013 >Hairsalon/2013F]]/[[ 2014 >Hairsalon/2014F]]）
+-画像投稿用　[[Tips(撮影テクニック)>Tec#Hairstyle]] 　テンプレート ([[ ショート用 :http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88.png]]/[[ ロング用 :http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%AD%E3%83%B3%E3%82%B0.png]])　([[ ヘアカラー用 :http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/color_template.jpg]])

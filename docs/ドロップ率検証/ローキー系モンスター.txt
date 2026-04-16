@@ -1,0 +1,45 @@
+# ドロップ率検証/ローキー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***ローキー [#uc26fded]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|上等な肉|革|いのちの結晶|上等な革|スウェード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|46個（46.00％）|38個（38.00％）|16個（16.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（300体）|159個（53.00％）|81個（27.00％）|39個（13.00％）|2個（0.67％）|7個（2.33％）|12個（4.00％）|
+
+***ホワイトファング [#kc059f58]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|上等な肉|革|スウェード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（800体）|397個（49.63％）|325個（40.63％）|73個（9.13％）|5個（0.63％）|0個（0.00％）|
+|知識あり（1300体）|610個（46.92％）|532個（40.92％）|144個（11.08％）|13個（1.00％）|1個（0.08％）|
+
+***ケイブローキー [#q6ccee70]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|上等な肉|革|スウェード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|45個（45.00％）|44個（44.00％）|10個（10.00％）|1個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***グレイハウンド [#o33b06ae]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|サーロイン|上等な肉|いのちの結晶|スウェード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（1000体）|375個（37.50％）|380個（38.00％）|185個（18.50％）|15個（1.50％）|45個（4.50％）|
+
+***ガブル [#feafb9c3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|サーロイン|革|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（150体）|77個（51.33％）|60個（40.00％）|13個（8.67％）|
+
+***メイオウ [#a9024434]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||カッパーメダル|タイニーメダル|シルバーメダル|ドミニオンのヘアカタログ|タイニーレインボーメダル|おおかみの耳|スタンプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（250体）|120個（48.00％）|84個（33.60％）|32個（12.80％）|9個（3.60％）|3個（1.20％）|0個（0.00％）|2個（0.80％）|
+|知識あり（9体）|3個（33.33％）|5個（55.56％）|0個（0.00％）|1個（11.11％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

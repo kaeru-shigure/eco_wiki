@@ -1,0 +1,17 @@
+# ドロップ率検証/例外モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鉱物知識>ドロップ率検証#g76f84d7]]
+
+***ラバープルル [#x33f4de8]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ゼリコ|腐った体液|ロウ|カビ|金属の混じった石（５）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（150体）|91個（60.66％）|36個（24.00％）|11個（7.33％）|12個（8.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（150体）|45個（30.00％）|41個（27.33％）|15個（10.00％）|13個（8.67％）|2個（1.33％）|34個（22.67％）|
+
+***カンカン [#ad8240bd]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|燐粉|黒色火薬|アーチン印のミソ|粘土|固い石ころ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|47個（47.00％）|35個（35.00％）|13個（13.00％）|5個（5.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|48個（24.00％）|48個（24.00％）|30個（15.00％）|15個（7.50％）|3個（1.50％）|56個（28.00％）|

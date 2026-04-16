@@ -1,0 +1,38 @@
+# ドロップ率検証/フォックストロット系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[機械知識>ドロップ率検証#gc548967]]
+
+***フォックストロットC1 [#f7f388aa]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|機械の破片|エレキテルの材料((CPU 20/25　メモリ 24/21　コイル 16/26　電卓 14/21　乾電池 20/22))|守りのトランジスタ|修復のトランジスタ|対魔のトランジスタ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1000体）|507個（50.70％）|389個（38.90％）|94個（9.40％）|6個（0.60％）|4個（0.40％）|0個（0.00％）|
+|知識あり（1000体）|506個（50.60％）|358個（35.80％）|115個（11.50％）|12個（1.20％）|7個（0.70％）|2個（0.20％）|
+
+***フォックストロットG2 [#u2513544]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|機械の破片|エレキテルの材料((CPU 21/13　メモリ 35/23　コイル 28/21　電卓 18/16　乾電池 19/15))|力のトランジスタ|マッチロックの銃筒|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1100体）|549個（49.91％）|427個（38.82％）|121個（11.00％）|3個（0.27％）|0個（0.00％）|
+|知識あり（1000体）|515個（51.50％）|392個（39.20％）|88個（8.80％）|4個（0.40％）|1個（0.10％）|
+
+***フォックストロットB3 [#r33e3dd0]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|機械の破片|エレキテルの材料((CPU 10/0　メモリ 5/0　コイル 7/0　電卓 6/0　乾電池 6/0))|守りのトランジスタ|ロボットボディ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|134個（44.67％）|124個（41.33％）|34個（11.33％）|3個（1.00％）|5個（1.67％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***フォックストロットR4 [#yfea4a93]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|機械の破片|エレキテルの材料((CPU 4/0　メモリ 2/0　コイル 4/0　電卓 2/0　乾電池 2/0))|力のトランジスタ|ロボットレッグ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（150体）|75個（50.00％）|59個（39.33％）|14個（9.33％）|1個（0.67％）|1個（0.67％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***フォックストロットS5 [#fc9399a4]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ナット|強力磁石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（85体）|47個（55.29％）|31個（36.47％）|7個（8.24％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

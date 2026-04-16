@@ -1,0 +1,114 @@
+# Skill/Astralist
+
+#author("2017-01-01T20:14:45+00:00","","")
+[[ シャーマン >Skill/Shaman]]([[詳細>Skill/Shaman/Explanation]])/[[ エレメンタラー >Skill/Elementaler]]([[詳細>Skill/Elementaler/Explanation]])/[[ エンチャンター >Skill/Enchanter]]([[詳細>Skill/Enchanter/Explanation]])/ ''アストラリスト'' ([[詳細>Skill/Astralist/Explanation]])
+*アストラリスト [#i6f40d5b]
+//http://www.econline.jp/data/job/3rd-chronicle/job_c06.html
+
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+シャーマン の[[''外部スレッド''>Skill/Shaman#thread]]を参照
+
+#clear
+** 特徴 [#x6a320ac]
+公式サイト：[[アストラリスト:http://www.econline.jp/data/job/3rd-chronicle/job_c06.html]]
+-四属性を極め、世界の法則にすら関わる術者です。
+-世界の法則に関与することで、不可能なはずの呪文の連発をも可能とします。
+-アストラリストが発動する四属性魔法は、他者の及びもつかない威力を持つでしょう。
+-''HP係数：3.26''、''MP係数：4.61''、''SP係数：1.56''
+-属性特攻と属性コントロールが大幅に強化されている。
+-リメインエレメント＋ウィンドエクスプローションによって対象の属性を纏めて書き換えられるため、対象の属性を必死に考慮する必要性も下がり、また属性のバラけた狩場でも動きやすくなった。
+-必ず4属性攻撃になるエレメンタルレインなどを多用すると武器の消耗が激しい。その場合は憑依などで保護する必要性が高くなった。
+|~一次職|転職|~二次職|転生|~三次職|
+|[[シャーマン>Skill/Shaman]]|→|[[エレメンタラー>Skill/Elementaler]]（エキスパート）|→|アストラリスト|
+|~||CENTER:↑　スイッチ　↓||~|
+|~||[[エンチャンター>Skill/Enchanter]]（テクニカル）|→|~|
+
+** 転職方法 [#o2811c0f]
+
+[[三次クロニクル職共通ルート>Job/Change/Chronicle#kyoutuu]]
+
+以後は、各職個別ルート
+武神を倒す
+力の解放と上位転生を行う を選択
+
+以上で、転職までの長い道のりが終了である。
+
+ベース・ジョブ共に１に戻り、種族と職業は上位になり、アバターも入手できる。
+また、アバターの調整も、この場所で何時でも変更できる
+&br;&color(red){''上位転生時のレベルによって変更箇所が増える。''};
+レベル110で上位転生すれば全ての箇所が選択可能
+** スキル早見表 [#f4779d65]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#ta20d78e]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|1|10|8|3|5|10||~26|2|18|15|6|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''19''|
+|~2|1|10|8|3|5|10||~27|2|18|18|6|10|19|
+|~3|1|10|COLOR(red):BGCOLOR(#EDEDFF):''9''|3|5|COLOR(red):BGCOLOR(#EDEDFF):''11''||~28|2|COLOR(red):BGCOLOR(#EDEDFF):''19''|COLOR(red):BGCOLOR(#EDEDFF):''16''|6|10|19|
+|~4|1|COLOR(red):BGCOLOR(#EDEDFF):''11''|9|COLOR(red):BGCOLOR(#EDEDFF):''4''|COLOR(red):BGCOLOR(#EDEDFF):''6''|11||~29|2|19|16|COLOR(red):BGCOLOR(#EDEDFF):''7''|10|COLOR(red):BGCOLOR(#EDEDFF):''20''|
+|~5|1|11|9|4|6|11||~30|COLOR(red):BGCOLOR(#EDEDFF):''3''|19|16|7|10|20|
+|~6|1|11|COLOR(red):BGCOLOR(#EDEDFF):''10''|4|6|COLOR(red):BGCOLOR(#EDEDFF):''12''||~31|3|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''17''|7|10|20|
+|~7|1|COLOR(red):BGCOLOR(#EDEDFF):''12''|10|4|6|12||~32|3|20|17|7|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''21''|
+|~8|1|12|10|4|6|12||~33|3|20|17|7|11|21|
+|~9|1|12|10|4|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''13''||~34|3|COLOR(red):BGCOLOR(#EDEDFF):''21''|17|7|11|21|
+|~10|COLOR(red):BGCOLOR(#EDEDFF):''2''|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''11''|4|7|13||~35|3|21|COLOR(red):BGCOLOR(#EDEDFF):''18''|7|11|COLOR(red):BGCOLOR(#EDEDFF):''22''|
+|~11|2|13|11|4|7|13||~36|3|21|18|7|11|22|
+|~12|2|13|11|COLOR(red):BGCOLOR(#EDEDFF):''5''|7|COLOR(red):BGCOLOR(#EDEDFF):''14''||~37|3|COLOR(red):BGCOLOR(#EDEDFF):''22''|18|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''12''|22|
+|~13|2|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''12''|5|7|14||~38|3|22|COLOR(red):BGCOLOR(#EDEDFF):''19''|8|12|COLOR(red):BGCOLOR(#EDEDFF):''23''|
+|~14|2|14|12|5|7|14||~39|3|22|19|8|12|23|
+|~15|2|14|12|5|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''15''||~40|3|COLOR(red):BGCOLOR(#EDEDFF):''23''|19|8|12|23|
+|~16|2|COLOR(red):BGCOLOR(#EDEDFF):''15''|12|5|8|15||~41|3|23|19|8|12|COLOR(red):BGCOLOR(#EDEDFF):''24''|
+|~17|2|15|COLOR(red):BGCOLOR(#EDEDFF):''13''|5|8|15||~42|3|23|COLOR(red):BGCOLOR(#EDEDFF):''20''|8|12|24|
+|~18|2|15|13|5|8|COLOR(red):BGCOLOR(#EDEDFF):''16''||~43|3|COLOR(red):BGCOLOR(#EDEDFF):''24''|20|8|COLOR(red):BGCOLOR(#EDEDFF):''13''|24|
+|~19|2|COLOR(red):BGCOLOR(#EDEDFF):''16''|13|5|8|16||~44|3|24|20|8|13|COLOR(red):BGCOLOR(#EDEDFF):''25''|
+|~20|2|16|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''17''||~45|3|24|COLOR(red):BGCOLOR(#EDEDFF):''21''|COLOR(red):BGCOLOR(#EDEDFF):''9''|13|25|
+|~21|2|17|14|6|9|17||~46|3|COLOR(red):BGCOLOR(#EDEDFF):''25''|21|9|13|25|
+|~22|2|COLOR(red):BGCOLOR(#EDEDFF):''17''|14|6|9|17||~47|3|25|21|9|13|COLOR(red):BGCOLOR(#EDEDFF):''26''|
+|~23|2|17|14|6|9|COLOR(red):BGCOLOR(#EDEDFF):''18''||~48|3|25|21|9|COLOR(red):BGCOLOR(#EDEDFF):''14''|26|
+|~24|2|17|COLOR(red):BGCOLOR(#EDEDFF):''15''|6|9|18||~49|3|COLOR(red):BGCOLOR(#EDEDFF):''26''|COLOR(red):BGCOLOR(#EDEDFF):''22''|9|14|26|
+|~25|2|COLOR(red):BGCOLOR(#EDEDFF):''18''|15|6|9|18||~50|COLOR(red):BGCOLOR(#EDEDFF):''4''|26|22|9|14|COLOR(red):BGCOLOR(#EDEDFF):''27''|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+//古い狩場情報は有害なのでコメントアウトします
+//**ソロ用狩り場 [#kariba]
+//倒しやすさとHP-EXP/JOBのバランスを考慮して特化。
+//濃縮ポーションとアストラリストで結構背伸び狩りをできるかと。
+//
+//|~MobLv|~マップ|~モンスター|~属性|~HP|~EXP/JOB|~MAG（MATK）|~備考|h
+//||||CENTER:|CENTER:|CENTER:|||c
+//|~8|ウテナ湖|[[コッコー>MobBird#Kokko]]|火|50|15/14|15（29-）|一確|
+//|~20|スノップ追分|[[クラッシュアイス>MobAnimal#A-chin]]|水|160|56/44|28（68-100）|わずかにHPが残って二確|
+//|~|ウテナ川河口&br;モーモー草原|[[フライフィッシュ>MobUnderwater#Fish]]|水|160|56/46|31（80-）|９割一撃|
+//|~21|ノーザリン岬|[[ホワイトファング>MobAnimal#Lowkey]]|風|200|75/60|40（104-）|一確|
+//|~22|~|[[ポーラベア>MobAnimal#Bear]]|水|340|85/70|~|ほぼ二発|
+//|~28|ノース中央山脈|[[エンジェルフェザー>MobMagic#Feather]]|光|232|110/135|48（137-185）|初期魔法Lv1ほぼ一発|
+//|~35|モーモー草原|[[レクルスゲッコ>MobAnimal#Gekko]]|水|840|390/400|49（138-207）|四発くらい|
+//|~32|アイアンサウス周辺|[[ラバープルル>MobRock#RubberPururu]]|火|550|289/230|55（160-）|二確|
+//|~38|~|[[南国ペペン>MobBird#Pepen]]|水|700|360/385|71（218-）|ファイアボールLV5一確|
+//|~44|サウスダンジョンB1F|[[スペルキャスター>MobHuman#SpellCaster]]|水/闇|700|760/683|？|ファイアボール|
+//|~46|~|[[ブリキングＲＸ３>MobMachine#Elecitel]]|土|820|1170/980|57（162-）|二確|
+//|~48|サウスダンジョンB2F|[[キメラ>MobBird#Chimera]]|火|1500|1540/1240|85（277-）|風ブラストLv3一確|
+//|~50|イーストダンジョン|[[コッカラス>MobBird#Kokko]]|水|1950|2025/1770| | |
+//|~54|~|[[スタートラー>MobMagic#Startler]]|水|1900|1700/1575| | |
+//|~57|~|[[ウメボア>MobAnimal#Boar]]|土|2275|2400/2400|？(255-)|水ブラストLv5二確|
+//|~60|~|[[アルトゲッコ>MobAnimal#Gekko]]|水|2300|2798/3119|？(255-)|火ブラストLv5二確|
+//|~62|光の塔メインフロア1F|[[フォックストロットＢ３>MobMachine#Trot]]|火|3700|3740/4301| |風ブラスト|
+//|~64|~|[[フォックスハウンドＢ３>MobMachine#Hound]]|火|3800|4114/4080| |風ブラスト|
+//|~65|光の塔メインフロア2F|[[ヘビーバット>MobBird#Dracky]]|風|2800|3740/3485|94（313-）|GF|
+//|~74|~|[[シュバリス>MobMagic#Lamia]]|風|4600|4561/4845|~|GF|
+//|~71|~|[[フォックストロットＲ４>MobMachine#Trot]]|火|5000|4675/4675|99（371-）|風ブラストLv5二確|
+//|~70|~|[[フォックスハウンドＧ４>MobMachine#Hound]]|火|5500|5544/5544|||
+//|~76|光の塔|[[プラチナム>MobSpirit#Icy]]|風|4350|4930/5101|（550-）|GF|
+
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#w571c9cb]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[外部スレッド>Skill/Shaman#thread]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

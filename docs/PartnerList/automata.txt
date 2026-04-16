@@ -1,0 +1,51 @@
+# PartnerList/automata
+
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （背負い魔・オートマタ） [#j0604031]
+#contents
+
+ステータスの表記は本wikiのレイアウトの関係で英語にしています (表示順序はゲーム内と同じ)
+ステータス数値のうちM.RCVとS.RCVが&color(silver){灰色};の場合、信頼度換算の際に信頼度黒での数値が算出できなかったことを示します(上限300に達していたため)。確定次第黒文字に要修正
+
+**背負い魔・オートマタ [#AutoMata]
+-ネコマタ同様、ゲーム内イベントのキャラクターとして実装されている。ネコマタのDEM版といえばわかりやすい。
+-「背負い魔」と名前が付いているがパートナー装備であり、背中装備の「背負い魔・ブースト」と同時装備可能。
+-装備中はキャラの最大重量・最大容量が上昇する
+-オートマタのいずれかを装備して、天まで続く塔の島(エミル世界側)の天の塔入口にある鍵穴をクリックすると、[[タイタニア世界へ行くためのイベント>Quest/Waterlayer#abd8c4f2]]が進行できる。
+-[[オートマタ入手イベント>Event/Automata]]はDEMキャラクターのみが進行可能。
+-オートマタはパートナー装備だが、イベントクリアによってDEM用パーツ(ディメンションパーツ)にアイテムチェンジできるようになる。
+--[[ディメンションパーツ化イベント>Event/Automata#h38b258e]]
+--[[ディメンションパーツデータ>DEM/Parts#wc18d534]]
+-アイテム「セット・オートマタユナイトフォーム」「オートマタブースト」はDEM用パーツであり、パートナー装備ではない。
+--[[入手方法>Event/Automata#ob5921d0]]
+--[[パーツデータ>DEM/Parts#Yunaito]]
+
+***背負い魔・オートマタ（アメジスト） [#ab0ef6c9]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Automata.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24870&br;1580&br;1230&br;690&br;751&br;1125&br;1305&br;284&br;245&br;&br;288&br;6&br;345&br;16&br;280&br;285&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2010/03/26のアップデートで実装されたオートマタ。&br;元ＤＥＭであった所為か機械的な口調が目立つ、いわゆるクール天然。&br;普段は冷静だが、時折寂しがり屋＆内省的な一面も覗かせる。&br;&br;・[[台詞>PetSpeech/Automata/Amethyst]]&br;・PAYL/CAPA +50&br;・攻撃の際には銃を使用する&br;&br;系統：オートマタ系&br;種別：背機&br;攻撃タイプ：叩き&br;射程：3&br;&br;【使用スキル】&br;デフラグ ： HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇&br;コンセントレート&br;アタック・バースト&br;ディフェンス・バースト&br;リヴァイブ&br;&br;【入手法】&br;[[アメジスト入手イベント「ココロのカタチ」>Event/Automata#oead0313]]|
+
+***背負い魔・オートマタ（ルビー） [#cc696a1c]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/rubi.JPG,nolink,128x124);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;80&br;80&br;50&br;56&br;30&br;30&br;50&br;20&br;&br;15&br;10&br;10&br;16&br;70&br;25&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25000&br;1580&br;1230&br;655&br;696&br;1125&br;1305&br;315&br;245&br;&br;315&br;10&br;345&br;16&br;290&br;275&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2010/04/23のアップデートで実装されたオートマタ。&br;杏、トラに続く男の子で、口調はやや乱暴。たまに死亡フラグを立てる。&br;&br;・[[台詞>PetSpeech/Automata/Ruby]]&br;・PAYL/CAPA +35&br;・持っている斧で攻撃を行う&br;&br;系統：オートマタ系&br;種別：背機&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;デフラグ ： HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇&br;アヴォイド・バースト&br;アタック・バースト&br;クリティカル&br;アサルト&br;ラウズボディ&br;チャージ&br;スタンブロウ&br;&br;【入手法】&br;[[ルビー入手イベント「ココロのチカラ」>Event/Automata#d7ef4f5a]]|
+
+***背負い魔・オートマタ（トパーズ） [#m0737f02]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/topa.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;400&br;60&br;80&br;5&br;6&br;40&br;45&br;45&br;20&br;&br;20&br;25&br;55&br;20&br;15&br;10&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25650&br;1560&br;1230&br;605&br;646&br;1183&br;1340&br;300&br;260&br;&br;350&br;25&br;390&br;20&br;235&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2010/05/21のアップデートで実装されたオートマタ。&br;アメジストよりも更に事務的な口調で、控えめな性格。&br;&br;・[[台詞>PetSpeech/Automata/Topaz]]&br;・PAYL/CAPA +90&br;・攻撃の際にはハンマーを取り出す&br;&br;系統：オートマタ系&br;種別：背機&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;デフラグ ：HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇&br;ソリッドオーラ&br;マジックシールド&br;リヴァイブ&br;弾けなさい！ ： アンチモブミサイルに相当&br;止まりなさい！ ： スパークボールと同じ効果の模様(低ダメージ＋スタン)&br;&br;【入手法】&br;[[トパーズ入手イベント「ココロのツバサ」>Event/Automata#j18d71b4]]|
+
+***背負い魔・オートマタ（サファイア） [#w016ff5e]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/s_fire.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;220&br;70&br;70&br;5&br;6&br;40&br;45&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;70&br;30&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;24570&br;1470&br;1120&br;605&br;646&br;1183&br;1340&br;289&br;260&br;&br;286&br;6&br;345&br;20&br;290&br;395&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2010/09/24のアップデートで実装されたオートマタ&br;真面目かつ冷静な性格。その一方で、昼寝をしていたり、趣味の盆栽に興じるといった一面も。&br;&br;・[[台詞>PetSpeech/Automata/Sapphire]]&br;・PAYL/CAPA +50&br;・攻撃の際は投げナイフを使用&br;&br;系統：オートマタ系&br;種別：背機&br;攻撃タイプ：叩き&br;射程：3&br;&br;【使用スキル】&br;デフラグ ： HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇&br;ダストエクスプロージョン&br;ララバイ&br;ゼン&br;連続投げ&br;リヴァイブ&br;&br;【入手法】&br;[[サファイア入手イベント「ココロのネガイ」>Event/Automata#if981ffe]]|
+
+***背負い魔・オートマタ（ダイヤモンド）[#k2c18a75]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Diamond.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;320&br;85&br;85&br;20&br;26&br;40&br;50&br;45&br;20&br;&br;30&br;10&br;45&br;25&br;70&br;40&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25170&br;1485&br;1135&br;665&br;796&br;1195&br;1280&br;295&br;260&br;&br;330&br;10&br;380&br;25&br;290&br;300&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2010/11/18のアップデートで実装されたオートマタ&br;他の4体の母親的存在で、古風な話し方（所謂わらわ口調）をする。&br;&br;・[[台詞ページ>PetSpeech/Automata/Diamond]]&br;・PAYL/CAPA +50&br;・通常攻撃はL.HIT依存&br;&br;系統：オートマタ系&br;種別：背機&br;攻撃タイプ：叩き&br;射程：5&br;&br;【使用スキル】&br;最適化 ： ディレイキャンセル+クリティカル率上昇&br;ルミナリィノヴァ&br;ララバイ (物理ダメージ有)&br;マジックバリア&br;リヴァイブ&br;デフラグ&br;&br;【入手法】&br;[[ダイヤモンド入手イベント「ココロのヒカリ」>Event/Automata#k415e702]]|
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment

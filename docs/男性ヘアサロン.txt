@@ -1,0 +1,239 @@
+# 男性ヘアサロン
+
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは紹介状の名前一覧を除き削除することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　勝手な更新・画像のアップ等はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*男性ヘアサロン [#ncc54490]
+#contents
+
+''通常の髪型変更''は、アップタウンギルド元宮の東側「''ニーベルング''のヘアサロン」で行う。
+''紹介状を使用した髪型変更''は、アップタウンギルド元宮の西側「''ヘルヘイム''のヘアサロン」で行う。
+
+三つ編みエクステのダウンは、元がロング系の時のみ選択可能。
+スキンで紹介状を使用した髪型変更は利用不可。
+●紹介状使用後のエクステ追加（09/2/9現在）
+　エクステ可能：ドミニオン・機械時代・おてんば・ふたご・バレンタイン
+　エクステ不可：ちょいかわ・ゴージャス・姫さま・ラブモテ・プリンセス・ラテン・クラシック・委員長・空賊・武家・軍式・スイート
+　未確認：おめかし・魔女・ワイルド・デビュー・おとぎ・etc
+06/09/30時点でメッセージに不備があり「ちょいかわ紹介状」を使用した後ヘルヘイムのヘアサロンで
+「[[''ヘアサロンの紹介状''>http://eco.acronia.net/itemdb/#id=2291]]」「[[''セレブの紹介状''>http://eco.acronia.net/itemdb/#id=1407]]」を使用しようとすると通常の方法では髪型変更を断れない
+ので注意。無限ループになるので髪形変更を断りたい場合は会話メッセージを無視してログアウトすること。
+
+
+**紹介状一覧表 [#HairsalonM]
+-[[2006年>Hairsalon/2006M]]
+--[[ヘアサロンの紹介状 >Hairsalon/2006M#hairsalon]]
+--[[セレブの紹介状 >Hairsalon/2006M#celeb]]
+--ヘアサロン特別紹介状 【女性専用】
+--[[ドミニオンのヘアカタログ >Hairsalon/2006M#Dominion]]
+--プリティ紹介状 【女性専用】
+--[[アニキの紹介状  >Hairsalon/2006M#Aniki]]
+--[[ちょいかわ紹介状 >Hairsalon/2006M#Choikawa]]
+--[[ゴージャス紹介状 >Hairsalon/2006M#Gorgeous]]
+--[[おてんば紹介状  >Hairsalon/2006M#Otenba]]
+-[[2007年>Hairsalon/2007M]]
+--[[おめかし紹介状  >Hairsalon/2007M#Omekashi]]
+--[[姫さまの紹介状 >Hairsalon/2007M#Himesama]]
+--[[ラブモテ紹介状  >Hairsalon/2007M#Lovemote]]
+--[[クラシックな紹介状  >Hairsalon/2007M#Classic]]
+--[[プリンセスの紹介状  >Hairsalon/2007M#Princess]]
+--[[少佐の紹介状 >Hairsalon/2007M#Shosa]]
+--[[ふたご座の紹介状  >Hairsalon/2007M#Futagoza]]
+--[[機械時代のヘアカタログ >Hairsalon/2007M#Kikai]]
+--[[ラテンの紹介状  >Hairsalon/2007M#Latin]]
+--[[魔女の紹介状  >Hairsalon/2007M#Majo]]
+--[[ワイルドな紹介状  >Hairsalon/2007M#Wild]]
+--[[武家の紹介状  >Hairsalon/2007M#Buke]]
+-[[2008年>Hairsalon/2008M]]
+--[[バレンタイン紹介状  >Hairsalon/2008M#Valentine]]
+--[[スイートな紹介状 >Hairsalon/2008M#Sweet]]
+--[[デビューへの紹介状  >Hairsalon/2008M#Debut]]
+--[[おとぎの紹介状>Hairsalon/2008M#Otogi]]
+--[[マネージャーの紹介状 >Hairsalon/2008M#Manager]]
+--[[歌姫の紹介状 >Hairsalon/2008M#Utahime]]
+--[[真夏の紹介状 >Hairsalon/2008M#Manatsu]]
+--[[ひぐらしの紹介状 >Hairsalon/2008M#Higurashi]]
+--[[レナの紹介状 >Hairsalon/2008M#Rena]]
+--[[貴族の紹介状 >Hairsalon/2008M#Kizoku]]
+--[[委員長の紹介状>Hairsalon/2008M#Iincho]]
+--[[ハロウィンの紹介状 >Hairsalon/2008M#Halloween]]
+--[[真冬の紹介状 >Hairsalon/2008M#Mafuyu]]
+--[[空賊の紹介状 >Hairsalon/2008M#Kuzoku]]
+-[[2009年>Hairsalon/2009M]]
+--[[ハイカラ紹介状 >Hairsalon/2009M#Highcolor]]
+--[[アルバイトの紹介状 >Hairsalon/2009M#Arbeit]]
+--[[軍式紹介状 >Hairsalon/2009M#Gunshiki]]
+--[[伝説の紹介状 >Hairsalon/2009M#Densetsu]]
+--[[愛され紹介状 >Hairsalon/2009M#Aisare]]
+--ティタの紹介状【女性専用】
+--[[北斗の紹介状 >Hairsalon/2009M#Hokuto]]
+--[[ふたご座の紹介状☆ >Hairsalon/2009M#FutagoStar]]
+--[[夏休みの紹介状 >Hairsalon/2009M#Natsuyasumi]]
+--[[厳島 美晴の紹介状 >Hairsalon/2009M#Miharu]]
+--[[ロビン・グッドフェロウの紹介状 >Hairsalon/2009M#Robin]]
+--[[アングリー紹介状 >Hairsalon/2009M#Angry]]
+--[[ハングリー紹介状 >Hairsalon/2009M#Hungry]]
+--[[コウモリタ紹介状 >Hairsalon/2009M#Koumorita]]
+--マーシャの紹介状【女性専用】
+--[[西洋ロマンの紹介状>Hairsalon/2009M#SeiyoRoman]]
+--[[歌姫の紹介状（ゴージャス） >Hairsalon/2009M#UtahimeGorgeous]]
+-[[2010年>Hairsalon/2010M]]
+--[[わがまま紹介状 >Hairsalon/2010M#Wagamama]]
+--[[ライブの紹介状 >Hairsalon/2010M#Live]]
+--妹の紹介状【女性専用】
+--[[しゅごキャラ！の紹介状 >Hairsalon/2010M#Shugochara]]
+--[[あむちゃんの紹介状 >Hairsalon/2010M#Amuchan]]
+--[[イクトの紹介状 >Hairsalon/2010M#Ikuto]]
+--[[ふんわり紹介状 >Hairsalon/2010M#Funwari]]
+--[[上級生の紹介状 >Hairsalon/2010M#Jyokyusei]]
+--[[新入生の紹介状 >Hairsalon/2010M#Shinnyusei]]
+--[[チェスの紹介状 >Hairsalon/2010M#Chess]]
+--[[バカンスの紹介状 >Hairsalon/2010M#Vacances]]
+--[[ハイカラ紹介状☆ >Hairsalon/2010M#HighcolorStar]]
+--[[真夏の紹介状☆ >Hairsalon/2010M#ManatuStar]]
+--[[星屑の紹介状 >Hairsalon/2010M#StarDust]]
+--[[縁日の紹介状 >Hairsalon/2010M#Enniti]]
+--[[超キティラーの紹介状 >Hairsalon/2010M#Kitty]]
+--[[収穫祭の紹介状 >Hairsalon/2010M#Syukaku]]
+--[[トップモデルの紹介状 >Hairsalon/2010M#Topmodel]]
+--[[物怪の紹介状 >Hairsalon/2010M#mononoke]]
+--[[イタズラっ子の紹介状 >Hairsalon/2010M#itazura]]
+--[[怪盗の紹介状 >Hairsalon/2010M#kaitou]]
+--[[エンシェントアークの紹介状１ >Hairsalon/2010M#AncientArk1]]
+--[[エンシェントアークの紹介状２ >Hairsalon/2010M#AncientArk2]]
+--[[エミリーの紹介状 >Hairsalon/2010M#Emily]]
+--[[祝祭の紹介状 >Hairsalon/2010M#Syukusai]]
+--[[聖夜の紹介状 >Hairsalon/2010M#Seiya]]
+-[[2011年>Hairsalon/2011M]]
+--[[新春の紹介状>Hairsalon/2011M#sinsyun]]
+--[[雪国の紹介状>Hairsalon/2011M#yukiguni]]
+--[[小悪魔の紹介状>Hairsalon/2011M#koakuma]]
+--[[手作りの紹介状>Hairsalon/2011M#tedukuri]]
+--[[ロリポップの紹介状>Hairsalon/2011M#roripoppu]]
+--[[アジアン紹介状>Hairsalon/2011M#ajian]]
+--[[大江戸の紹介状>Hairsalon/2011M#kunoiti]]
+--[[学園の紹介状>Hairsalon/2011M#fuuun]]
+--[[商店街の紹介状>Hairsalon/2011M#hanasaku]]
+--[[妖精の紹介状>Hairsalon/2011M#fairy]]
+--[[海賊の紹介状>Hairsalon/2011M#pirates]]
+--[[誓いの紹介状>Hairsalon/2011M#precious]]
+--[[サーニャの紹介状>Hairsalon/2011M#strike1]]
+--[[ハルトマンの紹介状>Hairsalon/2011M#strike2]]
+--[[シャーリーの紹介状>Hairsalon/2011M#strike3]]
+--[[坂本少佐の紹介状>Hairsalon/2011M#strike4]]
+--[[深海の紹介状>Hairsalon/2011M#aquamarine]]
+--[[ゴーストの紹介状>Hairsalon/2011M#gothicparty]]
+--[[サイバーの紹介状>Hairsalon/2011M#electromemories]]
+--[[お泊り会の紹介状>Hairsalon/2011M#dreamynight]]
+--[[魔法少女の紹介状>Hairsalon/2011M#madomagi]]
+--[[大和神話の紹介状>Hairsalon/2011M#yamatolegend]]
+--[[北欧神話の紹介状>Hairsalon/2011M#norsemythology]]
+--[[天国の紹介状>Hairsalon/2011M#holy_halloween]]
+--[[地獄の紹介状>Hairsalon/2011M#jigoku]]
+--[[森の中への紹介状>Hairsalon/2011M#morinonakahe]]
+--[[お城の紹介状>Hairsalon/2011M#osiro]]
+--[[FRILLの紹介状>Hairsalon/2011M#frill]]
+--[[カーニバルの紹介状>Hairsalon/2011M#heartmate]]
+--[[召使の紹介状>Hairsalon/2011M#servant]]
+-[[2012年>Hairsalon/2012M]]
+--[[黒き翼の紹介状>Hairsalon/2012M#check-wing]]
+--[[ムツキの紹介状>Hairsalon/2012M#Muthuki]]
+--[[忠犬の紹介状>Hairsalon/2012M#furcoordinate]]
+--[[キサラギの紹介状>Hairsalon/2012M#kisaragi]]
+--[[萌芽の紹介状>Hairsalon/2012M#houga]]
+--[[ヤヨイの紹介状>Hairsalon/2012M#yayoi]]
+--[[あやかしの紹介状>Hairsalon/2012M#haruotogi]]
+--[[ウヅキの紹介状>Hairsalon/2012M#uduki]]
+--[[やんちゃ娘の紹介状>Hairsalon/2012M#baruru]]
+--[[サツキの紹介状>Hairsalon/2012M#satuki]]
+--[[潮風の紹介状>Hairsalon/2012M#epic]]
+--[[ミナヅキの紹介状>Hairsalon/2012M#minaduki]]
+--[[南極の紹介状>Hairsalon/2012M#penguin]]
+--[[フミツキの紹介状>Hairsalon/2012M#fumitsuki]]
+--[[アラビアンナイトの紹介状>Hairsalon/2012M#ArabianNights]]
+--[[ハヅキの紹介状>Hairsalon/2012M#haduki]]
+--[[おかしな紹介状>Hairsalon/2012M#madteatime]]
+--[[キクヅキの紹介状>Hairsalon/2012M#kikuduki]]
+--[[AMNESIAの紹介状>Hairsalon/2012M#amnesia]]
+--[[使い魔の紹介状>Hairsalon/2012M#prettyservant]]
+--[[カミア・カンナの紹介状>Hairsalon/2012M#kamikan]]
+--[[スチームパンクの紹介状>Hairsalon/2012M#Steampunk]]
+--[[シモツキの紹介状>Hairsalon/2012M#simotuki]]
+--[[闇夜の紹介状>Hairsalon/2012M#Wicked]]
+--[[h.NAOTOの紹介状>Hairsalon/2012M#naoto]]
+--[[ロウゲツの紹介状>Hairsalon/2012M#rougetu]]
+-[[2013年>Hairsalon/2013M]]
+--[[アルカードの紹介状>Hairsalon/2013M#VampireRomance]]
+--[[エンジェルフェザーの紹介状>Hairsalon/2013M#PetitAnge]]
+--[[春風の紹介状>Hairsalon/2013M#harukaze]]
+--[[清姫の紹介状>Hairsalon/2013M#kiyohime]]
+--[[モーモーの紹介状>Hairsalon/2013M#CountryCowgirl]]
+--[[ル・フェイの紹介状>Hairsalon/2013M#CelticFantasy]]
+--[[ネクロアーマーの紹介状>Hairsalon/2013M#KuroganeNoKishidan]]
+--[[バステトの紹介状>Hairsalon/2013M#BubasutisuNoKoneko]]
+--[[アンブレラの紹介状>Hairsalon/2013M#SuiitoAndKurashikku]]
+--[[キャプテンキッドの紹介状>Hairsalon/2013M#PaireetuKuronikuru]]
+--[[ココッコーの紹介状>Hairsalon/2013M#PiyoPiyoPicnic]]
+--[[夏草の紹介状>Hairsalon/2013M#natukusa]]
+--[[玉藻の紹介状>Hairsalon/2013M#Okitunesama]]
+--[[タランチュラの紹介状>Hairsalon/2013M#tarantula]]
+--[[ローレライの紹介状>Hairsalon/2013M#MermaidOnStage]]
+--[[ベアの紹介状>Hairsalon/2013M#FanFanFanFair]]
+--[[パラケルススの紹介状>Hairsalon/2013M#SecretLaboratory]]
+--[[フライフィッシュの紹介状>Hairsalon/2013M#FlyFish]]
+--[[秋月の紹介状>Hairsalon/2013M#akiduki]]
+--[[ワーウルフの紹介状>Hairsalon/2013M#WalkingWerewolf]]
+--[[テンタクルの紹介状>Hairsalon/2013M#DokidokiCocking]]
+--[[メフィストフェレスの紹介状>Hairsalon/2013M#DemonicDetective]]
+--[[マミーの紹介状>Hairsalon/2013M#RoseWitchHalloween]]
+--[[ルチフェロの紹介状>Hairsalon/2013M#SyumakuOperaHouse]]
+--[[ドラッキーの紹介状>Hairsalon/2013M#TaisyouRetroModernism]]
+--[[ステラの紹介状>Hairsalon/2013M#HoshihuruyoruNoMonogatari]]
+--[[BABYの紹介状>Hairsalon/2013M#BABY-AP2013]]
+--[[記憶の書架の紹介状>Hairsalon/2013M#iris]]
+--[[ブーフの紹介状>Hairsalon/2013M#KiokuNotosyokan]]
+-[[2014年>Hairsalon/2014M]]
+--[[ミコトの紹介状>Hairsalon/2014M#YukiguniAyakasiEmaki]]
+--[[吸血姫の紹介状>Hairsalon/2014M#WhiteMilitary]]
+--[[メイの紹介状>Hairsalon/2014M#KogituneApprentice]]
+--[[蛇姫の紹介状>Hairsalon/2014M#SousyunSchoolLife]]
+--[[ライの紹介状>Hairsalon/2014M#Rai]]
+--隠者の紹介状（[[公式:http://econline.gungho.jp/econetstore/2014/KouyaNoTabiji/#6]]）
+--キリエの紹介状（[[公式:http://econline.gungho.jp/econetstore/2014/MaidInGrandHouse/#6]]）
+--バステトカジュアルの紹介状（[[公式:http://econline.gungho.jp/econetstore/2014/nyannyan-paradise/#6]]）
+
+関連：[[フシギなヘアカタログ１>髪型の変更#if7e6c7e]]
+関連：[[フシギなヘアカタログ２>髪型の変更#u4566beb]]
+
+
+**通常の髪型変更 [#Tsujo]
+-セット10,000G カット3,000G
+|~髪の長さ|~セットする|~髪型|h
+|~ロング系|ナチュラルにして|ロング|
+|~|クールに決めて|ワンレングス|
+|~|ワイルドに決めて|オールバック|
+|>|>|CENTER:↓カットする↓|
+|~ナチュラル系|ナチュラルにして|ナチュラル|
+|~|カッコよく決めて|ワイルド|
+|~|さわやかに決めて|ボーイズ|
+|~|おとなしめにして|コンサバティブ|
+|>|>|CENTER:↓カットする↓|
+|~ショート|不可|クルーカット|
+|>|>|CENTER:↓カットする↓|
+|~スキン|不可|スキンヘッド|
+
+
+**スキャルプエッセンスを使用する髪型変更 [#i22485c1]
+[[''スキャルプエッセンス''>http://eco.acronia.net/itemdb/#id=1318]]を使用した場合
+スキン→クルーカット→ナチュラル系→ロング系と、一段階分ずつ伸びる。
+ロング系の時はまったく変化は無いがエッセンスも消えない。
+
+
+*情報提供などコメント欄 [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+編集議論は、[[【Puki】Wiki編集者の集い【Wiki】02議論目:http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1253723681/l25]]で行われています。
+
+#pcomment

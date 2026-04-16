@@ -1,0 +1,182 @@
+# PartnerList
+
+#include(Partner/PartnerMenu,notitle)
+*パートナー編集ガイド [#PartnerList]
+#contents
+
+//** 一覧ページ [#wa2a5102]
+//-[[通常パートナー>PartnerList/Normal]]
+//-[[ライドパートナー>PartnerList/Ride]]
+//-[[背負い魔・背中装備>PetList/Shoulder]]
+//-[[背負い魔・ネコマタ>PartnerList/nekomata]]
+//-[[背負い魔・オートマタ>PartnerList/automata]]
+//-[[武神>PartnerList/busin]]（Lv110武器パートナー化）
+//-[[守護魔>PartnerList/Syugoma#syugoma]]
+//-[[ハートメイト>PartnerList/Heartmate#Haertmate]]
+//-[[アルマ・モンスター>PartnerList/Almamonster]]
+//-[[ロア>PartnerList/Lore]]
+//-[[御魂>PartnerList/Mitama]]
+
+** テンプレート [#Templete]
+
+***通常パートナー [#TempleteNormal]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&amp;ref(ttp://eco.acronia.net/img/wiki/PetList/.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;&br;[[台詞>PetSpeech/]]&br;&br;系統：&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;?&br;&br;【入手法】&br;?|
+- 画像がまだない場合は&amp;refのところを「[[画像募集中>PartnerList#h8a29c75]]」などに置き換えてください。
+-- そのままでは、eco.acronia.net/img/wiki/PetList/.jpg へのアクセスが発生してしまうため。
+
+//上記は表示用にrefプラグインが動作しない書き方にしているので、
+//↓のソースを使ってください。（このソースを整形済みテキストで表示すると、長すぎてページの幅が大変なことになるので注意。）
+
+//***通常パートナー [#PartnerName]
+//|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+//|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+//|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+//|&ref(http://eco.acronia.net/img/wiki/PetList/.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;&br;[[台詞>PetSpeech/]]&br;&br;系統：&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;?&br;&br;【入手法】&br;?|
+
+//黒以外が目立つように
+- 信頼度テンプレート
+ 黒
+ &color(,#cf7fff){紫};
+ &color(,#8f9fff){青};
+ &color(,#9fefff){水色};
+ &color(,#5fcf5f){緑};
+ &color(,#9fff5f){黄緑};
+ &color(,#ffff00){黄};
+ &color(,#ffcf00){橙};
+ &color(,#ff5f5f){赤};
+ &color(,#ffafcf){桃};
+-固有スキル テンプレート
+ |~スキル名称|~必要&br;LV|~必要&br;信頼度|~条件&br;＜対象＞|~目標|~射程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+ |LEFT:160|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:347|c
+ |▲？？？？？？|1|黒|＜敵＞|単体|x|&color(red){SP??};||
+ |▲？？？？？？|1|黒|＜敵＞|単体|x|&color(blue){MP??};||
+
+
+
+***ライドパートナー [#TempleteRide]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&amp;ref(ttp://eco.acronia.net/img/wiki/PetList/.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;?&br;|
+- 画像がまだない場合は&amp;refのところを「[[画像募集中>PartnerList#h8a29c75]]」などに置き換えてください。
+-- そのままでは、eco.acronia.net/img/wiki/PetList/.jpg へのアクセスが発生してしまうため。
+
+//上記は表示用にrefプラグインが動作しない書き方にしているので、
+//↓のソースを使ってください。
+
+//***ライドパートナー [#PartnerName]
+//|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+//|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+//|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+//|&ref(http://eco.acronia.net/img/wiki/PetList/.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|【説明】&br;&br;&br;攻撃タイプ：&br;&br;【適用される能力上乗せスキル】&br;？&br;&br;【入手法】&br;?&br;|
+
+** ステータス情報提供について [#x6892dbe]
+- 初期ステータスについては「LV:1、信頼度:黒、成長ポイント: 割り振りなし、装備: なし」の状態を、基本的に掲載((武神は最初からLV110のため、LV110のステータス記載になります。))します。
+- 転生ステータスについては「LV:110、''信頼度:黒''、成長ポイント: 割り振りなし、装備: なし」の状態を、最終的には掲載する方針です。
+-- ただし「LV:110、信頼度:黒」は厳しい条件のため(育成中に信頼度が上がりやすい)、情報不足のパートナーについては、まずは「LV:110未満」や「信頼度:黒以外」でも構いませんので情報提供をお願いします。
+--- 「LV:110、信頼度:黒以外」のステータスを元に、「LV:110、信頼度:黒」のステータスを計算できる方は、信頼度：黒換算のステータスに記載を置き換えてかまいません。
+
+#fold{{{
+信頼度黒が、黒以外よりも優先する理由 ※クリックで開閉
+黒以外よりも、信頼度黒の方が情報を多く含んでいるからです。
+※これ以降は「成長ポイント無振り」前提です。
+-「信頼度''黒''のステータス」の情報には「信頼度''黒''のMP回復率、SP回復率」が含まれていて、
+この情報には更に「信頼度''黒以外''のステータス」も全て、つまり「信頼度''黒以外''のMP回復率、SP回復率」も含まれている。
+--例えば「&color(,lightgrey){信頼度''黒''};のステータスはHP10000,MP1000,…,MP回復率200,SP回復率250」というパートナーがいた場合、この情報から
+「&color(,plum){信頼度''紫''};のHP10800,MP1050,…,MP回復率220,SP回復率270」～「&color(,#ffafcf){信頼度''桃''};の…」が全て導出できます。
+||>|>|>|>|>|>|>|>|>|CENTER:50|c
+|~色|BGCOLOR(#9f9f9f):~黒|BGCOLOR(#cf7fff):~紫|BGCOLOR(#8f9fff):~青|BGCOLOR(#9fefff):~水色|BGCOLOR(#5fcf5f):~緑|BGCOLOR(#9fff5f):~黄緑|BGCOLOR(#ffff00):~黄|BGCOLOR(#ffcf00):~橙|BGCOLOR(#ff5f5f):~赤|BGCOLOR(#ffafcf):~桃|h
+|~MP回復率|200|220|220|240|240|260|280|290|300|300|
+|~SP回復率|250|270|270|290|290|300|300|300|300|300|
+//|~M.RCV|+0|+20|+20|+40|+40|+60|+80|+90|+100|+100|
+※スペースの都合でMP回復率とSP回復率だけ抜き出し。これ以外のステータスも全て導出できます。
+-「信頼度''黒以外''のステータス」の情報には「信頼度''黒以外''のMP回復率、SP回復率」が含まれているが、
+この情報には「信頼度''黒''のMP回復率、SP回復率」等が含まれていない場合がある。
+--例えば「&color(,#ffafcf){信頼度''桃''};のHP15000,MP2300,…,MP回復率300,SP回復率300」という情報から
+「&color(,lightgrey){信頼度''黒''};のHP10000,MP1000,…」等は導出できますが、&color(,lightgrey){信頼度''黒''};から&color(,#ffcf00){信頼度''橙''};までの「MP回復率、SP回復率」の導出は不可能です。
+||>|>|>|>|>|>|>|>|>|CENTER:50|c
+|~色|BGCOLOR(#9f9f9f):~黒|BGCOLOR(#cf7fff):~紫|BGCOLOR(#8f9fff):~青|BGCOLOR(#9fefff):~水色|BGCOLOR(#5fcf5f):~緑|BGCOLOR(#9fff5f):~黄緑|BGCOLOR(#ffff00):~黄|BGCOLOR(#ffcf00):~橙|BGCOLOR(#ff5f5f):~赤|BGCOLOR(#ffafcf):~桃|h
+|~MP回復率|？|？|？|？|？|？|？|？|300|300|
+|~SP回復率|？|？|？|？|？|？|？|？|300|300|
+※スペースの都合でMP回復率とSP回復率だけ抜き出し。これ以外のステータスは導出できます。
+---信頼度ボーナスによってMP回復率とSP回復率が上限300でカンストしている場合、
+切り捨てられた数値が不明のために「導出が不可能」となります。
+逆にいえば、カンストさえしていなければ全て導出できます。
+例えば「&color(,#ffff00){信頼度''黄''};のHP12100,MP1500,…,MP回復率280,SP回復率300」という情報から
+&color(,lightgrey){信頼度''黒''};から&color(,#9fff5f){信頼度''黄緑''};までの「SP回復率」の導出は不可能ですが、MP回復率やそれ以外のステータスは導出できます。
+||>|>|>|>|>|>|>|>|>|CENTER:50|c
+|~色|BGCOLOR(#9f9f9f):~黒|BGCOLOR(#cf7fff):~紫|BGCOLOR(#8f9fff):~青|BGCOLOR(#9fefff):~水色|BGCOLOR(#5fcf5f):~緑|BGCOLOR(#9fff5f):~黄緑|BGCOLOR(#ffff00):~黄|BGCOLOR(#ffcf00):~橙|BGCOLOR(#ff5f5f):~赤|BGCOLOR(#ffafcf):~桃|h
+|~MP回復率|200|220|220|240|240|260|280|290|300|300|
+|~SP回復率|？|？|？|？|？|？|300|300|300|300|
+※スペースの都合でMP回復率とSP回復率だけ抜き出し。これ以外のステータスは導出できます。
+-つまり「信頼度''黒''のステータス」の情報を「信頼度''黒以外''のステータス」で上書きしてしまうと、情報が失われる場合がある。
+--例えば「&color(,lightgrey){信頼度''黒''};のステータスはHP10000,MP1000,…,MP回復率200,SP回復率250」という情報を
+「&color(,#ffafcf){信頼度''桃''};のHP15000,MP2300,…,MP回復率300,SP回復率300」で上書きすると、
+&color(,lightgrey){信頼度''黒''};から&color(,#ffcf00){信頼度''橙''};までの「MP回復率、SP回復率」の情報が失われます。
+||>|>|>|>|>|>|>|>|>|CENTER:50|c
+|~色|BGCOLOR(#9f9f9f):~黒|BGCOLOR(#cf7fff):~紫|BGCOLOR(#8f9fff):~青|BGCOLOR(#9fefff):~水色|BGCOLOR(#5fcf5f):~緑|BGCOLOR(#9fff5f):~黄緑|BGCOLOR(#ffff00):~黄|BGCOLOR(#ffcf00):~橙|BGCOLOR(#ff5f5f):~赤|BGCOLOR(#ffafcf):~桃|h
+|~MP回復率|200|220|220|240|240|260|280|290|300|300|
+|~SP回復率|250|270|270|290|290|300|300|300|300|300|
+|>|>|>|>|>|>|>|>|>|>|CENTER:↓上書き↓|
+|~MP回復率|？|？|？|？|？|？|？|？|300|300|
+|~SP回復率|？|？|？|？|？|？|？|？|300|300|
+※スペースの都合でMP回復率とSP回復率だけ抜き出し。これ以外のステータスは失われません。
+-「せっかく信頼度を上げたのに！」と思われるかもしれませんが、
+情報が失われることがwiki的に好ましくない、というだけのことであり、情報不足で何も無いパートナーであれば大いに歓迎されます。
+||>|>|>|>|>|>|>|>|>|CENTER:50|c
+|~色|BGCOLOR(#9f9f9f):~黒|BGCOLOR(#cf7fff):~紫|BGCOLOR(#8f9fff):~青|BGCOLOR(#9fefff):~水色|BGCOLOR(#5fcf5f):~緑|BGCOLOR(#9fff5f):~黄緑|BGCOLOR(#ffff00):~黄|BGCOLOR(#ffcf00):~橙|BGCOLOR(#ff5f5f):~赤|BGCOLOR(#ffafcf):~桃|h
+|~HP|？|？|？|？|？|？|？|？|？|？|
+|~MP|？|？|？|？|？|？|？|？|？|？|
+|~MP回復率|？|？|？|？|？|？|？|？|？|？|
+|>|>|>|>|>|>|>|>|>|>|CENTER:↓上書き↓|
+|~HP|10000|10800|11000|11300|11500|11800|12100|13000|14000|15000|
+|~MP|1000|1050|1300|1350|1400|1450|1500|1800|2000|2300|
+|~MP回復率|？|？|？|？|？|？|？|？|300|300|
+※スペースの都合でHP,MP,MP回復率だけ抜き出し。&color(,lightgrey){信頼度''黒''};でなくてもほぼ全ての情報が出尽くします。
+}}}
+
+- RCV(HP回復率)、M.RCV(MP回復率)、S.RCV(SP回復率)は、回復アイテムの回復量で調べることができます。
+-- ヒールスナック、マジックスナック、スタミナスナックを使えば、回復量がそのまま回復率になる（例: 回復量150なら回復率150）ので、簡単に調べられます。
+
+** 画像提供について [#h8a29c75]
+- [[画像アップローダー>http://eco.acronia.net/imgup/#dir=wiki/PetList]]を利用して画像をアップロードしてください。
+-- ディレクトリは「wiki/PetList/<パートナー分類>」としてください。
+- 画像形式はJPEG、画像の幅は128ピクセル以上、170ピクセル以下でお願いします。（画像の高さは任意。）((現存するパートナー画像の幅は、128ピクセル、155ピクセル、170ピクセルなどが存在していたため、とりあえずこのようにガイドを記載しました。))
+
+**所持スキル表の編集ガイドライン [#guideline]
+-スキル名称
+--先頭の▲は記載する
+--末尾の（専）は記載しない
+--そのスキル効果と同じプレイヤースキル、または敵モンスタースキルがある場合、改行して括弧で挟んで灰色文字で併記する。
+---スキル効果の詳細な数値が、プレイヤースキルの特定のレベルと完全に一致している場合、そのレベルも記載する。
+このとき、消費は無視する。（消費が違っていても、効果が一致していれば良い）
+---「単体版旧ディバインバリアLv2」のように過不足なく記載されることが望ましい。（この場合、単体版や旧が無いと誤解が生じる）
+-使用対象
+--カスタムAIにて、スキル使用対象として設定した場合にそのスキルが発動する対象を記載する。
+---自分、主人、仲間、敵の4パターンのみ
+---どの対象を指定してもスキルが発動しない場合、指定不可と赤字で記載する。
+-効果範囲
+--単体、対象中心、地面指定、円、扇形、ひし形、直線など。
+---多段でスキルが発動する場合、この欄には初撃の1段目のみ記載し、多段部分は効果備考欄に記載する。
+---円（正方形）の具体的な大きさが判明した場合は、円ではなくその大きさを5x5のように記載する。
+-射程
+--スキル詳細ウィンドウに記載されている数値をそのまま記載する
+---この数値と実際の射程が異なる場合、この欄には実際の射程を記載し、ゲーム内に誤記がある旨を効果備考欄に記載する。
+-消費MP/SP
+--スキル詳細ウィンドウに記載されている数値をそのまま記載する
+---この数値と実際の消費が異なる場合、この欄には実際の消費を記載し、ゲーム内に誤記がある旨を効果備考欄に記載する。
+-スキル説明文
+--スキル詳細ウィンドウに記載されている文章をそのまま記載する
+---この文章と実際の効果などが異なる場合、誤記部分に%%取消線%%を記載し、ゲーム内に誤記がある旨を効果備考欄に記載する。
+-効果・備考
+--威力、依存ステータス、効果時間、詠唱時間、ディレイ、固有ディレイなど。
+---類似スキル名は、スキル名称欄に記載する
+---効果範囲が対象中心円の具体的な大きさは、効果範囲欄に記載する。（多段スキルは初段のみ）
+
+
+*情報提供欄（Wikiの編集が苦手な方はこちらに） [#e2b9718e]
+COLOR(red):情報提供欄はゲーム内容を質問する場ではありません。質問等は[[外部スレッド>Partner#PartnerThread]]へどうぞ。
+#pcomment

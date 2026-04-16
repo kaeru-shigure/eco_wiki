@@ -1,0 +1,77 @@
+# Skill/SoulTaker
+
+[[ウォーロック>Skill/Warlock]]([[スキル>Skill/Warlock/Explanation]])/[[カバリスト>Skill/Cabalist]]([[スキル>Skill/Cabalist/Explanation]])/[[ネクロマンサー>Skill/Necromancer]]([[スキル>Skill/Necromancer/Explanation]])/''ソウルテイカー''([[スキル>Skill/SoulTaker/Explanation]])
+
+*ソウルテイカー [#a8047022]
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ウォーロックの[[''外部スレッド''>Skill/Warlock#p81644f8]]を参照
+
+** 特徴 [#o141e578]
+公式サイト：[[ソウルテイカー:http://www.econline.jp/data/job/3rd-chronicle/job_c08.html]]
+-闇属性の頂点に立つ、闇の君主です。
+-攻撃、支援の両面において、より強化された闇属性魔法を放ちます。
+-圧倒的な闇の力の前に、立ち向かう気力のあるものは皆無でしょう。
+-短剣・杖・槌・盾に加え、''片手斧・両手斧が装備できるように''なった。
+-''HP係数5.20　MP係数4.60　SP係数2.05''
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ウォーロック>Skill/Warlock]]|⇒|[[カバリスト>Skill/Cabalist]]|⇔|[[ネクロマンサー>Skill/Necromancer]]|⇒|ソウルテイカー|
+
+** 転職方法 [#ia4c334d]
+
+[[三次クロニクル職共通ルート>Job/Change/Chronicle#kyoutuu]]
+
+以後は、各職個別ルート
+武神を倒す
+力の解放と上位転生を行う を選択
+
+以上で、転職までの長い道のりが終了である。
+
+ベース・ジョブ共に１に戻り、種族と職業は上位になり、アバターも入手できる。
+また、アバターの調整も、この場所で何時でも変更できる
+&br;&color(red){''上位転生時のレベルによって変更箇所が増える。''};
+レベル110で上位転生すれば全ての箇所が選択可能
+** スキル早見表とスキル詳細 [#i4270112]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#t09921b2]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|7|5|6|4|6|9||~26|12|10|11|8|12|16|
+|~2|7|COLOR(red):BGCOLOR(#EDEDFF):''6''|6|4|COLOR(red):BGCOLOR(#EDEDFF):''7''|9||~27|COLOR(red):BGCOLOR(#EDEDFF):''13''|10|11|8|12|COLOR(red):BGCOLOR(#EDEDFF):''17''|
+|~3|7|6|6|4|7|9||~28|13|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''12''|8|12|17|
+|~4|7|6|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''5''|7|COLOR(red):BGCOLOR(#EDEDFF):''10''||~29|13|11|12|8|12|17|
+|~5|COLOR(red):BGCOLOR(#EDEDFF):''8''|6|7|5|7|10||~30|13|11|12|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''18''|
+|~6|8|6|7|5|7|10||~31|COLOR(red):BGCOLOR(#EDEDFF):''14''|11|12|9|13|18|
+|~7|8|COLOR(red):BGCOLOR(#EDEDFF):''7''|7|5|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''11''||~32|14|11|COLOR(red):BGCOLOR(#EDEDFF):''13''|9|13|18|
+|~8|8|7|7|5|8|11||~33|14|11|13|9|13|18|
+|~9|8|7|COLOR(red):BGCOLOR(#EDEDFF):''8''|5|8|11||~34|14|COLOR(red):BGCOLOR(#EDEDFF):''12''|13|9|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''19''|
+|~10|COLOR(red):BGCOLOR(#EDEDFF):''9''|7|8|COLOR(red):BGCOLOR(#EDEDFF):''6''|8|COLOR(red):BGCOLOR(#EDEDFF):''12''||~35|14|12|13|9|14|19|
+|~11|9|7|8|6|COLOR(red):BGCOLOR(#EDEDFF):''9''|12||~36|COLOR(red):BGCOLOR(#EDEDFF):''15''|12|13|9|14|19|
+|~12|9|7|8|6|9|12||~37|15|12|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''10''|14|COLOR(red):BGCOLOR(#EDEDFF):''20''|
+|~13|9|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''9''|6|9|12||~38|15|12|14|10|14|20|
+|~14|COLOR(red):BGCOLOR(#EDEDFF):''10''|8|9|6|9|COLOR(red):BGCOLOR(#EDEDFF):''13''||~39|15|COLOR(red):BGCOLOR(#EDEDFF):''13''|14|10|COLOR(red):BGCOLOR(#EDEDFF):''15''|20|
+|~15|10|8|9|6|9|13||~40|COLOR(red):BGCOLOR(#EDEDFF):''16''|13|14|10|15|COLOR(red):BGCOLOR(#EDEDFF):''21''|
+|~16|10|8|9|6|COLOR(red):BGCOLOR(#EDEDFF):''10''|13||~41|16|13|14|10|15|21|
+|~17|10|8|9|COLOR(red):BGCOLOR(#EDEDFF):''7''|10|COLOR(red):BGCOLOR(#EDEDFF):''14''||~42|16|13|COLOR(red):BGCOLOR(#EDEDFF):''15''|10|15|21|
+|~18|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''10''|7|10|14||~43|16|13|15|10|16|21|
+|~19|11|9|10|7|10|14||~44|17|14|15|11|16|22|
+|~20|11|9|10|7|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''15''||~45|17|14|15|11|16|22|
+|~21|11|9|10|7|11|15||~46|17|14|15|11|16|22|
+|~22|11|9|10|7|11|15||~47|17|14|COLOR(red):BGCOLOR(#EDEDFF):''16''|11|16|COLOR(red):BGCOLOR(#EDEDFF):''23''|
+|~23|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''11''|7|11|15||~48|17|14|16|11|COLOR(red):BGCOLOR(#EDEDFF):''17''|23|
+|~24|12|10|11|COLOR(red):BGCOLOR(#EDEDFF):''8''|11|COLOR(red):BGCOLOR(#EDEDFF):''16''||~49|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''15''|16|11|17|23|
+|~25|12|10|11|8|COLOR(red):BGCOLOR(#EDEDFF):''12''|16||~50|18|15|16|COLOR(red):BGCOLOR(#EDEDFF):''12''|17|COLOR(red):BGCOLOR(#EDEDFF):''24''|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#ree125df]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Warlock#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

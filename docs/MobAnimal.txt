@@ -1,0 +1,228 @@
+# MobAnimal
+
+#author("2017-04-08T06:19:31+00:00","","")
+*モンスター・エミル世界（動物） [#a7e903ae]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***アーチン系 [#A-chin]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/A-chin.jpg,nolink,98x94);|アーチン|2|45|4/2|BGCOLOR(#ffdddd):火|NonActive|アクロニア平原&br;スノップの山道&br;スノップ追分|アーチンのとげ&br;ゼリコポーション&br;オイル&br;ロウ&br;アーチン印のミソ&br;&color(red){ワックス};&br;&color(slateblue){アーチンスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SaladA-chin.jpg,nolink,100x100);|サラダアーチン|13|100|25/19|BGCOLOR(#98fb98):土|NonActive|ファーイースト街道&br;イストー岬|菜っ葉&br;レタス&br;黄緑のゼリコ&br;キューティクルエキス&br;&color(slateblue){サラダアーチンスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CaviA-chin.jpg,nolink,100x100);|キャビアーチン|15|90|30/28|BGCOLOR(#c4adff):闇|NonActive|スノップ雪原&br;ノーザリン岬&br;ノース中央山脈&br;永遠への北限|アーチン印のミソ&br;キャビア&br;黒キャビア&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tanker.jpg,nolink,100x100);|タンカー|18|65|50/49|BGCOLOR(#ffdddd):火|NonActive|軍艦島|オイル&br;原油&br;プラスチック&br;&color(slateblue){タンカースタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrashIce.jpg,nolink,100x100);|クラッシュアイス|20|160|56/44|BGCOLOR(#bbffff):水|NonActive|スノップ雪原&br;スノップの山道&br;スノップ追分&br;ノーザリン岬|にごった水&br;ミネラルウォーター&br;トニックウォーター&br;&color(red){キャリアオイル};&br;&color(red){融けない氷};&br;&color(slateblue){クラッシュアイススタンプ};|ウォータアタック&br;アイスフェード||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Edge.jpg,nolink,100x100);|エッジ|24|600|105/78|BGCOLOR(#bbffff):水|Active|【氷結の坑道】&br;B1F,B2F&br;&br;ノース台地|ミルク&br;バター&br;エッジのとげ&br;&color(red){カルシウムビスケット};&br;&color(slateblue){エッジスタンプ};|アイスフェード&br;アイスアロー||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Torpedo.jpg,nolink,100x100);|トルピード|29|330|264/264|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|燐粉&br;黒色火薬&br;破れた魔法書&br;ブランクイリスカード&br;&color(red){シルバーメダル};|ウォータアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MetalA-chin.jpg,nolink,100x100);|メタルアーチン|30|250|288/252|無|NonActive|【廃炭鉱】&br;B2F,B3F|砂鉄&br;鉄のナゲット&br;プラチナの塊&br;メタルアーチンのとげ&br;&color(slateblue){メタルアーチンスタンプ};|-|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MorningStar.jpg,nolink,100x100);|モーニングスター|32|540|512/344|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F&br;&br;【サウスダンジョン】&br;B1F|鉄のナゲット&br;銅のナゲット&br;銀のナゲット&br;&color(red){軽鉄};&br;&color(slateblue){砂金};&br;&color(slateblue){モーニングスタースタンプ};|-|高DEF|
+
+***アルマジロン系 [#Armadillon]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Armadillon.jpg,nolink,100x100);|アルマジロン|18|240|72/83|BGCOLOR(#98fb98):土|NonActive|ウテナ川河口（東）&br;南ウテナ開拓地&br;東アクロニア段丘|じゃがいも&br;肉&br;獣の甲殻|ブロウ&br;スタンアタック|低M.DEF|
+
+***ヴァルヴァル系 [#Walwal]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Walwal.jpg,nolink,100x100);|ヴァルヴァル|95||22,809/24,067|BGCOLOR(#bbffff):水||【ノーザン地下】&br;氷洞|パワードリンク&br;高級スタミナポーション&br;濃縮エナジーポーション&br;螺旋状の角|ワー・クライ&br;ファランクス&br;アクアウェーブ&br;ウォーターバーン&br;デッドリーアタック||
+
+***ウィリー･ドゥ系 [#WiliDu]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WiliDu.jpg,nolink,100x100);|ウィリー・ドゥ|31|300|228/209|無|Link→動物系|永遠への北限&br;ノース台地&br;ノース中央山脈|マジックキャンディー&br;にんじん&br;破れた魔法書&br;ウィリー・ドゥの玉&br;シニヨンキャップ&br;&color(red){カッパーメダル};&br;&color(slateblue){ウィリー・ドゥスタンプ};|-|高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MinyDu.jpg,nolink,100x100);|ミニー・ドゥ|32|320|235/165|BGCOLOR(#ffffff):光|Active|【ノーザンダンジョン】&br;1F|マジックキャンディー&br;にんじん&br;破れた魔法書&br;&color(slateblue){背負い魔・ネコマタ（桃）};&br;&color(slateblue){ミニー・ドゥスタンプ};|衝撃波&br;ポケポケ&br;ホーリーウェポン&br;ホーリーライト|近接攻撃タイプだがAIが遠距離タイプな為&br;近づかなければ通常攻撃を受けない|
+|~|ミニー・ドゥ|32|112,144|/|BGCOLOR(#ffdddd):火|NonActive→&br;一定以上体力が減少すると、特殊詠唱反応&br;（自分へのスキル使用を察知すると反応。）|【ノーザンダンジョン】|-|ファイアボール&br;ファイアーストーム&br;衝撃波&br;ポケポケ&br;自爆|クエスト「[[逃げたうさぎ>Quest/Northern#Lv65Equipment]]」対象|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cinnamon.jpg,nolink,100x100);|シナモン|39|525|308/295|無|NonActive|鬼の寝床岩&br;鉄火山&br;アイアンサウス街道&br;&br;【サウスダンジョン】&br;B1F|シナモン缶&br;マジックキャンディー&br;にんじん&br;マジックポーション&br;破れた魔法書&br;&color(red){カッパーメダル};&br;&color(slateblue){シナモンスタンプ};|-|高S.HIT。AGI81でも回避しにくい&br;瀕死時→無移動、近づくとActive&br;物理攻撃時、稀に射程1で高速反撃（カウンター並の速度）&br;回避力がとても高い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Coconuts.jpg,nolink,100x100);|ココナッツ|60|2,100|3,753/3,529|無|詠唱反応|【光の塔】&br;光の塔下層（連絡通路）&br;A-6F&br;A-8F|氷砂糖&br;上等なマジックキャンディー&br;破れた魔法書&br;&color(red){カッパーメダル};|ポケポケ&br;デクライズウェポン&br;デクライズシールド&br;エナジークロウ|瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Litchi.jpg,nolink,100x100);|ライチー|78|5,000|5,857/6,022|BGCOLOR(#ffffff):光|詠唱反応|【光の塔】&br;光の塔下層（B屋上）&br;A-9F|氷砂糖&br;上等なマジックキャンディー&br;破れた魔法書&br;&color(slateblue){ライチーの玉};&br;&color(red){うさ耳（ホワイト）};|ホーリーライト&br;リフレクションウォール&br;ブランディッシュ&br;デクライズウェポン|瀕死時→Active|
+
+***カトブレパス系 [#Catoblepas]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/catoblepas.jpg,nolink,100x100);|カトブレパス|106||107,500/100,000|BGCOLOR(#c4adff):闇|Active|【カーマイン遺跡】&br;1F中央&br;1F東居住区&br;1F西居住区|高級マジックポーション&br;闇のコロン&br;&color(orange){闇の召還石};&br;闇属性強化の結晶|石化ガス&br;ディビリテイト&br;デッドエンド&br;ハイパーチャージ||
+
+***ゲッコ系 [#Gekko]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RecklessGekko.jpg,nolink,100x100);|レクルスゲッコ|35|840|390/400|BGCOLOR(#bbffff):水|NonActive|モーモー草原&br;穀倉地帯|青汁&br;&color(orange){革のベルト};&br;毒消しの実&br;健康栄養ドリンク&br;ペリドット&br;&color(red){カッパーメダル};||鈍足&br;ATK高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gekko.jpg,nolink,100x100);|ゲッコ|38|2,100|350/450|BGCOLOR(#bbffff):水|Active|穀倉地帯&br;&br;【インスタンスダンジョン】&br;潜む白い影&br;地下迷宮 第4,8階層|青汁&br;革のベルト&br;キャベツ&br;ねばねば&br;ペリドット&br;&color(red){シルバーメダル};&br;&color(red){ヒスイ};|アクアストーム&br;足払い||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AltoGekko.jpg,nolink,100x100);|アルトゲッコ|60|2,300|2,798/3,119|BGCOLOR(#bbffff):水|Link&br;詠唱反応|イーストダンジョン&br;原初の森|ねばねば&br;キャベツ&br;鋼の刀身&br;ブランクイリスカード&br;&color(red){キャビア};&br;&color(orange){黒キャビア};&br;&color(red){シルバーメダル};|アイスフェード&br;アクアストーム&br;ウォータアタック&br;居合|詠唱反応の頻度は低め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ElderGekko.jpg,nolink,100x100);|エルダーゲッコ|66|3,500|5,240/4,895|BGCOLOR(#bbffff):水|Active&br;Link→All|原初の森&br;毒の湿原|ねばねば&br;キャベツ&br;鋼の刀身&br;&color(orange){キャビア};&br;&color(red){黒キャビア};|アイスフェード&br;ウォーターバーン&br;アイスウェポン|反応範囲が広い&br;反応すると高確率でアイスウェポンを詠唱する|
+
+***スカー系 [#Scar]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/desert_scar.jpg,nolink,100x100);|デザルトスカー|80||16,806/16,555|BGCOLOR(#fff68f):土|Active|カーマイン砂漠（昼）|砂&br;&color(orange){乾燥フカヒレ};&br;&color(slateblue){オアシスの輝石};|アースファング&br;一閃&br;衝撃波&br;足払い|砂漠が昼MAP時に出現&br;輝石は動物知識＋知識の書があっても&br;1時間に1個出るか否か|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/desert_scar_n.jpg,nolink,100x100);|デザルトスカー|80||15,800/16,808|BGCOLOR(#c4adff):闇|Active|カーマイン砂漠（夜）&br;カーマイン砂漠（夕）|砂&br;&color(orange){乾燥フカヒレ};&br;&color(slateblue){命泉玉};|連続攻撃&br;衝撃波&br;足払い&br;リフレクションウォール|砂漠が夜または夕MAP時に出現&br;命泉玉は輝石ほど出にくくはない|
+
+
+***スネーキー系 [#Snaky]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/PotSnakee.jpg,nolink,100x100);|ポットスネーキー|16|180|64/72|BGCOLOR(#ffdddd):''火''/闇|詠唱反応|ウテナ川河口（東）&br;南ウテナ開拓地|怪しい壷&br;高そうな壷&br;砂糖|ポイズンパヒューム|M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/RedSnaky.png,nolink,100x100);|レッドスネーキー|22|300?|102/115|BGCOLOR(#ffdddd):''火''/闇|詠唱反応|ウェストー開拓地&br;アクロニア丘陵|怪しい壷&br;高そうな壷&br;塩&br;&color(red){黒色火薬};|||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sadoma_snaky.jpg,nolink,100x100);|サドマスネーキー|70||14,434/14,533|BGCOLOR(#ffdddd):火|詠唱反応|カーマイン砂漠（昼）&br;カーマイン砂漠（夕）|&color(orange){怪しい壷};&br;砂糖&br;リザレクションポーション&br;&color(red){高そうな壷};|パープルガス&br;ロックドライブ&br;ハイパーチャージ||
+
+***スフィンクス系 [#Sphinx]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sphinx.jpg,nolink,100x100);|スフィンクス|82||23,000/25,000|無|NonActive|カーマイン砂漠（昼）&br;カーマイン砂漠（夜）|高級マジックポーション&br;高級ヒールポーション&br;&color(orange){折れた杖};|エナジーブラスト&br;オールターゼロ&br;オールターフェイト&br;リカバリー||
+
+***ゼレブ系 [#Zerebu]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Zerebu.jpg,nolink,100x100);|ゼレブ|23|190|78/78|BGCOLOR(#ffffff):光|NonActive|ファーイースト街道&br;スノップの山道|マナ・ウォーター&br;にんじん&br;破れた魔法書&br;ユニコーンの角&br;&color(red){シルバーメダル};&br;&color(slateblue){ゼレブスタンプ};|スリープストライク|高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Vega.jpg,nolink,100x101);|ベガ|25|400|100/80|BGCOLOR(#fff68f):火/水/土/''風''/光/闇|NonActive|モーモー草原&br;穀倉地帯|にんじん&br;パートナーフード&br;だいこん&br;&color(slateblue){ペガサス};&br;&color(red){カッパーメダル};&br;&color(red){味噌スープ};|-|土属性攻撃が有効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HeavenlyVega.jpg,nolink,100x100);|ヘブンリーベガ|26|1,000|230/230|BGCOLOR(#bbffff):火/''水''/土/風/光/闇|NonActive|モーモー草原&br;穀倉地帯|にんじん&br;だいこん&br;パートナーフード&br;&color(slateblue){ペガサス};|-|火属性攻撃が有効|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DreamyPony.png,nolink,100x100);|ドリーミーポニー|36||384/264|無|NonActive|ウェストー開拓地&br;アクロニア丘陵|マナ・ウォーター&br;にんじん&br;破れた魔法書|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SolarZerebu.jpg,nolink,100x100);|ソーラーゼレブ|40|1,550|640/440|BGCOLOR(#ffffff):光|NonActive|フシギ団の砦&br;穀倉地帯&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;地下迷宮 第2階層|だいこん&br;丈夫な革&br;リザレクションポーション&br;&color(red){カッパーメダル};&br;&color(red){サーロイン};|スリープストライク&br;ホーリーライト&br;マーベリック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Veillard.jpg,nolink,100x100);|ベイヤール|68|3,550|6,490/6,380|BGCOLOR(#c4adff):闇|Link&br;→動物系|原初の森&br;毒の湿原&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|だいこん&br;スウェード&br;パートナーフード&br;&color(red){シルバーメダル};&br;&color(slateblue){ペガサス};&br;&color(slateblue){ベイヤールスタンプ};|ナッシングネス&br;チャージ&br;ダークバラッド||
+
+***タルパ系 [#Tarupa]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Puyunitarupa.jpg,nolink,100x100);|プユニタルパ|85|12,200|5,222/5,754|BGCOLOR(#98fb98):土|Link|神託の風穴|プユニスコップ&br;掘るんだいと？&br;掘るてぃん？&br;烈風石の欠片|スタンアタック||
+
+
+***ドラゴ系 [#Drago]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WildDorago.jpg,nolink,100x100);|ワイルドドラゴ|95|45,000|7,800/7,900|BGCOLOR(#ffdddd):火|Active|バオバブの森(夜)|丈夫な骨&br;ジューシーなお肉&br;&color(orange){ドラゴの革(PT)};&br;ジューシーなお肉(PT)&br;逆鱗&br;カッパーメダル|ワー・クライ&br;バーニングロード&br;アッシュ|遠距離攻撃&br;射程2～|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MotherDrago.jpg,nolink,100x100);|マザードラゴ|110||68,000/73,000|BGCOLOR(#ffdddd):火|Active|バオバブの森(曇り)|カッパーメダル&br;カッパーメダル(PT)&br;ドラゴの革(PT)&br;金の卵&br;&color(red){背負い魔・ブースト};|バーニングロード&br;猛毒針&br;ノクシャスブラスト&br;ディフェンス・バースト&br;怒&br;ハウリングスクイーザー|BOSS|
+
+***ドラゴン系 [#Dragon]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/SightDragon.jpg,nolink,100x100);|サイトドラゴン|98||14,310/14,580|BGCOLOR(#ffffff):光|Active|光の塔上層（A屋上）|ジューシーなお肉&br;禁断の果実(PT)&br;破れた魔法書(PT)&br;ブランクイリスカードUC&br;&color(red){上等なマジックキャンディー};|デクライズシールド&br;デクライズウェポン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/InferiorDragon.jpg,nolink,100x100);|インフェリアドラゴン|90|16,000|4,000/4,200|BGCOLOR(#ffdddd):''火''/水/土/風|NonActive|【天まで続く塔】&br;エレベータールーム|角笛&br;角笛(PT)|ゴゥアウト&br;ファイヤーボール&br;ランドクラッグ&br;サンダーボルト&br;アイスアロー|風属性攻撃が有効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TitaniaDragon.jpg,nolink,100x100);|タイタニアドラゴン|118|958,000|80,000/76,000|BGCOLOR(#ffdddd):火|Active|【天まで続く塔】&br;エレベータールーム|ジューシーなお肉&br;ジューシーなお肉(PT)&br;タイタニアレザー&br;シルバーメダル&br;タイニーメダル&br;&color(red){逆鱗};&br;&color(red){背負い魔・ブースト};|グランドクロス&br;サンダークランク&br;ディフェンス・バースト&br;怒&br;ノクシャスブラスト&br;ラーヴァフロウ|BOSS&br;一定時間毎沸き(60分～90分)&br;PTドロップはLv98から&br;クエスト「天まで続く塔を登れ」にも出現|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TitaniaDragon.jpg,nolink,100x100);|傷ついたタイタニアドラゴン|30|8,000|/|BGCOLOR(#ffdddd):火|Active|【天まで続く塔】&br;エレベータールーム(インスタンスダンジョン)||グランドクロス&br;サンダークランク&br;ラーヴァフロウ&br;イクスプロージョン|BOSS&br;クエスト「天まで続く塔を登れ・改」に出現&br;タイタニアドラゴンと比べると遥かに弱い。&br;タイタニアドラゴンと異なり、最初から攻撃が届く位置にいる。&br;移動速度がだいぶ遅い。|
+||スレイブドラゴン|98|38,000|/|||【天まで続く塔】&br;エレベータールーム|ジューシーなお肉&br;紫竜のたてがみ|アイスアロー&br;氷化ガス&br;ゴゥアウト&br;ヴァニッシュメント&br;リジェネレート|BOSS属性|
+||ザ・ルーラー・オブ・タイタニア|200|1,500,000|235,000/106,000|BGCOLOR(#bbffff):水||【天まで続く塔】&br;エレベータールーム|上質な紫竜のたてがみ(PT)&br;&color(slateblue){黄金に輝く紫竜のたてがみ(PT)};|アブソリュートテリトリー&br;アイシクルテンペスト&br;ノクシャスブラスト&br;ディスペルオーラ&br;スレイブドラゴン召喚&br;リザレクション|BOSS&br;一定時間毎沸き(60分)&br;パッシブリザレクション(HP100%で復活、二回まで)&br;取り巻き（スレイブドラゴン）&br;高回避|
+
+***バウ系 [#Bow]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bow.jpg,nolink,100x100);|バウ|9|110|24/2|無|Active|スノップ山道&br;スノップ追分&br;キラービーの峠道&br;ウテナ湖&br;ウテナ川河口&br;サウスリン岬&br;モースグ崖&br;アンデッド島・大陸&br;軍艦島|肉&br;&color(orange){バウの革切れ};&br;骨&br;&color(red){革};&br;&color(red){上等な肉};&br;&color(red){スウェード};&br;&color(red){骨おしゃぶり};&br;いのちの結晶&br;&color(slateblue){捨て犬バウ};&br;&color(slateblue){バウスタンプ};|-|索敵範囲が広め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/CrimsonBow.jpg,nolink,100x100);|クリムゾンバウ|17|150|48/45|BGCOLOR(#ffdddd):火|Active|果物の森&br;ステップ砂漠&br;サウスリン岬&br;（キラービーの峠道）&br;&br;【インスタンスダンジョン】&br;迷宮探索&br;地下迷宮 第5階層|革&br;上等な肉&br;肉&br;骨おしゃぶり&br;&color(red){スウェード};&br;&color(slateblue){バウバウ};&br;&color(slateblue){クリムゾンバウスタンプ};|-|索敵範囲が広め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrimsonChief.jpg,nolink,100x100);|クリムゾンチーフ|28|420|214/170|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F,B2F&br;&br;（果物の森）&br;（ステップ砂漠）|上等な肉&br;肉&br;革&br;&color(slateblue){クリムゾンチーフスタンプ};|-|高A.SPD|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RoyalBlueBow.jpg,nolink,100x100);|ロイヤルブルーバウ|30|||BGCOLOR(#98fb98):土||【インスタンスダンジョン】&br;迷宮探索|革(PT)||BOSS|
+
+***バルル系 [#Baruru]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Baruru.jpg,nolink,100x100);|バルル|94|15,000|5,850/6,000|BGCOLOR(#98fb98):土|NonActive|バオバブの森&br;バオバブの森(夜)|骨&br;バルルの革切れ&br;バルルの革&br;上等な肉&br;破れた魔法書&br;するどい牙&br;&color(slateblue){バルルのしっぽ(イエロー)};|アタック・バースト&br;アヴォイド・バースト&br;スタンアタック&br;足払い|足払いが高確率で内部に貫通|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BaruruKids.jpg,nolink,113x113);|バルルキッズ|94|15,400|4,400/4,500|BGCOLOR(#98fb98):土|Active+Link|(バオバブの森)|上等な肉&br;骨&br;バルルの革切れ&br;バルルの革&br;するどい牙&br;&color(slateblue){バルルのしっぽ(イエロー)};||肝っ玉母ちゃんによるバルル召喚でのみ出現|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KimottamaKaachan.jpg,nolink,100x100);|肝っ玉母ちゃん|100|525,000|45,000/45,000|BGCOLOR(#98fb98):土||バオバブの森|サーロイン&br;上等な肉(PT)&br;バルルの革(PT)&br;するどい牙&br;&color(slateblue){スノーバルルの革};&br;&color(slateblue){バルルのしっぽ(グレー)};|ハウルアウト&br;アークパワーライズ&br;ブランディッシュ&br;バルル召喚|BOSS&br;出現時バルル召喚使用&br;HPが4割を切ると一定間隔でハウルアウトを使用|
+
+***パンダ系 [#Panda]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/tonfa_panda.jpg,nolink,100x100);|トンファーパンダ|103||160,003/200,303|無|NonActive|【カーマイン遺跡】&br;1F中央|上等な毛皮&br;濃縮リザレクションポーション&br;&color(orange){ボロボロな棒};|ショックウェーブ&br;ラッシュ&br;連続攻撃&br;ハイパーチャージ||
+
+***フリッカーテイル系 [#FTail]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/FTail.jpg,nolink,100x100);|フリッカーテイル|20|210|82/94|BGCOLOR(#98fb98):''土''/風|Link|南ウテナ開拓地&br;東アクロニア段丘|どんぐり&br;にんじん&br;くるみ|ヒーリング&br;応援||
+
+***フレハラム系 [#Fureha]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Fureharamu.jpg,nolink,100x100);|フレハラム|85|9,400|5,200/5,694|BGCOLOR(#ffdddd):火|Active|神託の風穴|肉&br;ハラムテイル|ファイアボール&br;リジェネレート|取り巻き&br;（ポロマタンキクル）|
+|~|ポロフレハラム|||7,150/7,836|BGCOLOR(#ffdddd):火|Active|神託の風穴|ハラムテイル&br;烈風石の欠片|ファイアボール&br;リジェネレート&br;グラヴィティフォール|レラカムイの取り巻き|
+
+***ベア系 [#Bear]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bear.jpg,nolink,100x100);|ベア|22|230|85/70|無|Active|アンデッド島・大陸&br;キラービーの峠道&br;モースグ崖&br;軍艦島&br;（アクロニアの林）|りんご&br;&color(orange){毛皮};&br;革&br;上等な毛皮&br;破れた魔法書&br;&color(slateblue){ベアスタンプ};|ウインドアタック&br;スタンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PolarBear.jpg,nolink,100x100);|ポーラーベア|22|340|85/70|BGCOLOR(#bbffff):水|Active|スノップ雪原&br;スノップの山道&br;ノーザリン岬&br;ノース台地|氷砂糖&br;&color(orange){毛皮};&br;白い毛皮&br;ニット生地&br;破れた魔法書&br;&color(slateblue){ポーラーベアスタンプ};&br;|衝撃波&br;スタンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KingPolar.jpg,nolink,100x100);|キングポーラー|38|800|600/380|BGCOLOR(#bbffff):水|Active|ノーザリン岬|毛皮&br;毛糸&br;上等な毛皮&br;白い毛皮&br;破れた魔法書|衝撃波&br;スタンブロウ|高ATK|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/GigaPolar.jpg,nolink,100x100);|ギガポーラー|51|2,000?|1,000/1,000|BGCOLOR(#bbffff):水|Active|ノース中央山脈(南東)|毛皮&br;白い毛皮&br;毛糸|衝撃波&br;スタンブロウ&br;スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/CaveBear.jpg,nolink,100x100);|ケイブベア|24|290|90/95|BGCOLOR(#ffdddd):火|Active|軍艦島&br;アンデッド島・大陸|革&br;毛皮&br;サーロイン&br;&color(orange){上等な毛皮};&br;スウェード&br;破れた魔法書&br;ラズベリー&br;りんご|コンフュージョンブロウ&br;ラッシュ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerBeast.jpg,nolink,100x100);|キラービースト|37|550|720/720|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F～B3F&br;&br;（アンデッド島・大陸）&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;地下迷宮 第2,3,6,7階層|革&br;毛皮&br;&color(orange){上等な革};&br;破れた魔法書&br;&color(orange){ベルベット};&br;&color(slateblue){キラービーストスタンプ};|スロウロジック&br;アースアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RedBeast.jpg,nolink,100x100);|レッドビースト|37|470|648/432|BGCOLOR(#ffdddd):火|Active|【廃炭鉱】&br;B2F,B3F&br;&br;（軍艦島）|革&br;毛皮&br;自分のＨＰが○以上なら△に&br;自分のＨＰが○以下から△に&br;&color(orange){丈夫な革};|スロウロジック&br;ファイアアタック|高DEF&br;高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DarkBear.jpg,nolink,100x100);|ダークベア|39|2,000|2,420/330|BGCOLOR(#c4adff):闇|Active|【廃炭鉱】&br;B3F&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;集う魔物 第2階層|革&br;毛皮&br;ブランクイリスカード&br;&color(red){ベルベット};|スタンポゼション&br;コンヒュージョンブロウ&br;スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/BlackBear.jpg,nolink,100x100);|ブラックベア|41|650|1,183/624|BGCOLOR(#c4adff):闇&br;61↑|Active|【廃炭鉱】&br;B2F～B3F&br;&br;（モースグ崖）|革&br;毛皮&br;破れた魔法書&br;&color(orange){ベルベット};&br;&color(red){ベルベットクロス};&br;&color(slateblue){ブラックベアスタンプ};|スロウロジック&br;ダークバラッド&br;ブランディッシュ|高ATK&br;極めてターゲットが移り易い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShirokumaKun.jpg,nolink,100x100);|白熊くん|10|37,800|13,000/5,500|BGCOLOR(#bbffff):水|Active|スノップ雪原|毛皮&br;白い毛皮&br;アクアマリン&br;サングラス&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){白熊くんスタンプ};|スロウロジック&br;氷化ガス&br;アクアストーム&br;ポーラーベア召喚|フィールドBOSS&br;30～90分毎&br;出現時ポーラーベア召喚使用&br;高M.DEF&br;初討伐時、称号「''寒がり''」取得|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SaikyouNoMajuu.jpg,nolink,94x100);|最強の魔獣|43|100,000以上|43,100/12,900|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B3F&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;集う魔物 第2階層|毛皮&br;ゼッケン&br;名前入りゼッケン&br;ベルベット&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){最強の魔獣スタンプ};|スロウロジック&br;ダークバラッド&br;ワー・クライ&br;衝撃波&br;ブランディッシュ&br;ダークベア召喚|BOSS&br;30～90分毎&br;出現時ダークベア召喚使用&br;初討伐時、称号「''最強の魔獣''」取得|
+
+***ボア系 [#Boar]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EcoBou.jpg,nolink,100x100);|エコ坊|24|300|90/75|BGCOLOR(#98fb98):土|Active|モーモー草原&br;穀倉地帯|ルーン草&br;&color(orange){上等な毛皮};&br;タムタム草&br;赤い花の種&br;&color(red){四つ葉のクローバー};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WildBoar.jpg,nolink,100x100);|ワイルドボア|28|450|125/135|BGCOLOR(#98fb98):土|Active|モーモー草原&br;穀倉地帯|肉&br;革&br;&color(orange){スウェード};&br;橙の花の種&br;&color(red){四つ葉のクローバー};|チャージ&br;ハイパーチャージ|一度ターゲットを定めると、ロストするまでターゲットを変えない|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/UmeBoar.jpg,nolink,100x100);|ウメボア|57|2,275|2,400/2,400|BGCOLOR(#98fb98):土|Active|イーストダンジョン&br;原初の森&br;毒の湿原|梅のど飴&br;パートナーフード&br;ベルベット&br;&color(red){いのちの結晶};&br;&color(red){四つ葉のクローバー};|ガイデッド&br;スタンアタック&br;ハイパーチャージ|一度ターゲットを定めると、ロストするまでターゲットを変えない&br;高S.HIT|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AngelBoar.jpg,nolink,100x100);|エンジェルボア|82|7,770|8,316/7,980|BGCOLOR(#ffffff):土/''光''|Active|【光の塔】&br;A-13F～A17F&br;A-22F|異界の羽&br;珍しい種&br;するどい牙&br;破れた魔法書&br;&color(red){タイタニアレザー};|マジックスロウ&br;セイントファング&br;チャージ&br;アヴォイド・バースト|スロウを多用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/WickyBoo.jpg,nolink,100x100);|ウィッキーブー|90|30,000?|9,620/9,897|BGCOLOR(#c4adff):闇|Active|【光の塔】&br;A-22F&br;光の塔上層（A屋上）|異界の羽&br;珍しい種&br;するどい牙&br;&color(red){タイタニアレザー};|ダークファング&br;ハイパーチャージ&br;ゴゥアウト&br;怒||
+
+***ミノー系 [#Mino]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Ponsiuninmino.jpg,nolink,100x100);|ポンシウニンミノー|85|13,500|5,356/5,889|BGCOLOR(#fff68f):''風''/闇|Active|神託の風穴|肉&br;がちがち肉&br;丈夫な腰みの|ブロウ&br;スケア&br;アサルト||
+|~|シウニンミノー|90|17,600|7,336/8,108|BGCOLOR(#fff68f):''風''/闇|Active|神託の風穴|上等な肉&br;がちがち肉&br;丈夫な腰みの&br;鋭い角？|ブロウ&br;スケア&br;アサルト||
+
+
+***モーモー系 [#Mo-Mo-]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mo-Mo-.jpg,nolink,100x100);|モーモー|27|360|77/90|無|NonActive|モーモー草原&br;穀倉地帯|ミルク&br;&color(slateblue){牛革};&br;&color(slateblue){革};&br;&color(orange){サーロイン};&br;&color(red){カッパーメダル};&br;|-||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/JerseyMoomoo.png,nolink,100x100);|ジャージーモーモー|38|1000?|461/313|無|NonActive|ウェストー開拓地&br;アクロニア丘陵|ミルク&br;革&br;&color(red){牛革};|ブロウ||
+
+***ラクダーン系 [#i21aefb5]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Rakudaan.jpg,nolink,100x100);|ラクダーン|30|450|156/178|BGCOLOR(#fff68f):土/''風''|NonActive|ウテナ川河口（東）&br;南ウテナ開拓地|ラクダーンバター&br;キャメル生地|ブロウ||
+|~|ラクドーン|76||14,000/13,000|BGCOLOR(#fff68f):風|NonActive|カーマイン砂漠（昼）|ラクダーンバター&br;上等な毛皮|||
+
+***ラット系 [#Rat]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sand_rat.jpg,nolink,100x100);|サンドラット|76||10,555/10,022|BGCOLOR(#c4adff):闇|NonActive|カーマイン砂漠（昼）|クコーの実&br;ねずみのしっぽ&br;&color(orange){トビネズミの革};|ラッシュ&br;スタンアタック|砂漠が昼MAP時に出現|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sand_rat_n.jpg,nolink,100x100);|サンドラット|76||12,400/12,444|BGCOLOR(#ffffff):光|NonActive|カーマイン砂漠（夕）&br;カーマイン砂漠（夜）|クコーの実&br;ねずみのしっぽ&br;&color(orange){トビネズミの革};|エナジーブラスト&br;スタンアタック&br;ホーリーライズ&br;ヴァニッシュメント|砂漠が夜または夕MAP時に出現|
+
+***ローキー系 [#Lowkey]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WhiteFang.jpg,nolink,100x100);|ホワイトファング|21|200|75/60|BGCOLOR(#fff68f):風|Active|スノップ追分&br;スノップの山道&br;スノップ雪原&br;ノーザリン岬&br;ノース台地&br;ノース中央山脈&br;&br;【インスタンスダンジョン】&br;迷宮探索|肉&br;上等な肉&br;革&br;フサフサしっぽ（銀）&br;&color(slateblue){白狼};&br;&color(slateblue){ホワイトファングスタンプ};|ウォータアタック|ファイアードラゴに追いつける&br;低M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lowkey.jpg,nolink,100x100);|ローキー|24|380|146/91|BGCOLOR(#fff68f):風|Active|【大陸の洞窟】&br;B1F～B3F|上等な肉&br;革&br;上等な革&br;&color(orange){スウェード};&br;力の結晶&br;いのちの結晶&br;&color(red){ベルベット};&br;フサフサしっぽ（黄）|-|極めてターゲットが移り易い&br;警告無しに襲ってくることあり|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CaveLowkey.jpg,nolink,100x100);|ケイブローキー|25|420|163/96|BGCOLOR(#fff68f):風|Active|【大陸の洞窟】&br;B2F,B3F|革&br;上等な肉&br;スウェード&br;フサフサしっぽ（黄）&br;&color(red){上等な革};&br;&color(slateblue){ケイブローキースタンプ};|足払い&br;ブランディッシュ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GreyHound.jpg,nolink,100x101);|グレイハウンド|30|460|396/240|BGCOLOR(#c4adff):闇|Active|【氷結の坑道】&br;B1F,B2F&br;&br;【サウスダンジョン】&br;B1F&br;&br;（スノップ雪原）|上等な肉&br;サーロイン&br;いのちの結晶&br;革&br;自分のＳＰが○以上なら△に&br;自分のＳＰが○以下から△に&br;&color(red){スウェード};&br;&color(red){フサフサしっぽ（銀）};|ダークバラッド||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gaburu.jpg,nolink,100x100);|ガブル|36|480|554/396|BGCOLOR(#ffdddd):火|Active|【廃炭鉱】&br;B2F,B3F|サーロイン&br;革&br;上等な肉&br;スウェード&br;フサフサしっぽ（黄）&br;&color(slateblue){ガブルスタンプ};|-||
+//|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaWhiteFang.jpg,nolink,zoom,100x100);|でかホワイトファング|50|500,000|0/0|BGCOLOR(#c4adff):闇|Active|スノップ雪原パートナー育成場|-|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Marou.jpg,nolink,100x98);|魔狼|67|2,500|5,500/5,060&br;&br;(A)900/645|BGCOLOR(#c4adff):闇|Active|原初の森&br;&br;【インスタンスダンジョン】&br;戦慄のプリズン&br;地下迷宮 第10階層&br;集う魔物 第5階層&br;(A)残存するモンスターの駆除|サーロイン&br;上等な肉&br;&color(red){上等な革};&br;&color(red){スウェード};|ダークブレイズ&br;ゴゥアウト&br;ディスプレイズ&br;スケア|M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Meiou.jpg,nolink,100x100);|メイオウ|68|360,000|59,000/36,000|BGCOLOR(#c4adff):闇|Active|冥王の森&br;&br;【インスタンスダンジョン】&br;黒き王&br;集う魔物 第5階層|カッパーメダル(PT)&br;シルバーメダル&br;タイニーメダル(PT)&br;ドミニオンのヘアカタログ&br;タイニーレインボーメダル&br;&color(slateblue){メイオウスタンプ};&br;&color(red){おおかみの耳};&br;&color(red){背負い魔・ブースト};|メガダークブレイズ&br;エセリアルボディ&br;ハウリングスクイーザー&br;百鬼に近い無名称スキル&br;(DEF0に1500↑)&br;魔狼召喚|超大型BOSS&br;50～60分毎沸き&br;&br;出現時に魔狼召喚使用&br;取り巻きが全滅すると&br;魔狼召喚再使用&br;|
+//|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WhiteFang.jpg,nolink,zoom,100x100);|育成場のホワイトファング|80|20,000|0/0|BGCOLOR(#fff68f):風|Link|スノップ雪原パートナー育成場|-|ディレイキャンセル||
+//|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaWhiteFang.jpg,nolink,zoom,100x100);|育成場のでかホワイトファング|110|1,000,000|0/0|BGCOLOR(#c4adff):闇|NonActive|スノップ雪原パートナー育成場|-|ディレイキャンセル&br;ウォーターファング&br;スプラッシュ|マップ内に４体|

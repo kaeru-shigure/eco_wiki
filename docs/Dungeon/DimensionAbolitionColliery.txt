@@ -1,0 +1,99 @@
+# Dungeon/DimensionAbolitionColliery
+
+#author("2017-04-07T16:52:43+00:00","","")
+←[[ダンジョン>Dungeon]]へ戻る
+*ディメンション廃炭鉱 [#v09ccf4c]
+
+-適正Lv：80～90
+
+
+#contents
+
+関連ページ
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+
+
+**ディメンション廃炭鉱B1F [#jf6222bd]
+// &ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionAbolitionColliery/DimensionAbolitionCollieryB1F.png,nolink,ディメンション廃炭鉱B1F);
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/AbolitionCollieryB3F.png,nolink,128x128,ディメンション廃炭鉱B1F);
+-隣接マップ：[[軍艦島>Kariba#WarshipisLand]]、ディメンション廃炭鉱B2F
+-属性：土40
+
+-出現モンスター
+--[[D-タランチュラ>MobDimension#Haitankou]]（アクティブ）
+　(Lv80/土)[HP:6000?][%%3600/2900%%→4320/3480]
+--[[D-オイリー>MobDimension#Haitankou]]（アクティブ）
+　(Lv81/火)[HP:6000][%%3000/3300%%→3600/3960]
+--[[D-カットバット>MobDimension#Haitankou]]（アクティブ）
+　(Lv81/火)[HP:6000?][%%3200/3000%%→3840/3600]
+--[[D-クリムゾンチーフ>MobDimension#Haitankou]]（アクティブ）
+　(Lv82/火)[HP:6100?][%%3600/3600%%→4320/4320]
+--[[D-ガブル>MobDimension#Haitankou]]（アクティブ）
+　(Lv85/火)[HP:6750?][%%4300/4100%%→5160/4920]
+--[[D-キラービースト>MobDimension#Haitankou]]（アクティブ）
+　(Lv87/火)[HP:7200?][%%4500/4500%%→5850/5820]
+--[[D-メタリカ>MobDimension#Haitankou]]（アクティブ）
+　(Lv99/無)[HP:150][%%30000/30000%%→36000/36000]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション廃炭鉱B2F [#k4b33bc2]
+// &ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionAbolitionColliery/DimensionAbolitionCollieryB2F.png,nolink,ディメンション廃炭鉱B2F);
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/AbolitionCollieryB2F.png,nolink,127x127,ディメンション廃炭鉱B2F);
+-隣接マップ：ディメンション廃炭鉱B1F、ディメンション廃炭鉱B3F
+-属性：土50
+
+-出現モンスター
+--[[D-タランチュラ>MobDimension#Haitankou]]（アクティブ）
+　(Lv80/土)[HP:6000?][%%3600/2900%%→4320/3480]
+--[[D-メタルアーチン>MobDimension#Haitankou]]（アクティブ）
+　(Lv80/無)[HP:?][%%4300/3900%%→5160/4680]
+--[[D-モーニングスター>MobDimension#Haitankou]]（アクティブ）
+　(Lv83/土)[HP:6600?][%%3700/3500%%→4440/4200]
+--[[D-ジルコンII>MobDimension#Haitankou]]（アクティブ）
+　(Lv85/闇)[HP:7100?][%%4000/5000%%→4800/6000]
+--[[D-ガブル>MobDimension#Haitankou]]（アクティブ）
+　(Lv85/火)[HP:6750?][%%4300/4100%%→5160/4920]
+--[[D-キラービースト>MobDimension#Haitankou]]（アクティブ）
+　(Lv87/火)[HP:7200?][%%4500/4500%%→5850/5820]
+--[[D-レッドビースト>MobDimension#Haitankou]]（アクティブ）
+　(Lv88/火)[HP:?][%%5200/3800%%→6750/4940]
+--[[D-メタリカ>MobDimension#Haitankou]]（アクティブ）
+　(Lv99/無)[HP:150][%%30000/30000%%→36000/36000]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション廃炭鉱B3F [#feda9321]
+// &ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionAbolitionColliery/DimensionAbolitionCollieryB3F.png,nolink,ディメンション廃炭鉱B3F);
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/AbolitionCollieryB1F.png,nolink,127x127,ディメンション廃炭鉱B2F);
+-隣接マップ：ディメンション廃炭鉱B2F
+-属性：土60
+-常時HP減少（毒、5秒毎にHPが1減少）
+
+-出現モンスター
+--[[D-ジルコンII>MobDimension#Haitankou]]（アクティブ）
+　(Lv85/闇)[HP:7100?][%%4000/5000%%→4800/6000]
+--[[D-キラービースト>MobDimension#Haitankou]]（アクティブ）
+　(Lv87/火)[HP:7200?][%%4500/4500%%→5850/5820]
+--[[D-レッドビースト>MobDimension#Haitankou]]（アクティブ）
+　(Lv88/火)[HP:?][%%5200/3800%%→6750/4940]
+--[[D-ブラックベア>MobDimension#Haitankou]]（アクティブ）
+　(Lv89/闇)[HP:?][%%5000/5800%%→6500/7540]
+--[[D-ダークベア>MobDimension#Haitankou]]（アクティブ）
+　(Lv90/闇)[HP:8900?][%%5800/5500%%→7540/7150]
+--[[D-メタリカ>MobDimension#Haitankou]]（アクティブ）
+　(Lv99/無)[HP:150][%%30000/30000%%→36000/36000]
+--[[ギガンテス>MobDimension#Haitankou]]（アクティブ、BOSS）
+　(Lv100/火)[HP:42000?][20000/20000]
+--[[ティターン>MobDimension#Haitankou]]（アクティブ、瀕死時ノンアクティブ、BOSS、取り巻き：ギガンテス）
+　(Lv105/土)[HP:?][360000/360000]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+*情報提供欄（Wikiの編集が苦手な方はこちらに） [#g1b357d4]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+#pcomment

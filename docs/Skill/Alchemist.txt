@@ -1,0 +1,115 @@
+# Skill/Alchemist
+
+[[ファーマー >Skill/Farmer]]([[詳細>Skill/Farmer/Explanation]])/ ''アルケミスト'' ([[詳細>Skill/Alchemist/Explanation]])/[[ マリオネスト >Skill/Marionest]]([[詳細>Skill/Marionest/Explanation]])/[[ ハーヴェスト >Skill/Harvest]]([[詳細>Skill/Harvest/Explanation]])
+* アルケミスト [#wa88296b]
+#contents
+
+-''SIZE(16){ COLOR(#3399cc){外部スレッド}}''
+ファーマーの[[''外部スレッド''>Skill/Farmer#p81644f8]]を参照
+
+→&size(16){''[[アルケミストスキル詳細>Skill/Alchemist/Explanation]]''};
+
+** 特徴 [#af987857]
+-[[ファーマー>Skill/Farmer]]の上位クラス。エキスパートタイプ。
+-薬品を調合したり、その力を高めたりすることができる。
+-''HP係数：2.50''、''MP係数：1.50''、''SP係数：1.80''
+|~一次職|~二次職|~備考|~三次職|h
+|[[ファーマー>Skill/Farmer]]|アルケミスト|エキスパートジョブ|[[ハーヴェスト>Skill/Harvest]]|
+|~|[[マリオネスト>Skill/Marionest]]|テクニカルジョブ|~|
+
+-[[新ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/Alchemist2.jpg]]
+-[[旧ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/Alchemist.jpg]]
+
+** 転職方法 [#d6908e9c]
+:転職場所| アップタウンギルド元宮４階東側のアルケミストギルド
+:転職条件(ステータス)| 種族・レベル・ステータス　条件なし？
+:転職条件(職業・JobLv)| ファーマーJobLv30以上
+:転職試験| 
+
+・試験はギルド元宮4F東にいるアルケミストマスターから受ける
+（弟子にしてください→受ける→薬品調合技術試験）
+
+・試験内容は、問題で提示されるCOLOR(red):アイテムの合成材料を提出すること。
+※アイテムは徴収されます
+※五問目までの内容は固定ですが、6問目以降3パターン（A,B,C）に分かれます。
+
+|~問番|~提示アイテム|~提出合成材料|h
+|CENTER:|LEFT:|LEFT:|c
+|1|ヒールポーション|[[マリカ草>http://eco.acronia.net/itemdb/#id=2472]]、[[アボリー草>http://eco.acronia.net/itemdb/#id=96]]|
+|2|マジックポーション|[[リール草>http://eco.acronia.net/itemdb/#id=2700]]、[[レグナ草>http://eco.acronia.net/itemdb/#id=2743]]|
+|3|スタミナポーション|[[ギコギコ草>http://eco.acronia.net/itemdb/#id=650]]、[[ルーン草>http://eco.acronia.net/itemdb/#id=2722]]|
+|4|マルチコンディション|[[ミティー草>http://eco.acronia.net/itemdb/#id=2513]]|
+|5|リザレクションポーション|[[タムタム草>http://eco.acronia.net/itemdb/#id=1491]]|
+|>|>|CENTER:~Aパターン|
+|6|研磨剤|[[石ころ>http://eco.acronia.net/itemdb/#id=168]]|
+|7|石化薬|[[コケトリスの瞳>http://eco.acronia.net/itemdb/#id=982]]|
+|8|スキャルプエッセンス|[[キューティクルエキス>http://eco.acronia.net/itemdb/#id=738]]|
+|9|炎のコロン|[[赤い花びら>http://eco.acronia.net/itemdb/#id=47]]|
+|10|接着剤|[[ライギョーの汗>http://eco.acronia.net/itemdb/#id=2675]]|
+|>|>|CENTER:~Bパターン|
+|6|なめし剤|[[エーテル>http://eco.acronia.net/itemdb/#id=284]]|
+|7|睡眠薬|[[いばらのトゲ>http://eco.acronia.net/itemdb/#id=218]]|
+|8|ヘアカラー|[[キャリアオイル>http://eco.acronia.net/itemdb/#id=734]]|
+|9|光のコロン|[[白い花びら>http://eco.acronia.net/itemdb/#id=1272]]|
+|10|金メッキ液|[[毒薬>http://eco.acronia.net/itemdb/#id=1687]]|
+|>|>|CENTER:~Cパターン|
+|6|リムーバー|[[無色の粉末>http://eco.acronia.net/itemdb/#id=2549]]|
+|7|沈黙薬|[[スノードロップ>http://eco.acronia.net/itemdb/#id=1362]]|
+|8|ゼリコポーション|[[ゼリコ>http://eco.acronia.net/itemdb/#id=1404]]|
+|9|水のコロン|[[青い花びら>http://eco.acronia.net/itemdb/#id=30]]|
+|10|毒薬|[[蜘蛛のワイン>http://eco.acronia.net/itemdb/#id=817]]|
+
+** 職業クエスト [#df5e8c14]
+現在ありません。転職前と同じくファーマーマスターからのクエストは受けられます。
+
+**  戦う農家の部屋 [#z602eb79]
+
+[[こちら>Skill/Farmer/BattleStyle]]からどうぞ。
+
+** スキル早見表 [#ge0d07fb]
+
+#include(./Table,notitle)
+
+** ジョブレベルによるステータス補正 [#x499e6ad]
+-補正率は[[ステータス>Status#jobrev]]を参照
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|''jobLv''|''STR''|''DEX''|''INT''|''VIT''|''AGI''|''MAG''|''jobLv''|''STR''|''DEX''|''INT''|''VIT''|''AGI''|''MAG''|h
+|~1|4|7|7|6|2|1|~26|8|COLOR(red):14|13|11|4|3|
+|~2|COLOR(red):5|COLOR(red):8|7|6|2|1|~27|COLOR(red):9|14|13|11|4|3|
+|~3|5|8|7|6|2|1|~28|9|14|13|COLOR(red):12|4|3|
+|~4|5|8|COLOR(red):8|COLOR(red):7|2|COLOR(red):2|~29|9|14|COLOR(red):14|12|4|3|
+|~5|5|8|8|7|2|2|~30|9|COLOR(red):15|14|12|4|3|
+|~6|5|COLOR(red):9|8|7|2|2|~31|9|15|14|12|4|3|
+|~7|5|9|8|7|2|2|~32|9|15|14|COLOR(red):13|4|3|
+|~8|COLOR(red):6|9|COLOR(red):9|7|COLOR(red):3|2|~33|COLOR(red):10|15|COLOR(red):15|13|COLOR(red):5|3|
+|~9|6|9|9|COLOR(red):8|3|2|~34|10|COLOR(red):16|15|13|5|3|
+|~10|6|COLOR(red):10|9|8|3|2|~35|10|16|15|13|5|3|
+|~11|6|10|9|8|3|2|~36|10|16|15|13|5|3|
+|~12|6|10|COLOR(red):10|8|3|2|~37|10|16|COLOR(red):16|COLOR(red):14|5|COLOR(red):4|
+|~13|6|10|10|COLOR(red):9|3|2|~38|10|COLOR(red):17|16|14|5|4|
+|~14|COLOR(red):7|COLOR(red):11|10|9|3|2|~39|COLOR(red):11|17|16|14|5|4|
+|~15|7|11|10|9|3|2|~40|11|17|16|14|5|4|
+|~16|7|11|COLOR(red):11|9|3|2|~41|11|17|COLOR(red):17|14|5|4|
+|~17|7|11|11|9|3|2|~42|11|COLOR(red):18|17|COLOR(red):15|5|4|
+|~18|7|COLOR(red):12|11|COLOR(red):10|3|2|~43|11|18|17|15|5|4|
+|~19|7|12|11|10|3|2|~44|11|18|17|15|5|4|
+|~20|COLOR(red):8|12|COLOR(red):12|10|COLOR(red):4|COLOR(red):3|~45|COLOR(red):12|18|COLOR(red):18|15|COLOR(red):6|4|
+|~21|8|12|12|10|4|3|~46|12|COLOR(red):19|18|15|6|4|
+|~22|8|COLOR(red):13|12|10|4|3|~47|12|19|18|COLOR(red):16|6|4|
+|~23|8|13|12|COLOR(red):11|4|3|~48|12|19|18|16|6|4|
+|~24|8|13|12|11|4|3|~49|12|19|COLOR(red):19|16|6|4|
+|~25|8|13|COLOR(red):13|11|4|3|~50|12|COLOR(red):20|19|16|6|4|
+
+//CENTER:補正値＝FLOOR((JobLV+30) * 補正率)
+//CENTER:補正率一覧（暫定:06/09/05）
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~STR|16%|~DEX|25%|~INT|24%|
+//|~VIT|21%|~AGI|8%|~MAG|6%|
+
+** コメント欄（Wikiの編集の苦手な方はこちらに） [#p6af7878]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[外部スレッド>Skill/Farmer#p81644f8]]にどうぞ。
+
+どんな些細な情報でもこちらに。
+
+#pcomment

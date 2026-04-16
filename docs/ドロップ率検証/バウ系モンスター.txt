@@ -1,0 +1,17 @@
+# ドロップ率検証/バウ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***バウ [#b5badcc1]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|骨|肉|いのちの結晶|バウの革切れ|スウェード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（324体）|160個（49.38％）|132個（40.74％）|29個（8.95％）|0個（0.00％）|3個（0.93％）|0個（0.00％）|
+|知識あり（1036体）|485個（46.81％）|371個（35.81％）|135個（13.03％）|2個（0.19％）|42個（4.05％）|1個（0.10％）|
+
+***クリムゾンバウ [#kb93995b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|上等な肉|革|スウェード|バウバウ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（500体）|206個（41.20％）|241個（48.20％）|35個（7.00％）|18個（3.60％）|0個（0.00％）|0個（0.00％）|
+|知識あり（8480体）|3903個（46.03％）|3338個（39.36％）|1012個（11.93％）|220個（2.59％）|6個（0.07％）|1個（0.01％）|

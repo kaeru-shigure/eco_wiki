@@ -1,0 +1,57 @@
+# MobSpirit
+
+#author("2020-02-21T21:36:08+00:00","","")
+*モンスター・エミル世界（精霊） [#de278abf]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***アイシー系 [#Icy]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Crystal.jpg,nolink,100x100);|クリスタル|24|288|46/90|BGCOLOR(#bbffff):水|NonActive|スノップの山道(北)&br;スノップ雪原&br;(スノップ追分)|ミネラルウォーター&br;スノードロップ&br;キャリアオイル&br;融けない氷&br;&color(red){シルバーメダル};&br;&color(red){超氷石};&br;&color(slateblue){クリスタルスタンプ};|アイスアロー&br;アイスグローブ&br;アクアストーム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FrostyCrystal.jpg,nolink,100x100);|フロスティクリスタル|24|330|55/110|BGCOLOR(#bbffff):水|NonActive|【インスタンスダンジョン】&br;地下迷宮 第1,6,7階層&br;地下に巣くう者|ミネラルウォーター&br;スノードロップ&br;キャリアオイル|アイスアロー&br;アイスグローブ&br;アクアストーム&br;ウォーターファング&br;アイスフェード||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SnowCrystal.jpg,nolink,100x100);|スノークリスタル|31|366|420/414|BGCOLOR(#bbffff):水|Link&br;(Active)|【氷結の坑道】&br;B2F～B3F&br;&br;(ノーザリン岬)|マナ・ウォーター&br;破れた魔法書&br;&color(red){カッパーメダル};&br;&color(slateblue){スノークリスタルスタンプ};|アイスグローブ&br;アイスフェード||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/IcyCool.jpg,nolink,100x100);|アイシクール|44|1,400|1,050/1,008|BGCOLOR(#bbffff):水|Active|【氷結の坑道】&br;B3F|ミネラルウォーター&br;キャリアオイル&br;スノードロップ&br;&color(red){超氷石};|アイスアロー&br;ウォーターファング&br;アクアストーム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Onyx.jpg,nolink,100x100);|オニックス|47|%%1,550%%&br;1,700|2,105/2,253|BGCOLOR(#c4adff):''闇(20)''/水|NonActive|【光の塔】&br;メインフロア4F&br;光の塔下層(4F左上)|金属の混じった石5&br;黒色火薬&br;キャリアオイル&br;チタニウム塊&br;&color(red){超氷石};|ブラックウィドウ&br;ダークファング&br;アイスフェード&br;デクライズウェポン&br;デクライズシールド|DEF20-80&br;M.DEF10-?|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Platinum.jpg,nolink,130x130);|プラチナム|76|4,350|4,930/5,101|BGCOLOR(#fff68f):''風(20)''/水|NonActive|【光の塔】&br;光の塔周辺(北西部)&br;光の塔下層(4F右上)&br;A-9F|燐粉&br;キャリアオイル&br;金属の混じった石5&br;金属の混じった石3&br;&color(orange){プラチナの塊};&br;&color(red){超氷石};|サンダーボルト&br;サンダークランク&br;サテライトエウロパ|DEF10-250&br;M.DEF20-?|
+
+***アイスアルム系 [#af07dea5]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Eisarm.jpg,nolink,100x100);|アイスアルム|100||38,240/39,083|BGCOLOR(#bbffff):水||【ノーザン地下】&br;市民街・氷洞|融けない氷&br;水の召喚石&br;ミニカキ氷&br;氷板|ウォーターアロー&br;アクアストーム&br;スケア&br;リフレクションウォール&br;ハイパーチャージ||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EisarmSplitter.jpg,nolink,100x100);|アイスアルムシュプリッター|100||10,000/10,000|BGCOLOR(#bbffff):水||【ノーザン地下】&br;氷洞|融けない氷&br;水の召喚石&br;ミニカキ氷&br;氷板|アクアストーム&br;メイルシュトローム&br;ディープフリーズ&br;リフレクション&br;ディバインバリア|アイスベルクの取り巻き|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Eisberg.jpg,nolink,100x100);|アイスベルク|110||900,000/900,000|BGCOLOR(#bbffff):水||【ノーザン地下】&br;氷洞|各種結晶（PT）&br;各種メダル（PT）&br;各種ベジスティック（PT）&br;フロスティワンピース&br;フロスティブーツ&br;フロスティキャップ&br;ジュエルゴールド&br;&color(slateblue){背負い魔・ブースト};|ウォーターアロー&br;ウォーターバーン&br;アイシクルテンペスト&br;メイルシュトローム&br;ディープフリーズ&br;アブソリューションジョルト|BOSS&br;取り巻き(アイスアルムシュプリッター)|
+
+***ニンフ系 [#Nymph]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Banshie.jpg,nolink,100x100);|バンシー|26|250|120/83|BGCOLOR(#ffffff):光|NonActive|モーモー草原|燐粉&br;パートナーフード&br;マナ・ウォーター&br;&color(red){ヒスイ};&br;&color(red){マリオネット・ニンフ};|ライトバラッド&br;ホーリーライト||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Flurry.jpg,nolink,100x100);|フューリー|%%36%%&br;48|1,400|%%530/500%%&br;1,525/1,450|BGCOLOR(#c4adff):闇|Link&br;→スタートラー&br;→モーリー|穀倉地帯&br;フシギ団の砦(南側)&br;&br;イーストダンジョン&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;地下迷宮 第3階層&br;遺跡の宝探し|流氷詰めの缶&br;パートナーフード&br;マジックポーション&br;%%&color(red){マリオネット・マンドラゴラ};%%&br;&color(slateblue){マリオネット・ニンフ};&br;&color(red){ヒスイ};|カオスウィドウ&br;ナッシングネス&br;オブセッション|CW乱射癖あり|
+
+***ピーノ系 [#Pino]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mokku-.jpg,nolink,100x100);|モックー|25|310|216/144|BGCOLOR(#98fb98):土|Active|【大陸の洞窟】&br;B2F～B4F|釘&br;鋲&br;ブリキの部品&br;&color(slateblue){モックースタンプ};|アースストーム|詠唱速度が速い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/IceDoll.jpg,nolink,100x107);|アイスドール|50|2,650|1,764/1,260|BGCOLOR(#bbffff):水|NonActive|【光の塔】&br;メインフロア3F&br;A-7F&br;&br;【氷結の坑道】&br;B3F|スノードロップ&br;流氷詰めの缶&br;サンドペーパー&br;魔力の結晶|アイスアロー&br;アイスグローブ&br;アイスフェード&br;アースライズ|瀕死時→Active&br;DEF55-200&br;M.DEF35-129|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kodama-.jpg,nolink,100x100);|コダマー|77|5,500|5,732/5,984|BGCOLOR(#ffffff):光|Active|【光の塔】&br;メインフロア1F&br;A-10F&br;&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|釘&br;ブリキの部品&br;&color(orange){サンドペーパー};&br;いのちの結晶|ブロウ&br;バイタリティダウン&br;ロックストーン&br;ホーリーウェポン|高A.SPD&br;高S.HIT&br;DEF30-100&br;M.DEF35-69|
+
+***マンドラゴラ系 [#Mandragora]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Otik.png,nolink,100x100);|オティーク|23|350?|120/136|BGCOLOR(#98fb98):土|NonActive|ウェストー開拓地&br;アクロニア丘陵|木の皮&br;木炭&br;パルプ&br;不思議な木の種&br;&color(red){世界樹の枝};|||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Mokuju.jpg,nolink,100x100);|モクジュ|24|204|77/92|BGCOLOR(#98fb98):土|NonActive|ウテナ湖&br;東アクロニア海岸&br;&br;【インスタンスダンジョン】&br;地下迷宮 第1階層|木の皮&br;キューティクルエキス&br;クマノイ&br;不思議な木の種&br;マリオネット・マンドラゴラ&br;&color(orange){パルプ};&br;&color(red){世界樹の枝};&br;&color(slateblue){モクジュスタンプ};|エクスクラメーション||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Molly.jpg,nolink,100x100);|モーリー|40|1,500|550/450|BGCOLOR(#98fb98):土|NonActive|穀倉地帯&br;フシギ団の砦(南側)&br;&br;【インスタンスダンジョン】&br;潜む白い影&br;地下迷宮 第3,8階層|木の枝&br;木炭&br;植物栄養剤&br;黒いゼリコ&br;&color(red){マリオネット・マンドラゴラ};&br;&color(slateblue){母樹石};|アースストーム&br;アースクエイク&br;ポイズンパフューム&br;ワー・クライ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Alraune.jpg,nolink,100x100);|アラウネ|69|4,458|%%2,950/2,950%%&br;6,765/6,765|BGCOLOR(#98fb98):土|NonActive|原初の森&br;毒の湿原&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|木の枝&br;植物栄養剤&br;キャリアオイル&br;&color(red){マリオネット・マンドラゴラ};&br;&color(slateblue){母樹石};|アースストーム&br;ロックドライブ&br;サイレントグリーン&br;グラビティフォール||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/NenoOu.jpg,nolink,100x100);|ネノオウ|80|455,000|88,000/65,000|BGCOLOR(#98fb98):土|Active|イストー岬|カッパーメダル(PT)&br;タイニーメダル(PT)&br;不思議な木の種(PT)&br;シルバーメダル&br;ひのきの木材&br;&color(slateblue){母樹石};&br;&color(slateblue){真実を見抜く眼鏡};|アースクエイク&br;アースクライ&br;アシッドミスト&br;ノクシャスブラスト&br;ロックドライブ&br;ワサビ|超大型BOSS&br;30～90分毎沸き&br;取り巻き(マンドラワサビ)|
+|~|ネノオウ(ネカフェ)|||/|BGCOLOR(#98fb98):土||【インスタンスダンジョン】&br;集う翼とネノオウ|ゴールドメダル(PT)&br;&color(slateblue){ゴールデンブースト(PT)};&br;&color(slateblue){ゴールデンブースト(闇)(PT)};&br;&color(slateblue){ゴールデンブースト(光)(PT)};||ネカフェクエに登場&br;ゴールデンブーストは期間限定ドロップ|

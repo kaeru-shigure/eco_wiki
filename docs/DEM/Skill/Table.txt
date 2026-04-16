@@ -1,0 +1,46 @@
+# DEM/Skill/Table
+
+-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+☆：必須クラス
+◎：有った方がかなり良い
+○：有ると便利
+△：場所次第、状況によっては使える
+×：取る必要性は無し
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #DEM>Dungeon/InfiniteCorridorAbyssSkill#g439061b]]''
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+//叩,斬,突,遠（突）
+|~名称|~Max&br;Lv|~Arm&br;Parts|~対象|~型|~評価|~コメント|h
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|c
+|>|>|>|>|>|>|CENTER:~スキルチップ|
+|[[ルーキーブロウ>../Explanation#RookieBlow]]|1|-|単|COLOR(red):''A''|×|最初のDEMICで取り外してしまおう|
+|[[ルーキーバレット>../Explanation#RookieBullet]]|1|-|単|COLOR(red):''A''|×|最初のDEMICで取り外してしまおう|
+|ストーム:プライム|1|-|自|COLOR(red):''A''||各種ストームのLv5と同等のスキル|
+|[[ファイアアート>../Explanation#FileArt]]|1|-|範囲|COLOR(red):''A''|×|ネタスキル&br;配置するのにLv80以上必要|
+|[[ブロウディレイキャンセル>../Explanation#BlowDelayCancel]]|3|叩|自|COLOR(red):''A''|||
+|[[スラッシュディレイキャンセル>../Explanation#SlashDelayCancel]]|3|斬|自|COLOR(red):''A''|||
+|[[スティングディレイキャンセル>../Explanation#StingDelayCancel]]|3|突|自|COLOR(red):''A''|||
+|[[バレットディレイキャンセル>../Explanation#BulletDelayCancel]]|3|遠|自|COLOR(red):''A''|||
+|[[ヴァリアブルウエポン>../Explanation#VariableWepon]]|6|-|自|COLOR(red):''A''|☆ or ○|物理型DEMにとっては非常に優秀&br;魔法型はLF・ITがメインなら○、それ以外は不要|
+|[[ソリッドコーティング>../Explanation#SolidCoating]]|5|-|範囲|COLOR(red):''A''|○|配置するにはLv100以上必要|
+|[[オーバークロック>../Explanation#overclock]]|3|-|自|COLOR(red):''A''|☆|莫大な経験値が必要だが上昇値は非常に強力|
+|[[ガラスフロムレン>../Explanation#garasu]]|1|-|単|COLOR(red):''A''|○|対象指定のSP消費型時空の鍵 要Lv20|
+|[[クロッシングエッジ>../Explanation#clock]]|3|斬|範囲|COLOR(red):''A''|☆|斬撃系の奥義　範囲攻撃　要Lv100|
+|[[ラピッドストライク>../Explanation#rapid]]|3|叩|単|COLOR(red):''A''|☆|打撃系の奥義　連続攻撃　要Lv100|
+|[[ソニックブレイカー>../Explanation#sonic]]|3|突|単|COLOR(red):''A''|◎|突撃系の奥義　右DEF無視単体攻撃　要Lv100|
+|[[クーデグラ>../Explanation#kude]]|3|遠|単|COLOR(red):''A''|◎|銃撃系の奥義　単発高倍率　要Lv100|
+|[[レガシースペル>../Explanation#legase]]|3|-|範囲|COLOR(red):''A''|☆|%%超長詠唱の%%無属性範囲高威力攻撃魔法　要Lv100|
+|[[インサニティヴォーテックス>../Explanation#insanity]]|4|-|範囲|COLOR(red):''A''|○|レベルによって４属性が切り替わる範囲設置魔法　要Lv100|
+|[[ブロウアーム>../Explanation#BlowArm]]|5|叩|自分|COLOR(blue):''P''||DEMアームパーツ(叩)・DEMセットパーツ(叩)装備時に最低攻撃力と近距離命中率を上昇させる。|
+|[[バレットアーム>../Explanation#BarrettArm]]|5|遠|自分|COLOR(blue):''P''||DEMアームパーツ(遠距離)・DEMセットパーツ(遠距離)装備時に最低攻撃力と遠距離命中率を上昇させる。|
+|[[スラッシュアーム>../Explanation#SlashArm]]|5|斬|自分|COLOR(blue):''P''||DEMアームパーツ(斬)・DEMセットパーツ(斬)装備時に最低攻撃力と近距離命中率を上昇させる。|
+|[[スティングアーム>../Explanation#StingArm]]|5|突|自分|COLOR(blue):''P''||DEMアームパーツ(突)・DEMセットパーツ(突)装備時に最低攻撃力と近距離命中率を上昇させる。|
+|>|>|>|>|>|>|CENTER:~Backパーツスキル|
+|[[ビットアタック>../Explanation#BitAttack]]|1|-|単|COLOR(red):''A''||ヴェロチスタビット、カロータビット装備時習得|
+|[[スプリットミサイル>../Explanation#SplitMissile]]|1|-|単|COLOR(red):''A''||コンティネルミサイル装備時習得|
+|[[ガトリングバースト>../Explanation#GatlingBurst]]|1|-|単・直線|COLOR(red):''A''||ツインガトリング装備時習得|
+|[[超電磁砲撃>../Explanation#g3ba6b50]]|1|-|単|COLOR(red):''A''||アラーレキャノン装備時習得|
+|[[ビットビーム砲撃>../Explanation#da41e2f3]]|1|-|単|COLOR(red):''A''||ヴェントビット、アミットキャノン装備時習得|
+|[[バレットラッシュ>../Explanation#e8a99a31]]|1|-|単|COLOR(red):''A''|◎|イェーガー装備時習得&br;これを主体に組み上げるのもあり|

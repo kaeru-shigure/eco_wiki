@@ -1,0 +1,17 @@
+# ドロップ率検証/キョンシー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[死霊知識>ドロップ率検証#qc2da4d1]]
+
+***スペクター [#r420053a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|紋章紙|上等なマジックキャンディー|レプリカ・格闘帽子|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|77個（38.50％）|66個（33.00％）|42個（21.00％）|15個（7.50％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***レッサースペクター [#dff83f43]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|紋章紙|上等なマジックキャンディー|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|92個（46.00％）|68個（34.00％）|40個（20.00％）|0個（0.00％）|
+|知識あり（200体）|56個（28.00％）|55個（27.50％）|73個（36.50％）|16個（8.00％）|

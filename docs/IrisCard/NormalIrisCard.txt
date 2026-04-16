@@ -1,0 +1,653 @@
+# IrisCard/NormalIrisCard
+
+#author("2017-06-27T03:45:26+00:00","","")
+#include(Iris/IrisMenu,notitle)
+*イリスカード [#i7f75081]
+※イリスシステムは[[''Iris''>Iris]]を参照
+※アビリティは[[''アビリティ考察''>Iris/Explanation]]/[[''索引''>Iris/Find/Vector]]を参照
+※属性関係については[[''属性''>Elements]]を参照（カードを属性で検索する場合は[[''属性別索引''>/IrisCard/SetPosition#element]]を参照）
+※カードの詳細欄は[[''フレーバーテキスト集''>Iris/FlavorText]]を参照
+
+#contents
+
+//本ページではノーマル・プロモーションカード等ゲーム内で露店などを介さずに直接入手可能なものを記載
+
+**ノーマルイリスカードリスト [#Normal]
+-Ｇでブランクイリスカードを購入し、手に入れることが可能なイリスカード。
+-大量に入手が可能なため、アセンブルを前提としたベクトル値となっているものが多い。
+
+***第1弾 [#NormalCard01]
+-2009/05/28 実装 (36種のうちノーマル18種)
+//-%%カードラボにいる「夢見のハレルヤ」が各種ブランクイリスカードと交換してくれる%%
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC01-4010);AC01-4010|タイニーとダンプティー|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|11|22|30|40|55|柏原麻実||
+|~|~|~|~|~|~|~|~|~|~|[[基礎技術力強化>Iris/Explanation#tb_spup]]|11|22|30|40|55|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[基礎知力強化>Iris/Explanation#tb_mpup]]|11|22|30|40|55|~|~|
+|&aname(AC01-4020);AC01-4020|ネコマタ全員集合！|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|9|16|23|31|45|かわすみ||
+|~|~|~|~|~|~|~|~|~|~|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|15|23|31|40|50|~|~|
+|&aname(AC01-5010);AC01-5010|フィオと母親|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#99CCFF):水|4|5|6|7|8|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|10|14|19|26|38|ぱん||
+|&aname(AC01-5020);AC01-5020|最強の魔獣|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99FFCC):土|4|5|6|7|8|[[基礎体力強化>Iris/Explanation#tb_hpup]]|15|20|28|38|50|すーぱーぞんび||
+|&aname(AC01-5030);AC01-5030|デス|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#99FFCC):土|4|5|6|7|8|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|10|15|21|29|38|kgr||
+|&aname(AC01-6010);AC01-6010|幹部のブル|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|3|4|5|6|7|[[基礎知力強化>Iris/Explanation#tb_mpup]]|8|9|12|18|25|千歳キイロ||
+|&aname(AC01-6020);AC01-6020|フシギ団の懲りない面々|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|3|4|5|6|7|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|5|6|9|14|21|桃井涼太||
+|&aname(AC01-6030);AC01-6030|下町の平穏な日々|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パッケージの心得>Iris/Explanation#tb_packag]]|12|18|25|38|60|胡せんり||
+|&aname(AC01-6040);AC01-6040|聖女のシマのヨーコさん|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|3|4|5|6|7|[[基礎技術力強化>Iris/Explanation#tb_spup]]|7|8|12|18|25|桃山のぞむ||
+|&aname(AC01-7010);AC01-7010|休憩中のエミル|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99FFCC):土|3|4|5|6|8|-|-|-|-|-|-|胡せんり||
+|&aname(AC01-7020);AC01-7020|祈るマーシャ|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|3|4|5|6|8|-|-|-|-|-|-|うさみするが||
+|&aname(AC01-7030);AC01-7030|図書館のタイタス|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFFF99):風|3|4|5|6|8|-|-|-|-|-|-|えいたか||
+|&aname(AC01-7040);AC01-7040|青空のティタ|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|2|3|4|5|6|-|-|-|-|-|-|小鳥遊||
+|&aname(AC01-7050);AC01-7050|竜と駆けるベリアル|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|3|4|5|6|8|-|-|-|-|-|-|ビビ||
+|&aname(AC01-7060);AC01-7060|休日のルルイエ|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CC99FF):闇|2|3|4|5|6|-|-|-|-|-|-|桃山のぞむ||
+|&aname(AC01-7070);AC01-7070|プルル|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|7|12|20|33|50|千歳キイロ||
+|&aname(AC01-7080);AC01-7080|アーチン|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パッケージの心得>Iris/Explanation#tb_packag]]|5|9|15|26|45|桃井涼太||
+|&aname(AC01-7090);AC01-7090|モーモー|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|7|13|22|35|55|和錆||
+
+***4th Anniversary記念イリスカード [#Anniversary4th]
+-2009/11/13 実装 18種
+//-%%アイアンサウス上層階にいる「夢見のハレルヤ」が各種ブランクイリスカードと交換してくれる。%%
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC04-4010);AC04-4010|ハッピーアニバーサリー|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|5|15|28|43|75|関川成人||
+|~|~|~|~|~|~|~|~|~|~|[[基礎知力強化>Iris/Explanation#tb_mpup]]|5|15|28|43|75|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[基礎技術力強化>Iris/Explanation#tb_spup]]|5|15|28|43|75|~|~|
+|&aname(AC04-4020);AC04-4020|デルタサーガ|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|5|25|58|94|165|津々巳あや||
+|&aname(AC04-5010);AC04-5010|2月（バレンタイン）|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パッケージの心得>Iris/Explanation#tb_packag]]|4|20|45|75|110|加曾利りあら||
+|&aname(AC04-5020);AC04-5020|3月（ひなまつり）|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|1|10|25|40|75|ハコマチシュシュ||
+|~|~|~|~|~|~|~|~|~|~|[[基礎知力強化>Iris/Explanation#tb_mpup]]|1|10|25|40|75|~|~|
+|&aname(AC04-5030);AC04-5030|12月（クリスマス）|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|1|10|25|40|75|津々巳あや||
+|~|~|~|~|~|~|~|~|~|~|[[基礎技術力強化>Iris/Explanation#tb_spup]]|1|10|25|40|75|~|~|
+|&aname(AC04-6010);AC04-6010|ゆめみのたびびと|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎技術力強化>Iris/Explanation#tb_spup]]|5|15|30|55|90|かわすみ||
+|&aname(AC04-6020);AC04-6020|ナニカガスムイエ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎知力強化>Iris/Explanation#tb_mpup]]|5|15|30|55|90|雀葵蘭||
+|&aname(AC04-6030);AC04-6030|都市攻防戦|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|5|15|30|55|90|加曾利りあら||
+|&aname(AC04-6040);AC04-6040|ダンプティーアイランド|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|3|11|16|41|75|椎名悠||
+|&aname(AC04-7010);AC04-7010|1月（お正月）|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|3|8|20|40|65|ノブヨシ侍||
+|&aname(AC04-7020);AC04-7020|4月（お花見）|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎技術力強化>Iris/Explanation#tb_spup]]|3|8|20|40|65|雀葵蘭||
+|&aname(AC04-7030);AC04-7030|5月（カーネーション）|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎知力強化>Iris/Explanation#tb_mpup]]|3|8|20|40|65|ノブヨシ侍||
+|&aname(AC04-7040);AC04-7040|6月（ジューンブライト）|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎知力強化>Iris/Explanation#tb_mpup]]|3|8|20|40|65|椎名悠||
+|&aname(AC04-7050);AC04-7050|7月（海開き）|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|3|8|20|40|65|むきゅう☆||
+|&aname(AC04-7060);AC04-7060|8月（花火大会）|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎技術力強化>Iris/Explanation#tb_spup]]|3|8|20|40|65|ハコマチシュシュ||
+|&aname(AC04-7070);AC04-7070|9月（お月見）|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎知力強化>Iris/Explanation#tb_mpup]]|3|8|20|40|65|John Hathway||
+|&aname(AC04-7080);AC04-7080|10月（ハロウィン）|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|3|8|20|40|65|雀葵蘭||
+|&aname(AC04-7090);AC04-7090|11月（きのこ狩り）|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎技術力強化>Iris/Explanation#tb_spup]]|3|8|20|40|65|加曾利りあら||
+
+***みんつく [#Mintsuku]
+-2010/01/29 実装 18種
+-みんなで作ろう第14弾 上位入賞作品
+//-%%エコタウンにいる「夢見のハレルヤ」がブランクイリスカードと交換してくれる%%
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC06-0010);AC06-0010|星空のソーサラー|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|50|80|100|120|悪いさらたん||
+|~|~|~|~|~|~|~|~|~|~|[[マジックプラス>Iris/Explanation#tb_masicPlus]]|25|48|62|83|110|~|~|
+|&aname(AC06-0020);AC06-0020|君に憑依☆|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|50|80|100|120|アニョ||
+|~|~|~|~|~|~|~|~|~|~|[[基礎体力強化>Iris/Explanation#tb_hpup]]|11|26|33|46|65|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[アーマープラス>Iris/Explanation#tb_armorPlus]]|11|26|33|46|65|~|~|
+|&aname(AC06-1010);AC06-1010|ヘブンリーガーデン|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|らきすけ||
+|~|~|~|~|~|~|~|~|~|~|[[豊作>Iris/Explanation#tb_housaku]]|5|10|15|25|45|~|~|
+|&aname(AC06-1020);AC06-1020|白竜帝のブレイドマスター|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|小鳥遊||
+|~|~|~|~|~|~|~|~|~|~|[[ウェポンプラス>Iris/Explanation#tb_weaponPlus]]|7|15|27|39|65|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|-|-|-|-|1|~|~|
+|&aname(AC06-1030);AC06-1030|木漏れ日の中で|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|TAKU||
+|~|~|~|~|~|~|~|~|~|~|[[慈愛の加護>Iris/Explanation#tb_jiai]]|1|5|10|17|27|~|~|
+|&aname(AC06-1040);AC06-1040|エリーナとマリオネット|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|えりゅ||
+|~|~|~|~|~|~|~|~|~|~|[[基礎技術力強化>Iris/Explanation#tb_spup]]|5|10|20|32|52|~|~|
+|&aname(AC06-1050);AC06-1050|正体不明|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|尭壬リョウ||
+|~|~|~|~|~|~|~|~|~|~|[[ウェポンプラス>Iris/Explanation#tb_weaponPlus]]|3|7|13|20|35|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[アーマープラス>Iris/Explanation#tb_armorPlus]]|3|7|13|20|35|~|~|
+|&aname(AC06-1060);AC06-1060|メタリカ|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|モヘ||
+|~|~|~|~|~|~|~|~|~|~|[[アーマープラス>Iris/Explanation#tb_armorPlus]]|7|15|27|40|72|~|~|
+|&aname(AC06-1070);AC06-1070|ジェントルタイニー|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|ロハン||
+|~|~|~|~|~|~|~|~|~|~|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|3|7|12|20|38|~|~|
+|&aname(AC06-1080);AC06-1080|ドミニオン背徳者|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|クロガネウサギ||
+|~|~|~|~|~|~|~|~|~|~|[[マジックプラス>Iris/Explanation#tb_masicPlus]]|3|7|13|22|36|~|~|
+|&aname(AC06-1090);AC06-1090|ヴァレリア特☆製スープ！|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|しじみうり||
+|~|~|~|~|~|~|~|~|~|~|[[基礎体力強化>Iris/Explanation#tb_hpup]]|5|10|20|32|52|~|~|
+|&aname(AC06-1100);AC06-1100|世界の名を冠せし竜|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|ビビ||
+|~|~|~|~|~|~|~|~|~|~|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|3|7|12|20|38|~|~|
+|&aname(AC06-1110);AC06-1110|デコイ|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|ゆあ||
+|~|~|~|~|~|~|~|~|~|~|[[慈愛の加護>Iris/Explanation#tb_jiai]]|1|5|10|17|27|~|~|
+|&aname(AC06-1120);AC06-1120|幻影のヴェルデガルド|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|Zaza||
+|~|~|~|~|~|~|~|~|~|~|[[マジックプラス>Iris/Explanation#tb_masicPlus]]|3|7|13|22|36|~|~|
+|&aname(AC06-1130);AC06-1130|しあわせをまねくねこ|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|キオクシキ||
+|~|~|~|~|~|~|~|~|~|~|[[慈愛の加護>Iris/Explanation#tb_jiai]]|1|5|10|17|27|~|~|
+|&aname(AC06-1140);AC06-1140|マリオネストのエリーナ|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|milie||
+|~|~|~|~|~|~|~|~|~|~|[[基礎知力強化>Iris/Explanation#tb_mpup]]|5|10|20|32|52|~|~|
+|&aname(AC06-1150);AC06-1150|マンドラ3匹|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|歩無||
+|~|~|~|~|~|~|~|~|~|~|[[豊作>Iris/Explanation#tb_housaku]]|5|10|15|25|45|~|~|
+|&aname(AC06-1160);AC06-1160|黒い聖堂司祭|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|セナノ||
+|~|~|~|~|~|~|~|~|~|~|[[マジックプラス>Iris/Explanation#tb_masicPlus]]|3|7|13|22|36|~|~|
+
+***5th Anniversary記念イリスカード [#Anniversary5th]
+-2010/11/18 実装 18種
+//-%%東アクロニア平原にいる「夢見のハレルヤ」がブランクイリスカードと交換してくれる%%
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC13-0010);AC13-0010|夢の中のプリムラ|&COLOR(#FF0099){''SR''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|5|15|28|43|75|雀葵蘭||
+|~|~|~|~|~|~|~|~|~|~|[[基礎知力強化>Iris/Explanation#tb_mpup]]|5|15|28|43|75|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[基礎技術力強化>Iris/Explanation#tb_spup]]|5|15|28|43|75|~|~|
+|&aname(AC13-0020);AC13-0020|エル・シエルとエミル|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|10|35|42|55|80|関川成人||
+|~|~|~|~|~|~|~|~|~|~|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|5|7|10|15|20|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[慈愛の加護>Iris/Explanation#tb_jiai]]|5|7|10|15|20|~|~|
+|&aname(AC13-1010);AC13-1010|白い本とムチャ|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|10|20|30|45|63|かわすみ||
+|~|~|~|~|~|~|~|~|~|~|[[慈愛の加護>Iris/Explanation#tb_jiai]]|7|10|13|17|25|~|~|
+|&aname(AC13-1020);AC13-1020|ダウンタウンのソーサラー|&COLOR(#ffa500){''R''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[慈愛の加護>Iris/Explanation#tb_jiai]]|10|17|22|30|45|椎名悠||
+|~|~|~|~|~|~|~|~|~|~|[[マジックプラス>Iris/Explanation#tb_masicPlus]]|3|6|10|15|20|~|~|
+|&aname(AC13-1030);AC13-1030|タイニーアイランドとノービス|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|10|18|25|33|48|加曾利りあら||
+|~|~|~|~|~|~|~|~|~|~|[[パッケージの心得>Iris/Explanation#tb_packag]]|10|18|25|33|48|~|~|
+|&aname(AC13-2010);AC13-2010|次元断層とディム博士|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|3|7|9|12|15|かわすみ||
+|~|~|~|~|~|~|~|~|~|~|[[基礎知力強化>Iris/Explanation#tb_mpup]]|10|15|25|35|60|~|~|
+|&aname(AC13-2020);AC13-2020|サウスDとブレイドマスター|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|10|15|25|35|60|ぐーじん||
+|~|~|~|~|~|~|~|~|~|~|[[基礎技術力強化>Iris/Explanation#tb_spup]]|3|7|9|12|15|~|~|
+|&aname(AC13-2030);AC13-2030|イーストDとカバリスト|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CC99FF):闇|1|2|3|4|5|[[パッケージの心得>Iris/Explanation#tb_packag]]|7|10|15|20|28|ハコマチシュシュ||
+|&aname(AC13-2040);AC13-2040|ノーザン王国のドルイド|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|1|2|3|4|5|[[パッケージの心得>Iris/Explanation#tb_packag]]|7|10|15|20|28|あぷぷ||
+|&aname(AC13-3010);AC13-3010|地下浄水施設の蟻と百足|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[アーマープラス>Iris/Explanation#tb_armorPlus]]|12|20|32|50|80|ぐーじん||
+|&aname(AC13-3020);AC13-3020|アップタウンのトレーダー|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パッケージの心得>Iris/Explanation#tb_packag]]|5|10|15|25|45|加曾利りあら||
+|&aname(AC13-3030);AC13-3030|ノーザンDとエレメンタラー|''C''|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|1|2|3|4|5|[[マジックプラス>Iris/Explanation#tb_masicPlus]]|2|4|6|9|15|鳥越タクミ||
+|&aname(AC13-3040);AC13-3040|サウス火山島とブラックスミス|''C''|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#FFCCCC):火|1|2|3|4|5|[[アーマープラス>Iris/Explanation#tb_armorPlus]]|7|10|13|20|25|むきゅう☆||
+|&aname(AC13-3050);AC13-3050|モーグのエクスプローラー|''C''|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#FFFF99):風|1|2|3|4|5|[[パッケージの心得>Iris/Explanation#tb_packag]]|2|4|6|9|15|ハコマチシュシュ||
+|&aname(AC13-3060);AC13-3060|ファーイーストのアルケミスト|''C''|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99FFCC):土|1|2|3|4|5|[[豊作>Iris/Explanation#tb_housaku]]|3|5|8|12|17|むきゅう☆||
+|&aname(AC13-3070);AC13-3070|廃炭鉱のアサシン|''C''|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#CC99FF):闇|1|1|2|2|3|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|1|3|5|9|13|鳥越タクミ||
+|&aname(AC13-3080);AC13-3080|氷結の坑道とナイト|''C''|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#CCFFFF):光|1|1|2|2|3|[[ウェポンプラス>Iris/Explanation#tb_weaponPlus]]|5|10|15|25|45|椎名悠||
+|&aname(AC13-3090);AC13-3090|大陸の洞窟とストライカー|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ウェポンプラス>Iris/Explanation#tb_weaponPlus]]|12|20|32|50|80|あぷぷ||
+
+***6th Anniversary記念イリスカード [#Anniversary6th]
+-2011/11/24 実装 18種　テーマ：ヒトトセイベント
+//-%%南ウテナ開拓地にいる「夢見のハレルヤ」がブランクイリスカードと交換してくれる%%
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC20-0010);AC20-0010|守護魔・ウルゥ|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|11|22|28|39|53|雀葵蘭||
+|~|~|~|~|~|~|~|~|~|~|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|13|23|33|54|82|~||
+|&aname(AC20-0020);AC20-0020|守護魔全員集合！|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[トップブリーダーの基礎>Iris/Explanation#tb_topBreederBase]]|5|25|58|94|165|かわすみ||
+|&aname(AC20-1010);AC20-1010|守護魔・ウル・ルゥ|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|26|43|58|81|113|雀葵蘭||
+|&aname(AC20-2010);AC20-2010|守護魔・ムツキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|4|5|6|7|8|[[アーマープラス>Iris/Explanation#tb_armorPlus]]|5|6|7|10|16|椎名悠||
+|&aname(AC20-2020);AC20-2020|守護魔・キサラギ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CC99FF):闇|4|5|6|7|8|[[基礎体力強化>Iris/Explanation#tb_hpup]]|2|3|4|6|10|むきゅう||
+|&aname(AC20-2030);AC20-2030|守護魔・ヤヨイ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFFF99):風|4|5|6|7|8|[[基礎知力強化>Iris/Explanation#tb_mpup]]|5|7|9|14|22|ノブヨシ侍||
+|&aname(AC20-2040);AC20-2040|守護魔・ウヅキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|4|5|6|7|8|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|1|2|3|5|9|安達洋介||
+|&aname(AC20-2050);AC20-2050|守護魔・サツキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99FFCC):土|5|6|7|8|9|[[基礎体力強化>Iris/Explanation#tb_hpup]]|2|3|5|8|15|あぷぷ||
+|&aname(AC20-2060);AC20-2060|守護魔・ミナヅキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|4|5|6|7|8|[[慈愛の加護>Iris/Explanation#tb_jiai]]|1|3|4|6|11|椎名悠||
+|&aname(AC20-2070);AC20-2070|守護魔・フミツキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|4|5|6|7|8|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|10|13|17|23|32|ノブヨシ侍||
+|&aname(AC20-2080);AC20-2080|守護魔・ハヅキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFFF99):風|5|6|7|8|9|[[ウェポンプラス>Iris/Explanation#tb_weaponPlus]]|4|6|8|13|22|ハコマチシュシュ||
+|&aname(AC20-2090);AC20-2090|守護魔・キクヅキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99FFCC):土|5|6|7|8|9|[[基礎技術力強化>Iris/Explanation#tb_spup]]|2|3|5|8|15|あぷぷ||
+|&aname(AC20-2100);AC20-2100|守護魔・カミア・カンナ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|3|4|5|6|7|[[慈愛の加護>Iris/Explanation#tb_jiai]]|2|3|4|6|9|むきゅう||
+|&aname(AC20-2110);AC20-2110|守護魔・シモツキ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|4|5|6|7|8|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|10|13|17|23|32|安達洋介||
+|&aname(AC20-2120);AC20-2120|守護魔・ロウゲツ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CC99FF):闇|3|4|5|6|7|[[トップブリーダーの基礎>Iris/Explanation#tb_topBreederBase]]|1|2|3|5|8|ぐーじん||
+|&aname(AC20-3010);AC20-3010|フシギ団とナニカガスムイエ|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎技術力強化>Iris/Explanation#tb_spup]]|5|14|22|35|57|安達洋介||
+|&aname(AC20-3020);AC20-3020|フシギなたまご|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[基礎知力強化>Iris/Explanation#tb_mpup]]|7|14|22|36|57|ぐーじん||
+|&aname(AC20-3030);AC20-3030|ツクヨミと月の従者|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[トップブリーダーの基礎>Iris/Explanation#tb_topBreederBase]]|3|5|8|15|25|ハコマチシュシュ||
+
+***7th Anniversary記念イリスカード [#Anniversary7th]
+-2012/11/22 実装 18種　テーマ：アルマたちと絆の樹
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC26-0010);AC26-0010|プルル・アルマ|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[ナローエスケープ>Iris/Explanation#tb_narrowescape]]|25|50|70|100|140|雀葵蘭||
+|~|~|~|~|~|~|~|~|~|~|[[HP最大上昇>Iris/Explanation#tb_HpMaxUp]]|8|12|17|21|32|~||
+|&aname(AC26-0020);AC26-0020|アルマ全員集合！|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|20|50|75|110|142|POP||
+|~|~|~|~|~|~|~|~|~|~|[[フェイタルインフェクト>Iris/Explanation#tb_fatalinfect]]|12|20|28|36|50|~||
+|&aname(AC26-1010);AC26-1010|アミス先生とぷるぷる|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|25|44|62|80|120|雀葵蘭||
+|&aname(AC26-2010);AC26-2010|ダークフェザー・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[サイレンスプロテクト>Iris/Explanation#tb_cilenceprotect]]|20|55|75|90|125|ノブヨシ侍||
+|&aname(AC26-2020);AC26-2020|バウ・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[スロウプロテクト>Iris/Explanation#tb_slowprotect]]|45|70|90|110|125|むきゅう☆||
+|&aname(AC26-2030);AC26-2030|シャボタン・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[コンフュージョンプロテクト>Iris/Explanation#tb_confusionprotect]]|40|65|85|100|125|ハコマチシュシュ||
+|&aname(AC26-2040);AC26-2040|ローキー・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|5|10|15|25|40|椎名悠人||
+|~|~|~|~|~|~|~|~|~|~|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|15|30|45|60|80|~||
+|&aname(AC26-2050);AC26-2050|バルル・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[スタンプロテクト>Iris/Explanation#tb_stunprotect]]|30|45|60|90|125|軍島曹一郎||
+|&aname(AC26-2060);AC26-2060|シーホース・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ストーンプロテクト>Iris/Explanation#tb_stoneprotect]]|25|55|70|85|125|ハコマチシュシュ||
+|&aname(AC26-2070);AC26-2070|ペペン・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|15|30|60|90|125|加曽利りあら||
+|&aname(AC26-2080);AC26-2080|サラマンダー・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[アイスプロテクト>Iris/Explanation#tb_iceprotect]]|20|50|85|100|125|藍圭あけ||
+|&aname(AC26-2090);AC26-2090|ミニー・ドゥ・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[フェイタルインフェクト>Iris/Explanation#tb_fatalinfect]]|30|55|75|95|125|藍圭あけ||
+|&aname(AC26-2100);AC26-2100|白い使い魔・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[スリーププロテクト>Iris/Explanation#tb_sleepprotect]]|45|60|80|105|125|加曽利りあら||
+|&aname(AC26-2110);AC26-2110|オートメディック・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[ポイズンプロテクト>Iris/Explanation#tb_poisonprotect]]|45|70|85|105|125|ぐーじん||
+|&aname(AC26-2120);AC26-2120|デス・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|40|85|99|105|125|椎名悠人||
+|&aname(AC26-3010);AC26-3010|絆の樹|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ナローエスケープ>Iris/Explanation#tb_narrowescape]]|25|50|65|80|110|むきゅう☆||
+|&aname(AC26-3020);AC26-3020|アミス先生の教室|''C''|[[武器>IrisCard/SetPosition#weapon]]|無|4|5|6|7|8|-|-|-|-|-|-|ノブヨシ侍||
+|&aname(AC26-3030);AC26-3030|アミス先生の飛空庭|''C''|[[服>IrisCard/SetPosition#dress]]|無|3|4|5|6|8|-|-|-|-|-|-|ぐーじん||
+
+***8th Anniversary記念イリスカード [#Anniversary8th]
+-2013/11/21 実装 18種　テーマ：イリスと記憶の書架
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC33-0010);AC33-0010|紙芝居屋|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|21|45|71|98|125|雀葵蘭||
+|&aname(AC33-0020);AC33-0020|アルマ全員集合！２|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パッケージの心得>Iris/Explanation#tb_packag]]|31|59|77|103|139|HeadLock||
+|&aname(AC33-1010);AC33-1010|イリス博士|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[憑依の基礎>Iris/Explanation#tb_transBasic]]|12|19|26|37|52|ハコマチシュシュ||
+|&aname(AC33-1020);AC33-1020|受付嬢|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|無|5|6|7|8|9|[[基礎体力強化>Iris/Explanation#tb_hpup]]|27|43|59|81|113|雀葵蘭||
+|&aname(AC33-2010);AC33-2010|エンジェルフェザー・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#CCFFFF):光|5|6|7|8|9|[[慈愛の加護>Iris/Explanation#tb_jiai]]|6|10|11|12|14|ハコマチシュシュ||
+|&aname(AC33-2020);AC33-2020|モーモー・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#99FFCC):土|5|6|7|8|9|[[豊作>Iris/Explanation#tb_housaku]]|10|16|18|21|24|椎名悠人||
+|~|~|~|~|~|~|~|~|~|~|[[促成栽培>Iris/Explanation#tb_forcingculture]]|2|4|5|8|10|~||
+|&aname(AC33-2030);AC33-2030|ネクロアーマー・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#CC99FF):闇|5|6|7|8|9|[[アーマープラス>Iris/Explanation#tb_armorPlus]]|19|29|32|36|40|河田映介||
+|&aname(AC33-2040);AC33-2040|アンブレラ・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#FFCCCC):火|5|6|7|8|9|[[ウェポンプラス>Iris/Explanation#tb_weaponPlus]]|22|34|38|49|58|ぐーじん||
+|&aname(AC33-2050);AC33-2050|ココッコー・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#99CCFF):水|5|6|7|8|9|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|6|9|11|12|14|むきゅう☆||
+|&aname(AC33-2060);AC33-2060|タランチュラ・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[力強化成功率上昇>Iris/Explanation#tb_powerEnhance]]|5|11|18|25|32|椎名悠人||
+|&aname(AC33-2070);AC33-2070|ベア・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[クリティカル強化成功率上昇>Iris/Explanation#tb_criticalEnhance]]|5|11|18|25|32|むきゅう☆||
+|&aname(AC33-2080);AC33-2080|フライフィッシュ・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[釣りレア確率上昇>Iris/Explanation#tb_FishingRare]]|10|16|24|38|52|加曽利りあら||
+|~|~|~|~|~|~|~|~|~|~|[[釣り大物確率上昇>Iris/Explanation#tb_FishingBig]]|4|7|9|12|21|~||
+|&aname(AC33-2090);AC33-2090|テンタクル・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|6|11|16|24|36|ノブヨシ侍||
+|&aname(AC33-2100);AC33-2100|マミー・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[魔力強化成功率上昇>Iris/Explanation#tb_magicEnhance]]|5|11|18|25|32|加曽利りあら||
+|&aname(AC33-2110);AC33-2110|ドラッキー・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|BGCOLOR(#FFFF99):風|5|6|7|8|9|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|6|10|12|15|18|ノブヨシ侍||
+|&aname(AC33-2120);AC33-2120|ブーフ・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[命強化成功率上昇>Iris/Explanation#tb_lifeEnhanceUp]]|5|11|18|25|32|河田映介||
+|&aname(AC33-3010);AC33-3010|心象風景|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[憑依の基礎>Iris/Explanation#tb_transBasic]]|2|5|9|16|26|はごろも||
+|&aname(AC33-3020);AC33-3020|なんでもクエストカウンター|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[交渉の心得>Iris/Explanation#tb_Negotiation]]|5|12|20|33|51|はごろも||
+
+***9th Anniversary記念イリスカード [#Anniversary9th]
+-2014/11/20 実装 18種　テーマ：空飛ぶ工房とフシギな武器
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC39-4010);AC39-4010|アルティ|&COLOR(#FF0099){''SR''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[マリオネットの加護>Iris/Explanation#tb_MarionetteKago]]|2|4|6|18|26|雀葵蘭||
+|&aname(AC39-4020);AC39-4020|御魂・ヒスイ|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[マリオネットの加護>Iris/Explanation#tb_MarionetteKago]]|2|4|6|18|26|雀葵蘭||
+|&aname(AC39-5010);AC39-5010|御魂全員集合！|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|8|12|24|31|48|HEADLOCK||
+|&aname(AC39-5020);AC39-5020|ロア全員集合！|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|12|18|25|36|52|HEADLOCK||
+|&aname(AC39-6010);AC39-6010|御魂・ミコト|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|6|7|8|9|10|-|-|-|-|-|-|加曽利りあら||
+|&aname(AC39-6020);AC39-6020|御魂・メイ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|6|10|15|23|34|椎名悠人||
+|&aname(AC39-6030);AC39-6030|御魂・ライ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFFF99):風|6|7|8|9|10|-|-|-|-|-|-|むきゅう☆||
+|&aname(AC39-6040);AC39-6040|御魂・キリエ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|40|85|99|105|125|ノブヨシ侍||
+|&aname(AC39-6050);AC39-6050|御魂・セレス|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CC99FF):闇|6|7|8|9|10|-|-|-|-|-|-|ハコマチシュシュ||
+|&aname(AC39-6060);AC39-6060|御魂・ルリ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーの護り>Iris/Explanation#tb_guardOfPartner]]|6|11|16|24|35|河田映介||
+|&aname(AC39-6070);AC39-6070|御魂・フォルテ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|6|7|8|9|10|-|-|-|-|-|-|椎名悠人||
+|&aname(AC39-6080);AC39-6080|御魂・エリーゼ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99FFCC):土|6|7|8|9|10|-|-|-|-|-|-|ぐーじん||
+|&aname(AC39-6090);AC39-6090|御魂・アリア|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[仲間との絆>Iris/Explanation#tb_tiesOfFriend]]|5|8|12|19|30|はごろも||
+|&aname(AC39-6100);AC39-6100|御魂・ナナイ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|6|7|8|9|10|-|-|-|-|-|-|加曽利りあら||
+|&aname(AC39-6110);AC39-6110|御魂・リーリエ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|5|8|12|19|30|はごろも||
+|&aname(AC39-7010);AC39-7010|レイミ|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーの護り>Iris/Explanation#tb_guardOfPartner]]|3|6|10|15|25|ノブヨシ侍||
+|&aname(AC39-7020);AC39-7020|クリエ|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|2|5|8|14|22|むきゅう☆||
+|&aname(AC39-7030);AC39-7030|フェネアン＆シュレム|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[仲間との絆>Iris/Explanation#tb_tiesOfFriend]]|2|5|8|14|22|河田映介||
+
+***10th Anniversary記念イリスカード [#Anniversary10th]
+-2015/11/26 実装 18種　テーマ：タイニー・かんぱにー～人材発掘編～
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC46-4010);AC46-4010|タイ兄さん|&COLOR(#FF0099){''SR''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[マリオネットの守護>Iris/Explanation#tb_MarionetteSyugo]]|2|4|6|18|26|雀葵蘭||
+|&aname(AC46-4020);AC46-4020|古びたガイドマシーン|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[マリオネットの守護>Iris/Explanation#tb_MarionetteSyugo]]|2|4|6|18|26|椎名悠人||
+|&aname(AC46-5010);AC46-5010|アルマ全員集合！３|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[パートナーの護り>Iris/Explanation#tb_guardOfPartner]]|12|20|27|37|52|椎名悠人||
+|&aname(AC46-5020);AC46-5020|アルマ全員集合！４|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーとの絆>Iris/Explanation#tb_tiesOfPartner]]|19|31|41|57|80|椎名悠人||
+|&aname(AC46-5030);AC46-5030|エコ坊・アルマ|&COLOR(#ffa500){''R''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[オシャレの秘訣>Iris/Explanation#tb_OsyarenoHiketu]]|20|50|100|250|500|雀葵蘭||
+|&aname(AC46-6010);AC46-6010|ブリキングRX1・アルマ|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|5|9|14|20|30|椎名悠人||
+|&aname(AC46-6020);AC46-6020|クイーンビー・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーとの経験>Iris/Explanation#tb_expOfPartner]]|6|11|16|24|36|むきゅう☆||
+|&aname(AC46-6030);AC46-6030|アルカナハート・アルマ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[精霊の加護>Iris/Explanation#tb_SeireinoKago]]|6|11|16|24|36|ノブヨシ侍||
+|&aname(AC46-6040);AC46-6040|ウィスプ・アルマ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[パートナーの底力>Iris/Explanation#tb_partnerLatentPower]]|6|11|16|24|36|ぐーじん||
+|&aname(AC46-7010);AC46-7010|スケルトンシューター・アルマ|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[精霊の加護>Iris/Explanation#tb_SeireinoKago]]|2|6|10|16|26|藍圭あけ||
+|&aname(AC46-7020);AC46-7020|スペクター＆アベンジャー|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[スリーププロテクト>Iris/Explanation#tb_sleepprotect]]|1|3|5|8|13|じん　りくり||
+|~|~|~|~|~|~|~|~|~|~|[[フェイタルインフェクト>Iris/Explanation#tb_fatalinfect]]|1|3|5|8|13|~||
+|&aname(AC46-7030);AC46-7030|ニドエッグ＆ギーゴ|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[スタンプロテクト>Iris/Explanation#tb_stunprotect]]|1|3|5|8|13|佐倉おりこ||
+|~|~|~|~|~|~|~|~|~|~|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|1|1|3|6|10|~||
+|&aname(AC46-7040);AC46-7040|ホウオウ＆キラーマシーン|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[スロウプロテクト>Iris/Explanation#tb_slowprotect]]|1|3|6|10|16|ちょこばにら||
+|~|~|~|~|~|~|~|~|~|~|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|1|3|5|9|15|~||
+|&aname(AC46-7050);AC46-7050|モーラン＆アルケー|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[ストーンプロテクト>Iris/Explanation#tb_stoneprotect]]|1|3|5|8|13|桐ケ谷 ユウジ||
+|~|~|~|~|~|~|~|~|~|~|[[コンフュージョンプロテクト>Iris/Explanation#tb_confusionprotect]]|1|2|4|7|12|~||
+|&aname(AC46-7060);AC46-7060|ベイヤール＆スタートラー|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーとの経験>Iris/Explanation#tb_expOfPartner]]|2|6|10|16|26|ちょこばにら||
+|&aname(AC46-7070);AC46-7070|サンドラット＆マタンガ|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[ポイズンプロテクト>Iris/Explanation#tb_poisonprotect]]|1|2|4|7|12|軍島曹一郎||
+|~|~|~|~|~|~|~|~|~|~|[[イベイジョンステップ>Iris/Explanation#tb_evasionstep]]|1|2|4|7|12|~||
+|&aname(AC46-7080);AC46-7080|クリスタル＆アーチン|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[サイレンスプロテクト>Iris/Explanation#tb_silenceprotect]]|1|2|4|7|11|おえかきえんぴつ||
+|~|~|~|~|~|~|~|~|~|~|[[アイスプロテクト>Iris/Explanation#tb_iceprotect]]|1|2|4|6|11|~||
+|&aname(AC46-7090);AC46-7090|モクジュ・アルマ|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[精霊の加護>Iris/Explanation#tb_SeireinoKago]]|2|6|10|16|26|河田映介||
+
+***11th Anniversary記念イリスカード [#Anniversary11th]
+-2016/11/24 実装 18種　テーマ：タイニー・かんぱにー～憑依研究編～
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカード系と交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC52-4010);AC52-4010|オリヴィア|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[オシャレの秘訣>Iris/Explanation#tb_OsyarenoHiketu]]|50|100|250|500|750|椎名悠人||
+|&aname(AC52-4020);AC52-4020|クロノス|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[マルチプロテクション>Iris/Explanation#tb_multiProtection]]|1|2|4|7|14|雀葵蘭||
+|&aname(AC52-5010);AC52-5010|憑依研究室のアルマたち１|&COLOR(#ffa500){''R''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|30|65|100|135|170|ノブヨシ侍||
+|&aname(AC52-5020);AC52-5020|憑依研究室のアルマたち２|&COLOR(#ffa500){''R''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ターゲッティング>Iris/Explanation#tb_targeting]]|11|19|25|35|50|ちょこばにら||
+|&aname(AC52-5030);AC52-5030|憑依研究室のアルマたち３|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[仲間との絆>Iris/Explanation#tb_tiesOfFriend]]|10|16|22|31|45|荒井Ｒ||
+|&aname(AC52-5040);AC52-5040|憑依研究室のアルマたち４|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|18|30|42|58|81|雀葵蘭||
+|&aname(AC52-6010);AC52-6010|アスモデウス|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[憑依の基礎>Iris/Explanation#tb_transBasic]]|6|10|14|22|33|椎名悠人||
+|&aname(AC52-6020);AC52-6020|ワルキューレ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーとの絆>Iris/Explanation#tb_tiesOfPartner]]|10|16|25|35|50|あぷぷ||
+|&aname(AC52-6030);AC52-6030|ヤタガラス|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[おしゃれの極意>Iris/Explanation#tb_stylish]]|6|10|16|22|33|形状||
+|&aname(AC52-6040);AC52-6040|リヴァイアサン|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[ナローエスケープ>Iris/Explanation#tb_narrowescape]]|27|54|81|108|135|ekm||
+|&aname(AC52-6050);AC52-6050|イシス|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[慈愛の加護>Iris/Explanation#tb_jiai]]|7|13|19|26|40|ちょこばにら||
+|&aname(AC52-7010);AC52-7010|イザナミ|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[フェイタルインフェクト>Iris/Explanation#tb_fatalinfect]]|3|6|9|15|26|ノブヨシ侍||
+|&aname(AC52-7020);AC52-7020|ケルベロス|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[トップブリーダーの基礎>Iris/Explanation#tb_topBreederBase]]|2|6|9|14|24|佐倉おりこ||
+|&aname(AC52-7030);AC52-7030|バフォメット|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|1|2|4|8|16|荒井Ｒ||
+|&aname(AC52-7040);AC52-7040|カグヤ|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[ターゲッティング>Iris/Explanation#tb_targeting]]|1|2|5|10|18|湖湘七巳||
+|&aname(AC52-7050);AC52-7050|リリム|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[精霊の加護>Iris/Explanation#tb_SeireinoKago]]|2|4|8|15|23|藍圭あけ||
+|&aname(AC52-7060);AC52-7060|麒麟|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[パートナーとの経験>Iris/Explanation#tb_expOfPartner]]|2|4|8|15|23|ハコマチシュシュ||
+|&aname(AC52-7070);AC52-7070|バハムート|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーの底力>Iris/Explanation#tb_partnerLatentPower]]|2|4|8|15|23|河田映介||
+
+
+
+**ドロップイリスカードリスト [#Drop]
+-一部MAPの木箱から一定確率で手に入れることが可能なイリスカード。
+-木箱を開封すると出るのではなく、MAP上の木箱を壊した時点で直接出る。
+
+***第1弾 [#Drop01]
+-2012/05/31 実装 18種
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（木箱から入手）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC22-3010);AC22-3010|ドリアード|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[植物種族キラー>Iris/Explanation#tb_PlantKiller]]|8|14|58|94|165|尚親||
+|&aname(AC22-3020);AC22-3020|ピヨエッグ|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[鳥種族キラー>Iris/Explanation#tb_BirdKiller]]|8|14|58|94|165|れんた||
+|&aname(AC22-3030);AC22-3030|スキンク|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[動物種族キラー>Iris/Explanation#tb_AnimalKiller]]|8|14|58|94|165|天狛燈火||
+|&aname(AC22-3040);AC22-3040|無限回廊|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[昆虫種族キラー>Iris/Explanation#tb_InsectKiller]]|8|14|58|94|165|和錆||
+|&aname(AC22-3050);AC22-3050|子づれバルーンジェル|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[水中生物種族キラー>Iris/Explanation#tb_WaterAnimalKiller]]|8|14|58|94|165|桃井涼太||
+|&aname(AC22-3060);AC22-3060|サラマンダー|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[魔法生物種族キラー>Iris/Explanation#tb_MagicCreatureKiller]]|8|14|58|94|165|三上空太||
+|&aname(AC22-3070);AC22-3070|ロウブナイト|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[死霊種族キラー>Iris/Explanation#tb_UndeadKiller]]|8|14|58|94|165|鍋谷咲花||
+|&aname(AC22-3080);AC22-3080|機関車からの逃走|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[機械種族キラー>Iris/Explanation#tb_MachineKiller]]|8|14|58|94|165|鳥越タクミ||
+|&aname(AC22-3090);AC22-3090|ドミニオン・ペナンス|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[人間種族キラー>Iris/Explanation#tb_HumanKiller]]|8|14|58|94|165|緒方剛志||
+|&aname(AC22-3100);AC22-3100|カバリスト|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[精霊種族キラー>Iris/Explanation#tb_ElementKiller]]|8|14|58|94|165|美樹本晴彦||
+|&aname(AC22-3110);AC22-3110|飛空城ファーム|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[岩種族キラー>Iris/Explanation#tb_RockKiller]]|8|14|58|94|165|3211||
+|&aname(AC22-3120);AC22-3120|天戒と一吾|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|2|3|4|5|6|-|-|-|-|-|-|日暮里||
+|&aname(AC22-3130);AC22-3130|染色娘|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|2|3|4|5|6|-|-|-|-|-|-|葉月トオヤ||
+|&aname(AC22-3140);AC22-3140|ジョーカーお兄さん|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFFF99):風|2|3|4|5|6|-|-|-|-|-|-|亜珠チアキ||
+|&aname(AC22-3150);AC22-3150|アルマジロン|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99FFCC):土|2|3|4|5|6|-|-|-|-|-|-|豚ポタージュ||
+|&aname(AC22-3160);AC22-3160|スケルトン|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CC99FF):闇|1|2|3|4|5|-|-|-|-|-|-|kgr||
+|&aname(AC22-3170);AC22-3170|天駆ける虹色のモーモー|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|1|2|3|4|5|-|-|-|-|-|-|あぷぷ||
+|&aname(AC22-3180);AC22-3180|エミル君との出会い|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[HP最大上昇>Iris/Explanation#tb_HpMaxUp]]|8|14|22|35|54|オームロ||
+
+***第2弾 [#Drop02]
+-2013/05/23 実装 18種
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（木箱から入手）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC29-3010);AC29-3010|旧アクロポリス|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[機械種族ボーナス>Iris/Explanation#tb_MachineBonus]]|8|14|22|35|54|鍵条漆||
+|&aname(AC29-3020);AC29-3020|エル・シエル|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[植物種族ボーナス>Iris/Explanation#tb_PlantBonus]]|8|14|22|35|54|推奨幻想||
+|&aname(AC29-3030);AC29-3030|ダウンタウン|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[交渉の心得>Iris/Explanation#tb_Negotiation]]|8|14|22|35|54|Mk-5||
+|&aname(AC29-3040);AC29-3040|ファーイーストシティ|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[促成栽培>Iris/Explanation#tb_forcingculture]]|8|14|22|35|54|藍圭あけ||
+|&aname(AC29-3050);AC29-3050|モーグシティ|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[交渉の心得>Iris/Explanation#tb_Negotiation]]|3|7|14|23|38|仁江鹿||
+|~|~|~|~|~|~|~|~|~|~|[[パッケージの心得>Iris/Explanation#tb_packag]]|1|3|4|8|1|~|~|
+|&aname(AC29-3060);AC29-3060|アイアンシティ|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[岩種族ボーナス>Iris/Explanation#tb_RockBonus]]|8|14|22|35|54|八幡||
+|&aname(AC29-3070);AC29-3070|ノーザンプロムナード|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[精霊種族ボーナス>Iris/Explanation#tb_ElementBonus]]|8|14|22|35|54|八幡||
+|&aname(AC29-3080);AC29-3080|トンカシティ|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[飛空城の達人>Iris/Explanation#tb_FlyCastle]]|8|14|22|35|54|ほしいも||
+|&aname(AC29-3090);AC29-3090|マイマイ島|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[釣り大物確率上昇>Iris/Explanation#tb_FishingBig]]|8|14|22|35|54|エシュアル＠Essu||
+|&aname(AC29-3100);AC29-3100|ウォーターレイアー|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[釣りレア確率上昇>Iris/Explanation#tb_FishingRare]]|4|8|14|23|38|富士 昴||
+|~|~|~|~|~|~|~|~|~|~|[[釣り大物確率上昇>Iris/Explanation#tb_FishingBig]]|3|5|7|11|15|~|~|
+|&aname(AC29-3110);AC29-3110|大陸の洞窟|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[水中生物種族ボーナス>Iris/Explanation#tb_WaterAnimalBonus]]|8|14|22|35|54|岩澄龍彦||
+|&aname(AC29-3120);AC29-3120|廃炭鉱|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[動物種族ボーナス>Iris/Explanation#tb_AnimalBonus]]|8|14|22|35|54|玉石||
+|&aname(AC29-3130);AC29-3130|氷結の坑道|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[死霊種族ボーナス>Iris/Explanation#tb_UndeadBonus]]|8|14|22|35|54|えんぴつ||
+|&aname(AC29-3140);AC29-3140|サウスダンジョン|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[人間種族ボーナス>Iris/Explanation#tb_HumanBonus]]|8|14|22|35|54|佐藤 純||
+|&aname(AC29-3150);AC29-3150|ノーザンダンジョン|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[魔法生物種族ボーナス>Iris/Explanation#tb_MagicCreatureBonus]]|8|14|22|35|54|ナカジマテツヤ||
+|&aname(AC29-3160);AC29-3160|イーストダンジョン|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[鳥種族ボーナス>Iris/Explanation#tb_BirdBonus]]|8|14|22|35|54|ねこくらげ||
+|&aname(AC29-3170);AC29-3170|地下浄水施設|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[昆虫種族ボーナス>Iris/Explanation#tb_InsectBonus]]|8|14|22|35|54|ぶなしめじきのこ||
+|&aname(AC29-3180);AC29-3180|海底洞窟|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[釣りレア確率上昇>Iris/Explanation#tb_FishingRare]]|8|14|22|35|54|湯川||
+
+***第3弾 [#Drop03]
+-2014/8/21 実装 18種　テーマ：チュートリアル
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（木箱から入手）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC37-3010);AC37-3010|１時間目|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[フェイタルインフェクト>Iris/Explanation#tb_fatalinfect]]|3|7|11|17|26|eco*||
+|&aname(AC37-3020);AC37-3020|２時間目|''C''|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|3|6|10|16|26|湖湘七巳||
+|&aname(AC37-3030);AC37-3030|３時間目|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーの底力>Iris/Explanation#tb_partnerLatentPower]]|2|6|10|16|26|藤丸あお||
+|&aname(AC37-3040);AC37-3040|４時間目|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[憑依の基礎>Iris/Explanation#tb_transBasic]]|2|5|9|16|26|ちょこばにら||
+|&aname(AC37-3050);AC37-3050|５時間目|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[飛空城の達人>Iris/Explanation#tb_FlyCastle]]|8|14|22|35|54|林檎ゆゆ||
+|&aname(AC37-3060);AC37-3060|６時間目|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|2|5|9|14|22|胡せんり||
+|&aname(AC37-3070);AC37-3070|７時間目|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[おしゃれの極意>Iris/Explanation#tb_stylish]]|3|6|10|16|25|ねこくらげ||
+|&aname(AC37-3080);AC37-3080|８時間目|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[トップブリーダーの基礎>Iris/Explanation#tb_topBreederBase]]|3|6|9|16|26|ロクイチ||
+|&aname(AC37-3090);AC37-3090|９時間目|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[おしゃれの極意>Iris/Explanation#tb_stylish]]|3|6|10|16|25|桐ケ谷ユウジ||
+|&aname(AC37-3100);AC37-3100|１０時間目|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[魔力強化成功率上昇>Iris/Explanation#tb_magicEnhance]]|2|6|10|16|25|天風そら||
+|&aname(AC37-3110);AC37-3110|１１時間目|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[力強化成功率上昇>Iris/Explanation#tb_powerEnhance]]|2|6|10|16|25|菓子之助||
+|&aname(AC37-3120);AC37-3120|１２時間目|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーとの絆>Iris/Explanation#tb_tiesOfPartner]]|5|10|16|26|35|とーご||
+|&aname(AC37-3130);AC37-3130|タイニーゼロ・アルマ＋|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[パートナーの底力>Iris/Explanation#tb_partnerLatentPower]]|1|3|5|8|14|ウメボシトラ||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーとの絆>Iris/Explanation#tb_tiesOfPartner]]|1|3|6|11|16|~|~|
+|&aname(AC37-3140);AC37-3140|不思議な双子|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[クリティカル強化成功率上昇>Iris/Explanation#tb_criticalEnhance]]|2|6|10|16|25|あぷぷ||
+|&aname(AC37-3150);AC37-3150|収集好きの大商人|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[交渉の心得>Iris/Explanation#tb_Negotiation]]|1|3|4|8|10|雪火||
+|~|~|~|~|~|~|~|~|~|~|[[パッケージの心得>Iris/Explanation#tb_packag]]|3|7|13|21|36|~|~|
+|&aname(AC37-3160);AC37-3160|デイ＆リー|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|1|3|5|9|14|霧賀ユキ||
+|~|~|~|~|~|~|~|~|~|~|[[ナローエスケープ>Iris/Explanation#tb_narrowescape]]|1|2|5|8|14|~|~|
+|&aname(AC37-3170);AC37-3170|ウィーク|''C''|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[釣りレア確率上昇>Iris/Explanation#tb_FishingRare]]|3|5|7|11|15|天狛燈火||
+|~|~|~|~|~|~|~|~|~|~|[[釣り大物確率上昇>Iris/Explanation#tb_FishingBig]]|4|8|14|23|38|~|~|
+|&aname(AC37-3180);AC37-3180|ＥＣＯ券収集家エコナ|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[命強化成功率上昇>Iris/Explanation#tb_lifeEnhanceUp]]|2|6|10|16|25|じんりくり||
+
+***みんつく2015 [#DropMintsuku2015]
+-2015/08/20 実装 18種　テーマ：みんなでつくろう2015　ドロップイリスカードイラストコンテスト
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（木箱から入手）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC44-0010);AC44-0010|アイリス・ロア|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|30|47|65|82|100|中崎ヒドラ||
+|~|~|~|~|~|~|~|~|~|~|[[トランスセンス>Iris/Explanation#tb_Transsense]]|5|10|15|20|25|~|~|
+|&aname(AC44-0020);AC44-0020|タイニー・かんぱにー全国合宿|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|25|65|110|155|200|もり||
+|&aname(AC44-1010);AC44-1010|あいらぶくまー！！|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|36|52|68|85|らきすけ||
+|~|~|~|~|~|~|~|~|~|~|[[ダメージコントロール>Iris/Explanation#tb_damageControl]]|3|8|14|19|25|~|~|
+|&aname(AC44-1020);AC44-1020|携帯ゴミ箱|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|36|52|68|85|寺井スゥ||
+|~|~|~|~|~|~|~|~|~|~|[[初心の心得>Iris/Explanation#tb_Syosin]]|3|10|15|25|40|~|~|
+|&aname(AC44-1030);AC44-1030|アクロポリスのガーディアン|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|36|52|68|85|詠羅||
+|~|~|~|~|~|~|~|~|~|~|[[白銀の護手>Iris/Explanation#tb_hakugin]]|1|7|13|19|25|~|~|
+|&aname(AC44-2010);AC44-2010|ノブレス・オブリージュ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|15|30|45|60|75|狐野ゆずま||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーとの絆>Iris/Explanation#tb_tiesOfPartner]]|9|14|20|31|46|~|~|
+|&aname(AC44-2020);AC44-2020|風邪ひきますよ|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|15|30|45|60|75|なっちょ||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの護り>Iris/Explanation#tb_guardOfPartner]]|5|9|13|20|30|~|~|
+|&aname(AC44-2030);AC44-2030|アリアとナナイ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|15|30|45|60|75|くろいうさぎ||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|4|7|11|17|26|~|~|
+|&aname(AC44-2040);AC44-2040|大好きな笑顔|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|15|30|45|60|75|ちぃか。||
+|~|~|~|~|~|~|~|~|~|~|[[仲間との絆>Iris/Explanation#tb_tiesOfFriend]]|4|7|11|17|26|~|~|
+|&aname(AC44-3010);AC44-3010|柳の木の下で|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|秋乃さくら||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの底力>Iris/Explanation#tb_partnerLatentPower]]|1|3|6|12|20|~|~|
+|&aname(AC44-3020);AC44-3020|木漏れ日のティータイム|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|ぱす||
+|~|~|~|~|~|~|~|~|~|~|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|2|4|7|12|20|~|~|
+|&aname(AC44-3030);AC44-3030|うさ巫女|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|アリス||
+|~|~|~|~|~|~|~|~|~|~|[[おしゃれの極意>Iris/Explanation#tb_stylish]]|2|4|7|12|20|~|~|
+|&aname(AC44-3040);AC44-3040|黒き翼|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|TAKU||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|1|3|6|10|17|~|~|
+|&aname(AC44-3050);AC44-3050|砂漠の悪魔サンドワーム|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|ShinAqua||
+|~|~|~|~|~|~|~|~|~|~|[[ナローエスケープ>Iris/Explanation#tb_narrowescape]]|2|4|6|11|18|~|~|
+|&aname(AC44-3060);AC44-3060|はいポーズ（ゝω・）v☆|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|くらげ||
+|~|~|~|~|~|~|~|~|~|~|[[トップブリーダーの基礎>Iris/Explanation#tb_topBreederBase]]|2|4|7|12|20|~|~|
+|&aname(AC44-3070);AC44-3070|その想い覚えている|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|くろいうさぎ||
+|~|~|~|~|~|~|~|~|~|~|[[仲間との絆>Iris/Explanation#tb_tiesOfFriend]]|1|3|6|10|17|~|~|
+|&aname(AC44-3080);AC44-3080|月夜のワーウルフ・ロア|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|あちゅぴか||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの護り>Iris/Explanation#tb_guardOfPartner]]|2|4|7|12|20|~|~|
+|&aname(AC44-3090);AC44-3090|たいにーぜろ・あるま|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|灰羅||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの底力>Iris/Explanation#tb_partnerLatentPower]]|1|3|6|12|20|~|~|
+
+***みんつく2016 [#DropMintsuku2016]
+-2016/09/29 実装 18種　テーマ：みんなでつくろう2016　ドロップイリスカードイラストコンテスト
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（木箱から入手）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC50-4010);AC50-4010|メリーゴーラン|&COLOR(#FF0099){''SR''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|30|47|65|82|100|七色風船||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの極意>Iris/Explanation#tb_SecretOfPartner]]|2|4|6|18|26|~|~|
+|&aname(AC50-4020);AC50-4020|(「・ω・)「ばるるーん|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|30|47|65|82|100|sososo||
+|~|~|~|~|~|~|~|~|~|~|[[フロントライン>Iris/Explanation#tb_Front]]|4|9|13|18|24|~|~|
+|&aname(AC50-5010);AC50-5010|北国うさぎと南国うさぎ|&COLOR(#ffa500){''R''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|36|52|68|85|ちぃか。||
+|~|~|~|~|~|~|~|~|~|~|[[ダメージコントロール>Iris/Explanation#tb_damageControl]]|3|8|14|19|25|~|~|
+|&aname(AC50-5020);AC50-5020|いつまでも、ずっと一緒…|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|36|52|68|85|狐野ゆずま||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの信頼>Iris/Explanation#tb_trustOfPartner]]|9|15|21|30|42|~|~|
+|&aname(AC50-5030);AC50-5030|背中のホークアイ|&COLOR(#ffa500){''R''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|20|36|52|68|85|詠羅||
+|~|~|~|~|~|~|~|~|~|~|[[ロックオン>Iris/Explanation#tb_LockOn]]|11|18|26|34|50|~|~|
+|&aname(AC50-6010);AC50-6010|イリス・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|5|10|15|22|32|海原かなめ||
+|~|~|~|~|~|~|~|~|~|~|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|10|15|22|32|~|~|
+|&aname(AC50-6020);AC50-6020|ル・フェイお姉さん|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|5|10|15|22|32|ぱす||
+|~|~|~|~|~|~|~|~|~|~|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|10|15|22|32|~|~|
+|&aname(AC50-6030);AC50-6030|とっておきケーキ|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|15|30|45|60|75|オサキ||
+|~|~|~|~|~|~|~|~|~|~|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|5|8|12|18|27|~|~|
+|&aname(AC50-6040);AC50-6040|シャボタンとの約束|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|15|30|45|60|75|にばん||
+|~|~|~|~|~|~|~|~|~|~|[[慈愛の加護>Iris/Explanation#tb_jiai]]|7|10|15|25|40|~|~|
+|&aname(AC50-7010);AC50-7010|冒険日和やねぇ|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|1|2|4|8|14|秋乃さくら||
+|~|~|~|~|~|~|~|~|~|~|[[体力強化>Iris/Explanation#tb_tairyoku]]|1|2|4|8|14|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|1|2|4|8|14|~|~|
+|&aname(AC50-7020);AC50-7020|カナデのメモリーハート|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|晶彩||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーとの経験>Iris/Explanation#tb_expOfPartner]]|1|3|6|12|20|~|~|
+|&aname(AC50-7030);AC50-7030|アルカードif|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|くろいうさぎ||
+|~|~|~|~|~|~|~|~|~|~|[[ストーリーテリング>Iris/Explanation#tb_storyTelling]]|1|3|6|12|20|~|~|
+|&aname(AC50-7040);AC50-7040|さて…何してあげようかしら？|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|りま||
+|~|~|~|~|~|~|~|~|~|~|[[憑依の基礎>Iris/Explanation#tb_transBasic]]|1|3|6|12|20|~|~|
+|&aname(AC50-7050);AC50-7050|E☆仔猫日和|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|みなとすん||
+|~|~|~|~|~|~|~|~|~|~|[[パートナーの底力>Iris/Explanation#tb_partnerLatentPower]]|1|3|6|12|20|~|~|
+|&aname(AC50-7060);AC50-7060|コロ・・・(カニクリーム)|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|角||
+|~|~|~|~|~|~|~|~|~|~|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|2|4|7|12|20|~|~|
+|&aname(AC50-7070);AC50-7070|イクスドミニオンEx3枚羽|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|くりむぞん||
+|~|~|~|~|~|~|~|~|~|~|[[おしゃれの極意>Iris/Explanation#tb_stylish]]|2|4|7|12|20|~|~|
+|&aname(AC50-7080);AC50-7080|切なる未来|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|レイ奈||
+|~|~|~|~|~|~|~|~|~|~|[[切なる願い>Iris/Explanation#tb_dearestWish]]|1|3|6|12|20|~|~|
+|&aname(AC50-7090);AC50-7090|ＥＣＯドリーム|''C''|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[みんつく>Iris/Explanation#tb_mintsuku]]|10|25|40|55|70|もやし8216袋||
+|~|~|~|~|~|~|~|~|~|~|[[交渉の心得>Iris/Explanation#tb_Negotiation]]|6|12|18|27|42|~|~|
+
+**イベントイリスカードリスト [#Event]
+-イベントで手に入れることが可能なイリスカード。
+
+***イリスと記憶の書架 [#Event2013]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（イベントで入手）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC27-1010);AC27-1010|アルカードと清姫|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|6|12|16|22|30|HEADLOCK|[[二の物語 燐火の蛇姫>Quest/Season/BookshelvesAndMemoryIris02]]|
+|~|~|~|~|~|~|~|~|~|~|[[トップブリーダーの基礎>Iris/Explanation#tb_topBreederBase]]|4|6|9|13|20|~|~|
+|&aname(AC27-1020);AC27-1020|ル･フェイとバステト|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|10|14|20|28|HEADLOCK|[[四の物語 仔猫の神様>Quest/Season/BookshelvesAndMemoryIris04]]|
+|~|~|~|~|~|~|~|~|~|~|[[慈愛の加護>Iris/Explanation#tb_jiai]]|6|9|13|18|27|~|~|
+|&aname(AC27-1030);AC27-1030|キャプテンキッドと玉藻|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|9|12|17|25|HEADLOCK|[[六の物語 傾国の妖女>Quest/Season/BookshelvesAndMemoryIris06]]|
+|~|~|~|~|~|~|~|~|~|~|[[ピュアテイスト>Iris/Explanation#tb_pureTaste]]|5|9|12|17|25|~|~|
+|&aname(AC27-1040);AC27-1040|ローレライとパラケルスス|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|9|13|15|20|HEADLOCK|[[八の物語 賢者の黄金>Quest/Season/BookshelvesAndMemoryIris08]]|
+|~|~|~|~|~|~|~|~|~|~|[[インテリジェンスサポート>Iris/Explanation#tb_Intelligence]]|3|5|9|15|25|~|~|
+|&aname(AC27-1050);AC27-1050|ワーウルフとメフィスト|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|12|19|26|37|50|HEADLOCK|[[十の物語 契約の悪魔>Quest/Season/BookshelvesAndMemoryIris10]]|
+|&aname(AC27-1060);AC27-1060|ルチフェロとステラ|&COLOR(#ffa500){''R''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(BLACK):COLOR(WHITE):光/闇|1|1|1|1|1|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|8|15|21|30|44|HEADLOCK|[[十二の物語 想送の流れ星>Quest/Season/BookshelvesAndMemoryIris12]]|
+|&aname(AC27-2010);AC27-2010|アルカード・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|6|11|16|24|36|HEADLOCK|[[一の物語 盟約の吸血鬼>Quest/Season/BookshelvesAndMemoryIris01]]|
+|&aname(AC27-2020);AC27-2020|清姫・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#FFCCCC):火|1|1|2|2|3|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|9|12|19|26|HEADLOCK|[[二の物語 燐火の蛇姫>Quest/Season/BookshelvesAndMemoryIris02]]|
+|&aname(AC27-2030);AC27-2030|ル・フェイ・ロア|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|9|14|22|34|HEADLOCK|[[三の物語 輪廻の魔女>Quest/Season/BookshelvesAndMemoryIris03]]|
+|~|~|~|~|~|~|~|~|~|~|[[マジックプラス>Iris/Explanation#tb_masicPlus]]|1|1|1|1|1|~|~|
+|&aname(AC27-2040);AC27-2040|バステト・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|3|8|13|21|33|HEADLOCK|[[四の物語 仔猫の神様>Quest/Season/BookshelvesAndMemoryIris04]]|
+|~|~|~|~|~|~|~|~|~|~|[[斬鉄の心得>Iris/Explanation#tb_zantetu]]|1|1|1|1|1|~|~|
+|&aname(AC27-2050);AC27-2050|キャプテンキッド・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#99CCFF):水|1|1|2|2|3|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|9|12|19|26|HEADLOCK|[[五の物語 海賊の宝物>Quest/Season/BookshelvesAndMemoryIris05]]|
+|&aname(AC27-2060);AC27-2060|玉藻・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|6|10|15|23|35|HEADLOCK|[[六の物語 傾国の妖女>Quest/Season/BookshelvesAndMemoryIris06]]|
+|&aname(AC27-2070);AC27-2070|ローレライ・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|4|7|10|15|23|HEADLOCK|[[七の物語 恋慕の人魚姫>Quest/Season/BookshelvesAndMemoryIris07]]|
+|~|~|~|~|~|~|~|~|~|~|[[水中生物種族ボーナス>Iris/Explanation#tb_WaterAnimalBonus]]|4|7|11|16|24|~|~|
+|&aname(AC27-2080);AC27-2080|パラケルスス・ロア|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|1|1|1|1|1|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|4|8|12|18|28|HEADLOCK|[[八の物語 賢者の黄金>Quest/Season/BookshelvesAndMemoryIris08]]|
+|&aname(AC27-2090);AC27-2090|ワーウルフ・ロア|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|4|8|12|18|28|HEADLOCK|[[九の物語 月夜の狼>Quest/Season/BookshelvesAndMemoryIris09]]|
+|~|~|~|~|~|~|~|~|~|~|[[ウェポンプラス>Iris/Explanation#tb_weaponPlus]]|4|7|11|17|22|~|~|
+|&aname(AC27-2100);AC27-2100|メフィストフェレス・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|7|12|18|28|HEADLOCK|[[十の物語 契約の悪魔>Quest/Season/BookshelvesAndMemoryIris10]]|
+|~|~|~|~|~|~|~|~|~|~|[[基礎知力強化>Iris/Explanation#tb_mpup]]|1|5|7|10|15|~|~|
+|&aname(AC27-2110);AC27-2110|ルチフェロ・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CC99FF):闇|1|1|1|1|1|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|9|13|20|30|HEADLOCK|[[十一の物語 終幕の魔王>Quest/Season/BookshelvesAndMemoryIris11]]|
+|&aname(AC27-2120);AC27-2120|ステラ・ロア|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|1|1|1|1|1|[[記憶の書架>Iris/Explanation#tb_bookshelves]]|5|9|13|21|32|HEADLOCK|[[十二の物語 想送の流れ星>Quest/Season/BookshelvesAndMemoryIris12]]|
+
+**ネットカフェ専用イリスカードリスト [#Netcafe]
+-ブランクイリスカードNCを「天空のオープンカフェ」にいる「夢見のハレルヤ」で交換することによって手に入れることが可能なイリスカード。
+-ブランクイリスカードNCはNCポイント(ネットカフェポイント)で交換の他、ネットカフェダンジョンで手に入る宝箱から一定の確率で手に入れることできる。
+
+***ネットカフェ専用イリスカード [#Netcafe2015]
+-2015/6/25 実装 18種　テーマ：ネットカフェ＆職業
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~イリスカード（ブランクイリスカードNCと交換）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:75|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|LEFT:|CENTER:|c
+|&aname(AC42-0010);AC42-0010|オープンカフェの店長と副店長|&COLOR(#FF0099){''SR''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[フロントライン>Iris/Explanation#tb_Front]]|12|25|39|55|80|肋兵器||
+|&aname(AC42-0020);AC42-0020|カフェマスターとシエル|&COLOR(#FF0099){''SR''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[トランスセンス>Iris/Explanation#tb_Transsense]]|12|25|39|55|80|桃井涼太||
+|&aname(AC42-1010);AC42-1010|りんご農家と漁師|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[促成栽培>Iris/Explanation#tb_forcingculture]]|11|16|25|32|35|天狛燈火||
+|~|~|~|~|~|~|~|~|~|~|[[釣りレア確率上昇>Iris/Explanation#tb_FishingRare]]|6|11|16|26|35|~||
+|~|~|~|~|~|~|~|~|~|~|[[釣り大物確率上昇>Iris/Explanation#tb_FishingBig]]|5|8|11|15|20|~||
+|&aname(AC42-1020);AC42-1020|やとわれマエストロ|&COLOR(#ffa500){''R''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[マーキュリーの喝采>Iris/Explanation#tb_Mercury]]|19|28|36|48|62|文尾文||
+|&aname(AC42-2010);AC42-2010|光の塔とバウンティーハンター|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[スティグマータ>Iris/Explanation#tb_stigmata]]|7|15|25|38|45|いさかわめぐみ||
+|&aname(AC42-2020);AC42-2020|イーストダンジョンとバード|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[深愛の絆>Iris/Explanation#tb_shinai]]|9|19|28|36|45|胡せんり||
+|&aname(AC42-2030);AC42-2030|ノーザンダンジョンとガンナー|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[体力強化>Iris/Explanation#tb_tairyoku]]|5|10|16|28|35|はしま||
+|&aname(AC42-2040);AC42-2040|氷結の坑道とネクロマンサー|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[知力強化>Iris/Explanation#tb_tiryoku]]|10|17|23|30|35|吉野モズ||
+|&aname(AC42-2050);AC42-2050|神託の風穴とマリオネスト|&COLOR(#0000ff){''UC''};|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[技術力強化>Iris/Explanation#tb_gijutu]]|10|16|22|29|35|荒海泰人||
+|&aname(AC42-2060);AC42-2060|廃炭鉱とマシンナリー|&COLOR(#0000ff){''UC''};|[[武器>IrisCard/SetPosition#weapon]]|-|-|-|-|-|-|[[スタミナリダクション>Iris/Explanation#tb_staminareduction]]|3|6|11|19|25|えんぴつ||
+|&aname(AC42-2070);AC42-2070|サウスＤとダークストーカー|&COLOR(#0000ff){''UC''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[マジックリダクション>Iris/Explanation#tb_magicreduction]]|3|5|12|20|25|柚希きさ||
+|&aname(AC42-3010);AC42-3010|カーマイン砂漠とコマンド|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[アサルトブレイズン>Iris/Explanation#tb_assault_b]]|3|7|11|18|27|鈴音ことら||
+|&aname(AC42-3020);AC42-3020|エンシェントアークとセージ|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[憑依の基礎>Iris/Explanation#tb_transBasic]]|2|5|9|16|25|湖湘七巳||
+|&aname(AC42-3030);AC42-3030|大陸の洞窟とエンチャンター|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[マジックブレイズン>Iris/Explanation#tb_Magic_b]]|3|5|10|16|26|ふるぬっこ||
+|&aname(AC42-3040);AC42-3040|海底洞窟とトレジャーハンター|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーの護り>Iris/Explanation#tb_guardOfPartner]]|3|5|9|14|23|とーご||
+|&aname(AC42-3050);AC42-3050|バオバブの森とギャンブラー|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[交渉の心得>Iris/Explanation#tb_Negotiation]]|3|6|12|20|31|中江智||
+|&aname(AC42-3060);AC42-3060|ジョイントジョブ・ブリーダー|''C''|[[服>IrisCard/SetPosition#dress]]|-|-|-|-|-|-|[[パートナーの援け>Iris/Explanation#tb_helpOfPartner]]|2|5|8|14|22|きだ||
+|&aname(AC42-3070);AC42-3070|ジョイントジョブ・ガーデナー|''C''|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[豊作>Iris/Explanation#tb_housaku]]|5|10|16|20|25|宣教師ゴンドルフ||
+
+**その他(プロモーションカード/スペシャルカード) [#Special]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#e0e8f0):~その他（特殊入手）|
+|~No.|~名称|~レア度|~セット位置|>|>|>|>|>|~属性値補正|>|>|>|>|>|~アビリティベクトル|~イラスト|~備考|
+|~|~|~|~|~種別|~値|~R1|~R2|~R3|~R4|~ベクトル名|~値|~R1|~R2|~R3|~R4|~|~|
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|LEFT:|CENTER:|c
+|&aname(AC00-0001);AC00-0001|君と僕のイリス|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|1|>|>|>|BGCOLOR(#CCCCCC):アセンブル不可|関川成人||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[イリスアップデート記念　全員プレゼントキャンペーン>http://www.econline.jp/event/5star/star_3rd.html]]　'09年7月中旬頃送付|~|
+|&aname(AC00-0002);AC00-0002|悠久の楽園|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[悠久の楽園>Iris/Explanation#tb_rakuen]]|200|BGCOLOR(#CCCCCC):|BGCOLOR(#CCCCCC):|BGCOLOR(#CCCCCC):|BGCOLOR(#CCCCCC):|関川成人||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|%%[[イリスカードコンプリートキャンペーン>http://www.econline.jp/news/event/online/item/702]]%%&br;[[イリスカードコレクションキャンペーン>http://www.econline.jp/news/event/online/item/730]]　'09年8月下旬頃送付|~|
+|&aname(AC00-0003);AC00-0003|お祭り！タイニー神輿|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[お祭り！タイニー神輿>Iris/Explanation#tb_mikoshi]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|椎名悠||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[みんつく第14弾公開投票特典>http://www.econline.jp/news/event/offline/item/878]]:先着2000名|~|
+|&aname(AC00-0004);AC00-0004|三人娘のお出迎え|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/%%胸%%|BGCOLOR(BLACK):COLOR(WHITE):ALL|1|-|-|-|-|CENTER:-|CENTER:-|CENTER:-|CENTER:-|CENTER:-|CENTER:-|関川成人|10/2/12&br;セット位置修正|
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[4th Anniversary記念キャンペーン「おかえりＥＣＯキャンペーン」>http://www.econline.jp/event/anniversary4th/campaign/001.html]]　'09年11月中旬頃送付|~|
+|&aname(AC00-0005);AC00-0005|偽りの神と機械の記憶|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[偽りの神と機械の記憶>Iris/Explanation#tb_SAGA10]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|関川成人||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[SAGA10実装記念 チャージでゲットキャンペーン>http://www.econline.jp/event/saga10/start_cp2.html]]　'10年1月下旬送付|~|
+|&aname(AC00-0006);AC00-0006|天空のオープンカフェ|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[天空のオープンカフェ>Iris/Explanation#tb_opencafe]]|200|>|>|>|BGCOLOR(#CCCCCC):アセンブル不可|椎名悠||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|宝箱15(期間限定)|~|
+|&aname(AC00-0007);AC00-0007|ＥＣＯカー「プリムラ」|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ＥＣＯカー「プリムラ」>Iris/Explanation#tb_ecocar]]|200|>|>|>|BGCOLOR(#CCCCCC):アセンブル不可|椎名悠||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ひきかえタイニー(期間限定)>http://www.econline.jp/news/event/online/item/1225]]|~|
+|&aname(AC00-0008);AC00-0008|あそびにいくヨ！|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[あそびにいくヨ！>Iris/Explanation#tb_asobiniikuyo]]|200|>|>|>|BGCOLOR(#CCCCCC):アセンブル不可|||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ECO×あそびにいくヨ！コラボレーションイベント>http://www.econline.jp/event/eco_asobini-ikuyo/]]|~|
+|&aname(AC00-0009);AC00-0009|超キティラー冒険者、見月陽夜子|&COLOR(#ff0000){''SP''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[超キティラー・陽夜子>Iris/Explanation#tb_KittySP]]|200|>|>|>|BGCOLOR(#CCCCCC):アセンブル不可|小梅けいと||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ECO×ハローキティといっしょ！ コラボレーションイベント>http://www.econline.jp/event/eco_kitty/]] コミックマーケット78限定3000枚|~|
+|&aname(AC00-0010);AC00-0010|メイド・ヒロインズ|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ヒロインズパーティ>Iris/Explanation#tb_heroineparty]]|200|>|>|>|BGCOLOR(#CCCCCC):アセンブル不可|かわすみ||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ECO×Emily コラボレーションイベント>http://www.econline.jp/event/eco_emily/]]|~|
+|&aname(AC00-0011);AC00-0011|みんなで転生しちゃおう！|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんなで転生しちゃおう！>Iris/Explanation#tb_trans_cp]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|関川成人||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[SAGA11実装記念「みんなでいっしょに転生しちゃおう!!」イベント>http://www.econline.jp/event/saga11_festival/trans_cp.html]] '10/10/21～12/22受取|~|
+|&aname(AC00-0012);AC00-0012|仲良しノービス＆プルルとポリン|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[仲良しノービス>Iris/Explanation#tb_nakayoshiNovice]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|雄一郎||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[「エミル・クロニクル・オンライン×ラグナロクオンライン」コラボレーション>http://www.gungho.jp/ecoro/wregist_cp.html]]|~|
+|&aname(AC00-0013);AC00-0013|ロッテのおもちゃ！とネコマタ|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ヒロインズパーティ>Iris/Explanation#tb_heroineparty]]|15|CENTER:-|CENTER:-|CENTER:-|CENTER:-|葉賀ユイ||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[電撃オンラインゲームシリーズVol.2 エミル・クロニクル・オンライン ビジュアルブック>http://www.econline.jp/news/information/20101108.html]]|~|
+|&aname(AC00-0014);AC00-0014|ロッテのおもちゃ！とタイニー|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ロッテのおもちゃ！>Iris/Explanation#tb_lotteomocha]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|葉賀ユイ||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[電撃オンラインゲームシリーズVol.2 エミル・クロニクル・オンライン ビジュアルブック>http://www.econline.jp/news/information/20101108.html]]|~|
+|&aname(AC00-0015);AC00-0015|拓かれる大地|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[フェスティバル！>Iris/Explanation#tb_pazdra]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|雀葵蘭||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ガンホーフェスティバル2011:http://www.gungho.jp/gunghofestival/2011/]]|~|
+|&aname(AC00-0016);AC00-0016|ストライクウィッチーズ|&COLOR(#ff0000){''SP''};|[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ストライクウィッチーズ>Iris/Explanation#tb_strikeWitches]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|－||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ＥＣＯ×ストライクウィッチーズＷ登録キャンペーン:http://www.gungho.jp/est/]]|~|
+|&aname(AC00-0017);AC00-0017|魔法少女まどか☆マギカ|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[魔法少女まどか☆マギカ>Iris/Explanation#tb_madoka1]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|－||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ＥＣＯ×魔法少女まどか☆マギカイベント>Quest/Season/MadokaMagika]]|~|
+|&aname(AC00-0018);AC00-0018|まどか☆マギカ|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[まどか☆マギカ>Iris/Explanation#tb_madoka2]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|－||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ＥＣＯくじ「魔法少女まどか☆マギカ」ゲーマーズ先行販売パック>http://www.econline.jp/event/eco_madomagi/prom03.html]]|~|
+|&aname(AC00-0019);AC00-0019|ティティルのサポート|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[基礎体力強化>Iris/Explanation#tb_hpup]]|5|CENTER:-|CENTER:-|CENTER:-|CENTER:-|Capura.L||
+|~|~|~|~|~|~|~|~|~|~|[[ジャイアントキリング>Iris/Explanation#tb_gkilling]]|5|CENTER:-|CENTER:-|CENTER:-|CENTER:-|~|~|
+|~|~|~|~|~|~|~|~|~|~|[[ヒロインズパーティ>Iris/Explanation#tb_heroineparty]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|~|~|
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ECOねくと！ライトノベル特典>http://econline.gungho.jp/special/NovelandDrama/]]|~|
+|&aname(AC00-0020);AC00-0020|パズドラからの来訪者たち|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(BLACK):COLOR(WHITE):火/水/土/光/闇|1|-|-|-|-|[[フェスティバル！>Iris/Explanation#tb_pazdra]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|パズル&ドラゴンズ||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ガンホーフェスティバル2013 ローディング画面イラストコンテスト投票特典>http://econline.gungho.jp/special/PuzzleAndDragons2/]]先着1500名様|~|
+|&aname(AC00-0021);AC00-0021|にしこくん|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[にしこくん>Iris/Explanation#tb_nishiko]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|タイニー×にしこくん||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[「ECO×にしこくん」コラボレーション第1弾>http://econline.gungho.jp/special/nishikokun2013/]]|~|
+|&aname(AC00-0022);AC00-0022|ＭＩＮＤ≒０|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ＭＩＮＤ≒０>Iris/Explanation#tb_mindzero]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|kyo||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[期間限定「ECO×ＭＩＮＤ≒０」コラボレーション第1弾>http://econline.gungho.jp/special/mind0/]]|~|
+|&aname(AC00-0023);AC00-0023|なんでもECO！ザ・ワールド|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[真心の絆>Iris/Explanation#tb_tiesofcordiality]]|30|CENTER:-|CENTER:-|CENTER:-|CENTER:-|椎名悠人||
+|~|~|~|~|~|~|~|~|~|~|[[みんなの思い出>Iris/Explanation#tb_everybodysRecollections]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|~|~|
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[なんでもECO！ザ・ワールド>http://econline.gungho.jp/special/ECOTheWorld2013/]]|~|
+|&aname(AC00-0024);AC00-0024|「劇場版モーレツ宇宙海賊」|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[モーレツ宇宙海賊>Iris/Explanation#tb_moretsu]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|－||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[「ECO×モーレツ宇宙海賊」モーレツコラボ第1弾>http://econline.gungho.jp/special/mo-retsu/]]|~|
+|&aname(AC00-0025);AC00-0025|『電波教師』からの使者|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[電波教師>Iris/Explanation#tb_ultimateTeacher]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|東　毅||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[「ECO×電波教師」コラボ第1弾>http://econline.gungho.jp/special/denpa/]]|~|
+|&aname(AC00-0026);AC00-0026|荒木光太郎|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[ECO×電波教師>Iris/Explanation#tb_ecoUltimateTeacher]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|東　毅||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[「ECO×電波教師」コラボスペシャル>http://econline.gungho.jp/special/denpa/]]|~|
+|&aname(AC00-0027);AC00-0027|パズドラからの新たな来訪者|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]|BGCOLOR(#CCFFFF):光|1|-|-|-|-|[[フェスティバル！>Iris/Explanation#tb_pazdra]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|パズル＆ドラゴンズ||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[ガンホーフェスティバル2014:http://econline.gungho.jp/special/gunghofestival2014/]]|~|
+|&aname(AC00-0028);AC00-0028|アナザークロニクルへの誘い|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|[[みんなで転生しちゃおう！>Iris/Explanation#tb_trans_cp]]|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|HEADLOCK||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[アナザークロニクル実装記念 みんなで転生しようキャンペーン:http://econline.gungho.jp/news/event/campaign/another-reborn20160317CP.html]]|~|
+|&aname(AC00-0029);AC00-0029|東京ザナドゥ|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|東京ザナドゥ|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|東京ザナドゥ||
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|[[「ECO×東京ザナドゥ」コラボ:http://econline.gungho.jp/special/tokyo_xanadu/]]|~|
+|&aname(AC00-0030);AC00-0030|アクロニアメモリーズ１|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|アクロニアメモリーズ|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|香取剛|アビリティLv7&br;までリリース有|
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BOOK☆WALKER「アクロニアメモリーズ第１集」購入特典|~|
+|&aname(AC00-0030);AC00-0031|アクロニアメモリーズ２|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|アクロニアメモリーズ|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|香取剛|アビリティLv7&br;までリリース有|
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BOOK☆WALKER「アクロニアメモリーズ第２集」購入特典|~|
+|&aname(AC00-0030);AC00-0032|アクロニアメモリーズ３|&COLOR(#ff0000){''SP''};|[[武器>IrisCard/SetPosition#weapon]]/[[服>IrisCard/SetPosition#dress]]/[[胸>IrisCard/SetPosition#acce]]|-|-|-|-|-|-|アクロニアメモリーズ|200|CENTER:-|CENTER:-|CENTER:-|CENTER:-|香取剛|アビリティLv7&br;までリリース有|
+|~|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BOOK☆WALKER「アクロニアメモリーズ第３集」購入特典|~|

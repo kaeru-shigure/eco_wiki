@@ -1,0 +1,24 @@
+# Skill/Gardener/Table
+
+&color(red){※一次職・二次職と違い、習得Lvに達すると自動的に獲得出来ます。};
+※スキルポイント制ではないので、ガーデナーのスキルは&color(red){全て最大Lv1です。};
+-スキル名の色は''&color(red){アクティブスキル};''と''&color(blue){パッシブスキル};''の違いです。
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~名称|~消費|~目標|~射程|~効果|~評価|~コメント|h
+|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|~1|[[&color(red){わたしは木};>Skill/Gardener#j03a7090]]|SP25|自分|-|木に変身することでモンスターからターゲットを解除することができる|◎||
+|~5|[[&color(red){ギャザリング};>Skill/Gardener#t105d11f]]|-|自分中心の円||周囲に8つの種を植えて植物を生やす&br;ファーマースキル「[[栽培>Skill/Farmer/Explanation#Cultivation]]｣を習得し、植える種を8つ以上所持している必要がある|×/△||
+|~8|[[&color(red){庭師の手腕};>Skill/Gardener#o71f85fd]]|SP6|自分中心の円||周囲の植物系に対して一定のダメージを与える|△||
+|~10|[[&color(blue){モーグ炭追加貯蔵};>Skill/Gardener#b072b977]]|-|-|-|飛空庭に[[モーグ炭>http://eco.acronia.net/itemdb/#id=2583]]を100個まで貯蔵できる|△||
+|~10|[[&color(red){品種改良};>Skill/Gardener#o8ee3c37]]|SP3|自分か単体|3|同じ種を10個掛け合わせることでガーデニング用の種を精製する|○||
+|~15|[[&color(red){園芸};>Skill/Gardener#r1295e7f]]|SP3|自分か単体|3|園芸用品の作成を行う事ができる|◎||
+|~18|[[&color(red){ログハウス};>Skill/Gardener#w70957a5]]|SP5|地面単体|1|その場にログハウスを建てる（要『[[ログハウス>http://eco.acronia.net/itemdb/#id=2808]]』）|○||
+|~20|[[&color(blue){ガーデンマイスター};>Skill/Gardener#x465e052]]|-|-|-|「園芸」時に特別なアイテムを作成することが出来る|◎||
+|~23|[[&color(blue){トピアリー};>Skill/Gardener#xe483392]]|-|-|-|「[[トピアリーツリー>http://eco.acronia.net/itemdb/#id=1700]]」を自在に刈り取ることができる|△||
+|~25|[[&color(blue){ガーデニング};>Skill/Gardener#l7cc772a]]|-|-|-|飛空庭での植物育成が可能になる|◎||
+|~28|[[&color(red){ウェザーコントロール};>Skill/Gardener#v52231b9]]|-|自分中心の円|-|飛空庭周囲の空間を歪め天候を自在に操作することができる|☆||
+|~29|[[&color(red){ヘブンリーコントロール};>Skill/Gardener#d03bb641]]|-|自分中心の円|-|飛空庭周囲の空間を歪め天体を自在に操作することができる|☆||
+|~30|[[&color(red){家具分解};>Skill/Gardener#lb5880b6]]|SP3|自分|3|不必要な家具を分解しそこから新たな素材を得ることができる|☆||

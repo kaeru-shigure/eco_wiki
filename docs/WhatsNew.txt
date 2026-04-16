@@ -1,0 +1,77 @@
+# WhatsNew
+
+#author("2017-08-31T15:46:33+00:00","","")
+//運用について：最大3ヶ月分程度の記載とし、古い情報はfold内に移動してください。
+***最近のアップデート [#s657c8d3]
+- 2017/09/01
+-- ゲームサービス終了
+--- Ending the movie 公開中 http://econline.gungho.jp/
+-- サービス終了後のスケジュール http://econline.gungho.jp/schedule.html
+|2017年9月1日（金）11：00|・未使用Shop Pointの移行/返金受付開始&br;・未使用アイテムチケットの返金受付開始|
+|2017年9月30日（土）11：00|・未使用Shop Pointの移行/返金受付終了|
+|2017年10月31日（火）11：00|・エミル・クロニクル・オンラインSNSサービス終了|
+|2017年11月20日（月）|・未使用アイテムチケットの返金受付終了|
+|2017年11月21日（火）11：00|・公式サイト公開終了&br;・サポート終了|
+
+#fold{{{
+以前のアップデート
+- 2017/08/17 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/170817_update.html]]
+--大感謝アップデート第3弾 [[「大感謝アップデート」特設サイト（第3弾）>http://econline.gungho.jp/special/daikansyaupdata/update08.html]]
+---レベル最大化機能実装：「ThanksObject」から経験値と職業経験値を獲得できる
+---武具・ＤＥＭパーツ強化成功確率上昇、イリスカード強化成功確率上昇
+---みんなでモンスター討伐イベント：タイニーアイランドのNPC「ストーンアップ博士」で受付
+---ダンプティーアイランド開放
+---ThanksObject販売アイテム追加：「巻物（ありがとう）」を追加
+- 2017/07/27 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/170727_update.html]]
+--大感謝アップデート第2弾 [[「大感謝アップデート」特設サイト（第2弾）>http://econline.gungho.jp/special/daikansyaupdata/update07.html]]
+---パートナー1日レンタル（EXイベントチケットが必要）
+---DEMリミットブレイク開放
+---ラグナロクオンライン出張イベント：ポリンぺしぺしイベント
+---「星を守る者」 全話永久実装
+- 2017/07/13 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/copy_of_170706_update.html]]
+--キチン募金イベント 全ワールド達成記念 [[販売アイテム追加>Partner#be26df07]]
+- 2017/06/22 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/170622_update.html]]
+--大感謝アップデート第1弾 [[「大感謝アップデート」特設サイト>http://econline.gungho.jp/special/daikansyaupdata/]]
+---一部の服や家具、紹介状アイテムをGoldで購入できる「ThanksObject」がアップタウン・ダウンタウンに設置
+---[[モンスター討伐時>exptable#GetExpEffect]]と[[チュートリアル>Event/Nheartful]]の経験値10倍
+---[[メインストーリー>Event/MainStory]]の経験値報酬増加
+---[[神器入手>Event/Armor/Lv120weapons]]緩和: 「更なる頂を目指す存在」が使う一部スキル調整
+---[[クエストポイント>Quest#ic537a6e]]が1日に3ポイント回復
+---ラグナロクオンラインコラボレーションイベント復活
+- 2017/05/25 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/170525_update.html]]
+--クロニクルアップデート「[[決戦～つなぐ想い～>Event/MainStory#u55656b7]]」実装
+--[[称号が新たに追加>Degree]]
+--タイニー・かんぱにー ～人材発掘編EXTRA「謎の女冒険者」～ 実装
+--[[「キチン募金」に新目標＆新報酬が登場>Partner#be26df07]]
+--[[飛空城のマテリアルコストを「0」に修正>FlyCastle#MCost]]
+--CP交換アイテムを常に日曜日の価格になるよう変更
+--特定の期間しか入手できなかったCP交換アイテム、ecoin交換アイテムが常に入手できるよう変更
+- 2017/05/18 [[サービス終了に伴う対応について重要なお知らせ>http://econline.gungho.jp/news/important/closing_list.html]]
+--ECO SHOPのエクストラアイテムをお手頃価格で販売。（2017/05/18～サービス終了まで）
+--公認ネットカフェ向けPayNetCafe販売終了（2017/05/18）
+--アパホテルなど公認ネットカフェサービス終了。（2017/05/31～）
+--ShopPoint販売終了。（2017/05/31～）
+--ECOネットストア（ダウンロードパッケージ、ECOドリームなど）販売終了。（2017/05/31～）
+- 2017/05/15 [[ゲームサービス終了のお知らせ>http://econline.gungho.jp/news/important/20ujqj000002dpmd.html]]
+--2017年8月31日をもってサービスを終了する。
+--2017年5月25日より最終アップデートを予定。
+- 2017/04/20 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/170420_update.html]]
+--[[ＥＸイリスカード第39弾>IrisCard/ExIrisCard1#Ex39]]
+--[[潜在強化が耐久度無しの装備でも可能に>EnhancementOfWeapon#f4ddf78f]]
+--[[まいにちダンジョンのクリア報酬アイテム追加>Dungeon/dailydungeon#e531d005]]
+--[[EXキャプチャーのイリスカードドロップ率低下、万年筆ドロップ率上昇>Quest/AncientArk/ExCapture/BoxDrop]]
+--[[称号が新たに追加>Degree]]
+- 2017/03/23 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/170323_update.html]]
+--[[メインストーリー「破滅の黄風」>Event/MainStory#w8662036]]
+--[[LV120武器神器作成>Event/Armor/Lv120weapons]]
+--ディメンション武器（[[LV99>http://eco.acronia.net/wiki/?Quest/ECOtown/Lv99weapons]]、[[LV110>http://eco.acronia.net/wiki/?Quest/Tonka/Lv110weapons]]）入手緩和
+--[[称号システム実装>Degree]]
+--[[アナザークロニクル エピローグイベント>Job/AnotherChronicle#AC_Epilogue]]
+- 2017/02/23 [[公式アップデート情報>http://econline.gungho.jp/news/play/update/170223_update.html]]
+--[[ＥＸイリスカード第38弾>IrisCard/ExIrisCard1#Ex38]]
+--[[イリスカード8穴から10穴に>Iris#g12c833c]]
+--[[ディメンション神託の風穴>Dungeon/DimensionOracleWindCave]]
+--[[竜眼開放がどの武器でも使用可能に>/Quest/ECOtown/Lv99weapons]]
+}}}
+
+RIGHT:&edit(WhatsNew,noicon){最近のアップデートを編集};

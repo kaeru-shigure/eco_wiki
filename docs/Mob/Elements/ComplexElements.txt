@@ -1,0 +1,51 @@
+# Mob/Elements/ComplexElements
+
+#author("2017-04-07T17:31:15+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（複合属性） [#p1c506ce]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv21～30 [#q582d833]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Vega.jpg,nolink,100x101);|ベガ|25|400|100/80|BGCOLOR(#fff68f):火/水/土/''風''/光/闇|NonActive|モーモー草原&br;穀倉地帯|にんじん&br;パートナーフード&br;だいこん&br;&color(slateblue){ペガサス};&br;&color(red){カッパーメダル};&br;&color(red){味噌スープ};|-|土属性攻撃が有効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tosaka.jpg,nolink,100x100);|トサカ|25|450？|0/0|火/風|-|【インスタンスダンジョン】&br;地下に巣くう者|卵&br;肉|-|先に進むための鍵モンスター|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HeavenlyVega.jpg,nolink,100x100);|ヘブンリーベガ|26|1000|230/230|BGCOLOR(#bbffff):火/''水''/土/風/光/闇|NonActive|モーモー草原&br;穀倉地帯|にんじん&br;だいこん&br;パートナーフード&br;&color(slateblue){ペガサス};|-|火属性攻撃が有効|
+
+***Lv41～50 [#mf702345]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/StoneTurtle.jpg,nolink,100x100);|ストーンタートル|40|5000|550/650|BGCOLOR(#bbffff):''水''/土|NonActive|ウォーターレイアー|青汁&br;カビ&br;カメの甲羅&br;&color(red){四つ葉のクローバー};&br;&color(red){カメの甲羅リュック（白）};|グラヴィティフォール&br;チャージ&br;アースストーム&br;ソリッドオーラ|火属性攻撃が有効&br;高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SpellCaster.jpg,nolink,100x100);|スペルキャスター|44|700|360/483|BGCOLOR(#c4adff):''闇''/水|Active|【サウスダンジョン】&br;B1F,B2F|上等なマジックキャンディー&br;ラピスラズリのかけら&br;金運の香水&br;&color(#cccccc){魔力の結晶};&br;&color(slateblue){スペルキャスタースタンプ};|ダークファング&br;ナッシングネス|高DEF&br;遮蔽物無視＆超遠距離ナッシングネス使用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingCannon.jpg,nolink,100x100);|ブリキングキャノン|49|725|549/574|BGCOLOR(#ffdddd):''火''/土|Active|【サウスダンジョン】&br;B2F|ブリキの板&br;赤いコード&br;CPU&br;コイル&br;電卓&br;ポケコン&br;メモリ|アッシュ&br;ファイアーストーム&br;ファイアボール||
+
+***Lv71～80 [#zbda1ddf]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShineBee.jpg,nolink,100x100);|シャインビー|75|4600|2350/2500|BGCOLOR(#fff68f):''風''/闇|Link→シャインビー&br;Link→コガネグモ|バオバブの森|氷砂糖&br;蜂蜜&br;強力磁石&br;破れた魔法書|ロラン&br;マジックポイズン&br;ブランディッシュ|超高DEF(箱並)&br;高ASPD&br;高Critical|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KoganeGumo.jpg,nolink,100x100);|コガネグモ|77|5100|2500/2400|BGCOLOR(#98fb98):''土''/闇|Link&br;→昆虫系|バオバブの森|青汁&br;梅のど飴&br;鉛のナゲット&br;アラクネーの糸&br;クリティカルの結晶&br;&color(red){ハーブのど飴};&br;&color(red){琥珀};|ランドクラッグ&br;ロックストーン&br;アースストーム&br;コンフューズスタッド|高MDEF|
+
+***Lv81～90 [#q66fcf0a]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AngelBoar.jpg,nolink,100x100);|エンジェルボア|82|7770|2400/2000|BGCOLOR(#cccccc):土/光|Active|【光の塔】&br;A-13F～A17F&br;A-22F|異界の羽&br;珍しい種&br;するどい牙&br;破れた魔法書&br;&color(red){タイタニアレザー};|マジックスロウ&br;セイントファング&br;チャージ&br;アヴォイド・バースト|スロウを多用|
+
+***Lv111～ [#gaddd329]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/bakubaku.jpg,nolink,100x100);|バクバク|144|87890|221200/221200|BGCOLOR(#ffffff):光|Link|【クジラ岩】&br;虚淵&br;歪淵・迷&br;幻淵&br;深淵|睡眠薬&br;安眠まくら&br;&color(red){安眠まくら(PT)};&br;上等なくんせい肉&br;激震のど飴|スケア&br;エナジーストーム&br;リジェネート&br;ララバイ&br;メデューサスキン|獲得EXP&br;～104：22120&br;105～：55300&br;110～：110600|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DevilBakuBaku.jpg,nolink,100x100);|デビルバクバク|152|108590|376300/376300||Link|【クジラ岩】&br;幻淵&br;歪淵・骸&br;深淵|睡眠薬&br;安眠まくら(PT)&br;上等なくんせい肉&br;激震のど飴&br;|猛毒スロウガス&br;シャドウブラスト&br;ソリッドオーラ&br;ダークブレイズ|&br;|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/agedbakubaku.jpg,nolink,100x100);|エイジドバクバク|157|135080|484800/424500||Active|【クジラ岩】&br;歪淵・骸&br;深淵|睡眠薬&br;安眠まくら&br;悪夢喰らいのまくら&br;&color(red){悪夢喰らいのまくら(PT)};&br;激震のど飴&br;&color(red){ジューシーなくんせい肉};|ハウルアウト&br;怒&br;ソリッドオーラ&br;リフレクション|サーチ範囲が非常に広い。&br;（画面外や障害物越しにもサーチされる）|

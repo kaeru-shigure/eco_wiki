@@ -1,0 +1,93 @@
+# MobWaterLayer
+
+#author("2017-04-07T17:37:40+00:00","","")
+*モンスター（ウォーターレイアー） [#WaterLayer]
+
+#contents
+#include(MobMenu,notitle)
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+//***動物系 [#Animal]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+***鳥系 [#Bird]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ChunChun.jpg,nolink,100x100);|チュンチュン|30|1,350|837/853|BGCOLOR(#fff68f):風|Link→鳥系|ウォーターレイアー|ミルク&br;上等な肉&br;サーロイン&br;力の結晶|ヴァニッシュメント&br;スタンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Vulture.jpg,nolink,100x100);|バルチャー|36|%%2,650%%&br;1,800|1,044/953|BGCOLOR(#fff68f):風|Link→鳥系|ウォーターレイアー|卵&br;ダークフェザーの羽&br;上等な革&br;クリティカルの結晶|チャージ&br;アサルト&br;アタック・バースト&br;ラッシュ||
+
+***昆虫系 [#Insect]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/YadoSlag.jpg,nolink,100x100);|ヤドスラッグ|30|1,500|798/728|BGCOLOR(#bbffff):水|NonActive|ウォーターレイアー|スノードロップ&br;ブラックビネガー&br;真珠貝&br;&color(red){巻貝};&br;&color(red){青い巻貝};&br;&color(slateblue){真珠};|ヒーリング&br;ウォータアタック&br;スタンアタック||
+|~|太ったヤドスラッグ|~|~|~|~|~|~|スノードロップ&br;ブラックビネガー&br;真珠貝&br;真珠&br;&color(red){巻貝};&br;&color(red){青い巻貝};|~||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HermitCrab.jpg,nolink,100x100);|ハーミットクラブ|72|%%10,890%%&br;11,000|%%4,380/4,224%%&br;6,665/6,392|BGCOLOR(#bbffff):水|NonActive|海底洞窟(暖流)|ゼリコ&br;闇のコロン&br;真珠貝&br;&color(red){二枚貝};&br;&color(red){紫色の巻貝};&br;&color(slateblue){真珠};|ブランディッシュ&br;ディフェンス・バースト&br;スタンブロウ&br;足払い||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Conc.jpg,nolink,100x100);|コンク|82|13,580|%%4,500/4,920%%&br;7,375/8,110|BGCOLOR(#bbffff):水|NonActive|海底洞窟(寒流)|毒消しの実&br;蜘蛛の白ワイン&br;真珠貝&br;&color(red){二枚貝};&br;&color(red){茶色の巻貝};&br;&color(slateblue){真珠};|マジックスリープ&br;足払い&br;エナジーシールド&br;ブランディッシュ||
+
+//***植物系 [#Plant]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+***水中生物系 [#Underwater]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaDragon.jpg,nolink,100x100);|シードラゴン|73|13,580|%%4,632/4,224%%&br;7,606/7,690|BGCOLOR(#bbffff):水|NonActive|海底洞窟(暖流)|ミネラルウォーター&br;異界の羽&br;ハーブのど飴&br;魚のウロコ&br;&color(red){上等なサンゴ};|ディビリテイト&br;ウォーターバーン&br;ディレイキャンセル&br;ヴァニッシュメエント||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SwimFish.jpg,nolink,100x100);|スイムフィッシュ|75|11,750|%%5,000/4,500%%&br;7,250/6,375|BGCOLOR(#cccccc):水/光|Link→水中生物|海底洞窟(暖流)|異界の羽&br;シャケ&br;ライギョーのウロコ&br;クリティカルの結晶|パープルガス&br;チャージ&br;スリープストライク&br;デクライズウェポン|M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SwimFishDai.jpg,nolink,100x100);|スイムフィッシュ(大)|75|11,750|%%5,000/4,500%%&br;8,375/7,238|BGCOLOR(#bbffff):水|%%Link→水中生物%%&br;Active|海底洞窟（暖流）|~|パープルガス&br;チャージ&br;スリープストライク|BOSS&br;出現時にスイムフィッシュを取り巻きとして召喚&br;M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PoisonGel.jpg,nolink,100x100);|ポイズンジェル|77|%%19,800%%&br;14,800|%%5,437/5,250%%&br;7,315/6,988|BGCOLOR(#bbffff):水|Link→水中生物|海底洞窟(暖流)|緑のゼリコ&br;魔力の結晶&br;金運の香水|猛毒スロウガス&br;スケア&br;ポイズンパフューム&br;サンダーボルト||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KozurePoisonGel.jpg,nolink,100x100);|子づれポイズンジェル|87|39,800|%%5,500/5,800%%&br;10,770/10,280|BGCOLOR(#bbffff):水|NonActive|海底洞窟(暖流)|ミネラルウォーター(PT)&br;透明シール&br;ブランクイリスカードUC&br;金運の香水&br;魔力の結晶&br;緑のゼリコ|猛毒スロウガス&br;怒|BOSS&br;出現時にポイズンジェルを取り巻きとして召喚|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaHorse.jpg,nolink,100x100);|シーホース|83|15,000|%%6,120/5,165%%&br;9,210/7,539|BGCOLOR(#bbffff):水|%%NonActive%%&br;Active|海底洞窟(寒流)|魚のウロコ&br;ミネラルウォーター&br;サンゴ&br;&color(orange){ケセランパサラン};&br;&color(red){上等なサンゴ};&br;|アムラーム&br;アクアストーム&br;マジックシールド&br;連続攻撃|魔法詠唱速度が早い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AngelFish.jpg,nolink,100x100);|エンジェルフィッシュ|87|19,850|%%7,040/7,315%%&br;7,744/8,046|BGCOLOR(#ffffff):光|Link→水中生物|海底洞窟(寒流)|やわらかな羽&br;魚のウロコ&br;魚のウロコ(PT)&br;不思議な干し魚&br;&color(red){シャケ};|スケア&br;ホーリーライト&br;マーベリック&br;リフレクションウォール&br;デクライズウェポン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AngelFishDai.jpg,nolink,100x100);|エンジェルフィッシュ(大)|87|19,850|%%7,040/7,315%%&br;8,448/10,241|BGCOLOR(#ffffff):光|%%NonActive%%&br;Active|海底洞窟(寒流)|~|スケア&br;ホーリーライト&br;マーベリック&br;リフレクションウォール|&br;BOSS&br;出現時にエンジェルフィッシュを取り巻きとして召喚|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BalloonGel.jpg,nolink,100x100);|バルーンジェル|87|23,580|%%7,480/7,700%%&br;8,890/9,275|BGCOLOR(#bbffff):水|Link→水中生物|海底洞窟(寒流)|ミネラルウォーター&br;精霊水&br;赤いゼリコ&br;透明シール&br;魔力の結晶|超電磁波&br;エレクトリックファング&br;バイタリティダウン&br;スタンアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KozureBalloonGel.jpg,nolink,100x100);|子づれバルーンジェル|97|43,580|%%5,800/6,300%%&br;13,300/15,050|BGCOLOR(#bbffff):水|%%Link→水中生物%%&br;NonActive|海底洞窟(寒流)|ミネラルウォーター(PT)&br;透明シール&br;ブランクイリスカードUC&br;精霊水&br;魔力の結晶&br;赤いゼリコ|エレクトリックファング&br;スタンアタック&br;怒|BOSS&br;出現時にバルーンジェルを取り巻きとして召喚|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaSerpent.jpg,nolink,100x100);|シーサーペント|88|%%84,700%%&br;34,700|%%8,195/8,305%%&br;12,600/15,050|BGCOLOR(#bbffff):水&br;(51↑)|%%NonActive%%&br;Active|海底洞窟(寒流)|ジューシーなお肉(PT)&br;ジューシーなお肉&br;&color(orange){海竜の瞳（PT）};&br;&color(slateblue){不思議な水晶};&br;&color(red){タイタニアレザー};&br;&color(slateblue){逆鱗};|アイスフェード&br;ライフスティール&br;ウォーターバーン&br;アクアウェーブ|水属性値51以上&br;(ライズで書き換えられない)|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/deepmouth.jpg,nolink,100x100);|ディープマス|70|5,500|1,500/1,700|BGCOLOR(#bbffff):水|Active|海底洞窟(寒流)|干し魚&br;ゼリコ&br;キャビア|猛毒針&br;アイスアロー&br;ヒーリング||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/cthulhuzero.JPG,nolink,100x100);|クルウルウ・ゼロ|90|&color(gray){125,000?};|24,000/34,000|BGCOLOR(#bbffff):水|Active|海底洞窟(寒流)|カッパーメダル&br;シルバーメダル&br;ゴールドメダル&br;アクアマリン|クロスリバー&br;ウォーターファング&br;ウォーターバーン&br;氷化ガス|BOSS&br;出現時にディープマスを取り巻きとして召喚&br;取り巻き全滅で再召喚|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/cthulhulava.jpg,nolink,100x100);|クルウルウ・ラヴァ|100||48,000/24,000|BGCOLOR(#bbffff):水|Active|海底洞窟(暖流)|カッパーメダル&br;シルバーメダル&br;ゴールドメダル&br;ハートルビー|バードケージ&br;バーンファング&br;バーニングロード&br;クロスファイア&br;猛毒針?|BOSS&br;出現時にディープマスを取り巻きとして召喚&br;取り巻き全滅で再召喚|
+
+***魔法生物系 [#Magic]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Elemental.jpg,nolink,100x100);|エレメンタル|84|%%69,160%%&br;29,160|%%7,908/6,300%%&br;16,678/12,050|BGCOLOR(#bbffff):水|詠唱反応|【海底洞窟(暖流)】|聖者の涙&br;ミネラルウォーター&br;ケセランパサラン&br;&color(red){ドクロ};&br;&color(red){水晶のかけら};&br;&color(red){水晶};|ミラー&br;クロスリバー&br;アクアウェーブ&br;スプラッシュ|接地しているがトラップ無効&br;HPが減ると、プレイヤー未発見でも10秒ごとにアクアウェーブ使用|
+
+//***精霊系 [#Spirit]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+//***人間系 [#Human]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER://|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+//***死霊系 [#Ghost]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+//***機械系 [#Machine]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+***岩系 [#Rock]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ma-re.jpg,nolink,100x100);|マーレ|36|1,200|1,025/900|BGCOLOR(#bbffff):水|特殊詠唱反応|ウォーターレイアー|水の召喚石&br;流氷詰めの缶&br;不思議な水晶&br;&color(red){青い結晶1};&br;&color(red){オリハルコン};|アクアストーム&br;アイスフェード&br;ウォータアタック|自分へのスキル使用を察知すると反応|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/StoneTurtle.jpg,nolink,100x100);|ストーンタートル|40|5,000|2,183/2,208|BGCOLOR(#bbffff):''水''/土|NonActive|ウォーターレイアー|青汁&br;カビ&br;カメの甲羅&br;&color(red){四つ葉のクローバー};&br;&color(red){カメの甲羅リュック(白)};|グラヴィティフォール&br;チャージ&br;アースストーム&br;ソリッドオーラ|火属性攻撃が有効&br;高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/noguddoachine.jpg,nolink,100x100);|ノグッドアーチン|73|100|%%98/112%%&br;172/196|BGCOLOR(#bbffff):水|詠唱反応|海底洞窟(暖流)&br;海底洞窟(寒流)|アーチン印のミソ&br;キャビア&br;黒キャビア|スピードダウン&br;ゴゥアウト&br;ファイアウェポン&br;アースライズ||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/cristalt.jpg,nolink,100x100);|クリスタルタートル|92|%%56,000%%&br;46,000|%%8,846/8,580%%&br;20,961/20,030|BGCOLOR(#bbffff):水|詠唱反応|海底洞窟(寒流)|青汁&br;カビ&br;カメの甲羅&br;&color(red){四葉のクローバー};&br;&color(red){亀の甲羅リュック(白)};|クロスリバー&br;アースライズ&br;リフレクションウォール&br;ソリッドオーラ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/IshiGameSama.jpg,nolink,100x100);|石亀様|100|750,000|50,000/60,000|BGCOLOR(#bbffff):水|NonActive|ウォーターレイアー|カビ(PT)&br;ハートルビー&br;カメの甲羅&br;亀の甲羅リュック(黒)&br;&color(red){背負い魔ブースト};|アースクライ&br;グラヴィティフォール&br;ランドクラッグ&br;グランドクロス&br;ソリッドオーラ&br;ハウリングスクイーザー(死亡時)|BOSS&br;HPが減ると、プレイヤー未発見でも40秒ごとにアースクライを使用|

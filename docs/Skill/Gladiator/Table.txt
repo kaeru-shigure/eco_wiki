@@ -1,0 +1,31 @@
+# Skill/Gladiator/Table
+
+-''&color(red){威力はATK比を基準とする。};''
+--例：（使用者のATKのみを考慮した場合）ATK100で威力200%なら与えるダメージは200となる。
+-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+☆:必須クラス
+◎:取得推奨
+○:あると便利
+△:限定状況でのみ役に立つ
+×:全く役に立たない
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #グラディエイター>Dungeon/InfiniteCorridorAbyssSkill#r96689f3]]''
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+|~Job&br;Lv|~名称|~型|~Max&br;Lv|~消費SP|~装備条件|~対象|~憑依時&br;使用|>|~評価|~効果・備考|
+|~|~|~|~|~|~|~|~|~ソロ|~PT|~|
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|c
+|3|''[[ブレイドマスタリー>Skill/Gladiator/Explanation#reino1]]''|''&color(blue){P};''|Lv5|-|剣・斧|-|-|>|☆|剣、両手剣、斧、両手斧装備時に攻撃力、命中率、クリティカル率を大きく上昇させる|
+|6|''[[HPコミュニオン>Skill/Gladiator/Explanation#reino2]]''|''&color(red){A};''|Lv5|最大100|無し|同MAP&br;PT|不可|×|◯|SPの一部を使用し、自身を含むパーティーメンバーの最大HPを上昇させる&br;消費SPが多いほど効果が高くなる|
+|10|''[[グラディエイター>Skill/Gladiator/Explanation#reino3]]''|''&color(red){A};''|Lv5|48/63/78/93/108|無し|自分|不可|△|×|使用すると、スキルが切れるまで通常物理攻撃に対してカウンターを行う&br;ただしスキル効果中は移動速度が低下する。|
+|13|''[[不屈の闘志>Skill/Gladiator/Explanation#reino4]]''|''&color(blue){P};''|Lv5|-|-|-|-|◎|△|一定値以下のHPになった際、一定確率でHP・MP・SPを回復する。(ダメージが大きいほど発動率が上がる)&br;サヴァイブとペアで覚えると回復量があがる。(サヴァイブ発動時のみ)|
+|20|''[[エクヴィリー>Skill/Gladiator/Explanation#reino5]]''|''&color(red){A};''|LV5|40/40/40/40/40|無し|自分|不可|>|☆|与ダメージのバラつきを抑え、最低攻撃力を最大攻撃力に近づける。&br;ダメージに振れが生じなくなり、一確狩りに必要なATKが確保しやすくなる。|
+|23|''[[鬼人の構え>Skill/Gladiator/Explanation#reino6]]''|''&color(red){A};''|LV5|40/40/40/40/40|無し|自分|不可|>|◯|自身のDEFを減らし、その分をATKに上乗せする。|
+|25|''[[大車輪>Skill/Gladiator/Explanation#reino7]]''|''&color(red){A};''|LV5|42/52/62/72/82|一般|円周囲|可|>|△|武器を振り回し自分の周囲を攻撃する。確率で鈍足状態にする。&br;[[旋風剣>Skill/BladeMaster/Explanation#odb9e44b]]取得Lvにより威力補正が上昇する。[[グラヴィティ>Skill/Bountyhunter/Explanation#ic38bbb6]]取得Lvにより鈍足確率が上昇する。&br;取得Lv関係なく3マスノックバックさせる。&br;二次スキルが強化されたため相対的に価値が下がった。|
+|30|''[[プレッシャー>Skill/Gladiator/Explanation#reino8]]''|''&color(red){A};''|LV5|25/30/35/40/45|無し|円周囲|不可|>|○|一定範囲内に行動を鈍化させる結界を発生させる&br;結界内にいる者の移動速度、攻撃速度、詠唱速度が減少する。|
+|35|''[[サヴァイブ>Skill/Gladiator/Explanation#reino9]]''|''&color(blue){P};''|LV5|-|-|-|-|◎|△|瀕死状態に陥ると確率で自身周囲にいる対象を吹き飛ばし一定確率でスタン状態にする。&br;サヴァイブ発動時、不屈の闘志を習得していると同時に発動する|
+|40|''[[リムーブウエポン>Skill/Gladiator/Explanation#reino10]]''|''&color(red){A};''|LV5|9/12/15/18/21|無し|単体|可|>|◯|対象の攻撃力を下げる。&br;プレイヤーの場合はさらに武器の装備が外され、VITが減少する。&br;効果時間が短いため演習用か|
+|45|''[[神速斬り>Skill/Gladiator/Explanation#reino11]]''|''&color(red){A};''|LV5|90/104/117/131/144|一般|単体|不可|>|☆|高速で移動し斬撃を行う。一定確率でスタン効果を与える。|
+|47|''[[剣聖>Skill/Gladiator/Explanation#reino12]]''|''&color(blue){P};''|LV5|-|-|-|-|>|☆|居合い・百鬼哭・斬撃無双・神速斬り・一閃・特効居合いの威力上昇。&br;居合い3種何れか⇒斬撃無双、百鬼哭⇒神速斬り、神速斬り⇒居合い何れか、に繋げられるようになる。|
+|50|''[[ジリオンブレイド>Skill/Gladiator/Explanation#reino13]]''|''&color(red){A};''|LV5|150/150/250/240/350|一般|単体を中心とした円(LV1・3・5)&br;単体(LV2・4)|不可|>|☆|偶数LVは単体、奇数LVは範囲3x3の対象指定の高火力攻撃。&br;ジリオンブレイド⇒居合い3種何れかor神速斬りへ繋げたり、神速斬り⇒ジリオンブレイドへ繋げる事が出来る。&br;高火力かつコンボに出来るが燃費が悪いので残SPに注意。|

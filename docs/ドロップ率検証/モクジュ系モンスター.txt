@@ -1,0 +1,24 @@
+# ドロップ率検証/モクジュ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[精霊知識>ドロップ率検証#cf2c3a58]]
+
+***モクジュ [#mb2ab47e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|木の皮|クマノイ|不思議な木の種|パルプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|151個（50.33％）|142個（47.33％）|5個（1.67％）|2個（0.67％）|0個（0.00％）|
+|知識あり（100体）|41個（41.00％）|33個（33.00％）|2個（2.00％）|0個（0.00％）|24個（24.00％）|
+
+***モーリー [#f6621484]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||木の枝|木炭|植物栄養剤|黒ゼリコ|マリオネット・マンドラゴラ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|47個（47.00％）|41個（41.00％）|11個（11.00％）|1個（1.00％）|0個（0.00％）|
+|知識あり（1165体）|544個（46.70％）|473個（40.60％）|136個（11.67％）|11個（0.94％）|1個（0.09％）|
+
+***アラウネ [#zae9100a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|木の枝|植物栄養剤|キャリアオイル|マリオネット・マンドラゴラ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|91個（45.50％）|76個（38.00％）|28個（14.00％）|5個（2.50％）|0個（0.00％）|
+|知識あり（100体）|45個（45.00％）|36個（36.00％）|13個（13.00％）|5個（5.00％）|1個（1.00％）|

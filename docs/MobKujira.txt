@@ -1,0 +1,92 @@
+# MobKujira
+
+#author("2021-10-05T18:16:12+00:00","","")
+*モンスター（クジラ岩） [#Kujira]
+
+#contents
+#include(MobMenu,notitle)
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***動物系 [#Animal]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/bakubaku.jpg,nolink,100x100);|バクバク|144|87,890|221,200/221,200|BGCOLOR(#ffffff):光|Link|【クジラ岩】&br;虚淵&br;歪淵・迷&br;幻淵&br;深淵|睡眠薬&br;安眠まくら&br;&color(red){安眠まくら(PT)};&br;上等なくんせい肉&br;激震のど飴|スケア&br;エナジーストーム&br;リジェネート&br;ララバイ&br;メデューサスキン|獲得EXP&br;～104：22,120&br;105～：55,300&br;110～：110,600|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DevilBakuBaku.jpg,nolink,100x100);|デビルバクバク|152|108,590|376,300/376,300|BGCOLOR(#ffffff):光|Link|【クジラ岩】&br;幻淵&br;歪淵・骸&br;深淵|睡眠薬&br;安眠まくら(PT)&br;上等なくんせい肉&br;激震のど飴&br;|猛毒スロウガス&br;シャドウブラスト&br;ソリッドオーラ&br;ダークブレイズ|&br;|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/agedbakubaku.jpg,nolink,100x100);|エイジドバクバク|157|135,080|484,800/424,500|BGCOLOR(#ffffff):光|Active|【クジラ岩】&br;歪淵・骸&br;深淵|睡眠薬&br;安眠まくら&br;悪夢喰らいのまくら&br;&color(red){悪夢喰らいのまくら(PT)};&br;激震のど飴&br;&color(red){ジューシーなくんせい肉};|ハウルアウト&br;怒&br;ソリッドオーラ&br;リフレクション|サーチ範囲が非常に広い。&br;(画面外や障害物越しにもサーチされる)|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilDragon.jpg,nolink,100x100);|エミルドラゴン|113|2,000,000|212,000/115,000|BGCOLOR(#98fb98):土|Active|終淵||リフレクションウォール&br;アシッドミスト&br;アースクライ&br;グラビティフォール&br;|BOSS&br;クエスト「終淵に立つ最強の竜」&br;DEF70-210&br;MDEF70-230&br;クリティカル回避60|
+|~|エミルドラゴン(本気)|250|4,000,000|2,000,000/2,500,000||Active|終淵||アースクライ&br;グラビティフォール&br;リフレクション&br;アニマドレイン&br;ハウリングスクイーザー&br;アルルーン召喚|BOSS&br;特定の99武器を解放するために闘う本気モード&br;クエスト「終淵に立つ最強の竜 弐」&br;取り巻き全滅で再召喚|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilDragonAnima.jpg,nolink,100x100);|エミルドラゴン・アルマ|250||/|無|Active|終淵||アニマドレイン&br;オールターフェイト&br;オールターゼロ&br;ソーマミラージュ&br;エミルフェザー召喚|BOSS&br;高M.ATK、高M.DEF&br;99防具を解放するために闘う人型モード&br;繰り出す攻撃がほぼクリティカル&br;オールターフェイトにより属性変化&br;クエスト「終淵に立つ最強の竜 参」&br;取り巻き全滅で再召喚&br;召喚する羽の色は毎回ランダム|
+
+//***鳥系 [#Bird]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+***昆虫系 [#Insect]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/seducebutterfly.jpg,nolink,100x100);|シデュースバタフライ|100|46,590|%%6,980/7,000%%&br;11,980/10,000|無?|Link→&br;バタフライ系|【クジラ岩】&br;歪淵・迷&br;歪淵・艦&br;幻淵&br;深淵|燐粉&br;たましいの粉&br;畏れる蝶の羽&br;&color(red){畏れる蝶の羽(PT)};&br;&color(red){耀く燐粉(PT)};&br;激震のど飴|ディバインバリア&br;ヒーリング&br;ポケポケ&br;エナジーショック&br;ディビリテイト|プレイヤー未発見でも10秒ごとにディバインバリアを発動&br;タゲ移りしやすい|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Terrierblebutterfly.jpg,nolink,100x100);|テリアブルバタフライ|116|52,500|7,260/7,380|無?|Link→&br;バタフライ系|【クジラ岩】&br;歪淵・迷&br;歪淵・艦&br;幻淵&br;深淵|燐粉&br;たましいの粉&br;妖精のキャンディ&br;畏れる蝶の羽&br;&color(red){畏れる蝶の羽(PT)};&br;&color(red){耀く燐粉(PT)};&br;激震のど飴|石化ガス&br;ミラー&br;ハウルアウト&br;ランドクラック|タゲ移りしやすい|
+
+***植物系 [#Plant]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Dryad.jpg,nolink,100x100);|ドリアード|120|71,980|8,350/8,560|BGCOLOR(#fff68f):風|NonActive|【クジラ岩】&br;歪淵・迷&br;幻淵&br;深淵|ギコギコ草&br;ドリアードの触手&br;ドリアードの触手(PT)&br;&color(red){嘆きの懐中時計(PT)};&br;超絶水分補給水&br;激震のど飴|ノクシャスブラスト&br;ロックドライブ&br;ライフスティール&br;グラビティフォール|&br;|
+|&aname(fularplant);&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/fularplant.jpg,nolink,100x100);|フィーラープラント|125|75,840|12,520/12,640|BGCOLOR(#fff68f):風|NonActive|【クジラ岩】&br;虚淵&br;深淵|ルーン草&br;ドリアードの触手&br;&color(orange){ドリアードの触手(PT)};&br;&color(red){嘆きの懐中時計(PT)};&br;超絶水分補給水|ヒーリング&br;ランドクラック&br;ディビリテイト&br;プラントポイズン|&br;|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/alseid.jpg,nolink,100x100);|アルセイド|130|81,110|14,900/17,720|無?|NonActive|【クジラ岩】&br;深淵|ドリアードの触手&br;ドリアードの苺&br;&color(red){ドリアードの苺(PT)};&br;禁断の果実(PT)&br;嘆きの懐中時計(PT)&br;超絶水分補給水&br;激震のど飴|ロックドライブ&br;アースクエイク&br;ポイズンマーシュ&br;グラビティフォール&br;|ポイズンマーシュのダメージが凶悪(0.5s=1600)&br;固まって動かないほうが吉|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/MobPlant/Alrun.png,nolink,82x100);|アルルーン|145||/|||【インスタンスダンジョン】&br;終淵||ハウルアウト&br;リストリクトリバース&br;プラントポイズン&br;リジェネレート|エミルドラゴン(本気)の取り巻きとして出現&br;死亡時にリジェネレート&br;BOSS属性|
+
+//***水中生物系 [#Underwater]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+
+***魔法生物系 [#Magic]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherR.jpg,nolink,100x100);|エミルフェザーＲ||100000|0/0|BGCOLOR(#ffdddd):火||終淵||ファイアアタック&br;ファイアアート&br;ブラックアート&br;セイントアート|エミルドラゴン・アルマの取り巻きとして出現&br;それぞれ属性値50以上&br;鈍足、沈黙、スタン有効&br;BOSS属性|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherB.jpg,nolink,100x100);|エミルフェザーＢ||100000|0/0|BGCOLOR(#bbffff):水||終淵||ウォータアタック&br;アクアアート&br;ブラックアート&br;セイントアート|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherY.jpg,nolink,100x100);|エミルフェザーＹ||100000|0/0|BGCOLOR(#fff68f):風||終淵||ウィンドアタック&br;ブラスターアート&br;ブラックアート&br;セイントアート|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherG.jpg,nolink,100x100);|エミルフェザーＧ||100000|0/0|BGCOLOR(#98fb98):土||終淵||アースアタック&br;エアアート&br;ブラックアート&br;セイントアート|~|
+
+***精霊系 [#Spirit]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/shadow.jpg,nolink,100x100);|シャドウ|145|155,950|102,300/153,600|BGCOLOR(#c4adff):闇|Active|【クジラ岩】&br;虚淵&br;深淵|闇のコロン&br;嘆きの懐中時計&br;ダーク・マーター&br;破れた魔法書&br;魔力の結晶&br;超絶水分補給水&br;激震のど飴|ダークブレイズ&br;メガダークブレイズ&br;ロラン&br;カオスウィドウ&br;オブセッション|HPが減るとNonActive化するが&br;メガダークブレイズをランダム周期で使用するようになる&br;EW2(凍結)無効|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/avalition.jpg,nolink,100x100);|アパリション|150|172,590|445,800/498,900|BGCOLOR(#c4adff):闇|Active|【クジラ岩】&br;幻淵&br;歪淵・骸|マジックポーション&br;ダーク・マーター&br;超絶水分補給水&br;激震のど飴&br;&color(red){嘆きの懐中時計(PT)};&br;&color(slateblue){力の結晶};|ナッシングネス&br;エンドライン&br;サテライトカロン&br;ハウリングスクイーザー&br;ドップ|HPが半分以下になると、行動不能中でもハウリングスクイーザーを使用&br;EW2(凍結)無効|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Phantom.jpg,nolink,100x100);|ファントム|160|209,586|509,300/544,200|BGCOLOR(#c4adff):闇|Active|【クジラ岩】&br;深淵|闇のコロン&br;ダーク・マーター&br;超絶水分補給水&br;激震のど飴&br;&color(slateblue){クリティカルの結晶};|ソウルブレイク&br;ブラックホール&br;ドップ&br;ノクシャスブラスト|高威力で詠唱の無いソウルブレイクに注意&br;EW2(凍結)無効|
+
+***人間系 [#Human]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/demaise.jpg,nolink,100x100);|デマイズ|115|66,660|8,630/9,130|無|Active|【クジラ岩】&br;虚淵&br;幻淵&br;深淵|リザレクションポーション&br;理のかけら(PT)&br;グランドシート(PT)&br;&color(red){嘆きの懐中時計(PT)};&br;超絶水分補給水&br;激震のど飴|リフレクション&br;ヴァニッシュメント&br;カオスウィドウ&br;ブラックウィドウ&br;メガダークブレイズ|超広範囲索敵&br;HPが半分以下になると、プレイヤー未発見でも10秒ごとにメガダークブレイズを発動|
+|MIRROR属性で&br;自キャラ姿で登場|正体不明|120||1/1|無|Active|夢幻|勇気のかけら|オールターフェイト&br;アニマドレイン(※)&br;チャージ(※)&br;エナジーショック&br;スタンブロウ|[[Lv99防具入手イベント用>Quest/ECOtown/Lv99weapons#qde2306d]]&br;敵が画面に入った時点での自キャラの見た目が反映されます&br;※職によって使用スキルが変化&br;オールターフェイトにより属性変化|
+
+***死霊系 [#Ghost]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/loebknight.jpg,nolink,100x100);|ロウブナイト|136|87,890|103,600/116,500|BGCOLOR(#ffdddd):火|Link→&br;ナイト系|【クジラ岩】&br;虚淵&br;歪淵・骸&br;深淵|たましいの粉&br;チタニウム塊&br;&color(red){リザレクションポーション};&br;超絶水分補給水&br;激震のど飴&br;&color(red){魔力の結晶};|リフレクション&br;デッドリーアタック&br;ハイパーチャージ&br;連続攻撃|アンデッド&br;1マス空けるとデッドリーアタック、ハイパーチャージ、連続攻撃を使わなくなる&br;攻撃がL.HIT扱い?&br;獲得EXP&br;～96：10,360&br;97～101：25,900/29,125&br;102～106：51,800&br;107～：77,700|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/doomknight.jpg,nolink,100x100);|ドゥームナイト|148|95,680|343,200/364,200|BGCOLOR(#ffdddd):火|Link→&br;ナイト系|【クジラ岩】&br;幻淵&br;深淵|たましいの粉&br;プラチナ塊&br;&color(orange){リザレクションポーション};&br;超絶水分補給水&br;激震のど飴&br;&color(red){魔力の結晶};|ディレイキャンセル&br;ファイアボール&br;ハウルアウト&br;ガトリングブレイズ|アンデッド&br;獲得EXP&br;～108:34,320&br;109～:85,800|
+
+***機械系 [#Machine]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Cyclone.jpg,nolink,100x100);|サイクロン|105|51,580|%%7,000/7,250%%&br;10,000/11,250|BGCOLOR(#ffdddd):火|NonActive|【クジラ岩】&br;歪淵･迷&br;幻淵&br;歪淵･骸&br;深淵|ナット&br;異界の歯車&br;&color(red){運命の車輪};&br;&color(red){嘆きの懐中時計(PT)};&br;&color(slateblue){超絶水分補給水};|旋風剣&br;ファランクス&br;ディビリテイト||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/deathscythe.jpg,nolink,100x100);|デスサイズ|111|62,580|7,560/7,850|無？|NonActive|【クジラ岩】&br;歪淵･艦&br;深淵|銀の部品&br;異界の歯車&br;運命の車輪&br;&color(orange){運命の車輪(PT)};&br;&color(red){嘆きの懐中時計(PT)};&br;超絶水分補給水|ナッシングネス&br;つむじ風&br;グラビティフォール&br;一閃||
+
+//***岩系 [#Rock]
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+//|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c

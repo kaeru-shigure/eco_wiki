@@ -1,0 +1,92 @@
+# Skill/Bountyhunter
+
+#author("2016-10-21T10:51:33+00:00","","")
+[[ソードマン >Skill/SwordMan]]([[詳細>Skill/SwordMan/Explanation]])/[[ ブレイドマスター >Skill/BladeMaster]]([[詳細>Skill/BladeMaster/Explanation]])/ ''バウンティーハンター'' ([[詳細>Skill/Bountyhunter/Explanation]])/[[ グラディエイター >Skill/Gladiator]]([[詳細>Skill/Gladiator/Explanation]])
+* バウンティハンター[#e6dd09be]
+//ref(http://eco.acronia.net/img/gamedb_info/eco/skill/BountyHunter.jpg,nolink,right,around,zoom);
+#contents
+
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ソードマンの[[''外部スレッド''>Skill/SwordMan#p81644f8]]を参照
+
+** 特徴[#xe16d030]
+-多彩な近接攻撃スキルを繰り出し、前線で活躍します。
+-対人戦をもっとも得意とし、対戦相手を弱体化させる技に長けます。　　　　　　
+-''HP係数：2.90''、''MP係数：1.25''、''SP係数：1.80''
+
+-[[新ジョブイラスト（公式サイト）>http://www.econline.jp/data/job/2nd-tech/job_f01.html]]
+-[[旧ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/BountyHunter.jpg]]
+
+
+***ソードマン系職相関表 [#t4a0f5d6]
+
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ソードマン>Skill/SwordMan]]|⇒|[[ブレイドマスター>Skill/BladeMaster]]|⇔|バウンティーハンター|⇒|[[グラディエイター>Skill/Gladiator]]|
+
+** 転職方法[#u042195a]
+-1回目：セージマスターから[[禁断の書>http://eco.acronia.net/itemdb/#id=779]]を購入し(100k，使い捨て)，
+　　　　もう一度セージマスターに話しかけたらスイッチするか聞かれるので，
+　　　　承諾するとスイッチ．この際，持ち越し(リザーブ)スキルを選択するのを忘れずに
+  ※禁断の書を持って話しかければよい。自キャラでの購入フラグは不要。
+
+-2回目以降：禁断の書を使用する．%%その際，転職元のジョブレベル/5だけ，転職先のジョブレベルが下がる%%
+　　　　　　%%[[記憶の砂>http://eco.acronia.net/itemdb/#id=638]]があれば，一個に付き1レベルの減衰を無効化できる．%%
+--[[2016/09/29アップデート>http://econline.gungho.jp/news/play/update/160929_update.html]]で、転職先のジョブレベルは下がらなくなりました。
+転職について詳しくは[[二次職テクニカルジョブへの転職>Job/Change#bc5dea19]]を参照してください。
+
+--ジョブスイッチするときにセージマスターからスイッチについての説明を受けると，
+以降は禁断の書を使うだけでスイッチ可能．
+話を聞いてなかったら使ってもスイッチできず，一回目と同じ手順を踏む必要がある
+**&aname(skill); スキル早見表 [#skill_summary]
+
+#include(./Table,notitle)
+
+** スキル詳細 [#r97b20b4]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){”[[''バウンティーハンター・スキル考察''>./Explanation]]”};
+**Job Lvによるステータス補正[#l9465987]
+
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|7|7|3|4|7|0|~26|12|12|6|8|''&COLOR(red){14};''|1|
+|~2|7|7|3|4|''&COLOR(red){8};''|0|~27|''&COLOR(red){13};''|''&COLOR(red){13};''|6|8|14|1|
+|~3|7|7|3|4|8|0|~28|13|13|6|8|14|1|
+|~4|7|7|''&COLOR(red){4};''|''&COLOR(red){5};''|8|0|~29|13|13|''&COLOR(red){7};''|8|14|1|
+|~5|''&COLOR(red){8};''|''&COLOR(red){8};''|4|5|8|0|~30|13|13|7|''&COLOR(red){9};''|''&COLOR(red){15};''|1|
+|~6|8|8|4|5|''&COLOR(red){9};''|0|~31|''&COLOR(red){14};''|''&COLOR(red){14};''|7|9|15|1|
+|~7|8|8|4|5|9|0|~32|14|14|7|9|15|1|
+|~8|8|8|4|5|9|0|~33|14|14|7|9|15|1|
+|~9|8|8|4|5|9|0|~34|14|14|7|9|''&COLOR(red){16};''|1|
+|~10|''&COLOR(red){9};''|''&COLOR(red){9};''|4|''&COLOR(red){6};''|''&COLOR(red){10};''|0|~35|14|14|7|9|16|1|
+|~11|9|9|4|6|10|0|~36|''&COLOR(red){15};''|''&COLOR(red){15};''|7|9|16|1|
+|~12|9|9|''&color(red){5};''|6|10|0|~37|15|15|''&COLOR(red){8};''|''&COLOR(red){10};''|16|1|
+|~13|9|9|5|6|10|0|~38|15|15|8|10|''&COLOR(red){17};''|1|
+|~14|''&COLOR(red){10};''|''&COLOR(red){10};''|5|6|''&COLOR(red){11};''|0|~39|15|15|8|10|17|1|
+|~15|10|10|5|6|11|0|~40|''&COLOR(red){16};''|''&COLOR(red){16};''|8|10|17|1|
+|~16|10|10|5|6|11|0|~41|16|16|8|10|17|1|
+|~17|10|10|5|''&COLOR(red){7};''|11|0|~42|16|16|8|10|''&COLOR(red){18};''|1|
+|~18|''&COLOR(red){11};''|''&COLOR(red){11};''|5|7|''&COLOR(red){12};''|0|~43|16|16|8|10|18|1|
+|~19|11|11|5|7|12|0|~44|''&COLOR(red){17};''|''&COLOR(red){17};''|8|''&COLOR(red){11};''|18|1|
+|~20|11|11|''&color(red){6};''|7|12|''&color(red){1};''|~45|17|17|''&COLOR(red){9};''|11|18|1|
+|~21|11|11|6|7|12|1|~46|17|17|9|11|''&COLOR(red){19};''|1|
+|~22|11|11|6|7|''&color(red){13};''|1|~47|17|17|9|11|19|1|
+|~23|''&COLOR(red){12};''|''&COLOR(red){12};''|6|7|13|1|~48|17|17|9|11|19|1|
+|~24|12|12|6|''&COLOR(red){8};''|13|1|~49|''&COLOR(red){18};''|''&COLOR(red){18};''|9|11|19|1|
+|~25|12|12|6|8|13|1|~50|18|18|9|''&COLOR(red){12};''|''&COLOR(red){20};''|1|
+
+
+-補正率は[[ステータス>Status#jobrev]]を参照
+
+//CENTER:補正値＝FLOOR((JobLV+30) * 補正率)
+//CENTER:補正率一覧（暫定:06/08/31）
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~STR|23%|~DEX|23%|~INT|12%|
+//|~VIT|15%|~AGI|25%|~MAG|2%|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#p6af7878]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/SwordMan#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

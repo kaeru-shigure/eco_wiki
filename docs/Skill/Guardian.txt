@@ -1,0 +1,107 @@
+# Skill/Guardian
+
+[[フェンサー >Skill/Fencer]]([[詳細>Skill/Fencer/スキル詳細]])/ [[ナイト >Skill/Knight]] ([[詳細>Skill/Knight/スキル詳細]])/ [[ダークストーカー >Skill/Darkstalker]]([[詳細>Skill/Darkstalker/Explanation]])/ ''ガーディアン'' ([[詳細>Skill/Guardian/Explanation]])
+
+*ガーディアン [#w3f37fa2]
+//http://www.econline.jp/data/job/3rd-chronicle/job_c02.html
+#contents
+
+→[[スキル詳細>./Explanation]]
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+フェンサーの[[''外部スレッド''>Skill/Fencer#u60a4b9e]]を参照
+
+#clear
+** 特徴 [#a21c90bb]
+公式サイト：[[ガーディアン:http://www.econline.jp/data/job/3rd-chronicle/job_c02.html]]
+-荒れ狂う脅威から人々を守る、最後の壁となります。
+-レイピア、ランス系武器の威力をさらに向上させます。
+-ゆるぎないその堅固さは、長く激しい戦いをくぐり抜けるのに必須となるでしょう。
+-''HP係数：6.60''、''MP係数：1.61''、''SP係数：2.82''
+
+以上が公式の見解であるが、実際は以下の通りである。
+-HPが異常に高く、両除算DEFを50にして過去のパッシブスキルを併用することで文字通り鉄壁となる。
+-バランスの取れた攻撃力と防御性能を誇り、単独での戦闘性能が高い。
+-DEF計算が見直されたため、「長く激しい戦いをくぐり抜ける」「人々を脅威から守る壁」のキャッチコピーに相応しい防御性能を誇るようになった。
+--ただし、PTプレイ時はヘイトの関係で肝心の敵を引きつけられる能力が足りず、足止め能力も二次スキル止まりのため、実際に脅威から守る壁になるにはそれなりの工夫が必要。
+-状態異常や憑依解除の完全防御など、特殊な防御スキルを習得できる。
+-ほぼすべてのスキルに憑依中使用禁止の制限がかかっている。能力を最大限に発揮するには外で戦う事が必須になり、憑依しての支援にはとことん向かない。
+-スキルの構成上、光属性の敵には無力な事も多く、ダメージ設置が多い場所では思うような力を発揮することもできない。
+
+**フェンサー系職相関表 [#mbb6535d]
+
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[フェンサー>Skill/Fencer]]|⇒|[[ナイト>Skill/Knight]]|⇔|[[ダークストーカー>Skill/Darkstalker]]|⇒|ガーディアン|
+
+** 転職方法 [#q109f989]
+
+[[三次クロニクル職共通ルート>Job/Change/Chronicle#kyoutuu]]
+
+以後は、各職個別ルート
+武神を倒す
+力の解放と上位転生を行う を選択
+
+以上で、転職までの長い道のりが終了である。
+
+ベース・ジョブ共に１に戻り、種族と職業は上位になり、アバターも入手できる。
+また、アバターの調整も、この場所で何時でも変更できる
+&br;&color(red){''上位転生時のレベルによって変更箇所が増える。''};
+レベル110で上位転生すれば全ての箇所が選択可能
+** スキル早見表とスキル詳細 [#z269713b]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#xb9e7fc9]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|8|8|2|11|6|3||~26|COLOR(red):BGCOLOR(#EDEDFF):''15''|14|4|COLOR(red):BGCOLOR(#EDEDFF):''21''|11|5|
+|~2|8|8|2|COLOR(red):BGCOLOR(#EDEDFF):''12''|6|3||~27|15|14|4|21|11|5|
+|~3|8|8|2|12|6|3||~28|15|COLOR(red):BGCOLOR(#EDEDFF):''15''|4|COLOR(red):BGCOLOR(#EDEDFF):''22''|COLOR(red):BGCOLOR(#EDEDFF):''12''|5|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''9''|8|2|12|COLOR(red):BGCOLOR(#EDEDFF):''7''|3||~29|15|15|4|22|12|5|
+|~5|9|COLOR(red):BGCOLOR(#EDEDFF):''9''|2|COLOR(red):BGCOLOR(#EDEDFF):''13''|7|3||~30|COLOR(red):BGCOLOR(#EDEDFF):''16''|15|4|22|12|COLOR(red):BGCOLOR(#EDEDFF):''6''|
+|~6|9|9|2|13|7|3||~31|16|15|4|COLOR(red):BGCOLOR(#EDEDFF):''23''|12|6|
+|~7|9|9|2|COLOR(red):BGCOLOR(#EDEDFF):''14''|7|3||~32|16|COLOR(red):BGCOLOR(#EDEDFF):''16''|4|23|COLOR(red):BGCOLOR(#EDEDFF):''13''|6|
+|~8|COLOR(red):BGCOLOR(#EDEDFF):''10''|9|COLOR(red):BGCOLOR(#EDEDFF):''3''|14|7|3||~33|COLOR(red):BGCOLOR(#EDEDFF):''17''|16|COLOR(red):BGCOLOR(#EDEDFF):''5''|23|13|6|
+|~9|10|COLOR(red):BGCOLOR(#EDEDFF):''10''|3|14|COLOR(red):BGCOLOR(#EDEDFF):''8''|3||~34|17|16|5|COLOR(red):BGCOLOR(#EDEDFF):''24''|13|6|
+|~10|10|10|3|COLOR(red):BGCOLOR(#EDEDFF):''15''|8|COLOR(red):BGCOLOR(#EDEDFF):''4''||~35|17|16|5|24|13|6|
+|~11|COLOR(red):BGCOLOR(#EDEDFF):''11''|10|3|15|8|4||~36|17|COLOR(red):BGCOLOR(#EDEDFF):''17''|5|COLOR(red):BGCOLOR(#EDEDFF):''25''|13|6|
+|~12|11|10|3|15|8|4||~37|COLOR(red):BGCOLOR(#EDEDFF):''18''|17|5|25|COLOR(red):BGCOLOR(#EDEDFF):''14''|6|
+|~13|11|COLOR(red):BGCOLOR(#EDEDFF):''11''|3|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''9''|4||~38|18|17|5|25|14|6|
+|~14|11|11|3|16|9|4||~39|18|17|5|COLOR(red):BGCOLOR(#EDEDFF):''26''|14|6|
+|~15|COLOR(red):BGCOLOR(#EDEDFF):''12''|11|3|COLOR(red):BGCOLOR(#EDEDFF):''17''|9|4||~40|18|COLOR(red):BGCOLOR(#EDEDFF):''18''|5|26|14|COLOR(red):BGCOLOR(#EDEDFF):''7''|
+|~16|12|11|3|17|9|4||~41|COLOR(red):BGCOLOR(#EDEDFF):''19''|18|5|26|14|7|
+|~17|12|COLOR(red):BGCOLOR(#EDEDFF):''12''|3|17|9|4||~42|19|18|5|COLOR(red):BGCOLOR(#EDEDFF):''27''|COLOR(red):BGCOLOR(#EDEDFF):''15''|7|
+|~18|12|12|3|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''10''|4||~43|19|18|5|27|15|7|
+|~19|COLOR(red):BGCOLOR(#EDEDFF):''13''|12|3|18|10|4||~44|19|COLOR(red):BGCOLOR(#EDEDFF):''19''|5|COLOR(red):BGCOLOR(#EDEDFF):''28''|15|7|
+|~20|13|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''4''|COLOR(red):BGCOLOR(#EDEDFF):''19''|10|COLOR(red):BGCOLOR(#EDEDFF):''5''||~45|COLOR(red):BGCOLOR(#EDEDFF):''20''|19|COLOR(red):BGCOLOR(#EDEDFF):''6''|28|15|7|
+|~21|13|13|4|19|10|5||~46|20|19|6|28|15|7|
+|~22|COLOR(red):BGCOLOR(#EDEDFF):''14''|13|4|19|10|5||~47|20|COLOR(red):BGCOLOR(#EDEDFF):''20''|6|COLOR(red):BGCOLOR(#EDEDFF):''29''|COLOR(red):BGCOLOR(#EDEDFF):''16''|7|
+|~23|14|13|4|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''11''|5||~48|COLOR(red):BGCOLOR(#EDEDFF):''21''|20|6|29|16|7|
+|~24|14|COLOR(red):BGCOLOR(#EDEDFF):''14''|4|20|11|5||~49|21|20|6|COLOR(red):BGCOLOR(#EDEDFF):''30''|16|7|
+|~25|14|14|4|20|11|5||~50|21|20|6|30|16|COLOR(red):BGCOLOR(#EDEDFF):''8''|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+//AGI補正メモ１から6,7,7,8,8,8,8,9,9,9
+//このページだけあっても仕方ないので一旦コメントアウト
+
+//** デュアルジョブ考察 [#jb1fe055]
+//-ソードマン系
+//--物理攻撃力補完向き。剣聖＋一閃によって高い物理DPSを獲得でき、ついでDEFコミュで得た高い右DEFを鬼神の構えでATKに変えたり、エクヴィリーでダメージ平均値を上げるなどもできる。
+//--不屈の闘士＋サヴァイブによって持ち前の生存力も強化可能。特に高いHPを持つフェンサー系とは非常に相性がいい。またその高い生存力を活かしてプレッシャー要員としても重宝するだろう。
+//--攻撃面を強化できたとはいえ、結局スペシャルアビリティや自己ブーストの関係で攻撃力でF系最下位の座は脱出できていない。また剣聖＋一閃も剣装備で無くてはならないため、剣ガーディアンに限定されるのが最大の欠点。
+
+//-ウァテス系
+//--支援特化向き。各種支援スキルによって自他を強化し、持ち前の持久力で囮と支援要因を兼任する。
+//--火力強化系が殆ど無いため、F系最低の物理攻撃力と相まってアタッカーは諦めるのが無難。素直にSTR分をMAGに振りつつブロッカー＆支援要因に専念したい。
+//--一部のスキルが楽器限定のため、火力支援を兼ねる場合は頻繁な武器切り替えを必要とする。
+
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#mf168786]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Fencer#u60a4b9e]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

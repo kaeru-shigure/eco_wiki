@@ -1,0 +1,105 @@
+# Dungeon/AbolitionColliery
+
+#author("2017-04-06T17:59:40+00:00","","")
+*廃炭鉱 [#w898798b]
+
+-[[ダンジョン>Dungeon]]
+
+#contents
+
+[[次元安定石>http://eco.acronia.net/itemdb/#id=1119]]を持ったままダンジョンに入って''使う''を選択した場合には[[ディメンション廃炭鉱>Dungeon/DimensionAbolitionColliery]]（適正レベル80～90）に入ることができる。
+
+**廃炭鉱B1F [#aa4caa9c]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/AbolitionCollieryB1F.png,nolink,127x127,廃炭鉱B1F);
+-隣接マップ：[[軍艦島>Kariba#WarshipisLand]]、廃炭鉱B2F
+-属性：土40
+
+-出現モンスター
+--[[タランチュラ>MobInsect#Kumo]]（アクティブ）
+　(Lv27/土)[HP:840][%%100/80%%→222/162]
+--[[オイリー>MobPlant#Pururu]]（リンク）
+　(Lv28/火)[HP:380][%%94/86%%→226/209]
+--[[カットバット>MobBird#Dracky]]（アクティブ）
+　(Lv28/風)[HP:410][%%130/70%%→250/180]
+--[[クリムゾンチーフ>MobAnimal#Bow]]（アクティブ）
+　(Lv28/土)[HP:420][%%105/95%%→214/170]
+--[[モーニングスター>MobAnimal#A-chin]]（アクティブ）
+　(Lv32/土)[HP:540][%%285/165%%→512/344]
+--[[キラービースト>MobAnimal#Bear]]（アクティブ）
+　(Lv37/土)[HP:550][%%300/300%%→720/720]
+
+-自然物
+--[[木箱３>kihako#t70b2e55]]
+--[[宝箱５>takarahako#t5]]
+--[[コンテナ２>kontena#y479asd1]]
+--[[大壷>Nature#g8b14895]]
+
+**廃炭鉱B2F [#b28ac026]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/AbolitionCollieryB2F.png,nolink,127x127,廃炭鉱B2F);
+-隣接マップ：廃炭鉱B1F、廃炭鉱B3F
+-属性：土50
+
+-出現モンスター
+--[[タランチュラ>MobInsect#Kumo]]（アクティブ）
+　(Lv27/土)[HP:840][%%100/80%%→222/162]
+--[[クリムゾンチーフ>MobAnimal#Bow]]（アクティブ）
+　(Lv28/土)[HP:420][%%105/95%%→214/170]
+--[[メタルアーチン>MobAnimal#A-Chin]]
+　(Lv30/無)[HP:250][%%160/140%%→288/252]
+--[[ジルコンII>MobMagic#Beryl]]（リンク）
+　(Lv34/闇)[HP:440][%%180/320%%→648/480]
+--[[ガブル>MobAnimal#Lowkey]]（アクティブ）
+　(Lv36/火)[HP:480][%%330/220%%→554/396]
+--[[レッドビースト>MobAnimal#Bear]]（アクティブ）
+　(Lv37/火)[HP:470][%%360/240%%→648/432]
+--[[キラービースト>MobAnimal#Bear]]（アクティブ）
+　(Lv37/土)[HP:550][%%300/300%%→720/720]
+--[[メタリカ>MobPlant#Pururu]]（アクティブ）
+　(Lv40/無)[HP:25][777/77]
+--[[ブラックベア>MobAnimal#Bear]]（アクティブ）
+　(Lv41/闇)[HP:650][%%580/260%%→1183/624]
+
+-自然物
+--[[鉱石のかたまり>Nature#fd1df99d]]
+--[[木箱３>kihako#t70b2e55]]
+--[[宝箱５>takarahako#t5]]
+--[[コンテナ２>kontena#y479asd1]]
+--[[大壷>Nature#g8b14895]]
+
+**廃炭鉱B3F [#c41e48e1]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/AbolitionCollieryB3F.png,nolink,128x128,廃炭鉱B3F);
+-隣接マップ：廃炭鉱B2F
+-属性：土60
+-常時HP減少（毒、5秒毎にHPが1減少）
+
+-出現モンスター
+--[[メタルアーチン>MobAnimal#A-Chin]]
+　(Lv30/無)[HP:250][%%160/140%%→288/252]
+--[[ジルコンII>MobMagic#Beryl]]（リンク）
+　(Lv34/闇)[HP:440][%%180/320%%→648/480]
+--[[ガブル>MobAnimal#Lowkey]]（アクティブ）
+　(Lv36/火)[HP:480][%%330/220%%→554/396]
+--[[キラービースト>MobAnimal#Bear]]（アクティブ）
+　(Lv37/土)[HP:550][%%300/300%%→720/720]
+--[[ダークベア>MobAnimal#Bear]]（アクティブ）
+　(Lv39/闇)[HP:2000][2420/330]
+--[[メタリカ>MobPlant#Pururu]]（アクティブ）
+　(Lv40/無)[HP:25][777/77]
+--[[ブラックベア>MobAnimal#Bear]]（アクティブ）
+　(Lv41/闇)[HP:650][%%580/260%%→1183/624]
+--[[最強の魔獣>MobAnimal#Bear]]（BOSS、取り巻き：ダークベア、周期：30～90分、出現ポイント：マップ北東部）
+　(Lv43/土)[HP:18000][43100/12900]
+
+-自然物
+--[[鉱石のかたまり>Nature#fd1df99d]]
+--[[木箱３>kihako#t70b2e55]]
+--[[宝箱５>takarahako#t5]]
+--[[コンテナ２>kontena#y479asd1]]
+--[[大壷>Nature#g8b14895]]
+
+-NPC
+--ラインハルト
+
+**情報提供・コメント欄 [#d207c10b]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Tutorial#p39618b7]]にどうぞ。~
+#pcomment

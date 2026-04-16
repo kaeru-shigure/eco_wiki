@@ -1,0 +1,17 @@
+# ドロップ率検証/バルル系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***バルル [#nbb649e1]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||バルルの革切れ|骨|上等な肉|破れた魔法書|バルルの革|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（128体）|53個（41.41％）|50個（39.06％）|23個（17.97％）|2個（1.56％）|0個（0.00％）|
+|知識あり（500体）|213個（42.60％）|158個（31.60％）|120個（24.00％）|7個（1.40％）|2個（0.40％）|
+
+***肝っ玉母ちゃん [#c14f24cf]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||バルルの革（ＰＴ）|上等な肉（ＰＴ）|サーロイン（ＰＴ）|するどい牙|スノーバルルの革|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（40体）|11個（27.50％）|8個（20.00％）|8個（20.00％）|11個（27.50％）|2個（5.00％）|

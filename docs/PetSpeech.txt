@@ -1,0 +1,605 @@
+# PetSpeech
+
+#author("2018-12-03T12:47:13+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+* ペット・背負い魔の台詞 [#m25f6a06]
+#contents
+
+**台詞をいう行動と状況一覧 [#b9226e37]
+ペット・背負い魔の中には、宿主の行動と状況に応じた台詞をいうものがあります。(他にあればコメントにお願いします。)
+参考：[[ご当地タイニー生産計画:http://econline.gungho.jp/special/local_tiny2012/]]
+
+-ログイン時
+-装備時
+-戦闘時
+-囲まれた時
+-状態異常時
+-戦闘不能時
+-レベルアップした時
+-パーティーに参加した時
+-パーティーから抜けた時
+-ダンジョンでワープした時
+-飛空庭(自)に入った時(装備中)
+-飛空庭(自)から出る時(装備中)
+-飛空庭(他)に入った時(装備中)
+-飛空庭(他)から出る時(装備中)
+-飛空庭(自)の室内に設置した時
+-飛空庭(自)の屋外に設置した時
+-飛空庭(自)で話しかけた時
+-飛空庭(自)に(自)が入った時(屋外に設置中)
+-飛空庭(自)から(自)が出る時(屋外に設置中)
+-飛空庭(自)の家に(自)が入った時(室内に設置中)
+-飛空庭(自)の家から(自)が出た時(屋外に設置中)
+-飛空庭(自)で(他)が話しかけた時
+-飛空庭(自)に(他)が入った時(屋外に設置中)
+-飛空庭(自)から(他)が出る時(屋外に設置中)
+-飛空庭(自)の家に(他)が来た時(室内に設置中)
+-飛空庭(自)の家から(他)が出た時(屋外に設置中)
+-憑依した時
+-憑依された時
+-CAPA/PAYLオーバーした時
+-ログアウトする時
+-ターン系(/turn1、/turn2、/joy、/yahoo) 
+-座り(座る、/chair) 
+-休憩(/relax、/break) 
+-土下座(/dogeza) 
+-めげる(/disappoint、/orz) 
+-挨拶(/bow) 
+-他(未確認)
+--狂戦士時(=状態異常時?)
+
+信頼度で追加される行動と状況一覧
+
+-ログイン時
+-信頼度、色変化時
+-おやつ使用時
+-食事ができるようになった時
+-パートナーに装備品を装備時
+-パートナー負傷中
+-パートナー負傷回復時
+-かんたんAI攻撃重視設定時
+-かんたんAI主人重視設定時
+-かんたんAI追従設定時
+-かんたんAIカスタム設定時
+
+
+
+
+一部のペットを除き、以下の行動を連続で行うことによって意図的に喋りまくらせることが出来ます。
+-ターン系(/turn1、/turn2、/joy、/yahoo) ＝ ''Alt + 4・8・9・0''
+-土下座(/dogeza) ＝ ''Alt + W''
+-座り(座る、/chair) ＝ ''Alt + 6・E''
+-休憩(/relax、/break) ＝ ''Alt + 7・R''
+-挨拶(/bow) ＝ ''Alt + I''
+-めげる(/disappoint) ＝ ''Alt + L''
+
+**パートナー [#pet]
+-[[シャボタン>PetSpeech/Syabotan]]
+-[[タチコマ>PetSpeech/Taticoma]]
+-[[世界征服用ロボ>PetSpeech/SekaiSeifukuRobo]]
+-[[傭兵>PetSpeech/Mercenary]]
+-[[おてつだいミルフィ>PetSpeech/Mirufi]]
+-[[みんなのマネージャー>PetSpeech/Manager]]
+-[[みんなのナース、みんなの新米ナース>PetSpeech/Nnrse]]
+-[[エミリーのメイドさん>PetSpeech/EmilyMaid]]
+-[[みんなのアシスタント>PetSpeech/Assistant]]
+-[[スリーピー>PetSpeech/Sleepy]]
+-[[モーモー>PetSpeech/Mo-Mo-]]
+-[[ケット・シー>PetSpeech/CaitSith]]
+-[[狐狸招来>PetSpeech/Korisyourai]]
+-[[カルティ>PetSpeech/Karuty]]
+-[[キュゥべえ>PetSpeech/Kyuubee]]
+-[[アワりん>PetSpeech/awarin]]
+-[[ワルりん>PetSpeech/warurin]]
+-[[ウサロイド>PetSpeech/Usaroido]]
+-[[お助けユーク>PetSpeech/Yurk]]
+-[[プリンセスヴァルキリー>PetSpeech/Valkyrie]]
+-[[トモダチ・コランダム>PetSpeech/Tomodachicorundum]]
+-[[時計うさぎ>PetSpeech/tokeiusagi]]
+-[[しゅごキャラヨル>PetSpeech/SyugoCharaYoru]]
+-[[スフィンクス>PetSpeech/Sphinx]]
+-[[スファル・スフィンクス>PetSpeech/SphalSphinx]]
+-[[現世の赤龍喚士・ソニア>PetSpeech/Sonia]]
+-[[ラム＆シルフィード>PetSpeech/ramushirufido]]
+-[[レイミ>PetSpeech/Reimi]]
+-[[リーン>PetSpeech/Rien]]
+-[[サボッテン>PetSpeech/Sabotten]]
+-[[聖王アーサー>PetSpeech/seiou]]
+-[[ハスター>PetSpeech/Hastur]]
+-[[ウィッカ・アラディア>PetSpeech/WiccaAradia]]
+
+**タイニー [#pet]
+-[[ジェントルタイニー>PetSpeech/GentleTiny]]
+-[[探偵タイニー>PetSpeech/TanteiTiny]]
+-[[ノーブルタイニー>PetSpeech/NobleTiny]]
+-[[７ｔｈアニバタイニー>PetSpeech/seventhanniversary]]
+-[[１０ｔｈアニバタイニー>PetSpeech/tenthanniversary]]
+-[[おてつだいタイニー（エンジェル）>PetSpeech/angeltiny]]
+-[[デリバリタイニー>PetSpeech/deliverytiny]]
+-[[ご当地タイニー（中部）>PetSpeech/gotouchichubu]]
+-[[ご当地タイニー（中国・四国）>PetSpeech/gotouchichugoku]]
+-[[ご当地タイニー（関東）>PetSpeech/gotouchikanto]]
+-[[ご当地タイニー（近畿）>PetSpeech/gotouchikinki]]
+-[[ご当地タイニー（九州・沖縄）>PetSpeech/gotouchikyusyu]]
+-[[ご当地タイニー（北海道・東北）>PetSpeech/gotouchitouhoku]]
+
+**ネコマタ [#nekomata]
+-[[ネコマタ（桃）>PetSpeech/Nekomata/Momo]]
+-[[ネコマタ（緑）、（新緑）>PetSpeech/Nekomata/Midori]]
+-[[ネコマタ（藍）>PetSpeech/Nekomata/Ai]]
+-[[ネコマタ（山吹）>PetSpeech/Nekomata/Yamabuki]]
+-[[ネコマタ（菫）>PetSpeech/Nekomata/Sumire]]
+-[[ネコマタ（茜）>PetSpeech/Nekomata/Akane]]
+-[[ネコマタ（杏）>PetSpeech/Nekomata/Anzu]]
+-[[ネコマタ（空）>PetSpeech/Nekomata/Sora]]
+-[[ネコマタ（胡桃・若菜）>PetSpeech/Nekomata/KurumiWakana]]
+-[[ネコマタ（白）>PetSpeech/Nekomata/Siro]]
+-[[ネコマタ（黒）>PetSpeech/Nekomata/Kuro]]
+-[[ネコマタ（ミケ）>PetSpeech/Nekomata/Mike]]
+-[[ネコマタ（トラ）>PetSpeech/Nekomata/Tora]]
+-[[ネコマタ（アリス）>PetSpeech/Nekomata/Alice]]
+-[[ネコマタ（フリル）>PetSpeech/Nekomata/Frill]]
+
+**オートマタ [#automata]
+-[[オートマタ（アメジスト）>PetSpeech/Automata/Amethyst]]
+-[[オートマタ（ルビー）>PetSpeech/Automata/Ruby]]
+-[[オートマタ（トパーズ）>PetSpeech/Automata/Topaz]]
+-[[オートマタ（サファイア）>PetSpeech/Automata/Sapphire]]
+-[[オートマタ（ダイヤモンド）>PetSpeech/Automata/Diamond]]
+
+**武神 [#busin]
+-[[カムイ>PetSpeech/Busin/Kamui]]
+-[[リゼル>PetSpeech/Busin/Rizeru]]
+-[[ヨシュア>PetSpeech/Busin/Yosyua]]
+-[[テリア>PetSpeech/Busin/Teria]]
+-[[キーノ>PetSpeech/Busin/Keno]]
+-[[ソレイユ>PetSpeech/Busin/Soreiyu]]
+-[[グリヴァー>PetSpeech/Busin/Griever]]
+-[[レネット>PetSpeech/Busin/Renet]]
+-[[フロール>PetSpeech/Busin/Furol]]
+-[[ツバキ>PetSpeech/Busin/Tsubaki]]
+-[[カノン>PetSpeech/Busin/Kanon]]
+-[[プリーシュ>PetSpeech/Busin/Pulishu]]
+
+**守護魔 [#Syugoma]
+-[[守護魔・ムツキ>PetSpeech/Muthuki]]
+-[[守護魔・キサラギ>PetSpeech/Kisaragi]]
+-[[守護魔・ヤヨイ>PetSpeech/Yayoi]]
+-[[守護魔・ウヅキ>PetSpeech/Uduki]]
+-[[守護魔・サツキ>PetSpeech/Satsuki]]
+-[[守護魔・ミナヅキ>PetSpeech/Minaduki]]
+-[[守護魔・フミツキ>PetSpeech/Fumitsuki]]
+-[[守護魔・ハヅキ>PetSpeech/Haduki]]
+-[[守護魔・キクヅキ>PetSpeech/Kikuduki]]
+-[[守護魔・カミア・カンナ>PetSpeech/KamiaKanna]]
+-[[守護魔・シモツキ>PetSpeech/Shimotsuki]]
+-[[守護魔・ロウゲツ>PetSpeech/Rougetsu]]
+-[[守護魔・ウル>PetSpeech/Uru]]
+-[[守護魔・ルゥ>PetSpeech/Ruxu]]
+-[[守護魔・ウルゥ>PetSpeech/Uruxu]]
+-[[守護魔・カナデ>PetSpeech/Kanade]]
+
+**守護魔ハート [#HaertmateSyugoma]
+-[[ムツキのシャーマンハート（朱）>PetSpeech/Muthuki]]
+-[[キサラギの盗賊ハート>PetSpeech/Kisaragi]]
+-[[ヤヨイのカンフーハート>PetSpeech/Yayoi]]
+-[[ウヅキのチルドレンハート>PetSpeech/Uduki]]
+-[[サツキのフェアリーハート>PetSpeech/Satsuki]]
+-[[ミナヅキのエレガントハート>PetSpeech/Minaduki]]
+-[[フミツキのぷりてぃハート>PetSpeech/Fumitsuki]]
+-[[ハヅキのサイバーハート>PetSpeech/Haduki]]
+-[[キクヅキの守護魔ハート>PetSpeech/Kikuduki]]
+-[[ナガツキの守護神ハート>PetSpeech/Nagatsuki]]
+-[[カミアのエクソシストハート>PetSpeech/KamiaKanna]]
+-[[カンナのエクソシストハート>PetSpeech/KamiaKanna]]
+-[[シモツキのフェイブルハート>PetSpeech/Shimotsuki]]
+-[[ロウゲツのフェンサーハート>PetSpeech/Rougetsu]]
+-[[カナデのメモリーハート>PetSpeech/Kanade]]
+
+**ハートメイト [#Haertmate]
+-[[エミル狩人のハート>PetSpeech/EmilHeart]]
+-[[ルルイエのあまえんぼハート>PetSpeech/RlyehHeart]]
+-[[マーシャのくのいちハート>PetSpeech/MarciaHeart]]
+-[[タイタスのなごやかハート>PetSpeech/TaitasuHeart]]
+-[[ティタの冒険ハート>PetSpeech/ThitaHeart]]
+-[[ベリアルの守護ハート>PetSpeech/BeriaruHeart]]
+-[[ルクスのエスコートハート>PetSpeech/luxHeart]]
+-[[リリのワルキューレハート>PetSpeech/LiliHeartValkyrie]]
+-[[ルルイエの魔女っ子ハート>PetSpeech/RlyehHeartMajyo]]
+-[[ティタのお姫さまハート>PetSpeech/ThitaHeart2]]
+-[[マーシャのマーチングハート>PetSpeech/MarciaHeart2]]
+
+**アルマ・モンスター [#Almamonster]
+
+第１期アルマ（2012年）
+-[[ダークフェザー・アルマ>PetSpeech/DarkFeatherAlma]]
+-[[バウ・アルマ>PetSpeech/BauAlma]]
+-[[シャボタン・アルマ>PetSpeech/SyabotanAlma]]
+-[[ローキー・アルマ>PetSpeech/LowkeyAlma]]
+-[[バルル・アルマ>PetSpeech/BaruruAlma]]
+-[[シーホース・アルマ>PetSpeech/SeahorseAlma]]
+-[[ペペン・アルマ>PetSpeech/PepenAlma]]
+-[[サラマンダー・アルマ>PetSpeech/SalamanderAlma]]
+-[[ミニー・ドゥ・アルマ>PetSpeech/MinnieDoeAlma]]
+-[[白い使い魔・アルマ>PetSpeech/WhiteFamiliarAlma]]
+-[[オートメディック・アルマ >PetSpeech/AutoMedicAlma]]
+-[[デス・アルマ >PetSpeech/DeathAlma]]
+
+第２期アルマ（2013年）
+-[[プルル・アルマ >PetSpeech/PururuAlma]]
+-[[タイニー・アルマ>PetSpeech/TinyAlma]]
+-[[ダンプティー・アルマ>PetSpeech/DumptyAlma]]
+-[[エンジェルフェザー・アルマ>PetSpeech/AngelFeatherAlma]]
+-[[モーモー・アルマ>PetSpeech/MouMouAlma]]
+-[[ネクロアーマー・アルマ>PetSpeech/NecroArmorAlma]]
+-[[アンブレラ・アルマ>PetSpeech/UmbrellaAlma]]
+-[[ココッコー･アルマ>PetSpeech/KokokoAlma]]
+-[[タランチュラ･アルマ>PetSpeech/TarantulaAlma]]
+-[[ベア・アルマ>PetSpeech/Alma/BearAlma]]
+-[[フライフィッシュ・アルマ>PetSpeech/Alma/FlyFishAlma]]
+-[[テンタクル・アルマ>PetSpeech/Alma/TentacleAlma]]
+-[[マミー・アルマ>PetSpeech/Alma/MummyAlma]]
+-[[ドラッキー・アルマ>PetSpeech/Alma/DrackyAlma]]
+-[[ダークフェザー・アルマ(BABY)>PetSpeech/DarkFeatherAlma]]
+-[[ブーフ・アルマ>PetSpeech/Alma/BuchAlma]]
+
+第３期アルマ（2015年）
+-[[ブリキングＲＸ１・アルマ>PetSpeech/Alma/BrikingRX1Alma]]
+-[[クイーンビー・アルマ>PetSpeech/Alma/QueenBeeAlma]]
+-[[アルカナハート・アルマ>PetSpeech/Alma/ArcanaHeartAlma]]
+-[[ウィスプ・アルマ>PetSpeech/Alma/WispAlma]]
+-[[スケルトンシューター・アルマ>PetSpeech/Alma/SkeletonShooterAlma]]
+-[[スペクター・アルマ>PetSpeech/Alma/SpecterAlma]]
+-[[アベンジャー・アルマ>PetSpeech/Alma/AvengerAlma]]
+-[[ニドエッグ・アルマ>PetSpeech/Alma/NidoeggAlma]]
+-[[ギーゴ・アルマ>PetSpeech/Alma/GigoAlma]]
+-[[ホウオウ・アルマ>PetSpeech/Alma/HououAlma]]
+-[[キラーマシーン・アルマ>PetSpeech/Alma/KillerMachineAlma]]
+-[[モーラン・アルマ>PetSpeech/Alma/MoranAlma]]
+-[[アルケー・アルマ>PetSpeech/Alma/ArukeAlma]]
+-[[ベイヤール・アルマ>PetSpeech/Alma/BeiyaruAlma]]
+-[[スタートラー・アルマ>PetSpeech/Alma/StarterAlma]]
+-[[サンドラット・アルマ>PetSpeech/Alma/SandratAlma]]
+-[[マタンガ・アルマ>PetSpeech/Alma/MatangaAlma]]
+-[[クリスタル・アルマ>PetSpeech/Alma/CrystalAlma]]
+-[[アーチン・アルマ>PetSpeech/Alma/urchinAlma]]
+
+第４期アルマ（2016年）
+-[[ホワイトファング・アルマ>PetSpeech/Alma/WhitefangAlma]]
+-[[シナモン・アルマ>PetSpeech/Alma/CinamonAlma]]
+-[[サイクロプス・アルマ>PetSpeech/Alma/CyclopsAlma]]
+-[[クリムゾンバウ・アルマ>PetSpeech/Alma/CrimsonBauAlma]]
+-[[バルーンピッグー・アルマ>PetSpeech/Alma/BalloonPigguAlma]]
+-[[フォックストロットＢ３・アルマ>PetSpeech/Alma/FoxTrotB3Alma]]
+-[[ポイズンジェル・アルマ>PetSpeech/Alma/PoisongelAlma]]
+-[[スペルキャスター・アルマ>PetSpeech/Alma/SpellCasterAlma]]
+-[[モックー・アルマ>PetSpeech/Alma/MokkuAlma]]
+-[[ワイルドドラゴ・アルマ>PetSpeech/Alma/WildDoragoAlma]]
+-[[ゴーチン・アルマ>PetSpeech/Alma/GochinoAlma]]
+-[[コッコー・アルマ>PetSpeech/Alma/KokkoAlma]]
+
+第5期アルマ（2017年）
+-[[ゴースト・アルマ>PetSpeech/Alma/NaneAlma]]
+
+その他（ゲーム内イベントで入手）
+-[[プルル・アルマ>PetSpeech/PururuAlma]]
+-プルル
+-[[タイニーゼロ / タイニーゼロ・アルマ / タイニーゼロ・アルマ＋>PetSpeech/Alma/TinyZeroAlma]]
+-[[エコ坊・アルマ>PetSpeech/Alma/EkobouAlma]]
+-[[モクジュ・アルマ>PetSpeech/Alma/MokujuAlma]]
+-[[インスマウス・アルマ>PetSpeech/Alma/InnsmouthAlma]]
+-[[トンファーパンダ・アルマ>PetSpeech/Alma/TonfaPandaAlma]]
+
+付属特典系アルマ
+-[[タイニー・アルマ>PetSpeech/TinyAlma]]
+-[[ダンプティー・アルマ>PetSpeech/DumptyAlma]]
+-[[ヘビメタイニー・アルマ>PetSpeech/Alma/HeavyMetalTinyAlma]]
+-[[ファントム・アルマ>PetSpeech/Alma/PhantomAlma]]
+-[[プリンセス・タイニー・アルマ>PetSpeech/Alma/PrincessTinyAlma]]
+
+コラボレーション系アルマ
+-[[ダークフェザー・アルマ（BABY）>PetSpeech/DarkFeatherAlma]]
+-[[タイニーゼロ・アルマ（Mary）>PetSpeech/Alma/TinyzeroMary]]
+-[[ダンプティー・アルマ（Mary）>PetSpeech/Alma/DumptyAlmaMary]]
+-[[ダンプティー・アルマ(EXCENTRIQUE)>PetSpeech/Alma/DumptyAlmaEXCENTRIQUE]]
+
+**ロア [#Lore]
+-[[アルカード・ロア>PetSpeech/Lore/Alucard]]
+-[[清姫・ロア>PetSpeech/Lore/Kiyohime]]
+-[[ル・フェイ・ロア>PetSpeech/Lore/Lefay]]
+-[[バステト・ロア>PetSpeech/Lore/Bastet]]
+-[[キャプテンキッド・ロア>PetSpeech/Lore/Captainkidd]]
+-[[玉藻・ロア>PetSpeech/Lore/Tamamo]]
+-[[ローレライ・ロア>PetSpeech/Lore/Loreley]]
+-[[パラケルスス・ロア>PetSpeech/Lore/Paracelsus]]
+-[[ワーウルフ・ロア>PetSpeech/Lore/Werewolf]]
+-[[メフィストフェレス・ロア>PetSpeech/Lore/Mephistopheles]]
+-[[ルチフェロ・ロア>PetSpeech/Lore/Lucifero]]
+-[[ステラ・ロア>PetSpeech/Lore/Stellar]]
+-[[アイリス/紙芝居屋/イリス・ロア>PetSpeech/Lore/Ilis]]
+
+**御魂 [#Mitama]
+-[[御魂・ミコト>PetSpeech/Mitama/Mikoto]]
+-[[御魂・メイ>PetSpeech/Mitama/May]]
+-[[御魂・ライ>PetSpeech/Mitama/Ray]]
+-[[御魂・キリエ>PetSpeech/Mitama/Kirie]]
+-[[御魂・セレス>PetSpeech/Mitama/Celes]]
+-[[御魂・ルリ>PetSpeech/Mitama/Ruri]]
+-[[御魂・フォルテ>PetSpeech/Mitama/Forte]]
+-[[御魂・エリーゼ>PetSpeech/Mitama/Elise]]
+-[[御魂・アリア>PetSpeech/Mitama/Aria]]
+-[[御魂・ナナイ>PetSpeech/Mitama/nanai]]
+-[[御魂・リーリエ>PetSpeech/Mitama/Lilie]]
+-[[御魂・ヒスイ>PetSpeech/Mitama/Hisui]]
+-[[見習い冒険者・アルティ / みんなの鍛冶屋・アルティ>PetSpeech/Mitama/MitamaAlty]]
+
+**神魔[#Shinma]
+-[[アスモデウス>PetSpeech/Shinma/Asmodeus]]
+-[[ワルキューレ>PetSpeech/Shinma/Valkyrie]]
+-[[ヤタガラス>PetSpeech/Shinma/Yatagarasu]]
+-[[リヴァイアサン>PetSpeech/Shinma/Leviathan]]
+-[[イシス>PetSpeech/Shinma/Isis]]
+-[[イザナミ>PetSpeech/Shinma/Izanami]]
+-[[ケルベロス>PetSpeech/Shinma/Kerberos]]
+-[[バフォメット>PetSpeech/Shinma/Baphomet]]
+-[[カグヤ>PetSpeech/Shinma/Kaguya]]
+-[[リリム>PetSpeech/Shinma/Lilim]]
+-[[麒麟>PetSpeech/Shinma/Kirin]]
+-[[バハムート>PetSpeech/Shinma/Bahamut]]
+-[[クロノス>PetSpeech/Shinma/Khronos]]
+-[[ジャバウォック>PetSpeech/Shinma/Jabberwock]]
+-[[ルシファー>PetSpeech/Shinma/Lucifer]]
+
+**その他（個別ページなし） [#dogs]
+***わんわん [#wanwan]
+-不明(確認をお願いします)
+--「く～ん」
+--「く～ん、く～ん」
+--「ぐるるるる！わぅ！」
+--「わう！」
+--「わう！わう！」
+--「わうー」
+--「わう～」
+--「わうう！わう！」
+--「きゅ～ん……」
+--「きゅ～ん、きゅ～ん」
+--「わぉ～ん♪」
+--「わん♪わん♪」
+
+***バウバウ [#bowbow]
+--「バウ！バウ！」
+--「バウ！ワウ！」
+--「バウ…」
+--「バウ～ウ……」
+--「バウ～♪」
+--「グルルルルルル！」
+
+***ブラックタン [#blacktan]
+--「わう！」
+--「わう！わう！」
+
+***ココア [#cocoa]
+-座ったとき
+--「わん♪わん♪」
+--「わう！」
+--「わうー」
+
+-ダンジョンでワープした時
+--「わう～!」
+
+-CAPA/PAYLオーバーした時
+--「わう～」
+
+-不明(確認をお願いします)
+--「ぐるるるる！わぅ！」
+--「わう！わう！」
+
+***くろみつさぶろう [#kuromitsusaburou]
+-飛空庭(自)の家に(自)が入った時(屋内に設置中)
+--「わん♪わん♪]
+--「わん！わん！]
+-飛空庭(自)の家に(他)が来た時(室内に設置中)
+--[わん！わん！]
+--[わん？]
+***マンドラニンジン [#mandra]
+--「……。」
+--「……？」
+--「……！」
+
+-飛空庭(自)に入った時(?)
+--「……♪」
+
+-飛空庭(自)の家に(自)が入った時
+--「……。」
+--「……♪」
+
+-座った時(/sit、/chair) 
+--「……♪」
+
+***マンドラダイコン [#e01dc7f0]
+-状態異常時
+--「……？」
+
+***ミニキャリアー [#minikyaria]
+--「みゅう～♪」
+--「みゅ…」
+--「みゅう…」
+--「みゅ、みゅう…」
+--「みぎゅぅ…」
+
+-レベルアップした時
+--「みゅう！みゅうう♪」
+
+-飛空庭(自)の家に入った時
+--「みゅう～♪みゅう～♪」
+--「みゅうっ！みゅうっ！」
+
+***キャリアー（クローラーキャリアー） [#kyaria]
+--「みゅう～♪」
+--「みゅ…」
+--「みゅう…」
+--「みゅ、みゅう…」
+--「みぎゅぅ…」
+
+-レベルアップした時
+--「みゅう！みゅうう♪」
+
+***ペガサス[#Pegasus]
+
+--「クー♪」
+--「……クー♪」
+--「クー……！」
+
+-飛空庭(自)で話しかけた時
+--「ク～♪（すりすり）」
+
+***コッコー [#c3b0282d]
+
+-装備時
+--「コケーッ！」
+-ログアウトする時
+--「コケッ？」
+
+***ココッコー [#Kokokko]
+
+-装備時
+--COLOR(blue){「ぴよっぴよっ」（要検証）}
+-戦闘時
+--「！」
+--「？」
+-状態異常時
+--「！」
+-戦闘不能時
+-レベルアップした時
+-パーティーに参加した時
+-パーティーから抜けた時
+-ダンジョンでワープした時
+-飛空庭(自)に設置した時
+-飛空庭(自)話しかけた時
+--「ぴょ～ん！」
+--「プン！」
+--「ぴっぴっぴ！」
+--「ぴよぴよぷー！」
+--「ぴーぴー！」
+--「くちゅん！」
+--「ぴよ？」
+--「ぴぴ？」
+-飛空庭(自)に入った時
+--「ちゅん、ちゅん。」
+--「ぴー、ぴー、ぷー！」
+--「ぴぴぴ！」
+--「ぴよっ、ぴよっ！」
+--「ぴよぴよ、ぷぷぷ」
+--「ぷーいっ！」
+--「ぴよ～！」
+-飛空庭(自)から出る時
+-飛空庭(自)に入った時(装備中)
+-飛空庭(自)から出る時(装備中)
+-飛空庭(自)の家に入った時
+-飛空庭(自)の家から出た時
+-飛空庭(自)に(他)が入った時
+-飛空庭(自)から(他)が出る時
+-飛空庭(自)の家に(他)が来た時
+-飛空庭(自)の家から(他)が出た時
+-飛空庭(他)に入った時
+-飛空庭(他)から出る時
+-飛空庭(他)話しかけた時
+-憑依した時
+-憑依された時
+-CAPA/PAYLオーバーした時
+-座った時(/sit、/chair)
+-休憩した時(/relax、/break)
+-喜んでる時(/turn1、/turn2、/joy、/yahoo) 
+-土下座した時(/dogeza、Alt + W)
+-落ち込んだ時(/disappoint、/orz、Alt + L)
+-挨拶(/bow)
+-ログアウトする時
+***妹ココッコー [#SisterKokokko]
+-装備時
+--「ぴょ！」
+--「ぴよっ、ぴよっ！」
+--「ぴぴぴ♪」
+-飛空庭(自)に設置した時
+--「ピッ？」
+--「ニータン？」
+--「ニータン、どこ？」
+--「エーン、エーン！」
+--「ビクビク……」
+--「帰りたいピヨ……」
+--「くちゅん！」(低確率)
+--「ここ、ドコ？」(低確率)
+-飛空庭(自)話しかけた時
+--「？」
+--「ピッ？」
+--「ピ、ピヨ？」
+--「ニータン？」
+--「ニータンは？」
+--「ニータン、どこ？」
+--「ビクビク……」
+--「帰りたいピヨ……」
+--「エーン、エーン！」
+
+***シナモン [#cinnamon]
+
+-装備時
+--「ん……。」
+--「…ん？」
+--「……ん。」
+-パーティーに参加した時
+--「（オロオロしている）」
+-飛空庭(自)に入った時
+--「（嬉しそうな顔をしている）」
+--「（……帰ってきた……よかった）」
+-飛空庭(自)から出る時
+--「（嬉しそうな顔をしている）」
+-飛空庭(自)の室内に設置した時
+--「……ん。」
+--「（小さく、手を振っている）」
+--「（裾を掴んで離さない）」
+-飛空庭(自)話しかけた時
+--「……？」
+--「……♪」
+--「……ん。」
+--「…ん？」
+--「ん……。」
+--「（ニコニコ笑っている）」
+--「（裾を掴んで離さない）」
+--「（小さく、手を振っている）」
+--「（嬉しそうな顔をしている）」
+--「（心配そうな顔をしている）」
+--「（じっとこちらを見ている）」
+
+
+***ウサロイド [#usaroid]
+※「[[「ウサロイド」の台詞>PetSpeech/Usaroido]]」ページに統合したら削除する
+
+-飛空庭(自)から(自)が出る時
+--「防衛シークエンス起動 バックアップ万全デス」
+--「任務了解、待機シマス オルスバン」
+-飛空庭(自)に(自)が入った時
+--「マスターノ帰還 オカエリ」
+--「オ出迎エプログラム展開 オツカレ」
+--「実行プログラムに異常ナシ マスター、ゴ無事デスカ？」
+-飛空庭(自)に(他)が入った時
+--「ターゲット、不明 アポイントメントヲ要求シマス」
+--「侵入個体ヲ感知 オキャクジン？」
+-飛空庭(自)から(他)が出る時
+--「オカエリデスカ？マタネ」
+-飛空庭(自)話しかけた時
+--「マスター、準備ハ万全デス ゴヨウ？」
+--「命令受諾、定期巡回、掃除、洗濯 命令復唱、敵影、発見シダイ殲滅スル」
+--「カグヤ、射撃ガ得意 アノライフル、欲シイ…」
+--「カグヤ、オ世話ズキ 一緒ニ支援シマス」
+--「ゴ命令ヲイツデモドウゾ シュツゲキ？」
+-飛空庭(自)で(他)が話しかけた時
+--「ゴ要件ヲオ聞キシマス ナンデモドウゾ」
+--「伝言デスカ？ 録音シマス」
+--「オ暇デスカ？ 遊ブ？」
+
+**その他のページ [#r95efdb3]
+
+#ls2(PetSpeech/,title,compact)
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#n9f81dba]
+-Wikiを編集した場合は、COLOR(blue){COLOR(blue)&#123;メッセージ&#125;}のように記入すると分かりやすくなります。
+#pcomment

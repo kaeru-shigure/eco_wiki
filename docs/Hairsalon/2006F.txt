@@ -1,0 +1,75 @@
+# Hairsalon/2006F
+
+#author("2017-04-07T17:14:48+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*女性ヘアサロン（2006年） [#Hairsalon2006F]
+#contents
+
+**[[ヘアサロンの紹介状>http://eco.acronia.net/itemdb/#id=2291]] [#Hairsalon]
+CENTER:&size(12){ ''*'' 印をクリックすると、後ろ髪の画像が見られます};
+|~１つに結んで&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HitotsuNiMusundeB.jpg]]};|~アップで三つ編みに&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeMitsuamiNiB.jpg]]};|~三つ編みに&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiNiB.jpg]]};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HitotsuNiMusunde.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeMitsuamiNi.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiNi.jpg,nolink,180x180);|
+|~&size(12){アップできつく三つ編みに[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeKitsukuMitsuamiNiB.jpg]]};|~きつく三つ編みに&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KitsukuMitsuamiNiB.jpg]]};|~&size(10){アップで結んでゴムでまとめて};&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeMusundeGumDeMatometeB.jpg]]};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeKitsukuMitsuamiNi.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KitsukuMitsuamiNi.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeMusundeGumDeMatomete.jpg,nolink,180x180);|
+|~結んでゴムでまとめて&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MusundeGumDeMatometeB.jpg]]};|~アップでお団子に&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeOdangoNiB.jpg]]};|~お団子に&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/OdangoNiB.jpg]]};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MusundeGumDeMatomete.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeOdangoNi.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/OdangoNi.jpg,nolink,180x180);|
+
+**[[セレブの紹介状>http://eco.acronia.net/itemdb/#id=1407]] [#Celeb]
+|~アップで三つ編みに&br;してリボンをつけて|~三つ編みにして&br;リボンをつけて|~左で三つ編みにして&br;リボンをつけて&size(12){[[*:http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariDeMitsuamiNiShiteRibbonWoTsuketeB.jpg]]};|~右で三つ編みにして&br;リボンをつけて|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UpDeMitsuamiNiShiteRibbonWoTsukete.jpg,nolink,150x160);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiNiShiteRibbonWoTsukete.jpg,nolink,140x190);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariDeMitsuamiNiShiteRibbonWoTsukete.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MigiDeMitsuamiNiShiteRibbonWoTsukete.jpg,nolink,144x142);|
+|~右サイドで結んで|~左サイドで結んで|~左で三つ編みにして|~右で三つ編みにして|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MigiSideDeMusunde.jpg,nolink,138x133);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariSideDeMusunde.jpg,nolink,129x117);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariDeMitsuamiNiShite.jpg,nolink,151x151);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MigiDeMitsuamiNiShite.jpg,nolink,180x180);|
+|~両サイドできつく三つ編みに|~左できつく三つ編みに|~右できつく三つ編みに|~ポニーテールにして|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/RyouSideDeKitsukuMitsuamiNi.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariDeKitsukuMitsuamiNi.jpg,nolink,150x150);|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MigiDeKitsukuMitsuamiNi.jpg,nolink,150x150);|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/PonytailNiShite.jpg,nolink,180x180);|
+|~両サイドでお団子に|~左でお団子に|~右でお団子に|~両サイドで&br;お団子三つ編みに|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/RyouSideDeOdangoNi.jpg,nolink,165x147);|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariDeOdangoNi.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MigiDeOdangoNi.jpg,nolink,135x127);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/RyouSideDeOdangoMitsuamiNi.jpg,nolink,123x130);|
+|~左でお団子三つ編みに|~右でお団子三つ編みに|~サイドで結んで&br;ヘアゴムでまとめて|~左で結んで&br;ヘアゴムでまとめて|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariDeOdangoMitsuamiNi.jpg,nolink,140x140);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MigiDeOdangoMitsuamiNi.jpg,nolink,120x120);|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/SideDeMusundeHairGumDeMatomete.jpg,nolink,180x180);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HidariDeMusundeHairGumDeMatomete.jpg,nolink,154x136);|
+|~右で結んで&br;ヘアゴムでまとめて|~ |~ |~ |
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MigiDeMusundeHairGumDeMatomete.jpg,nolink,124x127);|-|-|-|
+
+**ヘアサロン特別紹介状 (ECOプレイチケット第1弾) [#Tokubetsu]
+|>|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~ツインテール|~特別なポニーテール&br;（テール部分は羽々キロ氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/TwinTail.jpg,nolink,180x180);|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/FuwaFuwaNaPonytail.jpg,nolink,197x201);|
+
+**[[ドミニオンのヘアカタログ>http://eco.acronia.net/itemdb/#id=1709]] [#Dominion]
+|~ルルイエの髪型&br;「ショート」「ベリーショート」からは&br;変更できません。&br;（羽々キロ氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/RuruieNoKamigata.jpg,nolink,199x200);|
+
+**プリティ紹介状 (ECOプレイチケット第3弾) [#Pretty]
+-[[フシギなヘアカタログ2>髪型の変更#u4566beb]]
+|>|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~ショートツインテール|~外はねぼぶ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/ShortTwinTail.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/SotohaneBob.jpg,nolink,150x150);|
+
+**ルチルのヘアカタログ (は～とふるMAP Vol.1) [#Rutil]
+|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~ルチルの髪型&br;（羽々キロ氏デザイン）|
+|CENTER:RutileNoHairCatalog.jpg(画像無し)|
+
+**ちょいかわ紹介状 (ECOプレイチケット第4弾) [#Choikawa]
+|~スポーティーポニー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/SportyPony.jpg,nolink,309x187);|
+|~ショート＆エクステ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/Short&Exte.jpg,nolink,437x187);|
+
+**ゴージャス紹介状 (ECOプレイチケット第5弾) [#Gorgeous]
+-[[フシギなヘアカタログ1>髪型の変更#if7e6c7e]]
+-[[フシギなヘアカタログ2>髪型の変更#u4566beb]]
+|~縦ロール（ダークストーカー♀）&br;（羽々キロ氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/TateRoll.jpg,nolink,376x214);|
+|~正統派おさげ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/SeitouhaOsage.jpg,nolink,320x230);|
+
+**おてんば紹介状 (アニバーサリーチャンス・ECOくじ) [#Otenba]
+-[[フシギなヘアカタログ1>髪型の変更#if7e6c7e]]
+|~元気のいい妹の髪形&br;※ECO祭り2007で浅間教授が名称に言及&br;（羽々キロ氏デザイン）|
+|CENTER:otenba.jpg(画像無し)|
+
+[ [[ トップメニュー >#TopMenu]] ][ [[ 2007年へ続く >Hairsalon/2007F]] ]

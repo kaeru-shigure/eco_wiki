@@ -1,0 +1,59 @@
+# ドロップ率検証/キノコ系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***キノコ [#c5845ba5]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|きのこ|あぶないきのこ|いけないきのこ|きのこの種|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（414体）|149個（35.99％）|120個（28.99％）|103個（24.88％）|39個（9.42％）|3個（0.72％）|
+
+***青キノコ [#u0bf8458]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||きのこ|いけないきのこ|おかしなきのこ|あぶないきのこ|あやしいきのこ|白いきのこ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|48個（48.00％）|29個（29.00％）|0個（0.00％）|14個（14.00％）|0個（0.00％）|9個（9.00％）|
+|知識あり（342体）|103個（30.12％）|82個（23.98％）|61個（17.84％）|53個（15.50％）|30個（8.77％）|13個（3.80％）|
+
+***緑キノコ [#obda05bb]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||きのこ|おかしなきのこ|あやしいきのこ|白いきのこ|まつたけさま|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（130体）|99個（76.15％）|24個（18.46％）|0個（0.00％）|7個（5.38％）|0個（0.00％）|
+|知識あり（341体）|196個（57.48％）|45個（13.20％）|62個（18.18％）|18個（5.28％）|20個（5.87％）|
+
+***オレンジキノコ [#d933ca07]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||きのこ|いけないきのこ|おかしなきのこ|あぶないきのこ|あやしいきのこ|白いきのこ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（130体）|39個（30.00％）|33個（25.38％）|25個（19.23％）|15個（11.54％）|9個（6.92％）|9個（6.92％）|
+
+***茶キノコ [#c2c7f5a7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|きのこ|いけないきのこ|おかしなきのこ|あやしいきのこ|白いきのこ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（246体）|84個（34.15％）|11個（4.47％）|63個（25.61％）|31個（12.60％）|40個（16.26％）|17個（6.91％）|
+
+***黒キノコ [#u57dcc77]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|きのこ|おかしなきのこ|いけないきのこ|あやしいきのこ|白いきのこ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（226体）|57個（25.22％）|19個（8.41％）|41個（18.14％）|54個（23.89％）|42個（18.58％）|13個（5.75％）|
+
+***スウィートキノコ [#zdf52d81]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|蜂蜜|いけないきのこ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（92体）|42個（45.65％）|30個（32.61％）|20個（21.74％）|
+
+***毒キノコ [#da09476c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|いけないきのこ|カビ|キノコの種|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（120体）|63個（52.50％）|43個（35.83％）|11個（9.17％）|3個（2.50％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

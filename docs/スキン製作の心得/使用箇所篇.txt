@@ -1,0 +1,147 @@
+# スキン製作の心得/使用箇所篇
+
+#author("2017-04-07T18:00:37+00:00","","")
+*スキンの使用箇所 [#la548561]
+#contents
+
+***只今建設中 [#e0a3fe6a]
+
+//**テンプレート [#ka6b16a5]
+//**winparts_xx [#g28a326b]
+//RIGHT:公式の最終更新日2006-○-×
+//|画像|座標|ボタンの&br;大きさ|使用箇所|備考|公式の最終更新日|h
+//|&ref();|0,0&br;-x,y|XxY|不明|-|2006-○-×|
+
+//テンプレードここまで。座標はPaintで表示される物を基にしています。
+//色数が少ないためか、jpgよりpngの方がサイズ小さいみたいなのでこっち推奨で。
+
+**用語説明 [#d239d646]
+|言葉|意味|h
+|通常時|通常に表示されているボタンです。たいていの場合クリックすることができます。|
+|ロールオーバー時|カーソルをボタンに重ねた時に表示されるものです。|
+|選択時|そのボタンを選択中に表示されます。&br;エンターキーを押すと、アクティブな窓のこのボタンをクリックしたことになる場合もあります。&br;窓を開いたときに特定のボタンが選択されてたり、最後に押したボタンが選択されたりします。|
+|クリック時|クリック中に表示されます。|
+|不可時|そのボタンがクリックできない場合に表示されます。|
+|展開時|そのボタンに該当する箇所が展開中である場合に表示されます。|
+|収納時|そのボタンに該当する箇所が収納されてて非表示である場合に表示されます。|
+|座標|基本的に[[NPCリストにあるもの>NPC#i6a883da]]と同じですが、ここではwindows付属ソフトペイントで表示される座標に準拠してます。&br;他のソフトでも全く同じ座標が表示されるかもしれませんがそれはそれ、まぁお好きなように。|
+
+**winparts_00 [#v0c679d7]
+RIGHT:公式の最終更新日2005-9-30 0:17
+|画像|座標|ボタンの&br;大きさ|使用箇所|備考|公式の最終更新日|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_ok.png,nolink,56x80);|0,0&br;-55,79|56x16|NPCとの会話窓&br;など&br;など|クリックすることで会話を先に進めます&br;状況により他にも様々な意味があります&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不可時|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_cancel.png,nolink,56x80);|56,0&br;-111,79|56x16|設定窓など|クリックすることでキャンセルします&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不明|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_next.png,nolink,56x80);|112,0&br;-167,79|56x16|NPCとの会話窓&br;の右下|クリックすることで会話を先に進めます&br;okボタンとは違い、このボタンが出ている場合は&br;backボタンで履歴を見ることができます&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不明|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_back.png,nolink,56x80);|168,0&br;-223,79|56x16|NPCとの会話窓&br;の左下|クリックすることで会話の履歴を見れます&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不明|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_close.png,nolink,56x80);|0,80&br;-55,159|56x16|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_tekiyou.png,nolink,56x80);|56,80&br;-111,159|56x16|設定窓|クリックすることで設定を適用します&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不明|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_buy.png,nolink,56x80);|112,80&br;-167,159|56x16|購入窓|クリックすることで、選択した商品を買います&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不明|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_sell.png,nolink,56x80);|168,80&br;-223,159|56x16|売却窓|クリックすることで、選択した商品を売ります&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不可時|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_start.png,nolink,56x80);|0,160&br;-55,239|56x16|キャラ選択窓&br;の下段左端|クリックすることでそのキャラを選んでゲームに入ります&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不可時|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_delete.png,nolink,56x80);|56,160&br;-111,239|56x16|キャラ選択窓&br;の下段右端|キャラを削除するときに使います&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不可時|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_create.png,nolink,56x80);|112,160&br;-167,239|56x16|キャラ選択窓&br;の下段右から二つ目|キャラ作成時に使います&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不可時|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_trade.png,nolink,56x80);|168,160&br;-223,239|56x16|交換窓|クリックすることで交換を実行します&br;一段目は通常時&br;二段目はロールオーバー時&br;三段目は選択時&br;四段目はクリック時&br;五段目は不可時|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_narabekae.png,nolink,32x76);|224,0&br;-255,75|32x19|ゴーレムカタログ&br;フレンドリスト|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_jougedai.png,nolink,32x60);|224,76&br;-255,135|16x15|ログ窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_jougechuu.png,nolink,28x70);|224,136&br;-251,205|14x14|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_jougeshou.png,nolink,28x40);|224,206&br;-251,245|14x8|ステータス窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_check.png,nolink,48x12);|0,240&br;-47,251|48x12|ギルド倉庫|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_plus.png,nolink,40x10);&br;&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_minus.png,nolink,40x10);|48,240&br;-87,249&br;88,240&br;-127,249|10x10|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/00_sayuu.png,nolink,64x15);|128,240&br;-191,254|16x15|不明|-|2006-○-×|
+
+**winparts_01 [#r22aa257]
+RIGHT:公式の最終更新日2005-11-14 15:56
+|画像|座標|ボタンの&br;大きさ|使用箇所|備考|公式の最終更新日|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_status.png,nolink,40x80);|0,0&br;-39,79|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_item.png,nolink,40x80);|40,0&br;-79,79|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_equip.png,nolink,40x80);|80,0&br;-119,79|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_skill.png,nolink,40x80);|120,0&br;-159,79|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_friend.png,nolink,40x80);|160,0&br;-199,79|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_mail.png,nolink,40x80);|200,0&br;-239,79|40x16|フレンド窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_quest.png,nolink,40x80);|0,80&br;-39,159|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_map.png,nolink,40x80);|40,80&br;-79,159|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_macro.png,nolink,40x80);|80,80&br;-119,159|40x16|主窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_body.png,nolink,40x80);|120,80&br;-159,159|40x16|アイテム窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_back.png,nolink,40x80);|160,80&br;-199,159|40x16|アイテム窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_right.png,nolink,40x80);|200,80&br;-239,159|40x16|アイテム窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_left.png,nolink,40x80);|0,160&br;-39,239|40x16|アイテム窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_ue.png,nolink,14x56);　&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_shita.png,nolink,14x56);|40,160&br;-53,215&br;54,160&br;-67,215|14x14|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_hidari.png,nolink,14x56);　&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_migi.png,nolink,14x56);|68,160&br;-81,215&br;82,160&br;-95,215|14x14|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_daishou.png,nolink,14x56);|96,160&br;-109,215|14x14|地図窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_hito.png,nolink,14x56);|110,160&br;-123,215|14x14|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_bastu.png,nolink,14x56);|124,160&br;-137,215|14x14|各種窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_saishouka.png,nolink,14x56);|138,160&br;-151,215|14x14|エコ窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_settei.png,nolink,14x56);|152,160&br;-167,215|14x14|エコ窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_ookii.png,nolink,14x56);|168,160&br;-179,215|14x14|地図窓大|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_lock.png,nolink,14x56);|180,160&br;-193,215|14x14|ログ窓など|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_sayuu.png,nolink,32x80);|194,160&br;-225,239|16x16|ログイン時キャラ選択|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/01_shitadai.png,nolink,20x80);|226,160&br;-245,239|20x20|コメント欄|-|2006-○-×|
+
+**winparts_02 [#ec92aa00]
+RIGHT:公式の最終更新日2005-9-30 0:17
+|画像|座標|ボタンの&br;大きさ|使用箇所|備考|公式の最終更新日|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_jushin.png,nolink,78x34);|0,0&br;-77,33|78x17|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_soushinzumi.png,nolink,78x34);|78,0&br;-155,33|78x17|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_mail.png,nolink,78x85);|156,0&br;-233,84|78x17|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_option.png,nolink,78x85);|0,85&br;-77,169|78x17|ギルド倉庫|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_sakujo.png,nolink,78x85);|78,85&br;-155,169|78x17|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_soushin.png,nolink,78x85);|156,85&br;-233,169|78x17|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_henshin.png,nolink,78x85);|0,170&br;-77,254|78x17|不明|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_login.png,nolink,56x80);|78,170&br;-133,249|56x16|ログイン窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_exit.png,nolink,56x80);|134,170&br;-189,249|56x16|ログイン窓|-|2006-○-×|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/02_kakikomu.png,nolink,66x85);|190,170&br;-255,254|66x17|掲示板|-|2006-○-×|
+
+**winparts_03 [#wb5a8d9b]
+RIGHT:公式の最終更新日2005-9-26 13:45
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_04 [#zfe95518]
+RIGHT:公式の最終更新日2005-7-28 0:59
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_05 [#t9855014]
+RIGHT:公式の最終更新日2006-7-31 22:35
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_06 [#rc08b5f0]
+RIGHT:公式の最終更新日2006-5-22 18:02
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_10 [#xdfd7b3a]
+RIGHT:公式の最終更新日2006-1-16 23:20
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_11 [#de59e911]
+RIGHT:公式の最終更新日2006-1-16 23:20
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_12 [#i3885925]
+RIGHT:公式の最終更新日2006-6-23 18:50
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_13 [#o2de2927]
+RIGHT:公式の最終更新日2006-1-10 22:00
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_14 [#v69727fc]
+RIGHT:公式の最終更新日2005-8-18 23:36
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_15 [#nbb35df4]
+RIGHT:公式の最終更新日2006-8-7 21:04
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|
+
+**winparts_20 [#vd07ff6d]
+RIGHT:公式の最終更新日2006-7-18 13:03
+|画像|座標|使用箇所|備考|最終更新日|h
+|-|0,0-x,y|不明|-|2006-○-×|

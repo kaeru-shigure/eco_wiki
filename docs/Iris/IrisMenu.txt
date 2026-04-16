@@ -1,0 +1,4 @@
+# Iris/IrisMenu
+
+#author("2019-06-17T14:24:50+00:00","","")
+Iris [[ システム >Iris]]/ [[カード一覧>IrisCard]]([[EX1>IrisCard/ExIrisCard0]]/[[EX2>IrisCard/ExIrisCard1]]/[[その他>IrisCard/NormalIrisCard]]) ([[ 索引 >IrisCard/SetPosition]]) /[[ アビリティベクトル >Iris/Explanation]]([[ 索引 >Iris/Find/Vector]]) /フレーバーテキスト集([[ 1 >Iris/FlavorText]]/[[ 2 >Iris/FlavorText2]])/[[ (外部)カード一覧 :http://jasmin.sakura.ne.jp/eco/script/iris_catalog]]

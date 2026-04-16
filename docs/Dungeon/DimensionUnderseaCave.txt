@@ -1,0 +1,108 @@
+# Dungeon/DimensionUnderseaCave
+
+*ディメンション海底洞窟 [#fb47f2d0]
+
+-適正Lv：90～110
+ディメンション海底洞窟(暖流・寒流)では
+一次、二次職業及びDEMの取得経験値が3倍となる。
+侵入した時刻が偶数時間では暖流、奇数時間で寒流となる。
+--侵入後に0分を跨いで侵入可能時間が切り替わっても強制退場することは無く、
+マップから自発的に退場しない限り滞在することができる。
+
+-[[ダンジョン>Dungeon]]
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+-[[D海底洞窟モンスター>MobDimension#D-Kaiteidoukutu]]
+
+
+#contents
+
+
+**ディメンション海底洞窟(暖流) [#d180aa9a]
+//&ref();
+-侵入条件：偶数時間のみ
+-隣接マップ：ウォーターレイアー
+-属性：
+-常時HP減少（水中、5秒毎にHPが50減少）
+
+-出現モンスター
+--[[D-スイムフィッシュ>MobDimension#D-Kaiteidoukutu]](リンク)
+　(Lv110/火)[HP:?][45080/41975]
+--[[D-リトルスイムフィッシュ>MobDimension#D-Kaiteidoukutu]]
+　(Lv103/火)[HP:?][23345/23345]
+--[[Dポイズンジェル>MobDimension#D-Kaiteidoukutu]]
+　(Lv110/風)[HP:?][78775/76475]
+--[[リトルポイズンジェル>MobDimension#D-Kaiteidoukutu]]
+　(Lv103/風)[HP:24750][40250/38525]
+--[[D-ハーミットクラブ>MobDimension#D-Kaiteidoukutu]]
+　(Lv105/火)[HP:15400][52325/27600]
+--[[D-シードラゴン>MobDimension#D-Kaiteidoukutu]]
+　(Lv106/風)[HP:40000][63250/29325]
+--[[D-シーサーペント>MobDimension#D-Kaiteidoukutu]]
+　(Lv125/闇)[HP:55800][85000/85000]
+--[[D-エレメンタル>MobDimension#D-Kaiteidoukutu]](アクティブ)
+　(Lv104/水)[HP:1][1500/1500]
+--[[D-クリスタルタートル>MobDimension#D-Kaiteidoukutu]]
+　(Lv112/水)[HP:125000][185500/185000]
+--[[炎血のクルウルウ・ラヴァ>MobDimension#D-Kaiteidoukutu]]
+　(Lv105/火)[HP:?][2750000/2350000]
+--[[常闇のクルウルウ・アビス>MobDimension#D-Kaiteidoukutu]]
+　(Lv134/闇)[HP:?][50000000/225000000]
+--[[常闇の使者>MobDimension#D-Kaiteidoukutu]](詠唱反応)
+　(Lv?/水)[HP:?][?/?]
+
+-自然物
+--[[D-海底の岩>MobDimension#D-Kaiteidoukutu]](逃走)
+　(Lv100/土)[HP:30000][35000/25500]
+--[[D-海底の流木>MobDimension#D-Kaiteidoukutu]](逃走)
+　(Lv100/水)[HP:30000][35000/25500]
+--[[D-海底の水晶体>MobDimension#D-Kaiteidoukutu]](逃走)
+　(Lv100/水)[HP:30000][35000/25500]
+
+**ディメンション海底洞窟(寒流) [#i8af7712]
+//&ref();
+-侵入条件：奇数時間のみ
+-隣接マップ：ウォーターレイアー
+-属性：
+-常時HP減少（水中、5秒毎にHPが50減少）
+
+-出現モンスター
+--[[D-エンジェルフィッシュ>MobDimension#D-Kaiteidoukutu]]
+　(Lv107水)[HP:23000][39200/36500]
+--[[D-リトルエンジェルフィッシュ>MobDimension#D-Kaiteidoukutu]]
+　(Lv100/水)[HP:11500][20300/20300]
+--[[D-バルーンジェル>MobDimension#D-Kaiteidoukutu]]
+　(Lv107/水)[HP:42000][68500/66500]
+--[[D-リトルバルーンジェル>MobDimension#D-Kaiteidoukutu]]
+　(Lv100/水)[HP:19800][35000/33500]
+--[[D-シーホース>MobDimension#D-Kaiteidoukutu]]
+　(Lv103/水)[HP:32000][55000/25500]
+--[[D-コンク>MobDimension#D-Kaiteidoukutu]]
+　(Lv102/水)[HP:14000][45500/24000]
+--[[D-ノグッドアーチン>MobDimension#D-Kaiteidoukutu]](アクティブ)
+　(Lv103/闇)[HP:22500][38000/38000]
+--[[D-エレメンタル>MobDimension#D-Kaiteidoukutu]](アクティブ)
+　(Lv104/水)[HP:1][1500/1000]
+--[[D-クリスタルタートル>MobDimension#D-Kaiteidoukutu]]
+　(Lv112/水)[HP:125000][185500/185500]
+--[[氷血のクルウルウ・ゼロ>MobDimension#D-Kaiteidoukutu]]
+　(Lv105/水)[HP:?][2750000/2350000]
+--[[常闇のクルウルウ・アビス>MobDimension#D-Kaiteidoukutu]]
+　(Lv134/闇)[HP:?][50000000/225000000]
+--[[常闇の使者>MobDimension#D-Kaiteidoukutu]](詠唱反応)
+　(Lv?/水)[HP:?][?/?]
+
+-自然物
+--[[D-海底の岩>MobDimension#D-Kaiteidoukutu]](逃走)
+　(Lv100/土)[HP:30000][35000/25500]
+--[[D-海底の流木>MobDimension#D-Kaiteidoukutu]](逃走)
+　(Lv100/水)[HP:30000][35000/25500]
+--[[D-海底の水晶体>MobDimension#D-Kaiteidoukutu]](逃走)
+　(Lv100/水)[HP:30000][35000/25500]
+
+
+
+
+
+**コメント欄 [#e72cce55]
+#pcomment

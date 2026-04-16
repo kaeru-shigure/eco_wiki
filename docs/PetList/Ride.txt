@@ -1,0 +1,503 @@
+# PetList/Ride
+
+#author("2017-04-07T17:40:56+00:00","","")
+#include(Pet/PetMenu,notitle)
+*パートナー一覧表 （ライドパートナー） [#y7d2e06b]
+#contents
+
+--&color(#0000ff){パラメーターは、06/10/1までに掲示板・コメントで記載されたものを反映しています。&br;仕様変更があったため、育てた時期によっては1～2の差が出ることがあるので参考として下さい。&br;上限に達したかは%%転生の際のパラメーター上昇で判断するといいでしょう。%% 数字の色が緑色になったかで判断できます。};
+--パラメーターは、レイアウトの関係で英語表記としています。
+---パラメーターの表示順序はゲーム内の説明と同じです。
+---初期パラメーターのうち、&color(#a0a0a0){''灰色で表示''};されたものは旧隠しステータスであり、数値が不正確である場合があります。確定したもののみ黒で表示に戻してください。
+--07/02/23にパートナーのHP回復アイテムが統合されました。
+---「ピュアエナジー」「大人の回復薬」「バードケーキ」「鉱油」「樹液」⇒「ペットフード」に統合。14/07/24に「パートナーフード」に改名・
+--07/10/12にペットのステータス調整が実施されました。
+--13/06/27に各種隠しステータスの通常表示化、及び、カウントストップ・ステータス値の緑字表示化の仕様変更が行われました。
+--13/12/26より飛空庭に設置が可能になりました。設置後右クリックでポーズを変えることができます。
+--14/07/24に「ペット」から「パートナー」にカテゴリ名が変更されました。
+プレイヤー間では未だペットと呼ぶ人も少なくないが、総じて「パートナー」の事を指す。
+
+
+//修正値反映完了パートナー：ネコマタ緑、ネコマタ杏、青ドラゴ
+//（上昇したパラメーターはとりあえず赤字にしています。パラメーターを更新された方は、上の日付の変更もお願いします。）
+
+**ライドパートナー [#xbf16ef7]
+
+***[[ライドクローラー>#RC]] [#q42355cd]
+|CENTER:128|CENTER:120|CENTER:90|CENTER:80|CENTER:70|CENTER:390|c
+|~画像|~固有命令スキル&br;習得可能職業|~初期&br;パラメーター|~成長&br;(転生前)((黒は限界値が確定していると思われるパラメーター、灰色はまだ限界値が確定していないと思われるパラメーターです。))|~説明と入手法|h
+|CENTER:128|CENTER:120|RIGHT:90|RIGHT:80|LEFT:390|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/RideClawler.jpg,nolink,128x128);|なし|HP:170&br;ATK:13&br;M.ATK:12&br;DEF:10&br;M.DEF:25&br;S.HIT:12&br;L.HIT:8&br;M.HIT:27&br;S.AVOID:3&br;L.AVOID:3&br;M.RST:15&br;CRITICAL:1&br;CAPA:+120&br;PAYL:+120&br;&br;C.AVOID:1&br;A.SPD:140&br;C.SPD:120&br;RCV:110&br;M.RCV:1&br;S.RCV:0|&color(#f00000){+930};&br;+52&br;+36&br;&color(#f00000){+110};&br;&color(#f00000){+90};&br;+36&br;+24&br;+81&br;+18&br;+15&br;+30&br;+11&br;&br;&br;&br;&color(#a0a0a0){+11};&br;+200&br;&color(#a0a0a0){+180};&br;+110&br;+6&br;+100|移動速度は、プチクローラー時代の育成量に応じます[[（速度検証）>Pet#f7609263]]。&br;ステータスもプチクローラー時代のを引継ぎ、更に転生回数１から始まります。擬似態&br;&br;【パッシブスキル】&br;擬似態 &br;移動以外の行動をしなければアクティブモンスターに狙われなくなる。&br;ダンジョンでは無効。BOSSに無効。&br;&br;【入手法】&br;[[ファーイーストイベント参照>Quest/Fareast#ride_crawler]]|
+
+***[[ファイアードラゴ>#FireDrago]] [#k67fd6b4]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/FireDorago.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){左DEF:26};&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|&color(#f00000){+1250};&br;+196&br;+129&br;&color(#f00000){+113};&br;&color(#f00000){+82};&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&br;&color(#a0a0a0){+16};&br;+200&br;+200&br;+120&br;&color(#a0a0a0){+12};&br;+100|ドラゴンの騎乗パートナー&br;フィールドではブルードラゴより速い&br;モーションディレイが長い&br;&br;【入手法】&br;１：ペペン、プルーンが稀にドロップする。&br;２：[[ドラゴ入手イベント参照>Event/Others#wef43354]]|
+
+***[[ブルードラゴ>#BlueDorago]] [#red35e00]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/BlueDorago.jpg,nolink,128x138);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|&color(#f00000){+1150};&br;+196&br;+129&br;&color(#f00000){+113};&br;&color(#f00000){+82};&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|ドラゴンの騎乗パートナー&br;フィールドではファイアードラゴより遅く、&br;ダンジョンではファイアードラゴより速い&br;モーションディレイが長い&br;&br;【パッシブスキル】&br;[[ケイブギャロップ>Skill/Special#t08ba9e3]]&br;ダンジョンで速度アップ&br;&br;【入手法】&br;１：サイクロプス、オーガが稀にドロップする。&br;２：[[ドラゴ入手イベント参照>Event/Others#wef43354]]|
+
+***[[ダークドラゴ>#darkDorago]] [#b277e50f]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/DarkDorago.jpg,nolink,128x128);|ブリーダー|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|&color(#f00000){+1350};&br;+196&br;+129&br;+113&br;+82&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+12&br;&color(#a0a0a0){+0};|ドラゴンの騎乗パートナー&br;フィールドではブルードラゴより速い&br;&br;モーションディレイが長い&br;&br;【装備条件】&br;パッシブスキル「[[手綱>Skill/Breeder#wf54bb4d]]」の習得(ブリーダーLv13習得)&br;&br;【スキル】&br;[[プロミネンス>Skill/Special#x9b4e602]]&br;&br;【入手法】&br;[[ブリーダ参照>Skill/Breeder#o0b10bea]]&br;&br;【備考】&br;ブリーダー専用の騎乗パートナー|
+
+***探索用エレキテル・※ [#ElekitelLab]
+ライドパートナー扱いの特殊アイテム
+「エレキテルラボ」の「[[探索用エレキテル>Quest/ElekitelLab#x6990180]]」を参照
+
+***[[２足歩行ロボット>Skill/Machinery#jae0714c]][#a35e2045]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Machinely.jpg,nolink,128x128);|マシンナリー|HP:2000&br;ATK:150&br;M.ATK:300&br;DEF:50&br;M.DEF:30&br;S.HIT:100&br;L.HIT:100&br;M.HIT:100&br;S.AVOID:70&br;L.AVOID:60&br;M.RST:50&br;CRITICAL:10&br;&br;C.AVOID:10&br;A.SPD:250&br;C.SPD:250&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+1200&br;+150&br;+100&br;+104&br;+26&br;+90&br;+60&br;+250&br;+90&br;+55&br;+60&br;+50&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+100};&br;+2&br;&color(#a0a0a0){+0};|マシンナリー専用の騎乗ロボット&br;移動速度はファイアードラゴと同じです。&br;&br;【装備条件】&br;スキル「パイロットマスタリー」が必須&br;&br;【入手法】&br;1.マシンナリーギルドで1,000,000Gで購入&br;2.ロボットのパーツを集め、機械組み立てを行う。&br;&br;&color(#ff8000){ロボットは他のパートナーと違い戦闘では成長せず、&br;特殊アイテムを消費して強化を行います。};&br;詳細は[[こちら>Skill/Machinery#d520cefc]]|
+
+***犬ぞり（クリスマス） [#md2f504c]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/InuZoriChristmas.jpg,nolink,128x120);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|クリスマスバウの犬ぞりが騎乗パートナー化&br;&br;&br;【入手法】&br;アニバーサリーチャンス・ECOくじ&br;エレキテルラボ景品(07/12/21～08/02/08)|
+
+***勝利のボール [#q1691ce3]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/winningball.jpg,nolink,128x128);|なし|HP:100&br;ATK:15&br;M.ATK:12&br;DEF:10&br;M.DEF:25&br;S.HIT:12&br;L.HIT:8&br;M.HIT:27&br;S.AVOID:3&br;L.AVOID:3&br;M.RST:15&br;CRITICAL:30&br;&br;C.AVOID:30&br;A.SPD:150&br;C.SPD:120&br;RCV:110&br;M.RCV:1&br;S.RCV:0|&color(#a0a0a0){+0};&br;+113&br;+90&br;&color(#a0a0a0){+0};&br;+0&br;+117&br;&color(#a0a0a0){+40};&br;+12&br;+0&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+33&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|古の民に伝わる太陽を象ったボール&br;輝かしい未来を呼び込むと伝えられる。&br;&br;【入手法】&br;季節イベント「ECOでGet a GOAL 2010」の景品|
+
+***ケット・シー　（通常パートナー←→騎乗パートナー） [#CaitSith]
+#include(PetList/Ride/CaitSith,notitle)
+
+***ティラ [#tyra]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/tyra.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1250&br;+196&br;+129&br;+113&br;+82&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|PARTNER装備&br;パズル＆ドラゴンズのティラ&br;「ガル？ ガルル、ガルガル♪」&br;背中に乗れと言っている気がする&br;&br;移動速度はフィールドでのブルードラゴと同程度&br;&br;【入手法】&br;コラボイベント「EMIL & DRAGONS」以降、タイニーアイランドにいる「ティラ」に話しかける。|
+
+***ワームドラゴン [#t6b1e48d]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/worm_dragon.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+1250&br;+196&br;+129&br;+113&br;+82&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;&color(#a0a0a0){+};&br;+100&br;|騎乗できるワームドラゴン&br;物は積めないが飛行速度には&br;定評がある&br;&br;【入手法】&br;ドラゴンライダーが稀にワームドラゴンの卵をドロップする。&br;卵を軍艦島のやり手の商人に孵してもらうことで入手できる。&br;ただし[[''ライドパートナードラゴ入手''>Event/Others#wef43354]]を進めている必要がある。|
+
+***ウィッカ・グレイル [#Wicca_Grail]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Wicca_Grail.jpg,nolink,128x123);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1250&br;+196&br;+129&br;+113&br;+82&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+};&br;&color(#a0a0a0){+};&br;&color(#a0a0a0){+};&br;&color(#a0a0a0){+};&br;&color(#a0a0a0){+};&br;&color(#a0a0a0){+};&br;|魔女の聖杯とも呼ばれる魔導器&br;&br;【入手法】&br;ウィッカ・アラディア、ウィッカ・アラディア・シャドーがドロップ。|
+
+***カッカラン [#af8bf176]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Kakkaran.jpg,nolink,128x128);|　　|HP:280&br;ATK:45&br;M.ATK:40&br;DEF:34&br;M.DEF:15&br;S.HIT:40&br;L.HIT:21&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+1100&br;+186&br;+120&br;+110&br;+80&br;+120&br;+45&br;+35&br;+80&br;+40&br;+25&br;+60&br;&br;+13&br;+200&br;+200&br;+120&br;+12&br;+100&br;|砂漠に住むつぶらな瞳の顔と&br;鳥のような胴体を持つ動物&br;あんまり足は速くない&br;&br;【入手法】&br;サンドワーム(昼)、サンドワーム(夜)がドロップ。|
+
+***弁天丸 [#bentenmaru]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/bentenmaru.jpg,nolink,128x128);|なし|HP:500&br;ATK:40&br;M.ATK:40&br;DEF:30&br;M.DEF:30&br;S.HIT:45&br;L.HIT:40&br;M.HIT:20&br;S.AVOID:30&br;L.AVOID:30&br;M.RST:30&br;CRITICAL:20&br;&br;C.AVOID:5&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+1050&br;+180&br;+180&br;+115&br;+80&br;+130&br;+130&br;+100&br;+90&br;+90&br;+80&br;+65&br;&br;+15&br;+200&br;+200&br;&color(#a0a0a0){+?};&br;+12&br;&color(#a0a0a0){+?};|「劇場版モーレツ宇宙海賊」とのコラボレーション記念アイテム&br;&br;【入手法】&br;コラボイベント「ECO×モーレツ宇宙海賊」モーレツコラボ第3弾&br;(14/03/27～14/04/24)|
+
+**ライドパートナー(ネットカフェ、課金アイテム) [#qdaacb6f]
+***機関車タイニー [#vfcb7266]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/TinyKikansha.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|子ども用機関車&br;&br;【入手法】&br;ECO1周年記念パッケージ&br;「アニバ！BOX」同梱のアイテムチケットで入手(6300円[税込]) &br;&br;&color(#f00000){※07/10/12の上昇ステータス無し};|
+
+***機関車ダンプティー [#x7800f81]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KikanshaDampty.png,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|子ども用機関車&br;&br;【入手法】&br;イーフロストアのECO1周年記念パッケージ&br;「アニバ！BOX」同梱のアイテムチケットで入手(6300円[税込]) &br;&br;&color(#f00000){※07/10/12の上昇ステータス無し};|
+
+***空飛ぶじゅうたん [#r3538db9]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuJuutan.jpg,nolink,128x120);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+10};&br;&color(#a0a0a0){+100};|シナモンが運転する「空とぶじゅうたん」&br;(ドミニオン♀でも正座をする)&br;&br;&br;【入手法】&br;ECOくじ Ver.6|
+
+***空飛ぶじゅうたん（桜） [#g1c956ec]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuJuutanSakura.jpg,nolink,128x122);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+540};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+84};&br;&color(#a0a0a0){+45};&br;&color(#a0a0a0){+28};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|ウィリー・ドゥが運転する桜色のじゅうたん。&br;&br;&br;&br;【入手法】&br;ECOくじ 春☆スペシャル|
+
+***空飛ぶコウモリ傘 [#b73e7128]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuKoumoriGasa.jpg,nolink,128x120);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+90&br;+90&br;+90&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|つかまってふわふわと飛べるコウモリ傘。&br;&br;&color(#ff8000){最大ごきげん度：100};&br;&br;&br;【入手法】&br;ECOくじ Ver.7&br;ECOくじ 初夏☆スペシャル&br;復刻・ECOくじ第7弾 雨のち晴れ&br;&br;ブースト点火時と等速&br;※旧仕様ではパパと等速だったが、&br;PC移動速度上昇に伴い相対的に移動速度が低下|
+
+***空飛ぶコウモリ傘（ピンク） [#j51433d0]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SoraTobuKoumoriGasaPink.jpg,nolink,128x147);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+1};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+49};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+200};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|【入手法】&br;ECOくじ アニバ☆スペシャル！|
+
+***空飛ぶコウモリ傘（赤） [#v2e610b4]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/SoraTobuKoumoriGasaAka.png,nolink,128x128);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:103};&br;&color(#a0a0a0){S.RCV:145};|+1&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+90&br;+90&br;+90&br;+63&br;&br;+50&br;+200&br;+200&br;+120&br;+12&br;+100|【入手法】&br;ＥＣＯ祭り2009で配布された|
+
+***空飛ぶコウモリ傘（白） [#KasaSiro]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/SoraTobuKoumoriGasaSiro.jpg,nolink,124x148);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|&color(#ff8000){最大ごきげん度：100};&br;&br;&br;【入手法】&br;ＥＣＯ祭り2010で配布された|
+
+***たんぽぽの綿毛 [#a57e9e0a]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/watage.JPG,nolink,128x137);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+90&br;+90&br;+90&br;+63&br;&br;&color(#a0a0a0){+49};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+200};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|妖精気分が味わえる&br;巨大なたんぽぽの綿毛&br;&br;【入手法】&br;ECOくじ「さんぽ日和」|
+
+***人力車（金のインスマウス） [#d0425ecb]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Jinrikisha.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|金のインスマウスが引く「人力車」&br;&br;&br;【入手法】&br;ネットカフェキャンペーン第3弾　特賞(30名限定)&br;宝箱15(期間限定)|
+
+***風船ブランコ [#fb1335ee]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/FuusenBuranko.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|いくつもの風船が支えてくれる華やかなブランコ。&br;&br;&color(#ff8000){最大ごきげん度：100};&br;&br;&br;【入手法】&br;ECOくじ Ver.8&br;ECOくじ☆新春ベスト&br;&br;フィールドでのファイアードラゴと等速|
+
+***コウモリブランコ [#r98fd2eb]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Koumori.png,nolink,128x126);&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/koumori2.png,nolink,128x120);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|【入手法】&br;ECOクジ「アニバゴージャス」&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）&br;&br;&color(#ff8000){最大ごきげん度：100};&br;&br;&br;|
+
+***スリーピーカー [#ud07e5d9]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SleepyCar.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|スリーピーの運転する真っ赤な車。&br;&br;【スキル】&br;「クラクション」を使うことができる。&br;&br;【入手法】&br;「EMIL CHRONICLE ONLINE ORIGINAL SOUNDTRACK Vol.2」特典|
+
+***インス神輿 [#jf4ecbfb]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/InnsMikoshi.jpg,nolink,128x170);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|インスマウス達がかついでくれるお神輿。ある意味神々しい。&br;&br;【入手法】&br;ECO公認ネットカフェ夏祭り2007　特賞(50名限定)|
+
+***インス神輿(金) [#k12e1120]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/MikoshiKinNoInnsmouth.jpg,nolink,128x127);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|金のインスマウス達がかついでくれるお神輿。輝く姿に神々しさ倍増。&br;&br;【入手法】&br;ネットカフェ専用クエスト報酬(宝箱１５)|
+
+***インス神輿(黒) [#InsuMikosiBlack]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/MikoshiKuroNoInnsmouth.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|インス達が担いでくれるお神輿に乗って優雅に移動しよう！&br;&br;【入手法】&br;宝箱１５|
+
+***インス神輿(レインボー) [#InsuMikosiRainbow]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/MikoshiRainbowNoInnsmouth.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|インス達が担いでくれるお神輿に乗って優雅に移動しよう！&br;&br;【入手法】&br;宝箱１５|
+
+***インスライダー [#me2de8a4]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/InnsRider.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|マリオネット大運動会、短距離走部門で優勝した&br;インスマウスにのって、世界中を駆け巡ろう！&br;&br;&br;【入手法】&br;ECO公認ネットカフェ　アイテムゲットキャンペーン～第5弾～　特賞(100名限定)|
+
+***インスライダー（黒） [#InsuRiderBlack]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/InnsRiderBlack.png,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|マリオネット大運動会、短距離走部門で優勝した&br;インスマウスにのって、世界中を駆け巡ろう！&br;&br;【入手法】&br;宝箱１５|
+
+***ゴールドライダー [#v6708333]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/GoldRider.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:120&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;+200&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|【入手法】&br;ネットカフェ専用クエスト報酬の宝箱15|
+
+***救急わんわん [#nb3cfb33]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KyuukyuuWanWan.jpg,nolink,125x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|レスキュー犬として厳しい訓練を積んだセントバーナード&br;&br;&br;【入手法】&br;スペシャルBOX2&br;（お得に冒険！　30DAYSパック　Ver.3　同梱）|
+
+***ゴロ付スーツケース [#l65fba41]
+|CENTER:128|CENTERbr;:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/GoroTsukiSuitcase.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;CAPA: +30&br;PAYL: +30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+200};&br;&color(#a0a0a0){+200};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|カワイイ妖精付きの騎乗パートナー&br;360度回転の自動キャスター付&br;高性能スーツケース&br;約４万７７ｋｍまで走行可能&br;&br;【入手法】&br;ガンホーゲームズ『パチンコ・パチスロ』景品&br;宝箱15(期間限定)|
+
+***パンダ [#ad9a6a5a]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Panda.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|愛らしいパンダ&br;ハイハイしてあるく&br;&br;【入手法】&br;スペシャルBOX2&br;（お得に冒険！　30DAYSパック　Ver.4　同梱）|
+
+*** 波乗りサーフボード[#surfboard]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NaminoriSurfBoard.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0;|+1200&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;+12&br;&color(#a0a0a0){+0};|PARTNER装備&br;陸の上でもサーフィンができる？！&br;真夏の太陽に相応しいサーフボード&br;（早い話がリ○ボード）&br;&br;【入手法】&br;ECOくじ Ver.15|
+
+*** 波乗りサーフボード☆[#surfboardStar]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/surfboardStar.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|PARTNER装備&br;陸の上でもサーフィンができる？！&br;真夏の太陽に相応しいサーフボード&br;（説明文は無印と同じ）&br;&br;【入手法】&br;「復刻・ECOくじ第15弾エンジョイ夏休み☆」&br;&br;重量10.0 容量10.0　　新密度30|
+　
+
+***超絶合体エレキテル [#v464272d]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/erekiteru_01.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1200&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|ECOi「超絶合体エレキテル」の登場メカ。黄金のカラーリングがなんとも眩しい！&br;&br;【入手法】&br;ECOくじDX|
+
+***暁の白鰐丸 [#dda24cf7]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/eco_003.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1200&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|PARTNER装備&br;伝説の空飛ぶ戦艦&br;&br;【入手法】&br;ドラマCD「エミる☆みらくる」Vol.１～３&br;Vol.１～３に同梱されている「魔法のコンパス部品」３種類と交換で入手。(ドラマCDVol.3参照)&br;[[伝説の宝箱>Quest/Northern#densetu]]|
+
+***召喚獣・銀狼 [#iac8b30d]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ginrou.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|【入手法】&br;ＥＣＯクジ「西洋ファンタジーロマン」&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）&br;&br;重量5.0　容量5.0|
+
+***宙飛ぶ南京錠 [#ze4cd9be]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/key.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1200&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|宙に浮き、走る謎の巨大南京錠。&br;一説には高名な錬金術師の作と&br;言われているが、詳細は不明。&br;&br;【入手法】&br;ワンタイムパスワード（OTP）付BitCashに付属|
+
+***きらめく流星群 [#fb1335ef]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/MeteorShower.jpg,nolink,121x112);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|星々が足元に集い、光と共に運んでくれる&br;&br;&br;【入手法】&br;ECOくじ 「サマーナイトカーニバル」&br;&br;フィールドでのファイアードラゴと等速|
+
+***陽夜子のハングライダー [#t892rbtk]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/hiyoko_no_hangrider.jpg,nolink,127x123);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+215};&br;&color(#a0a0a0){+136};&br;&color(#a0a0a0){+11};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+50};&br;&color(#a0a0a0){+84};&br;&color(#a0a0a0){+70};&br;&color(#a0a0a0){+16};&br;&color(#a0a0a0){+84};&br;&color(#a0a0a0){+45};&br;&color(#a0a0a0){+28};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|陽夜子とお揃いのハングライダー&br;&br;【入手法】&br;ECOくじ「ECO×ハローキティといっしょ！」|
+
+***フライング・パンプキン [#s7qir082]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/FlyingPumpkin.jpg,nolink,128x120);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+540};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+110};&br;&color(#a0a0a0){+70};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+84};&br;&color(#a0a0a0){+45};&br;&color(#a0a0a0){+28};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|空飛ぶかぼちゃのお化け&br;&br;【入手法】&br;ＥＣＯくじ「洋風ハロウィン」|
+
+***年代物の愛車 [#vintage_bike]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/vintage_bike.jpg,nolink,128x143);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|古き良き時代を感じさせるバイク。どこかの探偵も愛用していた!?&br;&br;【入手法】&br;ECOくじ「怪盗★ハード＆ワイルド」|
+
+***ロイヤルガードグリフォン [#RoGriffon]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/griffon.jpg,nolink,128x128);|なし|HP:350&br;ATK:45&br;M.ATK:29&br;DEF:45&br;M.DEF:45&br;S.HIT:28&br;L.HIT:20&br;M.HIT:20&br;S.AVOID:18&br;L.AVOID:5&br;M.RST:5&br;CRITICAL:20&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+700&br;+155&br;+110&br;+144&br;+45&br;+99&br;+20&br;+35&br;+55&br;+5&br;+5&br;+52&br;&br;+20&br;+200&br;&color(#a0a0a0){+0};&br;+120&br;+12&br;+100|ラグナロクオンラインの３次職「ロイヤルガード」が騎乗している勇敢なグリフォン。&br;ドラゴより足が速い&br;&br;【入手法】&br;[[ROコラボパッケージ>http://www.econline.jp/md/dlpack/ecoro.html]]|
+
+***あけましタイニー [#AkemasiTiny]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/akemashi_tiny.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|乗れる程大きなタイニー&br;&br;【入手法】&br;ＥＣＯクジ「あけましアニバ」|
+
+***スノーボード [#SnowBoard]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/snowboard_01.JPG,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|白銀の世界を移動する際にとっても便利な板&br;ドラゴより足が速い&br;&br;【入手法】&br;ＥＣＯクジ「粉雪のプレゼント」|
+
+***アザラシ [#re4c142a]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/azarasi.jpg,nolink,128x128);|なし|HP:350&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;RCV:120&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|雪国の移動には欠かせない相棒。&br;寒さに強く滑りにくい。&br;&br;【入手法】&br;ECOくじ「雪国アニマルズ」|
+
+***魔法のスーツケース [#MahouNoSuitcase]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/suit.png,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|空を飛ぶ魔法のスーツケース。&br;&br;【入手法】&br;ECOくじ「スウィート・ロリポップ」|
+
+***忍びの大がま [#ed176a62]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/gama.jpg,nolink,128x128);|なし|HP:350&br;ATK:40&br;M.ATK:45&br;DEF:30&br;M.DEF:35&br;S.HIT:28&br;L.HIT:30&br;M.HIT:35&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:25&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|ニンジャの下僕の大ガマガエル&br;&br;【入手法】&br;ECOくじ「くのいち絵巻」|
+
+***リビングうさ子 [#LivingUsako]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/living%20usako.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|少し破れた大きなウサギの&br;ぬいぐるみ&br;&br;【入手法】&br;ECOくじ「ゴシックパーティー」|
+
+***おやすみムーン [#b79b0615]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|画像募集中|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|【入手法】&br;ECOくじ「ドリーミーナイト」|
+
+***おでかけタイニー（抹茶） [#gecadbb1]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/mattya_tiny.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|乗れる程大きなタイニー&br;&br;【入手法】&br;「タイニーのロールケーキ」購入特典|
+
+
+***マジカルステッキ [#magical_s]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/magicals.jpg,nolink,128x128);|なし|HP:10&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+50};&br;&color(#a0a0a0){+200};&br;&color(#a0a0a0){+200};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+12};&br;&color(#a0a0a0){+100};|&color(#ff8000){最大ごきげん度：100};&br;&br;&br;【入手法】&br;ＥＣＯ祭り2011で入場者350名にのみ配布|
+
+***東方青龍 [#ac1460df]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/seiryu_1.jpg,nolink,128x110);|なし|HP:320&br;ATK:49&br;M.ATK:45&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+700&br;+143&br;+200&br;+111&br;+54&br;+120&br;+65&br;+50&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|東方を守護する龍。春の化身ともいわれる&br;&br;&br;【入手法】&br;ECOくじ「花月の桃源郷」|
+
+***みやびな牛車 [#ac1460df]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/gyuusya_1.jpg,nolink,128x128);|なし|HP:350&br;ATK:45&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|みやびな雰囲気を漂わせる牛車&br;&br;&br;【入手法】&br;ECOくじ「春色御伽草子」|
+
+***炎のスケートボード [#jc6ac60f]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/skb.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1200&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|炎を出しながら疾走できるスケートボード&br;&br;&br;【入手法】&br;ECOくじ「陰月の“契約者”」|
+
+***肝っ玉母ちゃん [#p8988fe3]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/brr.jpg,nolink,128x128);|なし|HP:350&br;ATK:45&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|時に厳しく、時に優しく&br;どっしり構えて、大きな愛で&br;導いてくれる&br;&br;【入手法】&br;ECOくじ「ノーティ・スクールガールズ」|
+
+***ミナヅキの日傘 [#ub1a5323]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/minahigasa.jpg,nolink,128x128);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+1};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+200};&br;&color(#a0a0a0){+49};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|「守護魔・ミナヅキ」が&br;愛用している日傘&br;&br;【入手法】&br;ECOくじ「水月の待ち人」&br;&br;&color(#ff8000){最大ごきげん度大：100};&br;&br;&br;|
+
+***遊泳のガラス球 [#ja4c3275]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/yueiglass.jpg,nolink,128x128);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+1};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+90};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+200};&br;&color(#a0a0a0){+49};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|海に浮かんでいるような&br;気分になれるガラス球&br;&br;【入手法】&br;ECOくじ「涼月の姫君」&br;&br;&color(#ff8000){最大ごきげん度：100};&br;&br;&br;|
+
+***西方白虎 [#k8df7d57]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/byakko.jpg,nolink,128x128);|なし|HP:500&br;ATK:30&br;M.ATK:30&br;DEF:30&br;M.DEF:25&br;S.HIT:30&br;L.HIT:30&br;M.HIT:30&br;S.AVOID:10&br;L.AVOID:10&br;M.RST:16&br;CRITICAL:20&br;&br;C.AVOID:5&br;A.SPD:200&br;C.SPD:200&br;RCV:100&br;M.RCV:1&br;S.RCV:0|+700&br;+143&br;+200&br;+111&br;+54&br;+120&br;+65&br;+50&br;+84&br;+45&br;+28&br;+63&br;&br;+5&br;+200&br;+200&br;+120&br;+12&br;+100|西方を守護する白い虎&br;&br;【入手法】&br;ECOくじ「スカーレット・フレイム」|
+
+***ジャグラー・ドゥ [#k8df7d58]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/juggler2.jpg,nolink,128x128);|なし|HP:350&br;ATK:45&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|シナモンが突然変異？により&br;大きくなってしまった姿&br;&br;【入手法】&br;ECOくじ「マッド・ティータイム」|
+
+***黒魔術の箒 [#fd3ad6d6]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/kuromajutu.jpg,nolink,128x128);|なし|HP:350&br;ATK:40&br;M.ATK:50&br;DEF:25&br;M.DEF:30&br;S.HIT:35&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:35&br;&br;C.AVOID:5&br;A.SPD:200&br;C.SPD:200&br;RCV:150&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|黒魔術に用いる怪しげな箒&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;DEF(%)25&br;M.DEF(%)30&br;&br;【入手法】&br;ECOくじ「ウィキッド・ナイトパレード」|
+
+***カーズド・チェア [#cursed]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/cursed_chair.jpg,nolink,128x128);|なし|HP:350&br;ATK:40&br;M.ATK:50&br;DEF:25&br;M.DEF:30&br;S.HIT:35&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:35&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;RCV:150&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|偉くなった気分に浸れる&br;魔法の椅子&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;【入手法】&br;ECOくじ「臘月の守り手」|
+
+***コウモリぶらんこ（アルカード） [#Koumori_Alucard]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Koumori_Alucard.jpg,nolink,128x256);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|可愛らしいコウモリたちが運んでくれるブランコ。&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;【入手法】&br;ECOくじ「ヴァンパイア・ロマンス」|
+
+***まきばのポニー　（通常パートナー←→騎乗パートナー） [#kf1f0bd8]
+-[[パートナー一覧表 （通常パートナー）>PetList/Normal#kf1f0bd8]]を参照
+
+***進撃のチャリオット [#shingeki]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ss20140409_22083812.jpg,nolink,128x120);|なし|HP:350&br;ATK:40&br;M.ATK:50&br;DEF:25&br;M.DEF:30&br;S.HIT:35&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:35&br;&br;C.AVOID:5&br;A.SPD:200&br;C.SPD:200&br;RCV:150&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|立ち乗りで進む&br;チャリオット型の魔法生物&br;&br;【入手法】&br;ECOくじ「黒鉄の騎士団」|
+
+***傀儡のスフィンクス　（通常パートナー←→騎乗パートナー） [#ycec5141]
+-[[パートナー一覧表 （通常パートナー）>PetList/Normal#ycec5141]]を参照
+
+***ココッコーおさんぽ軍団 [#osampo_gundan]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/osampogundan.jpg,nolink,128x128);|なし|HP:350&br;ATK:45&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|大きく成長したココッコーと&br;ミニココッコーたち&br;&br;【入手法】&br;ECOくじ「ぴよぴよぴくにっく」|
+
+***白面金毛九尾ノ狐　（通常パートナー←→騎乗パートナー） [#nine-tailedfox]
+-[[パートナー一覧表 （通常パートナー）>PetList/Normal#nine-tailedfox]]を参照
+
+***パンキッシュロックステージ [#punkkish-rockstage]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/punkkish-rockstage.jpg,nolink,128x256);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|ロックンローラーが愛する&br;ステージを模した姿をしている&br;&br;【入手法】&br;ECOくじ「スパイダー＆パンキッシュ」|
+
+***プリンセスジェリーフィッシュ [#princess_jellyfish]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/princess_jellyfish.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|透き通った美しい体を持つ&br;ピンクと水色のクラゲ&br;&br;【入手法】&br;ECOくじ「マーメイド・オン・ステージ」|
+
+***魔法のスーツケース（白） [#MahouNoSuitcaseShiro]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/magicbaggage_white.png,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|空飛ぶスーツケース。&br;&br;【入手法】&br;薫風☆のってけ！キャンペーン（ECOスタートキャンペーン）|
+
+***悪魔機甲ファウスト [#Akumakikou_Faust]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|画像募集中|なし|HP:400&br;ATK:55&br;M.ATK:50&br;DEF:30&br;M.DEF:20&br;S.HIT:20&br;L.HIT:10&br;M.HIT:13&br;S.AVOID:10&br;L.AVOID:7&br;M.RST:7&br;CRITICAL:35&br;&br;C.AVOID:3&br;A.SPD:100&br;C.SPD:120&br;RCV:130&br;M.RCV:1&br;S.RCV:0|+1200&br;+196&br;+129&br;+113&br;+82&br;+120&br;+48&br;+39&br;+25&br;+14&br;+14&br;+63&br;&br;+16&br;+200&br;+200&br;&color(#a0a0a0){+120};&br;+12&br;&color(#a0a0a0){+0};|メフィストが乗っている&br;機械の乗り物&br;何で動いているかはわからない&br;&br;【入手法】&br;ECOくじ「デーモニック・ディテクティブ」|
+
+***薔薇杖 [#Baratsue]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|画像募集中|なし|HP:320&br;ATK:40&br;M.ATK:50&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:200&br;RCV:150&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+120&br;+48&br;+50&br;+84&br;+45&br;+50&br;+63&br;&br;+25&br;+200&br;+200&br;+120&br;+12&br;+100|マミーが持っている&br;杖の乗り物&br;&br;【入手法】&br;ECOくじ「ローズウィッチ・ハロウィーン」|
+
+***暗黒劇場 [#AnkokuGekijyou]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ankokugekijyou.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+HP&br;+ATK&br;+M.ATK&br;+DEF&br;+M.DEF&br;+S.HIT&br;+L.HIT&br;+M.HIT&br;+S.AVOID&br;+L.AVOID&br;+M.HIT&br;+CRITICAL&br;&br;+C.AVOID&br;+A.SPD&br;+C.SPD&br;+RCV&br;+M.RCV&br;+S.RCV|ダークな雰囲気が漂う劇場&br;&br;【入手法】&br;ECOくじ「終幕オペラハウス」|
+
+***でかでかオオコウモリ [#DekaDekaOokoumori]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|画像募集中|なし|HP:200&br;ATK:18&br;M.ATK:25&br;DEF:17&br;M.DEF:12&br;S.HIT:19&br;L.HIT:9&br;M.HIT:19&br;S.AVOID:22&br;L.AVOID:12&br;M.RST:12&br;CRITICAL:12&br;&br;C.AVOID:3&br;A.SPD:200&br;C.SPD:200&br;RCV:60&br;M.RCV:1&br;S.RCV:0|+825&br;+63&br;+73&br;+50&br;+53&br;+65&br;+25&br;+75&br;+84&br;+23&br;+25&br;+25&br;&br;+12&br;+200&br;+200&br;+60&br;+6&br;+100|魔王が従える、でかいコウモリ&br;&br;【入手法】&br;ECOくじ「大正レトロモダニズム」|
+
+***ファンタジア・ビブリオ [#FantasiaBiblio]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/FantasiaBiblio.jpg,nolink,128x128);|なし|HP:350&br;ATK:30&br;M.ATK:55&br;DEF:25&br;M.DEF:30&br;S.HIT:35&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:10&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:35&br;&br;C.AVOID:5&br;A.SPD:200&br;C.SPD:200&br;RCV:150&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+82&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|ぷかぷか浮かぶ大きな本&br;乗るとなんだか賢くなった&br;気がする&br;ドラゴより足が速い（インスマウスとほぼ等速）&br;&br;【入手法】&br;ECOくじ「記憶の図書館」|
+
+***通学用電動自動二輪[#Tsugakuyo-jidonirin]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/jidonirin.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+1000&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|足に羽が生えたように移動できる&br;電動立ち乗り二輪車&br;&br;【入手法】&br;ECOくじ「早春スクールライフ」|
+
+
+**多人数騎乗パートナー [#y5db0691]
+***やさしい象 [#i29dbe35]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/YasashiiZou.png,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り] &br;&br;大きくてやさしいゾウさん。&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOプレイチケット第9弾|
+//あまり知られていないが、象は本来気性が荒い。
+
+***夢見のイルカ [#zc45b14f]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/dolphin01.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;空飛ぶイルカ&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「スプラッシュサマー」&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***夢見のイルカ（黒） [#l0921eff]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/dolphinbk.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;空飛ぶイルカ&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ「夢見るアクアマリン」|
+
+***シャチフロート [#tb48f4df]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/shachi_float.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4;&br;A.SPD:150;&br;C.SPD:130;&br;RCV:120;&br;M.RCV:1;&br;S.RCV:0;|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;空飛ぶシャチ型の乗り物&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;釣り図鑑　（泥）4ページ目コンプリート報酬|
+
+***騎士の愛馬 [#Kisinoaiba]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/horse%20of%20knight_00.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;2人乗りの馬&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】【入手法】&br;ＥＣＯくじ「ＲＰＧ」&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***ナイトの騎馬 [#h4e72945]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/knightnokiba_00.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:48&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;チェスの駒の「ナイト」をイメージして馬具が身に着けられている騎馬&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ「盤上の騎士団」|
+
+***おとぎの国の白馬 [#x50fee49]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/OtogiNoKuniNoHakuba.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+12&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　Ver.13|
+
+***ユニコーンの馬車 [#q215a537]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/basya.JPG,nolink,128x123);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+527};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+29};&br;&color(#a0a0a0){+75};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+31};&br;&color(#a0a0a0){+81};&br;&color(#a0a0a0){+45};&br;&color(#a0a0a0){+28};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;ユニコーンが引く馬車&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「あこがれアートコレクション」|
+
+***ジニアの馬車 [#p8d831b7]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/ZinniaNoBasha.jpg,nolink,128x114);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+540};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+84};&br;&color(#a0a0a0){+45};&br;&color(#a0a0a0){+28};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［４人乗り］&br;&br;ジニアの花で飾られた白く美しい馬車&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手？に憑依しているキャラクターが&br;一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ハートフルパッケージ　ワールドフラワーセット|
+
+***浪漫の人力車 [#m9baa385]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/roman_01.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;古き良き時代の浪漫溢れる人力車&br;胸アクセサリーに憑依してもらえば&br;大切なあの人を乗せることができる&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　Ver.18&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***浪漫の人力車☆ [#m9baa385]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|画像募集中|なし|HP:●&br;ATK:●&br;M.ATK:●&br;DEF:●&br;M.DEF:●&br;S.HIT:●&br;L.HIT:●&br;M.HIT:●&br;S.AVOID:●&br;L.AVOID:●&br;M.RST:●&br;CRITICAL:●&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|説明&br;&br;【入手法】&br;復刻・ECOくじ第18弾 大正浪漫☆|
+
+***田舎道の手車 [#zeb6243b]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/teguruma.JPG,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;&color(#a0a0a0){+0};&br;+111&br;&color(#a0a0a0){+0};&br;+129&br;+48&br;&color(#a0a0a0){+0};&br;+84&br;+45&br;&color(#a0a0a0){+0};&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;PARTNER装備&br;田舎道をのどかに走る手車&br;&br;胸アクセサリーに憑依してもらえば&br;後ろに乗せることができる&br;&br;【入手法】&br;ECOくじ　「やすらぎカントリーライフ」|
+
+***青春☆自転車 [#re4c142a]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/chari.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;どこにでもあるような普通の自転車&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「新生活」|
+
+***伝書鳩の自転車 [#n9384826]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|画像募集中|なし|HP:?&br;ATK:?&br;M.ATK:?&br;DEF:?&br;M.DEF:?&br;S.HIT:?&br;L.HIT:?&br;M.HIT:?&br;S.AVOID:?&br;L.AVOID:?&br;M.RST:?&br;CRITICAL:?&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|【入手法】&br;ECOくじ「花咲く！アクロニア便り」|
+
+***二人乗りのそり [#yd5911db]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/FutariNoriNoSori.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:150};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;力強いバウの引く、二人乗り用のそり。&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;&color(#ff8000){移動速度は、捨て犬バウ時代の育成量に応じます（検証中）。};&br;&br;【入手法】&br;1回以上転生した捨て犬バウと木片1000個（50個ずつで可）を&br;巡礼者のおじいさん（マイマイ島）に渡す。 &br;&br;&color(#f00000){※07/10/12の上昇ステータス無し};|
+
+***キラキラほうき星 [#mc7ed585]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KiraKiraHoukiBoshi.png,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［４人乗り］&br;&br;夜空に浮かぶ星を集めて作ったフシギな乗り物。4人まで騎乗が可能。&br;&br;&color(#ff8000){使用者に続き、胸アクセサリー、鎧、右手の順で&br;憑依しているキャラクターが一列に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ Ver.9|
+
+***キラキラほうき星☆ [#KirakiraHoukuBosiStar]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|画像募集中|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+540};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+46?};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54?};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39?};&br;&color(#a0a0a0){+84};&br;&color(#a0a0a0){+45};&br;&color(#a0a0a0){+28?};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|説明&br;&br;【入手法】&br;ECOくじ 「真夏のアンコール（12星座）」|
+
+***バイク（※） [#d82c57ba]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/baiku_01.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|［２人乗り］&br;&br;ドミニオン界謹製？オートバイ。&br;（※）内には、赤、青、緑、黒、黄色、オレンジ、白、ピンクの車体カラーが入ります。&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;（赤、青、緑、黒、黄色、オレンジ）&br;   ウェストフォート レジスタンス守衛 CP交換（24000CP～）&br;（白、ピンク）ECOタウン アトラクションゾーン景品交換所(2,000,000e)|
+
+***サイドカーバイク [#f25f95a7]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/SidecarBike.jpg,nolink,128x122);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+540};&br;&color(#a0a0a0){+196};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+111};&br;&color(#a0a0a0){+54};&br;&color(#a0a0a0){+129};&br;&color(#a0a0a0){+48};&br;&color(#a0a0a0){+39};&br;&color(#a0a0a0){+84};&br;&color(#a0a0a0){+45};&br;&color(#a0a0a0){+28};&br;&color(#a0a0a0){+63};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;二人乗りのサイドカーバイク&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが一緒に騎乗している姿が表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ Ver.12|
+
+***インペリアルバイク [#v91d3514]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%82%AFUP.jpg,nolink,128x172);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;メカニカルなバイク&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「ウィンターホリデー」|
+
+***インペリアルバイク（赤） [#rb2e6f07]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/ImperialBike-Red.jpg,nolink,128x128);|なし|HP:1&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:40&br;L.AVOID:40&br;M.RST:40&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+90&br;+90&br;+90&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;オートバイ。&br;胸アクセサリーに憑依しているお友達と一緒に乗ることができ、&br;移動速度がとても早くなる(※)。&br;(※背負い魔・ブーストの点火時と同じ速度です。)&br;&br;【パッシブスキル】&br;モンスタースルー&br;騎乗すると自分から手を出さない限りモンスターから発見されなくなる。&br;（ボスモンスター、ダンジョン内は無効。）&br;&br;【入手法】&br;びっくりアイテムBOX一等賞|
+
+***戦車 [#hdcda81e]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Tank01.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1000&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+40};|［３人乗り］&br;&br;機械時代に開発されたと思われる兵器。&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧の順番に２人まで乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧に憑依しているキャラクターが戦車の上に乗って表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　Ver.19&br;パートナー引き換え券（びっくりBOX：2013/04/25～2013/5/23）|
+
+***オフロードバギー [#w329a646]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Buggy.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1000&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+40};|［４人乗り］&br;&br;オフロードバギー。&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の順番に３人まで乗ることが出来る&br;&br;&color(#ff8000){&br;※後ろの2人には専用モーションあり};&color(#ff8000){&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;CP48000|
+
+***ウィングトラック [#tbab5ef4]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/wingtrack.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+1000&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+40};|［４人乗り］&br;&br;荷室に何が積んであるかは秘密&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の&br;順番に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「バレンタインライブ」|
+
+***ハネムーン気球 [#q215a536]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/kikyuu.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;あまり高くは飛べない熱気球の一種&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「ハネムーンバカンス」|
+
+***夢境のゴンドラ [#b2010cd4]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/gondora.JPG,nolink,124x117);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;&color(#a0a0a0){+0};&br;+111&br;&color(#a0a0a0){+0};&br;+129&br;+48&br;&color(#a0a0a0){+0};&br;+84&br;+45&br;&color(#a0a0a0){+0};&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［４人乗り］&br;&br;４人乗りのゴンドラ&br;シナモンが船頭となってゴンドラを漕いでくれます&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ドラマCD連動イベント&br;&br;Vol.1特典「壊れた船体」、Vol.2特典「ほつれたぬいぐるみ」を揃え、タイニーアイランド・湖畔のティタに話しかけると開始|
+
+***くるくるティータイム [#h629a953]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/KurukuruTeaTime.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;二人乗りできるティーカップ&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOプレイチケット第10弾|
+
+***カーニバルの飛行船 [#gkanikj1]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/hikousen.jpg,nolink,128x128);|なし|HP:?&br;ATK:?&br;M.ATK:?&br;DEF:?&br;M.DEF:?&br;S.HIT:?&br;L.HIT:?&br;M.HIT:?&br;S.AVOID:?&br;L.AVOID:?&br;M.RST:?&br;CRITICAL:?&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［４人乗り］&br;&br;４人乗りの飛行船&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の&br;順番に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ「ハートメイトカーニバル」|
+
+***ゴシック風馬車 [#g122580d]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/gothiccarriage.jpg,nolink,128x128);|なし|HP:350&br;ATK:45&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+129&br;+48&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|［３人乗り］&br;&br;3人乗りできるゴシック風馬車。&br;胸アクセサリーに憑依しているお友達と一緒に乗ることが出来る。&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧の順番に２人まで乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー憑依してるキャラクターは隣座席に、鎧に憑依しているキャラクターは馬に騎乗して表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「プリティ・サーヴァント！」|
+
+***クラシック・カー [#classic]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/classic_car.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:43&br;L.HIT:24&br;M.HIT:13&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:21&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:－};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;レトロ調で古き良き時代を感じさせる車&br;胸アクセサリー装備に憑依したものを一緒に乗せることができる&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「スイートフレンチ＆クラシック」|
+
+***海賊船・マーチャント号 [#PirateShip]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Pirate_Ship.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;&color(#a0a0a0){C.AVOID:－};&br;&color(#a0a0a0){A.SPD:－};&br;&color(#a0a0a0){C.SPD:－};&br;&color(#a0a0a0){RCV:120};&br;&color(#a0a0a0){M.RCV:－};&br;&color(#a0a0a0){S.RCV:－};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;+120&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［４人乗り］&br;&br;海賊が使う、大きな帆船&br;&br;憑依することで、使用者に続き&br;胸アクセサリー、鎧、右手の順番に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「パイレーツ・クロニクル」|
+
+***メリーゴーランド [#b04b1aaf]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/merry-go-round.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|［３人乗り］&br;&br;３人乗りできる回転木馬&br;胸アクセサリーと &br;右手に憑依しているお友達が &br;馬に乗ることができる。&br;&br;&color(#ff8000){胸アクセサリー、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「ふぁん☆ふぁん　ファンフェアー！」|
+
+***みんなの鍋 [#aa494486]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/Minna_no_nabe.jpg,nolink,128x128);|なし|HP:350&br;ATK:35&br;M.ATK:45&br;DEF:45&br;M.DEF:25&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:130&br;M.RCV:1&br;S.RCV:0|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|［４人乗り］&br;&br;グツグツ煮込んだ鍋が&br;食欲をそそる&br;みんなと一緒に入ると楽しい……？&br;&br;&color(#ff8000){胸アクセサリー、鎧、右手に憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br;ECOくじ　「ドキドキ・クッキング！」|
+
+***サークルＫサンクス気球 [#circlek0]
+|CENTER:128|CENTER:70|RIGHT:85|RIGHT:40|LEFT:480|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/circleksunkus_kikyuu.jpg,nolink,128x128);|なし|HP:320&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;{C.AVOID:4};&br;{A.SPD:150};&br;{C.SPD:130};&br;{RCV:120};&br;{M.RCV:1};&br;{S.RCV:0};|+540&br;+196&br;+129&br;+111&br;+54&br;+110&br;+70&br;+39&br;+84&br;+45&br;+28&br;+63&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+120};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|［２人乗り］&br;&br;熱気球の一種、&br;サークルＫサンクスのロゴと&br;ユニフォームカラーが施されている&br;胸アクセサリーに憑依している&br;お友達と一緒に乗ることが出来る&br;&br;&color(#ff8000){胸アクセサリーに憑依しているキャラクターが表示されます。&br;※ログアウト中の憑依キャラクターは表示されません。};&br;&br;【入手法】&br; ＥＣＯ×ＬＯＴＴＥ サークルＫサンクス限定&br;通常商品コース|
+
+
+**ＤＥＭ [#kef3cb50] 
+***ＤＥＭ・キマイラフォーム [#ja3d961b]
+-パートナーではなくＤＥＭキャラクタ、[[キマイラフォーム>DEM#Kimaira]]を参照
+//質問スレにあった騎乗パートナーと間違えて探しに来た人用です
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類（転生している場合は転生回数）、ステータス名、ステータス値を記入して下さい。};
+#pcomment

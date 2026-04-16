@@ -1,0 +1,1142 @@
+# Quest/Season/Anemone5
+
+*Anemoneワールド 第5回 [#qef476d9]
+&color(red){既存ページの枠にとらわれず、検証結果や考察を書くページ};
+&color(red){「不具合だろう」「本鯖実装時に修正されるだろう」といった予想は当てにせず、自分で不具合修正や効果調整の要望を送りましょう。};
+
+#contents
+
+
+**公式の告知 [#e3376eb6]
+公式サイト：[[Anemoneワールド>http://econline.gungho.jp/special/anemone]]
+実施期間：2012/05/11～2011/05/18
+
+公式ブログ：2012/06/13 [[教授のお部屋～Anemoneワールドで発生している不具合について:http://eco-blog.livedoor.biz/archives/51943059.html]]
+
+**ソードマン系 [#a952b1da]
+- 剣命中率上昇はＬｖ１上げるごとに５上昇、Ｌｖ５で計２５上昇します --  &new{2012-06-12 (火) 13:08:57};
+- みね打ちはＬｖ５で３２２％の模様 --  &new{2012-06-12 (火) 13:18:10};
+
+#comment(noname)
+
+**フェンサー系 [#wb9378de]
+- フレアスティングＬｖ５の初撃が５００％にアップしています。追撃の方はまだ検証中です --  &new{2012-06-12 (火) 06:19:30};
+- ダークフレアＬｖ３は８００％にアップしています。 --  &new{2012-06-12 (火) 06:23:19};
+
+#comment(noname)
+
+**スカウト系 [#g407b0af]
+- イレイザーLv5のDEF減少効果は-100から-50%へ（効果低下とともにマイナスから％へ変更） --  &new{2012-06-11 (月) 17:13:29};
+- 幻視形代で召喚した分身が追尾してきてくれない… --  &new{2012-06-12 (火) 00:06:00};
+- イレイザーLv5で 減算DEF -50% 除算DEF -50。マイナスと％の違いに注意 --  &new{2012-06-12 (火) 23:09:10};
+- イレイザー　仕様変更により雑魚戦で使うメリットがほぼなくなり　ボス専用スキル化 --  &new{2012-06-13 (水) 15:06:06};
+- ↑十分すぎるほどあると思うが --  &new{2012-06-13 (水) 17:45:13};
+
+#comment(noname)
+
+**アーチャー系 [#mc28ab74]
+
+
+#comment(noname)
+
+**ウィザード系 [#k6f99d64]
+***ヒーティング・インテンスヒートシールド・アクアラング [#c6c44990]
+-効果時間を大幅に延長いたします。
+--300秒 → 1800秒
+
+***エナジーシールド [#p44e2baf]
+-効果時間を大幅に延長いたします。
+|~スキルLV|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|23|26|29|32|35|
+|左DEF (除算)|+3|+3|+6|+6|+9|
+|右DEF (減算)|+5|+10|+10|+15|+15|
+|詠唱時間(s)|>|>|>|>|1|
+|ディレイ(s)|5|4.5|4|3.5|3|
+|COLOR(gray):旧持続時間(s)|COLOR(gray):600|COLOR(gray):500|COLOR(gray):400|COLOR(gray):300|COLOR(gray):200|
+|COLOR(RED):新持続時間(s)|COLOR(red):900|COLOR(red):900|COLOR(red):?|COLOR(red):?|COLOR(red):900|
+***マジックシールド [#mb00f600]
+-効果時間を大幅に延長いたします。
+-基本魔法防御力の上昇値を減少いたします。
+|~スキルLV|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|23|26|29|32|35|
+|COLOR(gray):旧左M.DEF (除算)|COLOR(gray):+15|COLOR(gray):+20|COLOR(gray):+25|COLOR(gray):+30|COLOR(gray):+35|
+|COLOR(RED):新左M.DEF (除算)|COLOR(red):+4|COLOR(red):+8|COLOR(red):+12|COLOR(red):+16|COLOR(red):+20|
+|右M.DEF (減算)|+5|+10|+10|+15|+15|
+|詠唱時間(s)|>|>|>|>|1|
+|ディレイ(s)|5|4.5|4|3.5|3|
+|COLOR(gray):旧持続時間(s)|COLOR(gray):300|COLOR(gray):250|COLOR(gray):200|COLOR(gray):150|COLOR(gray):100|
+|COLOR(RED):新持続時間(s)|COLOR(red):900|COLOR(red):900|COLOR(red):900|COLOR(red):900|COLOR(red):900|
+***エナジーブラスト [#a8d18c0d]
+-威力を上方修正いたします。
+
+|~スキルLV|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|COLOR(gray):旧威力|COLOR(gray):110%|COLOR(gray):180%|COLOR(gray):250%|COLOR(gray):330%|COLOR(gray):400%|
+|COLOR(red):新威力|COLOR(red):190%|COLOR(red):260%|COLOR(red):340%|COLOR(red):410%|COLOR(red):480%|
+
+***マジックグローブ [#d52631b2]
+-威力を上方修正いたします。
+-消費MPを増加いたします。
+
+|~スキルLV|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|COLOR(gray):旧消費MP|COLOR(gray):18|COLOR(gray):21|COLOR(gray):24|COLOR(gray):27|COLOR(gray):30|
+|COLOR(red):新消費MP|COLOR(red):28|COLOR(red):31|COLOR(red):34|COLOR(red):37|COLOR(red):40|
+|COLOR(gray):旧威力|COLOR(gray):180%|COLOR(gray):120%|COLOR(gray):125%|COLOR(gray):120%|COLOR(gray):180%|
+|COLOR(red):新威力|COLOR(red):420%|COLOR(red):360%|COLOR(red):280%|COLOR(red):260%|COLOR(red):230%|
+|COLOR(gray):旧全威力|COLOR(gray):540%|COLOR(gray):480%|COLOR(gray):375%|COLOR(gray):480%|COLOR(gray):900%|
+|COLOR(red):新全威力|COLOR(red):420%|COLOR(red):1440%|COLOR(red):1400%|COLOR(red):1300%|COLOR(red):1380%|
+
+-属性の恩恵が受けられないためか、他職の物よりも倍率が高くなった
+-しかしLv2が一番ダメージ高くなるってどういうこと？
+--Lv1はノックバック距離が長いので1ヒット、Lv2以降は動かない敵にしか最後の1ヒットが当たらないため、実際のヒット数は射程の値より1少ない
+--この前提の場合の威力は下記表のようになる
+|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|420%|1080%|1120%|1040%|1150%|
+
+
+***オーバーワーク [#feb78f95]
+-スキル効果
+--効果時間を延長いたします。
+---20秒→60秒に増加(Lv問わず)
+--対象の魔法のディレイを短縮するスキルへと変更いたします。
+--魔法ディレイキャンセル効果以外のディレイキャンセル効果と
+重複できるように変更いたします。12/06/11更新
+
+
+|~スキルLV|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|COLOR(gray):旧持続時間(s)|>|>|>|>|COLOR(gray):20|
+|COLOR(RED):新持続時間(s)|>|>|>|>|COLOR(red):60|
+|COLOR(gray):物理スキルディレイキャンセル率|COLOR(gray):25%|COLOR(gray): ?%|COLOR(gray): ?%|COLOR(gray): ?%|COLOR(gray):40%|
+|COLOR(red):魔法スキルディレイキャンセル率|COLOR(red): ?%|COLOR(red): ?%|COLOR(red): ?%|COLOR(red): ?%|COLOR(red):25%?|
+
+
+
+--%%何の効果も無い。%%
+---06/12のアップデートにより不具合修正。でもさらに不具合発生？
+--%%Lvを問わず魔法ディレイが無くなる模様%%（恐らく不具合？）
+---06/15のアップデートにより不具合修正された
+-使用感
+--気持ち程度短くなる
+--スキルを連打するか、エナジーシールドぐらいディレイが長ければ実感が可能
+-考察
+--他人にかけることもあるため、鈍足はやはりネック。効果時間上書き時のみ確率で発生する等、回避方法が欲しい。
+--本実装時、鈍足効果撤廃
+
+***ディジスト [#d745776b]
+-憑依中使用禁止に変更いたします。
+-効果時間を延長いたします。
+-MP吸収率を上昇いたします。
+|~スキルLV|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|COLOR(gray):旧MP吸収率|COLOR(gray):10%|COLOR(gray):20%|COLOR(gray):30%|COLOR(gray):40%|COLOR(gray):50%|
+|COLOR(RED):新MP吸収率|COLOR(red):80%|COLOR(red):100%|COLOR(red):120%|COLOR(red):140%|COLOR(red):160%|
+|COLOR(gray):旧持続時間(s)|COLOR(gray):30|COLOR(gray):30|COLOR(gray):30|COLOR(gray):30|COLOR(gray):30|
+|COLOR(RED):新持続時間(s)|COLOR(red):600|COLOR(red):?|COLOR(red):?|COLOR(red):?|COLOR(red):1800|
+-考察
+--時間・回復力は上がったが、現在はPOTの回復量が上がっており
+元々ダメージを受けずに倒す狩りが一般的なため、憑依中の支援できなくなった分弱体化したとも言える
+
+***インビジブルブレイク [#j6062a53]
+-効果時間を延長いたします。
+|~スキルLV|Lv1|h
+|CENTER:|CENTER:|c
+|COLOR(gray):旧足下持続時間(s)|COLOR(gray):5|
+|COLOR(gray):旧対象地面持続時間(s)|COLOR(gray):10|
+|COLOR(RED):新足下持続時間(s)|COLOR(RED):5|
+|COLOR(RED):新対象地面持続時間(s)|COLOR(RED):30|
+
+***エナジーバリア [#d908101d]
+-効果時間を延長いたします。
+
+***マジックバリア [#n86d1715]
+-効果時間を延長いたします。
+-基本魔法防御力の上昇値を減少いたします。
+
+--基本防御力はマジックシールドの最大Lvの物と一緒、覚えてないときはLv1の物と同じ
+
+***ディビリテイト [#w85ef1f8]
+-状態異常を付与しやすいように変更いたします。
+--成功率上限の上昇は見られず、相変わらずプルル相手にすら何度も掛ける必要がある。要要望
+
+***クラッター [#b72202f2]
+-状態異常を付与しやすいように変更いたします。
+--成功率上限の上昇は見られず、相変わらずプルル相手にすら何度も掛ける必要がある。要要望
+
+***エナジーバーン [#rf579b1e]
+-威力を上方修正いたします。
+
+|~効果＼SkillLV|Lv1|Lv2|Lv3|h
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|COLOR(gray):(旧)威力|COLOR(gray):300%|COLOR(gray):360%|COLOR(gray):420%|
+|COLOR(red):(新)威力|COLOR(red):350%|COLOR(red):440%|COLOR(red):530%|
+|COLOR(gray):(旧)追撃|COLOR(gray):>|COLOR(gray):>|COLOR(gray):200%|
+|COLOR(red):(新)追撃|>|>|COLOR(red):300%|
+
+-考察
+--ディレイは長いが上位攻撃魔法を覚えるまでの主力として使っていけるレベルに
+
+
+***ディバインバリア [#n3442a35]
+-効果時間を延長いたします。
+-基本防御力の上昇値を減少いたします。
+-基本魔法防御力の上昇値を減少いたします。
+|~効果＼SkillLV|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|32|39|46|53|60|
+|COLOR(gray):旧左DEF (除算)|COLOR(gray):+13|COLOR(gray):+13|COLOR(gray):+16|COLOR(gray):+16|COLOR(gray):+19|
+|COLOR(red):新左DEF (除算)|COLOR(red):+5|COLOR(red):+7|COLOR(red):+9|COLOR(red):+11|COLOR(red):+15|
+|右DEF (減算)|+5|+10|+10|+15|+20|
+|COLOR(gray):旧左M.DEF (除算)|COLOR(gray):+15|COLOR(gray):+20|COLOR(gray):+25|COLOR(gray):+30|COLOR(gray):+35|
+|COLOR(red):新右M.DEF 除算)|COLOR(red):+5|COLOR(red):+7|COLOR(red):+12|COLOR(red):+15|COLOR(red):+25|
+|右M.DEF (減算)|+10|+15|+15|+20|+20|
+|詠唱時間(s)|>|>|>|>|3.5|
+|ディレイ(s)|>|>|>|>|0.5|
+|COLOR(gray):旧持続時間(s)|>|>|>|>|COLOR(gray):125|
+|COLOR(red):持続時間(s)|COLOR(red):?|COLOR(red):?|COLOR(red):?|COLOR(red):?|COLOR(red):185|
+-考察
+//--左DEF・MDEFの優位性が下がった上に効果が下がったため大幅な弱体化
+--修正後も左DEFは重要なためやはり必要なスキル。
+--しかし、性能が下がった事に加え、効果の長さでE・Mシールド、E・Mバリアに負けるなど
+下位のスキルとの性能差が縮まってしまったのは否めない。
+
+***レイビングソード [#c4f938e3]
+-威力を上方修正いたします。
+-消費MPを増加いたします。
+|~効果＼SkillLv|Lv1|Lv2|Lv3|h
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|COLOR(gray):旧消費MP|COLOR(gray):48|COLOR(gray):58|COLOR(gray):68|
+|COLOR(red):新消費MP|COLOR(red):48|COLOR(red):68|COLOR(red):76|
+|COLOR(gray):旧威力|COLOR(gray):450％|COLOR(gray):650％|COLOR(gray):850％|
+|COLOR(red):新威力|COLOR(red):550％|COLOR(red):750％|COLOR(red):950％|
+
+***プロヴァイド [#i999d017]
+-効果時間を延長いたします。
+
+-考察
+--時間が長くなったからと言って憑依専用では今までと変わりなし
+
+***エナジーストーム [#h38a7dd4]
+-威力を上方修正いたします。
+-キャストタイムを短縮いたします。
+-ディレイタイムを若干短縮いたします。
+|~効果＼SkillLv|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|20|24|28|32|36|
+|COLOR(gray):旧威力|COLOR(gray):120％|COLOR(gray):170％|COLOR(gray):220％|COLOR(gray):270％|COLOR(gray):320％|
+|COLOR(red):新威力|COLOR(red):420％|COLOR(red):450％|COLOR(red):480％|COLOR(red):510％|COLOR(red):560％|
+|COLOR(gray):旧詠唱時間(s)|COLOR(gray):3.0|COLOR(gray):3.5|COLOR(gray):4.0|COLOR(gray):4.5|COLOR(gray):5.0|
+|COLOR(red):新詠唱時間(s)|COLOR(red):2?|COLOR(red):?|COLOR(red):?|COLOR(red):?|COLOR(red):3?|
+|COLOR(gray):旧ディレイ(s)|COLOR(gray):1.2|COLOR(gray):1.4|COLOR(gray):1.6|COLOR(gray):1.8|COLOR(gray):2.0|
+|COLOR(red):新ディレイ(s)|COLOR(red):0.5?|COLOR(red):?|COLOR(red):?|COLOR(red):?|COLOR(red):1?|
+
+-詠唱、ディレイ、威力全てが大きく上方調整
+-習得時点はおろか、範囲や状態異常にさえ目を瞑れば、時間当たりの攻撃力ではルミナリィノヴァやフリークブラストを超えるため、ディストラクショングレアーを習得するまでの範囲火力として役立つ
+
+***エナジーフリーク [#f794bb10]
+-威力を上方修正いたします。
+|~効果＼SkillLv|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|14|19|24|29|34|
+|COLOR(gray):旧威力|COLOR(gray):100％|COLOR(gray):120％|COLOR(gray):140％|COLOR(gray):160％|COLOR(gray):180％|
+|COLOR(red):新威力|COLOR(red):140％|COLOR(red):180％|COLOR(red):220％|COLOR(red):260％|COLOR(red):300％|
+
+
+-考察
+--倍率は上がったが、元々ダメージ目的で使う物ではなかったため使い勝手はあまり変わらない
+
+***マジックリベレイション [#p4eec75a]
+-効果時間を延長いたします。
+
+|~効果＼SkillLv|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|12|18|24|30|36|
+|基本詠唱時間(s)|1.2|1.4|1.6|1.8|2.0|
+|ディレイ(s)|1.2|1.4|1.6|1.8|2.0|
+|COLOR(gray):旧効果時間(s)|COLOR(gray):40|COLOR(gray):45|COLOR(gray):50|COLOR(gray):55|COLOR(gray):60|
+|COLOR(red):新効果時間(s)|COLOR(red):?|COLOR(red):?|COLOR(red):?|COLOR(red):?|COLOR(red):?|
+
+***エナジーフレア [#o751491f]
+-威力を上方修正いたします。
+-持続ダメージの威力を上方修正いたします。
+-持続ダメージの効果時間を短縮いたします。
+-キャストタイムを若干短縮いたします。
+-ディレイタイムを若干短縮いたします。
+
+|~効果＼SkillLv|Lv1|Lv2|Lv3|h
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|28|30|32|
+|COLOR(gray):旧威力|COLOR(gray):130％|COLOR(gray):140％|COLOR(gray):150％|
+|COLOR(red):新威力|COLOR(red):670％|COLOR(red):740％|COLOR(red):810％|
+|COLOR(gray):旧詠唱時間(s)|COLOR(gray):2|COLOR(gray):3|COLOR(gray):4|
+|COLOR(red):新詠唱時間(s)|COLOR(red):?|COLOR(red):?|COLOR(red):2?|
+|COLOR(gray):旧ディレイ(s)|>|>|COLOR(gray):1|
+|COLOR(red):新ディレイ(s)|>|>|COLOR(red):?|
+|COLOR(gray):旧フレアダメージ|COLOR(gray):1.7%|COLOR(gray):2.1%|COLOR(gray):2.5%|
+|COLOR(red):新フレアダメージ|COLOR(red):0.8%|COLOR(red):0.8%|COLOR(red):0.8%|
+|COLOR(gray):旧持続時間(s)|>|>|COLOR(gray):20(ダメージ回数9～10回)|
+|COLOR(red):新持続時間(s)|>|>|COLOR(red):5(ダメージ回数2回)|
+|射程|>|>|6|
+-威力が高くなり、習得時点で主力として使っていけるぐらいになった
+-フレアのダメージが明らかにおかしい。上方修正どころかほぼ無意味に
+--上限ダメージ（300）は変わらないままダメージ回数が減ったので、フレアのダメージが威力が上昇したとしても、全体的な持続ダメージが減ることは確実
+--設定ミスの上に前よりダメージが減少の怖れ有り。要要望
+--ノヴァのフレアに影響ないが、忘れられてる可能性あり
+
+***ドッペルゲンガー [#b05ecab0]
+-ドッペルゲンガーの能力を使用者の基本ステータスから引き継ぐように変更いたします。
+
+
+|~効果＼SkillLv|Lv1|Lv2|Lv3|h
+|COLOR(gray):旧術者から受け継ぐ能力|COLOR(gray):30％|COLOR(gray):50％|COLOR(gray):70％|
+|COLOR(red):新術者から受け継ぐ能力|COLOR(red):90％|COLOR(red):95％|COLOR(red):100％|
+
+-スキル効果
+--表上では前より大幅強化されてるように見えるが
+支援効果も含めたステータスから、基本ステータスのみ参照する様になったため同じ程度
+
+---ただし二重バリアなどの技が使えなくなった事と、装備による減算防御が適用されないため、防御面はかなり弱体化
+---使用スキルが強化されたため、攻撃面では若干の強化
+---特にエナジーフレアは大幅な強化が施されている
+---基本ステータスのみを参照するようになったためか、現在のHPを参照しなくなり、常にHP満タンの状態で召喚される様になった
+--%%召喚したドッペルに対し、支援スキルなどを掛けると　Lv3相当で基本ステータスを読み直す仕様は健在%%
+---6/15のアップデートにより修正された
+--術者が攻撃されると攻撃を止めてしまう仕様も健在
+
+
+***ラストインクエスト [#add91058]
+-威力を上方修正いたします。
+|~効果＼SkillLv|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|COLOR(gray):旧威力|COLOR(gray):150%|COLOR(gray):200%|COLOR(gray):250%|COLOR(gray):300%|COLOR(gray):350%|
+|COLOR(red):新威力|COLOR(red):250%|COLOR(red):300%|COLOR(red):350%|COLOR(red):400%|COLOR(red):450%|
+-元々使えるスキルだったが威力が向上してより使いやすくなった
+
+***フォースマスター [#ke8f02d0]
+-基本魔法防御力と追加魔法防御力の減少率を減少いたします。
+- イレイザーLv5で 減算DEF -50% 除算DEF -50。恐らくフォースマスターも同様の量（要検証）
+
+
+|~効果＼SkillLv|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費SP|16|22|28|34|40|
+|M.ATK上昇量|>|>|>|>|+150%|
+|持続時間(s)|60|90|120|150|180|
+|COLOR(gray):旧左MDEF減少量|COLOR(gray):-60|COLOR(gray):-70|COLOR(gray):-80|COLOR(gray):-90|COLOR(gray):-100|
+|COLOR(red):新左MDEF減少量|COLOR(red):-?|COLOR(red):-?|COLOR(red):-?|COLOR(red):-?|COLOR(red):-50?|
+|COLOR(gray):旧右MDEF減少量|COLOR(gray):-100%|COLOR(gray):-100%|COLOR(gray):-100%|COLOR(gray):-100%|COLOR(gray):-100%|
+|COLOR(red):新右MDEF減少量|COLOR(red):-?|COLOR(red):-?|COLOR(red):-?|COLOR(red):-?|COLOR(red):-50%?|
+-大幅な弱体化
+--元々が異常だったとも言える。
+
+***フォースシールド [#a99fd91b]
+-基本防御力の上昇値を減少いたします。
+-基本魔法防御力の上昇値を減少いたします。
+|~効果＼SkillLv|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|効果時間(s)|180|210|240|270|300|
+|発動HP(%)|16|24|32|40|48|
+|COLOR(gray):旧左DEF&br;''(補正最大)''|>|>|>|>|COLOR(gray):+15&br;''(+24)''|
+|COLOR(red):新左DEF&br;''&color(red){(補正最大)};''|>|>|>|>|COLOR(red):+6&br;''&color(red){(+15)};''|
+|右DEF&br;''(補正最大)''|>|>|>|>|+80&br;''(+95)''|
+|COLOR(gray):旧左MDEF&br;''(補正最大)''|>|>|>|>|COLOR(gray):+15&br;''(+50)''|
+|COLOR(red):新左MDEF&br;''&color(red){(補正最大)};''|>|>|>|>|COLOR(red):+5&br;''&color(red){(+25)};''|
+|右MDEF&br;''(補正最大)''|>|>|>|>|+80&br;''(+95)''|
+|~エナジーシールド習得Lv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|
+|COLOR(gray):~旧左DEF補正値|COLOR(gray):+3|COLOR(gray):+3|COLOR(gray):+6|COLOR(gray):+6|COLOR(gray):+9|
+|~COLOR(red):新左DEF補正値|COLOR(red):+3|COLOR(red):+3|COLOR(red):+6|COLOR(red):+6|COLOR(red):+9|
+|~右DEF補正値|+5|+10|+10|+15|+15|
+|~マジックシールド習得Lv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|
+|COLOR(gray):~旧左MDEF補正値|COLOR(gray):+15|COLOR(gray):+20|COLOR(gray):+25|COLOR(gray):+30|COLOR(gray):+35|
+|~COLOR(red):新左MDEF補正値|COLOR(red):+4|COLOR(red):+8|COLOR(red):+12|COLOR(red):+16|COLOR(red):+20|
+|~右MDEF補正値|+5|+10|+10|+15|+15|
+-左DEF,MDEFの増加量はディバインバリアと同じ
+--このままでは右DEFのためだけに習得する事になりそう
+--発動に制限があるのにもう少しなんとかならないものか
+
+***コメント [#sc4e4334]
+
+
+-「マジックシールド」習得時に追加される基本魔法防御力の上昇値を減少いたします
+- 魔法ディレイキャンセル効果確認出来ませんでした。＊＊状態になりました表示すら無い --  &new{2012-06-11 (月) 17:03:32};
+- フォースマスターLv5のDEF減少効果は-100から-50%へ（効果低下とともにマイナスから％へ変更） --  &new{2012-06-11 (月) 17:13:46};
+- オーバーワーク 修正されたが、Lv1でもLv5でも効果が変わらない。また不具合？ --  &new{2012-06-12 (火) 23:07:43};
+--不具合だった様子
+
+#comment(noname)
+
+**シャーマン系 [#e3f90978]
+- スピエンとJDCが重複する。魔法ディレイキャンセル効果か？ --  &new{2012-06-11 (月) 20:52:57};
+- ↑不具合だった。通常のDC効果。DCの中で一番効果が高い --  &new{2012-06-12 (火) 23:08:17};
+- エレメンタルラース クールタイム180→100秒 。正直今までと変わらない --  &new{2012-06-13 (水) 05:03:11};
+- エレメンタルラース　CT10秒程度でないとSP使って取る価値もない --  &new{2012-06-13 (水) 14:57:40};
+
+#comment(noname)
+
+**ウァテス系 [#lcdc5509]
+-演奏系スキルは''ミュージカルマスタリーなし''での詠唱時間とディレイを記載しています。
+
+***ホーリーライト [#ybce98de]
+-消費MPを減少いたします。 
+|~Lv|1|2|3|4|5|h
+|COLOR(gray):(旧)消費MP|COLOR(gray):10|COLOR(gray):14|COLOR(gray):18|COLOR(gray):22|COLOR(gray):26|
+|COLOR(red):消費MP|COLOR(red):8|COLOR(red):10|COLOR(red):12|COLOR(red):14|COLOR(red):16|
+|ダメージ倍率|120%|145%|170%|195%|220%|
+|詠唱時間(s)|1.0|1.5|2.0|2.5|3.0|
+|詠唱後ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+
+***レジスト系 [#p27ea77e]
+-効果時間を大幅に延長いたします。 
+|~Lv|1|2|3|4|5|h
+|消費MP|7|10|13|16|19|
+|COLOR(gray):(旧)効果時間(s)|COLOR(gray):60|COLOR(gray):80|COLOR(gray):100|COLOR(gray):120|COLOR(gray):180|
+|COLOR(red):効果時間(s)|COLOR(red):1320|COLOR(red):1440|COLOR(red):1560|COLOR(red):1680|COLOR(red):1800|
+※ポイズンレジストで調査
+
+
+***ターンアンデッド [#t85700e8]
+-威力を上方修正いたします。 
+|~Lv|1|2|3|4|5|h
+|消費MP|15|20|25|30|35|
+|詠唱時間(s)|1.0|1.1|1.2|1.3|1.4|
+|詠唱後ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|COLOR(gray):(旧)ダメージ倍率|COLOR(gray):125%|COLOR(gray):150%|COLOR(gray):200%|COLOR(gray):250%|COLOR(gray):300%|
+|COLOR(red):ダメージ倍率|COLOR(red):240%|COLOR(red):290%|COLOR(red):350%|COLOR(red):420%|COLOR(red):500%|
+
+***フラッシュライト [#m659af2b]
+-キャストタイムを若干短縮いたします。
+-ディレイタイムを若干短縮いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|5|16|26|37|49|
+|継続時間(s)|30|30|30|30|30|
+|COLOR(gray):(旧)基本詠唱時間(s)|COLOR(gray):2.0|COLOR(gray):2.0|COLOR(gray):2.0|COLOR(gray):2.0|COLOR(gray):2.0|
+|COLOR(gray):(旧)ディレイ(s)|COLOR(gray):1.0|COLOR(gray):1.0|COLOR(gray):1.0|COLOR(gray):1.0|COLOR(gray):1.0|
+|COLOR(red):基本詠唱時間(s)|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|
+|COLOR(red):ディレイ(s)|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|
+
+
+***アンデッドダメージ上昇 [#m465d052]
+-魔法攻撃でも効果を発揮するように変更いたします。
+|~Lv|1|2|3|4|5|h
+|COLOR(gray):(旧)ダメージ上昇率(%)|COLOR(gray):3%|COLOR(gray):6%|COLOR(gray):9%|COLOR(gray):12%|COLOR(gray):15%|
+|COLOR(red):ダメージ上昇率(%)|COLOR(red):12%|COLOR(red):14%|COLOR(red):16%|COLOR(red):18%|COLOR(red):20%|
+---ターンアンデッドには効果無し。
+
+
+***ディフィートカース [#u4f01389]
+-光属性の攻撃魔法へと変更いたします。
+-対アンデッド種族における威力補正を設定たします。
+-キャストタイムを延長いたします。
+-Lv2～3のディレイタイムを延長いたします。
+|~Lv|1|2|3|h
+|COLOR(gray):(旧)消費MP|COLOR(gray):16|COLOR(gray):18|COLOR(gray):20|
+|COLOR(gray):(旧)詠唱時間(s)|COLOR(gray):0.5|COLOR(gray):0.5|COLOR(gray):0.5|
+|COLOR(gray):(旧)ディレイ(s)|COLOR(gray):0|COLOR(gray):0|COLOR(gray):0|
+|COLOR(red):消費MP|COLOR(red):30|COLOR(red):42|COLOR(red):54|
+|COLOR(red):詠唱時間(s)|COLOR(red):3.0|COLOR(red):2.0|COLOR(red):2.0|
+|COLOR(red):ディレイ(s)|COLOR(red):0.5|COLOR(red):0.8|COLOR(red):1.0|
+|COLOR(red):ダメージ倍率(M.ATK比%)|COLOR(red):280%|COLOR(red):370%|COLOR(red):460%|
+|COLOR(red):ダメージ倍率(M.ATK比%)対アンデッド|COLOR(red):330%|COLOR(red):445%|COLOR(red):560%|
+
+
+***サンライトシャワー [#h3214f3f]
+--回復量を増加いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|10|15|20|25|30|
+|詠唱時間(s)|1.0|1.5|2.0|2.5|3.0|
+|詠唱後ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|COLOR(gray):(旧)回復量|COLOR(gray):100%|COLOR(gray):120%|COLOR(gray):150%|COLOR(gray):190%|COLOR(gray):240%|
+|COLOR(red):回復量|COLOR(red):210%|COLOR(red):230%|COLOR(red):260%|COLOR(red):300%|COLOR(red):350%|
+
+
+
+***ラウズボディ [#rf4f7635]
+効果時間を延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|12|14|16|18|20|
+|詠唱時間(s)|1.0|1.0|1.0|1.0|1.0|
+|詠唱後ディレイ(s)|1.5|1.5|1.5|1.5|1.5|
+|COLOR(gray):(旧)効果時間(s)|COLOR(gray):15|COLOR(gray):20|COLOR(gray):25|COLOR(gray):27|COLOR(gray):30|
+|COLOR(red):効果時間(s)|COLOR(red):180|COLOR(red):180|COLOR(red):180|COLOR(red):180|COLOR(red):180|
+|上昇STR値|3|4|5|6|8|
+|上昇VIT値|4|5|7|9|10|
+|上昇AGI値|7|9|11|13|15|
+
+***ラウズメンタル [#r95a9b1a]
+効果時間を延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|12|14|16|18|20|
+|詠唱時間(s)|1.0|1.0|1.0|1.0|1.0|
+|詠唱後ディレイ(s)|1.5|1.5|1.5|1.5|1.5|
+|COLOR(gray):(旧)効果時間(s)|COLOR(gray):15|COLOR(gray):20|COLOR(gray):25|COLOR(gray):27|COLOR(gray):30|
+|COLOR(red):効果時間(s)|COLOR(red):180|COLOR(red):180|COLOR(red):180|COLOR(red):180|COLOR(red):180|
+|上昇DEX値|6|8|10|12|14|
+|上昇INT値|6|7|8|10|11|
+|上昇MAG値|5|6|7|9|10|
+
+
+
+***スパーナルレイ [#x1ef6f5b]
+威力を上方修正いたします。
+「ターンアンデッド」取得時の威力補正を上方修正いたします。
+消費MPを増加いたします。
+|~Lv|1|2|3|4|5|h
+|COLOR(gray):(旧)消費MP|COLOR(gray):28|COLOR(gray):31|COLOR(gray):34|COLOR(gray):37|COLOR(gray):40|
+|COLOR(gray):(旧)ダメージ倍率(M.ATK比%)|COLOR(gray):110%|COLOR(gray):135%|COLOR(gray):160%|COLOR(gray):185%|COLOR(gray):210%|
+|COLOR(gray):(旧)TU5習得時ダメージ倍率(M.ATK比%)|COLOR(gray):300%|COLOR(gray):325%|COLOR(gray):350%|COLOR(gray):375%|COLOR(gray):400%|
+|COLOR(red):消費MP|COLOR(red):60|COLOR(red):75|COLOR(red):90|COLOR(red):105|COLOR(red):120|
+|COLOR(red):ダメージ倍率(M.ATK比%)|COLOR(red):250%|COLOR(red):270%|COLOR(red):290%|COLOR(red):310%|COLOR(red):330%|
+|COLOR(red):TU5習得時ダメージ倍率(M.ATK比%)|COLOR(red):550%|COLOR(red):570%|COLOR(red):590%|COLOR(red):610%|COLOR(red):630%|
+|詠唱時間(s)|2.0|2.5|3.0|3.5|4.0|
+|ディレイ(s)|2.0|2.0|2.0|2.0|2.0|
+--ターンアンデッドLVと追加倍率
+|~TU LV|追加倍率|h
+|1|+100%|
+|2|+150%|
+|3|+200%|
+|4|+250%|
+|5|+300%|
+
+
+
+***プラーナ [#nd917f30]
+-効果時間を大幅に延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|24|27|30|33|36|
+|COLOR(gray):(旧)効果時間(s)|COLOR(gray):60|COLOR(gray):80|COLOR(gray):100|COLOR(gray):120|COLOR(gray):140|
+|COLOR(red):効果時間(s)|COLOR(red):420|COLOR(red):540|COLOR(red):660|COLOR(red):780|COLOR(red):900|
+|詠唱時間(s)|2.0|2.0|2.0|2.0|2.0|
+|詠唱後ディレイ(s)|2.0|2.0|2.0|2.0|2.0|
+
+
+***サンバ [#e46938af]
+-Lv2～5の基本防御力の上昇値を減少いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|17|23|29|35|41|
+|継続時間(s)|8|10|12|14|16|
+|基本詠唱時間(s)|3.0|2.5|2.0|1.5|1.0|
+|ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|COLOR(gray):(旧)基本(除算)DEF増加|COLOR(gray):5|COLOR(gray):10|COLOR(gray):15|COLOR(gray):20|COLOR(gray):25|
+|COLOR(red):基本(除算)DEF増加|COLOR(red):5|COLOR(red):7|COLOR(red):8|COLOR(red):9|COLOR(red):10|
+|追加(減算)DEF増加|5|10|15|20|25|
+
+
+***クラシック [#vd330172]
+-効果時間を延長いたします。
+-HP,MP,SPの増加値を上昇いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|17|23|29|35|41|
+|基本詠唱時間(s)|3.0|2.5|2.0|1.5|1.0|
+|ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|COLOR(gray):(旧)継続時間(s)|COLOR(gray):10|COLOR(gray):15|COLOR(gray):20|COLOR(gray):25|COLOR(gray):30|
+|COLOR(gray):(旧)HP増加量|COLOR(gray):100|COLOR(gray):150|COLOR(gray):200|COLOR(gray):250|COLOR(gray):300|
+|COLOR(gray):(旧)MP増加量|COLOR(gray):100|COLOR(gray):150|COLOR(gray):200|COLOR(gray):250|COLOR(gray):300|
+|COLOR(gray):(旧)SP増加量|COLOR(gray):50|COLOR(gray):100|COLOR(gray):150|COLOR(gray):200|COLOR(gray):250|
+|COLOR(red):継続時間(s)|COLOR(red):60|COLOR(red):120|COLOR(red):180|COLOR(red):240|COLOR(red):300|
+|COLOR(red):HP増加量|COLOR(red):300|COLOR(red):600|COLOR(red):900|COLOR(red):1200|COLOR(red):1500|
+|COLOR(red):MP増加量|COLOR(red):300|COLOR(red):600|COLOR(red):900|COLOR(red):1200|COLOR(red):1500|
+|COLOR(red):SP増加量|COLOR(red):100|COLOR(red):175|COLOR(red):250|COLOR(red):325|COLOR(red):400|
+
+
+***ヘヴィメタル [#b6cb7b54]
+-効果時間を延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|10|17|24|35|46|
+|COLOR(gray):(旧)継続時間(s)|COLOR(gray):8|COLOR(gray):10|COLOR(gray):12|COLOR(gray):14|COLOR(gray):16|
+|COLOR(red):継続時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+|基本詠唱時間(s)|3.0|2.5|2.0|1.5|1.0|
+|ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|S.AVOID増加|10|18|26|34|42|
+|L.AVOID増加|10|18|26|34|42|
+
+
+***ロックンロール [#n3d75a8f]
+-効果時間を延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|17|23|29|35|41|
+|COLOR(gray):(旧)継続時間(s)|COLOR(gray):8|COLOR(gray):10|COLOR(gray):12|COLOR(gray):14|COLOR(gray):16|
+|COLOR(red):継続時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+|基本詠唱時間(s)|3.0|2.5|2.0|1.5|1.0|
+|ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|クリティカル率増加|5|8|11|14|17|
+
+
+***トランス [#m35db79a]
+-効果時間を延長いたします。
+-最低物理攻撃力の上昇値を増加いたします。
+-最大物理攻撃力の上昇値を増加いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|17|23|29|35|41|
+|COLOR(gray):(旧)継続時間(s)|COLOR(gray):8|COLOR(gray):10|COLOR(gray):12|COLOR(gray):14|COLOR(gray):16|
+|COLOR(red):継続時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+|基本詠唱時間(s)|3.0|2.5|2.0|1.5|1.0|
+|ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|COLOR(gray):(旧)最小攻撃力増加|COLOR(gray):4|COLOR(gray):8|COLOR(gray):12|COLOR(gray):16|COLOR(gray):20|
+|COLOR(gray):(旧)最大攻撃力増加|COLOR(gray):6|COLOR(gray):12|COLOR(gray):18|COLOR(gray):24|COLOR(gray):30|
+|COLOR(red):最小攻撃力増加|COLOR(red):12|COLOR(red):24|COLOR(red):36|COLOR(red):48|COLOR(red):60|
+|COLOR(red):最大攻撃力増加|COLOR(red):18|COLOR(red):36|COLOR(red):54|COLOR(red):72|COLOR(red):90|
+
+***レクイエム [#a555e0fd]
+-威力を上方修正いたします。
+-効果時間を短縮いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|17|23|29|35|41|
+|COLOR(gray):(旧)継続時間(s)|COLOR(gray):8|COLOR(gray):10|COLOR(gray):12|COLOR(gray):14|COLOR(gray):16|
+|COLOR(red):継続時間(s)|COLOR(red):5|COLOR(red):5|COLOR(red):5|COLOR(red):5|COLOR(red):5|
+|基本詠唱時間(s)|3.0|2.5|2.0|1.5|1.0|
+|ディレイ(s)|1.0|1.0|1.0|1.0|1.0|
+|COLOR(gray):(旧)ダメージ倍率(M.ATK比%)|COLOR(gray):60%|COLOR(gray):60%|COLOR(gray):60%|COLOR(gray):60%|COLOR(gray):60%|
+|COLOR(red):ダメージ倍率(M.ATK比%)|COLOR(red):80%|COLOR(red):123%|COLOR(red):166%|COLOR(red):208%|COLOR(red):252%|
+
+***フュージョン [#v4eb781b]
+-効果時間を延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|20|26|32|38|44|
+|COLOR(gray):(旧)継続時間(s)|COLOR(gray):8|COLOR(gray):10|COLOR(gray):12|COLOR(gray):14|COLOR(gray):16|
+|COLOR(red):継続時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+|基本詠唱時間(s)|4.0|3.5|3.0|2.5|2.0|
+|ディレイ(s)|2.0|2.0|2.0|2.0|2.0|
+|STR増加|3|4|5|6|7|
+|VIT増加|3|4|5|6|7|
+|AGI増加|5|6|7|8|9|
+
+
+***ポップス [#x7565518]
+-効果時間を延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|20|26|32|38|44|
+|COLOR(gray):(旧)継続時間(s)|COLOR(gray):8|COLOR(gray):10|COLOR(gray):12|COLOR(gray):14|COLOR(gray):16|
+|COLOR(red):継続時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+|基本詠唱時間(s)|4.0|3.5|3.0|2.5|2.0|
+|ディレイ(s)|2.0|2.0|2.0|2.0|2.0|
+|DEX増加|6|7|8|9|10|
+|INT増加|5|6|7|9|10|
+|MAG増加|5|6|7|9|10|
+
+***セッション（未調査） [#t06da052]
+-睡眠の成功確率を上昇いたします。
+
+***ミュージカルブロウ [#v55b43a3]
+-威力を上方修正いたします。
+|~Lv|1|2|3|4|5|h
+|消費SP|8|10|12|14|16|
+|基本詠唱時間(s)|1.8|1.6|1.4|1.2|1.0|
+|ディレイ(s)|1.0|1.3|1.6|2.0|2.0|
+|COLOR(gray):(旧)ダメージ倍率(MATK比%)|COLOR(gray):150%|COLOR(gray):160%|COLOR(gray):170%|COLOR(gray):180%|COLOR(gray):190%|
+|COLOR(red):ダメージ倍率(MATK比%)|COLOR(red):240%|COLOR(red):260%|COLOR(red):280%|COLOR(red):300%|COLOR(red):320%|
+
+***シャウト！ [#xa857d53]
+-キャストタイムを短縮いたします。
+-ディレイタイムを若干短縮いたします。
+-消費MPを増加いたします。
+-消費SPを減少いたします。
+|~Lv|1|2|3|4|5|h
+|COLOR(gray):(旧)消費MP|COLOR(gray):6|COLOR(gray):6|COLOR(gray):6|COLOR(gray):6|COLOR(gray):8|
+|COLOR(gray):(旧)消費SP|COLOR(gray):12|COLOR(gray):14|COLOR(gray):16|COLOR(gray):18|COLOR(gray):20|
+|COLOR(gray):(旧)基本詠唱時間(s)|COLOR(gray):1.6|COLOR(gray):1.8|COLOR(gray):2|COLOR(gray):2.3|COLOR(gray):2.6|
+|COLOR(gray):(旧)ディレイ(s)|COLOR(gray):1.5|COLOR(gray):1.5|COLOR(gray):1.5|COLOR(gray):1.5|COLOR(gray):1.5|
+|COLOR(red):消費MP|COLOR(red):12|COLOR(red):18|COLOR(red):24|COLOR(red):30|COLOR(red):40|
+|COLOR(red):消費SP|COLOR(red):6|COLOR(red):6|COLOR(red):6|COLOR(red):6|COLOR(red):6|
+|COLOR(red):基本詠唱時間(s)|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|COLOR(red):0.5|
+|COLOR(red):ディレイ(s)|COLOR(red):1.5?|COLOR(red):1.5?|COLOR(red):1.5?|COLOR(red):1.5?|COLOR(red):1.5?|
+--モーションディレイのせいかディレイがちゃんと計れませんでした。（「前回のスキルのディレイが残っています」ログが出せない。）
+
+***リラクゼーション [#h20b0a42]
+-効果時間を延長いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|34|36|38|40|42|
+|消費SP|24|28|32|36|40|
+|COLOR(gray):(旧)効果時間(s)|COLOR(gray):60|COLOR(gray):80|COLOR(gray):100|COLOR(gray):120|COLOR(gray):140|
+|COLOR(red):効果時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+|詠唱時間(s)|4.0|4.0|4.0|4.0|4.0|
+|ディレイ(s)|2.0|2.5|3.0|3.5|4.0|
+|HP回復率上昇量|25|25|25|25|25|
+|MP回復率上昇量|25|25|25|25|25|
+|SP回復率上昇量|25|25|25|25|25|
+
+
+***ラウドソング [#ba82fb3f]
+-ディレイタイムを短縮いたします。
+|~Lv|1|2|3|4|5|h
+|消費MP|12|16|20|24|28|
+|基本詠唱時間(s)|2.5|2.2|1.9|1.6|1.3|
+|COLOR(gray):(旧)ディレイ(s)|COLOR(gray):2.4|COLOR(gray):2.1|COLOR(gray):1.8|COLOR(gray):1.5|COLOR(gray):1.2|
+|COLOR(red):ディレイ(s)|COLOR(red):1.5|COLOR(red):1.5|COLOR(red):1.0|COLOR(red):1.0|COLOR(red):0.7?|
+|ダメージ倍率(MATK比%)|200%|220%|240%|260%|280%|
+--モーションディレイのせいかLV5のディレイがちゃんと計れませんでした。（「前回のスキルのディレイが残っています」ログが出せない。）
+
+-------------------
+- プラーナ 15分程度に時間延長 --  &new{2012-06-11 (月) 20:15:56};
+- サンバ左DEF+25から+10へ バリア等と重複して+30くらいまで行くことを確認 --  &new{2012-06-11 (月) 20:58:54};
+- サンバ効果時間12sへ　ポップスは3分ぐらいへ　３分とかどうしろと --  &new{2012-06-12 (火) 16:07:51};
+- ラウズボディ・メンタル　３分に延長 --  &new{2012-06-12 (火) 16:10:27};
+- レジスト 効果時間を30分に延長 --  &new{2012-06-13 (水) 05:10:03};
+
+#comment(noname)
+
+**ウォーロック系 [#je67dfcf]
+//変更されたと思われる点のみ記載。必要に応じて追記してください
+-ブラックウィドウ
+--消費MPが減少
+---他の基本魔法と同じくLv*2+8に。
+//イリス以前に戻っただけ
+-精霊・マリオネットダメージ上昇
+--魔法攻撃でも効果を発揮するように変更
+-スリープクラウド
+--詠唱時間を短縮
+---Lv1～2が0.5sec、3～5が1sec程度に
+-ダークペイン
+--ダメージが分散しないように変更
+-ナッシングネス
+--威力が上昇
+--詠唱時間を短縮
+--ディレイを若干短縮
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|1|2|3|4|5|h
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~攻撃力|240％|340％|440％|540％|640％|
+|~詠唱時間(s)|2.0|2.5|2.5|3.0|3.0|
+|~ディレイ(s)|0.4|0.6|0.8|1.0|1.2|
+~
+-インフェナルマーク
+--消費MP,SPを減少
+---SPは6固定、MPは30-Lv*5
+-アブレイション
+--詠唱時間が若干短縮
+---Lv1～2が1sec、3～4が1.5sec、5が2sec程度に
+-ダークブレイズ
+--威力が上昇
+--消費MPが増加
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|1|2|3|h
+|LEFT:|CENTER:|CENTER:|CENTER:|c
+|~消費MP|40|60|80|
+|~攻撃力|420％|580％|740％|
+~
+-ソウルサクリファイス
+--憑依時に使用した際、リカバリーブロック状態がスキル使用者にも付与されるように変更
+-ネクロリザレクション
+--復活時のHPが上昇
+-召喚対象HP上昇
+--効果が上昇
+-召喚対象魔法系上昇
+--効果が上昇
+-召喚対象物理系上昇
+--効果が上昇
+---Lv1で30％ほど上昇し、後は1Lvごとに10％程度上昇
+-ネクロマンシー
+--効果時間延長
+-ソウルバーン
+-スピリットバーン
+--詠唱時間短縮
+---ソウル・スピリットどちらも詠唱がLv1～2で1秒、Lv5で0.5秒程度に
+---Lv3～4はその中間程度
+-イヴァペレイト
+--成功率上昇
+-ダークフレア
+--威力が大幅に増加
+--ディレイが若干減少
+--フレアの効果時間短縮、威力上昇
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|1|2|3|h
+|LEFT:|CENTER:|CENTER:|CENTER:|c
+|~ダメージ(％)|580|650|720|
+|~ディレイ(s)|>|>|0.2|
+|~持続時間(s)|>|>|5|
+|~持続ダメージ一回((相手の最大HPに依存))(%)|>|>|？|
+~
+---不具合の可能性もあるがフレアの持続ダメージは非常に小さく、でか蜘蛛相手でも5秒で体力ゲージが1ドット削れるかどうか
+---非常に小さいだけでなく切り捨て処理も行われているようで、クローラー程度のHPだとまったく減らない
+
+-カオスゲイト
+--攻撃回数が増加
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|1|2|3|4|5|h
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~攻撃回数|6|7|8|9|10|
+~
+
+#comment(noname)
+
+**タタラベ系 [#p893aab4]
+***ブロウ [#adc11e69]
+-バックパッカー系だった場合の追加威力補正を設定いたします。
+|CENTER:|CENTER:40|CENTER:40|CENTER:40|CENTER:40|CENTER:40|c
+|Lv|1|2|3|4|5|h
+|使用SP|4|5|6|7|8|
+|COLOR(gray):旧威力|COLOR(gray):140%|COLOR(gray):170%|COLOR(gray):200%|COLOR(gray):230%|COLOR(gray):260%|
+|COLOR(red):新威力|COLOR(red):160%|COLOR(red):190%|COLOR(red):220%|COLOR(red):250%|COLOR(red):280%|
+|~COLOR(red):BP追加威力補正|>|>|>|>|COLOR(red):+20%|
+
+***バニシングブロウ [#qaaaa554]
+-バックパッカー系だった場合の追加威力補正を設定いたします。
+|CENTER:|CENTER:40|CENTER:40|CENTER:40|CENTER:40|CENTER:40|c
+|Lv|1|2|3|4|5|h
+|使用SP|5|5|7|7|9|
+|COLOR(gray):旧威力|COLOR(gray):150%|COLOR(gray):180%|COLOR(gray):210%|COLOR(gray):240%|COLOR(gray):270%|
+|COLOR(red):新威力|COLOR(red):170%|COLOR(red):200%|COLOR(red):230%|COLOR(red):260%|COLOR(red):290%|
+|~COLOR(red):BP追加威力補正|>|>|>|>|COLOR(red):+20%|
+
+***ＤＯＧＥＺＡ [#hf660a05]
+-効果時間を延長いたします。
+|Lv|1|2|3|4|5|h
+|COLOR(gray):旧効果時間(s)|COLOR(gray):60|COLOR(gray):50|COLOR(gray):40|COLOR(gray):30|COLOR(gray):20|
+|COLOR(red):新効果時間(s)|COLOR(red):180|COLOR(red):150|COLOR(red):120|COLOR(red):90|COLOR(red):60|
+
+***ロッククラッシャー [#l56bd0da]
+-対岩種族における威力を上方修正いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|~使用SP|12|16|20|24|28|
+|~威力(岩系以外)|>|>|>|>|100%|
+|~COLOR(gray):旧威力(岩系MOB)|COLOR(gray):200%|COLOR(gray):250%|COLOR(gray):300%|COLOR(gray):350%|COLOR(gray):400%|
+|~COLOR(red):新威力(岩系MOB)|COLOR(red):?%|COLOR(red):?%|COLOR(red):?%|COLOR(red):?%|COLOR(red):?%|
+|~威力(岩系自然物)|COLOR(gray):300%|COLOR(gray):400%|COLOR(gray):500%|COLOR(gray):600%|COLOR(gray):700%|
+|~COLOR(red):新威力(岩系自然物)|COLOR(red):?%|COLOR(red):?%|COLOR(red):?%|COLOR(red):?%|COLOR(red):?%|
+
+***岩系ダメージ上昇 [#mf7c0b10]
+-魔法攻撃でも効果を発揮するように変更いたします。
+
+***評定射撃 [#t541716f]
+-必中に変更いたします。
+
+***ウェットウエポン [#l6f90ffb]
+-効果時間を延長いたします。
+-消費SPを減少いたします。 
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|h
+|~COLOR(gray):旧消費SP|COLOR(gray):16|COLOR(gray):18|COLOR(gray):20|
+|~COLOR(red):新消費SP|COLOR(red):5|COLOR(red):11|COLOR(red):17|
+|~増加最大ATK|>|>|+30|
+|~COLOR(gray):旧効果時間(s)|COLOR(gray):30|COLOR(gray):40|COLOR(gray):60|
+|~COLOR(red):新効果時間(s)|COLOR(red):?|COLOR(red):?|COLOR(red):?|
+
+***根性 [#i9d905f3]
+-効果時間を延長いたします。
+--効果時間10秒 → 180秒
+
+***ナゲット投げ [#l31b1d62]
+-スキルを使用しても各種ナゲットが減らないように変更いたします。
+
+***アースクラッシュ [#p250d3de]
+-威力を上方修正いたします。
+-消費SPを増加いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|~使用SP|15|15|17|17|19|
+|~COLOR(gray):旧消費SP|COLOR(gray):15|COLOR(gray):15|COLOR(gray):17|COLOR(gray):17|COLOR(gray):19|
+|~COLOR(red):新消費SP|COLOR(red):25|COLOR(red):30|COLOR(red):35|COLOR(red):40|COLOR(red):45|
+|~COLOR(gray):旧威力|COLOR(gray):150%|COLOR(gray):165%|COLOR(gray):180%|COLOR(gray):195%|COLOR(gray):210%|
+|~COLOR(red):新威力|COLOR(red):350%|COLOR(red):420%|COLOR(red):490%|COLOR(red):560%|COLOR(red):630%|
+|~範囲|>|>|>|>|自分を中心とした3×3|
+
+***アンチモブミサイル [#nf3001f6]
+-威力を上方修正いたします。
+|~Lv|1|2|3|4|5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費SP|4|5|6|7|8|
+|COLOR(gray):旧威力|COLOR(gray):130%|COLOR(gray):160%|COLOR(gray):190%|COLOR(gray):220%|COLOR(gray):250%|
+|COLOR(red):新威力|COLOR(red):360%|COLOR(red):400%|COLOR(red):440%|COLOR(red):480%|COLOR(red):520%|
+
+***ミサイル一斉発射 [#jc6f208a]
+-威力を上方修正いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|1|2|3|4|5|h
+|使用SP|7|9|11|13|15|
+|COLOR(gray):旧威力|COLOR(gray):36%*6|COLOR(gray):44%*6|COLOR(gray):52%*7|COLOR(gray):60%*7|COLOR(gray):68%*8|
+|COLOR(red):新威力|COLOR(red):80%*6|COLOR(red):90%*6|COLOR(red):100%*7|COLOR(red):110%*7|COLOR(red):120%*8|
+|範囲|>|11*11|>|>|13*13|
+
+***火炎放射 [#r799fca5]
+-威力を上方修正いたします。
+|~Name|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費SP|19|23|27|31|35|
+|COLOR(gray):旧威力|COLOR(gray):205%|COLOR(gray):225%|COLOR(gray):245%|COLOR(gray):265%|COLOR(gray):285%|
+|COLOR(red):新威力|COLOR(red):525%|COLOR(red):575%|COLOR(red):625%|COLOR(red):675%|COLOR(red):725%|
+
+***ラビッジカノン [#a54d105b]
+-威力を上方修正いたします。
+|~Name|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|12|15|20|24|30|
+|消費SP|12|15|20|24|30|
+|COLOR(gray):旧威力|COLOR(gray):150%*3|COLOR(gray):175%*3|COLOR(gray):200%*4|COLOR(gray):225%*4|COLOR(gray):250%*5|
+|COLOR(red):新威力|COLOR(red):400%*3|COLOR(red):450%*3|COLOR(red):500%*4|COLOR(red):550%*4|COLOR(red):600%*5|
+
+***コメント [#p7d7a253]
+- DOGEZA　効果時間を約4倍 --  &new{2012-06-13 (水) 05:10:42};
+
+#comment(noname)
+
+**ファーマー系 [#y91ad057]
+
+***ファランクス [#a66db3cb]
+-威力を上方修正いたします。
+-Lv1～4のディレイタイムを若干短縮いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|COLOR(gray):旧攻撃力|COLOR(gray):80|COLOR(gray):105|COLOR(gray):130|COLOR(gray):155|COLOR(gray):180|
+|COLOR(red):新攻撃力|COLOR(red):160|COLOR(red):210|COLOR(red):260|COLOR(red):310|COLOR(red):360|
+
+***ダストエクスプロージョン [#dstex50d]
+-威力を上方修正いたします。
+-消費SPを増加いたします。 
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|COLOR(gray):旧消費SP|COLOR(gray):22|COLOR(gray):24|COLOR(gray):26|COLOR(gray):28|COLOR(gray):30|
+|COLOR(red):新消費SP|COLOR(red):32|COLOR(red):36|COLOR(red):40|COLOR(red):44|COLOR(red):48|
+|COLOR(gray):旧攻撃力(%)|COLOR(gray):100|COLOR(gray):150|COLOR(gray):200|COLOR(gray):250|COLOR(gray):300|
+|COLOR(red):新攻撃力(%)|COLOR(red):450|COLOR(red):500|COLOR(red):550|COLOR(red):600|COLOR(red):650|
+
+***ケミカルプラント [#mb0d6f94]
+-威力を上方修正いたします。
+-消費MPを減少いたします。 
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|COLOR(gray):旧消費MP|COLOR(gray):14|COLOR(gray):18|COLOR(gray):22|COLOR(gray):26|COLOR(gray):30|
+|COLOR(red):新消費MP|COLOR(red):16|COLOR(red):19|COLOR(red):22|COLOR(red):25|COLOR(red):28|
+|COLOR(gray):旧ダメージ倍率(%)|COLOR(gray):200|COLOR(gray):350|COLOR(gray):500|COLOR(gray):650|COLOR(gray):800|
+|COLOR(red):新ダメージ倍率(%)|COLOR(red):400|COLOR(red):700|COLOR(red):1000|COLOR(red):1300|COLOR(red):1600|
+
+#comment(noname)
+
+**レンジャー系 [#b7b1e232]
+
+***ウイップラッシュ [#a6a1a14a]
+-威力を上方修正いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|攻撃回数|2|3～4|4|5|6|
+|COLOR(gray):旧威力|COLOR(gray):>|COLOR(gray):>|COLOR(gray):>|COLOR(gray):>|COLOR(gray):90%x攻撃回数|
+|COLOR(red):新威力|COLOR(red):>|COLOR(red):>|COLOR(red):>|COLOR(red):>|COLOR(red):120%x攻撃回数|
+
+***ウイップフロリッシュ [#x4f06e80]
+-威力を上方修正いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|COLOR(gray):旧威力|COLOR(gray):130|COLOR(gray):150|COLOR(gray):170|COLOR(gray):190|COLOR(gray):210|
+|COLOR(red):新威力|COLOR(red):230|COLOR(red):245|COLOR(red):260|COLOR(red):285|COLOR(red):300|
+
+#comment(noname)
+
+**マーチャント系 [#ne7b9481]
+***応援 [#r6a880f3]
+-効果時間を延長いたします。
+|~Lv|~1|~2|~3|~4|~5|h
+|~COLOR(gray):旧効果時間(s)|COLOR(gray):20|COLOR(gray):30|COLOR(gray):40|COLOR(gray):50|COLOR(gray):60|
+|~COLOR(red):新効果時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+
+***ライオットハンマー [#nea0bac0]
+-命中率を若干上昇いたします。
+
+***ファシーボイス [#r6a880f3]
+-効果時間を延長いたします。
+|~Lv|~1|~2|~3|~4|~5|h
+|~COLOR(gray):旧効果時間(s)|COLOR(gray):60|COLOR(gray):50|COLOR(gray):40|COLOR(gray):30|COLOR(gray):20|
+|~COLOR(red):新効果時間(s)|COLOR(red):60|COLOR(red):90|COLOR(red):120|COLOR(red):150|COLOR(red):180|
+
+***チップ [#f69ce5c9]
+-ボディーガードが使用する「アタック・バースト」の最大物理攻撃力の上昇値を増加いたします。
+-ボディーガードが使用する「アタック・バースト」の効果時間を延長いたします。
+-ボディーガードが使用する「コンセントレート」の近接命中率の上昇値を増加いたします。
+-ボディーガードが使用する「コンセントレート」の効果時間を延長いたします。
+-ボディーガードが使用する「ディフェンス・バースト」の効果時間を延長いたします。 
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~LV|~1|~2|~3|~4|~5|h
+|~COLOR(gray):旧アタック・バースト&br;（最大物理攻撃力）|COLOR(gray):+10|COLOR(gray):+20|COLOR(gray):+30|COLOR(gray):+40|COLOR(gray):+50|
+|~COLOR(red):新アタック・バースト&br;（最大物理攻撃力）|COLOR(red):+110↑?|COLOR(red):+120↑?|COLOR(red):+150↑?|COLOR(red):+180↑?|COLOR(red):+210↑?|
+|~COLOR(red):新コンセントレート&br;（近接命中率）|COLOR(red):+?|COLOR(red):+?|COLOR(red):+?|COLOR(red):+?|COLOR(red):+?|
+|~COLOR(gray):旧効果時間(s)|COLOR(gray):90|COLOR(gray):80|COLOR(gray):70|COLOR(gray):60|COLOR(gray):50|
+|~COLOR(red):新効果時間(s)|COLOR(red):540|COLOR(red):480|COLOR(red):420|COLOR(red):360|COLOR(red):300|
+|~金額|30G|60G|90G|120G|150G|
+
+***ダットフット [#v7695ecb]
+-効果時間を延長いたします。
+|~Lv|~1|~2|~3|~4|~5|h
+|~COLOR(gray):旧効果時間(s)|COLOR(gray):10|COLOR(gray):-|COLOR(gray):-|COLOR(gray):15|COLOR(gray):20|
+|~COLOR(red):新効果時間(s)|COLOR(red):30|COLOR(red):45|COLOR(red):60|COLOR(red):75|COLOR(red):90|
+
+***アディショナルチャージ [#k95ca4f0]
+-ボディーガードが使用する「ハードスラッシュ」の威力を上方修正いたします。
+-ボディーガードが使用する「ハードスラッシュ」のディレイタイムを若干短縮いたします。
+-ボディーガードが使用する「居合い」の威力を上方修正いたします。
+-ボディーガードが使用する「旋風剣」の威力を上方修正いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|LEFT:|c
+|~Lv|~使用スキル|~金額|~対象|~COLOR(gray):旧威力|COLOR(red):新威力|h
+|~1|ハードスラッシュ|50G|敵単体|COLOR(gray):200%|COLOR(red):500%|
+|~2|居合い|80G|敵単体|COLOR(gray):300%|COLOR(red):750%|
+|~4|旋風剣|120G|ペット周囲|COLOR(gray):範囲300%|COLOR(red):範囲600%|
+
+***根性 [#ocfa9dc7]
+-効果時間を延長いたします。
+--効果時間10秒 → 180秒
+
+***商人召喚 [#ub7cd0c6]
+-目標を自身から地面へと変更いたします。
+-商人の販売アイテムのラインナップを変更いたします。 
+--商品の品揃えが3種ランダムではなく、3種選択式に
+|~販売目録１|~価格|~BD10||~販売目録２|~価格|~BD10||~販売目録３|~価格|~BD10|h
+|LEFT:|RIGHT:|RIGHT:||LEFT:|RIGHT:|RIGHT:||LEFT:|RIGHT:|RIGHT:|c
+|ヒールポーション|396|316||ペットフード|198|158||木の矢|1|1|
+|高級ヒールポーション|1,293|1,034||植物栄養剤|198|158||炎の矢|26|21|
+|ヒールサプリメント|523|422||りんご|79|63||水の矢|26|21|
+|トニックウォーター|79|63||タマゴサンド|792|633||大地の矢|26|21|
+|スタミナポーション|396|316||マリュスカード|2|2||風の矢|26|21|
+|スタミナサプリメント|528|422||プルルカード|3|3||闇の矢|26|21|
+|マジックキャンディー|52|42||アーチンカード|6|5||光の矢|26|21|
+|マジックポーション|396|316||エンゼルカード|13|10||実包|6|5|
+|マジックサプリメント|528|422||死神のカード|19|15||銀弾|6|5|
+|リザレクションポーション|6,600|4,260||レインボーカード|26|21||トラップツール|198|158|
+|マルチコンディション|3,960|3,168||||||毒薬|396|316|
+|時空の鍵|660|528|||||||||
+|テント|26,400|21,120|||||||||
+
+***ビートスマッシュ [#u6d70a8f]
+-威力を上方修正いたします。
+-消費SPを増加いたします。 
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~LV|~1|~2|~3|~4|~5|h
+|~COLOR(gray):旧消費SP|COLOR(gray):12|COLOR(gray):15|COLOR(gray):18|COLOR(gray):21|COLOR(gray):24|
+|~COLOR(red):新消費SP|COLOR(red):18|COLOR(red):21|COLOR(red):24|COLOR(red):27|COLOR(red):30|
+|~COLOR(gray):旧威力|COLOR(gray):170%|COLOR(gray):190%|COLOR(gray):210%|COLOR(gray):230%|COLOR(gray):250%|
+|~COLOR(red):新威力|COLOR(red):210%|COLOR(red):236%|COLOR(red):262%|COLOR(red):288%|COLOR(red):314%|
+|~攻撃回数|>|1～2|1～3|>|2～3|
+
+***カードブーメラン [#xd7c0843]
+-威力を上方修正いたします。
+-消費SPを増加いたします。
+|CENTER:|CENTER:40|CENTER:40|CENTER:40|CENTER:40|CENTER:40|c
+|~Lv|~1|~2|~3|~4|~5|h
+|~COLOR(gray):旧消費SP|COLOR(gray):3|COLOR(gray):6|COLOR(gray):9|COLOR(gray):12|COLOR(gray):15|
+|~COLOR(red):新消費SP|COLOR(red):12|COLOR(red):15|COLOR(red):18|COLOR(red):21|COLOR(red):24|
+|~COLOR(gray):旧威力|COLOR(gray):120%|COLOR(gray):140%|COLOR(gray):160%|COLOR(gray):180%|COLOR(gray):200%|
+|~COLOR(red):新威力|COLOR(red):230%|COLOR(red):260%|COLOR(red):290%|COLOR(red):320%|COLOR(red):350%|
+
+***ダブルアップ [#kb6843ca]
+-再使用時間を短縮いたします。
+--再使用時間：約30秒 → 約10秒
+
+***コインシュート [#lc381d35]
+-威力を上方修正いたします。
+|CENTER:|CENTER:40|CENTER:40|CENTER:40|CENTER:40|CENTER:40|c
+|~Lv|~1|~2|~3|~4|~5|h
+|~消費SP|5|10|15|20|25|
+|~COLOR(gray):旧威力|COLOR(gray):250%|COLOR(gray):300%|COLOR(gray):350%|COLOR(gray):400%|COLOR(gray):450%|
+|~COLOR(red):新威力|COLOR(red):250%|COLOR(red):350%|COLOR(red):450%|COLOR(red):550%|COLOR(red):750%|
+|~金額|500G|700G|900G|1100G|1500G|
+
+***猪鹿蝶 [#l4b77338]
+-装備条件を「なし」に変更いたします。
+-威力を上方修正いたします。
+|CENTER:|CENTER:40|CENTER:40|CENTER:40|CENTER:40|CENTER:40|c
+|~Lv|~1|~2|~3|~4|~5|h
+|~消費SP|30|35|40|45|50|
+|~COLOR(gray):旧威力|COLOR(gray):150%|COLOR(gray):200%|COLOR(gray):250%|COLOR(gray):300%|COLOR(gray):350%|
+|~COLOR(red):新威力|COLOR(red):350%|COLOR(red):400%|COLOR(red):450%|COLOR(red):500%|COLOR(red):550%|
+|~攻撃回数|>|>|>|>|3|
+|~COLOR(gray):旧合計威力|COLOR(gray):450%|COLOR(gray):600%|COLOR(gray):750%|COLOR(gray):900%|COLOR(gray):1050%|
+|~COLOR(red):合計新威力|COLOR(red):1050%|COLOR(red):1200%|COLOR(red):1350%|COLOR(red):1500%|COLOR(red):1650%|
+
+***コメント [#u373bdd8]
+#comment(noname)
+
+**ジョーカー系 [#ne7b9481]
+- 杏DCやジョーカーDCで魔法ディレイが短くならなくなった --  &new{2012-06-11 (月) 20:52:27};
+- DC関連の修正が行われたが魔法ディレイは短くならず。効果が修正されてしまった？ --  &new{2012-06-12 (火) 23:11:09};
+- 通常のDCより効果が高い。スピエンよりは低い。とのこと --  &new{2012-06-15 (金) 04:33:03};
+
+#comment(noname)
+
+**DEF変更点 [#ocd6925b]
+
+-DEF上昇量比較
+
+|~スキル名|対象|除算DEF|除算MDEF|減算DEF|減算MDEF||h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|ディフェンス・バースト|自分|+11|+10|+18|+15||
+|防御力上昇|自分のみ|-|-|-|+15|防具DEF +12%|
+|ソリッドボディ|自分|+12%|-|-|-||
+|DEFコミュニオン|PT|-|-|+218|-||
+|ストロングボディ(自)|自分のみ|+13|-|+10%|-|DEFコミュと競合しない|
+|ストロングボディ(PT)|範囲|+9|-|+10%|-|DEFコミュと競合しない|
+|ガーディアン|自分のみ|-|-|+80%|+80%|DEFコミュと競合しない|
+|硬化毒|自分のみ|+16%|-|+18|-||
+|エナジーシールド|対象|+9|-|+15|-||
+|マジックシールド|対象|-|+20|-|+15||
+|ディバインバリア|範囲|+15|+25|+20|+20||
+|フォースシールド|自分のみ|+15|+25|+95|+95|発動条件あり|
+|アースオーラ|対象|+15|-|+40|-||
+|ウォーターオーラ|対象|-|+20|-|+40||
+|パワーエンチャント|対象|+12%|+12%|-|-|デメリット有り|
+|サンバ|範囲|+10|-|+25|-||
+|MDEFコミュニオン|PT|-|-|-|+300||
+|ゴスペル|範囲|-|-|+80|+80||
+|ロボット防御力上昇|ロボのみ|-|-|+22%|-||
+|マエストロ|ロボのみ|>|>|>|+120%||
+|マニューバー・ディフェンス|ロボのみ|+10%|+10%|+200%|+200%|デメリット有り|
+|リミットイクシード|ロボのみ|+90%|+90%|+280%|+280%|デメリット有り|
+|ハーヴェストマスター|植物ペットのみ|>|>|>|+120%||
+|警戒|自分|+20|-|-|-|COLOR(red):クリティカル無効化|
+|ストライダー|植物以外のペットのみ|>|>|>|+120%||
+--DEF関係まとめてみました
+--こうしてまとめてみるとまだまだ調整不足なのが伺える
+
+#comment(noname)
+
+**攻撃速度変更点 [#f0354a59]
+***攻撃速度 [#e43a6f92]
+-''A.SPD = AGI × 3 +floor[(AGI+63)/9]^2 + 129''
+--800が上限値
+---''補助魔法などで超えることは出来なくなった''
+
+-通常攻撃間隔 = 2秒 × (1－A.SPD÷1000) × (1－スキルによるディレイ減少量)
+--最速は、A.SPD=800でスピードエンチャントLV3を使用したときで、2秒 × (1－800÷1000) × (1－0.625) = 0.15秒(秒間約6.6回攻撃) となる。
+
+***ディレイキャンセル系スキルの効果 [#h120da4f]
+-表：スキルによるディレイ減少量一覧
+|~スキル名                                   |LV1|LV2|LV3|h
+|スピードエンチャント                        |18%|31%|62.5%|
+|スピードエンチャント(弓装備時)              |12%|30%|47%|
+|ジョーカーディレイキャンセル                |20%|40%|60%|
+|ジョーカーディレイキャンセル(弓装備時)      |15%|30%|45%|
+|ソードディレイキャンセル                    |20%|35%|50%|
+|ボウディレイキャンセル                      |15%|25%|35%|
+|ネコマタ（杏）のディレイキャンセル          |55%|  -|  -|
+|ネコマタ（杏）のディレイキャンセル(弓装備時)|40%|  -|  -|
+--弓（たぶん銃も）装備時はディレイキャンセル効果が0.7倍に落ちる
+---(スピードエンチャントLV2だけ変な数値が・・・）
+---↓の値と微妙に違うね
+- 基本攻撃速度2秒。ASPD800で80%減少。スピエンで約65%減少。両方合わせて93%減少で秒間約7回程度に辿り着く模様 --  &new{2012-06-16 (土) 19:38:29};
+
+
+|~スキル名     |LV1|LV2|LV3|LV4|LV5|h
+|オーバーワーク| ?%| ?%| ?%| ?%|25%?|
+
+#comment(noname)
+
+**その他 [#k0e0891a]
+*** 回復率 [#s5a4cd1b]
+-VIT上昇によるHP回復率の上昇値、MAG上昇によるMP回復率の上昇値、INTおよびVIT上昇によるSP回復率の上昇値を増加するように変更いたします。 
+-変更前
+--&color(gray){''HP回復率 = 100 + floor[VIT/3] + スキルによる補正 + 装備による補正''};
+--&color(gray){''MP回復率 = 100 + floor[MAG/3] + スキルによる補正 + 装備による補正''};
+--&color(gray){''SP回復率 = 100 + floor[(INT+VIT)/6] + スキルによる補正 + 装備による補正''};
+-変更後
+--''HP回復率 = 100 + &color(red){floor[VIT/2]}; + スキルによる補正 + 装備による補正''
+--''MP回復率 = 100 + &color(red){floor[MAG/2]}; + スキルによる補正 + 装備による補正''
+--''SP回復率 = 100 + floor[(INT+VIT)/6] + スキルによる補正 + 装備による補正''
+---SP回復率だけ変更されていない。
+
+----------
+- 装備を着ける際に1秒のディレイタイムを設定をいたします。（脱ぐのはディレイ無し） --  &new{2012-06-11 (月) 17:05:04};
+- VIT上昇によるHP回復率の上昇値、MAG上昇によるMP回復率の上昇値、INTおよびVIT上昇によるSP回復率の上昇値を増加するように変更いたします。（HP回復率がVIT/3からVIT/2に。MP回復率がMAG/3からMAG/2にSP回復率は変更無し（不具合？）） --  &new{2012-06-11 (月) 20:25:34};
+- ペットが使用する同名スキルは性能に一切変更無し --  &new{2012-06-17 (日) 01:31:08};
+
+#comment(noname)
+
+
+**コメント欄 [#t0200b25]
+#pcomment

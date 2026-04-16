@@ -1,0 +1,10 @@
+# ドロップ率検証/ドクトカゲ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[水中生物知識>ドロップ率検証#qf2e06cc]]
+
+***ドクトカゲ [#q6e1a8d9]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|ドクトカゲの尻尾|破れた魔法書|丈夫な革|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（268体）|153個（57.09％）|112個（41.79％）|2個（0.75％）|1個（0.37％）|0個（0.00％）|
+|知識あり（800体）|268個（33.50％）|261個（32.63％）|9個（1.13％）|8個（1.00％）|254個（31.75％）|

@@ -1,0 +1,20 @@
+# Hairsalon/HokuouShinwa
+
+#author("2017-04-07T17:22:33+00:00","","")
+#include(Hairsalon/Menu,notitle)
+*北欧神話の紹介状 [#norsemythology]
+公式サイト：[[ECOくじ「古の北欧神話」:http://www.econline.jp/md/kuji/log_legend_myth.html]]
+
+**男性 [#re3d5d29]
+|~三編みロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/HokuouShinwa/MitsuamiLong_M.jpg,nolink,640x355);|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2011M/hokuoushinwa.jpg,nolink,650x446);|
+|~スウィートウェーブ|
+|CENTER:画像募集中|
+
+
+**女性 [#i0bd4951]
+|~三編みロング|
+|CENTER:画像募集中|
+|~スウィートウェーブ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/hokuo_short.jpg,nolink,661x311);|

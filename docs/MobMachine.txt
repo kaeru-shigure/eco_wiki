@@ -1,0 +1,120 @@
+# MobMachine
+
+#author("2017-04-07T18:22:46+00:00","","")
+*モンスター・エミル世界 (機械) [#w1b28bfc]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの (情報待ち保留中です)
+
+***アーマードアルマジロン系 [#AArmadillon]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/armored_armadillo.jpg,nolink,100x100);|アーマードアルマジロン|106||73,372/83,383|BGCOLOR(#ffdddd):火||【カーマイン遺跡】&br;2F|獣の甲殻&br;不思議な装甲&br;&color(orange){赤く光る液体};|リフレクションウォール&br;チャージ&br;ラッシュ&br;衝撃波||
+
+***エレキテル系 [#Elecitel]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingRX1.jpg,nolink,94x100);|ブリキングRX1|26|240|110/70|無|Active|ウテナ川河口&br;サウスリン岬|ブリキの板&br;赤いコード&br;&color(orange){乾電池};&br;&color(orange){コイル};&br;&color(orange){CPU};&br;&color(orange){電卓};&br;&color(orange){メモリ};&br;ブリキの部品&br;ポケコン&br;モーター&br;&color(red){マリオネット･エレキテル};&br;&color(slateblue){ブリキングRX1スタンプ};|-|高ATK&br;高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingRX3.jpg,nolink,100x100);|ブリキングRX3|46|820|1,170/980|BGCOLOR(#98fb98):土|Active|鉄火山&br;&br;【サウスダンジョン】&br;B1F,B2F|赤いコード&br;乾電池&br;コイル&br;CPU&br;電卓&br;ブリキの部品&br;ブリキの板&br;メモリ&br;ポケコン&br;モーター&br;&color(red){マリオネット･エレキテル};&br;&color(slateblue){ブリキングRX3スタンプ};|-|DEF高め&br;M.DEF低め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingCannon.jpg,nolink,100x100);|ブリキングキャノン|49|725|1,380/1,574|BGCOLOR(#ffdddd):''火''/土|Active|【サウスダンジョン】&br;B2F|ブリキの板&br;赤いコード&br;CPU&br;コイル&br;電卓&br;ポケコン&br;メモリ|アッシュ&br;ファイアーストーム&br;ファイアボール||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingCustom.jpg,nolink,100x100);|ブリキングカスタム|50|1,650|1,680/1,439|BGCOLOR(#98fb98):土|NonActive|【サウスダンジョン】&br;B1F,B2F|ブリキの板&br;赤いコード&br;乾電池&br;コイル&br;CPU&br;電卓&br;ブリキの部品&br;メモリ&br;&color(red){マリオネット･エレキテル};&br;&color(slateblue){モーター};&br;&color(#cccccc){壊れたエンジン};&br;&color(slateblue){ブリキングカスタムスタンプ};|グランドクロス|DEF低め&br;M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingMK2.jpg,nolink,100x100);|ブリキングMkII|10|30,000?|10,000/6,000|BGCOLOR(#ffffff):光|Active|ウテナ川河口|ブリキの部品&br;マリオネット･エレキテル&br;プラチナの部品&br;&color(slateblue){背負い魔･ブースト};|ホーリーライト&br;猛毒スタンガス&br;ライトバラッド&br;ブリキングRX1召喚|フィールドBOSS&br;30～90分毎&br;取り巻き(ブリキングRX1)|
+
+***ガッテンガー系 [#Gattenga-]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gattenga-sigma.jpg,nolink,100x100);|ガッテンガーΣ|80|16,530|8,100/8,400|無|NonActive|【光の塔】&br;A-12F&br;&br;【インスタンスダンジョン】&br;超兵器の破壊･第1階層&br;&br;マイマイ遺跡|鉄の部品&br;鉄の部品(PT)&br;グレネード弾(PT)&br;銀の部品&br;ロボットボディ&br;オリハルコン&br;壊れたマシンアクス&br;&color(slateblue){力のトランジスタ};&br;&color(slateblue){守りのトランジスタ};|ショックウェーブ&br;スタンブロウ&br;グラヴィティフォール&br;ハイパーチャージ&br;アサルト|高DEF&br;約15分間隔沸き(光の塔A-12F)|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gattenga-Lambda.jpg,nolink,100x100);|ガッテンガーΛ|87|21,500|12,800/13,800|無|NonActive|【光の塔】&br;A-13F&br;A-14F&br;A-15F&br;A-16F&br;&br;【インスタンスダンジョン】&br;超兵器の破壊･第2階層&br;&br;マイマイ遺跡|カッパーメダル&br;カッパーメダル(PT)&br;魔法のトランジスタ&br;マッチロックの銃筒&br;壊れたチェインソード|ショックウェーブ&br;スタンブロウ&br;ディフェンス･バースト&br;ガッテンガーミサイル！|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gattenga-7.jpg,nolink,100x100);|ガッテンガー7|95|30,000|14,000/12,100|無|NonActive|【光の塔】&br;A-21F&br;A-22F&br;光の塔上層(A棟屋上)&br;&br;【インスタンスダンジョン】&br;超兵器の破壊･第3階層|カッパーメダル(PT)&br;マスケットの銃筒&br;オートマチックの銃筒(黒)&br;壊れたトゥールハンマー|ショックウェーブ&br;コンフュージョンブロウ&br;アタック･バースト&br;ガッテンガーミサイル一斉発射！&br;ミラー|高DEF&br;一斉発射は、周囲にいる人にも被害を与えるので注意|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/ProtoGattenga.jpg,nolink,100x100);|プロトガッテンガー|98||9,800/8,700|無|NonActive|マイマイ遺跡|黒色火薬(PT)&br;ケセランパサラン(PT)&br;バッテリー(PT)&br;ロボットアーム&br;壊れたピボット|超電磁波&br;ディレイキャンセル&br;ショックウェーブ&br;ガッテンガーミサイル！&br;ガッテンガーミサイル一斉発射！||
+
+***ギガント系 [#Gigant]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantB1.jpg,nolink,100x97);|ギガントB1|38|1,500|1,965/1,589|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア4F&br;B-5F&br;A-6F|機械の破片&br;グレネード弾&br;マグナム弾&br;ミサイル&br;黄金弾&br;銀弾&br;地雷&br;実包&br;&color(slateblue){魔法のトランジスタ};&br;&color(slateblue){ロボットレッグ};&br;&color(slateblue){ロボットボディ};&br;&color(red){ロボットアーム};&br;&color(red){マッチロックの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantG2.jpg,nolink,100x100);|ギガントG2|58|1,950|3,721/3,721|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;B-6F&br;A-7F|機械の破片&br;マグナム弾&br;銀弾&br;ミサイル&br;グレネード弾&br;地雷&br;CPU&br;乾電池&br;電卓&br;コイル&br;メモリ&br;修復のトランジスタ&br;対魔のトランジスタ&br;&color(red){守りのトランジスタ};&br;&color(slateblue){マッチロックの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantR3.jpg,nolink,100x100);|ギガントR3|65|3,850|5,236/4,488|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;光の塔下層(B屋上)&br;B-8F&br;A-9F&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|機械の破片&br;グレネード弾&br;マグナム弾&br;ミサイル&br;黄金弾&br;銀弾&br;地雷&br;実包&br;銃床&br;臨界のトランジスタ&br;&color(red){修復のトランジスタ};&br;&color(slateblue){マスケットの銃筒};|範囲射撃(対象周辺)|※【インスタンスダンジョン】&br;先に進むための鍵モンスター|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantC4.jpg,nolink,100x100);|ギガントC4|77|6,000|6,750/7,020|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア1F&br;A-12F|機械の破片&br;グレネード弾&br;ミサイル&br;黄金弾&br;銀弾&br;地雷&br;実包&br;銃の機関部&br;ロボットボディ&br;魔法のトランジスタ&br;&color(slateblue){オートマチックの銃筒(黒)};|範囲射撃(対象周辺)||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantS6.jpg,nolink,100x100);|ギガントS6|85|10,000|12,300/12,650|BGCOLOR(#ffdddd):火|詠唱反応|【光の塔】&br;A-21F&br;A-22F&br;【インスタンスダンジョン】&br;超兵器の破壊&br;&br;マイマイ遺跡|ナット&br;CPU&br;強力磁石&br;スナイパーライフルの銃筒&br;&color(slateblue){アサルトライフルの銃筒};|範囲射撃(対象周辺)||
+
+***キラーマシーン系 [#KillerMachine]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerMachine.jpg,nolink,100x100);|キラーマシーン|86|15,000|10,400/12,100|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;A-17F&br;A-18F&br;A-19F&br;A-20F&br;A-21F&br;A-22F&br;【インスタンスダンジョン】&br;超兵器の破壊&br;&br;マイマイ遺跡|ナット&br;ボルト&br;破れた魔法書&br;ナックルガード&br;&color(red){力のトランジスタ};&br;&color(red){守りのトランジスタ};|ファランクス&br;アサルト&br;チャージ|高DEF&br;高M.DEF&br;タゲ移りしやすいので、周囲に人がいるときは注意|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerMachineAlpha.jpg,nolink,100x100);|キラーマシーンα|90|22,275|17,500/19,000|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;A-21F&br;A-22F|ナット(PT)&br;強力磁石(PT)&br;ボルト(PT)&br;壊れたマシンアクス&br;&color(red){臨界のトランジスタ};|ファランクス&br;アサルト&br;チャージ&br;アヴォイド･バースト|高DEF&br;高M.DEF|
+
+***スチーマー系 [#Steamer]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/steamer.jpg,nolink,100x100);|スチーマー|86||306,666/316,666|無|NonActive|カーマイン砂漠（夜）|ネジ&br;ブリキの板&br;&color(orange){怪しい歯車};|ディレイキャンセル&br;チャージ&br;ハイパーチャージ|高HP|
+
+***ドロイダー系 [#Droider]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/strong_droider.jpg,nolink,100x100);|ストロングドロイダー|110|120,000?|94,216/103,222|無|Active|【カーマイン遺跡】&br;2F&br;B1F|ＣＰＵ&br;メモリ&br;&color(orange){修復のトランジスタ};&br;&color(red){守りのトランジスタ};|怒&br;ブロウ&br;ゴゥアウト&br;スタンアタック||
+
+***トロット系 [#Trot]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotC1.jpg,nolink,100x100);|フォックストロットC1|38|1,350|700/840|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア4F&br;B-5F&br;B-6F&br;A-5F|機械の破片&br;CPU&br;乾電池&br;電卓&br;コイル&br;メモリ&br;守りのトランジスタ&br;修復のトランジスタ&br;対魔のトランジスタ&br;ポケコン&br;モーター&br;マシンオイル&br;主人のＭＰが○以上なら△に&br;主人のＭＰが○以下から△に&br;&color(slateblue){マッチロックの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotG2.jpg,nolink,100x100);|フォックストロットG2|55|1,600|2,935/2,935|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;メインフロア3F&br;A-6F&br;A-11F|機械の破片&br;CPU&br;乾電池&br;電卓&br;コイル&br;メモリ&br;力のトランジスタ&br;ロボット操縦装置&br;ポケコン&br;マシンオイル&br;&color(slateblue){マッチロックの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotB3.jpg,nolink,135x135);|フォックストロットB3|62|3,700|3,740/4,301|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア1F&br;B-7F&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|機械の破片&br;CPU&br;乾電池&br;電卓&br;コイル&br;メモリ&br;守りのトランジスタ&br;ロボットボディ&br;ポケコン&br;モーター&br;オイル&br;&color(slateblue){壊れたマシンアクス};&br;&color(red){臨界のトランジスタ};||※【インスタンスダンジョン】&br;先に進むための鍵モンスター|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotR4.jpg,nolink,100x100);|フォックストロットR4|71|5,000|4,675/4,675|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア2F&br;A-11F&br;A-12F|機械の破片&br;CPU&br;乾電池&br;電卓&br;コイル&br;メモリ&br;力のトランジスタ&br;ロボットレッグ&br;&color(slateblue){対魔のトランジスタ};&br;&color(slateblue){ポケコン};&br;&color(red){壊れたチェインソード};&br;&color(slateblue){モーター};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotS5.jpg,nolink,100x100);|フォックストロットS5|80|7,500|8,200/8,200|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;A-13F&br;A-14F&br;A-15F&br;A-16F&br;【インスタンスダンジョン】&br;超兵器の破壊&br;&br;マイマイ遺跡|ナット&br;強力磁石&br;破れた魔法書&br;守りのトランジスタ&br;力のトランジスタ&br;オリハルコンの部品&br;壊れたマシンアクス||攻撃を受けると近くにいる人にタゲが行くことがあるので注意|
+
+***ハウンド系 [#Hound]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundR1.jpg,nolink,100x100);|フォックスハウンドR1|38|1,400|1,907/1,531|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;メインフロア3F&br;B-5F&br;B-6F&br;A-5F|機械の破片&br;実包&br;ミサイル&br;メモリ&br;CPU&br;電卓&br;力のトランジスタ&br;&color(red){ロボット操縦装置};&br;&color(slateblue){マスケットライフルの銃筒};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundC2.jpg,nolink,100x102);|フォックスハウンドC2|55|1,750|2,917/2,917|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;メインフロア3F&br;メインフロア4F&br;A-8F|機械の破片&br;マグナム弾&br;ミサイル&br;魔法のトランジスタ&br;&color(red){修復のトランジスタ};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundB3.jpg,nolink,100x100);|フォックスハウンドB3|64|3,800|4,114/4,080|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;メインフロア1F&br;A-8F&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|機械の破片&br;コイル&br;銀弾&br;ミサイル&br;銃の機関部&br;臨界のトランジスタ&br;&color(red){力のトランジスタ};&br;&color(slateblue){ライフルの銃筒};|範囲射撃(自己周辺)|※【インスタンスダンジョン】&br;先に進むための鍵モンスター|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundG4.jpg,nolink,100x100);|フォックスハウンドG4|70|5,500|5,544/5,544|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;メインフロア2F&br;A-11F&br;A-12F&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|機械の破片&br;黄金弾&br;ミサイル&br;銃の機関部&br;守りのトランジスタ&br;臨界のトランジスタ&br;&color(slateblue){スナイパーライフルの銃筒};|範囲射撃(自己周辺)&br;連続射撃||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundS5.jpg,nolink,100x100);|フォックスハウンドS5|83|8,500|9,030/9,030|BGCOLOR(#ffdddd):火|Active|【光の塔】&br;A-17F&br;A-18F&br;A-19F&br;A-20F&br;【インスタンスダンジョン】&br;超兵器の破壊&br;&br;マイマイ遺跡|強力磁石&br;金属の混じった石5&br;破れた魔法書&br;オートマチックの銃筒(銀)&br;&color(slateblue){マグナムの銃筒};|範囲射撃(自己周辺)&br;連続射撃|高S.AVOID|
+
+***ピボット系 [#Pivot]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DPivot.jpg,nolink,100x100);|Dピボット|85|8,500|8,600/8,800|BGCOLOR(#ffdddd):火|NonActive|【光の塔】&br;A-16F|ナット&br;金属の混じった石&br;破れた魔法書(PT)&br;&color(red){電気石};&br;&color(slateblue){オリハルコンの部品};|-|クリティカルヒット時&br;高確率で貫通攻撃&br;低M.DEF|
+
+***ホログラフ系 [#Holograph]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Holograph.jpg,nolink,100x100);|ホログラフ|93|15,500|5,650/5,450|BGCOLOR(#ffdddd):火|NonActive|マイマイ遺跡第一甲板&br;マイマイ遺跡|ナット&br;鉛のナゲット&br;ボルト&br;主人の敵ＨＰが○以上なら△に&br;主人の敵ＨＰが○以下から△に&br;&color(red){砂鉄};&br;&color(slateblue){ラスト･キッスの銃筒};&br;&color(slateblue){武器庫入室パスカード};|サンダーボルト&br;ファイアアート&br;ショックウェーブ&br;ディビリテイト|超高HIT(AGI108、INT60でも全弾被弾)&br;高S.AVOID|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/HolographCD.jpg,nolink,100x100);|ホログラフCD|93|15,500|5,650/5,450|BGCOLOR(#ffdddd):火|詠唱反応|マイマイ遺跡第一甲板|ナット&br;鉛のナゲット&br;ボルト&br;&color(red){砂鉄};&br;&color(slateblue){ラスト･キッスの銃筒};&br;&color(slateblue){武器庫入室パスカード};|サンダーボルト&br;ファイアアート&br;ショックウェーブ&br;ディビリテイト&br;デクライズウェポン|大きさは、ホログラフより少し小さめ|
+
+***マーシナリー系 [#Mercenary]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/mercenary_farce.jpg,nolink,100x100);|マーシナリー・ファース|105||93,050/104,022|無|Active|【カーマイン遺跡】&br;2F|ＣＰＵ&br;不思議な金属&br;壊れた白い武器&br;強靱な刀身&br;&color(red){魔法のトランジスタ};|連続攻撃&br;ブランディッシュ&br;居合い||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/mercenary_asreha.jpg,nolink,100x100);|マーシナリー・アスレハ|105||93,050/104,022|BGCOLOR(#ffdddd):火|Active|【カーマイン遺跡】&br;2F|ネジ&br;不思議な金属&br;壊れた白い武器&br;&color(red){力のトランジスタ};|コンフュージョンブロウ&br;アサルト&br;ラッシュ&br;ソウルブレイク||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/mercenary_hirawa.jpg,nolink,100x100);|マーシナリー・ヒラーワ|105||123,050/124,022|無|Active|【カーマイン遺跡】&br;2F|ブリキの板&br;不思議な金属&br;壊れた白い武器&br;強靱な柄&br;&color(red){対魔のトランジスタ};|怒&br;火炎放射&br;ファランクス&br;ハウルアウト||
+
+***マオアー系 [#Maore]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/muhandis.jpg,nolink,100x100);|ムハンディス|104||96,228/96,786|BGCOLOR(#bbffff):水|Active|【カーマイン遺跡】&br;2F|壊れたチップ&br;ネジ&br;&color(orange){力のトランジスタ};&br;&color(red){不思議な金属};|ディバインバリア&br;スーパーサンダーボルト&br;ダメージマーキング&br;リカバリー|キャラと距離を置こうとする傾向有り|
+
+***？？？ [#w0009a53]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/MobMachine/souti.jpg,nolink,100x139);|装置|||0/0|||マイマイ遺跡||DEM召喚(名称なし)|DEM-01 またはDEMスナイパー4体が取巻きとしており、&br;定期的に再召喚|
+||生体扉|||0/0||NonActive|マイマイ遺跡|-|-||

@@ -1,0 +1,51 @@
+# MobRock
+
+#author("2017-04-07T17:37:02+00:00","","")
+*モンスター・エミル世界（岩） [#nf147153]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***イワンコフ系 [#Iwankov]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Iwankov.jpg,nolink,100x100);|イワンコフ|25|580|113/127|BGCOLOR(#98fb98):土|詠唱反応|南ウテナ開拓地&br;東アクロニア段丘|石ころ&br;&color(orange){岩の心臓};&br;粘土|ブロウ&br;ロックストーン|鈍足&br;DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/GoldIwankov.jpg,nolink,100x100);|ゴルド・イワンコフ|30|610|172/196|BGCOLOR(#98fb98):土|詠唱反応|南ウテナ開拓地|石ころ&br;&color(orange){金の心臓};&br;金塊&br;金のナゲット&br;&color(red){岩の心臓};|ブロウ&br;ロックストーン|鈍足&br;DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EisZwerg.jpg,nolink,100x100);|アイスツヴェルク|94||15,180/13,860|BGCOLOR(#bbffff):水|NonActive&br;→瀕死時Active|【ノーザン地下】&br;氷洞|融けない氷&br;大理石&br;超氷石&br;鉄のナゲット&br;鉛のナゲット&br;銅のナゲット&br;銀のナゲット&br;金のナゲット&br;&color(slateblue){アイスツヴェルクスタンプ};|ウォーターファング&br;ウォーターアロー||
+
+***カンカン系 [#Kankan]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kankan.jpg,nolink,100x100);|カンカン|36|600|270/154|BGCOLOR(#98fb98):土|NonActive|鬼ノ寝床岩&br;鉄火山&br;アイアンサウス街道&br;【サウスダンジョン】&br;B1F|燐粉&br;黒色火薬&br;破れた魔法書&br;アーチン印のミソ&br;&color(red){固い石ころ};&br;&color(red){粘土};&br;&color(slateblue){カンカンスタンプ};|-|クリティカル率大|
+
+***クリスタルアーチン系 [#CrystalA-chin]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrystalA-chin.jpg,nolink,100x100);|クリスタルアーチン|55|2,000|2,917/3,010|無|詠唱反応|【光の塔】&br;メインフロア3F&br;A-7F|金属の混じった石5&br;鉄のとげ&br;水晶&br;&color(red){プラチナ塊};&br;&color(red){メタルアーチンのとげ};|パープルガス&br;マジックポイズン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Twinkle.jpg,nolink,100x100);|トゥインクル|66|2,250|3,213/3,034|BGCOLOR(#fff68f):風|詠唱反応|【光の塔】&br;光の塔周辺(MAP南)&br;光の塔下層(4F下)&br;光の塔下層(B屋上)|金属の混じった石5&br;鉄のとげ&br;アーチン印のミソ&br;金属の混じった石3&br;&color(red){アーチンの化石};|サンダーストーム&br;サンダーパルス&br;ファルコン|高M.DEF&br;瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Graysha-.jpg,nolink,100x100);|グレイシャー|76|4,200|4,927/4,320|BGCOLOR(#ffffff):光|NonActive|【光の塔】&br;メインフロア1F&br;A-10F|金属の混じった石5&br;鉄のとげ&br;金属の混じった石2&br;オリハルコン&br;&color(red){アーチンの化石};|ホーリーライト&br;セイントファング&br;サンクチュアリ|瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShellsLei.jpg,nolink,100x100);|シェルズレイ|83|6,250|7,395/7,650|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;A-13F～A-16F|固い石ころ&br;ボルト&br;破れた魔法書&br;アーチンの化石&br;&color(red){オリハルコン};|エクスクラメーション&br;バイタリティダウン&br;グラビティフォール||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Fernis.jpg,nolink,100x100);|ファーニス|88|6,800|9,157/9,157|BGCOLOR(#ffdddd):火|?|【光の塔】&br;A-17F～A-20F|強力磁石&br;鉛のナゲット&br;破れた魔法書&br;ドクロ&br;&color(red){オリハルコン};|ファイアアタック&br;ファイアストーム&br;アッシュ&br;ファイアアート|プレイヤーとファーニスの直線状に、&br;障害物等があると自爆する&br;高S.AVOID|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Detritus.jpg,nolink,100x100);|ディトライテス|92|12,000|7,150/7,050|BGCOLOR(#98fb98):土|特殊詠唱反応|マイマイ遺跡第一甲板|ハーブのど飴&br;ケセランパサラン&br;破れた魔法書&br;毒薬&br;&color(orange){緑の結晶1};&br;&color(slateblue){ペリドットのとげ};|エクスクラメーション&br;ガイデッド&br;マジックスリープ&br;ウィンドアタック|自分へのスキル使用を察知して襲ってくる場合あり|
+
+***ゴーチン系 [#Gotin]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Bambylock.JPG,nolink,100x100);|バンピーロック|20||0/0|BGCOLOR(#ffdddd):火|Active|&color(gray){【カセドラル鉱山】&br;B1,B2};|アルモフの欠片|ハイパーチャージ&br;コンフューズスタッド||
+
+***サンドアルム系 [#SandArm]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sand_arm.jpg,nolink,100x100);|サンドアルム|107||92,222/85,530|BGCOLOR(#98fb98):土|Active|【カーマイン遺跡】&br;1F中央&br;1F東居住区&br;1F西居住区|砂&br;土塊&br;砂鉄&br;&color(red){粘土};|ディレイキャンセル&br;一閃&br;ショックウェーブ&br;スケア||
+
+//***タートル系 [#Turtle]
+
+***ラバープルル系 [#RubberPururu]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RubberPururu.jpg,nolink,100x100);|ラバープルル|32|550|289/230|BGCOLOR(#ffdddd):火|NonActive|鬼ノ寝床岩&br;鉄火山&br;アイアンサウス街道|ゼリコ&br;ロウ&br;腐った体液&br;橙色のゼリコ&br;カビ&br;&color(red){金属の混じった石5};&br;&color(slateblue){ラバープルルスタンプ};|-||

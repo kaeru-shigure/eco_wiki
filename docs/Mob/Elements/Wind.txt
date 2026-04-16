@@ -1,0 +1,83 @@
+# Mob/Elements/Wind
+
+#author("2021-10-11T16:55:18+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（風属性） [#x11a8e67]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv1～10 [#a1c9ab5f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Chibee.jpg,nolink,100x100);|チビー|4|81|6/5|BGCOLOR(#fff68f):風|Active&br;Link→ビー系|ビーの巣穴|毒消しの実&br;ブランクイリスカード|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerBee.jpg,nolink,100x100);|キラービー|7|50|11/9|BGCOLOR(#fff68f):風|Link→ビー系|キラービーの峠道&br;ビーの巣穴&br;果物の森&br;モースグ崖&br;軍艦島&br;アンデッド島・大陸&br;アクロニア周辺|蜂蜜&br;ビーの針&br;ロイヤルゼリー&br;&color(orange){ロウ};&br;&color(red){カッパーメダル};&br;クリティカルの結晶&br;&color(red){シルバーメダル};&br;&color(slateblue){キラービースタンプ};|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Stinger.jpg,nolink,100x100);|スティンガー|10|4500|150/80|BGCOLOR(#fff68f):風|Active|ビーの巣穴|ロイヤルゼリー&br;ハートフルキャンディー|スーパーサンダーボルト&br;猛毒針&br;ワスプ召喚|BOSS|
+
+***Lv11～20 [#edd36bf7]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/YellowPururu.jpg,nolink,100x100);|イエロープルル|11|78|11/19|BGCOLOR(#fff68f):風|NonActive|アンデッド島・大陸&br;キラービーの峠道&br;ビーの巣穴&br;モースグ崖&br;軍艦島|ゼリコ&br;&color(orange){バター};&br;&color(#cccccc){橙色のゼリコ};&br;黄色いゼリコ&br;ロウ&br;ブランクイリスカード&br;&color(slateblue){イエロープルルスタンプ};|ファイアアタック||
+
+***Lv21～30 [#e2637bc8]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WhiteFang.jpg,nolink,100x100);|ホワイトファング|21|200|68/42|BGCOLOR(#fff68f):風|Active|スノップ追分&br;スノップの山道&br;スノップ雪原&br;ノーザリン岬&br;ノース台地&br;ノース中央山脈&br;&br;【インスタンスダンジョン】&br;迷宮探索|肉&br;上等な肉&br;革&br;&color(red){上等な革};&br;&color(red){スウェード};&br;&color(red){ベルベット};&br;白狼&br;フサフサしっぽ（銀）&br;&color(slateblue){ホワイトファングスタンプ};|ウォータアタック|ファイアードラゴに追いつける|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lowkey.jpg,nolink,100x100);|ローキー|24|380|91/46|BGCOLOR(#fff68f):風|Active|【大陸の洞窟】&br;B1F～B3F|上等な肉&br;革&br;上等な革&br;&color(orange){スウェード};&br;力の結晶&br;いのちの結晶&br;&color(red){ベルベット};&br;フサフサしっぽ（黄）|-|極めてターゲットが移り易い&br;警告無しに襲ってくることあり|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CaveLowkey.jpg,nolink,100x100);|ケイブローキー|25|420|85/35|BGCOLOR(#fff68f):風|Active|【大陸の洞窟】&br;B2F,B3F|革&br;上等な肉&br;スウェード&br;フサフサしっぽ（黄）&br;&color(red){上等な革};&br;&color(slateblue){ケイブローキースタンプ};|あしばらい&br;ブランディッシュ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CutBat.jpg,nolink,100x100);|カットバット|28|410|130/70|BGCOLOR(#fff68f):風|Link|【廃炭鉱】&br;B1F|肉&br;破れた魔法書&br;力の結晶&br;&color(red){カッパーメダル};&br;&color(red){鉄製の小さな刀身};&br;&color(slateblue){カットバットスタンプ};|サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ChunChun.jpg,nolink,100x100);|チュンチュン|30|1335|250/280|BGCOLOR(#fff68f):風|Link→鳥系|ウォーターレイアー|ミルク&br;上等な肉&br;サーロイン&br;力の結晶|ヴァニッシュメント&br;スタンブロウ||
+
+***Lv31～40 [#i75160ed]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/QueenBee.jpg,nolink,100x100);|クイーンビー|32|245|175/175|BGCOLOR(#fff68f):風|Link→ビー系|キラービーの峠道&br;果物の森&br;軍艦島&br;モースグ崖|蜂蜜&br;ビーの針&br;ロイヤルゼリー&br;クリティカルの結晶&br;&color(red){カッパーメダル};&br;&color(slateblue){クイーンビースタンプ};|スロウロジック&br;ポイズンパフューム|高AVOID&br;高Critical|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GaleChimera.jpg,nolink,100x100);|ゲイルキメラ|35|1300|333/515|BGCOLOR(#fff68f):風||【光の塔】&br;メインフロア4F&br;B-5F&br;&br;【インスタンスダンジョン】&br;地下迷宮|くんせい肉&br;コケトリスの羽&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};&br;&color(slateblue){サングラス};|ファルコン&br;サンダーストーム&br;ライジングサンダー||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Vulture.jpg,nolink,100x100);|バルチャー|36|&color(gray){2500};|500/530|BGCOLOR(#fff68f):風|Link→鳥系|ウォーターレイアー|卵&br;ダークフェザーの羽&br;上等な革&br;クリティカルの結晶|チャージ&br;アサルト&br;アタック・バースト&br;ラッシュ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Thunderbird.jpg,nolink,100x100);|サンダーバード|37|400|310/240|BGCOLOR(#fff68f):風|Active|ノース中央山脈（北）|肉&br;上等な肉&br;破れた魔法書&br;&color(slateblue){ロック鳥};&br;&color(slateblue){サンダーバードスタンプ};|-||
+
+***Lv61～70 [#ka3c8ff9]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Raiou.jpg,nolink,100x100);|ライオウ|64|210000|36000/14800|BGCOLOR(#fff68f):風|詠唱反応|【サウスダンジョン】&br;B3F&br;&br;【インスタンスダンジョン】&br;集う魔物&br;戦慄のプリズン|カッパーメダル&br;シルバーメダル&br;タイニーメダル&br;&color(slateblue){タイニーレインボーメダル};&br;&color(slateblue){ライオウスタンプ};|ゴゥアウト&br;サンダークランク&br;スーパーサンダーボルト&br;ライジングサンダー&br;ハウルアウト|超大型BOSS&br;50～60分毎&br;パッシブリザレクション（HP100%で復活、２回まで使用）&br;取り巻き(ホウオウミスティオス)|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HeavyBat.jpg,nolink,100x100);|ヘビーバット|65|2800|1650/1250|BGCOLOR(#fff68f):風|詠唱反応|【光の塔】&br;メインフロア1F&br;メインフロア2F&br;B-8F&br;光の塔上層|上等な肉&br;金色の牙&br;破れた魔法書&br;金属の混じった石３&br;&color(red){するどい牙};|サンダーボルト&br;チャージ&br;ファイアライズ|詠唱反応範囲が広い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Twinkle.jpg,nolink,100x100);|トゥインクル|66|2250|1450/1200|BGCOLOR(#fff68f):風|詠唱反応|【光の塔】&br;光の塔周辺(MAP南)&br;光の塔下層(4F下)&br;光の塔下層(B屋上)|金属の混じった石５&br;鉄のとげ&br;アーチン印のミソ&br;金属の混じった石３&br;&color(red){アーチンの化石};|サンダーストーム&br;サンダーパルス&br;ファルコン|高MDEF&br;瀕死時→Active|
+
+***Lv71～80 [#lb8b837c]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Sibyls.jpg,nolink,100x99);|シュバリス|74|4600|2320/2420|BGCOLOR(#fff68f):風|Active|【サウスダンジョン】&br;B3F&br;&br;【光の塔】&br;メインフロア2F&br;&br;【インスタンスダンジョン】&br;遺跡荒しを追い出せ|高級ドライフルーツ&br;風の召喚石&br;闇のコロン&br;金糸のリボン&br;&color(red){壊れたギター};|サンダーストーム&br;サンダークランク&br;石化ガス||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Platinum.jpg,nolink,130x130);|プラチナム|76|4350|2500/1950|BGCOLOR(#fff68f):風|NonActive|【光の塔】&br;光の塔周辺（北西部）&br;光の塔下層（4F右上）&br;A-9F|燐粉&br;キャリアオイル&br;金属の混じった石５&br;金属の混じった石３&br;&color(orange){プラチナの塊};&br;&color(red){超氷石};|サンダーボルト&br;サンダークランク&br;サテライトエウロパ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TropicalGi-go.jpg,nolink,100x100);|トロピカルギーゴ|78|6500|2450/2450|BGCOLOR(#fff68f):風|Active|バオバブの森|上等な肉&br;異界の羽&br;テリヤキ&br;&color(red){カラフルな羽根};&br;&color(slateblue){羽マスク(黒)};|チャージ&br;マジックスリープ&br;コンフューズスタッド&br;バイタリティダウン||
+
+***Lv81～90 [#zb2a9b6c]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ha-Pi-.jpg,nolink,100x100);|ハーピー|90|12500|3200/3300|BGCOLOR(#fff68f):風|詠唱反応|【光の塔】&br;A-13F～A-20F|異界の羽&br;ハーブのど飴&br;破れた魔法書（PT、ソロ）&br;ユニコーンの角&br;&color(red){音叉管};&br;&color(red){天上のハープ};|ディープフォレスト&br;ブランディッシュ&br;ララバイ&br;サンダーストーム|瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShineBeeN.jpg,nolink,100x100);|シャインビー|90|12000|4300/4100|BGCOLOR(#fff68f):風|Link→シャインビー&br;Link→コガネグモ|バオバブの森（夜）|氷砂糖&br;禁断の果実&br;ケセランパサラン&br;魔力の結晶|衝撃波&br;ワー・クライ&br;ホーリーライト&br;ハチの一刺し|高DEF&br;高ASPD|
+
+***Lv91～100 [#f46bf67b]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Wendy.jpg,nolink,100x100);|ウェンディー|91|13350|3400/3650|BGCOLOR(#fff68f):風|詠唱反応|【光の塔】&br;A-17F～A-20F&br;【インスタンスダンジョン】&br;超兵器の破壊|ハーブのど飴&br;珍しい種&br;破れた魔法書(PT)&br;&color(slateblue){悪魔の槍};&br;&color(red){ジャスティスランス};&br;&color(red){マジックシールド};|マジックシールド&br;ソリッドオーラ&br;ララバイ&br;ファルコン&br;スーパーサンダーボルト||
+
+***Lv111～ [#y33c8ed7]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Dryad.jpg,nolink,100x100);|ドリアード|120|71980|8350/8560|BGCOLOR(#fff68f):風|NonActive|【クジラ岩】&br;歪淵・迷&br;幻淵&br;深淵|ギコギコ草&br;ドリアードの触手&br;ドリアードの触手(PT)&br;&color(red){嘆きの懐中時計(PT)};&br;超絶水分補給水&br;激震のど飴|ノクシャスブラスト&br;ロックドライブ&br;ライフスティール&br;グラビティフォール|&br;|
+|&aname(fularplant);&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/fularplant.jpg,nolink,100x100);|フィーラープラント|125|75840|12520/12640|BGCOLOR(#fff68f):風|NonActive|【クジラ岩】&br;虚淵&br;深淵|ルーン草&br;ドリアードの触手&br;&color(orange){ドリアードの触手(PT)};&br;&color(red){嘆きの懐中時計(PT)};&br;超絶水分補給水|ヒーリング&br;ランドクラック&br;ディビリテイト&br;プラントポイズン|&br;|

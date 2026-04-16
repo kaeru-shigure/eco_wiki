@@ -1,0 +1,72 @@
+# Skill/Cardinal
+
+[[ ウァテス >Skill/Wotes]]([[詳細>Skill/Wotes/Explanation]])/[[ ドルイド >Skill/Druid]]([[詳細>Skill/Druid/Explanation]])/[[ バード >Skill/Bard]]([[詳細>Skill/Bard/Explanation]])/ ''カーディナル'' ([[詳細>Skill/Cardinal/Explanation]])
+*カーディナル [#dffd2cdd]
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ウァテスの[[''外部スレッド''>Skill/Wotes#p81644f8]]を参照
+
+** 特徴 [#zf2f9f14]
+公式サイト：[[カーディナル:http://www.econline.jp/data/job/3rd-chronicle/job_c07.html]]
+-光属性の頂点に立つ、光の代表者です。
+-回復系スキルの効果を著しく高めることができます。
+-その偉大な呪文は、立ちはだかるものを挫き、共に戦うものを強く鼓舞するでしょう。
+-''HP係数：4.02''、''MP係数：4.21''、''SP係数：1.66''
+
+|~一次職|転職|~二次職|転生|~三次職|
+|[[ウァテス>Skill/Wotes]]|→|[[ドルイド>Skill/Druid]]（エキスパート）|→|''カーディナル''|
+|~||CENTER:↑　スイッチ　↓||~|
+|~||[[バード>Skill/Bard]]（テクニカル）|→|~|
+
+** 転職方法 [#wd2a4372]
+[[三次クロニクル職>Job/Change/Chronicle]]の[[上位転生の手順>Job/Change/Chronicle#kyoutuu]]を参照
+
+** デュアルジョブの相性について [#t4854b14]
+本職カーディナル視点からのデュアルジョブ相性表はこちらのページ→&size(18){[[デュアルジョブの相性について#本職：カーディナル>Job/DualJob/Explanation#MainCa]]};
+まだ一部分埋まってない箇所がありますが、参考にどうぞ。
+
+** スキル早見表とスキル詳細 [#w88dbd18]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#l5064381]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|3|8|8|3|6|9||~26|6|15|14|6|11|17|
+|~2|3|8|8|3|6|COLOR(red):BGCOLOR(#EDEDFF):''10''||~27|6|15|14|6|11|COLOR(red):BGCOLOR(#EDEDFF):''18''|
+|~3|3|COLOR(red):BGCOLOR(#EDEDFF):''9''|8|3|6|10||~28|6|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''15''|6|11|18|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''4''|9|8|COLOR(red):BGCOLOR(#EDEDFF):''4''|6|10||~29|COLOR(red):BGCOLOR(#EDEDFF):''7''|16|15|COLOR(red):BGCOLOR(#EDEDFF):''7''|11|18|
+|~5|4|9|COLOR(red):BGCOLOR(#EDEDFF):''9''|4|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''11''||~30|7|16|15|7|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''19''|
+|~6|4|COLOR(red):BGCOLOR(#EDEDFF):''10''|9|4|7|11||~31|7|COLOR(red):BGCOLOR(#EDEDFF):''17''|15|7|12|19|
+|~7|4|10|9|4|7|11||~32|7|17|COLOR(red):BGCOLOR(#EDEDFF):''16''|7|12|19|
+|~8|4|10|9|4|7|COLOR(red):BGCOLOR(#EDEDFF):''12''||~33|7|17|16|7|12|COLOR(red):BGCOLOR(#EDEDFF):''20''|
+|~9|4|10|COLOR(red):BGCOLOR(#EDEDFF):''10''|4|7|12||~34|7|17|16|7|12|20|
+|~10|4|COLOR(red):BGCOLOR(#EDEDFF):''11''|10|4|COLOR(red):BGCOLOR(#EDEDFF):''8''|12||~35|7|COLOR(red):BGCOLOR(#EDEDFF):''18''|16|7|COLOR(red):BGCOLOR(#EDEDFF):''13''|20|
+|~11|4|11|10|4|8|COLOR(red):BGCOLOR(#EDEDFF):''13''||~36|7|18|COLOR(red):BGCOLOR(#EDEDFF):''17''|7|13|COLOR(red):BGCOLOR(#EDEDFF):''21''|
+|~12|COLOR(red):BGCOLOR(#EDEDFF):''5''|11|10|COLOR(red):BGCOLOR(#EDEDFF):''5''|8|13||~37|COLOR(red):BGCOLOR(#EDEDFF):''8''|18|17|COLOR(red):BGCOLOR(#EDEDFF):''8''|13|21|
+|~13|5|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''11''|5|8|13||~38|8|COLOR(red):BGCOLOR(#EDEDFF):''19''|17|8|13|21|
+|~14|5|12|11|5|8|COLOR(red):BGCOLOR(#EDEDFF):''14''||~39|8|19|17|8|13|COLOR(red):BGCOLOR(#EDEDFF):''22''|
+|~15|5|12|11|5|COLOR(red):BGCOLOR(#EDEDFF):''9''|14||~40|8|19|COLOR(red):BGCOLOR(#EDEDFF):''18''|8|COLOR(red):BGCOLOR(#EDEDFF):''14''|22|
+|~16|5|12|11|5|9|14||~41|8|19|18|8|14|22|
+|~17|5|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''12''|5|9|COLOR(red):BGCOLOR(#EDEDFF):''15''||~42|8|COLOR(red):BGCOLOR(#EDEDFF):''20''|18|8|14|COLOR(red):BGCOLOR(#EDEDFF):''23''|
+|~18|5|13|12|5|9|15||~43|8|20|18|8|14|23|
+|~19|5|13|12|5|9|15||~44|8|20|COLOR(red):BGCOLOR(#EDEDFF):''19''|8|14|23|
+|~20|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''16''||~45|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''21''|19|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''24''|
+|~21|6|14|13|6|10|16||~46|9|21|19|9|15|24|
+|~22|6|14|13|6|10|16||~47|9|21|COLOR(red):BGCOLOR(#EDEDFF):''20''|9|15|24|
+|~23|6|14|13|6|10|16||~48|9|21|20|9|15|24|
+|~24|6|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''14''|6|10|COLOR(red):BGCOLOR(#EDEDFF):''17''||~49|9|COLOR(red):BGCOLOR(#EDEDFF):''22''|20|9|15|COLOR(red):BGCOLOR(#EDEDFF):''25''|
+|~25|6|15|14|6|COLOR(red):BGCOLOR(#EDEDFF):''11''|17||~50|9|22|20|9|COLOR(red):BGCOLOR(#EDEDFF):''16''|25|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+//* 無限回廊奈落対策 [#jee82b2e]
+//[[無限回廊奈落でのスキル考察>Dungeon/InfiniteCorridorAbyssSkill]]
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#n67ae277]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Wotes#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

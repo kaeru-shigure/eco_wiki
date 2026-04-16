@@ -1,0 +1,31 @@
+# ドロップ率検証/ゲッコ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***ゲッコ [#zdf1daec]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|青汁|ねばねば|キャベツ|ペリドット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|60個（60.00％）|28個（28.00％）|9個（9.00％）|2個（2.00％）|1個（1.00％）|
+|知識あり（200体）|95個（47.50％）|84個（42.00％）|18個（9.00％）|2個（1.00％）|1個（0.50％）|
+
+***レクルスゲッコ [#i3692e0c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|青汁|毒消しの実|健康栄養ドリンク|ペリドット|革のベルト|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|105個（52.50％）|88個（44.00％）|4個（2.00％）|3個（1.50％）|1個（0.50％）|0個（0.00％）|
+|知識あり（400体）|157個（39.25％）|113個（28.25％）|4個（1.00％）|4個（1.00％）|1個（0.25％）|121個（30.25％）|
+
+***アルトゲッコ [#v3cec050]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ねばねば|キャベツ|鋼の刀身|黒キャビア|シルバーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（244体）|133個（54.51％）|105個（43.03％）|3個（1.23％）|3個（1.23％）|0個（0.00％）|0個（0.00％）|
+|知識あり（5250体）|2033個（38.72％）|1555個（29.62％）|60個（1.14％）|31個（0.59％）|1567個（29.85％）|4個（0.08％）|
+
+***エルダーゲッコ [#r2f9bf66]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ねばねば|キャビア|キャベツ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（270体）|85個（31.48％）|91個（33.70％）|90個（33.33％）|4個（1.48％）|

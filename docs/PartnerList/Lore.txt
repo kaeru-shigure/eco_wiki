@@ -1,0 +1,374 @@
+# PartnerList/Lore
+
+#author("2017-08-11T17:05:47+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （ロア） [#be4ff411]
+#contents
+
+ステータスの表記は本wikiのレイアウトの関係で英語にしています (表示順序はゲーム内と同じ)
+ステータス数値のうちM.RCVとS.RCVが&color(silver){灰色};の場合、信頼度換算の際に信頼度黒での数値が算出できなかったことを示します(上限300に達していたため)。確定次第黒文字に要修正
+
+**ロア [#Lore]
+-2013年および2014年の通年イベントのキャラクター
+-2013年の大きい方はロア、2014年の小さい方はちびロアなどと呼ばれている。
+-2015年8月に本イベントが常駐化し、好きなときに進行できるようになった。[[イベント詳細はこちら>Quest/Season/BookshelvesAndMemoryIris]]
+(常駐化後の新イベント開始時に「最初から」を選択すると、2013年にクリア済の話を含め全てやり直すことができる)
+-新規入手はアルカード・ロア～アイリス・ロア / 紙芝居屋アイリス / イリス・ロア のみ可能
+-アルカード・ロア～ステラ・ロアのみ、武具装備またはエフェクトに[[アイテムチェンジ>SpecialItem#Lore]]可能。
+--ロア時のステータスは反映されず、武器・防具としての性能には期待できない。
+--[[武具強化>EnhancementOfWeapon]]などにより消滅する可能性がある
+-アルカード・ロア～ステラ・ロアとちびルチフェロのみ、身体のどこかにロアのマークがついている。
+
+***アルカード・ロア [#AlucardLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/AlucardLore.jpg,nolink,155x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;380&br;90&br;90&br;50&br;56&br;65&br;65&br;45&br;25&br;&br;45&br;25&br;45&br;25&br;30&br;30&br;210&br;210&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;28680&br;990&br;990&br;1300&br;1361&br;1400&br;1475&br;375&br;285&br;&br;337&br;25&br;340&br;25&br;170&br;180&br;490&br;520&br;&br;250&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;ロアの一種&br;吸血鬼の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Alucard]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（高笑い、反抗、ふしぎ、驚かす、寝起き）&br;&br;メタモルフォーゼ中にEXモーション「体育座り」で、&br;座ってコウモリを撫でるモーションを取る(プレイヤー専用モーション)。&br;&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){首筋左後ろ　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;アルカード・スピア（両手槍）&br;アルカード・ソウル&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ダークワールウインド&br;ダークミスト&br;吸い尽くしてさしあげます (ブラッドアブソーブ)&br;受け止めてくださる？ (ダークブレイズ)&br;イビルソウル&br;いただきますわ (ソウルスティール)&br;&br;【入手法】&br;[[ECOくじ「ヴァンパイア・ロマンス」1等>Kuji/2013#z7e3c72d]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「吸血鬼と鋼鉄の花飾り」A賞>Kuji/2016#u49859e0]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ダークワールウインド|敵|単体|3|&color(red){SP3};|離れた相手に向かって闇属性の斬撃の波動を放つ&br;ATK130%、闇属性|
+|▲ダークミスト|敵|単体|5|&color(blue){MP10};|対象者を一定確率で命中率低下にする攻撃を与える&br;MATK120%、闇属性|
+|▲吸い尽くしてさしあげます|敵|単体中心&br;円|5|&color(blue){MP14};|対象から精気を奪い取りHPを回復する&br;MATK300%、与ダメージの14%回復、無属性|
+|▲受け止めてくださる？|敵|単体中心&br;円|4|&color(blue){MP30};|単体中心に全てを飲み込む虚無を作る&br;MATK420%、闇属性|
+|▲イビルソウル|自分|単体|-|&color(blue){MP12};|闇属性の攻撃力を効果時間中アップさせる&br;属性倍率+75%、効果時間20秒|
+|▲いただきますわ|敵|単体|1|&color(red){SP15};|闇の力を用いて対象を攻撃しダメージの一部をMPに吸収する&br;ATK100%、与ダメージの18%回復、闇属性|
+///////////
+#fold(アルカードとは,空想上の怪物「ドラキュラ(Dracula)」のアナグラム。&br;(アナグラム=元ある文字を並び替えて別の意味や読み方にするを言葉遊び)&br;Draculaを逆から読むとAlucard=アルカードとなり、古くから吸血鬼が登場する作品等で用いられていた。);
+
+***清姫・ロア [#KiyohimeLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/KiyohimeLore.jpg,nolink,155x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;750&br;90&br;90&br;45&br;46&br;50&br;50&br;40&br;40&br;&br;25&br;15&br;35&br;20&br;20&br;10&br;200&br;200&br;&br;-&br;-&br;-|110&br;黒&br;&br;23450&br;1890&br;1040&br;525&br;626&br;1910&br;2050&br;260&br;310&br;&br;321&br;15&br;435&br;20&br;85&br;75&br;460&br;590&br;&br;250&br;300&br;200|【説明】&br;ロアの一種&br;蛇姫の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Kiyohime]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（炎上、照れる、いじける、決めポーズ、ショック、舞）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){左前腕甲側　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;清姫の弓（弓）&br;清姫・ソウル&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;もえつきろ～……&color(silver){ (ラーヴァフロウLv3？)};&br;うけとって！私の気持ち！ (旧仕様ラウズボディLv3)&br;ふふふ、あはははははは&br;ヒーリング&br;&br;【入手法】&br;[[ECOくじ「古今戦国絵巻」1等>Kuji/2013#jbb697f3]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「蛇とメイドと女子力と」A賞>Kuji/2016#e2456c3c]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲もえつきろ～……|敵|地面指定&br;7x7|8|&color(blue){MP30};|M.ATK依存100%x5 火属性|
+|▲うけとって！私の気持ち！|主人&br;自分|単体|3|&color(blue){MP10};|STR+5 VIT+7 AGI+11 効果時間25秒|
+|▲ふふふ、あはははははは|敵|単体中心&br;5x5|1|&color(red){SP8};|ATK依存250%＋毒＋スタン|
+///////////
+#fold(清姫とは,日本の昔話「安珍清姫伝説」に登場する、現在の和歌山県に縁のある氏族の娘。&br;宿を借りに来た安珍という名の修行僧に一目惚れしあらゆる手を尽くして彼に迫るが、修行僧故に女性と関係を持つ事が許されなかった安珍は清姫を受け入れなかった。それでも尚清姫は安珍に迫り続けるが、その度に安珍は清姫を拒否し続け、やがて安珍の態度に激昂した清姫は炎を吐く大蛇の姿に化けて逃げる安珍を追い回した。&br;最後は寺の鐘の中に身を隠した安珍を鐘ごと炎で焼き尽くして殺害し、自身も川に入水して果てたという。);
+
+***ル・フェイ・ロア [#LefayLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/LefayLore.jpg,nolink,155x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;400&br;90&br;90&br;20&br;21&br;70&br;75&br;20&br;45&br;&br;15&br;10&br;25&br;15&br;20&br;10&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;23000&br;1790&br;1240&br;470&br;531&br;2050&br;2100&br;300&br;260&br;&br;275&br;10&br;390&br;15&br;80&br;85&br;460&br;560&br;&br;250&br;&color(silver){300};&br;200|【説明】&br;ロアの一種&br;魔女の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Lefay]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（抱きつく、闇堕ち、りんごをどうぞ、毒りんごをどうぞ、ちょっとした魔法、決めポーズ）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　EXモーション「挑発1」であひる座りに似たポーズになる&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){右上腕　　　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;ル・フェイの杖（杖）&br;ル・フェイ・ソウル&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：叩き&br;射程：3&br;&br;【使用スキル】&br;リカバリー&br;リザレクション&br;来たりて集え、精霊よ (グラヴィティフォール)&br;汝、宵に抱かれて朽ちよ&br;降り注げ森羅万象の護(単体版旧仕様ディバインバリアLv2)&br;&br;【入手法】&br;[[ECOくじ「ケルティック・ファンタジー」1等>Kuji/2013#c3760b46]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「幽閉の魔女と雛鳥」A賞>Kuji/2016]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲来たりて集え、精霊よ|敵|地面指定&br;円|6|&color(blue){MP19};|460%＋鈍足|
+|▲汝、宵に抱かれて朽ちよ|敵|単体中心&br;円|5|&color(red){SP8};|対象を中心に毒効果と眠り効果のある爆破を起こす|
+|▲降り注げ森羅万象の護|主人&br;自分|単体|5|&color(blue){MP32};|対象の防御力と魔法防御力を上昇させる|
+///////////
+#fold(ル・フェイとは,欧州に伝わる有名な騎士道物語「アーサー王物語」に登場する魔女。&br;アヴァロンに居を構える9人の魔女姉妹の長女で、重症を負ったアーサー王を救ったとされる。&br;有名な呼ばれ方は『モーガン・ル・フェイ』。【妖精モーガン】という意味である。(『モリガン』『モルガナ』と呼ばれる場合もある)&br;だが彼女が善良な魔女（古来、医療をする女性はこう呼ばれた）であったのは初出時のみ。&br;15世紀以降のアーサー王の物語では、彼女は黒魔術を使う邪悪の魔女へ変更された。&br;(ルチフェロ・ロアの証言により、現在のル・フェイは”妖精”では無く改変後に語られた”邪悪の魔女”のル・フェイである事が発覚している)&br;母がアーサー王の父と再婚。修道院にて不思議な妖術を身に付けた彼女は、アーサー王とその周りから王位奪取を企む。&br;アーサー王が物語において自らの不義の子であるモルドレッド卿との戦いで命を落としたのも、そもそもは彼女に聖剣エクスカリバーの鞘を盗まれたことで、不死の力を無くしていた為であった。);
+
+***バステト・ロア [#BastetLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/BastetLore.jpg,nolink,155x248);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;600&br;90&br;90&br;60&br;66&br;45&br;45&br;40&br;35&br;&br;20&br;20&br;30&br;25&br;35&br;30&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25750&br;490&br;1490&br;1405&br;1726&br;650&br;735&br;390&br;240&br;&br;365&br;20&br;315&br;25&br;140&br;130&br;540&br;490&br;&br;220&br;100&br;&color(silver){300};|【説明】&br;ロアの一種&br;猫の化身の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Bastet]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（悲しむ、わたす、こける、猫のポーズ、驚く、ねむる）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){右前腕甲側　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;バステトのシストルム（ハンマー）&br;バステト・ソウル&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;デッドマーチ&br;モータルフィアー&br;げんきだして (エリアヒール)&br;にゃー (アタックバースト+ディフェンスバースト)&br;めざわりなの (斬撃無双Lv1)&br;&br;【入手法】&br;[[ECOくじ「ブバスティスの仔猫たち」1等>Kuji/2013#d54015c8]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲げんきだして|主人&br;自分|単体中心&br;3x3|5|&color(blue){MP12};|対象とその周辺3x3のキャラクターのHPを回復させる|
+|▲にゃー|主人&br;自分|単体|6|&color(blue){MP6};&br;&color(red){SP6};|最大ATK+10 左DEF+5 右DEF+10&br;左M.DEF+4 右M.DEF+7 効果時間30秒|
+|▲めざわりなの|敵|単体|1|&color(red){SP18};|対象を連続攻撃したあとに吹き飛ばし効果|
+///////////
+#fold(バステトとは,エジプト神話に登場する&quot;猫の頭を持つ豊穣を司る女神&quot;であり、決して猫の守り神という訳では無い。&br;(仔猫の神様=仔猫の姿をした神様、と言う意味)&br;くじの題名にもなった「ブバスティス」とは、エジプトに実在する街の名前である。&br;神話において、彼女は【太陽神ラー】の娘という扱いにあたる。&br;「ブバスティス」を中心に土地の守護神として篤く信仰され、町の近くには猫の大きな埋葬地があり、猫のミイラや彫像が大量に出土している。&br;ゲーム内のイベントにおいて、猫の彫像を多く立てていたのは、少なからずこういった事例を元にしての設定であった可能性は高い。&br;余談だが、アイリスの語った彼女の物語はグリム童話「長靴を履いた猫」を踏襲していると思われる。&br;(両親から猫を相続した三兄弟の三男が、猫の手助けにより富と幸福を得るという話));
+
+***キャプテンキッド・ロア [#CaptainkiddLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/CaptainkiddLore.jpg,nolink,155x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;90&br;90&br;35&br;36&br;30&br;40&br;50&br;80&br;&br;20&br;15&br;15&br;15&br;15&br;20&br;200&br;200&br;&br;120&br;100&br;100|110&br;黒&br;&br;26850&br;690&br;1190&br;1350&br;1456&br;705&br;810&br;510&br;440&br;&br;400&br;15&br;340&br;15&br;235&br;260&br;510&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;大海賊の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Captainkidd]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（空腹、呆ける、威張る、企む、決めポーズ！、体育座り）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){左わき腹上部後方　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;キャプテンキッドの２丁拳銃（２丁拳銃）&br;キャプテンキッド・ソウル&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：突き&br;射程：3&br;&br;【使用スキル】&br;ふぁいあー♪ (フレアショットLv3)&br;バイタルショット (Lv3)&br;ばきゅん♪ (バラージショットLv3)&br;ぶちかますわよん♪ (グレネードショットLv2)&br;アタック・バースト&br;&br;【入手法】&br;[[ECOくじ「パイレーツ・クロニクル」1等>Kuji/2013#x3544f4f]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「ドラむすめ海賊航海記」A賞>Kuji/2016#y6079252]]|
+//110&br;&color(,#ffafcf){桃};&br;&br;35220&br;1835&br;2585&br;1450&br;1556&br;805&br;910&br;700&br;690&br;&br;500&br;15&br;440&br;15&br;335&br;360&br;510&br;510&br;&br;?&br;?&br;?
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ふぁいあー♪||||||
+|▲ばきゅん♪||||||
+|▲ぶちかますわよん♪||||||
+|▲ふぁいあー♪|敵|単体|7|&color(red){SP18};|対象の体内で数秒後に爆発する弾を撃ちこむ&br;一定確率で持続ダメージを与える|
+|▲ばきゅん♪|敵|単体|5|&color(red){SP25};|対象を複数回攻撃する|
+|▲ぶちかますわよん♪|敵|単体中心&br;円|6|&color(red){SP10};|着弾と同時に炸裂し範囲ダメージを与える弾丸を発射する|
+///////////
+#fold(キャプテンキッドとは,本名ウィリアム・キッド。イギリス生まれだが、後にアメリカに移住し貿易商として暮らしていた。&br;当時は海賊が横行しており、貿易船で諸国を巡っていたキッドはある時私掠船の運営許可を獲得し、商売の傍ら海賊退治を行うようになった。しかし私掠船の運営が思うように行かず、次第にキッド自身が見境無く略奪を繰り返す海賊となり、やがて部下に見放されたキッドは寄航したニューヨークの港で逮捕され処刑されてしまう。彼の遺体はイギリスのテムズ川に檻に入れられた状態で野ざらしにされ、海賊を志す者達に「海賊の末路」として見せしめにされたという。&br;尚、キッドが海賊として活動していた時、自身が所持していた船「ギャリー号」とは別にイギリスの商船を略奪して得た船が一隻存在していた。&br;この船がくじの景品となった「マーチャント号」であり、キッドが最後の航海で乗っていた船である。);
+
+***玉藻・ロア [#TamamoLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/TamamoLore.jpg,nolink,155x213);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;650&br;90&br;90&br;55&br;61&br;40&br;40&br;35&br;30&br;&br;25&br;25&br;30&br;20&br;20&br;20&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;30300&br;990&br;990&br;1280&br;1321&br;1370&br;1470&br;375&br;340&br;&br;380&br;25&br;365&br;20&br;165&br;165&br;460&br;350&br;&br;220&br;150&br;150|【説明】&br;ロアの一種&br;九尾の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Tamamo]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（殺生石、お仕置き、拗ねる、&br;　誇らしげ、決めポーズ♪、もふもふ）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　EXモーション「体育座り」でもふもふのポーズになる&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){左脚前方付け根　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;玉藻の鞭（ロープ）&br;玉藻・ソウル&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;お仕置き、だよ♪ (大車輪Lv3)&br;神格強化☆狐狸夢中&br;九尾狐の殺生石☆体験版 (スキャターポイズンLv1)&br;九尾の霊験☆復刻版&br;リザレクション&br;&br;【入手法】&br;[[ECOくじ「御伽の国のお狐様」1等>Kuji/2013#i2524372]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「お狐さま洋菓子店」A賞>Kuji/2016#nf8b556d]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲お仕置き、だよ♪|自分|自分中心&br;5x5|-|&color(red){SP62};|ATK依存280%＋吹き飛ばし＋鈍足&br;見た目が両手武器ジョーカー|
+|▲神格強化☆狐狸夢中|主人&br;自分|単体|5|&color(blue){MP32};|左DEF+13 右DEF+10&br;左M.DEF+20 右M.DEF+15 効果時間125秒|
+|▲九尾狐の殺生石☆体験版|自分|自分中心&br;5x5|-|&color(red){SP30};|攻撃力は使用者のHP依存|
+|▲九尾の霊験☆復刻版|主人&br;自分|単体|6|&color(blue){MP75};|HP回復倍率300% 低確率で状態異常も回復。&br;見た目サルベだが憑依回復はしない|
+///////////
+#fold(玉藻とは,日本の平安時代末期に、鳥羽上皇に仕えたと言われる絶世の美女であり、白面金毛九尾の狐が化けたものであるとも言われた。&br;日本三大化生の一角。&br;幼名は藻女（みずくめ）。18歳で宮中に仕え、後に鳥羽上皇に仕えてから玉藻前と名乗るようになる。その美貌と博識ぶりから寵愛を得るようになったとされる。&br;しかしその後、鳥羽上皇が病に倒れた際、原因を調べた陰陽師、安倍晴明によって「人間ではない」ことが発覚。宮中から追い払われる結果となる。&br;その後、朝廷の討伐軍と那須野の地で激突。&br;一度目は8万からなる軍勢を退けたが二度目の戦いで敗北し、その骸は「殺生石」と呼ばれる毒を放つ石になったと言われる。);
+
+***ローレライ・ロア [#LoreleyLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/LoreleyLore.jpg,nolink,155x192);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;90&br;90&br;35&br;41&br;40&br;45&br;30&br;35&br;&br;20&br;25&br;30&br;25&br;30&br;30&br;150&br;140&br;&br;150&br;100&br;100|110&br;黒&br;&br;28150&br;1490&br;1340&br;580&br;671&br;1169&br;1295&br;280&br;240&br;&br;365&br;25&br;370&br;25&br;70&br;75&br;410&br;530&br;&br;300&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;ロアの一種&br;人魚の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Loreley]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（照れ、らぶりー、歌う、投げキス、ぴーす、不満げ）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){うなじ　　　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;ローレライのハープ（弦楽器）&br;ローレライ・ソウル&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;いえす！らぶりー♪ますたー☆ (リラクゼーションLv1)&br;もりあがっていきましょう (旧アースオーラLv1)&br;ぐったりしていきましょう&color(silver){ (セッション？)};&br;さよならランデヴー&color(silver){ (デッドマーチ？)};&br;&br;【入手法】&br;[[ECOくじ「マーメイド・オン・ステージ」1等>Kuji/2013#y5e37cef]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「まな板の上の人魚姫」A賞>Kuji/2016#r79fe02a]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲いえす！らぶりー♪ますたー☆|自分|自分中心&br;円|-|&color(blue){MP18};&br;&color(red){SP14};|自分を中心とした範囲内にいた者にHP、MP、SP回復率上昇の効果を一定時間与える。本家[[リラクゼーション>Skill/Bard/Explanation#Relaxation]]と重複可。|
+|▲もりあがっていきましょう|主人&br;自分|単体|6|&color(blue){MP15};|左DEF+10 右DEF+20 効果時間10秒|
+|▲ぐったりしていきましょう||地面指定&br;円|-|&color(blue){MP14};|範囲内の対象を混乱または睡眠状態にする。|
+|▲さよならランデヴー|自分|自分中心&br;円|-|&color(blue){MP8};&br;&color(red){SP8};|広範囲にダメージと共に異常状態にさせる音波を発生させる。|
+/////////
+#fold(ローレライとは,ライン川流域の町ザンクト・ゴアルスハウゼン近くにある、水面から 130 m ほど突き出た岩山のことである。この岩山に向かって叫ぶと木霊が返ってくる。このローレライ付近の川は航行の難所であるため事故や犠牲者が続出し、転じて「岩山にたたずむ美しい少女が船頭を魅惑し、舟が 川の渦の中に飲み込まれてしまう」というローレライ伝説が生まれた。&br;伝説は諸説あるが一番有名なものは、ハイネの詩。&br;共通する内容としては不実な恋人に絶望してライン川に身を投げた乙女であり、水の精となった彼女の声は漁師を誘惑し、破滅へと導くというものである。&br;ちなみにアイリスの語る物語は人魚つながりでマーメイドやウィンディーネの伝説が混じっている。);
+
+***パラケルスス・ロア [#ParacelsusLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/ParacelsusLore.jpg,nolink,155x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;450&br;90&br;90&br;35&br;41&br;45&br;50&br;30&br;30&br;&br;30&br;15&br;25&br;25&br;25&br;25&br;150&br;135&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;黒&br;&br;29399&br;990&br;990&br;1245&br;1311&br;1215&br;1360&br;345&br;345&br;&br;340&br;15&br;335&br;25&br;180&br;170&br;460&br;445&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;科学者の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Paracelsus]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（高笑い、手を差し伸べる、甘いもの、いじける、研究、子守、勉強）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　モーション「休憩」で勉強のポーズになる&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){下腹部のやや左　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;アゾット剣（短剣）&br;パラケルスス・ソウル&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;マジックバリア&br;我輩の成果をご覧いれよう&br;甘いものはいかがかな？&br;次の手、読めたぞ！&br;&br;【入手法】&br;[[ECOくじ「シークレットラボラトリー」1等>Kuji/2013#p234af48]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;ECOドリーム「世界の謎に迫る」A賞|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲我輩の成果をご覧いれよう||単体中心&br;円|5|&color(blue){MP15};|500%x2 (1発目火属性、2発目風属性)|
+|▲甘いものはいかがかな？||単体|5|&color(blue){MP30};|被ダメージの一部を一定確率でMPとして吸収する。&br;効果時間180秒|
+|▲次の手、読めたぞ！||地面指定&br;円|4|&color(red){SP8};|指定先の地面に混乱効果と沈黙効果を与える。&br;効果時間20秒|
+/////////
+#fold(パラケルススとは,ルネサンス初期のスイスの医師、錬金術師。本名は「テオフラストゥス・フィリップス・アウレオールス・ボンバストゥス・フォン・ホーエンハイム」&br;実在した人物ではあるが錬金術師として、とりわけ賢者の石とホムンクルスの伝承について、多くの伝説を残しており彼を魔術師として見る向きも存在する。&br;賢者の石の錬成の数少ない成功者の一人とされており、ホムンクルスの精製にも成功し、その方法やホムンクルスとの交流も残されている。&br;また、ロアがアイテムチェンジで変化する「アゾット剣」は彼が常に持ち歩いている剣で、「賢者の石が入っている」と言われており、剣の柄に「Azoth」とあったことからアゾット剣と呼ばれるようになったものである。);
+
+***ワーウルフ・ロア [#WerewolfLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/WerewolfLore.jpg,nolink,155x324);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;黒&br;&br;550&br;90&br;90&br;50&br;61&br;40&br;45&br;40&br;45&br;&br;30&br;20&br;25&br;25&br;25&br;25&br;150&br;190&br;&br;120&br;100&br;100|110&br;黒&br;&br;31300&br;490&br;1190&br;1450&br;1531&br;655&br;835&br;310&br;380&br;&br;535&br;20&br;480&br;25&br;65&br;65&br;460&br;480&br;&br;270&br;100&br;&color(silver){300};|【説明】&br;ロアの一種&br;人狼の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Werewolf]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（捕縛、焦る、たしなめる、背中で語る、負傷、思案する）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){左目と左耳の間　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;ワーウルフ・クロー（爪）&br;ワーウルフ・ソウル&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;全力でいく (リミテイションエッジ)&br;覚悟してもらおう (プレッシャー)&br;隙だらけだ (急所攻撃)&br;用心しろ (警戒)&br;&br;【入手法】&br;[[ECOくじ「ワーキング・ワーウルフ」1等>Kuji/2013#WorkingWerewolf]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「オオカミさんにご注意を」A賞>Kuji/2016#t8b2d6e9]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲全力でいく|敵|単体||&color(red){SP30};|守りを考えず全力で斬りかかり防御力を無効化する一撃を与える|
+|▲覚悟してもらおう|自分|自分中心&br;円|-|&color(red){SP30};|一定範囲に行動を鈍化させる結界を発生させる 結界内にいる者の移動速度,攻撃速度,詠唱速度が減少する 効果時間30秒|
+|▲隙だらけだ|敵|単体||&color(blue){MP8};&br;&color(red){SP16};|敵の急所を突いて大きなダメージを狙う　対象を稀に気絶、鈍足化状態にする|
+|▲用心しろ|主人&br;自分|単体||&color(red){SP19};&br;|効果時間は防御力がアップしクリティカル攻撃を受けなくなる&br;左DEF+9 効果時間60秒|
+/////////
+#fold(ワーウルフとは,獣人の一種で、狼または半狼半人の姿に変身したり、狼に憑依されるなどした人間である。男女を特定せず狼人間・人狼ともいう。&br;その起源は東ヨーロッパとされ、北欧神話にも狼の革を被って変身する戦士ベルセルク（バーサーカー）が登場する。&br;近代伝承では吸血鬼と非常に親しい存在であり、吸血鬼の天敵だったり、亜種だったり、眷属であったりなと様々。というのも後天的に人狼になる方法として人狼に噛まれるというものがあるためであり、それが吸血鬼の増殖法と似ているためである（起源が違うため、どちらかの伝承から輸入されたものだと思われる）。&br;一般的に「満月を見ると狼に変身する」「銀の弾丸で撃たれると死ぬ」とされるが、これらは20世紀の映画において創作された設定が広まったものであり、伝承などには存在しない。);
+
+***メフィストフェレス・ロア [#MephistophelesLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/MephistophelesLore.jpg,nolink,155x266);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;450&br;90&br;90&br;50&br;61&br;45&br;50&br;35&br;35&br;&br;25&br;23&br;25&br;23&br;5&br;5&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;23900&br;1890&br;1040&br;525&br;641&br;2030&br;2060&br;260&br;260&br;&br;330&br;23&br;410&br;23&br;50&br;50&br;380&br;490&br;&br;250&br;&color(silver){300};&br;200|【説明】&br;ロアの一種&br;悪魔の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Mephistopheles]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（得意げ、寝そべる、小突く、くつろぐ、威圧、お仕置き）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){右脛の内側　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;メフィストのハンマー（ハンマー）&br;メフィストフェレス・ソウル&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;消し飛びなさい&br;頭が高いわね (デッドマーチ)&br;とても気分がいいわ (光と風のポルカ)&br;&br;【入手法】&br;[[ECOくじ「デーモニック・ディテクティブ」1等>Kuji/2013#DemonicDetective]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「初秋読書三昧」A賞>Kuji/2016#zebd81ec]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲消し飛びなさい|敵|単体指定&br;直線|5|&color(blue){MP40};&br;&color(red){SP40};|ATK依存500％|
+|▲頭が高いわね|自分|自分中心&br;円|-|&color(blue){MP8};&br;&color(red){SP8};||
+|▲とても気分がいいわ|主人&br;自分|単体中心&br;3x3|6||左DEF+10 左M.DEF+15 効果時間125秒|
+/////////
+#fold(メフィストフェレスとは,メフィストフェレスは、16世紀ドイツのファウスト伝説やそれに材を取った文学作品に登場する悪魔。&br;一般にゲオルク・ファウストが呼び出した悪魔として知られ、ファウストを題材とした作品での風貌や性質がよく知られている。中でもゲーテの『ファウスト』が有名。&br;ファウスト伝説のメフィストフィレスは、この世におけるファウストの望みを叶える代わりに、その魂をもらう（死後は自分の支配下に置く）ことをファウストと取り交わす。メフィストフィレスは契約に忠実な様子を見せる一方で、巧みな弁舌でファウストを操作しようとする。&br;その結末は作品によってかわり、メフィストフィレスの目的が達成される場合もあれば、ファウストの魂を手に入れられないこともある。&br;また悪魔としての設定も、作品によって異なる。マーロウの『フォースタス博士』に登場するメフィストフェレスは、ルシファーに仕える悪魔で、彼と共に神に反逆したことになっている。&br;ゲーテの『ファウスト』に登場するメフィストフェレスは誘惑の悪魔とされ、神との賭けでファウストの魂を悪徳へ導こうとする。);
+
+***ルチフェロ・ロア [#LuciferoLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/LuciferoLore.jpg,nolink,155x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;500&br;90&br;90&br;55&br;66&br;45&br;55&br;45&br;35&br;&br;40&br;25&br;25&br;20&br;20&br;20&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;26850&br;490&br;1490&br;1470&br;1706&br;600&br;750&br;380&br;315&br;&br;435&br;25&br;320&br;20&br;145&br;124&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;魔王の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Lucifero]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（未来予想図、ひまつぶし、遠くを見る、しんあいのしるし、あたまをなでて）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){額　　　　　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;サタンブレイド（両手剣）&br;ルチフェロ・ソウル&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;これでおしまい&br;ちかよらないで&br;カーテンフォール&br;アタック・バースト&br;ダークウエポン&br;&br;【入手法】&br;[[ECOくじ「終幕オペラハウス」1等>Kuji/2013#SyumakuOperaHouse]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「翼が欲しい」A賞>Kuji/2016]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲これでおしまい|敵|単体|1|&color(red){SP70};|対象に無数の斬撃を浴びせる|
+|▲ちかよらないで|自分|自分中心&br;円|-|&color(red){SP16};|武器を振り回し自分の周囲を攻撃する&br;対象は一定確率で硬直する|
+|▲カーテンフォール|敵|単体|6|&color(blue){MP22};|敵に闇の力を持つ魔法攻撃を行う&br;一定確率で持続ダメージを与える|
+/////////
+#fold(ルチフェロとは,一般的な読みはルシファー (Lucifer)であり明けの明星を指すラテン語。&br;キリスト教、特に西方教会における悪魔（サタン）の同義語である。&br;「ルシファー」は英語からの音訳で、ECOの場合は『ルチーフェロ（伊: Lucifero）』にあたる。&br;キリスト教の伝統的解釈によれば、ルシファーは元々全天使の長であったが、土から作られたアダムとイブに仕えよという命令に不満を感じて反発。&br;神と対立し、天を追放されて神の敵対者となったとされる。&br;「ヨハネの黙示録」の12章7節をその追放劇と同定する場合もある。&br;姿は一般に蛇や竜、山羊の化け物として描かれることが多い。見事にECOはその全ての要素を詰め込んできた状態で産まれたことになる…。&br;余談にはなるが、Lucifer はもともと、ラテン語で「光をもたらす者」（lux 光 + fero 運ぶ）を意味する語であり、悪魔や堕天使を指す固有名詞ではなかった);
+
+***ステラ・ロア [#StellarLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/StellarLore.jpg,nolink,155x223);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;650&br;90&br;90&br;20&br;26&br;45&br;55&br;20&br;30&br;&br;45&br;25&br;45&br;25&br;20&br;10&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;28550&br;1690&br;1140&br;500&br;566&br;1200&br;1295&br;220&br;230&br;&br;450&br;25&br;450&br;25&br;55&br;65&br;410&br;550&br;&br;300&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;ロアの一種&br;思い出星の物語が具現化した姿と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Lore/Stellar]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（思い出星、まわします！、力の解放、&br;　応援、決めポーズ、ぷかぷか）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　EXモーション「シャキーン」で決めポーズ&br;　EXモーション「体育座り」でぷかぷかのポーズになる&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){胸の上　　　　　　　};&br;&br;【[[アイテムチェンジ>SpecialItem#Lore]]】&br;ステラ・シールド（盾）&br;ステラ・ソウル&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;星にねがいを (エリアヒール)&br;スターダストメモリー (リヴァイブ)&br;ハッピーエンド (キュアオール)&br;シューティングスター (スピードエンチャントLv1)&br;トリックスター (ディバインバリア)&br;あなたは負けません！ (セイクリッドエンブレイスLv1)&br;&br;【入手法】&br;[[ECOくじ「星降る夜の物語」1等>Kuji/2013#HoshihuruyoruNoMonogatari]]&br;[[ECOくじ「ロアたちの記憶」1等>Kuji/2015#w761e266]]&br;[[ECOドリーム「星と翼の贈り物」A賞>Kuji/2016]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲星にねがいを|主人&br;自分|単体中心&br;円|5|&color(blue){MP12};|対象とその周囲のHPを回復する|
+|▲スターダストメモリー|主人&br;自分|単体|3|&color(red){SP12};|戦闘不能になったとき稀に生き返る|
+|▲ハッピーエンド|主人&br;自分|単体|5|&color(blue){MP72};|一部状態異常を一定確率で治癒することができる|
+|▲シューティングスター|主人&br;自分|単体|6|&color(blue){MP46};|対象の物理攻撃速度、回避率、魔法抵抗率、魔法詠唱速度を上昇させる&br;効果時間60秒|
+|▲トリックスター|主人&br;自分|単体|5|&color(blue){MP32};|左DEF+13 右DEF+10 左M.DEF20 右M.DEF+15 効果時間125秒|
+|▲あなたは負けません！|主人&br;自分|地面指定&br;円|5|&color(blue){MP50};|指定範囲内にいる者を対象としHP大回復効果とHP、MP、SP回復力上昇効果を付与させ、さらには行動不能状態から蘇らせることができる|
+#fold(ステラとは,アクロニア大陸に古くから伝わる御伽噺「思い出星」の物語を元に出現したロアであるが、ブーフ・アルマに刻まれていた「思い出星」の原典となったという物語はグリム童話「星の銀貨」だと思われる。&br;ある所に非常に信仰心の篤く、心優しい少女がいた。しかし少女の両親は既に無く、住む所も失い、とある日の夜、親切な人達から恵んでもらったパンと衣服だけを持って故郷の小高い丘へと向かった。その道すがら、少女は自分以外の困窮した人達と出会い、その度に自らのパンを、衣服を与えていった。そうして全てを失った少女は一人丘の上に到着すると、夜空の星が銀貨となって少女の元へと降り注いだ。これまでの善行を見ていた神様からの贈り物を得て、その後少女は幸せに暮らしたと言う。);
+
+***アイリス・ロア / 紙芝居屋アイリス / イリス・ロア [#IrisLore]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/Ilis.jpg,nolink,155x245);&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/kamisibai.jpg,nolink,146x237);&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/iris_roa.jpg,nolink,155x206);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;35&br;36&br;35&br;35&br;30&br;30&br;&br;30&br;10&br;30&br;10&br;30&br;30&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29219&br;990&br;990&br;1215&br;1316&br;1235&br;1335&br;360&br;340&br;&br;330&br;10&br;330&br;10&br;95&br;95&br;510&br;510&br;&br;230&br;250&br;250|【説明】&br;ロアの一種&br;紙芝居屋の想いが具現化した姿と言われているが&br;その実態は定かではない（アイリス・ロア）&br;&br;ロアの一種？&br;何処からともなく現れた紙芝居屋&br;その実態は定かではない（紙芝居屋アイリス）&br;&br;ロアの一種&br;イリスの日記が具現化した姿と言われているが&br;その実態は定かではない（イリス・ロア）&br;&br;・[[台詞>PetSpeech/Lore/Ilis]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（紙芝居、怒る、調べる、笑う、とぼける、いじける）&br;・アイリス、紙芝居屋、イリスは見た目以外の差は無い&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ルミナリィノヴァ&br;グラヴィティフォール&br;デッドリーアタック&br;種も仕掛けもありませんよ～♪&br;想いの力をおすそわけです♪&br;&br;【入手法】&br;2013年イベント「[[イリスと記憶の書架>Quest/Season/BookshelvesAndMemoryIrisEnd]]」クリア報酬&br;イベント「[[イリスと記憶の書架>Quest/Season/BookshelvesAndMemoryIris]]」クリア報酬&br;クリア時の書架の色で入手先が変わる&br;・黒：アイリス・ロア（画像上段）&br;・茶：紙芝居屋アイリス（画像中段）&br;・白：イリス・ロア（画像下段）|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲種も仕掛けもありませんよ～♪|主人&br;自分&br;仲間|単体|5|&color(blue){MP12};|対象とその周囲のHPを回復する。|
+|▲想いの力をおすそわけです♪|主人&br;自分&br;仲間|単体|6|&color(blue){MP6};&br;&color(red){SP6};|一定時間、物理最大攻撃力と物理防御と魔法防御を上昇させる。|
+///////////
+
+***北国の吸血姫アルカード [#NorthenAlucard]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/KitaguninoKyuuketsuhimeAlucard.jpg,nolink,155x197);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;440&br;90&br;90&br;65&br;66&br;50&br;50&br;50&br;40&br;&br;45&br;25&br;45&br;25&br;35&br;35&br;210&br;210&br;&br;150&br;100&br;100|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;アルカード・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/NorthenAlucard]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（高笑い、威圧、ふしぎ、心配する、きめポーズ、抜槍、手を振る）&br;&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：2&br;&br;【使用スキル】&br;ライフテイク (Lv1)&br;ヴァンパイア・イリュージョン &br;撃ち抜きますわ！ (クロスクレストLv1)&br;吸血姫の意地 (旧仕様ラウズボディLv3)&br;デフィート (Lv1)&br;&br;【入手法】&br;[[ECOくじ「ホワイト＆ミリタリー」1等>Kuji/2014#WhiteMilitary]]&br;[[ECOドリーム「吸血鬼と鋼鉄の花飾り」A賞>Kuji/2016#u49859e0]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ヴァンパイア・イリュージョン|自分|自分中心&br;5x5|-|&color(red){SP15};|物理攻撃200％|
+|▲撃ち抜きますわ！|敵|単体|6|&color(red){SP20};|対象に十字をかたどるように５発の弾丸を撃ち込む|
+|▲吸血姫の意地|主人&br;自分&br;仲間|単体|3|&color(blue){MP10};|STR+5 VIT+7 AGI+11 効果時間25秒|
+|▲デフィート|敵|単体中心&br;円|5|&color(blue){MP35};|指定範囲内にいる対象に対して一定時間、物理防御力、魔法防御力を低下させる状態異常を与える|
+///////////
+
+***燐火の女学生・清姫 [#RinkaKiyohime]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/rinkanojogakuseikiyohime.png,nolink,152x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29350&br;990&br;990&br;1250&br;1341&br;1270&br;1355&br;355&br;280&br;&br;346&br;15&br;365&br;20&br;180&br;190&br;510&br;510&br;&br;220&br;250&br;250|【説明】&br;ロアの一種&br;清姫・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/RinkaKiyohime]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（うなだれる、決めポーズ！、照れる、ショック、炎上）&br;・座りモーションが2種類ある&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;消えて下さい……（ダークフレアLv1）&br;届いて！私の愛情！（応援Lv3）&br;お覚悟ぉ～……（ヴェノムブラスト）&br;スロウアタック&br;ストライクブロウ&br;&br;【入手法】&br;[[ECOくじ「早春スクールライフ」1等>Kuji/2014#SousyunSchoolLife]]&br;[[ECOドリーム「蛇とメイドと女子力と」A賞>Kuji/2016#e2456c3c]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲消えて下さい……|敵|単体|6|&color(blue){MP18};|闇属性のMATK倍率550%の魔法攻撃。命中すると対象に瞬間ダメージを与え、その後持続ダメージを与える。|
+|▲届いて！私の愛情！|主人&br;自分&br;仲間|単体|5|&color(red){SP6};|最小ATK+12 最大ATK+6&br;最小M.ATK+3 最大M.ATK+3&br;効果時間40秒|
+|▲お覚悟ぉ～……|敵|単体|1|&color(red){SP20};|対象を中心に毒効果のある爆破を起こす&br;ATK250%の単体攻撃＋ATK150%範囲5×5の範囲攻撃（状態異常付き）&br;毒・沈黙・鈍足・スタン状態にする|
+///////////
+
+***伝承の吟遊詩人・ル・フェイ [#DruidLefay]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/DensyouNoGinyushizinLefay.png,nolink,155x207);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;300&br;90&br;90&br;20&br;21&br;40&br;50&br;20&br;40&br;&br;15&br;10&br;30&br;20&br;15&br;15&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;ル・フェイ・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/DruidLefay]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（奏でる、詠う、拗ねる、リフレッシュ、構える、見つめる）&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;妖精たちのエッダ (スピードエンチャント)&br;英雄のサーガ (ラウズボディ)&br;耳をふさいでも無駄よ (デッドマーチ)&br;魔女の力は入用かしら？ (ディバインバリア)&br;&br;【入手法】&br;[[ECOくじ「荒野の旅路」1等>Kuji/2014#KouyaNoTabiji]]&br;[[ECOドリーム「幽閉の魔女と雛鳥」A賞>Kuji/2016]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲妖精たちのエッダ|主人&br;自分&br;仲間|単体|6|&color(blue){MP46};|対象の物理攻撃速度、回避率、魔法抵抗率、魔法詠唱速度を上昇させる&br;効果時間60秒|
+|▲英雄のサーガ|主人&br;自分&br;仲間|単体|3|&color(blue){MP10};|STR+5 VIT+7 AGI+11 効果時間25秒|
+|▲耳をふさいでも無駄よ|自分|自分中心&br;円|-|&color(blue){MP8};&br;&color(red){SP8};|広範囲にダメージと共に状態異常になる音波を発生させる&br;効果「スタン、混乱、沈黙、睡眠、鈍足」|
+|▲魔女の力は入用かしら？|主人&br;自分&br;仲間|単体|5|&color(blue){MP32};|左DEF+13 右DEF+10&br;左MDEF+20 右M.DEF+15 効果時間125秒|
+///////////
+
+***子猫少女・バステト [#KittenBastet]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/KonekoShoujyoBastet.png,nolink,155x264);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;600&br;90&br;90&br;60&br;66&br;30&br;30&br;40&br;25&br;&br;20&br;20&br;25&br;15&br;35&br;25&br;180&br;150&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25250&br;490&br;1490&br;1450&br;1706&br;550&br;710&br;390&br;270&br;&br;370&br;20&br;305&br;15&br;155&br;160&br;510&br;440&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;バステト・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/KittenBastet]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（泣く、遊ぶ、差し出す、猫のポーズ、座り込む、甘える、手を振る）&br;・座りモーションが2種類ある（空中で座る、座り込む）&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;キャットウォーク (アヴォイド・バースト)&br;ごほうびをあげる (リミテイションエッジ)&br;ねこのみりょくにおぼれるのよ (毒スタン範囲攻撃)&br;たたいてたたくにゃん (斬撃無双Lv2)&br;&br;【入手法】&br;[[ECOくじ「にゃんにゃん☆ぱらだいす」1等>Kuji/2014#NyannyanParadise]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲キャットウォーク|主人&br;自分&br;仲間|単体||&color(blue){MP2};&br;&color(red){SP4};|S.AVOID+6|
+|▲ごほうびをあげる|敵|単体||&color(red){SP30};&br;|守りを考えず全力で殴りかかり防御力を無効化する一撃を与える|
+|▲ねこのみりょくにおぼれるのよ|敵|単体中心&br;5x5||&color(red){SP8};&br;|対象を中心に毒効果と気絶効果のある爆発を起こす|
+|▲たたいてたたくにゃん|敵|単体||&color(red){SP70};&br;|対象に無数の打撃を浴びせる|
+///////////
+
+***大空賊・キャプテンキッド [#AirpirateCaptainkidd]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/DaikuuzokuCaptainkidd.jpg,nolink,155x254);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;90&br;90&br;55&br;61&br;30&br;30&br;25&br;40&br;&br;20&br;20&br;25&br;15&br;35&br;25&br;180&br;150&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25950&br;490&br;1490&br;1520&br;1651&br;660&br;700&br;415&br;430&br;&br;395&br;20&br;315&br;15&br;130&br;170&br;520&br;440&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;キャプテンキッド・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/AirpirateCaptainkidd]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（セクシーポーズ、不思議、ショックを受ける、恰好つける、決めポーズ、手を振る）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　EXモーション「体育座り」で固有のポーズになる&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;いくわよん、ふぁいやー♪ (フレアショット)&br;ふふん、急所は外して……あれ？ (バイタルショット)&br;さあ！突撃よ！！ (アヴォイド・バースト)&br;当たらないわよん♪ (ソリッドオーラ)&br;&br;【入手法】&br;[[ECOくじ「スチームエイジ・アドベンチャー」1等>Kuji/2014#SteamageAdventure]]&br;[[ECOドリーム「ドラむすめ海賊航海記」A賞>Kuji/2016#y6079252]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲いくわよん、ふぁいやー♪|敵|単体|7|&color(red){SP49};&br;|対象の体内で数秒後に爆発する弾を撃ちこむ&br;一定確率で持続ダメージを与える|
+|▲ふふん、急所は外して……あれ？|敵|単体|6|&color(red){SP23};&br;|急所を狙い対象を命中率、回避率低下と鈍足効果を与える|
+|▲さあ！突撃よ！！|自分|単体|-|&color(blue){MP3};&br;&color(red){SP15};|一定時間近距離回避率を上昇させる|
+|▲当たらないわよん♪|主人&br;自分&br;仲間|単体|3|&color(blue){MP30};|指定対象を一定回数物理攻撃無効状態にする|
+///////////
+
+***黒衣の天使・玉藻 [#KokuiNoTenshiTamamo]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/Tamamo.jpg,nolink,155x164);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29000&br;1690&br;1140&br;520&br;671&br;1140&br;1295&br;315&br;220&br;&br;425&br;25&br;425&br;20&br;70&br;75&br;460&br;590&br;&br;300&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;ロアの一種&br;玉藻・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/BlackAngelTamamo]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（おしおき、笑う、武器を構える、心配する、決めポーズ、慰める、手を振る）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　モーション「？」で？のポーズになる&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;九尾狐の治療術☆限定版&br;ちょっと痛いかも♪&br;世にあまねく慈愛の心&br;おねえちゃんの威容&br;&br;【入手法】&br;[[ECOくじ「ジェイルハウス・インプリズン」1等>Kuji/2014#JailhouseImprison]]&br;[[ECOドリーム「お狐さま洋菓子店」A賞>Kuji/2016#nf8b556d]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲九尾狐の治療術☆限定版|主人&br;自分&br;仲間|単体|5|&color(blue){MP12};|基本的な状態異常をすべて一定確率で回復する|
+|▲ちょっと痛いかも♪|敵|単体|3|&color(red){SP22};|対象を鞭で引き寄せつつ攻撃する|
+|▲世にあまねく慈愛の心|主人&br;自分&br;仲間|単体|3|&color(blue){MP26};|一定時間対象の防御力を強化する|
+|▲おねえちゃんの威容|敵|単体|5|&color(red){SP40};|対象を一定時間スキルが使用できない状態にする|
+///////////
+
+***きらめく人魚姫・ローレライ [#KiramekuNingyohimeLoreley]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/KiramekuNingyohimeLoreley.jpg,nolink,155x223);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;22800&br;1900&br;1150&br;650&br;681&br;1950&br;2050&br;215&br;184&br;&br;260&br;25&br;417&br;25&br;70&br;70&br;450&br;630&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;ローレライ・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/KiramekuNingyohimeLoreley]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（ばきゅーん、歌う、ぐったりする、誘う、照れる、手を振る）&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;こごえるカプリチオ&br;みわくのノクターン&br;なでなでセレナーデ&br;おしおきカデンツァ&br;&br;【入手法】&br;[[ECOくじ「水辺の納涼夜会」1等>Kuji/2014#MizubenoNouryouyakai]]&br;[[ECOドリーム「まな板の上の人魚姫」A賞>Kuji/2016#r79fe02a]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲こごえるカプリチオ|自分|自分中心&br;円|-|&color(blue){MP82};|自分を中心とした範囲内の対象を氷結状態にする|
+|▲みわくのノクターン|自分|自分中心&br;円|-|&color(blue){MP20};&br;&color(red){SP20};|自分を中心とした範囲内の対象を弾き飛ばし確率により対象を混乱させる|
+|▲なでなでセレナーデ|自分|自分中心&br;円||&color(blue){MP18};&br;&color(red){SP14};|自分を中心とした範囲内に居た者に&br;HP、MP、SP回復率向上効果を一定時間与える|
+|▲おしおきカデンツァ|敵|単体||&color(blue){MP35};&br;|対象に着弾後爆発する魔法の音符を飛ばす攻撃を行う|
+///////////
+
+***時空の迷子・パラケルスス [#JikunomaigoParacelsus]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/JikunomaigoParacelsus.jpg,nolink,155x303);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;パラケルスス・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/JikunomaigoParacelsus]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（じっと見る、愛でる、寝る、調べる、飛び立つ、いじける、手を振る）&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;ケミカルパルフェ（ヴェノムブラスト?）&br;成果の一部をお見せしよう&br;念の為の保険だよ&br;ホム吉、やれっ！&br;&br;【入手法】&br;[[ECOくじ「時計塔のヒミツの研究」1等>Kuji/2014#TokeitoNoHimitunokenkyu]]|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ケミカルパルフェ||単体|1|&color(red){SP20};|対象を中心に毒効果のある爆破を起こす|
+|▲成果の一部をお見せしよう||単体|5|&color(red){SP15};|対象の体の自由を奪い&br;一時的に行動不能にさせる|
+|▲念の為の保険だよ||単体|3|&color(red){SP12};|戦闘不能になったとき、&br;稀に生き返る|
+|▲ホム吉、やれっ！|自分|自分中心&br;円|-|&color(blue){MP12};|自身とその周囲の対象を回復させる|
+///////////
+
+***礼装の紳士・ワーウルフ [#ReisounosinsiWerewolf]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Lore/reisounosinsiwerewolf.jpg,nolink,145x391);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;520&br;90&br;90&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;15&br;M.DEF&br;20&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;ワーウルフ・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/reisounosinsiwerewolf]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（かばう、白目、エスコート、そばに控える、捕まる、手を振る）&br;・BaseLvの上昇によりDEF(%)・M.DEF(%)も上昇する&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;叩き潰させてもらう&br;これで決める&br;覚悟してもらおう&br;片付けようか&br;隙だらけだ&br;&br;【入手法】&br;[[ECOくじ「夜会への招待状」1等>Kuji/2014#YakaihenoSyoutaijyou]]&br;[[ECOドリーム「オオカミさんにご注意を」A賞>Kuji/2016#t8b2d6e9]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲叩き潰させてもらう|敵|単体|1|&color(red){SP35};|ワーウルフが開発した三連撃特殊体術スキル&br;成功すると相手をスタンさせられる|
+|▲これで決める||単体|6|&color(blue){MP6};&br;&color(red){SP6};|一定時間物理最大攻撃力と物理防御と魔法防御を上昇させる|
+|▲覚悟してもらおう|自分|自分中心&br;円|-|&color(red){SP30};|一定範囲に行動を鈍化させる結界を発生させる 結界内にいる者の移動速度,攻撃速度,詠唱速度が減少する 効果時間30秒|
+|▲片付けようか|&color(red){指定&br;不可};|自分中心&br;円|-|&color(red){SP22};|波動で敵を強打する範囲攻撃&br;※カスタムAI設定で【攻撃重視】【支援重視】設定時に使用|
+|▲隙だらけだ|敵|単体|1|&color(blue){MP8};&br;&color(red){SP16};|敵の急所を突いて大きなダメージを狙う　対象を稀に気絶、鈍足化状態にする|
+///////////
+
+***小悪魔少女・メフィスト [#KoakumasyoujoMephisto]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Lore/KoakumashoujoMephisto.jpg,nolink,172x230);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;23800&br;1920&br;1040&br;510&br;621&br;2070&br;2150&br;260&br;260&br;&br;330&br;20&br;420&br;25&br;50&br;50&br;360&br;550&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;メフィスト・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/KoakumasyoujoMephisto]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（怯える？、上機嫌、不機嫌、おしおき、下克上、座り込む、手を振る）&br;・BaseLvの上昇によりDEF(%)・M.DEF(%)も上昇する&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;とても気分が良いわ&br;これが契約の力よ&br;こんなのはいかが？&br;お仕置きが必要ね&br;耐えられるかしら？&br;&br;【入手法】&br;[[ECOくじ「プリティロリータデビル」1等>Kuji/2014#PrettyLolitaDevil]]&br;[[ECOドリーム「初秋読書三昧」A賞>Kuji/2016#zebd81ec]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲とても気分が良いわ|主人&br;自分&br;仲間|単体中心&br;円|6|&color(blue){MP12};|左DEF+10 右DEF+10&br;左M.DEF+15 右M.DEF+15 効果時間125秒|
+|▲これが契約の力よ|主人&br;自分&br;仲間|単体|6|&color(blue){MP15};|対象の武器に闇の力を与える|
+|▲こんなのはいかが？|自分|自分中心&br;円|-|&color(blue){MP6};|左M.DEF+25 右M.DEF+10 効果時間100秒|
+|▲お仕置きが必要ね|敵|単体|6|&color(blue){MP55};|小悪魔少女・メフィストが&br;編み出した&br;長距離光属性魔法攻撃&br;魔法防御を無視する&br;但しボスには無効|
+|▲耐えられるかしら？|敵|単体|5|&color(blue){MP30};|一発の威力は小さいが&br;ＨＩＴ数が多い火属性魔法攻撃をする|
+
+***小さな魔王・ルチフェロ [#ChiisanamaouLucifero]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Lore/ChiisanamaouLucifero.jpg,nolink,155x245);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;550&br;90&br;90&br;55&br;66&br;45&br;55&br;50&br;30&br;&br;40&br;25&br;25&br;20&br;21&br;20&br;150&br;130&br;&br;-&br;-&br;-|110&br;黒&br;&br;27000&br;500&br;1500&br;1475&br;1746&br;600&br;750&br;390&br;315&br;&br;450&br;25&br;310&br;20&br;150&br;125&br;510&br;420&br;&br;250&br;100&br;&color(silver){300};|【説明】&br;ロアの一種&br;ルチフェロ・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/ChiisanamaouLucifero]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（照れる、威張る、かっこいいポーズ、眠る、ほめる、武器を構える、手を振る）&br;・ロアのマークは&color(#e8f0e0,#e8f0e0){額　　　　　　　　　};&br;系統：ロア系&br;種別：&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;ダークウエポン&br;終幕の剣 (ダークフレア)&br;しつこくしないで (リミテイションエッジ)&br;クライマックスなの (アタックバースト＋ディフェンスバースト)&br;おおきくなった成果 (神速斬り)&br;&br;【入手法】&br;[[ECOくじ「ウィンターストリートカフェ」1等>Kuji/2014#WinterStreetCafe]]&br;[[ECOドリーム「翼が欲しい」A賞>Kuji/2016]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲終幕の剣|敵|単体|6|&color(blue){MP25};|敵に闇の力を持つ魔法攻撃を行う&br;一定確率で持続ダメージを与える|
+|▲しつこくしないで|敵|単体|1|&color(red){SP30};|守りを考えず全力で斬りかかり防御力を無効化する一撃を与える|
+|▲クライマックスなの|主人&br;自分&br;仲間|単体|6|&color(blue){MP6};&br;&color(red){SP6};|最大ATK+10 左DEF+5 右DEF+10&br;左M.DEF+4 右M.DEF+7 効果時間30秒|
+|▲おおきくなった成果|敵|単体|4|&color(red){SP90};|400%＋スタン|
+
+***聖夜の天使・ステラ [#SeiyanotensiStella]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Lore/SeiyanotenshiStella.jpg,nolink,170x250);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;黒&br;&br;700&br;100&br;90&br;22&br;28&br;55&br;60&br;20&br;30&br;&br;45&br;25&br;45&br;25&br;20&br;10&br;158&br;220&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;28890&br;1640&br;1140&br;540&br;606&br;1240&br;1320&br;220&br;230&br;&br;450&br;25&br;450&br;25&br;65&br;75&br;430&br;570&br;&br;300&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;ロアの一種&br;ステラ・ロアが思い出星の力で&br;独立して生活できるようになった姿&br;&br;・[[台詞>PetSpeech/Lore/SeiyanotensiStella]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（ピース、呼ぶ、祈る、ダンス、見つけた！、袋に入る、手を振る）&br;&br;系統：ロア系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;ギフトプレゼント (スタンブロウ)&br;スターダストメモリー (リヴァイブ)&br;ハッピーエンド (キュアオール)&br;あなたは負けません！ (セイクリッドエンブレイス)&br;ルミナススター(サルベイション)&br;ブレッシングスター (リラクゼーション)&br;&br;【入手法】&br;[[ECOくじ「イルミネーション・クリスマス」1等>Kuji/2014#a64b7fd3]]&br;[[ECOドリーム「星と翼の贈り物」A賞>Kuji/2016]]|
+
+***イリス・ロア（Favorite） [#IrisRoa]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|	&ref(http://eco.acronia.net/img/wiki/PetList/Lore/IrisLore_Favorite.jpg,nolink,200x256);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;黒&br;&br;450&br;90&br;90&br;35&br;36&br;35&br;35&br;30&br;30&br;&br;30&br;20&br;30&br;25&br;30&br;30&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv110&br;黒&br;&br;29219&br;990&br;990&br;1215&br;1316&br;1235&br;1335&br;360&br;340&br;&br;330&br;20&br;330&br;20&br;95&br;95&br;510&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ロアの一種&br;イリス・ロアと姿が違うが&br;こちらも紙芝居屋の想いが&br;具現化した姿と言われているが&br;その実態は定かではない&br;Favoriteの童話スタイルで&br;コーディネートしている&br;&br;・[[台詞>PetSpeech/Lore/Ilis]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（怒る、調べる、笑う、とぼける、いじける、決めポーズ！、決めポーズ！！、決めポーズ！！！、決めポーズ！！！！）&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;&color(silver){【固有命令スキル習得職業】&br;？};&br;&br;【使用スキル】&br;野生の感覚をどうぞ♪（警戒）&br;「君を守る物語」（ソリッドコーティング）&br;想いの力をおすそわけです♪（アタックバースト＋ディフェンスバースト）&br;種も仕掛けもありませんよ～♪（対象指定エリアヒール）&br;研究中の魔法です！（ミックスデルタ）&br;「楽園の物語」（リラクゼーション）&br;魔法の助力をどうぞ♪（ゼン）&br;突然ですが、場面転換です♪（リメインエレメント）&br;&br;&br;【入手法】&br;ECOくじ「ECO×Favorite」&br;２０１５年１２月？|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲野生の感覚をどうぞ♪|主人&br;自分&br;仲間|単体||&color(red){SP19};|他人にかけられる警戒Lv2相当&br;（効果時間60秒、DEF9上昇、一切クリティカルを受けない）|
+|▲「君を守る物語」|自分|自分中心円||&color(blue){MP40};|▲ソリッドコーティングと同等&br;16秒間物理攻撃を5回弾く|
+|▲研究中の魔法です！|敵|単体中心円||&color(blue){MP54};|ミックスデルタ。&br;無属性→闇属性→光属性の3連続魔法攻撃|
+|▲「楽園の物語」|自分|自分中心円||&color(blue){MP18};&br;&color(red){SP14};|バードスキルのリラクゼーションLv1相当&br;範囲内の味方にHP、MP、SP回復率上昇効果|
+|▲突然ですが、場面転換です♪|自分|単体|||アストラリストスキルのリメインエレメント相当。&br;スキル使用後にイリス・ロアが設置スキル以外の&br;火・水・風・土属性攻撃を行った場合、&br;その属性の弱点属性値を25増加させる|
+
+***イリス・ロア（教師風・白） / 紙芝居屋アイリス（教師風・薄桃） / アイリス・ロア（教師風・黒） [#IrisLorekyoushi]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;35&br;36&br;35&br;35&br;30&br;30&br;&br;30&br;10&br;30&br;10&br;30&br;30&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29219&br;990&br;990&br;1215&br;1316&br;1235&br;1335&br;360&br;340&br;&br;330&br;10&br;330&br;10&br;95&br;95&br;510&br;510&br;&br;230&br;250&br;250|【説明】&br;（アイリス・ロア（教師風・黒））&br;&br;（紙芝居屋アイリス（教師風・薄桃））&br;&br;（イリス・ロア（教師風・白））&br;&br;・[[台詞>PetSpeech/Lore/Ilis]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（紙芝居、怒る、調べる、笑う、とぼける、いじける）&br;・アイリス、紙芝居屋、イリスは見た目以外の差は無い&br;&br;系統：ロア系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ルミナリィノヴァ&br;グラヴィティフォール&br;デッドリーアタック&br;想いの力をおすそわけです♪&br;癒しの教育的指導です！（イリス・ロア（教師風・白））&br;厳しい指導が必要かしら？（アイリス・ロア（教師風・黒））&br;楽しい教育的指導です！（紙芝居屋アイリス（教師風・薄桃））&br;&br;【入手法】&br;アクロニアメモリーズ3巻セット購入or事前予約購入特典|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲癒しの教育的指導です！&br;▲厳しい指導が必要かしら？&br;▲楽しい教育的指導です！|主人&br;自分&br;仲間|単体|5|&color(blue){MP12};|対象とその周囲のHPを回復する。|
+|▲想いの力をおすそわけです♪|主人&br;自分&br;仲間|単体|6|&color(blue){MP6};&br;&color(red){SP6};|一定時間、物理最大攻撃力と物理防御と魔法防御を上昇させる。|
+///////////
+
+*情報提供欄（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){情報提供欄はゲーム内容を質問する場ではありません。}質問等は[[''外部スレッド''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment

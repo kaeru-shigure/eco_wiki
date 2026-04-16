@@ -1,0 +1,135 @@
+# ドロップ率検証/スタンプドロップ率
+
+[[ドロップ率検証>ドロップ率検証]]／[[スタンプ>ドロップ率検証]]
+
+***プルル [#m977b838]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|プルル|ミルクピッチャー|アンバージェリー|クール|イエロープルル|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|1 / 300　(0.333％)|1 / 300　(0.333％)|1 / 100　(1.000％)|1 / 200　(0.500％)|1 / 700　(0.143％)|
+|0 / 200　(0.000％)|5 / 1000　(0.500％)|0 / 100　(0.000％)|2 / 1200　(0.167％)|0 / 100　(0.000％)|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|コールタール|グリーンプルル|メイジプルル|オーカージェリー|迷子のメタリカ|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|4 / 303　(1.320％)|-|1 / 550　(0.182％)|0 / 300　(0.000％)|0 / 177　(0.000％)|
+|-|-|-|1 / 300　(0.333％)|-|
+
+***平原 [#h6a99303]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|アーチン|クローラー|キラービー|コッコー|バウ|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|6 / 300　(2.000％)|-|-|
+|-|-|2 / 300　(0.667％)|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|サラダアーチン|キャタピラー|土蜘蛛|でかクローラー|ベア|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|1 / 2026　(0.049％)|-|-|-|0 / 400　(0.000％)|
+|0 / 1234　(0.000％)|-|0 / 200　(0.000％)|1 / 130　(0.769％)|1 / 500　(0.200％)|
+
+***海岸 [#f09a79d6]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|クリムゾンバウ|コケトリス|エルダーワーム|フライフィッシュ|クラッシュアイス|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|-|2 / 500　(0.400％)|1 / 400　(0.250％)|
+|-|-|-|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ホワイトファング|ポーラーベア|ゼレブ|モクジュ|クリスタル|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|1 / 200　(0.500％)|1 / 100　(1.000％)|-|1 / 200　(0.500％)|1 / 200　(0.500％)|
+|2 / 200　(1.000％)|1 / 200　(0.500％)|1 / 200　(0.500％)|-|-|
+
+***荒野 [#c19879d9]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|サンドクローラー|タンカー|ワスプ|ローパー|マミー|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|2 / 85　(2.353％)|1 / 2000　(0.050％)|0 / 200　(0.000％)|1 / 100　(1.000％)|
+|-|-|0 / 300　(0.000％)|-|1 / 100　(1.000％)|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|スケルトン|クイーンビー|ドクトカゲ|テンタクル|ブリキングRX1|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|1 / 100　(1.000％)|-|-|-|-|
+|0 / 100　(0.000％)|1 / 100　(1.000％)|1 / 400　(0.250％)|-|-|
+
+***大陸の洞窟 [#e9180ac6]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ジルコンⅠ|ドラッキー|ウィスプ|ケイブローキー|モックー|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|1 / 50　(2.000％)|-|-|-|-|
+|-|-|-|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ミイラ|ケイブフィッシュ|リヴィングデッド|ブービー|ライギョー|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|2 / 100　(2.000％)|-|-|
+|-|1 / 100　(1.000％)|0 / 100　(0.000％)|-|1 / 100　(1.000％)|
+
+***雪国 [#wd68d997]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|エッジ|ウィリー・ドゥ|ペペン|スノークリスタル|使い魔|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|1 / 300　(0.333％)|3 / 351　(0.855％)|1 / 100　(1.000％)|-|
+|1 / 600　(0.167％)|-|0 / 100　(0.000％)|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|サイクロプス|ダークフェザー|サンダーバード|デス|ダンプティー|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|0 / 686　(0.000％)|-|-|2 / 100　(2.000％)|1 / 200　(0.500％)|
+|-|-|-|-|-|
+
+***廃炭鉱 [#n47813d0]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|タランチュラ|カットバット|クリムゾンチーフ|モーニングスター|メタルアーチン|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|-|-|2　/　200（0.01％)|
+|1 / 100　(1.000％)|-|-|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ジルコンⅡ|ガブル|キラービースト|メタリカ|ブラックベア|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|-|3 / 300 (0.01%)-|-|
+|-|-|0 / 200　(0.000％)|-|-|
+
+***ノーザンダンジョン [#o9fca236]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ミニー・ドゥ|アルカナクラブ|スケルトンアーチャー|アルカナダイヤ|アルカナハート|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|2 / 300　(0.667％)|1 / 100　(1.000％)|0 / 400　(0.000％)|-|-|
+|-|-|-|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|アルカナスペード|アルカナジャック|オーガ|アルカナクイーン|リビングアーマー|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|-|-|-|
+|-|-|-|0 / 100　(0.000％)|-|
+
+***アイアンサウス [#m92dbcda]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ラバープルル|南国ペペン|カンカン|トロピカルフィッシュ|シナモン|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|1 / 100　(1.000％)|-|0 / 100　(0.000％)|0 / 700　(0.000％)|
+|0 / 150　(0.000％)|-|2 / 200　(1.000％)|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ロックイーター|フルフル|ギーゴ|アンダンテ|ブリキングRX3|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|0 / 200　(0.000％)|-|1 / 620　(0.161％)|-|
+|1 / 200　(0.500％)|-|-|-|-|
+
+***サウスダンジョン [#v754f8ad]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|白い使い魔|デバステイター|スペルキャスター|キメラ|ラーミア|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|-|-|-|
+|-|-|-|-|-|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ブリキングカスタム|ブロックス|ドミニオン背徳者|ドミニオン高位背徳者|ホウオウ|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|-|-|-|-|
+|-|-|-|-|-|
+
+***スペシャル（虹） [#z97f0f38]
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|ふんどしマン！|壊れたぬいぐるみ|最強の魔獣|白熊くん|
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|-|1 / 38　(2.632％)|2 / 30　(6.667％)|-|
+|1 / 49　(2.041％)|-|0 / 10　(0.000％)|0 / 9　(0.000％)|
+|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+|キングローパー|ジャイアントコッケー|ライオウ|メイオウ|
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|0 / 30 (0.000%)|3 / 58　(5.172％)|1 / 33　(3.030％)|24 / 1033　(2.323％)|
+|-|-|-|-|

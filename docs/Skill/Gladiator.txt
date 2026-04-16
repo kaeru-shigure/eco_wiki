@@ -1,0 +1,74 @@
+# Skill/Gladiator
+
+[[ソードマン >Skill/SwordMan]]([[詳細>Skill/SwordMan/Explanation]])/[[ ブレイドマスター >Skill/BladeMaster]]([[詳細>Skill/BladeMaster/Explanation]])/[[ バウンティーハンター >Skill/Bountyhunter]]([[詳細>Skill/Bountyhunter/Explanation]])/ ''グラディエイター'' ([[詳細>Skill/Gladiator/Explanation]])
+*グラディエイター [#ne1d15c3]
+//http://www.econline.jp/data/job/3rd-chronicle/index.html
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ソードマンの[[''外部スレッド''>Skill/SwordMan#p81644f8]]を参照
+
+#clear
+** 特徴 [#k2708b38]
+-先陣を切って難敵に挑むことのできる、近接物理攻撃の王者です。
+-剣、斧系武器の扱いにさらに長じ、威力を向上させます。
+-一対一の戦いだけでなく、対集団戦においても暴風のようにその力を発揮するでしょう。
+-''HP係数：5.17''、''MP係数：1.49''、''SP係数：2.95''
+-高い殲滅力を誇る近接職の代表的存在
+-高いSTR補正と居合ジリオンブレイドの高速連携は単騎でも圧巻。
+-自身の生存力を向上させたり、広域の敵を鈍足化させるスキルも保有しているため、敵を行動させない方針に、より足止め能力が高まった。
+-対単体火力も高いものがあるが、狭範囲での狩りを最も得意とする。その一方で範囲攻撃には恵まれないため、中範囲以上でのまとめ狩りは苦手である。
+
+***ソードマン系職相関表 [#q60e277b]
+
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ソードマン>Skill/SwordMan]]|⇒|[[ブレイドマスター>Skill/BladeMaster]]|⇔|[[バウンティーハンター>Skill/Bountyhunter]]|⇒|グラディエイター|
+
+** 転職方法 [#uda605c1]
+三次クロニクル職の「[[上位転生の手順>Job/Change/Chronicle#kyoutuu]]」を参照
+
+** スキル早見表とスキル詳細 [#qd88f7ef]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#f3d3c0ef]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|11|8|3|7|9|0||~26|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''15''|6|12|16|1|
+|~2|11|8|3|7|9|0||~27|20|15|6|13|COLOR(red):BGCOLOR(#EDEDFF):''17''|1|
+|~3|11|8|3|7|9|0||~28|20|15|6|13|17|1|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''4''|7|COLOR(red):BGCOLOR(#EDEDFF):''10''|0||~29|COLOR(red):BGCOLOR(#EDEDFF):''21''|15|COLOR(red):BGCOLOR(#EDEDFF):''7''|13|17|1|
+|~5|12|9|4|COLOR(red):BGCOLOR(#EDEDFF):''8''|10|0||~30|21|COLOR(red):BGCOLOR(#EDEDFF):''16''|7|13|COLOR(red):BGCOLOR(#EDEDFF):''18''|1|
+|~6|12|9|4|8|10|0||~31|21|16|7|COLOR(red):BGCOLOR(#EDEDFF):''14''|18|1|
+|~7|COLOR(red):BGCOLOR(#EDEDFF):''13''|9|4|8|COLOR(red):BGCOLOR(#EDEDFF):''11''|0||~32|COLOR(red):BGCOLOR(#EDEDFF):''22''|16|7|14|18|1|
+|~8|13|COLOR(red):BGCOLOR(#EDEDFF):''10''|4|8|11|0||~33|22|COLOR(red):BGCOLOR(#EDEDFF):''17''|7|14|18|1|
+|~9|COLOR(red):BGCOLOR(#EDEDFF):''14''|10|4|8|11|0||~34|COLOR(red):BGCOLOR(#EDEDFF):''23''|17|7|14|COLOR(red):BGCOLOR(#EDEDFF):''19''|1|
+|~10|14|10|4|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''12''|0||~35|23|17|7|14|19|1|
+|~11|14|COLOR(red):BGCOLOR(#EDEDFF):''11''|4|9|12|0||~36|23|17|7|COLOR(red):BGCOLOR(#EDEDFF):''15''|19|1|
+|~12|COLOR(red):BGCOLOR(#EDEDFF):''15''|11|COLOR(red):BGCOLOR(#EDEDFF):''5''|9|12|0||~37|COLOR(red):BGCOLOR(#EDEDFF):''24''|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''8''|15|COLOR(red):BGCOLOR(#EDEDFF):''20''|1|
+|~13|15|11|5|9|12|0||~38|24|18|8|15|20|1|
+|~14|15|11|5|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''13''|0||~39|24|18|8|15|20|1|
+|~15|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''12''|5|10|13|0||~40|COLOR(red):BGCOLOR(#EDEDFF):''25''|18|8|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''21''|1|
+|~16|16|12|5|10|13|0||~41|25|COLOR(red):BGCOLOR(#EDEDFF):''19''|8|16|21|1|
+|~17|16|12|5|10|COLOR(red):BGCOLOR(#EDEDFF):''14''|0||~42|25|19|8|16|21|1|
+|~18|COLOR(red):BGCOLOR(#EDEDFF):''17''|12|5|11|14|0||~43|COLOR(red):BGCOLOR(#EDEDFF):''26''|19|8|16|21|1|
+|~19|17|COLOR(red):BGCOLOR(#EDEDFF):''13''|5|11|14|0||~44|26|19|8|COLOR(red):BGCOLOR(#EDEDFF):''17''|COLOR(red):BGCOLOR(#EDEDFF):''22''|1|
+|~20|COLOR(red):BGCOLOR(#EDEDFF):''18''|13|COLOR(red):BGCOLOR(#EDEDFF):''6''|11|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''1''||~45|COLOR(red):BGCOLOR(#EDEDFF):''27''|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''9''|17|22|1|
+|~21|18|13|6|11|15|1||~46|27|20|9|17|22|1|
+|~22|18|COLOR(red):BGCOLOR(#EDEDFF):''14''|6|11|15|1||~47|27|20|9|17|COLOR(red):BGCOLOR(#EDEDFF):''23''|1|
+|~23|COLOR(red):BGCOLOR(#EDEDFF):''19''|14|6|COLOR(red):BGCOLOR(#EDEDFF):''12''|15|1||~48|COLOR(red):BGCOLOR(#EDEDFF):''28''|COLOR(red):BGCOLOR(#EDEDFF):''21''|9|17|23|1|
+|~24|19|14|6|12|COLOR(red):BGCOLOR(#EDEDFF):''16''|1||~49|28|21|9|COLOR(red):BGCOLOR(#EDEDFF):''18''|23|1|
+|~25|19|14|6|12|16|1||~50|28|21|9|18|COLOR(red):BGCOLOR(#EDEDFF):''24''|1|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+-補正率は[[ステータス>Status#jobrev]]を参照
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#eef9c89e]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/SwordMan#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

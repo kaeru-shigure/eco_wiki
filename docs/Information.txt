@@ -1,0 +1,35 @@
+# Information
+
+[[FrontPage]]
+
+-[[賞品はネコマタ＆猫耳！ＳＳコンテスト締め切り間近！！:http://www.econline.jp//news/information/125.html]] --  &new{2005-11-04 22:00 (金)};
+-[[11月4日の緊急メンテナンスに関して:http://www.econline.jp//news/information/126.html]] --  &new{2005-11-04 23:30 (金)};
+-[[ECOイメージソング「Hold on to love」発売決定！！:http://www.econline.jp//news/information/127.html]] --  &new{2005-11-09 19:00 (水)};
+-[[SAGA 1：白き大地と無限の回廊 第2弾アップデート実装!!:http://www.econline.jp//news/information/128.html]] --  &new{2005-11-10 19:01 (木)};
+-[[不正ツール使用者へのアカウント停止措置に関して:http://www.econline.jp//news/information/129.html]] --  &new{2005-11-11 14:25 (金)};
+-[[「募集コメント」「ゴーレム買取機能」説明ページを追加！:http://www.econline.jp//news/information/131.html]] --  &new{2005-11-11 15:00 (金)};
+-[[【重要】全ワールドにおけるゲームデータ巻き戻しについて:http://www.econline.jp//news/information/132.html]] --  &new{2005-11-11 18:40 (金)};
+-[[11月11日のメンテナンス以降発生している不具合に関して:http://www.econline.jp//news/information/133.html]] --  &new{2005-11-11 20:30 (金)};
+-[[11月14日(月)21:00からECO放送局。嘉陽愛子さん再登場:http://www.econline.jp//news/information/134.html]] --  &new{2005-11-12 00:00 (土)};
+-[[最優秀賞はどの作品？　SSコンテスト結果発表！:http://www.econline.jp//news/information/135.html]] --  &new{2005-11-15 10:15 (火)};
+-[[デジタルハリウッド大学にてトークイベント開催決定！！:http://www.econline.jp//news/information/136.html]] --  &new{2005-11-15 23:00 (火)};
+-[[背負え、ネコマタ！11月18日(金)背負い魔システム実装！:http://www.econline.jp//news/information/137.html]] --  &new{2005-11-16 22:30 (水)};
+-[[メールマガジン「ECO新聞第五号」に関して【更新】:http://www.econline.jp//news/information/139.html]] --  &new{2005-11-17 13:30 (木)};
+-[[配布スキンデータの更新に関して:http://www.econline.jp//news/information/140.html]] --  &new{2005-11-18 10:50 (金)};
+-[[「背負い魔システム」ページを追加いたしました！:http://www.econline.jp//news/information/141.html]] --  &new{2005-11-18 14:00 (金)};
+-[[背負い魔・ネコマタに関して:http://www.econline.jp//news/information/143.html]] --  &new{2005-11-18 14:15 (金)};
+-[[スクリーンショットコンテストの賞品追加に関して:http://www.econline.jp//news/information/142.html]] --  &new{2005-11-18 14:15 (金)};
+-[[11月18日のアップデートにて発生している不具合に関して:http://www.econline.jp//news/information/144.html]] --  &new{2005-11-18 21:25 (金)};
+-[[11月22日の緊急メンテナンスに関して:http://www.econline.jp//news/information/146.html]] --  &new{2005-11-22 17:55 (火)};
+-[[パッケージ発売まであと2日！特典アイテムを公開！:http://www.econline.jp//news/information/147.html]] --  &new{2005-11-23 00:02 (水)};
+-25日から28日の臨時メンテまで経験値2倍！ --  &new{2005-11-25 17:13:44 (金)};
+-&color(red){2005年12月7日（水）10：00　''オープンベータテスト終了''}; --  &new{2005-12-01 15:54:57 (木)};
+-&color(red){2005年12月9日（金）17：00　''正式サービス開始 利用料金 1,500円（税込）/30日間''}; --  &new{2005-12-01 15:55:18 (木)};
+--SAGA2、アイアンサウスも実装へ[[''プレスリリースはこちら''>http://www.gungho.jp/press/066.asp]]
+-&color(red){''ギルド商人銀行預金および、ギルド商人倉庫アイテムは削除される。''}; --  &new{2005-12-01 16:46:07 (木)};
+-&color(red){所持金は上限値をキャラクターレベル×20,000Goldに設定して移行されるため、''超過分のGoldは削除される。''}; --  &new{2005-12-01 16:46:29 (木)};
+--レベルやアイテム、所持金などのキャラデータに関してはこちらの記事を参照：[[ImpressWatch>http://bb.watch.impress.co.jp/cda/news/12021.html]]、[[4gamer>http://www.4gamer.net/news/history/2005.12/20051201163208detail.html]]
+-&color(#001,#EFD){[[''公式サイト【重要】12月9日(金)より正式サービス開始のお知らせ！''>http://www.econline.jp/news/information/153.html]]};
+-12月9日(金)より正式サービス開始のお知らせ！ --  &new{2005-12-01 22:52:13 (木)};
+-いよいよ課金開始！12/9から！ --  &new{2005-12-02 12:58:23 (金)};
+-5日の臨時メンテまで経験値＆ドロップ2倍キャンペーン --  &new{2005-12-03 00:44:10 (土)};

@@ -1,0 +1,97 @@
+# Skill/Sorcerer
+
+[[ウィザード>Skill/Wizard]] ([[詳細>Skill/Wizard/Explanation]]) / ''ソーサラー'' ([[詳細>Skill/Sorcerer/Explanation]]) / [[セージ>Skill/Sage]] ([[詳細>Skill/Sage/Explanation]]) / [[フォースマスター>Skill/ForceMaster]] ([[詳細>Skill/ForceMaster/Explanation]])
+* ソーサラー [#e6dd09be]
+
+#contents
+
+-[[''ソーサラー・スキル考察''(別ページ)>./Explanation]]
+
+-''SIZE(16){ COLOR(#3399cc){スキル有効活用法}}''
+--[[デコイ使い方指南>Skill/Wizard/Explanation#dekoi]]
+
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ウィザード の[[''外部スレッド''>Skill/Wizard#p81644f8]]を参照
+
+#clear
+
+** 特徴 [#xe16d030]
+-''ソーサラー（エキスパートジョブ）''
+ウィザードのクラスアップ。
+・新生魔法の幅が広がり、さらに活躍の場が増えます。
+・攻撃魔法も強化され、比類ない一撃が窮地を逆転します。(公式より)
+
+-''ソーサラーってどんな職？''
+様々な種類の支援、補助魔法を覚えることができる。
+扱いにくいものも多いが、うまく活用すれば活躍の幅が大きく広がるようになる。
+JOB40以降は強力な攻撃魔法と最高性能の防御魔法を習得できるようになる。
+火力こそ[[エレメンタラー>Skill/Elementaler]]に劣るものの、[[ドルイド>Skill/Druid]]に負けない優秀な援護要員となる。
+終盤ではドルイドと並びパーティーで必須と呼べるほどのポジションを獲得できる。
+火力こそ劣るものの、攻撃スキルも粒ぞろいで火力要員としても活躍可能。
+
+-''HP係数：1.85''、''MP係数：2.35''、''SP係数：1.25''
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ウィザード>Skill/Wizard]]|⇒|[[ソーサラー>Skill/Sorcerer]]|⇔|[[セージ>Skill/Sage]]|⇒|[[フォースマスター>Skill/ForceMaster]]|
+
+-[[新ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/Sorcerer2.jpg]]
+-[[旧ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/Sorcerer.jpg]]
+
+** 転職方法 [#u042195a]
+
+※jobレベルとMAGが30以上の時に
+
+ギルド元宮３Ｆにいるスペルマスターに話しかけた後、ノーザンの大導師に以下のアイテムを渡す（各種１つずつで良い）。
+-[[水晶>http://eco.acronia.net/itemdb/#id=1302]]
+-[[ウィリー・ドゥの玉>http://eco.acronia.net/itemdb/#id=246]]
+-[[紋章紙>http://eco.acronia.net/itemdb/#id=2607]]
+-[[ラピスラズリのかけら>http://eco.acronia.net/itemdb/#id=2690]]
+-[[スノードロップ>http://eco.acronia.net/itemdb/#id=1362]]
+
+アイテムを渡せば転職することができます。
+
+
+''COLOR(red):転職が完了するまで職業クエストが請けられなくなり、ノーザン入国証明書を買えなくなるので注意。''
+
+** スキル早見表 [#hac32ce6]
+
+スキルの詳細・解説、検証などはこちらのページ→&size(18){”[[''ソーサラー・スキル考察''>./Explanation]]”};
+#include(./Table,notitle)
+**ステータス補正 [#d5bc0049]
+-補正率は[[ステータス>Status#jobrev]]を参照
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|Joblv|STR|DEX|INT|VIT|AGI|MAG|Joblv|STR|DEX|INT|VIT|AGI|MAG|h
+|~1|0|4|7|4|3|9|~26|1|8|13|8|6|16|
+|~2|0|COLOR(red):BGCOLOR(#EDEDFF):''5''|7|4|3|9|~27|1|COLOR(red):BGCOLOR(#EDEDFF):''9''|13|8|6|COLOR(red):BGCOLOR(#EDEDFF):''17''|
+|~3|0|5|7|4|3|9|~28|1|9|13|8|6|17|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''1''|5|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''5''|COLOR(red):BGCOLOR(#EDEDFF):''4''|COLOR(red):BGCOLOR(#EDEDFF):''10''|~29|1|9|COLOR(red):BGCOLOR(#EDEDFF):''14''|8|COLOR(red):BGCOLOR(#EDEDFF):''7''|17|
+|~5|1|5|8|5|4|10|~30|1|9|14|COLOR(red):BGCOLOR(#EDEDFF):''9''|7|COLOR(red):BGCOLOR(#EDEDFF):''18''|
+|~6|1|5|8|5|4|10|~31|1|9|14|9|7|18|
+|~7|1|5|8|5|4|COLOR(red):BGCOLOR(#EDEDFF):''11''|~32|1|9|14|9|7|18|
+|~8|1|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''9''|5|4|11|~33|1|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''15''|9|7|18|
+|~9|1|6|9|5|4|11|~34|1|10|15|9|7|COLOR(red):BGCOLOR(#EDEDFF):''19''|
+|~10|1|6|9|COLOR(red):BGCOLOR(#EDEDFF):''6''|4|COLOR(red):BGCOLOR(#EDEDFF):''12''|~35|1|10|15|9|7|19|
+|~11|1|6|9|6|4|12|~36|1|10|15|9|7|19|
+|~12|1|6|COLOR(red):BGCOLOR(#EDEDFF):''10''|6|COLOR(red):BGCOLOR(#EDEDFF):''5''|12|~37|COLOR(red):BGCOLOR(#EDEDFF):''2''|10|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''20''|
+|~13|1|6|10|6|5|12|~38|2|10|16|10|8|20|
+|~14|1|COLOR(red):BGCOLOR(#EDEDFF):''7''|10|6|5|COLOR(red):BGCOLOR(#EDEDFF):''13''|~39|2|COLOR(red):BGCOLOR(#EDEDFF):''11''|16|10|8|20|
+|~15|1|7|10|6|5|13|~40|2|11|16|10|8|COLOR(red):BGCOLOR(#EDEDFF):''21''|
+|~16|1|7|COLOR(red):BGCOLOR(#EDEDFF):''11''|6|5|13|~41|2|11|COLOR(red):BGCOLOR(#EDEDFF):''17''|10|8|21|
+|~17|1|7|11|COLOR(red):BGCOLOR(#EDEDFF):''7''|5|COLOR(red):BGCOLOR(#EDEDFF):''14''|~42|2|11|17|10|8|21|
+|~18|1|7|11|7|5|14|~43|2|11|17|10|8|21|
+|~19|1|7|11|7|5|14|~44|2|11|17|COLOR(red):BGCOLOR(#EDEDFF):''11''|8|COLOR(red):BGCOLOR(#EDEDFF):''22''|
+|~20|1|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''12''|7|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''15''|~45|2|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''18''|11|COLOR(red):BGCOLOR(#EDEDFF):''9''|22|
+|~21|1|8|12|7|6|15|~46|2|12|18|11|9|22|
+|~22|1|8|12|7|6|15|~47|2|12|18|11|9|COLOR(red):BGCOLOR(#EDEDFF):''23''|
+|~23|1|8|12|7|6|15|~48|2|12|18|11|9|23|
+|~24|1|8|12|COLOR(red):BGCOLOR(#EDEDFF):''8''|6|COLOR(red):BGCOLOR(#EDEDFF):''16''|~49|2|12|18|11|9|23|
+|~25|1|8|COLOR(red):BGCOLOR(#EDEDFF):''13''|8|6|16|~50|2|12|COLOR(red):BGCOLOR(#EDEDFF):''19''|COLOR(red):BGCOLOR(#EDEDFF):''12''|9|COLOR(red):BGCOLOR(#EDEDFF):''24''|
+|Joblv|STR|DEX|INT|VIT|AGI|MAG|Joblv|STR|DEX|INT|VIT|AGI|MAG|f
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#p6af7878]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Wizard#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

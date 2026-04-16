@@ -1,0 +1,59 @@
+# ドロップ率検証/ベア系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***ベア [#i08c00fb]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|りんご|毛皮|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1500体）|838個（55.87％）|487個（32.47％）|160個（10.67％）|15個（1.00％）|
+|知識あり（950体）|415個（43.68％）|318個（33.47％）|199個（20.95％）|18個（1.89％）|
+
+***ポーラーベア [#u2ee759b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|氷砂糖|毛皮|破れた魔法書|白い毛皮|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|220個（55.00％）|132個（33.00％）|39個（9.75％）|8個（2.00％）|1個（0.25％）|
+|知識あり（410体）|182個（44.39％）|137個（33.41％）|85個（20.73％）|6個（1.46％）|0個（0.00％）|
+
+***ケイブベア [#z067db4b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|革|毛皮|破れた魔法書|上等な毛皮|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|84個（42.00％）|59個（29.50％）|25個（12.50％）|5個（2.50％）|27個（13.50％）|
+
+***キラービースト [#z948cbe2]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|革|毛皮|破れた魔法書|上等な革|ベルベット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|101個（50.50％）|74個（37.00％）|21個（10.50％）|4個（2.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（400体）|155個（38.75％）|140個（35.00％）|44個（11.00％）|7個（1.75％）|53個（13.25％）|1個（0.25％）|
+
+***キングポーラーベア [#t6be7db1]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|毛皮|白い毛皮|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（10体）|4個（40.00％）|5個（50.00％）|1個（10.00％）|
+
+***ブラックベア [#qd986a23]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|革|毛皮|破れた魔法書|ベルベット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|106個（53.00％）|49個（24.50％）|21個（10.50％）|6個（3.00％）|18個（9.00％）|
+
+***白熊くん [#ta654b01]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||白い毛皮|アクアマリン|サングラス|毛皮|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（56体）|44個（78.57％）|9個（16.07％）|2個（3.57％）|1個（1.79％）|
+|知識あり（9体）|7個（77.78％）|1個（11.11％）|1個（11.11％）|0個（0.00％）|
+
+***最強の魔獣 [#a01fbee2]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|毛皮|ゼッケン|ベルベット|名前入りゼッケン|スタンプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（43体）|3個（6.98％）|24個（55.81％）|5個（11.63％）|8個（18.60％）|0個（0.00％）|3個（6.98％）|
+|知識あり（50体）|0個（0.00％）|17個（34.00％）|22個（44.00％）|9個（18.00％）|2個（4.00％）|0個（0.00％）|

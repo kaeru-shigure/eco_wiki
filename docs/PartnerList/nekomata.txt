@@ -1,0 +1,237 @@
+# PartnerList/nekomata
+
+#author("2017-09-02T11:02:54+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （背負い魔・ネコマタ） [#r72601dd]
+#contents
+
+ステータスの表記は本wikiのレイアウトの関係で英語にしています (表示順序はゲーム内と同じ)
+ステータス数値のうちM.RCVとS.RCVが&color(silver){灰色};の場合、信頼度換算の際に信頼度黒での数値が算出できなかったことを示します(上限300に達していたため)。確定次第黒文字に要修正
+
+**背負い魔・ネコマタとは [#l3b2d0c7]
+公式サイト：[[背負い魔一覧:http://econline.gungho.jp/gamedata/item/nekomata.html]]
+-プレイヤーを支援してくれる癒し系パートナー。戦争で絶滅した猫の魂が実体化したものらしい。
+-「背負い魔」とはあるがわんわんやコッコー等と同様にパートナー扱いで、背負い袋やブースト等とも併用できる。
+-装備中はキャラの最大重量・最大容量が上昇する
+-「[[ネコマタ服>PartnerList/nekomata#petdress]]」を使用すると外見が変化する
+-「[[ネコマタハート>PartnerList/nekomata#NekomataHeart]]」で外見が人型に変化する（大きさもプレイヤーくらい）
+-アップタウンの裁縫おばさんの家にいる「くまちゃん」に話しかけると、着せてあるネコマタ服やネコマタハートを脱がすことが出来る
+(脱がせたネコマタ服などは持ち物に入り、何度でも着脱が出来ます。無くなることはありません）
+-[[パートナー装備>Partner/Equip]]としてネコマタ専用装備が多数実装されている
+-[[ネコマタ入手イベント>Event/Nekomata]]進行時に他のネコマタを所持しているとセリフが変化する
+-姉妹関係にあり、相互の呼称や印象の設定がある。[[ネコマタ相関図>PetList/Nekomata/Diagram]]を参照
+-毎年4月の季節イベントにはネコマタ専用イベントがある (参考：[[2015年のお花見イベント>Quest/Season/Ohanami2015#c8f5c3cc]])
+-H.E.ARTスキル「[[ネコマタ音頭>Skill/H.E.ART/Explanation#nuko]]」により盆踊りをさせることができる
+-飛空庭に設置した状態で[[マタタビ>http://eco.acronia.net/itemdb/#id=2413]]を使用すると寝かせることができる
+
+***ネコマタハート(2017) [#y8dde400]
+-2017年通年イベントのサブキャラクター種族のうちの1種。(本年の通年イベントサブキャラクターは複数の系統が存在する。)
+-他のネコマタ系と違い、重量、容量の増強補正を持たない。
+//-他ネコマタ系と違い、ネコマタ専用のパートナー武器は装備できない。
+//※あくまで予想の範囲なのでコメントアウトで念のため。
+
+
+**背負い魔・ネコマタ（ゲーム内イベントで入手） [#a2a0fa25]
+
+***背負い魔・ネコマタ（桃） [#e228fe8a]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Nekomata.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24650&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;288&br;6&br;340&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ネコマタ一家の五女。&br;最初の背負い魔で、戦争で絶滅した猫の魂が実体化したもの。&br;システム上は「背負い魔・ネコマタ」となっているが、イベントではネコマタ（桃）となる。&br;初期のネコマタゆえか、その発言にはメタな部分も。&br;&br;・[[台詞>PetSpeech/Nekomata/Momo]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;リザレクション：戦闘不能を回復&br;アタックバースト：一定時間ATK上昇&br;ディフェンスバースト：一定時間Def,M.Def上昇&br;コンセントレート：一定時間S.HIT上昇&br;&br;【入手法】&br;[[ネコマタ（桃）入手イベント>Event/Nekomata#n7b1bb15]]（1アカウント1回）&br;モンスタードロップ（アルカナクイーン、ミニー・ドゥ、リビングアーマー）|
+
+***背負い魔・ネコマタ（藍） [#d5f115da]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataAi.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24550&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;299&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ネコマタ一家の八女。&br;やさしげな表情と湯飲みを持った姿が似合うネコマタ。&br;性格も丁寧で礼儀正しく、同時に近衛侍女のような勇ましさもある。&br;&br;・[[台詞>PetSpeech/Nekomata/Ai]]&br;・PAYL/CAPA +50&br;・主人のレベルアップ時に一定確率で「ほうじ茶」入手&br;（モンスター経験値によるレベルアップ時のみ）&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;アヴォイド・バースト：一定時間、近距離回避率を上昇させる&br;クリティカル：一定時間、自分のクリティカル力を上昇させる&br;パリィ：効果時間内に攻撃を受けた場合、攻撃を受け流すことができる&br;&br;【入手法】&br;[[ネコマタ（藍）入手イベント>Event/Nekomata#wef43353]]（1アカウント1回）|
+
+***背負い魔・ネコマタ（山吹） [#l51e34ce]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataYamabuki.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24550&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;306&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2006/06/23のアップデートで実装。&br;ネコマタ一家の九女。&br;大阪弁を操る元気なネコマタ。&br;根っからの商人気質でお金にうるさく、たまに芸人張りのボケ＆ツッコミを披露する。&br;&br;・[[台詞>PetSpeech/Nekomata/Yamabuki]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;応援：対象の物理攻撃力を一時的に上昇させる &br;クリティカルアシスト：宿主の次の通常攻撃がクリティカルになる&br;カウンター：一定時間内に攻撃を受けた場合、一度だけ即座に反撃を行う&br;&br;【入手法】&br;[[ネコマタ（山吹）入手イベント>Event/Nekomata#pd959491]]（1アカウント1回）|
+
+***背負い魔・ネコマタ（菫） [#i81bd30a]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataSumire.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24630&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;285&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2006/09/8のアップデートで実装。&br;ネコマタ一家の三女。&br;姉妹のなかではお姉さん的存在。&br;口調も大人びた感じで、礼儀作法にうるさい世話焼き。&br;&br;・[[台詞>PetSpeech/Nekomata/Sumire]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;リザレクション：戦闘不能を回復&br;リヴァイブ：使用後３０ｓ以内に戦闘不能になったとき、生き返る&br;ディフェンスバースト：一定時間Def,M.Def上昇&br;カウンター：一定時間内に攻撃を受けた場合、一度だけ即座に反撃を行う&br;&br;【入手法】&br;[[ネコマタ（菫）入手イベント>Event/Nekomata#m4b1d5ee]]（1アカウント1回）|
+
+***背負い魔・ネコマタ（茜） [#e149ef09]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataAkane.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24750&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;293&br;6&br;345&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2006/12/08のアップデートで実装。&br;ネコマタ一家の七女。&br;ツンデレ風味のネコマタ。&br;本来は緑以上に大人しく、お化けを拒絶するほどの姉妹一番の怖がりだった。現在の性格はそのトラウマによるもの。&br;&br;・[[台詞>PetSpeech/Nekomata/Akane]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;リヴァイブ：使用後３０ｓ以内に戦闘不能になったとき、生き返る&br;ソリッドオーラ：一定回数物理攻撃無効状態にする。&br;&br;【入手法】&br;[[ネコマタ（茜）入手イベント>Event/Nekomata#f4fe2b19]]（1アカウント1回）|
+
+***背負い魔・ネコマタ（杏） [#a31096f9]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataAnzu.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24550&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;301&br;6&br;340&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2007/04/27のアップデートで実装。&br;ネコマタ一家の中で唯一の男の子で、長男（九女の下）。&br;……なのだが、よく女装させられる。&br;気が弱く押しに弱い大人しい性格で、姉の空に懐いている一方、よく弄られていた。&br;&br;・[[台詞>PetSpeech/Nekomata/Anzu]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;ディレイキャンセル：一定時間攻撃速度が上昇する&br;アサルト：効果時間中のクリティカル率上昇、防御率低下。&br;ラッシュ(スキル名は表示されない)：3回の連続攻撃を行う。&br;&br;【入手法】&br;[[ネコマタ（杏）入手イベント>Event/Nekomata#n2166678]]（1アカウント1回）|
+//110&br;&color(,pink){桃};&br;&br;32460&br;3020&br;2495&br;790&br;851&br;1220&br;1400&br;486&br;480&br;&br;401&br;6&br;440&br;16&br;380&br;370&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV
+
+***背負い魔・ネコマタ（空） [#tb6375b2]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataSora.png,nolink,128x127);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24530&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;299&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2007/08/31のアップデートで実装。&br;ネコマタ一家の四女。&br;食いしん坊で自己中心的な性格。&br;一方で元気なムードメーカーでもあり、妹たちに対して面倒見のいい一面も覗かせる。&br;某教授曰く、次女っ子属性。&br;&br;・[[台詞>PetSpeech/Nekomata/Sora]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;リザレクション：戦闘不能を回復&br;アイスアロー：対象に水系単体魔法攻撃&br;ゼン：通常よりＭＰを多く使用し、魔法効果アップ&br;マジックリベレイション：対象の魔法命中力を上昇させる。&br;&br;【入手法】&br;[[ネコマタ（空）入手イベント>Event/Nekomata#q0a1b70a]]（1アカウント1回）|
+
+***背負い魔・ネコマタ（胡桃・若菜） [#d1dbcf05]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataKurumiWakana.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24550&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;306&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2008/1/25のアップデートで実装。&br;ネコマタ一家の末子にあたる双子。&br;他のネコマタ姉妹達に比べて一回り小さい。&br;また、他のネコマタ達と違い、2人1組でプレイヤーを支援する。&br;（左）胡桃：ちょっぴりどじ。（右）若菜：甘えん坊。&br;&br;・[[台詞>PetSpeech/Nekomata/KurumiWakana]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;グラヴィティフォール：対象の周囲に地震を起こし鈍足状態を与える。エンチャンターの同名スキルと違いダメージは無い&br;ノクシャスブラスト：使用者の周囲の敵を混乱させたうえで大きく吹き飛ばす&br;ディビリテイト：対象のSTR、AGI、VITを低下させる。&br;光と風のポルカ：DEF、M.DEFが上昇&br;&br;【入手法】&br;[[ネコマタ（胡桃・若菜）入手イベント>Event/Nekomata#d3e2e0cf]]（1アカウント1回）|
+
+***背負い魔・ネコマタ（新緑） [#w31d2fed]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataShinryoku.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24530&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;299&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ネコマタ一家の六女。（イベント入手版）&br;緑同様非常におとなしく無口で、滅多にしゃべってくれません。&br;&br;・[[台詞>PetSpeech/Nekomata/Midori]]&br;・PAYL/CAPA +50&br;・転生後、[[覚醒イベント>Event/Nekomata#sbf4c1d7]]で「新緑」「覚醒新緑」の切替え可&br;　新緑：初期スキル無し&br;　覚醒新緑：初期スキル7種 (覚醒時に専用キューブ入手)&br;・キューブは覚醒時のみ使用可、スキルは未覚醒でも使用可&br;・所持スキルは切替え前後で保持される&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】（覚醒新緑）&br;ヒーリング：HPを回復&br;キュアポイズン：解毒&br;スタミナテイク：宿主の武器にSP吸収効果を付与する。効果時間10秒、ダメージの1割を回復、回復上限は最大SPの3%。&br;アヴォイド・バースト：一定時間、近距離回避率を上昇させる&br;アサルト：効果時間中のクリティカル率上昇、防御率低下。&br;クリティカル：一定時間、自分のクリティカル力を上昇させる&br;スラギッシュ：敵ＳＰＤ低下&br;&br;【入手法】&br;[[ネコマタ（新緑）入手イベント>Event/Nekomata#oe8be80f]]（1アカウント1回）|
+
+***背負い魔・ネコマタ（白） [#i78db079]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/nekomata_white.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24600&br;1480&br;1130&br;690&br;751&br;1125&br;1305&br;286&br;230&br;&br;294&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2009/2/27のアップデートで実装。&br;ネコマタ一家の長女。&br;穏やかで面倒見のいい母親のような性格だが、怒ると怖い。&br;攻撃の際にはハート型のハープを取り出す。&br;&br;・[[台詞>PetSpeech/Nekomata/Siro]]&br;・PAYL/CAPA +50&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（ゴゴゴゴゴ……）&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;エリアヒール：自身とその周囲の対象を回復させる&br;リザレクション：戦闘不能を回復&br;リヴァイブ：使用後３０ｓ以内に戦闘不能になったとき、生き返る&br;ラウドソング：扇状に音符を飛ばして攻撃&br;ラウズボディ：対象がプレイヤーの場合はSTR・VIT・AGI、対象がパートナーの場合は物理攻撃力・近距離回避力・物理防御率が上昇する&br;&br;【入手法】&br;[[ネコマタ（白）入手イベント>Event/Nekomata#kcb6db99]]（1アカウント1回）|
+//110&br;&color(,pink){桃};&br;&br;32520&br;3020&br;2495&br;790&br;851&br;1225&br;1405&br;486&br;480&br;&br;394&br;6&br;450&br;16&br;380&br;370&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV
+
+***背負い魔・ネコマタ（黒） [#q3e6e845]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/nakomata_kuro.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24600&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;309&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;2009/10/23のアップデートで実装。&br;ネコマタ一家の次女。&br;クールでミステリアス！　姉妹の誰もが一目置く、沈黙の女帝。(公式より)&br;その口調は忠誠心厚い騎士を思わせるもので主人を気遣う一方、昼寝をしていたり寂しがりやな面も持つ。&br;攻撃の際にはレイピアを使用。&br;&br;・[[台詞>PetSpeech/Nekomata/Kuro]]&br;・PAYL/CAPA +50&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;ライフテイク：対象の武器に与えたダメージの一部をHPとして吸収できる効果を与える&br;アタック・バースト：一定時間ATK上昇&br;コンセントレート：一定時間S.HITが上昇&br;マジックバリア：一定時間対象の魔法防御力を強化する&br;ブラックウィドウ：闇属性単体魔法攻撃&br;&br;【入手法】&br;[[ネコマタ（黒）入手イベント>Event/Nekomata#r30e2dbd]]（1アカウント1回）|
+
+**背負い魔・ネコマタ（その他） [#jc3a4c6a]
+
+***背負い魔・ネコマタ（緑） [#tdb09239]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/NekomataMidori.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;信頼度&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24530&br;1480&br;1130&br;690&br;751&br;1120&br;1300&br;286&br;230&br;&br;299&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ネコマタ一家の六女。（チケット入手版）&br;非常におとなしく、無口です。&br;&br;・[[台詞>PetSpeech/Nekomata/Midori]]&br;・「新緑」と大きな違いは無い（覚醒の仕様も同じ）&br;・転生後、[[覚醒イベント>Event/Nekomata#sbf4c1d7]]で「緑」「覚醒緑」の切替え可&br;　緑：初期スキル無し&br;　覚醒緑：初期スキル7種 (覚醒時に専用キューブ入手)&br;・キューブは覚醒時のみ使用可、スキルは未覚醒でも使用可&br;・所持スキルは切替え前後で保持される&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】（覚醒緑）&br;ヒーリング：HPを回復&br;キュアポイズン：解毒&br;スタミナテイク：宿主の武器にSP吸収効果を付与する。効果時間10秒、ダメージの1割を回復、回復上限は最大SPの3%。&br;アヴォイド・バースト：一定時間、近距離回避率を上昇させる&br;アサルト：効果時間中のクリティカル率上昇、防御率低下。&br;クリティカル：一定時間、自分のクリティカル力を上昇させる&br;スラギッシュ：敵ＳＰＤ低下&br;&br;【入手法】&br;[[FamilyMart限定予約商品「エミル・クロニクル・オンライン　ビギナーズパッケージ　ファミマ限定版」>Package#e51bd97e]](新規入手不可)|
+
+***背負い魔・ネコマタ（ミケ） [#t3f98b5a]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/nekomata_mike.png,nolink,128x127);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;信頼度&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24600&br;1480&br;1130&br;690&br;751&br;1125&br;1305&br;286&br;230&br;&br;294&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ステッキを持った魔法少女風味のネコマタ。耳と尻尾が三毛。&br;エミルになることを夢見ており、語尾に｢にゃ｣と付くのが特徴。&br;&br;・[[台詞>PetSpeech/Nekomata/Mike]]&br;&br;系統：ネコマタ系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;&br;【入手法】&br;キシリッシュ小ボトル５種類&br;・クリスタルミント大粒タイプ&br;・ジューシー＆フルーティミント大粒タイプ&br;・ハイパークール大粒タイプ&br;・ジューシージューシーレモン大粒タイプ&br;・ジューシージューシーマスカット大粒タイプ&br;についているキャンペーンシールのキャンペーンコードを入力。&br;抽選で50,000名にゲーム内アイテム「キシリッシュの箱」が当たる。&br;キシリッシュの箱を開封すると、一定確率で入手。&br;キャンペーン期間2009年8月10日～2009年11月30日|
+
+***背負い魔・ネコマタ（トラ） [#n8k9e361]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/nekomata_tora.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;信頼度&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24600&br;1480&br;1130&br;690&br;751&br;1125&br;1305&br;286&br;230&br;&br;294&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;両手にクローを装着した、杏に続く男の子のネコマタ。言葉遣いはやや粗野で乱暴。&br;一人称が「おれさま」で、語尾は「ニャ」、文中の「な」が「ニャ」になる場合もある。&br;&br;・[[台詞>PetSpeech/Nekomata/Tora]]&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;&br;【入手法】&br;[[4thアニバーサリー メモリアル コンプリート サウンドトラック>Package#n9a9e78f]](期限：2013年1月)|
+//110&br;&color(,pink){桃};&br;&br;32520&br;3020&br;2495&br;790&br;851&br;1225&br;1405&br;486&br;480&br;&br;394&br;6&br;450&br;16&br;380&br;370&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV
+
+***背負い魔・ネコマタ（アリス）[#b678ed40]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/nekomata_alice.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;信頼度&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24620&br;1480&br;1130&br;690&br;751&br;1125&br;1305&br;286&br;230&br;&br;294&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;「っス」な語尾が特徴。&br;肉が好物。&br;&br;・[[台詞>PetSpeech/Nekomata/Alice]]&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;エリアヒール：自身とその周囲の対象を回復させる&br;リヴァイブ：使用後３０ｓ以内に戦闘不能になったとき、生き返る&br;ラウドソング：扇状に音符を飛ばして攻撃&br;ラウズボディ：対象がプレイヤーの場合はSTR・VIT・AGIが上昇、対象がパートナーの場合は物理攻撃力・近距離回避力・物理防御率が上昇する&br;リザレクション：対象の戦闘不能を解除する&br;&br;【入手法】&br;[[ECOくじ「フシギの国のEmily」1等>Kuji/2010#log_emily]]|
+//110&br;&color(,pink){桃};&br;&br;32544&br;3020&br;2495&br;840&br;901&br;1225&br;1405&br;486&br;480&br;&br;444&br;6&br;450&br;16&br;380&br;370&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV
+
+***背負い魔・ネコマタ（フリル） [#NekomataFrill]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/nekomata_frill.jpg,nolink,104x115);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;信頼度&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24600&br;1480&br;1130&br;690&br;751&br;1125&br;1305&br;286&br;230&br;&br;294&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;「お姉さん」な印象とは裏腹に忘れっぽいのがタマにキズ&br;&br;・[[台詞>PetSpeech/Nekomata/Frill]]&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;リヴァイブ：使用後３０ｓ以内に戦闘不能になったとき、生き返る&br;応援：対象の最低攻撃力を一定時間上昇させる&br;クリティカルアシスト：対象の次の攻撃をクリティカルにする&br;リザレクション：対象の戦闘不能を解除する&br;ヒーリング：対象のHPを回復&br;マジックリベレイション：対象の魔法命中力を上昇&br;&br;【入手法】&br;[[ECOくじ「FRILL(2011年)」1等>Kuji/2011#log_frill]]&br;[[ECOくじ「FRILL(2015年)」1等>Kuji/2015#o3d8288f]]|
+
+**ネコマタハート（2017年） [#ua6f8a81]
+
+アイテム説明文には「ハートメイトの一種」とはあるが、
+実際装備時のパートナーステータス上の識別は「ネコマタ系」のため、こちらに記載する。
+
+***ネコマタハート（シャル） [#ie67f661]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/nekomata/nekomata_syaru.jpg,nolink,128x430);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;黒&br;&br;350&br;120&br;60&br;35&br;56&br;50&br;70&br;28&br;20&br;&br;25&br;11&br;30&br;12&br;20&br;16&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv110&br;黒&br;&br;23200&br;1950&br;910&br;890&br;1041&br;1270&br;1370&br;330&br;290&br;&br;332&br;21&br;395&br;22&br;180&br;190&br;470&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種。&br;ネコマタ（シャル）の心の力が具現化したもの。&br;&br;・[[台詞>PetSpeech/Nekomata/Syaru]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（）&br;&br;&br;パートナーの時に「ネコマタ魂（シャル）」を使用すると、「ネコマタハート(シャル）」が背負い魔の形態に変わります。&br;&br;系統：ネコマタ系&br;種別：背&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;とっておきです！&br;おケガをお治しします！&br;ご主人様！今行くですよ！&br;ご主人様は強いんですっ！&br;もう大丈夫ですよ！&br;&br;【入手法】&br;[[ECOドリーム「見習いメイドの猫耳日記」A賞>http://econline.gungho.jp/econetstore/2017/minaraimeido-nekomiminikki/]]&br;&br;【備考】&br;&color(red){装備すると誰でもスキル「ネコマタ大音頭」を使える};|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲とっておきです！|-|-|5|&color(blue){MP40};|対象をすごい萎えさせ（？）ダメージも与える 3000%|
+|▲おケガをお治しします！|-|-|9|-|アレス+リカバリー|
+|▲ご主人様！今行くですよ！|-|-|-|-|行動不能になった対象を蘇らせた後防御力と魔法防御力を上昇させる&br;パートナープロテクト中使用不可|
+|▲ご主人様は強いんですっ！|-|-|-|-|対象の最大ＭＰ、ＳＰを上昇させる&br;一定確率で強運か悪運のどちらかの効果が付与される|
+|▲もう大丈夫ですよ！|-|-|-|-|対象の物理攻撃力、魔法攻撃力クリティカル力、クリティカル回避力を上昇させる|
+-主人使用可能スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~最大LV|~目標|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|ネコマタ大音頭|1|地面を中心にした円5x5|6|&color(blue){MP45};|指定範囲内にいる味方を対象にＨＰを徐々に回復させつつ、プレイヤーが対象の場合はSTR、VIT、AGI、&br;それ以外が対象の場合は物理攻撃力、近距離回避力、物理防御力が上昇する。|
+**ネコマタ相関図 [#b772539e]
+-[[ネコマタ相関図>PetList/Nekomata/Diagram]]
+
+**ネコマタ関連アイテム入手 [#e37c0867]
+-[[アクロニアコート>Event/Nekomata#AcroCort]]
+-[[ネコ耳つきニット帽、ネコマタの鈴>Event/Nekomata#wd2841fa]]
+-[[ネコマタ白のブローチ>Event/Nekomata#kcb6db99]]
+-[[ネコマタ黒のブローチ>Event/Nekomata#r30e2dbd]]
+
+**ネコマタ服 [#petdress]
+-特定のネコマタを装備中に対応するアイテムを使用すると着替えさせることができます。
+-着替えさせたネコマタには見た目という項目が増えます
+-衣装を戻したいときは、アップタウンにいる「裁縫おばさん」の家にいる「くまちゃん」に話しかけると元に戻してくれます。
+衣装を戻すとネコマタの見た目が元に戻り、衣装アイテムは手元に戻ります。
+-入手方法は主にECOくじ、「[[ネコマタ好きなお姉さん>Quest/タイニーアイランド#v62bdd29]]」から貰うなど。
+
+-衣装一覧
+--ネコマタ（桃）用小悪魔アイドル服
+--ネコマタ（桃）キティラー服
+--ネコマタ（桃）用おでかけパーカー
+--ネコマタ（桃）用メイド服
+--ネコマタ（藍）用お嬢様ワンピース
+--ネコマタ（藍）用羽衣
+--ネコマタ（藍）用黒セーラー
+--ネコマタ（藍）用リボンワンピース
+--ネコマタ（山吹）用パイロットウェア
+--ネコマタ（山吹）用和装
+--ネコマタ（山吹）用ボーイッシュ服
+--ネコマタ（菫）用カクテルドレス
+--ネコマタ（菫）用おめかしワンピ
+--ネコマタ（菫）用着物ワンピ
+--ネコマタ（茜）用学園ブレザー
+--ネコマタ（茜）用ハロウィン服
+--ネコマタ（茜）用チャイナドレス
+--ネコマタ（杏）用勇者服
+--ネコマタ（杏）用セーラー
+--ネコマタ（杏）用エルブンジャケット
+--ネコマタ（空）用ウエスタンワンピ
+--ネコマタ（空）用怪盗服
+--ネコマタ（空）用さざなみのワンピース
+--ネコマタ（胡桃・若菜）用大正袴
+--ネコマタ（胡桃・若菜）用水着
+--ネコマタ（胡桃・若菜）用メイド服
+--ネコマタ（緑）用探偵服
+--ネコマタ（緑）用カントリー服
+--ネコマタ（緑）用戦闘制服
+--ネコマタ（白）用ナース服
+--ネコマタ（白）用トップモデル服
+--ネコマタ（白）用ウェディングドレス
+--ネコマタ（黒）用舞踏会ドレス
+--ネコマタ（黒）用騎士服
+--ネコマタ（黒）用巫女服
+--ネコマタ用カボチャマント（→対応：桃・緑・新緑・藍・山吹・菫・茜・杏・空）
+--ネコマタ（胡桃・若菜）用カボチャマント
+--ネコマタ（白）用カボチャマント
+--ネコマタ（黒）用カボチャマント
+--ネコマタ（ミケ）用カボチャマント
+--ネコマタ（トラ）用カボチャマント
+--ネコマタ（アリス）用カボチャマント
+
+**ネコマタハート [#NekomataHeart]
+-ネコマタ服の一種である。
+-着替える方法などもそれと同様であるが、こちらはネコマタがキャラクターぐらいの大きさになりキャラクターと重ならなくなる（通常のパートナーと同じ位置に移動する）という特徴がある。
+-一覧
+--[[エンシェントアーク>Quest/AncientArk]]の報酬で入手可能なもの
+---ネコマタハート（※）
+--ECOくじにより入手可能なもの
+---※用チェックリボンハート
+---※用シャーマンハート
+---※用ファーコーデハート
+---※用盗賊ハート
+---※用キンダーハート
+---※用カンフーハート
+---※用みやびハート
+---※用チルドレンハート
+---※用やんちゃハート
+---※用フェアリーハート
+---※用エキゾチックハート
+---※用エレガントハート
+---※用アイシクルハート
+---※用マリンハート
+---※用アラビアンハート
+---※用サイバーハート
+---※用ワンダーハート
+---※用ノスタルジアハート
+---※用プリティフリルハート
+---※用エクソシストハート
+---※用スチームパンクハート
+---※用フェイブルハート
+---※用ウィッチハート
+---※用バトラーハート
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment

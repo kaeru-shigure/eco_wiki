@@ -1,0 +1,79 @@
+# Skill/Hawkeye
+
+[[アーチャー >Skill/Archer]]([[スキル>Skill/Archer/スキル詳細]])/[[ストライカー >Skill/Striker]]([[スキル>Skill/Striker/スキル詳細]])/[[ガンナー >Skill/Gunner]]([[スキル>Skill/Gunner/Explanation]])/''ホークアイ''([[スキル>Skill/Hawkeye/Explanation]])
+*ホークアイ [#x4ff69d3]
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+アーチャーの[[''外部スレッド''>Skill/Archer#p81644f8]]を参照
+
+** 特徴 [#c1f6c196]
+公式サイト：三次クロニクル職＞[[ホークアイ:http://www.econline.jp/data/job/3rd-chronicle/job_c04.html]]
+-はるか地平まで見抜く目を持つ、遠距離戦闘の支配者です。
+-弓や銃の狙撃性能、威力がさらに向上します。
+-その鷹の目に睨まれた者は、何人も逃れられることはないでしょう。
+-''HP係数：3.92''、''MP係数：1.78''、''SP係数：4.60''
+
+-二次職までは弓、銃が職毎に分かれていたが、同時に装備できるようになった。
+--とはいえ、過去のスキル群は使用条件の関係で、銃派か弓派でスタイルが異なってくる。
+-SAの効果が異常に強力な反面、攻撃スキルの倍率は基本的に軟弱。単発ダメージが1000％を超えるものがほとんどないため、いかにSAを活用するかが全てとなる。
+--また、総じて減算DEFの高い相手は苦手。SAなしでは50スキルといえどまともなダメージを与えられない事も珍しくない。
+反対に減算DEFが低い相手には下手な物理職より高いダメージを叩き出せるポテンシャルも持つ。
+--過去スキル郡より触媒消費が多いスキルも多く、矢束や弾倉にまとめてもCAPAを相当圧迫しやすい。
+PAYL/CAPA管理がより大切になってくる。
+--自身はF系とSU系の中間程度と、比較的打たれ弱いが、囮を召喚したり、自身のヘイトを溜めにくくするスキルがあり、
+それらを活用することでそもそもターゲットされないという方針でカバーできる。
+
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[アーチャー>Skill/Archer]]|⇒|[[ストライカー>Skill/Striker]]|⇔|[[ガンナー>Skill/Gunner]]|⇒|''ホークアイ''|
+
+** 転職方法 [#a0d29a1f]
+
+[[上位転生の注意事項>Job/Change/Chronicle#attention]]をよく読んだ上に
+三次クロニクル職の「[[上位転生の手順>Job/Change/Chronicle#kyoutuu]]」を参照
+
+** スキル早見表とスキル詳細 [#c89e94c8]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#q6534087]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|9|4|11|4|8|1||~26|16|8|20|7|15|3|
+|~2|9|COLOR(red):BGCOLOR(#EDEDFF):''5''|11|4|8|1||~27|COLOR(red):BGCOLOR(#EDEDFF):''17''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''21''|7|15|3|
+|~3|9|5|COLOR(red):BGCOLOR(#EDEDFF):''12''|4|COLOR(red):BGCOLOR(#EDEDFF):''9''|1||~28|17|9|21|7|COLOR(red):BGCOLOR(#EDEDFF):''16''|3|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''10''|5|12|4|9|COLOR(red):BGCOLOR(#EDEDFF):''2''||~29|17|9|21|7|16|3|
+|~5|10|5|12|4|9|2||~30|COLOR(red):BGCOLOR(#EDEDFF):''18''|9|COLOR(red):BGCOLOR(#EDEDFF):''22''|7|16|3|
+|~6|10|5|COLOR(red):BGCOLOR(#EDEDFF):''13''|4|COLOR(red):BGCOLOR(#EDEDFF):''10''|2||~31|18|9|22|7|COLOR(red):BGCOLOR(#EDEDFF):''17''|3|
+|~7|COLOR(red):BGCOLOR(#EDEDFF):''11''|5|13|4|10|2||~32|18|9|22|COLOR(red):BGCOLOR(#EDEDFF):''8''|17|3|
+|~8|11|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''14''|4|10|2||~33|18|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''23''|8|17|3|
+|~9|11|6|14|COLOR(red):BGCOLOR(#EDEDFF):''5''|10|2||~34|COLOR(red):BGCOLOR(#EDEDFF):''19''|10|23|8|17|3|
+|~10|COLOR(red):BGCOLOR(#EDEDFF):''12''|6|14|5|COLOR(red):BGCOLOR(#EDEDFF):''11''|2||~35|19|10|COLOR(red):BGCOLOR(#EDEDFF):''24''|8|COLOR(red):BGCOLOR(#EDEDFF):''18''|3|
+|~11|12|6|COLOR(red):BGCOLOR(#EDEDFF):''15''|5|11|2||~36|19|10|24|8|18|3|
+|~12|12|6|15|5|11|2||~37|COLOR(red):BGCOLOR(#EDEDFF):''20''|10|24|8|18|COLOR(red):BGCOLOR(#EDEDFF):''4''|
+|~13|12|6|15|5|COLOR(red):BGCOLOR(#EDEDFF):''12''|2||~38|20|10|COLOR(red):BGCOLOR(#EDEDFF):''25''|8|COLOR(red):BGCOLOR(#EDEDFF):''19''|4|
+|~14|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''16''|5|12|2||~39|20|COLOR(red):BGCOLOR(#EDEDFF):''11''|25|8|19|4|
+|~15|13|7|16|5|12|2||~40|COLOR(red):BGCOLOR(#EDEDFF):''21''|11|25|COLOR(red):BGCOLOR(#EDEDFF):''9''|19|4|
+|~16|13|7|COLOR(red):BGCOLOR(#EDEDFF):''17''|5|12|2||~41|21|11|COLOR(red):BGCOLOR(#EDEDFF):''26''|9|19|4|
+|~17|COLOR(red):BGCOLOR(#EDEDFF):''14''|7|17|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''13''|2||~42|21|11|26|9|COLOR(red):BGCOLOR(#EDEDFF):''20''|4|
+|~18|14|7|17|6|13|2||~43|21|11|COLOR(red):BGCOLOR(#EDEDFF):''27''|9|20|4|
+|~19|14|7|COLOR(red):BGCOLOR(#EDEDFF):''18''|6|13|2||~44|COLOR(red):BGCOLOR(#EDEDFF):''22''|11|27|9|20|4|
+|~20|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''8''|18|6|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''3''||~45|22|COLOR(red):BGCOLOR(#EDEDFF):''12''|27|9|COLOR(red):BGCOLOR(#EDEDFF):''21''|4|
+|~21|15|8|18|6|14|3||~46|22|12|COLOR(red):BGCOLOR(#EDEDFF):''28''|9|21|4|
+|~22|15|8|COLOR(red):BGCOLOR(#EDEDFF):''19''|6|14|3||~47|COLOR(red):BGCOLOR(#EDEDFF):''23''|12|28|COLOR(red):BGCOLOR(#EDEDFF):''10''|21|4|
+|~23|15|8|19|6|14|3||~48|23|12|28|10|21|4|
+|~24|COLOR(red):BGCOLOR(#EDEDFF):''16''|8|19|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''15''|3||~49|23|12|COLOR(red):BGCOLOR(#EDEDFF):''29''|10|COLOR(red):BGCOLOR(#EDEDFF):''22''|4|
+|~25|16|8|COLOR(red):BGCOLOR(#EDEDFF):''20''|7|15|3||~50|COLOR(red):BGCOLOR(#EDEDFF):''24''|12|29|10|22|4|
+
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+//COLOR(red):BGCOLOR(#EDEDFF):'' ''
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#fe9b2d04]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Archer#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

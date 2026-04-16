@@ -1,0 +1,17 @@
+# ドロップ率検証/サイクロプス系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***サイクロプス [#bebb8393]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|水晶|力の結晶|ブルードラゴンの卵|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1086体）|669個（61.60％）|399個（36.74％）|14個（1.29％）|3個（0.28％）|1個（0.09％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***オーガ [#r3898aab]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|流氷詰めの缶|ヒールポーション|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1560体）|1195個（76.60％）|300個（19.23％）|63個（4.04％）|2個（0.13％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

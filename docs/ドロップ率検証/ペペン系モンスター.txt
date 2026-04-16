@@ -1,0 +1,24 @@
+# ドロップ率検証/ペペン系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鳥知識>ドロップ率検証#kd456d9b]]
+
+***ペペン [#c6100815]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミルク|氷砂糖|いのちの結晶|スノードロップ|ファイアードラゴの卵|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（451体）|238個（52.77％）|136個（30.16％）|76個（16.85％）|0個（0.00％）|0個（0.00％）|1個（0.22％）|
+|知識あり（238体）|88個（36.97％）|91個（38.24％）|47個（19.75％）|1個（0.42％）|11個（4.62％）|0個（0.00％）|
+
+***プルーン [#v224bfa5]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミルク|マシュマロ|スノードロップ|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|53個（53.00％）|31個（31.00％）|16個（16.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（400体）|197個（49.25％）|126個（31.50％）|60個（15.00％）|16個（4.00％）|1個（0.25％）|
+
+***南国ペペン [#x67f7bd4]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ブラックビネガー|香辛料|マシュマロ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|203個（50.75％）|137個（34.25％）|60個（15.00％）|0個（0.00％）|
+|知識あり（358体）|176個（49.16％）|109個（30.45％）|58個（16.20％）|15個（4.19％）|

@@ -1,0 +1,10 @@
+# ドロップ率検証/タートル系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鉱物知識>ドロップ率検証#g76f84d7]]
+
+***ストーンタートル [#g607544c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|青汁|カビ|カメの甲羅|四葉のクローバー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（160体）|58個（36.25％）|81個（50.62％）|18個（11.25％）|3個（1.87％）|0個（0.00％）|
+|知識あり（100体）|28個（28.00％）|45個（45.00％）|24個（24.00％）|2個（2.00％）|1個（1.00％）|

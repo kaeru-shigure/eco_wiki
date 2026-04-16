@@ -1,0 +1,89 @@
+# Skill/Sage
+
+#author("2016-10-21T10:54:00+00:00","","")
+[[ウィザード>Skill/Wizard]] ([[詳細>Skill/Wizard/Explanation]]) / [[ソーサラー>Skill/Sorcerer]] ([[詳細>Skill/Sorcerer/Explanation]]) / ''セージ'' ([[詳細>Skill/Sage/Explanation]]) / [[フォースマスター>Skill/ForceMaster]] ([[詳細>Skill/ForceMaster/Explanation]])
+
+* セージ[#e6dd09be]
+
+#contents
+
+-[[新ジョブイラスト>http://econline.gungho.jp/gamedata/job/_img/205tehsage/sag_MainImg.jpg]]
+-[[旧ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/Sage.jpg]]
+
+-[[セージ・スキル考察(別ページ)>./Explanation]]
+
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ウィザード の[[''外部スレッド''>Skill/Wizard#p81644f8]]を参照
+
+#clear
+** 特徴[#xe16d030]
+//偉大な知識が冴える時、新生魔法が迸り、スクロールから四属性が呼び起こされる。(公式説明)
+これまでにない新生魔法の技巧を使い、特殊な状況を生み出します。（公式説明）
+
+-攻撃魔法と、味方への補助魔法を主に習得するようになります。
+-さらに属性スクロールの作成やモンスターのスケッチをしたりと生産的な面も併せ持ちます。
+-''HP係数：1.95''、''MP係数：2.30''、''SP係数：1.25''
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ウィザード>Skill/Wizard]]|⇒|[[ソーサラー>Skill/Sorcerer]]|⇔|[[セージ>Skill/Sage]]|⇒|[[フォースマスター>Skill/ForceMaster]]|
+
+** 転職方法[#u042195a]
+-1回目：セージマスターに話しかけたらスイッチするか聞かれるので、承諾するとスイッチ。
+　　　　  　この際、持ち越し(リザーブ)スキルを選択するのを忘れずに。
+
+-2回目以降：[[禁断の書>http://eco.acronia.net/itemdb/#id=779]]を使用する(セージマスター販売100k　使い捨て)。
+　　　　  　%%その際、転職元のジョブレベル/5だけ、転職先のジョブレベルが下がる。%%
+　　　　  　%%[[記憶の砂>http://eco.acronia.net/itemdb/#id=638]]があれば、一個に付き1レベルの減衰を無効化できる。%%
+--[[2016/09/29アップデート>http://econline.gungho.jp/news/play/update/160929_update.html]]で、転職先のジョブレベルは下がらなくなりました。
+転職について詳しくは[[二次職テクニカルジョブへの転職>Job/Change#bc5dea19]]を参照してください。
+
+--ジョブスイッチするときにセージマスターからスイッチについての説明を受けると、
+以降は禁断の書を使うだけでスイッチ可能。
+話を聞いてなかったら使ってもスイッチできず、一回目と同じ手順を踏む必要がある。
+
+** スキル早見表 [#skill_summary]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){”[[''セージ・スキル考察''>./Explanation]]”};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正[#l9465987]
+-補正率は[[ステータス>Status#jobrev]]を参照
+
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|1|7|7|1|4|8||~26|3|13|13|3|7|14|
+|~2|1|7|7|1|4|8||~27|3|13|13|3|7|14|
+|~3|1|7|7|1|4|8||~28|3|13|13|3|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''15''|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''2''|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''2''|4|8||~29|3|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''14''|3|8|15|
+|~5|2|8|8|2|4|COLOR(red):BGCOLOR(#EDEDFF):''9''||~30|3|14|14|3|8|15|
+|~6|2|8|8|2|COLOR(red):BGCOLOR(#EDEDFF):''5''|9||~31|3|14|14|3|8|15|
+|~7|2|8|8|2|5|9||~32|3|14|14|3|8|COLOR(red):BGCOLOR(#EDEDFF):''16''|
+|~8|2|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''9''|2|5|9||~33|3|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''15''|3|8|16|
+|~9|2|9|9|2|5|COLOR(red):BGCOLOR(#EDEDFF):''10''||~34|3|15|15|3|8|16|
+|~10|2|9|9|2|5|10||~35|3|15|15|3|COLOR(red):BGCOLOR(#EDEDFF):''9''|16|
+|~11|2|9|9|2|5|10||~36|3|15|15|3|9|COLOR(red):BGCOLOR(#EDEDFF):''17''|
+|~12|2|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''10''|2|5|10||~37|COLOR(red):BGCOLOR(#EDEDFF):''4''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''4''|9|17|
+|~13|2|10|10|2|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''11''||~38|4|16|16|4|9|17|
+|~14|2|10|10|2|6|11||~39|4|16|16|4|9|17|
+|~15|2|10|10|2|6|11||~40|4|16|16|4|9|COLOR(#ff0000):BGCOLOR(#EDEDFF):''18''|
+|~16|2|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''11''|2|6|11||~41|4|COLOR(red):BGCOLOR(#EDEDFF):''17''|COLOR(red):BGCOLOR(#EDEDFF):''17''|4|9|18|
+|~17|2|11|11|2|6|COLOR(red):BGCOLOR(#EDEDFF):''12''||~42|4|17|17|4|COLOR(red):BGCOLOR(#EDEDFF):''10''|18|
+|~18|2|11|11|2|6|12||~43|4|17|17|4|10|18|
+|~19|2|11|11|2|6|12||~44|4|17|17|4|10|COLOR(red):BGCOLOR(#EDEDFF):''19''|
+|~20|COLOR(red):BGCOLOR(#EDEDFF):''3''|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''3''|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''13''||~45|4|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''18''|4|10|19|
+|~21|3|12|12|3|7|13||~46|4|18|18|4|10|19|
+|~22|3|12|12|3|7|13||~47|4|18|18|4|10|COLOR(red):BGCOLOR(#EDEDFF):''20''|
+|~23|3|12|12|3|7|13||~48|4|18|18|4|10|20|
+|~24|3|12|12|3|7|COLOR(red):BGCOLOR(#EDEDFF):''14''||~49|4|18|18|4|COLOR(red):BGCOLOR(#EDEDFF):''11''|20|
+|~25|3|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''13''|3|7|14||~50|4|COLOR(red):BGCOLOR(#EDEDFF):''19''|COLOR(red):BGCOLOR(#EDEDFF):''19''|4|11|20|
+
+//CENTER:補正値＝FLOOR((JobLV+30) * 補正率)
+//CENTER:補正率一覧（暫定:06/08/31時点）
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~STR|6%|~DEX|24%|~INT|24%|
+//|~VIT|6%|~AGI|14%|~MAG|26%|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#p6af7878]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Wizard#p81644f8]]にどうぞ。~
+
+#pcomment

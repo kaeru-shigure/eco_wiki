@@ -1,0 +1,88 @@
+# Hairsalon/2008F
+
+#author("2017-04-07T18:10:38+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*女性ヘアサロン（2008年） [#Hairsalon2008F]
+#contents
+
+
+**バレンタイン紹介状（ECOくじ第12弾） [#Valentine]
+|~かわいいツーサイドアップ|
+|CENTER:画像無し|
+
+**スイートな紹介状（ECOプレイチケット第10弾） [#Sweet]
+|~シュークリームボブ（ぐーじん氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/ChouxALaCremeBob.png,nolink,640x160);|
+|~ロールツインテール（ぐーじん氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/RollTwinTail.png,nolink,600x112);|
+
+**デビューへの紹介状（目指せ新人王！初心者応援キャンペーン・セカンド） [#Debut]
+|~優等生ぽいロングヘアー|
+|CENTER:画像無し|
+
+**おとぎの紹介状（ECOくじ第13弾） [#Otogi]
+|~くりんくりんショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KurinKurinShortF.jpg,nolink,382x185);|
+|~ゆる三つ編み（髪色によってゴムの色が変わります）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/YuruMitsuami.png,nolink,464x200);|
+//!Cannot find: http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/27-2-color.jpg
+|NoImage|
+
+**マネージャーの紹介状（ECOプレイチケット第11弾） [#Manager]
+|~なまいきポニー（椎名悠氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/NamaikiPonyF.jpg,nolink,562x242);|
+|~世話焼きショート（椎名悠氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/SewayakiShort.jpg,nolink,585x172);|
+
+**歌姫の紹介状（ECOくじ第14弾） [#Utahime]
+|~歌姫らしいふわふわロングヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UtahimeRashiiFuwafuwaLongHairF.jpg,nolink,584x251);|
+
+**[[真夏の紹介状>Hairsalon/Manatu]]（ECOくじ第15弾） [#Manatsu]
+|~ロングのミニツイン付きヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/LongNoMiniTwinTsukiHair.jpg,nolink,803x228);|
+
+**ひぐらしの紹介状（コラボレーションパッケージ「ひぐらしのなく頃に」シリーズ） [#Higurashi]
+|~梨花の髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Higurashi-Rika.jpg,nolink,467x149);|
+|~沙都子の髪型|
+|CENTER:画像無し|
+
+**レナの紹介状（ECOひぐらしのなく頃にスペシャルパック「コミックマーケット74」限定） [#Rena]
+|~竜宮レナの髪形|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/RyuuguuRenaNoKamigata.png,nolink,568x180);|
+
+**貴族の紹介状（エミル・クロニクル・オンライン　VISAカード特典） [#Kizoku]
+|~儚げなくるくるショート|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HakanageNaKurukuruShort.jpg,nolink,337x153);|
+|~麗しのミニ縦ロール|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/UruwashiNoMiniTateRoll.jpg,nolink,219x118);|
+//!Cannot find: http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/kizoku_color.jpg
+|NoImage|
+
+**委員長の紹介状（ECOプレイチケット第12弾）[#Iincho]
+|~イケてるベリーショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Iketeru-short.jpg,nolink,439x106);|
+|~イケてるボブ|
+|CENTER:画像無し|
+
+**ハロウィン紹介状（ECOくじ第16弾） [#Halloween]
+|~リボン付きツインテール（リボンの有無はヘアサロンで随時変更可能、髪色でリボンの色変化します）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/RibbonTsukiTwinTail.jpg,nolink,568x180);|
+//!Cannot find: http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/HelloweenRibbon.jpg
+|NoImage|
+
+**真冬の紹介状（ECOくじ第17弾） [#Mafuyu]
+|~憧れのストレートロングヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/winter_female.jpg,nolink,794x236);|
+
+**空賊の紹介状（ドラマCD「エミる☆みらくる Vol.3」特典） [#Kuzoku]
+|~キャリーの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/kuzoku.jpg,nolink,600x280);|
+
+[ [[ トップメニュー >#TopMenu]] ][ [[ 2009年へ続く >Hairsalon/2009F]] ]

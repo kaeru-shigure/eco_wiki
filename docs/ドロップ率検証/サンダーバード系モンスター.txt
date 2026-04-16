@@ -1,0 +1,38 @@
+# ドロップ率検証/サンダーバード系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鳥知識>ドロップ率検証#kd456d9b]]
+
+***サンダーバード [#j0e8cb2c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|上等な肉|破れた魔法書|ロック鳥|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（10体）|4個（40.00％）|4個（40.00％）|1個（10.00％）|0個（0.00％）|1個（10.00％）|
+|知識あり（665体）|261個（39.25％）|213個（32.03％）|181個（27.22％）|7個（1.05％）|3個（0.45％）|
+
+***ギーゴ [#ddc8a975]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|卵|クチバシ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（155体）|123個（79.35％）|20個（12.90％）|12個（7.74％）|
+
+***ナイトストーク [#u68b5c3a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|高級卵|卵|クチバシ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|31個（31.00％）|51個（51.00％）|13個（13.00％）|5個（5.00％）|
+
+***トロピカルギーゴ [#nb8ea666]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|異界の羽|上等な肉|カラフルな羽|テリヤキ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|14個（14.00％）|33個（33.00％）|21個（21.00％）|19個（19.00％）|13個（13.00％）|
+
+***バルチャー [#ma4a58d3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ダークフェザーの羽|卵|上等な革|クリティカルの結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|45個（45.00％）|35個（35.00％）|18個（18.00％）|1個（1.00％）|1個（1.00％）|

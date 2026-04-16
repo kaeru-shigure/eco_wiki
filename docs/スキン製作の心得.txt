@@ -1,0 +1,64 @@
+# スキン製作の心得
+
+#author("2017-04-07T18:00:20+00:00","","")
+*スキン製作の心得 [#ae4e32b7]
+#contents
+
+-[[スキンの使用箇所>スキン製作の心得/使用箇所篇]]
+
+
+
+**スキンとは [#d1eb8562]
+公式サイト：コミュニティ > [[スキンシステム:http://www.econline.jp/community/joy/skin.html]]
+
+ スキンとはゲーム内のウィンドウの外見など、インターフェイスを構成する画像ファイルのことです。
+ ECOではシステムウィンドウからスキンを変更することが可能です。
+ スキンを追加するまでは「Default Skin」以外を選択することはできませんが、ECOを設置したフォルダの
+ 「data」⇒「sprite」⇒「interface」⇒「ui」内に新しいフォルダを作成してフォルダ内にスキンを用意することで、スキンの選択ができるようになります。
+ 作成したフォルダ名がシステムウィンドウ「Skin」項目に追加され、選択可能となります。
+ 
+ ▼通常の設置フォルダ
+ C:\Program Files\GungHo\Emil chronicle online\data\sprite\interface\ui
+
+64bit版Windowsの場合
+C:\Program Files (x86)\GungHo\Emil chronicle online\data\sprite\interface\ui
+
+**スキンの仕様 [#od56329f]
+製作の上で注意点がいくつかありますがまだ手探りなので少しだけだよ。
+ECOで使用されている画像はビットマップ形式（.bmp）と呼ばれるフルカラーのウィンドウズ標準画像形式です。この画像形式は透過をサポートしていませんが、R255　G0　B255の色でマスク（塗りつぶす事）する事で完全透過をECOでは行う事ができます。
+
+メインウィンドウ背景、ショートカットウィンドウ背景等目に付く部分の編集winparts_10.bmpの編集を伴います。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/winparts_10.jpg,nolink,256x256);
+▲ECOのウィンドウは四隅の角が16*16dotの固定画像、その間を16*16のX（横）方向、Y（縦）方向、もしくは、X,Y両方の方向にストレッチ（引き伸ばし）されて表示されます。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/winparts_10_c.jpg,nolink,256x256);
+▲ストレッチの方向を色分けしてみました。元画像がカラーで見づらいので↓にモノクロ化したものを置きます。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/winparts_10_m.jpg,nolink,256x256);
+▲赤がX,Y両方にストレッチされる部分、緑がX方向にストレッチされる部分、青がY方向にストレッチされる部分です。黄色はX,Y比率が固定されて表示されます。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/sample_320_240.jpg,nolink,320x240);
+▲例えば320*240のウィンドウを表示する場合、
+1.四隅は解像度固定。
+2.中央はX288,Y208に拡大。
+3.上下はX288,Y16に拡大。
+4.左右はX208,Y16に拡大。
+背景に単一色以外を張る場合は拡大されてdotが荒くなる部分を考慮しながら製作を心がけるといいともいます。
+また、チャット背景、装備、ステータス、フレンドリストなどで使われる共通背景。ストレッチの度合いはさまざまであるため、比率固定が望ましい画像はストレッチ部分への使いどころが難しいかもしれません。
+
+**スキルポイントの注意 [#g399999d]
+スキルポイントの玉の部分は、大玉だと等倍で表示されますが、小玉は４分の３に縮小されて表示されます。
+その縮小は、画像の一部をカットすることによりされます。下図の灰色の部分です。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/skin/SkillPoint.jpg,nolink,128x64);
+数字で表すと、左上からの序数で、
+大玉：1,2,3,4,5,6,7,8,9,10,11,12,……
+小玉：1,2,4,5,6,8,9,10,12,……
+となります。
+よって、スキルポイントの玉の部分が、縮小されても整った形で表示されるようにするには、細心の注意が必要となります。
+
+**外部リンク [#fa304918]
+--[[集え！スキン職人:http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1126864793/l10/]]（したらば掲示板のスキンスレッド）
+//--[[ECO SkinList:http://www.geocities.jp/eco_skinlist/]]（ページなしコメントアウト）
+--[[ECO Skin用アップローダー:http://f37.aaa.livedoor.jp/~kisiseal/ecoskin/]]
+--[[ECO SkinList 3rd:http://ecoss.ty.land.to/skinlist.html]]
+
+**コメント欄（Wikiの編集の苦手な方はこちらに） [#c329563b]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+#pcomment

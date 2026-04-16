@@ -1,0 +1,39 @@
+# ドロップ率検証/フライフィッシュ系
+
+[[ドロップ率検証>ドロップ率検証]]／[[水中生物知識>ドロップ率検証#qf2e06cc]]
+
+***フライフィッシュ [#hdef440f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|のど飴|干し魚|シャケ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（600体）|313個（52.17％）|221個（36.83％）|61個（10.17％）|5個（0.83％）|
+|知識あり（100体）|49個（49.00％）|24個（24.00％）|26個（26.00％）|1個（1.00％）|
+
+***ケイブフィッシュ [#ubc191c3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|のど飴|干し魚|シャケ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|33個（33.00％）|26個（26.00％）|40個（40.00％）|1個（1.00％）|
+
+***トロピカルフィッシュ [#w77a62d9]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|のど飴|干し魚|シャケ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|102個（51.00％）|76個（38.00％）|21個（10.50％）|1個（0.50％）|
+|知識あり（215体）|109個（50.70％）|81個（37.67％）|23個（10.70％）|2個（0.93％）|
+
+***エンジェルフィッシュ [#la012eaa]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|魚のウロコ|やわらかな羽|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|43個（43.00％）|47個（47.00％）|10個（10.00％）|
+
+
+***スイムフィッシュ [#b74c3cd7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|異界の羽|ライギョーのウロコ|シャケ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|47個（47.00％）|32個（32.00％）|17個（17.00％）|4個（4.00％）|

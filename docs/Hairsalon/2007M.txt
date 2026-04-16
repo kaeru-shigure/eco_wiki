@@ -1,0 +1,72 @@
+# Hairsalon/2007M
+
+#author("2017-04-07T17:17:31+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*男性ヘアサロン（2007年） [#Hairsalon2007M]
+#contents
+
+
+**おめかし紹介状 (ECOくじ第6弾) [#Omekashi]
+|~さらさらボブ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/SarasaraBob.jpg,nolink,422x179);|
+
+**姫さまの紹介状（ECOプレイチケット第6弾） [#Himesama]
+|~若様の髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/WakaSama.jpg,nolink,285x95);|
+
+**ラブモテ紹介状 (ECOくじ第7弾) [#Lovemote]
+|~新しい出会いを予感させる髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/AtarashiiDeaiWoYokanSaseruM.jpg,nolink,569x131);|
+
+**クラシックな紹介状 (ECOくじ第8弾) [#Classic]
+|~清潔感のあるフォーマルな髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/SeiketsuKanNoAruFormalNa.jpg,nolink,589x147);|
+~
+**プリンセスの紹介状 (ECOプレイチケット第7弾) [#Princess]
+|~プリンスの髪型　※女性も可能|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/Prince.jpg,nolink,500x164);|
+|~プリンセスの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/princesss.jpg,nolink,710x183);|
+
+**少佐の紹介状（ECOコラボパッケージ・攻殻機動隊 S.A.C.シリーズ特典） [#Shosa]
+|~草薙素子の髪型|
+|CENTER:画像募集中|
+
+**ふたご座の紹介状 (ECOくじ第9弾) [#Futagoza]
+|~メッシュ入りショートヘア|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MeshIriShortHair.png,nolink,550x130);|
+|~ヘアカラーとメッシュカラー一覧図|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/hair_color_futago.jpg,nolink,600x600);|
+
+**機械時代のヘアカタログ [#Kikai]
+|~男の子用|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KikaiJidaiNoHairCatalogM.jpg,nolink,572x259);|
+
+**ラテンの紹介状 (ECOプレイチケット第8弾) [#Latin]
+|~情熱的なアップ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Laten-up.jpg,nolink,300x173);|
+|~情熱的なショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/JounetsuTekiNaShort.png,nolink,580x145);|
+
+**魔女の紹介状 (ECOくじ第10弾) [#Majo]
+|~アンニュイ　|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/EnnuiNaShortMae.jpg,nolink,145x140);&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/EnnuiNaShortUshiro.jpg,nolink,140x140);|
+|~ヘアピン　|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/HairPin.jpg,nolink,320x169);|
+
+**ワイルドな紹介状 (ECOプレイチケット第9弾) [#Wild]
+|~ワイルドショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/WildShort.png,nolink,399x216);|
+|~ワイルドミディアム|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/WildMedium.png,nolink,399x186);|
+
+**武家の紹介状 (ECOくじ第11弾) [#Buke]
+|~ワイルドな流浪人のような髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/WildNaRurouninNoYounaKamigata.png,nolink,796x164);|
+
+[ [[ トップメニュー >#TopMenu]] ][ [[ 2008年へ続く >Hairsalon/2008M]] ]

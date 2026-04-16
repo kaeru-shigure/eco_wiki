@@ -1,0 +1,45 @@
+# ドロップ率検証/タイニーアイランド内自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[未分類>ドロップ率検証#u28d226c]]
+
+***タイニーフラワー [#g3c6b5ab]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||蜂蜜|花の種|花|ロイヤルゼリー|愛の花束|フカフカの綿|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（900体）|276個（30.67％）|238個（26.44％）|150個（16.67％）|142個（15.78％）|94個（10.44％）|0個（0.00％）|
+|知識あり（300体）|83個（27.67％）|73個（24.33％）|38個（12.67％）|60個（20.00％）|45個（15.00％）|1個（0.33％）|
+
+***タイニーハーブ [#q8f64106]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||じゃがいも|にんじんスティック|ルーン草|クマノイ|上等な綿花|フカフカの綿|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（900体）|258個（28.67％）|217個（24.11％）|145個（16.11％）|171個（19.00％）|107個（11.89％）|2個（0.22％）|
+|知識あり（300体）|92個（30.67％）|74個（24.67％）|47個（15.67％）|51個（17.00％）|36個（12.00％）|0個（0.00％）|
+
+***タイニーツリー [#b11cd135]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||りんご|あんず|オレンジ|さくらんぼ|毒消しの実|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|45個（22.50％）|39個（19.50％）|45個（22.50％）|31個（15.50％）|40個（20.00％）|
+|知識あり（300体）|69個（23.00％）|50個（16.67％）|50個（16.67％）|65個（21.67％）|66個（22.00％）|
+
+***タイニーマッシュルーム [#pf56a63d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||マシュマロ|チョコレート|チョコチップビスケット|カビ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|100個（50.00％）|79個（39.50％）|18個（9.00％）|3個（1.50％）|
+|知識あり（300体）|166個（55.33％）|105個（35.00％）|23個（7.67％）|6個（2.00％）|
+
+***タイニーロック [#b38b0140]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||石ころ|ホカホカ石|ガラス生地|鉄のナゲット|フカフカの綿|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（650体）|373個（57.38％）|229個（35.23％）|32個（4.92％）|14個（2.15％）|2個（0.31％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***きらきらハーブ [#qc10a90b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||1等星|2等星|3等星|4等星|5等星|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（600体）|201個（33.50％）|72個（12.00％）|103個（17.17％）|92個（15.33％）|132個（22.00％）|
+|知識あり（600体）|202個（33.67％）|62個（10.33％）|92個（15.33％）|93個（15.50％）|151個（25.17％）|

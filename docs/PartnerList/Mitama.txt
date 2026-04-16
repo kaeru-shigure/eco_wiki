@@ -1,0 +1,233 @@
+# PartnerList/Mitama
+
+#author("2021-11-03T15:20:29+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （御魂） [#d467f6e8]
+#contents
+
+ステータスの表記は本wikiのレイアウトの関係で英語にしています (表示順序はゲーム内と同じ)
+ステータス数値のうちM.RCVとS.RCVが&color(silver){灰色};の場合、信頼度換算の際に信頼度黒での数値が算出できなかったことを示します(上限300に達していたため)。確定次第黒文字に要修正
+
+**御魂 [#Mitama]
+-2014年の通年イベントのキャラクター
+-2015年2月に本イベントが常駐化し、好きなときに進行できるようになった。[[イベント詳細はこちら>Quest/Season/MysteriousAndWeaponsWorkshopFlying]]
+(ただし、2014年にクリア済の話をやり直すことはできない)
+-新規入手はアルティのみ可能(イベント報酬)
+--2016年以降のECOドリームのうちテーマシリーズとストーリーシリーズにて不定期に再入手の機会が訪れることもある。
+-見た目が変更可能 (アルティ以外)
+--Lv50以上でモーモー平原のパートナー仙人と会話後、アイテム「大珠魂」を消費して見た目を変更できるようになる。
+アップタウン・裁縫おばさんの家のくまちゃん、タイニーアイランドの魔法のスタイリストから大珠魂が貰える。
+-2017年通年イベントのサブキャラクターのうちの1種族(本年のサブキャラクターは複数系統が存在する)
+--2014年通年の御魂達と違い、「自分の名前のフレーズが入ったスキル」を所持していないという特徴がある。
+---例：ミコトなら「氷剣・ユルヤカヒノ''ミコト''」のようなもの。
+-アルティ以外の御魂たちは、各武器と同色の珠魂を身につけていて確認できる。&br;特徴として、見た目変更しても珠魂の色は変わらないという点がある。&br;アルティの身体側の珠魂は確認できない(？)
+--アルマジロン先生のイラストによると、水着を着ても珠魂はついたままの模様。
+&br;
+
+-&aname(dat);特定の種類の武器と御魂を同時に装備すると、その武器の見た目が御魂とお揃いになる。
+(システムで見た目変更しないように設定も可能)
+|~御魂名|~武器&br;種別|>|~その他条件|h
+|~|~|~部位|~射程|
+|LEFT:|CENTER:|CENTER:COLOR(silver):|CENTER:COLOR(silver):|c
+|ミコト|剣|COLOR(black):''両手''|2|
+|メイ|本|片手|1|
+|ライ|爪|両手|1|
+|キリエ|短剣|片手|1|
+|セレス|斧|COLOR(black):''両手''|2|
+|ルリ|槍|COLOR(black):''片手''|1|
+|フォルテ|弦楽器|両手|2|
+|エリーゼ|レイピア|片手|1|
+|アリア|ライフル|片手|8|
+|ナナイ|ロープ|片手|2|
+|リーリエ|弓|片手|COLOR(black):''5''|
+|ヒスイ|杖|COLOR(black):''片手''|1|
+|アルティ|ハンマー|COLOR(black):''片手''|1|
+|フロン|剣|COLOR(black):''片手''|1|
+
+***御魂・ミコト [#MitamaMikoto]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaMikoto.jpg,nolink,155x560);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;550&br;90&br;90&br;40&br;41&br;60&br;60&br;33&br;40&br;&br;40&br;15&br;45&br;25&br;20&br;20&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;26050&br;490&br;1490&br;1585&br;1666&br;660&br;790&br;340&br;270&br;&br;380&br;15&br;355&br;25&br;150&br;140&br;490&br;420&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし両手剣に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Mikoto]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（あきれる、おにぎり、眠り、照れる、得意げ、手を振る）&br;・装備中の両手剣の見た目がミコトとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){剣の鍔と、胸元の水色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;氷剣・ユルヤカヒノミコト&br;もう、はなさないの&br;うしろのしょうめんだあれ&br;冷たいから気をつけてね&br;スピードダウン&br;応援&br;&br;【入手法】&br;[[ECOくじ「雪国あやかし絵巻」1等>Kuji/2014#YukiguniAyakasiEmaki]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10152600]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲氷剣・ユルヤカヒノミコト|自分||-|&color(red){SP62};|自分の周囲を攻撃する水属性の攻撃&br;確率により受けた対象は鈍足状態になる|
+|▲もう、はなさないの||||&color(red){SP8};|一定確率で鈍足化させる攻撃|
+|▲うしろのしょうめんだあれ|自分||-|&color(blue){MP15};|自分を中心とした範囲の対象を混乱させる|
+|▲冷たいから気をつけてね||||&color(blue){MP8};|対象に凍える風を吹きつけ、一定確率で凍結状態にする&br;対象が水属性を持っている場合、成功率が上昇する|
+
+***御魂・メイ [#MitamaMay]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaMay.jpg,nolink,155x560);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;550&br;90&br;90&br;25&br;26&br;75&br;75&br;25&br;30&br;&br;25&br;10&br;60&br;20&br;20&br;20&br;130&br;150&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;23600&br;1890&br;1040&br;525&br;581&br;1955&br;2105&br;210&br;180&br;&br;310&br;10&br;430&br;20&br;70&br;60&br;390&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし本に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/May]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（はしゃぐ、寝起き、決めポーズ！、威張る、手を振る、威嚇する）&br;・装備中の本の見た目がメイとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){魔本の中央と、うなじの赤色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;炎書・ヴァーミリオンメイズ (ファイアブラスト)&br;んあ？なんにゃのー？ (セッション)&br;妾の威光を見よ！&br;ヒーリング&br;ファイアボール&br;&br;【入手法】&br;[[ECOくじ「こぎつねアプレンティス」1等>Kuji/2014#KogituneApprentice]]&br;[[ECOドリーム「もこもこふわふわぱらだいす」A賞>Kuji/2016#f55e22c8]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10153400]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲炎書・ヴァーミリオンメイズ|敵|単体中心&br;円|6|&color(blue){MP15};|対象の範囲に&br;火焔攻撃を行う|
+|▲んあ？なんにゃのー？|敵|地面指定&br;円|5|&color(blue){MP14};|範囲内の対象を混乱&br;または睡眠状態にする|
+|▲妾の威光を見よ！|主人&br;自分&br;仲間|単体|5|&color(blue){MP32};|左DEF+13 右DEF+10&br;左M.DEF+20 右M.DEF+15 効果時間100秒|
+
+***御魂・ライ [#MitamaRay]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaRay.jpg,nolink,170x610);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;550&br;90&br;90&br;45&br;46&br;50&br;30&br;35&br;30&br;&br;50&br;15&br;45&br;25&br;40&br;25&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;26250&br;490&br;1390&br;1505&br;1601&br;620&br;680&br;255&br;280&br;&br;415&br;15&br;335&br;25&br;160&br;170&br;490&br;420&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし爪に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Ray]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（恐怖、いやがる、まかせろ、武器を見つめる、手を振る、威嚇する、ジロジロ見る）&br;・装備中の爪の見た目がライとお揃いになる&br;&br;・本体の珠魂の位置は&br;『&color(#e8f0e0,#e8f0e0){爪の甲(所持武器お揃い化で確認可能)と、両靴の群青色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;鬼爪・雷神双烈衝&br;今度こそ、俺が守る！ (エナジーバリア)&br;雷牙爪&br;ビリビリするぜ！&br;&br;【入手法】&br;[[ECOくじ「迅雷の鳳雛」1等>Kuji/2014#JinraiNoHousu]]&br;[[ECOドリーム「遊びまくり夏休み」A賞>Kuji/2016#ce98a8b5]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10153800]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲鬼爪・雷神双烈衝|敵|||&color(red){SP20};|直線状に居る敵に対して&br;貫通する攻撃を行う|
+|▲今度こそ、俺が守る！||||&color(blue){MP15};|自身とその周囲を対象として&br;防御力を上昇させる|
+|▲ビリビリするぜ！|敵|単体|1|&color(red){SP15};|対象をスタン状態にする攻撃をする|
+|▲雷牙爪|敵|単体|1|&color(blue){MP8};&br;&color(red){SP16};|敵の急所を突いて大きなダメージを狙う&br;対象を稀に気絶、鈍足化状態にする|
+
+***御魂・キリエ [#MitamaKirie]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaKirie.jpg,nolink,155x560);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;40&br;41&br;70&br;80&br;40&br;35&br;&br;25&br;15&br;40&br;20&br;35&br;25&br;130&br;180&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;28200&br;1690&br;1140&br;620&br;661&br;1250&br;1390&br;310&br;275&br;&br;430&br;15&br;445&br;20&br;75&br;65&br;390&br;570&br;&br;300&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし短剣に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Kirie]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（武器を掲げる、爆破、おろおろ、怒り、お辞儀、照れる、手を振る）&br;・装備中の短剣の見た目がキリエとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){短剣の鍔と、左手甲の黒色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;聖印・キリエエレイソン (セイクリッドエンブレイス)&br;お引取り下さい&br;手当ていたします。&color(silver){ (ファーストエイドLv2？)};&br;私が支えます (ソリッドオーラ)&br;&br;【入手法】&br;[[ECOくじ「メイド・イン・グランドハウス」1等>Kuji/2014#MaidInGrandHouse]]&br;[[ECOドリーム「蛇とメイドと女子力と」A賞>Kuji/2016#e2456c3c]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10154200]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲聖印・キリエエレイソン|主人&br;自分&br;仲間|地面指定&br;円|5|&color(blue){MP50};|指定範囲内にいる者を対象とし&br;HP大回復効果とHP、MP、SP回復力上昇効果を付与させ、&br;さらには行動不能状態から蘇らせることができる|
+|▲お引取り下さい|敵|単体中心&br;円|1|&color(red){SP13};|前方に衝撃を放ち&br;一定確率で鈍足状態にする|
+|▲手当ていたします。|主人&br;自分&br;仲間|単体|1|&color(blue){MP5};|簡単な手当てでHPを回復する|
+|▲私が支えます|主人&br;自分&br;仲間|単体|3|&color(blue){MP30};|指定対象を一定回数&br;物理攻撃無効状態にする|
+
+***御魂・セレス [#MitamaCeles]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaCeles.jpg,nolink,155x556);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;600&br;90&br;90&br;70&br;71&br;35&br;35&br;40&br;35&br;&br;40&br;20&br;20&br;15&br;35&br;25&br;130&br;180&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29950&br;990&br;990&br;1295&br;1381&br;1105&br;1185&br;360&br;345&br;&br;365&br;20&br;305&br;15&br;165&br;190&br;440&br;490&br;&br;220&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし鎌に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Celes]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（武器を構える、武器を振り回す、もじもじ、説教、セクシーポーズ、手を振る）&br;・装備中の両手斧の見た目がセレスとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){大鎌の柄頭と、頭の輪の紫色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：斬り&br;射程：1&br;&br;【使用スキル】&br;紅鎌・セレスティアルパニッシュ&br;粛清しますっ！&br;こ、こっちに来ないでくださいっ！&br;私が、やらなきゃ……！！&br;&br;【入手法】&br;[[ECOくじ「ラジカル・セルフコンシャス」1等>Kuji/2014#RadicalSelfconscious]]&br;[[ECOドリーム「ライド・オン・サマー」A賞>Kuji/2016#x07b5a5f]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10154600]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲紅鎌・セレスティアルパニッシュ|自分|自分中心&br;扇形|-|&color(red){SP12};|地を這う真空波を発生させ間合いの外から対象を攻撃する&br;ATK600%|
+|▲粛清しますっ！|敵|単体|1|&color(red){SP30};|対象に４連斬りをする&br;ATK360%*3+ATK810%|
+|▲こ、こっちに来ないでくださいっ！|自分|自分中心&br;円|-|&color(blue){MP8};&br;&color(red){SP8};|自分の周囲を攻撃して弾き飛ばしスタン判定を与える&br;ATK675%|
+|▲私が、やらなきゃ……！！|自分|単体|-|&color(blue){MP3};&br;&color(red){SP15};|一定時間、物理最大攻撃力を上昇させる&br;ATK（MAX）+20 効果時間180秒|
+
+***御魂・ルリ [#MitamaRuri]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaRuri.jpg,nolink,155x560);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;600&br;90&br;90&br;70&br;81&br;30&br;35&br;40&br;35&br;&br;20&br;20&br;20&br;20&br;55&br;45&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25350&br;490&br;1290&br;1520&br;1601&br;628&br;785&br;430&br;375&br;&br;340&br;20&br;245&br;20&br;305&br;310&br;520&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし槍に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Ruri]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（武器を構える、泣く、笑顔、照れる、反抗、手を振る）&br;・装備中の片手槍の見た目がルリとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){槍の刃根本と、胸元の青色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;翼鉾・ルリイロハヤカゼ (神速斬り)&br;アメノサカホコ (真空波)&br;ちっちゃくないもん！(デフィートLv3)&br;とこしえの秘術☆無限保栄 (マジックリベレイション)&br;とこしえの秘術☆百季矢行 (疾風迅雷)&br;&br;【入手法】&br;[[ECOくじ「今世東洋怪異譚」1等>Kuji/2014#KonseiTouyouKaiitan]]&br;[[ECOドリーム「遊びまくり夏休み」A賞>Kuji/2016#ce98a8b5]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10155800]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲翼鉾・ルリイロハヤカゼ|敵|単体|4|&color(red){SP90};|約400%＋スタン|
+|▲アメノサカホコ|敵|単体|3|&color(red){SP10};|約350%|
+|▲ちっちゃくないもん！|敵|単体中心&br;円|1|&color(blue){MP40};|指定対象に対して一定時間、物理防御力、魔法防御力を低下させる状態異常を与える|
+|▲とこしえの秘術☆無限保栄|自分|自分中心&br;円|-|&color(blue){MP12};|範囲内の魔法命中を上昇させる&br;効果時間120秒|
+|▲とこしえの秘術☆百季矢行|主人&br;自分&br;仲間|単体|5|&color(blue){MP34};|AGI+8 DEX+8 効果時間60秒|
+
+***御魂・フォルテ [#MitamaForte]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaForte.jpg,nolink,155x744);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;650&br;90&br;90&br;45&br;51&br;45&br;50&br;30&br;20&br;&br;30&br;20&br;20&br;15&br;30&br;30&br;180&br;180&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29000&br;1050&br;1050&br;1350&br;1401&br;1350&br;1400&br;340&br;320&br;&br;345&br;20&br;345&br;15&br;80&br;80&br;450&br;450&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし楽器に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Forte]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（武器を構える、いじける、ウインク、歌う、ライオ君と一緒、手を振る）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　モーション「？」で？のポーズになる&br;・装備中の弦楽器の見た目がフォルテとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){弦楽器のヘッドと、右手甲の橙色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;星弦・セイリオスフォルテシモ&color(silver){ (パワーエンチャント？)};&br;きっと何とかなるから！&br;大丈夫、諦めないで！&br;みんなで盛り上がろう！&br;&br;【入手法】&br;[[ECOくじ「スターライト・ステージ」1等>Kuji/2014#StarlightStage]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10156100]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲星弦・セイリオスフォルテシモ|||||一定時間、対象プレイヤーの物理攻撃力、物理防御力、魔法攻撃力、魔法防御力を上昇させる|
+|▲きっと何とかなるから！|||||一部状態異常を一定確立で治癒することができる|
+|▲大丈夫、諦めないで！|||||癒しの旋律を対象に放つ。範囲内にいる対象を回復させる|
+|▲みんなで盛り上がろう！|||||自分とその周囲を対象としてクリティカル回避率を上昇させる|
+
+***御魂・エリーゼ [#MitamaElise]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaElise2.jpg,nolink,170x610);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;400&br;50&br;80&br;46&br;47&br;11&br;11&br;35&br;12&br;&br;32&br;10&br;10&br;10&br;50&br;24&br;180&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25800&br;500&br;1510&br;1650&br;1701&br;700&br;750&br;410&br;310&br;&br;460&br;15&br;365&br;20&br;140&br;140&br;500&br;410&br;&br;200&br;100&br;&color(silver){''300''};|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし細剣に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Elise]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（？）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　モーション「？」で？のポーズになる&br;・装備中のレイピアの見た目がエリーゼとお揃いになる&br;・BaseLvの上昇によりDEF(%)・M.DEF(%)も上昇する&br;・ATK80%？で通常攻撃が2HITする&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){刺突剣の柄頭と、鳩尾の薄緑色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;童話剣・シャトンシュヴァリエリーゼ (スパイラルスピアLv1)&br;少し、はしたないかしら？ (リミテイションエッジLv4)&br;疾く、鋭く、冷静に (旧仕様ラウズボディ)&br;落ち着いて、周りをみて (旧仕様ディバインバリア)&br;&br;【入手法】&br;[[ECOくじ「ナイツ・オブ・ナーサリーライム」1等>Kuji/2014#KnightsOfNurseryrhyme]]&br;[[ECOドリーム「まな板の上の人魚姫」A賞>Kuji/2016#r79fe02a]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10156600]]|
+//110&br;&color(,pink){桃};&br;&br;33960&br;1550&br;3065&br;1750&br;1801&br;800&br;850&br;610&br;560&br;&br;560&br;15&br;465&br;20&br;240&br;240&br;500&br;410&br;&br;200&br;100&br;&color(silver){300};
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲童話剣・シャトンシュヴァリエリーゼ|敵|単体中心&br;円|2|&color(red){SP25};|神速のなぎ払い。範囲内にいる全ての対象を巻き込む&br;ディレイがない為、効果時間中に通常攻撃等で追撃可能|
+|▲少し、はしたないかしら？|敵|単体|1|&color(red){SP30};|守りを考えず全力で斬りかかり防御力を無効化する一撃を与える|
+|▲疾く、鋭く、冷静に|主人&br;自分|単体|3|&color(blue){MP10};|STR+5 VIT+7 AGI+11 効果時間25秒|
+|▲落ち着いて、周りをみて|主人&br;自分|単体|5|&color(blue){MP32};|左DEF+13 右DEF+10 左M.DEF+20 右M.DEF+15 効果時間60秒|
+
+***御魂・アリア [#MitamaAria]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaAria3.jpg,nolink,170x620);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;330&br;65&br;80&br;60&br;76&br;35&br;45&br;30&br;30&br;&br;10&br;5&br;10&br;5&br;20&br;15&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25500&br;810&br;1420&br;1650&br;1751&br;1100&br;1200&br;410&br;310&br;&br;360&br;20&br;300&br;15&br;140&br;150&br;500&br;450&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りしライフルに人の魂が宿ったものといわれているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Aria]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（武器を持つ、隠れる、箱を弄る、笑顔、泣く、錯乱、手を振る）&br;・ブリーダーのスキル「メタモルフォーゼ」使用中は&br;　モーション「？」で？のポーズになる&br;・装備中のライフルの見た目がアリアとお揃いになる&br;・BaseLvの上昇によりDEF(%)・M.DEF(%)も上昇する&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){銃口部パーツと、首元の藍色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;機銃砲・マシンナーズアリア&br;オーバードライブ&br;エミッション&br;最適戦略&br;吹き飛んでください&br;&br;【入手法】&br;[[ECOくじ「エンシェント・サイバーウェポン」1等>Kuji/2014#AncientCyberWeapon]]&br;[[ECOドリーム「吸血鬼と鋼鉄の花飾り」A賞>Kuji/2016#u49859e0]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10156900]]|
+//110&br;&color(,pink){桃};&br;&br;33600&br;2015&br;2930&br;1750&br;1851&br;1200&br;1300&br;610&br;560&br;&br;460&br;20&br;400&br;15&br;240&br;250&br;500&br;450&br;&br;RCV&br;M.RCV&br;S.RCV
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲機銃砲・マシンナーズアリア|敵|単体中心&br;円|6|&color(red){SP30};|指定対象を中心に、周囲に居る敵にダメージを与える&br;範囲3x3　倍率600%|
+|▲オーバードライブ|自分|単体|-|&color(red){SP13};|自身のダメージに一定時間ボーナスが加わる&br;上昇率20%　持続16秒|
+|▲エミッション|敵|単体|6|&color(blue){MP8};|自身から対象へ向かって直線上に未知のエネルギーを放つ|
+|▲最適戦略||単体|6|&color(red){SP4};|一定時間物理最大攻撃力を上昇させる|
+|▲吹き飛んでください|敵|単体中心&br;円|6|&color(red){SP10};|着弾と同時に炸裂し範囲ダメージを当てる弾丸を発射する|
+
+***御魂・ナナイ [#MitamaNanai]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Mitama/MitamaNanai.jpg,nolink,180x700);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;390&br;90&br;90&br;47&br;51&br;35&br;40&br;60&br;55&br;&br;26&br;20&br;29&br;20&br;30&br;25&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;31100&br;900&br;1150&br;1400&br;1461&br;1000&br;1060&br;400&br;370&br;&br;550&br;25&br;500&br;25&br;55&br;55&br;450&br;500&br;&br;250&br;250&br;&color(silver){''300''};|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし鞭に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/nanai]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（武器を構える、喜ぶ、困る、抱きつく、不思議、手を振る）&br;・装備中のロープの見た目がナナイとお揃いになる&br;・BaseLvの上昇によりDEF(%)・M.DEF(%)も上昇する&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){蛇腹剣の鍔と、胸元の薄紫色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;龍鞭・七色の龍鱗（警戒）&br;おてつだいするねっ☆ (スタミナテイク)&br;よーいしょっと！&br;きかないよー？&br;きてもいーよ？&br;もえちゃえー☆&br;&br;【入手法】&br;[[ECOくじ「モンスター☆パレード」1等>Kuji/2014#MonsterParade]]&br;[[ECOドリーム「ドラむすめ海賊航海記」A賞>Kuji/2016#y6079252]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10157500]]|
+//110&br;&color(,pink){桃};&br;&br;40320&br;2150&br;2525&br;1500&br;1561&br;1100&br;1160&br;600&br;620&br;&br;650&br;25&br;600&br;25&br;155&br;155&br;450&br;500&br;&br;250&br;250&br;&color(silver){300};
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲龍鞭・七色の龍鱗||単体|1|&color(red){SP19};|効果時間は防御力がアップし&br;クリティカル攻撃を受けなくなる　効果時間６０秒|
+|▲おてつだいするねっ☆||単体|6|&color(blue){MP8};&br;&color(red){SP12};|対象の武器に&br;その武器が与えたダメージの一部を&br;持ち主がＳＰとして吸収できる(最大SPの15%)|
+|▲よーいしょっと！|自分|自分中心&br;3x3|-|&color(red){SP20};|自身を中心とした範囲内にいる&br;対象に対して鞭攻撃を仕掛ける|
+|▲きかないよー？|自分|自分中心&br;円|-|&color(blue){MP15};|自身とその周囲を対象として&br;防御力を上昇させる|
+|▲きてもいーよ？|自分|単体|-|&color(blue){MP3};&br;&color(red){SP17};|防御力を一時的に上昇させる|
+|▲もえちゃえー☆||地面指定&br;3x3|6|&color(blue){MP20};|地面に広い範囲に&br;火焔の竜巻を発生させる|
+
+***御魂・リーリエ [#MitamaLilie]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Mitama/MitamaLilie.jpg,nolink,170x507);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;250&br;80&br;40&br;40&br;46&br;50&br;65&br;40&br;50&br;&br;15&br;12&br;17&br;12&br;30&br;25&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27200&br;1600&br;1050&br;600&br;801&br;1400&br;1480&br;260&br;280&br;&br;390&br;18&br;405&br;20&br;55&br;55&br;450&br;550&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし弓に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Lilie]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（アピール、武器を構える、疲労、祈る、応援、したり顔、手を振る）&br;・装備中の射程5の弓の見た目がリーリエとお揃いになる&br;・BaseLvの上昇によりDEF(%)・M.DEF(%)も上昇する&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){弓の握り両側面と、両側頭の輪の翠色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;精霊弓・ヴァイス・リーリエ&br;水の癒し&br;スピリットアロー&br;天の恵み&br;森の帳&br;風の護り&br;&br;【入手法】&br;[[ECOくじ「優しい森の住人」1等>Kuji/2014#YasashiiMorinoJyuunin]]&br;ECOドリーム「アクロニア・グルメツアー」A賞&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10158100]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲精霊弓・ヴァイス・リーリエ|敵|単体中心&br;円|5|&color(red){SP30};|指定範囲内に一定時間&br;矢の雨を降らす|
+|▲水の癒し|自分|自分中心&br;円|-|&color(blue){MP12};|自身とその周囲の対象を回復させる|
+|▲スピリットアロー|敵|単体|5|&color(red){SP10};|相手を吹き飛ばす矢を射る|
+|▲天の恵み|主人&br;自分&br;仲間|単体|5|&color(blue){MP30};|基本的な状態異常を&br;すべて一定確率で回復する|
+|▲森の帳|主人&br;自分&br;仲間|単体|3|&color(blue){MP30};|指定対象を一定回数&br;物理攻撃無効状態にする|
+|▲風の護り|主人&br;自分&br;仲間|単体中心&br;円|6|&color(blue){MP10};|対象とその周囲の&br;防御力と魔法防御力を&br;上昇させる|
+
+***御魂・ヒスイ [#MitamaHisui]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Mitama/MitamaHisui.jpg,nolink,170x512);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;550&br;90&br;100&br;75&br;91&br;80&br;100&br;40&br;35&br;&br;50&br;18&br;70&br;18&br;31&br;35&br;140&br;190&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29200&br;1000&br;1100&br;1320&br;1401&br;1350&br;1430&br;360&br;350&br;&br;380&br;23&br;400&br;20&br;90&br;90&br;450&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし杖に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Hisui]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（武器を構える、激怒、けだるげ、ひっぱたく、メガネオフ）&br;・装備中の片手杖の見た目がヒスイとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){杖飾りの付け根と、首元の緑色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;晶杖・鎖しの翡翠晶&br;混迷の陣&br;魔封じの陣&br;さっさと片付けましょうか&br;憔悴の陣&br;どこを見ているんです？&br;&br;【入手法】&br;[[ECOくじ「悠久の古物商」1等>Kuji/2014#YuukyuuNoKobutusyou]]&br;[[ECOドリーム「特選得物蚤の市」A賞>Kuji/2016#s395c09f]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10158400]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲晶杖・鎖しの翡翠晶|敵|単体|3|&color(red){SP6};|対象の戦意を削ぎ、攻撃力を低下させる&br;ボスモンスターに対して効果が弱くなる|
+|▲混迷の陣|敵|単体|3|&color(red){SP6};|対象の集中力を乱すオーラを出し魔法攻撃力を低下させる|
+|▲魔封じの陣|自分|自分中心&br;円|-|&color(blue){MP60};|自分を中心とした範囲内にいる対象に対して&br;一定回数、魔法攻撃無効状態にする&br;騎士団演習時使用不可&br;※一部のダメージに対してはダメージを防ぐことができない|
+|▲さっさと片付けましょうか|自分|自分中心&br;円|-|&color(blue){MP52};|闇属性の魔力で形成された&br;黒い鎌を一回転させることで&br;周囲の敵をなぎ払う|
+|▲憔悴の陣|敵|単体|3|&color(blue){MP10};|対象のHPを減少させ物理攻撃力、近距離回避力、物理攻撃力を低下させる|
+|▲どこを見ているんですか？|敵|単体中心&br;円||&color(Red){SP12};|対象の周辺に粉塵爆発を引き起こしダメージと共に命中低下を与える|
+
+***見習い冒険者・アルティ / みんなの鍛冶屋・アルティ [#MitamaAlty]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Mitama/MitamaAlty.jpg,nolink,170x708);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;300&br;30&br;80&br;120&br;161&br;100&br;120&br;30&br;30&br;&br;10&br;20&br;10&br;15&br;15&br;15&br;100&br;100&br;&br;50&br;50&br;100|110&br;黒&br;&br;25850&br;700&br;1600&br;1550&br;1671&br;800&br;830&br;370&br;290&br;&br;410&br;20&br;320&br;15&br;130&br;130&br;550&br;320&br;&br;220&br;180&br;&color(silver){300};|【説明】&br;御魂の一種&br;古の鍛冶屋が作りしハンマーに人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/MitamaAlty]]&br;・ブリーダーのスキル「信頼の証」に専用のポーズがある&br;（アピール、ジャンプ、照れる、パニック、わくわく、突っ込み、武器を構える、手を振る）&br;・装備中の片手ハンマーの見た目がアルティとお揃いになる&br;・見習い冒険者、みんなの鍛冶屋は見た目以外の差は無い&br;・見た目の変更は不可&br;&br;・珠魂の位置は&br;『&color(#e8f0e0,#e8f0e0){ハンマーの頭中央の灰色宝石。身体側は未確認(見える位置にない可能性あり)};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;創造槌・アルティメイト&br;ナゲット投げるよ！&br;あたしにもできるんだから！&br;援護するね！&br;工房印の回復薬&br;&br;【入手法】&br;イベント「[[空飛ぶ工房とフシギな武器>Quest/Season/MysteriousAndWeaponsWorkshopFlying]]」完結編の報酬&br;クリア時の選択肢で入手先が変わる&br;・真剣に作品と向き合う姿：見習い冒険者・アルティ（画像上、赤い服の方）　&br;・御魂たちの中で微笑む姿：みんなの鍛冶屋・アルティ（画像下、青い服の方）&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10157900]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲創造槌・アルティメイト|敵|単体|1|&color(red){SP35};|スタン判定を与える&br;ハンマーによる攻撃の後&br;蹴り攻撃を行う&br;初撃:単体に400%＋スタン 追撃:単体に700%|
+|▲ナゲット投げるよ！|敵|単体|6|&color(red){SP8};|急所を狙い対象を命中率、回避率低下と鈍足効果を与える（バイタルショット？）|
+|▲あたしにもできるんだから！|主人&br;自分|単体|1|&color(blue){MP20};&br;&color(red){SP20};|一定時間ダメージにボーナスが加わる&br;(物理ダメージボーナス2% 効果時間60秒)|
+|▲援護するね！|主人&br;自分|単体|6|&color(blue){MP2};&br;&color(red){SP4};|一定時間、物理最大攻撃力を上昇させる|
+|▲工房印の回復薬|主人&br;自分|単体中心&br;円|5|&color(blue){MP12};|対象とその周囲のHPを回復する|
+
+**御魂（2017～） [#o5d5d3e9]
+
+***御魂・フロン [#MitamaFron]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Mitama/MitamaFron.jpg,nolink,170x639);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;470&br;55&br;95&br;55&br;81&br;40&br;46&br;58&br;35&br;&br;30&br;10&br;30&br;10&br;30&br;30&br;240&br;160&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;24000&br;720&br;1520&br;1810&br;2011&br;620&br;650&br;400&br;310&br;&br;395&br;15&br;340&br;15&br;195&br;195&br;580&br;400&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;御魂の一種&br;古の鍛冶屋が作りし片手剣に人の魂が宿ったもの&br;といわれているがその実態は定かではない&br;&br;・[[台詞>PetSpeech/Mitama/Fron]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（手を振る、説教、ショック、決めポーズ！、考える、笑う、椅子に座る、脱力）&br;・装備中の片手剣の見た目がフロンとお揃いになる&br;&br;・本体の珠魂の位置は『&color(#e8f0e0,#e8f0e0){剣の柄頭と、首元の黄色宝石};』&br;&br;系統：御魂系&br;種別：人&br;攻撃タイプ：斬り&br;射程：1&br;&br;【使用スキル】&br;稽古の成果です！&br;攻めます！&br;集中力を高めます&br;これでもっと攻められますよ&br;武器に磨きをかけましょう&br;&br;【入手法】&br;[[ECOドリーム「フロン・憧れの学園生活」A賞>http://econline.gungho.jp/econetstore/2017/furon-akogareno-gakuenseikatu]]&br;&br;[[公式パートナーサーチへのリンク>http://ecotool.gungho.jp/partner/result.php?partner=10176000]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲稽古の成果です！|敵|単体|1|&color(red){SP120};|守りを考えず全力で斬りかかる&br;防御力を無効化する一撃を放つ&br;威力1200％|
+|▲攻めます！|敵|単体中心円|1|&color(red){SP60};|対象範囲に攻撃を行い&br;弱点属性を付与する&br;斬り攻撃耐性弱体化付与&br;範囲3x3　威力600％　効果1.15倍　効果時間60秒|
+|▲集中力を高めます|主人&br;自分&br;仲間|単体|5|&color(red){SP40};|与ダメージのバラつきを抑え&br;最低攻撃力を最大攻撃力に近づける&br;[[エクヴィリー>Skill/Gladiator/Explanation#reino5]]Lv3相当　効果時間60秒|
+|▲これでもっと攻められますよ|主人&br;自分&br;仲間|単体|6|&color(red){SP20};|対象の武器に対してＳＰを吸収する効果を付与する&br;[[スタミナテイク>Skill/Explorer/Explanation#sptake]]Lv3相当　効果時間30秒|
+|▲武器に磨きをかけましょう|自分|単体|-|&color(red){SP200};|一定時間ダメージに&br;ボーナスが加わる&br;[[フレイムハート>http://eco.acronia.net/wiki/?Skill/Blacksmith/Explanation#cca0b542]]Lv1相当? 効果1.2倍　効果時間60秒&br;※スキル対象が＜自分＞の条件でしか発動しません|
+///////////
+
+*情報提供欄（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){情報提供欄はゲーム内容を質問する場ではありません。}質問等は[[''外部スレッド''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment

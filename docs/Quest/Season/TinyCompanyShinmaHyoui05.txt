@@ -1,0 +1,42 @@
+# Quest/Season/TinyCompanyShinmaHyoui05
+
+#author("2016-05-25T10:00:17+00:00","","")
+*神魔の来訪 タイニー・かんぱにー ～憑依研究編～ 「抱擁の聖母」 [#Top_TinyCompanyShinmaHyoui]
+RIGHT:&edit(,noicon){TinyCompanyShinmaHyoui05を編集};
+#contents
+
+-期間： COLOR(red):''2016年4月20日（木）定期メンテナンス終了後 ～ ''
+
+**公式の告知 [#Press_TinyCompanyShinmaHyoui]
+神魔の来訪 タイニー・かんぱにー ～憑依研究編～
+http://econline.gungho.jp/special/shinma/
+
+**これまでの依頼 [#Past_TinyCompany]
+総合ページ: [[神魔の来訪 タイニー・かんぱにー ～憑依研究編～>Quest/Season/TinyCompanyShinmaHyoui]]
+01月:[[「アスモデウス事件」>Quest/Season/TinyCompanyShinmaHyoui01]]
+02月:[[「浄化の戦乙女」>Quest/Season/TinyCompanyShinmaHyoui02]]
+03月:[[「導きの神鳥」>Quest/Season/TinyCompanyShinmaHyoui03]]
+04月:[[「次元の海獣」>Quest/Season/TinyCompanyShinmaHyoui04]]
+
+**イベント内容 [#Event_TinyCompanyShinmaHyoui]
+
+[[過去の通年イベント>Quest/Season/Log#yearround]]の様に選択肢によって分岐があるかは不明。
++アップタウン・ギルド元宮の入口の傍にいる、｢古びたガイドマシーン｣に話しかけてタイ兄さんの飛空城に移動する。
++タイ兄さんの研究室で「オリヴィア」か｢タイ兄さん｣か「バルーンピッグー・アルマ」か「イシス」に話しかける。
+--''｢エキゾチックカチューシャ（※）｣''（※は白・緑・黒の全3色、うち1個を選択）を入手。
+--2016/5/26メンテ前までにクリアすると''「5話SPモーション5」''を無料入手。
+---この期間を過ぎている場合は無料入手できませんが、EXイベントチケット5枚で入手が可能です。（下記）
+
+**タイ兄さんの研究室 [#Guild]
+***EXイベント「ホルスのぬいぐるみ」入手 [#EX_Event_TinyCompanyShinmaHyoui]
+-上記のイベントをクリアした後、タイ兄さんの研究室にいる「イシス」か「バルーンピッグー・アルマ」に話しかけると
+｢[[EXイベントチケット>http://eco.acronia.net/itemdb/#id=285]]｣ 3枚と交換で''｢ホルスのぬいぐるみ｣''を入手できる。
+--※はオレンジ・黄色・ピンクの全3色
+
+***EXイベント「5話SPモーション5」入手 [#EX_Event_TinyCompanyShinmaHyouiMotion]
+-上記のイベントを2016/5/26メンテナンス以降にクリアした場合、タイ兄さんの研究室にいる「イシス」か「バルーンピッグー・アルマ」に話しかけると
+｢[[EXイベントチケット>http://eco.acronia.net/itemdb/#id=285]]｣ 5枚と交換で''｢5話SPモーション5｣''を習得できる。
+--2016/5/26メンテ前までにクリアした場合は無料入手できます。
+
+**神魔の来訪 タイニー・かんぱにー ～憑依研究編～ 関連コメント欄 [#Comment_TinyCompany]
+#pcomment(,20,noname)

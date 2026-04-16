@@ -1,0 +1,83 @@
+# Quest/Season/MysteriousAndWeaponsWorkshopFlying12
+
+*空飛ぶ工房とフシギな武器 十二振り目 「救済の杖」&br;十三振り目 「空飛ぶ工房とフシギな武器」 [#Mitama_Top]
+RIGHT:&edit(,noicon){MysteriousAndWeaponsWorkshopFlying12を編集};
+
+#title(空飛ぶ工房とフシギな武器 十二振り目 「救済の杖」・ 十三振り目 「空飛ぶ工房とフシギな武器」)
+#contents
+
+-期間： COLOR(red):''2014年11月20日(木)定期メンテナンス終了後 ～ 2014年12月25日(木)定期メンテナンス開始まで''
+
+**公式の告知 [#Mitama_Press]
+空飛ぶ工房とフシギな武器
+http://econline.gungho.jp/special/mitama/
+
+**これまでの物語 [#Mitama_Past]
+01月:[[一振り目 ｢うたたねの剣｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying01]]
+02月:[[二振り目 ｢未熟な魔導書｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying02]]
+03月:[[三振り目 ｢意地っ張りな鉤爪｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying03]]
+04月:[[四振り目 ｢忠義の短剣｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying04]]
+05月:[[五振り目「生真面目な鎌」>Quest/Season/MysteriousAndWeaponsWorkshopFlying05]]
+06月:[[六振り目「とこしえの槍」>Quest/Season/MysteriousAndWeaponsWorkshopFlying06]]
+07月:[[七振り目「きらめきの楽器」>Quest/Season/MysteriousAndWeaponsWorkshopFlying07]]
+08月:[[八振り目「無鉄砲な刺剣」>Quest/Season/MysteriousAndWeaponsWorkshopFlying08]]
+09月:[[九振り目「めざめの大砲」>Quest/Season/MysteriousAndWeaponsWorkshopFlying09]]
+10月:[[十振り目「家族想いの鞭」>Quest/Season/MysteriousAndWeaponsWorkshopFlying10]]
+11月:[[十一振り目「壊れかけの弓」>Quest/Season/MysteriousAndWeaponsWorkshopFlying11]]
+
+**イベント内容 [#Mitama_Event]
+[[過去の通年イベント>Quest/Season/Log#yearround]]の様に選択肢によってイベント内分岐があります。（参考：[[公式ブログ>http://eco-blog.livedoor.biz/archives/52034437.html]]）。
++アップタウン･黒の聖堂前にある噴水の傍に居る、｢ステラ｣に話しかけてイベント開始。
+※11月分が終わっていないキャラは「ルチフェロ」になっているので、まず11月分を終わらせる。
++アルティの工房でステラかライに話しかける。
+--ライで始まるのは不具合かもしれない。
+ライ以外の御魂に話しかけると各々にイベント開始前の会話がある。
++イベントマップに飛ばされるので、そこにいる「ヒスイ」か「ステラ」に話しかける。「誰かのハンマー」入手。
++アルティの工房に戻されるので、「誰かのハンマー」を装備してから、工房に居るNPCのうちの誰かに話しかける。
++キャラクターのこれまでのイベントの方向性で選択肢が変わる。
+--自力状態の場合→&color(red){「真剣に作品と向き合う姿」};のみ
+--協力状態の場合→&color(blue){「御魂たちの中で微笑む姿」};のみ
+--中庸状態の場合→&color(red){「真剣に作品と向き合う姿」};か&color(blue){「御魂たちの中で微笑む姿」};
++一旦アップタウンに戻されるので、もう一度アルティの工房に入り、NPCのうちの誰かに話しかける。
+--''｢ヒスイの首飾り（※）｣''（※は赤・黒・白の全3色、うち1個を選択）、''｢[[思い出のパレット:http://eco.acronia.net/itemdb/#id=436]]｣''、''思い出のキャンバス（※）''（「真剣に作品と向き合う姿」を選んだ場合は赤、「御魂たちの中で微笑む姿」を選んだ場合は青）入手。
+
+**エピローグ（十三振り目 「空飛ぶ工房とフシギな武器」） [#Mitama_Epilogue]
+アルティの工房にすべての御魂12体が揃っている場合
++アルティの工房に入り、「アルティ」に話しかけると諸国行脚の旅に出るので飛ばされた先々にいる御魂に話しかける。
++アルティの工房に戻り、「アルティ」に話しかける。
+--''｢アルティから貰った箱｣''、&color(red){''「見習い冒険者・アルティ｣''};（十二振り目の選択で「真剣に作品と向き合う姿」を選んだ場合）か&color(blue){''「みんなの鍛冶屋・アルティ｣''};（「御魂たちの中で微笑む姿」を選んだ場合）入手。
+--&color(red){''｢アルティから貰った箱｣''を開けると、''「アルティの工房」''（飛空庭の家、重量300、容量200）を入手するので重量・容量オーバーに注意。};
+
+-以降ヒスイがEXイベントチケットの交換を受け付ける。
+-御魂が揃っていない場合は、｢アルティ｣に｢[[思い出のパレット>http://eco.acronia.net/itemdb/#id=436]]｣か「[[ＥＸイベントチケット>http://eco.acronia.net/itemdb/#id=285]]」を渡して御魂を呼び出すことでエピローグを開始できる。
+-上記方法で御魂を呼び出して揃えた場合でも、エピローグ報酬に差はない。
+-&color(red){''「見習い冒険者・アルティ｣''};か&color(blue){''「みんなの鍛冶屋・アルティ｣''};か''「メルティ」''を装備した状態でくじらダンジョンのハガンに話しかけると''｢メルティのおたま｣''(1個)入手。
+
+**アルティの工房 [#Mitama_Arti]
+
+***EXイベント ｢怠惰のまくら｣入手 [#EX_Event_Mitama]
+-上記のイベントをクリアした後、エピローグが済んだキャラはヒスイ、御魂が揃っていないキャラはアルティに話しかけると
+｢[[EXイベントチケット:http://eco.acronia.net/itemdb/#id=285]]｣ 3枚と交換で''｢怠惰のまくら (※)｣''(※は緑・赤・青の全3色、うち1個を選択)を入手できる。
+--イベント期間終了後でも交換可能。
+
+***思い出のパレット [#Mitama_Palette_of_memories]
+アルティの工房にいる｢アルティ｣に｢[[思い出のパレット:http://eco.acronia.net/itemdb/#id=436]]｣か「[[ＥＸイベントチケット:http://eco.acronia.net/itemdb/#id=285]]」1枚を渡すと、以前のイベントで登場した御魂とロアを呼び出す事が出来る。
+リーリエとヒスイは、イベントで揃うので呼び出せない。
+
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~イベント|~モチーフ|>|~呼んでもらえる|h
+|~|~|~御魂|~ロア|
+|RIGHT:|CENTER:|LEFT:|LEFT:|c
+|一振り目|両手剣|ミコト|アルカード･ロア|
+|二振り目|本|メイ|清姫･ロア|
+|三振り目|爪|ライ|ル･フェイ･ロア|
+|四振り目|短剣|キリエ|バステト･ロア|
+|五振り目|鎌|セレス|キャプテンキッド･ロア|
+|六振り目|槍|ルリ|玉藻･ロア|
+|七振り目|楽器|フォルテ|ローレライ･ロア|
+|八振り目|レイピア|エリーゼ|パラケルスス･ロア|
+|九振り目|ライフル|アリア|ワーウルフ･ロア|
+|十振り目|鞭|ナナイ|メフィストフェレス･ロア|
+
+**空飛ぶ工房とフシギな武器 関連コメント欄 [#Mitama_Comment]
+#pcomment(,20)

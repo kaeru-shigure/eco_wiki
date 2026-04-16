@@ -1,0 +1,17 @@
+# ドロップ率検証/スペルキャスター系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[人間知識>ドロップ率検証#lb6d67cf]]
+
+***インキュバス [#d3854255]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|上等なマジックキャンディー|紙|マジックポーション|ドクロ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|206個（51.50％）|143個（35.75％）|40個（10.00％）|9個（2.25％）|2個（0.50％）|
+|知識あり（400体）|183個（45.75％）|177個（44.25％）|36個（9.00％）|3個（0.75％）|1個（0.25％）|
+
+***スペルミリタント [#v21de09d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|上等なマジックキャンディー|紙|マジックポーション|お札|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（500体）|239個（47.80％）|208個（41.60％）|50個（10.00％）|2個（0.40％）|1個（0.20％）|

@@ -1,0 +1,17 @@
+# ドロップ率検証/モーモー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***モーモー [#g316dd39]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミルク|革|牛革|サーロイン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）&br;YYYY/MM/DD検証|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）&br;2009/07/18検証|56個（28.00％）|81個（40.50％）|0個（0.00％）|0個（0.00％）|63個（31.50％）|
+
+***ジャージーモーモー [#g316dd39]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミルク|革|牛革|サーロイン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）&br;YYYY/MM/DD検証|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（5000体）&br;2014/01/24検証|2000個（40.00％）|2314個（46.28％）|663個（13.26％）|75個（1.50％）|10個（0.20％）|

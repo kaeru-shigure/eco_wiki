@@ -1,0 +1,31 @@
+# ドロップ率検証/コッコー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鳥知識>ドロップ率検証#kd456d9b]]
+
+***コッコー [#be0ea224]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|卵|コッコーの羽|力の結晶|破れた魔法書|ガーネット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（669体）|477個（71.30％）|116個（17.34％）|72個（10.76％）|0個（0.00％）|4個（0.60％）|0個（0.00％）|
+|知識あり（7290体）|4697個（64.43％）|1616個（22.16％）|831個（11.39％）|1個（0.01％）|125個（1.71％）|2個（0.02％）|
+
+***コケトリス [#k428e07e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|コケトリスの羽|上等な肉|卵|コケトリスの瞳|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（800体）|333個（41.63％）|187個（23.38％）|81個（10.13％）|12個（1.50％）|187個（23.38％）|
+
+***バジリコッケ [#ma9303f2]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|上等な肉|コケトリスの羽|高級卵|カビ|サーロイン|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|33個（33.00％）|41個（41.00％）|20個（20.00％）|4個（4.00％）|2個（2.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（300体）|99個（33.00％）|116個（38.67％）|54個（18.00％）|15個（5.00％）|3個（1.00％）|10個（3.33％）|3個（1.00％）|
+
+***ジャイアントコッケー [#u10b9181]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||コケトリスの瞳|インペリアルトパーズ|羽マスク|スタンプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（81体）|72個（88.89％）|4個（4.94％）|2個（2.47％）|3個（3.70％）|
+|知識あり（10体）|10個（100.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

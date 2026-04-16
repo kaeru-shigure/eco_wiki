@@ -1,0 +1,43 @@
+# Skill/Druid/Table
+
+//-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-パッシブスキル＝''&color(blue){P};''
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+☆:必須クラス
+◎:取得推奨
+○:あると便利
+△:限定状況でのみ役に立つ
+×:全く役に立たない
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #ドルイド>Dungeon/InfiniteCorridorAbyssSkill#r9d85c8c]]''
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+
+|~Job&br;Lv|~名称|~略称|~属&br;性|~Max&br;Lv|~消費MP&br;消費SP|~目標|~射程|~効果|>|~PT評価|~コメント|h
+|~|~|~|~|~|~|~|~|~|~少数|~多数|~|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|CENTER|CENTER|LEFT:|c
+|~1|[[フードファイター>../Explanation#FoodFighter]]|FF||5|''&color(blue){P};''|''&color(blue){P};''||食べ物の効果を上昇させる&br;ジュース・ポーションには効果がない|×|×|効果の高く入手しやすい食べ物が実装されたが羽のあるドルには不要|
+|~1|[[封印>../Explanation#Seal]]|||3|MP:20 SP:6|単体|5|対象の物理系スキルを一定時間使用不可にする&br;ディレイ・詠唱なし。|△|△|使い勝手は優秀で特定場面で有効。狩場と要相談|
+|~3|BGCOLOR(#e9ffff):[[光の契約>../Explanation#HolyContract]]|||3|''&color(blue){P};''|''&color(blue){P};''||自身の付与される光属性の上限値を上昇|△|×|ホーリーウェポンとセットで。&br;ドル自身が闇属性モンスターを攻撃する時に僅かでも攻撃力を上げたいなら。|
+|~5|[[死霊分析>../Explanation#GhostAnalysis]]|||3||単体|3|成功するとより多くのアイテムを採取することができる|△|△|死霊モンスターにレアドロップが少ない|
+|~5|[[フラッシュライト>../Explanation#FlashLight]]|FL|BGCOLOR(#fffacd):光|5|5|地面を中心にした円|6|マップに光源を設置、周囲の敵味方の近距離命中率低下|△|△|設置系スキルの妨害になる。&br;設置系攻撃スキル([[ポイズンマーシュ>Skill/Enchanter/Explanation#poisonmarsh]]等）の攻撃を抑制できる点では優秀。&br;SU系の攻撃スキルと干渉するため、使用の際は要相談。演習では○|
+|~8|[[アンデッドダメージ上昇>../Explanation#pbf2e331]]|||5|''&color(blue){P};''|''&color(blue){P};''||アンデッドを対象として%%物理%%攻撃を行った場合に&br;%%物理%%攻撃のダメージを上昇させる|△|△|魔法攻撃のダメージも上昇。ターンアンデッドのダメージは増えない。|
+|~10|BGCOLOR(#e9ffff):[[ホーリーパワーサークル>../Explanation#HolyPowerCircle]]|HPC|BGCOLOR(#fffacd):光|5|12*SkillLv|地面を中心にした円|6|地面の広い範囲に一時的に光の力を宿らせる|×|△|サンライトシャワー使用目的なら必須。|
+|~13|[[ディフィートカース>../Explanation#DefeatCurse]]||BGCOLOR(#fffacd):光|3|18+SkillLv×12|単体|5|%%アンデッドの魔法抵抗力を一定確率で減少させる%%→光属性の攻撃魔法|◎|△|ホーリーライトより高威力。&br;常に攻撃しないのなら×。|
+|~15|BGCOLOR(#f0f8ff):[[サンライトシャワー>../Explanation#SunLightShower]]|SnS|BGCOLOR(#fffacd):光|5|5+SkillLv×5|地面を中心にした円|5|指定範囲が光属性の場合、範囲内のPTメンバーのHP回復。|×|△|原則HPCが必要。|
+|~18|[[ピュニティブライト>../Explanation#PunitiveLight]]|||3|SP:20|単体|5|クリティカル力,クリティカル回避力を減少&br;一定確率で減少させる。Lvにより成功率が変化する|◯|◯|クリティカル力やクリティカル回避力の高い敵でなければ効果は薄い。|
+|~20|BGCOLOR(#f0f8ff):''[[アレス>../Explanation#Ares]]''||BGCOLOR(#fffacd):光|10|18+SkillLv×2|単体|5|HPと状態異常の回復&br;基本的な状態異常をすべて一定確率で回復する&br;[[サルベイション>Skill/Cardinal/Explanation#skill12]]の状態異常回復確率と回復量に影響する。|☆|☆|1次職のキュア取得していると、状態異常治療率が上がります。|
+|~23|[[クレアボヤンス>../Explanation#Clairvoyance]]|||1|30|自分||隠れてる対象の姿を相手に悟られずに見る。|×|×|演習では☆|
+|~25|BGCOLOR(#f0f8ff):''[[ホーリーフェザー>../Explanation#HolyFeather]]''|HF･羽|BGCOLOR(#fffacd):光|5|4+SkillLv×8|自分を中心とした円||HP/MP/SP回復力向上・MP/SP自然回復状態付与&br;PTメンバーのみ|☆|☆||
+|~25|[[封魔>../Explanation#SealMagic]]|||3|MP:20 SP:6|単体||魔法系スキルの一定時間使用不可&br;対象の魔法系スキルを一定時間使用不可にする|△|△|封印と同様に特定場面で有効だが、長いディレイのため非常に使いづらい。|
+|~28|BGCOLOR(#fffafa):''[[ラウズボディ>../Explanation#RouseBody]]''|||5|10+SkillLv×2|単体|3|対象の体力を上昇させる&br;プレイヤーの場合は STR、VIT、AGI&br;パートナーの場合は 物理攻撃力、近距離回避力、物理防御力を上昇する|☆|◎|ディビリテイトを受けた際に打ち消すことができる。&br;2012/8/23のUPDATEで効果時間が大幅上昇。|
+|~30|BGCOLOR(#e9ffff):[[ホーリーライズ>../Explanation#HolyRise]]|HR|BGCOLOR(#fffacd):光|5|2+SkillLV×3|単体|5|一定時間対象に光の力を与える|◯|◯|ＰＴ狩りの時は、ＰＴメンバーと相談の上使うこと|
+|~30|[[光の魂>../Explanation#HolySoul]]|||1|''&color(blue){P};''|''&color(blue){P};''||憑依時、宿主の戦闘能力を上昇させる。上昇量は自身の能力に依存する、憑依落ち時も効果あり。|◯|◯||
+|~33|BGCOLOR(#fffafa):''[[ラウズメンタル>../Explanation#RouseMental]]''|||5|10+SkillLv×2|単体|3|対象の集中力を上昇させる&br;プレイヤーの場合は MAG、INT、DEX&br;パートナーの場合は 魔法攻撃力、魔法抵抗力、魔法防御力を上昇させる|☆|◎|クラッタ―の効果を打ち消せる。&br;2012/8/23のUPDATEで効果時間が大幅上昇。|
+|~35|[[憑依速度上昇>../Explanation#PossessingSpeedUp]]|||5|''&color(blue){P};''|''&color(blue){P};''||憑依にかかる時間を短縮させる|×|×|演習で憑依メインの方は◎|
+|~40|[[スパーナルレイ>../Explanation#SupernalRay]]||BGCOLOR(#fffacd):光|5|25+SkillLV×3|自分を中心とした円||自身の周囲に居るアンデッドに対し光属性攻撃を行う&br;[[ターンアンデッド>Skill/Wotes/Explanation#TurnUndead]]習得Lvにより、威力が上昇する|△|△|見た目は派手&br;範囲リフレクション剥がしとしても使える。|
+|~40|[[スペルキャンセル>../Explanation#SpellCancel]]|||1|SP:5|自分専用||詠唱中の魔法スキルをキャンセルできるようになる|×|×|これを取るなら他のスキルを取得した方が良い。|
+|~45|BGCOLOR(#f0f8ff):[[エリアヒール>../Explanation#AreaHeal]]|AH|BGCOLOR(#fffacd):光|5|10+SkillLV×7|自分を中心とした円||自身とその周囲の対象を回復させる。|×|◯|詠唱が早く対象の選択不要のため緊急用に便利。ただし範囲が狭い|
+|~47|BGCOLOR(#f0f8ff):[[プラーナ>../Explanation#Purana]]|||5|21+SkillLV×3|単体|5|全状態異常レジストスキル。|◯|◯|レジストスキルと同様にレジスト無視の状態異常スキルを防ぐことができない。|
+|~50|BGCOLOR(#f0f8ff):''[[セイクリッドエンブレイス>../Explanation#Sacredes]]''|セイク||5|125/145/165&br;/185/215|地面を中心にした円|5|指定範囲内にいる者を対象にHP大回復をさせ、HP、MP、SPの回復力上昇効果を付与させる。&br;さらに死亡した対象を蘇らせることができる。|◎|☆|範囲リザとして使用することが多い。消費大詠唱ディレイ長と制約もある。アンデッド狩りで火力としても活躍できる。|
+|~Job&br;Lv|~名称|~略称|~属&br;性|~Max&br;Lv|~消費MP&br;消費SP|~目標|~射程|~効果|~少&br;数|~多&br;数|~コメント|f

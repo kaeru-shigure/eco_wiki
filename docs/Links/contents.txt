@@ -1,0 +1,105 @@
+# Links/contents
+
+#author("2017-01-29T12:34:23+00:00","","")
+*各種リンク [#l1da1f0a]
+ 
+//URLはタイトル順に並んでいます。
+#contents
+&aname(official);
+**公式サイト [#rcb4e70d]
+-公式：[[エミル・クロニクル・オンライン:http://econline.gungho.jp/]]
+--[[資料室:http://econline.gungho.jp/gamedata/]]
+--[[開発室（実装予定一覧）:http://econline.gungho.jp/support/ecodevelopment/]]
+--[[露店取引情報:http://ecotool.gungho.jp/torihiki/]]
+-[[EMIL CHRONICLE ONLINE 公式ブログ:http://eco-blog.livedoor.biz/]]
+-[[BROCCOLI:http://www.broccoli.co.jp/]]
+-[[HEADLOCK:http://www.headlock.jp/]]
+-[[GungHo:http://www.gungho.jp/]]
+
+//-韓国公式：[[エミル・クロニクル・オンライン:http://www.ecoonline.co.kr/]]
+//-タイ公式：[[エミル・クロニクル・オンライン:http://www.eco.in.th/]]
+//-香港公式：[[エミル・クロニクル・オンライン:http://eco.gamecyber.net/hk/]]
+//-台湾公式：[[エミル・クロニクル・オンライン:http://eco.gamecyber.com.tw/]]
+//-インドネシア公式：[[エミル・クロニクル・オンライン:http://eco.wavegame.net/]]
+//-シンガポール/マレーシア公式：[[エミル・クロニクル・オンライン:http://eco.runup.com.my/]]
+//-中国公式サイト：[[エミル・クロニクル・オンライン:http://eco.zazgame.com/ecomain/public/]]
+//-[[GRAVITY:http://www.gravity.co.kr/]]
+
+**公式Twitter [#twitter]
+-公式アカウント：[[@emilchronicle:http://twitter.com/emilchronicle]]
+-公式サポートアカウント：[[@eco_support:http://twitter.com/eco_support]]
+-ECOハッシュタグ #econline
+
+**公式絵 [#tf27867c]
+敬称略
+
+***イメージイラスト [#b6645ca2]
+-[[羽々キロ:http://hanehane.net/index02.html]]
+-[[尾谷おさむ:http://rigoletto.fc2web.com/]]
+-[[関川成人 from「Production I.G」:http://www.production-ig.co.jp/]]
+-[[雀葵蘭>http://hb4.seikyou.ne.jp/home/kirouran/]]
+
+***チケット・季節絵 [#c1a37b19]
+-[[むきゅう☆:http://www.mukyu.com]]
+-[[新庄聡美:http://members.jcom.home.ne.jp/hoehoegarden/]]
+-[[ますやまけい:http://www.pandako.net]]
+-[[あさいいちこ :http://mokuren.sakura.ne.jp/~s-cowboy/]]
+-[[胡せんり:http://ebisen.biz]]
+-[[卯花つかさ:http://unotsuka.hacca.jp]]
+-[[ハザママサシ:http://geocities.yahoo.co.jp/gl/m_hazama2006/]]
+-[[藤井理乃:http://rickytick.blog72.fc2.com/]]
+-[[秋田米:http://www.akitakome.net/]]
+-[[わしみゆーこ:http://uchinon.jugem.jp/]]
+-[[白玉団子:http://dangoya.moo.jp]]
+-[[シバユウスケ:http://polyzm.mods.jp/index.html]]
+-[[ハコマチシュシュ:http://hakomachi.rojo.jp]]
+-[[神吉:http://www.galvas.net]]
+-[[ヒナユキウサ:http://fururi.cc]]
+-[[ハヅキリョウ:http://tinselempire.com]]
+-[[ノブヨシ侍 :http://www17.plala.or.jp/catworld/index.htm]]
+-[[椎名悠人:http://777.lovesick.jp]]
+-[[津々巳あや:http://karen.saiin.net/~ayairo/]]
+-[[ぐーじん:http://www.ne.jp/asahi/gu-jin/ajito/]]
+-[[加曽利りあら:http://crazy.ciao.jp]]
+-[[John Hathway:http://mots.jp/]]
+-[[雄一郎:http://kodama3.skr.jp/]]
+-[[原田ひとみ:http://blog.livedoor.jp/galapa5/]]
+-[[かわすみ:http://japonica.o0o0.jp/]]
+ 
+**ゲーム情報サイト [#vsfa0fr5]
+-[[OnlineGamer:http://www.onlinegamer.jp/game/129/]]
+-[[4Gamer.net:http://www.4gamer.net/games/020/G002086/]]
+
+**攻略情報サイト [#g9aaa72c]
+-[[Jasmin.Info:http://jasmin.sakura.ne.jp/]]
+ステータス・スキル計算機、アイテム・装備・製法DB、モンスターDB、イリスカード一覧
+-[[Irisim:http://sironeno.lix.jp/tools/irisim/]]
+イリスカードシミュレーター
+-[[Ecologie:http://ecologie.sakura.ne.jp/]]
+マップ情報
+-[[t@eco:http://www19.atpages.jp/teco/]]
+クエスト検索、アイテム入手方法検索、スキルポイント計算機
+-[[DEMICシミュレータ:http://emilchronicle.at-ninja.jp/]]
+-[[ECO New SkinList:http://ecoss.ty.land.to/skinlist.html]]
+2014/07/24のUIリニューアル以後の対応スキン情報
+
+**掲示板 [#rfd80630]
+***したらば掲示板 [#me3949ef]
+-[[エミル・クロニクル・オンライン総合掲示板>http://jbbs.livedoor.jp/game/23423/]]
+-[[新エミル・クロニクル・オンライン総合掲示板>http://jbbs.livedoor.jp/netgame/11977/]]
+
+***2ちゃんねる掲示板（ECOかエミルで検索） [#m14937cc]
+//-雑談；[[ネトゲ実況2板:http://awabi.2ch.net/ogame2/]]- 通称「本スレ」　ネタばれ注意。（解析データを扱っているためコメントアウト）
+-質問：[[ネトゲ質問板>http://kanae.2ch.net/mmoqa/]]
+
+***画像･イラストアップローダー [#xf0360f1]
+-[[ECO SSあぷろだ:http://ecoss.ty.land.to/]]
+-[[ECOおしゃれ着&飛空庭関連あぷろだ:http://ecossup.my.land.to/]]
+
+**検索 [#xd62a69d]
+-[[エミルさーち:http://emil.mmo-search.net/]] -登録型リンク集・検索
+
+**コメント欄（お勧めのサイトがありましたらこちらに） [#p40225af]
+★ Wikiからリンクして欲しい方もこちらにどうぞ。
+
+#pcomment(コメント/Links)

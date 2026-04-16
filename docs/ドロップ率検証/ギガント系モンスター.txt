@@ -1,0 +1,24 @@
+# ドロップ率検証/ギガント系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[機械知識>ドロップ率検証#gc548967]]
+
+***ギガントB1 [#o7c035cc]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||機械の破片|弾丸（ミサイル系）((ミサイル 37/12　グレネード弾 20/15))|弾丸（実包系）((実包 3/1　マグナム弾 7/6　銀弾 3/4　黄金弾 8/4))|地雷|ロボットレッグ|魔法のトランジスタ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（210体）|111個（52.86％）|57個（27.14％）|21個（10.00％）|16個（7.62％）|2個（0.95％）|3個（1.43％）|
+|知識あり（100体）|48個（48.00％）|27個（27.00％）|15個（15.00％）|8個（8.00％）|1個（1.00％）|1個（1.00％）|
+
+***ギガントG2 [#w28e64b0]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||機械の破片|弾丸（ミサイル系）((ミサイル 14/0　グレネード弾 11/0))|弾丸（実包系）((実包 5/0　マグナム弾 1/0　銀弾 0/0　黄金弾 0/0))|地雷|耐魔のトランジスタ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|52個（52.00％）|25個（25.00％）|6個（6.00％）|14個（14.00％）|3個（3.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***ギガントC4 [#f932ab7b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||機械の破片|弾丸（ミサイル系）((ミサイル 5/67　グレネード弾 20/324))|弾丸（実包系）((実包 2/53　マグナム弾 1/46　銀弾 5/49　黄金弾 4/37))|地雷|ロボットボディ|オートマチック（黒）|魔法のトランジスタ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|53個（53.00％）|25個（25.00％）|12個（12.00％）|9個（9.00％）|1個（1.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（1500体）|738個（49.20％）|391個（26.07％）|185個（12.33％）|169個（11.27％）|12個（0.80％）|3個（0.20％）|2個（0.13％）|

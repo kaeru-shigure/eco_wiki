@@ -1,0 +1,45 @@
+# ドロップ率検証/土蜘蛛系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[昆虫知識>ドロップ率検証#m2e39283]]
+
+***土蜘蛛 [#w1786b7c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|蜘蛛のワイン|糸|アラクネーの糸|丈夫な糸|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|43個（43.00％）|42個（42.00％）|13個（13.00％）|2個（2.00％）|0個（0.00％）|
+|知識あり（1268体）|560個（44.16％）|461個（36.36％）|199個（15.69％）|13個（1.03％）|35個（2.76％）|
+
+***でか蜘蛛 [#v9a5481a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|蜘蛛のワイン|糸|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（2体）|1個（50.00％）|1個（50.00％）|0個（0.00％）|
+|知識あり（21体）|11個（52.38％）|9個（42.86％）|1個（4.76％）|
+
+***タランチュラ [#g96eabed]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|蜘蛛のワイン|糸|力の結晶|アラクネーの糸|丈夫な糸|タランチュラの糸|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|59個（59.00％）|27個（27.00％）|13個（13.00％）|0個（0.00％）|1個（1.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（814体）|381個（46.81％）|232個（28.50％）|150個（18.43％）|2個（0.25％）|13個（1.60％）|35個（4.30％）|1個（0.12％）|
+
+***般若蜘蛛 [#v7e8f5d7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|蜘蛛のワイン|糸|丈夫な糸|アラクネーの糸|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|60個（60.00％）|25個（25.00％）|9個（9.00％）|5個（5.00％）|1個（1.00％）|
+
+***コガネグモ（バオバブの森） [#s4fdc3fd]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|青汁|ハーブのど飴|梅のど飴|鉛のナゲット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|22個（22.00％）|39個（39.00％）|18個（18.00％）|11個（11.00％）|10個（10.00％）|
+
+***コガネグモ（バオバブの森（夜）） [#k1ecbb93]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|青汁|琥珀|蜘蛛の白ワイン|金のナゲット|クリティカルの結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|18個（18.00％）|28個（28.00％）|24個（24.00％）|16個（16.00％）|13個（13.00％）|1個（1.00％）|

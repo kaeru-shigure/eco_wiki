@@ -1,0 +1,24 @@
+# ドロップ率検証/モックー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[精霊知識>ドロップ率検証#cf2c3a58]]
+
+***モックー [#b06a1473]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|釘|ブリキの部品|鋲|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|58個（58.00％）|33個（33.00％）|8個（8.00％）|1個（1.00％）|
+|知識あり（100体）|44個（44.00％）|40個（40.00％）|16個（16.00％）|0個（0.00％）|
+
+***アイスドール [#kd3ec654]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|スノードロップ|流氷詰めの缶|魔力の結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|59個（59.00％）|24個（24.00％）|16個（16.00％）|1個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***コダマー [#ka51f573]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|釘|ブリキの部品|いのちの結晶|サンドペーパー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（135体）|67個（49.63％）|49個（36.30％）|18個（13.33％）|1個（0.74％）|0個（0.00％）|
+|知識あり（100体）|43個（43.00％）|33個（33.00％）|19個（19.00％）|0個（0.00％）|5個（5.00％）|

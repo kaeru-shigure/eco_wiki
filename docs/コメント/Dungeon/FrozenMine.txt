@@ -1,0 +1,5 @@
+# コメント/Dungeon/FrozenMine
+
+[[Dungeon/FrozenMine]]
+
+-氷結の坑道B1F --  &new{2012-04-23 (月) 11:26:44};

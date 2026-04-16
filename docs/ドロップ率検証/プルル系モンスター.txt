@@ -1,0 +1,80 @@
+# ドロップ率検証/プルル系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***プルル [#h3d5da6b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ゼリコポーション|ゼリコ|ソーダ水|青ゼリコ|ロウ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（800体）|2個（0.25％）|381個（47.63％）|331個（41.38％）|83個（10.38％）|3個（0.38％）|0個（0.00％）|
+|知識あり（2316体）|0個（0.00％）|1105個（47.71％）|961個（41.49％）|220個（9.50％）|23個（0.99％）|7個（0.30％）|
+
+***ミルクピッチャー [#f89505ca]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミルク|バター|白ゼリコ|破れた魔法書|カッパーメダル|魔力の結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1874体）|954個（50.91％）|654個（34.90％）|251個（13.39％）|3個（0.16％）|11個（0.59％）|0個（0.00％）|1個（0.05％）|
+|知識あり（3650体）|1739個（47.64％）|1305個（35.75％）|473個（12.96％）|21個（0.58％）|109個（2.99％）|1個（0.03％）|2個（0.05％）|
+
+***アンバージェリー [#qddbdaca]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ゼリコ|氷砂糖|いのちの結晶|橙色のゼリコ|砂糖|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1139体）|600個（52.68％）|362個（31.78％）|165個（14.49％）|1個（0.09％）|10個（0.88％）|1個（0.09％）|
+|知識あり（1465体）|646個（44.10％）|388個（26.48％）|157個（10.72％）|2個（0.14％）|12個（0.82％）|260個（17.75％）|
+
+***クール [#w467c699]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|にごった水|ミネラルウォーター|破れた魔法書|水色のゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1600体）|810個（50.63％）|615個（38.44％）|146個（9.13％）|29個（1.81％）|0個（0.00％）|
+|知識あり（5613体）|2681個（47.76％）|2268個（40.41％）|590個（10.51％）|64個（1.14％）|10個（0.18％）|
+
+***イエロープルル [#z88b1979]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ゼリコ|ロウ|蜂蜜|バター|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1400体）|764個（54.57％）|492個（35.14％）|129個（9.21％）|15個（1.07％）|0個（0.00％）|
+|知識あり（700体）|341個（48.71％）|223個（31.86％）|69個（9.86％）|4個（0.57％）|63個（9.00％）|
+
+***コールタール [#ce6aa6bf]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|オイル|マシンオイル|黒ゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（403体）|156個（38.70％）|182個（45.16％）|60個（14.88％）|5個（1.24％）|
+|知識あり（175体）|57個（32.57％）|87個（49.71％）|28個（16.00％）|3個（1.71％）|
+
+***グリーンプルル [#k0e05576]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|青汁|毒消しの実|魔力の結晶|緑のゼリコ|四つ葉のクローバー|グリーンプルルスタンプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（6539体）|3382個（51.72％）|2117個（32.37％）|965個（14.76％）|8個（0.12％）|67個（1.02％）|0個（0.00％）|0個（0.00％）|
+|知識あり（8400体）|4114個（48.97％）|2622個（31.21％）|1538個（18.30％）|20個（0.23％）|96個（1.14％）|7個（0.08％）|1個（0.01％）|
+
+***メイジプルル [#o91be8ec]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マナウォーター|ゼリコ|紫のゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（550体）|273個（49.64％）|222個（40.36％）|51個（9.27％）|4個（0.73％）|
+|知識あり（100体）|47個（47.00％）|39個（39.00％）|12個（12.00％）|2個（2.00％）|
+
+***プチメタリカ [#f05e8645]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|鉄のナゲット|銀のナゲット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（8体）|1個（12.50％）|4個（50.00％）|3個（37.50％）|
+|知識あり（12体）|5個（41.67％）|6個（50.00％）|1個（8.33％）|
+
+***オーカージェリー [#u625670c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ゼリコ|ロウ|ワックス|赤ゼリコ|スムージーワックス|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|185個（46.25％）|156個（39.00％）|51個（12.75％）|8個（2.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（1000体）|418個（41.80％）|439個（43.90％）|128個（12.80％）|13個（1.30％）|1個（0.10％）|1個（0.10％）|
+
+***迷子のメタリカ [#r4706f14]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|鉄のナゲット|銀のナゲット|金のナゲット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（203体）|91個（44.83％）|91個（44.83％）|20個（9.85％）|1個（0.49％）|
+|知識あり（2体）|2個（100.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

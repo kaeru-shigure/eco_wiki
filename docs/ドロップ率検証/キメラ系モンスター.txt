@@ -1,0 +1,10 @@
+# ドロップ率検証/キメラ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鳥知識>ドロップ率検証#kd456d9b]]
+
+***キメラ [#jb7ee868]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|くんせい肉|キメラのつばさ|キメラのとさか|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（600体）|310個（51.67％）|171個（28.50％）|96個（16.00％）|23個（3.83％）|

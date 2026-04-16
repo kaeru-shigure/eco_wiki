@@ -1,0 +1,215 @@
+# Hairsalon/2012F
+
+#author("2017-04-07T17:20:24+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*女性ヘアサロン（2012年） [#Hairsalon2012F]
+#contents
+
+**黒き翼の紹介状　（ECOくじ「チェック＆ウィング」） [#check-wing]
+|~ショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/blackwing_short.jpg,nolink,661x311);|
+|~ロング（カチューシャなし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/blackwing_long1.jpg,nolink,661x311);|
+|~ロング（カチューシャあり）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/blackwing_long2.jpg,nolink,661x311);|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/CaW_AccColor.jpg,nolink,633x864,ヘアカラー・カチューシャの色一覧);|
+
+**ムツキの紹介状　（ECOくじ「初春の巫女」） [#Muthuki]
+|~ムツキのストレート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/mutuki_st2.jpg,nolink,832x311);|
+|~ムツキのおさげ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mutuki_osage.jpg,nolink,661x311);|
+
+**忠犬の紹介状　（ECOくじ「もこもこファーコーデ」） [#furcoordinate]
+|~垂れ耳ボブ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/chuken_taremimi.jpg,nolink,832x311);|
+|~立ち耳ウェーブ（耳無し）|
+|CENTER:画像無し|
+|~立ち耳ウェーブ（耳有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/tatimimi1_1.jpg,nolink,661x311);|
+
+**キサラギの紹介状　（ECOくじ「令月の盗賊」） [#kisaragi]
+|~キサラギの三つ編み|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kisaragi_mitsuami.jpg,nolink,678x311);|
+|~キサラギのロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kisaragi_long.JPG,nolink,832x311);|
+
+**萌芽の紹介状　（ECOくじ「萌黄色のゆりかご」） [#houga]
+|~ぴこぴこロング|
+|CENTER:画像無し|
+|~めばえのショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/mebae_s.jpg,nolink,832x311);|
+
+**ヤヨイの紹介状　（ECOくじ「花月の桃源郷」） [#yayoi]
+|~ヤヨイのロングみつあみ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yayoi_mituami_f.jpg,nolink,836x311);|
+|~ヤヨイのロング（ポニーテール・有）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yayoinolong_p.jpg,nolink,661x311);|
+|~ヤヨイのロング（ポニーテール・無）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yayoi_long_ponyless.jpg,nolink,661x311);|
+
+**あやかしの紹介状　（ECOくじ「春色御伽草子」） [#haruotogi]
+|~ローキーとおそろいロング（耳あり）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/l_osoroilong_mimi.jpg,nolink,832x311);|
+|~ローキーとおそろいロング（耳なし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/l_osoroilong.jpg,nolink,832x311);|
+|~みづら結い|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/midura.jpg,nolink,661x311);|
+
+**ウヅキの紹介状　（ECOくじ「陰月の契約者」） [#uduki]
+|~ウヅキとおそろいポニテ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/uduki_ponite.jpg,nolink,678x311);|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/uduki_ponite_colors.jpg,nolink,633x864,ヘアカラー･グラデーション一覧);|
+|~スタイリッシュツンツンヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/stylish.jpg,nolink,661x311);|
+
+**やんちゃ娘の紹介状　（ECOくじ「ノーティ・スクールガールズ」） [#baruru]
+|~バルルとおそろいセミロング（サイドテール無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/baruru_n.png,nolink,661x311);|
+|~バルルとおそろいセミロング（左サイドテール）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/baruru_l.png,nolink,661x311);|
+|~バルルとおそろいセミロング（右サイドテール）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/baruru_r.png,nolink,661x311);|
+|~やんちゃショート（サイドテール無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yancha_short1.jpg,nolink,661x311);|
+|~やんちゃショート（左サイドテール）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yancha_short2.jpg,nolink,661x311);|
+|~やんちゃショート（右サイドテール）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yancha_short3.jpg,nolink,661x311);|
+
+**サツキの紹介状　（ECOくじ「雨月の妖精物語」） [#satuki]
+|~サツキとおそろいツインテール（花飾り無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/s_osoroitwintail2.jpg,nolink,717x319);|
+|~サツキとおそろいツインテール（花飾り有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/s_osoroitwintail.jpg,nolink,698x317);|
+|~ワイルドウェーブショート（あごひげ無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/wildwave.jpg,nolink,661x311);|
+|~ワイルドウェーブショート（あごひげ有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/wildwave_2.jpg,nolink,661x311);|
+
+**潮風の紹介状　（ECOくじ「エピック オブ ロマンス」） [#epic]
+|~シーホースとおそろいツインテール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/shiho.png,nolink,688x304);|
+|~三つ編み巻きつけショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/mituami_short.jpg,nolink,661x311);|
+
+**ミナヅキの紹介状　（ECOくじ「水月の待ち人」） [#minaduki]
+|~紳士風ポニテ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/minaduki_shinshiponite.jpg,nolink,661x311);|
+|~ミナヅキとおそろいロングヘアー（ベールなし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/mina_minalong.jpg,nolink,832x311);|
+|~ミナヅキとおそろいロングヘアー（ベールあり）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/mina_minalong2.jpg,nolink,832x311);|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/minalong_color.jpg,nolink,633x864,ヘアカラー・リボンとベールの色一覧);|
+
+**南極の紹介状　（ECOくじ「ピングアクアリウム」） [#penguin]
+|~ペペンとおそろいショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/nankyoku_ppn.jpg,nolink,661x311);|
+|~三つ編みツインテール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/nankyoku_twin.jpg,nolink,661x311);|
+|ヘアカラー・リボンの色一覧|
+
+**フミツキの紹介状　（ECOくじ「涼月の姫君」） [#fumitsuki]
+|~フミツキとおそろいツーサイドアップ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/fumi.jpg,nolink,661x311);|
+|~ウェーブオールバック|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/allback.jpg,nolink,661x311);|
+
+**アラビアンナイトの紹介状　（ECOくじ「スカーレット・フレイム」） [#ArabianNights]
+|~サラマンダーとおそろいおさげ（髪飾り・有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/saramanda_kazari.jpg,nolink,661x311);|
+|~サラマンダーとおそろいおさげ（髪飾り・無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/araosanasi.jpg,nolink,800x698);|
+|~ターバン付きショート（ターバン・有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/arabian_short1.jpg,nolink,661x311);|
+|~ターバン付きショート（ターバン・無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/arabian_short2.jpg,nolink,661x311);|
+
+**ハヅキの紹介状　（ECOくじ「清月の電脳幻想」） [#haduki]
+|~ハヅキとおそろいミディアム|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/haduki_osoroi.jpg,nolink,661x311);|
+|~サラサラロングツインテ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/haduki_twinte.jpg,nolink,1058x339);|
+
+**おかしな紹介状　（ECOくじ「マッド・ティータイム」）[#madteatime]
+|~ミニー・ドゥとおそろいポニテ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/Minnie_ponytail.jpg,nolink,661x311);|
+|~くるふわショートカットアレンジ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kurufuwa_short.jpg,nolink,661x311);|
+
+**キクヅキの紹介状　（ECOくじ「詠月の郷愁」） [#kikuduki]
+|~キクヅキとおそろいボブ（耳あり）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kikuduki%28bobu_Ear%29.png,nolink,655x306);|
+|~キクヅキとおそろいボブ（耳なし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kikuduki%28bobu_NoEar%29.jpg,nolink,661x305);|
+|~ナガツキとおそろいロング（耳あり）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/nagatsuki_ari.jpg,nolink,930x277);|
+|~ナガツキとおそろいロング（耳なし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/nagatsuki_nashi.jpg,nolink,569x512);|
+
+**AMNESIAの紹介状　（ECOくじ「AMNESIA」） [#amnesia]
+|~シンの髪型|
+|CENTER:画像募集中|
+|~ヒロインの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/amnesia_heroin.jpg,nolink,832x311);|
+
+**使い魔の紹介状　（ECOくじ「プリティ・サーヴァント！」） [#prettyservant]
+|~白い使い魔とおそろい（ツインテ有り） &ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/tukaima_color.jpg,nolink,633x864,ヘアカラー一覧);|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/tukaima_twin.png,nolink,833x311);|
+|~白い使い魔とおそろい（ツインテ無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/tukaima_short.png,nolink,661x311);|
+|~ゆるゆるロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/tukaima_long.png,nolink,902x601);|
+
+**カミア・カンナの紹介状　（ECOくじ「鏡祭月の双子」） [#kamikan]
+|~カミアとおそろい|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kamia_osoroi.jpg,nolink,661x311);|
+|~カンナとおそろい|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kanna.jpg,nolink,832x310);|
+|~アシンメトリ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/kamikan_asime.jpg,nolink,832x311);|
+
+**スチームパンクの紹介状 　（ECOくじ「スチームパンク」） [#Steampunk]
+|~オートメディックとおそろいウルフヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/otome_wolf.png,nolink,661x311);|
+|~スチームパンクポニーテール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/steampunkpony.jpg,nolink,656x346);|
+
+**シモツキの紹介状 　（ECOくじ「天正月の赤頭巾」） [#simotuki]
+|~シモツキとおそろいロングロール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/simotuki_lc1.jpg,nolink,832x311);|
+|~シモツキとおそろいロングロール（オオカミ耳と赤頭巾有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/simotuki_lc2.jpg,nolink,832x311);|
+|~シモツキとおそろいロングロール（赤頭巾有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/simotuki_lc3.jpg,nolink,832x311);|
+|~シモツキとおそろいロングロール（オオカミ耳有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/simotuki_lc4.jpg,nolink,832x311);|
+|~シモツキとおそろいロング編み上げ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/simotuki_amiage1.jpg,nolink,786x303);|
+|~シモツキとおそろいロング編み上げ（オオカミ耳有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/simotuki_amiage2.jpg,nolink,786x303);|
+
+**闇夜の紹介状　（ECOくじ「ウィキッド・ナイトパレード」） [#Wicked]
+|~デスとおそろいツインテール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yamiyo_osoroi.png,nolink,661x311);|
+|~片目のショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/yamiyo_katame.jpg,nolink,661x311);|
+
+**h.NAOTOの紹介状　（ECOくじ「ECO×h.NAOTO」） [#naoto]
+|~男の子向け|
+|CENTER:画像募集中|
+|~女の子向け|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/hNAOTO.png,nolink,661x311);|
+
+**ロウゲツの紹介状　（ECOくじ「臘月の守り手」） [#rougetu]
+|~ロウゲツとおそろいショートカット|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/rougetu_osoroi.png,nolink,661x311);|
+|~アシメロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2012F/rougetu_asimelong.jpg,nolink,832x311);|
+
+[ [[ トップメニュー >#TopMenu]] ][ [[ 2013年へ続く >Hairsalon/2013F]] ]

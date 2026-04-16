@@ -1,0 +1,89 @@
+# Quest/Season/MysteriousAndWeaponsWorkshopFlying
+
+#author("2016-06-24T06:39:38+00:00","","")
+*空飛ぶ工房とフシギな武器[#Mitama_Top]
+RIGHT:&edit(,noicon){MysteriousAndWeaponsWorkshopFlyingを編集};
+#contents
+
+-期間： COLOR(red):''2015年1月29日(木)定期メンテナンス終了後～''
+
+**公式の告知 [#Mitama_Press]
+空飛ぶ工房とフシギな武器
+http://econline.gungho.jp/special/mitama/
+
+**物語 [#Mitama_Past]
+01月:[[一振り目 ｢うたたねの剣｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying01]]
+02月:[[二振り目 ｢未熟な魔導書｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying02]]
+03月:[[三振り目 ｢意地っ張りな鉤爪｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying03]]
+04月:[[四振り目 ｢忠義の短剣｣>Quest/Season/MysteriousAndWeaponsWorkshopFlying04]]
+05月:[[五振り目「生真面目な鎌」>Quest/Season/MysteriousAndWeaponsWorkshopFlying05]]
+06月:[[六振り目「とこしえの槍」>Quest/Season/MysteriousAndWeaponsWorkshopFlying06]]
+07月:[[七振り目「きらめきの楽器」>Quest/Season/MysteriousAndWeaponsWorkshopFlying07]]
+08月:[[八振り目「無鉄砲な刺剣」>Quest/Season/MysteriousAndWeaponsWorkshopFlying08]]
+09月:[[九振り目「めざめの大砲」>Quest/Season/MysteriousAndWeaponsWorkshopFlying09]]
+10月:[[十振り目「家族想いの鞭」>Quest/Season/MysteriousAndWeaponsWorkshopFlying10]]
+11月:[[十一振り目「壊れかけの弓」>Quest/Season/MysteriousAndWeaponsWorkshopFlying11]]
+12月:[[十二振り目 「救済の杖」>Quest/Season/MysteriousAndWeaponsWorkshopFlying12]]
+12月:[[十三振り目 「空飛ぶ工房とフシギな武器」>Quest/Season/MysteriousAndWeaponsWorkshopFlying12#Mitama_Epilogue]]
+
+**イベント内容 [#Mitama_Event]
+[[過去の通年イベント>Quest/Season/Log#yearround]]の様に選択肢によってイベント内分岐があります。（参考：[[公式ブログ>http://eco-blog.livedoor.biz/archives/52034437.html]]）。
++アップタウン･黒の聖堂前にある噴水の傍に居る、｢アルカード｣に話しかけてイベント開始。
+--2014年時に開催されたイベントを途中まで進行している場合、続きからになります。
+「思い出のパレット」を使用して御魂とロアを呼び出していた場合、該当のイベントは未完了扱いになります。
++一振り目～十三振り目のイベントを順番に行う。次の月のイベントに進むにはロアと会話する必要があります。
+--二振り目のイベントへは、アルティの工房の「御魂・ミコト」に話しかけ「アルカードと話す」を選択すると進行します。
+--三振り目以降のイベントへは、アルティの工房の操舵輪の近くにいるロアに話しかけると進行します。
++一話完了する度にそのイベントに応じたアイテムを一色選んで入手できます。
+--二振り目～十二振り目は「ＥＣＯ券」が追加で入手できます。
+--十二振り目の「思い出のキャンバス」と十三振り目の「アルティ」は、十一振り目までのイベント中で選んだ選択肢によってカラーが決定されます。
+分岐は自力ルート（赤・見習い冒険者）もしくは協力ルート（青・みんなの鍛冶屋）の2つです。選択肢の詳細は2014年の各イベントページを参照してください。
+
+
+-各話報酬一覧
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~イベント|品名|カラー|ＥＣＯ券|h
+|一振り目|ミコトの帽子|白･黒･赤|0|
+|二振り目|メイのリボン|赤･黄･黒|1|
+|三振り目|ライのつの|赤･黄･黒|~|
+|四振り目|キリエのくせ毛|無し|~|
+|五振り目|セレスの角飾り|黒･白･青|~|
+|六振り目|とこしえの髪飾り|青･赤･黒|~|
+|七振り目|スタァの帽子|白･黒･赤･青|~|
+|八振り目|童話猫の靴|緑･赤･白黒|~|
+|九振り目|ルミナスイヤリング|白･黒･赤|~|
+|十振り目|ハートの髪飾り|水色･ピンク･黄|~|
+|十一振り目|精霊さんの耳|無し|~|
+|十二振り目|ヒスイの首飾り|赤･黒･白|~|
+|~|思い出のキャンバス|赤･青|~|
+|十三振り目|アルティ|見習い冒険者&br;みんなの鍛冶屋|0|
+|~|アルティから貰った箱&br;（中身：アルティの工房）|無し|~|
+
+**アルティの工房 [#Mitama_Arti]
+
+***EXイベントチケット品の入手 [#EX_Event_Mitama]
+-「アルティ」もしくは「ヒスイ」（十三振り目完了済の場合のみ）に話しかけると｢[[EXイベントチケット:http://eco.acronia.net/itemdb/#id=285]]｣をEXイベントチケット品と交換できます。
+完了していないイベントの品は交換できません。
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~イベント|品名|カラー|必要枚数|h
+|一振り目|ウサギクッション|白･黒･茶|3|
+|二振り目|メイのふさふさしっぽ|茶･黒･白|3|
+|三振り目|ライの羽|赤･青･白|5|
+|四振り目|ホワイトフェザー|無し|5|
+|五振り目|セレスの翼飾り|白･黒･赤|3|
+|六振り目|とこしえの円環|金･銀･黒|5|
+|七振り目|ペンライトハイパー|橙･緑･白･桃･赤･水色|2|
+|八振り目|上品な猫尻尾飾り|シャム･白･黒|3|
+|九振り目|ルミナスヘッドギア|白･赤･黒|3|
+|十振り目|いたずらっこの腕輪|薄茶･白･黒|3|
+|十一振り目|若草のペンダント|無し|3|
+|十二振り目|怠惰のまくら|緑･赤･青|3|
+
+-全て交換するのに必要なEXイベントチケット数は41枚です。
+色違いを含めて全て交換する場合は113枚必要です。
+
+***思い出のパレット [#Mitama_Palette_of_memories]
+2014年のイベントで貰った｢[[思い出のパレット:http://eco.acronia.net/itemdb/#id=436]]｣は、アルティの工房にいる｢アルティ｣または「ヒスイ」（十三振り目完了済の場合のみ）に渡すと「ＥＣＯ券」と交換できます。
+
+**空飛ぶ工房とフシギな武器 関連コメント欄 [#Mitama_Comment]
+#pcomment(,20)

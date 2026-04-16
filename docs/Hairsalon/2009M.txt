@@ -1,0 +1,104 @@
+# Hairsalon/2009M
+
+#author("2017-04-07T17:18:57+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*男性ヘアサロン（2009年） [#Hairsalon2009M]
+#contents
+
+
+**ハイカラ紹介状（ECOくじ第18弾） [#Highcolor]
+|~ボーイッシュなサラサラショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/haikaraM.jpg,nolink,572x259);|
+|~清楚なストレートロング　※つけ毛有無選択可能(一番右がつけ毛無しVer.)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/haikara_long.jpg,nolink,602x200);    &ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/haikara_long2.jpg,nolink,140x200);|
+
+**アルバイトの紹介状（ECOくじDX ver.2） [#Arbeit]
+|~清潔感のあるミディアム|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/arubit_Medium.jpg,nolink,600x150);|
+|~清潔感のあるショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/arbeit_short.jpg,nolink,580x145);|
+
+**軍式紹介状（ECOくじ第19弾） [#Gunshiki]
+|~風格あるロングおさげ&br;（ヘアカラーによるヘアゴムの色変化なし確認）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/fuukaku.jpg,nolink,591x271);|
+|~半人前ショートおさげ|
+|CENTER:画像募集中（女の子と同じ？）|
+
+**伝説の紹介状（ECOくじ「RPG」） [#Densetsu]
+|~おとぎ話の主人公風ショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/densetu_short.jpg,nolink,585x167);|
+|~おとぎ話の主人公風ロング&br;（ヘアカラーによるヘアゴムの色変化なし？）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/densetsu_long.jpg,nolink,730x200);|
+
+**愛され紹介状（ECOくじ「シンフォニックウェディング」） [#Aisare]
+|~愛されポニー|
+|CENTER:画像募集中（女の子と同じ）|
+|~ヘアカラーとリボン色の一覧図|
+|CENTER:画像募集中（女の子と同じ）|
+|~マニッシュボブ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mannish_bobed.jpg,nolink,585x150);|
+
+**北斗の紹介状（ECOくじ「北斗の拳ONLINE HEROES」） [#Hokuto]
+|~ケンシロウの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/kenshirou.jpg,nolink,150x120);|
+
+**ふたご座の紹介状☆（ECOくじ「真夏のアンコール（１２星座）」） [#FutagoStar]
+|~爽やかなショートヘア|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/itemn03.jpg,nolink,150x120);|
+
+**夏休みの紹介状（ECOくじ「スプラッシュサマー」） [#Natsuyasumi]
+|~ワイルドオールバック|
+|CENTER:画像募集中|
+|~ヘアカラーとメッシュカラー一覧図|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/wildallbackcolor.jpg,nolink,493x580);|
+|~ニードルショート|
+|CENTER:画像募集中（女の子と同じ？）|
+
+**厳島 美晴の紹介状（ECOくじ「アクエリアンエイジ」） [#Miharu]
+|~厳島美晴の髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/miharu-otoko.jpg,nolink,470x281);|
+|~ヘアカラーとリボン色の一覧図|
+|CENTER:画像募集中（女の子と同じ）|
+
+**ロビン・グッドフェロウの紹介状（ECOくじ「アクエリアンエイジ」） [#Robin]
+|~ロビン・グッドフェロウの髪型（ヘアバンドなし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/robin4.jpg,nolink,952x233);|
+|~ロビン・グッドフェロウの髪型（ヘアバンドあり）|
+|CENTER:CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/robin3.jpg,nolink,888x234);|
+|~ヘアカラーとヘアバンド色の一覧図|
+|CENTER:画像募集中（女の子と同じ)|
+
+**アングリー紹介状（ECOくじ「HANGRY ＆ ANGRY」） [#Angry]
+|~ドーリーカールヘア（ヘッドセットあり）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/annguri1.jpg,nolink,641x184);|
+|~ドーリーカールヘア（ヘッドセットなし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/annguri2.jpg,nolink,609x171);|
+|~スイートドーリーヘア|
+|CENTER:画像募集中（女の子と同じ）|
+
+**ハングリー紹介状（HANGRY ＆ ANGRYダウンロードパッケージ「秋の新作セット」） [#Hungry]
+|~斬新なモヒカン（ヘアカラーによるモヒカンの色変化なし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/zansin_mohikan.jpg,nolink,735x233);|
+|~ヘアカラーとモヒカンカラー一覧図|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/hangry.jpg,nolink,600x600);|
+
+**コウモリタ紹介状（HANGRY ＆ ANGRYダウンロードパッケージ「キャンディ＆プリンセット」） [#Koumorita]
+|~クラシカルマッシュ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ClassicalMush.jpg,nolink,640x176);|
+
+**西洋ロマンの紹介状（ECOくじ 「西洋ファンタジーロマン」）[#SeiyoRoman]
+|~シャギーハイレイヤー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/roman.jpg,nolink,340x205);|
+|~ナチュラルロングウェーブ|
+|CENTER:画像募集中|
+
+**歌姫の紹介状(ゴージャス)（ECOくじ 「アニバゴージャス」） [#UtahimeGorgeous]
+|CENTER:画像募集中|
+
+
+[ [[ トップメニュー >#TopMenu]] ][ [[ 2010年へ続く >Hairsalon/2010M]] ]

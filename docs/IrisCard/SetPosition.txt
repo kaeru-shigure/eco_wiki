@@ -1,0 +1,24 @@
+# IrisCard/SetPosition
+
+#include(Iris/IrisMenu,notitle)
+*索引 [#m6cd9dad]
+
+-[[属性索引>./#element]]
+--[[無>./#none]]
+--[[火>./#fire]]
+--[[水>./#water]]
+--[[土>./#earth]]
+--[[風>./#wind]]
+--[[光>./#light]]
+--[[闇>./#dark]]
+
+-[[セット位置索引>./#setposition]]
+--[[武器>./#weapon]]
+--[[服>./#dress]]
+--[[胸>./#acce]]
+
+''当ページは未反映のカードが多数あり、これがすべてではありません。''
+公式の[[''イリスカード検索''>http://econline.gungho.jp/gamedata/item/iriscard/]]でもセット位置・属性補正が検索できますので、そちらも参考にしてください。
+
+#include(../ElementCardList,notitle)
+#include(../SetPositionList,notitle)

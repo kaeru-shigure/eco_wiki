@@ -1,0 +1,36 @@
+# Hairsalon/Emily
+
+#author("2017-04-07T18:13:41+00:00","","")
+#include(Hairsalon/Menu,notitle)
+*エミリーの紹介状（ECOくじ「フシギの国のEmily」） [#Emily]
+
+**男性 [#re3d5d29]
+|~チルドレンショート|
+|CENTER:画像募集中|
+|~ヴァーチャルボブ(付け毛なし) ※以下全て付け替え自由|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily4.jpg,nolink,609x159);|
+|~ヴァーチャルボブ(うさ耳風ターバン)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily3.jpg,nolink,635x229);|
+|~ヴァーチャルボブ(ポニーテール)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily2.jpg,nolink,701x274);|
+|~ヴァーチャルボブ(ツインテール)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily.jpg,nolink,768x263);|
+
+**女性 [#i0bd4951]
+CENTER:&size(12){ ''*'' 印をクリックすると、詳細画像が見られます};
+|~チルドレンショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Emily_Children_Short2.jpg,nolink,501x301);|
+|~ヴァーチャルボブ(付け毛なし)[[*>Hairsalon/Emily#wc8927aa]]※以下全て付け替え自由|
+//!Cannot find: http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/no-maru.jpg
+|CENTER:NoImage|
+|~ヴァーチャルボブ(うさ耳風ターバン)[[*>Hairsalon/Emily#q0e0161b]]|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mimita-ban.jpg,nolink,651x325);|
+|~ヴァーチャルボブ(ポニーテール)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ss20101125_021800.jpg,nolink,635x323);|
+|~ヴァーチャルボブ(ツインテール)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Emily_virtual_twin2.jpg,nolink,738x334);|
+
+**ヴァーチャルボブ(付け毛なし)詳細 [#wc8927aa]
+&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/Emily/no-maru1.jpg,nolink,541x149);
+**ヴァーチャルボブ(うさ耳風ターバン)詳細 [#q0e0161b]
+&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/Emily/mimita-ban1.jpg,nolink,651x165);

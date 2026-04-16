@@ -1,0 +1,10 @@
+# ドロップ率検証/シーサーペント系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[水中生物知識>ドロップ率検証#qf2e06cc]]
+
+***シーサーペント [#v13bdbdc]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ジューシーなお肉(PT)|海竜の瞳(PT)|ジューシーなお肉|タイタニアレザー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（500体）|160個（32.00％）|157個（31.40％）|178個（35.60％）|4個（0.80％）|1個（0.20％）|

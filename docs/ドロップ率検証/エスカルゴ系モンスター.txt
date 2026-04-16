@@ -1,0 +1,10 @@
+# ドロップ率検証/エスカルゴ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***エスカルゴ [#e3d83ada]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||キャベツ|ねばねば|ロウ|ソーダ水|透明シール|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|147個（36.75％）|140個（35.00％）|68個（17.00％）|45個（11.25％）|0個（0.00％）|
+|知識あり（150体）|42個（28％）|34個（22.67％）|56個（37.33％）|17個（11.33％）|1個（0.67％）|

@@ -1,0 +1,338 @@
+# Event/Log
+
+#author("2019-12-27T05:13:39+00:00","","")
+*イベントログ記録 [#q1de0c82]
+
+#contents
+
+**このページについて [#ac4fab12]
+各イベントでのNPCの会話等を記録するページです。
+あのとき別の選択肢を選んでいたらどうなっていたのかや、ECOの世界設定の確認等にご利用ください。
+&color(red){''ネタバレを含みますので、一度自分でイベントをクリアしてから見ることをおすすめします。''};
+
+-関連ページ
+--[[ECOの世界設定>ViewOfTheWorld]]
+--[[イリスカード　フレーバーテキスト集>Iris/FlavorText]]
+
+**ログ一覧 [#bc299ced]
+
+//&color(red){''現在「なんでもECO！ザ・ワールド」にて過去の通年イベント「ヒトトセのフシギなたまご」「アルマたちと絆の樹」「イリスと記憶の書架」が再開催されています。&br;編集可能な方、ログ不足分の補完を是非お願いいたします。''};
+
+***''チュートリアル'' [#c81c4088]
+-[[はじめてのおつかい>Event/Log/Tutorial01]]
+-[[すてきなおくりもの>Event/Log/Tutorial02]]
+-[[だいじなおしごと>Event/Log/Tutorial03]]
+-[[たのしいなかま>Event/Log/Tutorial04]]
+-[[わくわくとたびだち>Event/Log/Tutorial05]]
+-[[ねがいとおもい>Event/Log/Tutorial06]]
+-[[たのしいおかいもの>Event/Log/Tutorial07]]
+-[[くらやみのぼうけん>Event/Log/Tutorial08]]
+-[[おしゃれとじつよう>Event/Log/Tutorial09]]
+-[[つたえたいつよさ>Event/Log/Tutorial10]]
+-[[こころざしのありか>Event/Log/Tutorial11]]
+-[[たびだちのとき>Event/Log/Tutorial12]]
+
+***''チュートリアル２'' [#c81c4088]
+-[[師弟とは？>Event/Log/Tutorial2_01]]
+-[[デイリークエスト>Event/Log/Tutorial2_02]]
+-[[称号とは？>Event/Log/Tutorial2_03]]
+
+
+***''メインストーリー（新）'' [#uda832a5]
+-[[君と歩く道>Event/Log/MainStory01]]
+-[[動き出す世界1>Event/Log/MainStory02]]
+-[[動き出す世界2-エミル&ルルイエルート>Event/Log/MainStory03-1]]
+-[[動き出す世界2-ベリアルルート>Event/Log/MainStory03-2]]
+-[[動き出す世界2-マーシャルート>Event/Log/MainStory03-3]]
+-[[動き出す世界2-共通ルート>Event/Log/MainStory03-4]]
+-[[動き出す世界3>Event/Log/MainStory04]]
+-[[真実の先へ>Event/Log/MainStory05]]
+-[[※Lv110武器～命宿せし武器～>Event/Log/Lv110weapons]]
+-[[破滅の黄風>Event/Log/MainStory06]]
+-[[※「神器製作」>Event/Log/Lv120weapons]]
+-[[決戦～つなぐ想い～>Event/Log/MainStory07]]
+-[[新緑の扉1 少女と新たな出会い>Event/Log/NewEncounter_with_girl]]
+-[[新緑の扉2 兄の想い>Event/Log/Feeling_of_Brother]]
+-[[永遠の絆1 信頼と絆>Event/Log/Reliance_and_Union]]
+-[[氷の女王の追憶>Event/Log/Reminiscene_of_the_Ice_Queen]]
+-[[赤蝕の古代都市>Event/Log/Red_Rusted_Ancient_City]]
+
+***''メインストーリー（旧）'' [#c1903894]
+-Saga8 戦歌の大地
+--[[戦歌の大地>Event/Log/Earth_of_WarSong]]
+-Saga9 悠久の楽園
+--[[謎のタイタニア (エミル ＆ ルルイエ ＆ タイタス編)>Event/Log/Tytania_of_mystery]]
+--[[新型…？！ (ベリアル編)>Event/Log/NewType]]
+--[[緊急招集！(マーシャ編)>Event/Log/UrgentCall]]
+-Saga10 偽りの神と機械の記憶~
+--[[最終決戦！>Event/Log/FinalBattle]]
+-Saga11 覚醒の刻
+--[[機械少女と天空の街>Event/Log/MachineGirl_and_SkyTown]]
+-Saga12 甦る鼓動と天空の守護者
+--[[天空の守護者と飛空城>Event/Log/GuardianofHeaven_and_FlyCastle]]
+--[[蘇る鼓動>Event/Log/RevivingPulse]]
+--[[少女の目覚め>Event/Log/Aawakening_of_girl]]
+-Saga13 拓かれる大地
+--[[次なる冒険へ>Event/Log/NextAdventure]]
+--[[失われた記憶>Event/Log/LostMemory]]
+--[[謎の黒い霧>Event/Log/MysteriousBlackFog]]
+-Saga14 新緑の扉
+--[[少女と新たな出会い>Event/Log/NewEncounter_with_girl]]
+--[[兄の想い>Event/Log/Feeling_of_Brother]]
+-Saga15 永遠の絆
+--[[信頼と絆>Event/Log/Reliance_and_Union]]
+-Saga16 氷の女王の追憶
+--[[氷の女王の追憶>Event/Log/Reminiscene_of_the_Ice_Queen]]
+-Saga17 太古の封印と無窮の檻
+-Saga18 錆色の蜃気楼
+--[[赤蝕の古代都市>Event/Log/Red_Rusted_Ancient_City]]
+
+***''クロニクルイベント'' [#bbeb47d1]
+[[クロニクルイベント第一弾>Event/Log/Chronicle1]]
+[[クロニクルイベント第二弾>Event/Log/Chronicle2]]
+
+***''アナザークロニクル'' [#j777af72]
+-[[アナザークロニクル プロローグ ～開幕～>Event/Log/AnotherChroniclePrologue0]]
+-[[アナザークロニクル プロローグ ～紙片収集1～>Event/Log/AnotherChroniclePrologue1]]
+-[[アナザークロニクル プロローグ ～紙片収集2～>Event/Log/AnotherChroniclePrologue2]]
+-[[アナザークロニクル プロローグ ～紙片収集3～>Event/Log/AnotherChroniclePrologue3]]
+-[[アナザークロニクル プロローグ ～紙片収集4～>Event/Log/AnotherChroniclePrologue4]]
+-[[アナザークロニクル プロローグ ～紙片収集5～>Event/Log/AnotherChroniclePrologue5]]
+-[[アナザークロニクル プロローグ ～紙片収集6～>Event/Log/AnotherChroniclePrologue6]]
+-[[アナザークロニクル プロローグ ～紙片収集7～>Event/Log/AnotherChroniclePrologue7]]
+-[[アナザークロニクル プロローグ ～紙片収集8～>Event/Log/AnotherChroniclePrologue8]]
+-[[アナザークロニクル プロローグ ～終幕～>Event/Log/AnotherChroniclePrologue9]]
+-[[アナザークロニクル エピローグ>Event/Log/AnotherChronicleEpilogue]]
+
+***''背負い魔・ネコマタ入手イベント'' [#k8df922a]
+-[[背負い魔・ネコマタ（桃）入手>Event/Log/Nekomata_Momo]]
+-[[背負い魔・ネコマタ（藍）入手>Event/Log/Nekomata_Ai]]
+-[[背負い魔・ネコマタ（山吹）入手>Event/Log/Nekomata_Yamabuki]]
+-[[背負い魔・ネコマタ（菫）入手>Event/Log/Nekomata_Sumire]]
+-[[背負い魔・ネコマタ（茜）入手>Event/Log/Nekomata_Akane]]
+-[[背負い魔・ネコマタ（杏）入手>Event/Log/Nekomata_Anzu]]
+-[[背負い魔・ネコマタ（空）入手>Event/Log/Nekomata_Sora]]
+-[[背負い魔・ネコマタ（胡桃・若菜）入手>Event/Log/Nekomata_Kurumi_Wakana]]
+-[[背負い魔・ネコマタ（新緑）入手>Event/Log/Nekomata_Midori]]
+-[[背負い魔・ネコマタ（白）入手>Event/Log/Nekomata_Shiro]]
+-[[背負い魔・ネコマタ（黒）入手>Event/Log/Nekomata_Kuro]]~
+
+***''ＤＥＭイベント(三種族用)'' [#n45c1b62]
+-[[クロスイベント　―キカイのキオクー>Event/Log/CrossEvent1]]
+-[[クロスイベント２　―キオクのアリカー>Event/Log/CrossEvent2]]
+***''ＤＥＭイベント(DEM種族用)'' [#d6968d26]
+-[[クロスイベント　―キカイノココロー>Event/Log/CrossEventDem1]]
+-[[クロスイベント２　―キオクノアリカー>Event/Log/CrossEventDem2]]
+-[[オートマタセットパーツ化>Event/Log/PartsOfAutomata]]
+-[[オートマタブースト化>Event/Log/BoostOfAutomata]]
+-[[ＬＶ１００パーツ入手　(真の顔入手イベント)>Event/Log/]]
+
+***''オートマタ入手イベント'' [#aedd3fc9]
+-オートマタ（アメジスト）入手　―ココロのカタチ―
+-[[オートマタ（ルビー）入手　―ココロのチカラ―>Event/Log/Ruby]]
+-オートマタ（トパーズ）入手　―ココロのツバサ―
+-[[オートマタ（サファイア）入手　―ココロのネガイ―>Event/Log/Sapphire]]
+-オートマタ（ダイヤモンド）入手　―ココロのヒカリ―
+
+***''転生'' [#n5bfe83e]
+-[[転生イベント>Event/Log/Change]]
+--[[カムイ>Event/Log/Kamui]]
+--[[リゼル>Event/Log/Rezel]]
+--[[キーノ>Event/Log/Keno]]
+--[[グリヴァー>Event/Log/Griever]]
+--[[レネット>Event/Log/Renet]]
+--[[フロール>Event/Log/Furol]]
+--[[ツバキ>Event/Log/Tsubaki]]
+--[[カノン>Event/Log/Kanon]]
+--[[プリーシュ>Event/Log/Pulish]]
+
+-[[デュアルジョブ>Event/log/DualJob]]
+
+***''地域イベント'' [#kec2f96b]
+-[[アクロポリス周辺>Event/Log/Acropolis]]
+-ノーザン
+--[[女王の日記ログ>Event/Log/TornDiary]]
+-[[ファーイースト>Event/Log/Fareast]]
+-アイアンサウス
+-[[モーグ>Eevent/Log/Morg]]
+
+***''その他'' [#k85172b3]
+-''スキルポイント/ＥＰ入手１''
+-''スキルポイント/ＥＰ入手2''
+--[[爺さん>Event/Log/Oldman]]
+--[[ディディ（カーマイン遺跡の壁画調査）>Event/Log/Diddy]]
+
+-''その他''
+--[[リザーブスキル解放（ドミニオンドラゴン戦）>Event/Log/ReleaseReserveSkill]]
+--[[ブリーダー>Event/Log/Job/Breeder]]
+--[[ガーデナー>Event/Log/Job/Gardener]]
+--[[ゴルドーの遺言状>Event/Log/testament]]
+-フレアイベント
+--[[アンデッド城の調査>Event/Log/Flea1]]
+--[[フレアの手紙を求めて>Event/Log/Flea2]]
+--[[アスタロトという名の災厄>Event/Log/Flea3]]
+
+***''季節イベント'' [#i4638a49]
+-2月
+--[[バレンタインデー>Event/Log/Valentine]]
+-4月
+--[[ネコマタ姉妹とお花見>Event/Log/Nekomata_Ohanami]]
+--[[エイプリルフール2016 アイドル戦国ACROSS～宴～>Event/Log/AprilFool2016]]
+--[[エイプリルフール2017 同人即売会 ECO☆サミット>Event/Log/AprilFool2017]]
+-単発
+--[[対モンスター用大規模戦闘演習>Quest/Season/対モンスター用大規模戦闘演習2006log]]
+--[[対モンスター用大規模戦闘演習　都市防衛大作戦！>Quest/Season/対モンスター用大規模戦闘演習2007log]]
+--[[タイタニアドラゴン来襲！>Quest/Season/TitaniaDragonAttack2007]]
+--[[DEM’s INVASION！>Quest/Season/DEM's INVASION log]]
+--次元からの来襲者~
+--[[ウルと４つの花とこんぺいとう>Event/Log/Uruu2015_1]]
+
+***[[ヒトトセのフシギなたまご>Event/Log/hitotose_all]] [#x81dc2fd]
+-[[一の章・ムツキとイタズラウサギ>Event/Log/Hitotose_Mutsuki]]
+-[[ニの章・キサラギとヤヨイと春を告げる鳥>Event/Log/Hitotose_Kisaragi]]
+-[[三の章・ヤヨイとウヅキと謎のニンジャ>Event/Log/Hitotose_Yayoi]]
+-[[四の章・サツキと海賊>Event/Log/Hitotose_Satsuki]]
+-[[五の章・ミナヅキとフミツキと愛の大三角形>Event/Log/Hitotose_Minaduki]]
+-[[六の章・ハヅキとナニカガスムイエ>Event/Log/Hitotose_Haduki]]
+-[[七の章・キクヅキと月の姫君>Event/Log/Hitotose_Kikuduki]]
+-[[八の章・カミアとカンナとフシギなふたご>Event/Log/Hitotose_Kamia]]
+-[[九の章・シモツキとたまごの破壊魔>Event/Log/Hitotose_Shimotsuki]]
+-[[十の章・ロウゲツとひらかれるこころ>Event/Log/Hitotose_Rougetsu]]
+-[[終の章>Event/Log/Hitotose_End]]
+-[[卵の部屋での対話（基本編）>Event/Log/Hitotose/kihon]]
+-[[卵の部屋での対話（守護魔装備時編）>Event/Log/Hitotose/Syugoma]]
+
+***アルマたちと絆の樹 [#s60f0b0a]
+-[[１時間目「はじめてのおともだち」>Event/Log/ArumaAndBondsTree01]] 
+-[[２時間目「まごころのおくりもの」>Event/Log/ArumaAndBondsTree02]] 
+-[[３時間目「だいじなきもち」>Event/Log/ArumaAndBondsTree03]]
+-[[４時間目「あたらしいなかま」>Event/Log/ArumaAndBondsTree04]]
+-[[５時間目「かんしゃとたびだち」>Event/Log/ArumaAndBondsTree05]]
+-[[６時間目「ゆずれないねがい」>Event/Log/ArumaAndBondsTree06]]
+-[[７時間目「たのしいなつやすみ」>Event/Log/ArumaAndBondsTree07]]
+-[[８時間目「ほしのはなび」>Event/Log/ArumaAndBondsTree08]]
+-[[９時間目「いたずらとなかなおり」>Event/Log/ArumaAndBondsTree09]]
+-[[１０時間目「つたえたいことば」>Event/Log/ArumaAndBondsTree10]]
+-[[１１時間目「こころのありか」>Event/Log/ArumaAndBondsTree11]]
+-[[１２時間目「あるまたちときずなのき」>Event/Log/ArumaAndBondsTree12]]
+-[[卒業式>Event/Log/ArumaAndBondsTreeEnd]]
+-[[アミスの飛空庭での対話（基本編）>Event/Log/ArumaAndBondsTree/kihon]]
+-[[アミスの飛空庭での対話（アルマ装備時編）>Event/Log/ArumaAndBondsTree/Aruma]]
+-[[アミスの飛空庭での対話（守護魔装備時編）>Event/Log/ArumaAndBondsTree/Syugoma]]
+-[[アミスの飛空庭での対話（ネコマタ装備時編）>Event/Log/ArumaAndBondsTree/Nekomata]]
+-[[生徒手帳使用>Event/Log/ArumaAndBondsTree/Omake]]
+
+***イリスと記憶の書架 [#fb760d19]
+-[[一の物語 盟約の吸血鬼>Event/Log/BookshelvesAndMemoryIris01]] 
+-[[二の物語 燐火の蛇姫>Event/Log/BookshelvesAndMemoryIris02]] 
+-[[三の物語 輪廻の魔女>Event/Log/BookshelvesAndMemoryIris03]]
+-[[四の物語 仔猫の神様>Event/Log/BookshelvesAndMemoryIris04]]
+-[[五の物語 海賊の宝物>Event/Log/BookshelvesAndMemoryIris05]]
+-[[六の物語 傾国の妖女>Event/Log/BookshelvesAndMemoryIris06]]
+-[[七の物語 恋慕の人魚姫>Event/Log/BookshelvesAndMemoryIris07]]
+-[[八の物語 賢者の黄金>Event/Log/BookshelvesAndMemoryIris08]]
+-[[九の物語 月夜の狼>Event/Log/BookshelvesAndMemoryIris09]]
+-[[十の物語 契約の悪魔>Event/Log/BookshelvesAndMemoryIris10]]
+-[[十一の物語 終幕の魔王>Event/Log/BookshelvesAndMemoryIris11]]
+-[[十二の物語 想送の流れ星>Event/Log/BookshelvesAndMemoryIris12]]
+-[[記憶の書架>Event/Log/BookshelvesAndMemoryIrisEnd]]
+-[[なんでもクエストカウンター、心象風景での対話（基本編）>Event/Log/BookshelvesAndMemoryIris/kihoncounter]]
+-[[なんでもクエストカウンター、心象風景での対話（ロア装備時編）>Event/Log/BookshelvesAndMemoryIris/Lore]]
+-[[なんでもクエストカウンター、心象風景での対話（アルマ装備時編）>Event/Log/BookshelvesAndMemoryIris/Alma]]
+-[[思い出のしおり使用>Event/Log/BookshelvesAndMemoryIris/Shiori]]
+
+***空飛ぶ工房とフシギな武器 [#ice49720]
+-[[一振り目 うたたねの剣>Event/Log/MysteriousAndWeaponsWorkshopFlying01]] 
+-[[二振り目 未熟な魔導書>Event/Log/MysteriousAndWeaponsWorkshopFlying02]] 
+-[[三振り目 意地っ張りな鉤爪>Event/Log/MysteriousAndWeaponsWorkshopFlying03]] 
+-[[四振り目 忠義の短剣>Event/Log/MysteriousAndWeaponsWorkshopFlying04]] 
+-[[五振り目 生真面目な鎌>Event/Log/MysteriousAndWeaponsWorkshopFlying05]] 
+-[[六振り目 とこしえの槍>Event/Log/MysteriousAndWeaponsWorkshopFlying06]] 
+-[[七振り目 きらめきの楽器>Event/Log/MysteriousAndWeaponsWorkshopFlying07]] 
+-[[八振り目 無鉄砲な刺剣>Event/Log/MysteriousAndWeaponsWorkshopFlying08]] 
+-[[九振り目 めざめの大砲>Event/Log/MysteriousAndWeaponsWorkshopFlying09]] 
+-[[十振り目 家族想いの鞭>Event/Log/MysteriousAndWeaponsWorkshopFlying10]] 
+-[[十一振り目 壊れかけの弓>Event/Log/MysteriousAndWeaponsWorkshopFlying11]] 
+-[[一二振り目 救済の杖>Event/Log/MysteriousAndWeaponsWorkshopFlying12]]
+-[[十三振り目 空飛ぶ工房とフシギな武器>Event/Log/MysteriousAndWeaponsWorkshopFlying13]]
+-[[アルティの工房での対話（基本編）>Event/Log/MysteriousAndWeaponsWorkshopFlying/kihon]]
+-[[アルティの工房での対話（ロア装備時編）>Event/Log/MysteriousAndWeaponsWorkshopFlying/Lore]]
+-[[アルティの工房での対話（御魂装備時編）>Event/Log/MysteriousAndWeaponsWorkshopFlying/Mitama]]
+-[[思い出のパレット>Event/Log/MysteriousAndWeaponsWorkshopFlying/Omake]]
+
+***タイニー・かんぱにー～人材発掘編～ [#l162e03c]
+-[[鉄腕少女ブリキング>Event/Log/TinyCompany01]]
+-[[少女B>Event/Log/TinyCompany02]]
+-[[ハートの切り札>Event/Log/TinyCompany03]]
+-[[コミックガール・ウィスプちゃん>Event/Log/TinyCompany04]]
+-[[リトルシューター>Event/Log/TinyCompany05]]
+-[[ふたりでおかいもの>Event/Log/TinyCompany06]]
+-[[鳥が先か卵が先か>Event/Log/TinyCompany07]]
+-[[姉のために、妹のために、自分のために>Event/Log/TinyCompany08]]
+-[[都会の空、マジヤバイ>Event/Log/TinyCompany09]]
+-[[あぶないふたり>Event/Log/TinyCompany10]]
+-[[センパイのおしごと>Event/Log/TinyCompany11]]
+-[[誰かを守るために>Event/Log/TinyCompany12]]
+-[[人材発掘編1>Event/Log/TinyCompanyMain1]]
+-[[人材発掘編2>Event/Log/TinyCompanyMain2]]
+-[[人材発掘編3>Event/Log/TinyCompanyMain3]]
+-[[人材発掘編4>Event/Log/TinyCompanyMain4]]
+-[[人材発掘編EXTRA>Event/Log/TinyCompanyMainExtra]]
+-[[タイニー・かんぱにーでの会話（基本編）>Event/Log/TinyCompany/kihon]]
+-[[タイニー・かんぱにーでの会話（アルマ装備時編）>Event/Log/TinyCompany/Alma]]
+
+
+***''タイニー・かんぱにー～憑依研究編～'' [#ic00fb45]
+-[[アスモデウス事件>Event/Log/TinyCompanyShinma01]]
+-[[浄化の戦乙女>Event/Log/TinyCompanyShinma02]]
+-[[導きの神鳥>Event/Log/TinyCompanyShinma03]]
+-[[次元の海獣>Event/Log/TinyCompanyShinma04]]
+-[[抱擁の聖母>Event/Log/TinyCompanyShinma05]]
+-[[誘いの花嫁>Event/Log/TinyCompanyShinma06]]
+-[[封層の門番>Event/Log/TinyCompanyShinma07]]
+-[[偶像崇拝バフォメット>Event/Log/TinyCompanyShinma08]]
+-[[月からのまれびと>Event/Log/TinyCompanyShinma09]]
+-[[小悪魔の想い>Event/Log/TinyCompanyShinma10]]
+-[[瑞獣の盟友>Event/Log/TinyCompanyShinma11]]
+-[[覇王降臨>Event/Log/TinyCompanyShinma12]]
+-[[タイニー・かんぱにーでの会話（基本編）>Event/Log/TinyCompanyShinma/kihon]]
+-[[タイニー・かんぱにーでの会話（神魔装備時編）>Event/Log/TinyCompanyShinma/Shinma]]
+-[[タイニー・かんぱにーでの会話（アルマ装備時編）>Event/Log/TinyCompanyShinma/Alma]]
+
+***''アクロニアミニ劇場'' [#p2a66aaa]
+-[[第01話 世界の謎に迫る>Event/Log/AcroniaMiniTheater01]]
+-[[第02話 失われたネコを求めて>Event/Log/AcroniaMiniTheater02]]
+-[[第03話 家族の定義>Event/Log/AcroniaMiniTheater03]]
+-[[第04話 機械の歴史を探る>Event/Log/AcroniaMiniTheater04]]
+-[[第05話 人気者はつらいよ>Event/Log/AcroniaMiniTheater05]]
+-[[第06話 アンデッド城の秘密>Event/Log/AcroniaMiniTheater06]]
+//-[[第07話 >Event/Log/AcroniaMiniTheater07]]
+//-[[第08話 >Event/Log/AcroniaMiniTheater08]]
+//-[[第09話 >Event/Log/AcroniaMiniTheater09]]
+//-[[第10話 >Event/Log/AcroniaMiniTheater10]]
+//-[[第11話 >Event/Log/AcroniaMiniTheater11]]
+//-[[第12話 >Event/Log/AcroniaMiniTheater12]]
+
+
+
+***''星を守る者 守護魔'' [#aedf9aec]
+-[[始まりの火>Event/Log/HoshiWoMamoruMono01]]
+-[[私に護らせてください！>Event/Log/HoshiWoMamoruMono02]]
+-[[火山雷鳴>Event/Log/HoshiWoMamoruMono03]]
+-[[命のことほぎ>Event/Log/HoshiWoMamoruMono04]]
+-[[愛がために>Event/Log/HoshiWoMamoruMono05]]
+-[[星の守護者たち>Event/Log/HoshiWoMamoruMono06]]
+//-[[>Event/Log/HoshiWoMamoruMono07]]
+//-[[>Event/Log/HoshiWoMamoruMono08]]
+//-[[>Event/Log/HoshiWoMamoruMono09]]
+//-[[>Event/Log/HoshiWoMamoruMono10]]
+//-[[>Event/Log/HoshiWoMamoruMono11]]
+//-[[>Event/Log/HoshiWoMamoruMono12]]
+//-[[>Event/Log/HoshiWoMamoruMono13]]
+-[[守護魔たちの祭壇での会話（基本編）>Event/Log/HoshiWoMamoruMonoBase]]
+-[[守護魔たちの祭壇での会話（ハートメイト装備時編）>Event/Log/HoshiWoMamoruMonoHeartmate]]
+-[[守護魔たちの祭壇での会話（ネコマタ・神魔・御魂・アルマ装備時編）>Event/Log/HoshiWoMamoruMonoPartner]]
+-[[守護魔との思い出使用>Event/Log/HoshiWoMamoruMonoBaseOmake]]
+*情報提供欄 [#f3cd3301]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[外部スレッド>Tutorial#rdccae80]]にどうぞ。~
+#pcomment

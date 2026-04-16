@@ -1,0 +1,78 @@
+# MobHuman
+
+#author("2020-02-19T09:47:31+00:00","","")
+*モンスター・エミル世界（人間） [#ia097184]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***DEM系 [#Dem]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM01.jpg,nolink,100x100);|ＤＥＭ－０１|92|18,500|9,500/10,000|無|Active|【光の塔】&br;A-21F&br;A-22F&br;光の塔上層(A棟屋上)&br;【マイマイ遺跡】|ハーブのど飴&br;古い紙幣&br;破れた魔法書&br;&color(red){壊れたボーワ};&br;オートマチックの銃筒(黒)|ディレイキャンセル&br;足払い&br;ブランディッシュ&br;ハイパーチャージ|広範囲索敵&br;高A.SPD&br;タゲ移りしやすい|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM-Sniper.jpg,nolink,100x100);|ＤＥＭ－スナイパー|96|24,500|8,000/8,800|無|Active|マイマイ遺跡|黒色火薬&br;ケセランパサラン(PT)&br;バッテリー(PT)&br;&color(slateblue){武器庫入室パスカード};&br;&color(slateblue){サイコガンの銃筒};|連続射撃&br;チャージショット&br;ディレイキャンセル&br;アイスフェード|遠距離攻撃|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Eliminater.jpg,nolink,100x100);|イリミネーター|96|25,500|8,850/7,800|無|NonActive|マイマイ遺跡|ナット&br;DEMの片手(左)&br;ケセランパサラン(PT)&br;バッテリー(PT)&br;&color(red){ＤＥＭの片手（右）};|ディレイキャンセル&br;つむじ風&br;ファランクス&br;連続攻撃||
+
+***アルケー系 [#Arkh]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Arkh.jpg,nolink,100x100);|アルケー|95|25,500|14,310/14,580|BGCOLOR(#ffffff):光|Active|【光の塔】&br;光の塔上層(A棟屋上)|禁断の果実(PT)&br;古い紙幣(PT)&br;破れた魔法書(PT)&br;金糸のリボン&br;&color(red){天界のアンクレット};&br;&color(red){ウリエガノフ};|ホーリーライト&br;エナジーショック&br;エナジーストーム&br;リフレクション&br;ヴァニッシュメント|超広範囲索敵&br;エナジーストームは詠唱が無く、行動不能状態でも使用する。|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DeathKate.jpg,nolink,100x100);|デスケイト|80||23,100/23,800|BGCOLOR(#ffffff):光(50)|詠唱反応|【アンデッドの城】&br;聖者の間|マジックポーション&br;マジックドリンク&br;ブランクイリスカードUC&br;&color(red){高級マジックポーション};&br;魔力の結晶&br;&color(slateblue){聖者の涙};|デクライズウエポン&br;サンクチュアリ&br;デクライズシールド|1時間(?)湧き&br;DEF0-0&br;M.DEF0-0|
+
+***スペルキャスター系 [#SpellCaster]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SpellCaster.jpg,nolink,100x100);|スペルキャスター|44|700|760/683|BGCOLOR(#c4adff):''闇''/水|Active|【サウスダンジョン】&br;B1F,B2F|上等なマジックキャンディー&br;ラピスラズリのかけら&br;金運の香水&br;&color(#cccccc){魔力の結晶};&br;&color(slateblue){スペルキャスタースタンプ};|ダークファング&br;ナッシングネス|高DEF&br;遮蔽物無視＆超遠距離ナッシングネス使用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Incubus.jpg,nolink,100x100);|インキュバス|60|2,400|3,468/3,835|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;光の塔下層(4F左上)&br;A-7F|上等なマジックキャンディー&br;紙&br;マジックポーション&br;ドクロ&br;水晶&br;&color(red){魔力の結晶};|パープルガス&br;エンドライン&br;サテライトカロン&br;ゴゥアウト|高DEF&br;高M.DEF&br;瀕死時のみ→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AncientCaster.jpg,nolink,100x100);|エンシェントキャスター|70|%%3,850%%&br;5,500?|%%2,850/3,050%%&br;7,975/8,415|BGCOLOR(#c4adff):闇|NonActive|【イーストダンジョン】&br;原初の森&br;毒の湿原&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|上等なマジックキャンディー&br;紋章紙&br;&color(red){マジックポーション};|トランスマインド&br;超電磁波&br;マジックスロウ|高DEF&br;瀕死時のみ→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SpellMilitant.jpg,nolink,100x100);|スペルミリタント|70|3,550|6,380/6,828|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;光の塔下層(B棟屋上)&br;B-8F|上等なマジックキャンディー&br;紙&br;マジックポーション&br;&color(slateblue){古い本};&br;&color(red){力の本};&br;&color(red){信頼のお札};|マジックスロウ&br;メデューサスキン&br;ディープフォレスト&br;コンフュージョンブロウ&br;ラッシュ|高DEF&br;瀕死時のみ→Active|
+
+***デックアールヴ系 [#af07dea5]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DarkElves.jpg,nolink,100x100);|デックアールヴ|98||28,314/26,741|BGCOLOR(#c4adff):闇|Active|【ノーザン地下】&br;市民街・氷洞|マジックドリンク&br;高級マジックポーション&br;濃縮マジックポーション&br;破損した大剣&br;破損した弓&br;&color(slateblue){デックアールヴスタンプ};|連続攻撃&br;ノクシャスブラスト&br;ナッシングネス&br;ダークブレイズ&br;ネクロマンシー||
+||カゲの従者|100||10,420/14,365|BGCOLOR(#c4adff):闇|Active|封印の間|破損した弓|アブリテレイションワン&br;デクライズインパクト&br;リストリクトリバース&br;ネクロマンシー&br;エッセンガイスト|BOSS&br;アスタロトの取り巻き&br;死亡時にリジェネレート|
+***デバステイター系 [#Devastator]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Devastator.jpg,nolink,100x100);|デバステイター|43|1,200|935/1,000|無|Link→デバステイター|【サウスダンジョン】&br;B1F|トニックウォーター&br;ヒールポーション&br;戦乙女の涙&br;&color(slateblue){デバステイタースタンプ};|アークパワーライズ&br;バイタリティダウン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HellDiver.jpg,nolink,100x100);|ヘルダイバー|61|2,500|3,936/3,472|BGCOLOR(#c4adff):''闇''/水|詠唱反応&br;Link|【光の塔】&br;光の塔周辺&br;光の塔下層(4F右上)&br;B-7F&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|トニックウォーター&br;パートナーフード&br;エネルギードリンク&br;パワードリンク&br;コンポジットシールド(銀)&br;&color(red){力の結晶};&br;&color(red){壊れたマシンアクス};|旋風剣&br;ダークウェポン&br;ブラックウィドウ&br;アイスフェード|アンデッド&br;光属性攻撃が有効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Avenger.jpg,nolink,100x100);|アベンジャー|67|4,350|5,600/5,600|BGCOLOR(#c4adff):闇(20)|NonActive|【アンデッドの城】&br;1F外周&br;大ホール&br;小ホール&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|トニックウォーター&br;パートナーフード&br;パワードリンク&br;&color(red){戦乙女の涙};&br;&color(red){傭兵};|バイタリティダウン&br;兜割り&br;ダークウェポン&br;コンフューズスタッド|%%高M.ATK%%&br;アンデッド&br;(ヒーリング100%)&br;DEF70-200&br;M.DEF44-35|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SkyRadar.jpg,nolink,100x100);|スカイレイダー|70|4,650|5,940/4,950|BGCOLOR(#c4adff):闇|詠唱反応|【光の塔】&br;光の塔下層(B棟屋上)&br;B-8F&br;A-10F&br;&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|トニックウォーター&br;パートナーフード&br;パワードリンク&br;&color(slateblue){コンポジットシールド(紺)};&br;&color(slateblue){ナックルガード};&br;&color(slateblue){壊れたチェインソード};&br;&color(slateblue){いのちの結晶};&br;|リフレクション&br;ヴァニッシュメント&br;ディレイキャンセル&br;兜割り&br;スタンブロウ&br;ダークライズ(Lv3)|アンデッド&br;死亡時にヴァニッシュメントを使用することあり|
+
+***ドミニオン系 [#Dominion]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionHaitokusha.jpg,nolink,100x100);|ドミニオン背徳者|56|2,050|1,483/880|BGCOLOR(#c4adff):闇|Active|【サウスダンジョン】&br;B2F,%%B3F%%|マジックキャンディ&br;マジックポーション&br;聖者の涙&br;&color(slateblue){ドミニオン背徳者スタンプ};|カオスウィドウ&br;サイレントポゼション&br;リフレクションウォール|高M.ATK|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionKouiHaitokusha.jpg,nolink,100x100);|ドミニオン高位背徳者|62|3,500|1,950/2,150|BGCOLOR(#ffffff):光|詠唱反応|【サウスダンジョン】&br;B2F,B3F|マジックキャンディ&br;マジックポーション&br;精霊水&br;&color(slateblue){ドミニオン高位背徳者スタンプ};|デッドエンド&br;バッドドリーム|高M.ATK|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionAnimus.jpg,nolink,100x100);|ドミニオン・アニムス|71|5,700|5,860/6,000|BGCOLOR(#c4adff):闇(35)|NonActive|【アンデッドの城】&br;大ホール&br;礼拝堂3F&br;謁見の間&br;聖者の間&br;小ホール|たましいの粉&br;マジック･ポーション&br;マジックドリンク&br;紫金の宝玉&br;&color(red){魔力の結晶};&br;&color(red){聖者の涙};|サイレントポゼション&br;グラビティフォール&br;カオスウィドウ&br;エンドライン|&br;DEF70-190&br;M.DEF46-102|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionMalicious.jpg,nolink,100x100);|ドミニオン・マリシャス|73|&color(gray){7,000?};|6,300/5,760|BGCOLOR(#c4adff):闇(30)|Active|【アンデッドの城】&br;大ホール&br;礼拝堂3F&br;謁見の間&br;聖者の間|たましいの粉&br;マジック･ポーション&br;マジックドリンク&br;紫金の宝玉&br;&color(red){魔力の結晶};&br;&color(red){聖者の涙};|デッドエンド&br;ブラックホール&br;リフレクション&br;エンドライン|&br;DEF30-150&br;M.DEF65-102|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionPenance.jpg,nolink,100x100);|ドミニオン・ペナンス|92|16,000|11,960/11,100|BGCOLOR(#c4adff):闇|NonActive|【光の塔】&br;光の塔上層(A棟屋上)|上等なマジックキャンディー&br;古い紙幣&br;力の本&br;古い本&br;&color(red){古代の弓};|ナッシングネス&br;カオスウィドウ&br;エナジーショック&br;エナジーブラスト&br;リフレクション||
+
+***マタンキクル系 [#Matankikuru]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Matankikuru.jpg,nolink,100x100);|マタンキクル|80|3,110|2,423/2,675|BGCOLOR(#ffdddd):火|Active|神託の風穴|ミティー草&br;タムタム草&br;キクルマスク&br;&color(slateblue){烈風石の欠片};|怒&br;アサルト|低ATK|
+|~|ポロマタンキクル|85|4,160|2,946/3,245|BGCOLOR(#ffdddd):火|Active|神託の風穴|ミティー草&br;キクルマスク&br;キクルベスト&br;&color(slateblue){烈風石の欠片};|怒&br;アサルト|フレハラムの取り巻き|
+|~|シポロマタンキクル|90|5,566|3,330/3,661|BGCOLOR(#ffdddd):火|Active|神託の風穴|ミティー草&br;タムタム草&br;キクルベスト&br;&color(slateblue){烈風石の欠片};|怒&br;アサルト||
+
+***傭兵系 [#Youhei]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bandit.jpg,nolink,100x100);|バンディット|74|4,400|2,818/3,090|無|Link&br;→人間|【フシギ団の砦】&br;南部&br;中立のシマ&br;海賊のシマ&br;&br;【インスタンスダンジョン】&br;遺跡荒しを追い出せ|パートナーフード&br;頑丈な革&br;&color(orange){手裏剣};&br;金のナゲット&br;&color(slateblue){いのちの結晶};|ファランクス&br;ディレイキャンセル&br;ハチの一刺し&br;アヴォイドバースト||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/cawee_bandit.jpg,nolink,100x100);|カウィーバンディット|74||18,666/17,866|無|Link&br;→人間|カーマイン砂漠（昼）&br;カーマイン砂漠（夕）&br;カーマイン砂漠（夜）|オアシスの水&br;頑丈な革&br;&color(orange){灼熱の布&br;いのちの結晶};|ファランクス&br;ディレイキャンセル&br;ハチの一刺し&br;アタックバースト||
+
+//***その他 [#Others]

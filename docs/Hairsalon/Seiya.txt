@@ -1,0 +1,18 @@
+# Hairsalon/Seiya
+
+#author("2017-04-07T17:26:04+00:00","","")
+#include(Hairsalon/Menu,notitle)
+**聖夜の紹介状（ECOくじ「粉雪のプレゼント」） [#Seiya]
+
+***男性 [#mm]
+|CENTER:画像募集中|
+
+***女性 [#ff]
+|~ショートツインテール※リボンの着脱自由|h
+|~ショートツインテール（リボンなし）※リボンの着脱自由|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/Seiya/SeiyaShortTwinUp.jpg,nolink,780x180);|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/Seiya/seiya0.jpg,nolink,848x300);|
+|~ショートツインテール（リボン付き）※髪色によってリボンも変わります |
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/Seiya/SeiyaShortTwinRibbonUp.jpg,nolink,800x180);|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/Seiya/seiya.jpg,nolink,848x300);|
+|ヘアカラー・リボン色の一覧（募集中）|

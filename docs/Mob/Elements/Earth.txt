@@ -1,0 +1,102 @@
+# Mob/Elements/Earth
+
+#author("2017-04-07T17:31:40+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（土属性） [#wd1132f2]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv1～10 [#m1f3cc5a]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/UmberJelly.jpg,nolink,100x100);|アンバージェリー|7|60|10/8|BGCOLOR(#98fb98):土|NonActive|南アクロニア平原&br;西アクロニア平原&br;ウテナ川河口&br;ステップ砂漠|ゼリコ&br;氷砂糖&br;&color(red){砂糖};&br;橙色のゼリコ&br;ワックス&br;いのちの結晶&br;&color(slateblue){アンバージェリースタンプ};|ウィンドアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KingRoper.jpg,nolink,100x100);|キングローパー|10|10400|5500/5000|BGCOLOR(#98fb98):土|Active|ステップ砂漠|ローパーの触手&br;ペルソナ&br;ラピス･ラズリ&br;&color(red){背負い魔・ブースト};&br;&color(slateblue){キングローパースタンプ};|猛毒スロウガス&br;アースアタック&br;テンタクル召喚|フィールドBOSS&br;30～90分毎&br;取り巻き(テンタクル)&br;高DEF|
+
+***Lv11～20 [#y84ba99e]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GreenPururu.jpg,nolink,100x100);|グリーンプルル|12|80|15/17|BGCOLOR(#98fb98):土|NonActive|東アクロニア海岸&br;イストー岬&br;ファーイースト街道|青汁&br;毒消しの実&br;緑のゼリコ&br;魔力の結晶&br;&color(orange){四葉のクローバー};&br;&color(red){シルバーメダル};&br;&color(slateblue){グリーンプルルスタンプ};|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SaladA-chin.jpg,nolink,100x100);|サラダアーチン|13|100|20/15|BGCOLOR(#98fb98):土|NonActive|ファーイースト街道&br;イストー岬|菜っ葉&br;レタス&br;黄緑のゼリコ&br;キューティクルエキス&br;&color(slateblue){サラダアーチンスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TsuchiGumo.jpg,nolink,100x100);|土蜘蛛|16|185|31/29|BGCOLOR(#98fb98):土|Link|ウテナ湖&br;東アクロニア海岸|蜘蛛のワイン&br;糸&br;アラクネーの糸&br;&color(red){丈夫な糸};&br;力の結晶&br;&color(slateblue){タランチュラの糸};&br;&color(slateblue){土蜘蛛スタンプ};|ポイズンパフューム||
+
+***Lv21～30 [#rc4cd9d8]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Roper.jpg,nolink,100x100);|ローパー|21|120|80/75|BGCOLOR(#98fb98):土|NonActive|果物の森&br;ステップ砂漠&br;サウスリン岬|ゼリコ&br;破れた魔法書&br;ローパーの触手&br;マジックキャンディー&br;魔力の結晶&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){ローパースタンプ};|スタンアタック|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EcoBou.jpg,nolink,100x100);|エコ坊|24|300|90/75|BGCOLOR(#98fb98):土|Active|モーモー草原&br;穀倉地帯|ルーン草&br;&color(orange){上等な毛皮};&br;タムタム草&br;赤い花の種&br;&color(red){四葉のクローバー};|-||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Mokuju.jpg,nolink,100x100);|モクジュ|24|204|61/72|BGCOLOR(#98fb98):土|NonActive|ウテナ湖&br;東アクロニア海岸&br;&br;【インスタンスダンジョン】&br;地下迷宮 第1階層|木の皮&br;キューティクルエキス&br;クマノイ&br;不思議な木の種&br;マリオネット・マンドラゴラ&br;&color(orange){パルプ};&br;&color(red){世界樹の枝};&br;&color(slateblue){モクジュスタンプ};|エクスクラメーション||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mokku-.jpg,nolink,100x100);|モックー|25|310|60/40|BGCOLOR(#98fb98):土|Active|【大陸の洞窟】&br;B2F～B4F|釘&br;鋲&br;ブリキの部品&br;&color(slateblue){モックースタンプ};|アースストーム|詠唱速度が速い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaKumo.jpg,nolink,100x100);|でか蜘蛛|27|8400|120/100|BGCOLOR(#98fb98):土|Link|ウテナ湖|蜘蛛のワイン&br;糸&br;アラクネーの糸&br;ブランクイリスカード|ポイズンパフューム|高HP|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tarantula.jpg,nolink,100x100);|タランチュラ|27|840|100/80|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F,B2F|蜘蛛のワイン&br;糸&br;&br;丈夫な糸&br;アラクネーの糸&br;力の結晶&br;&color(slateblue){タランチュラの糸};&br;&color(slateblue){タランチュラスタンプ};|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WildBoar.jpg,nolink,100x100);|ワイルドボア|28|450|105/135|BGCOLOR(#98fb98):土|Active|モーモー草原&br;穀倉地帯|肉&br;革&br;&color(orange){スウェード};&br;橙の花の種&br;&color(red){四葉のクローバー};|チャージ|一度ターゲットを定めると、ロストするまでターゲットを変えない|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrimsonChief.jpg,nolink,100x100);|クリムゾンチーフ|28|420|105/95|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F,B2F&br;&br;（果物の森）&br;（ステップ砂漠）|上等な肉&br;肉&br;&color(slateblue){クリムゾンチーフスタンプ};|-|高ASPD|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RoyalBlueBow.jpg,nolink,100x100);|ロイヤルブルーバウ|30|||BGCOLOR(#98fb98):土||【インスタンスダンジョン】&br;迷宮探索|革(PT)||BOSS|
+
+***Lv31～40 [#k4d626bb]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MorningStar.jpg,nolink,100x100);|モーニングスター|32|540|285/165|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F&br;&br;【サウスダンジョン】&br;B1F|鉄のナゲット&br;銅のナゲット&br;銀のナゲット&br;&color(red){軽鉄};&br;&color(slateblue){砂金};&br;&color(slateblue){モーニングスタースタンプ};|-|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cyclops.jpg,nolink,100x83);|サイクロプス|32|840|312/240|BGCOLOR(#98fb98):土|NonActive|永遠への北限&br;ノース台地&br;ノース中央山脈|肉&br;破れた魔法書&br;水晶&br;力の結晶&br;カッパーメダル&br;&color(slateblue){ブルードラゴの卵};&br;&color(slateblue){サイクロプススタンプ};|スリープストライク&br;ロックストーン|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kankan.jpg,nolink,100x100);|カンカン|36|600|270/154|BGCOLOR(#98fb98):土|NonActive|鬼ノ寝床岩&br;鉄火山&br;アイアンサウス街道|燐粉&br;黒色火薬&br;破れた魔法書&br;アーチン印のミソ&br;&color(red){固い石ころ};&br;&color(red){粘土};&br;&color(slateblue){カンカンスタンプ};|-|クリティカル率大|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerBeast.jpg,nolink,100x100);|キラービースト|37|550|300/300|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F～B3F&br;&br;（アンデッド島・大陸）&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;地下迷宮 第2,3,6,7階層|革&br;毛皮&br;&color(orange){上等な革};&br;破れた魔法書&br;&color(orange){ベルベット};&br;&color(slateblue){キラービーストスタンプ};|スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RockEater.jpg,nolink,100x100);|ロックイーター|40|930|405/375|BGCOLOR(#98fb98):土|Active|鉄火山&br;アイアンサウス街道|固い石ころ&br;金属の混じった石４&br;砂鉄&br;金属の混じった石&br;クリティカルの結晶&br;&color(slateblue){ロックイータースタンプ};|スタンアタック&br;スロウロジック|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Molly.jpg,nolink,100x100);|モーリー|40|1500|550/450|BGCOLOR(#98fb98):土|NonActive|穀倉地帯&br;フシギ団の砦(南側)&br;&br;【インスタンスダンジョン】&br;潜む白い影&br;地下迷宮 第3,8階層|木の枝&br;木炭&br;植物栄養剤&br;黒いゼリコ&br;&color(red){マリオネット・マンドラゴラ};&br;&color(red){ひのきの木材};&br;&color(slateblue){母樹石};|アースストーム&br;アースクエイク&br;ポイズンパフューム&br;ワー・クライ||
+
+***Lv41～50 [#h67400b6]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Death.jpg,nolink,100x100);|デス|41|444|500/320|BGCOLOR(#98fb98):土|Active|【氷結の坑道】&br;B1F,B2F&br;&br;アンデッド島・島&br;ノース台地&br;&br;【インスタンスダンジョン】&br;潜む白い影&br;地下迷宮 第4,8階層&br;遺跡の宝探し|骨&br;こころのかけら&br;&color(red){鉄製の大きな刀身};&br;&color(red){三角巾};&br;&color(slateblue){丈夫な布};&br;&color(slateblue){デススタンプ};|居合い&br;ナッシングネス&br;ブラックウィドウ|高MDEF&br;アンデッド&br;（ヒーリング100%）&br;警告無しに襲ってくること有り|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SaikyouNoMajuu.jpg,nolink,94x100);|最強の魔獣|43|18000|23100/9900|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B3F&br;&br;【インスタンスダンジョン】&br;迷宮の刺客&br;集う魔物 第2階層|毛皮&br;ゼッケン&br;名前入りゼッケン&br;ベルベット&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){最強の魔獣スタンプ};|スロウロジック&br;ダークバラッド&br;ワー・クライ&br;ダークベア召喚|BOSS&br;30～90分毎&br;出現時ダークベア召喚使用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingRX3.jpg,nolink,100x100);|ブリキングＲＸ３|46|820|567/320|BGCOLOR(#98fb98):土|Active|鉄火山&br;&br;【サウスダンジョン】&br;B1F|赤いコード&br;乾電池&br;コイル&br;ＣＰＵ&br;電卓&br;ブリキの部品&br;ブリキの板&br;メモリ&br;ポケコン&br;モーター&br;&color(red){マリオネット・エレキテル};&br;&color(slateblue){ブリキングＲＸ３スタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/UmeBoar.jpg,nolink,100x100);|ウメボア|48|3375|750/750|BGCOLOR(#98fb98):土|Active|イーストダンジョン&br;原初の森&br;毒の湿原|梅のど飴&br;パートナーフード&br;ベルベット&br;&color(red){いのちの結晶};&br;&color(red){四葉のクローバー};&br;&color(#cccccc){上等な肉};|ガイデッド&br;スタンアタック&br;ハイパーチャージ|一度ターゲットを定めると、ロストするまでターゲットを変えない|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lamia.jpg,nolink,100x100);|ラーミア|50|1700|920/944|BGCOLOR(#98fb98):土|Active|【サウスダンジョン】&br;B1F～B3F|花&br;大地の召喚石&br;誘惑の糸&br;&color(red){石化薬};&br;&color(slateblue){ラーミアスタンプ};|アースファング&br;ロックストーン&br;ロックドライブ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AkahebiOnatsu.jpg,nolink,100x100);|赤蛇お夏|50|16000|4500/5500|BGCOLOR(#98fb98):土|Active|【インスタンスダンジョン】&br;迷宮の結晶体の破壊！初級 第3階層||ファイアボール&br;ガトリングブレイズ&br;メデューサスキン|BOSS&br;ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingCustom.jpg,nolink,100x100);|ブリキングカスタム|50|1650|816/639|BGCOLOR(#98fb98):土|-|【サウスダンジョン】&br;B1F,B2F|ブリキの板&br;赤いコード&br;乾電池&br;コイル&br;ＣＰＵ&br;電卓&br;ブリキの部品&br;メモリ&br;&color(red){マリオネット・エレキテル};&br;&color(slateblue){モーター};&br;&color(#cccccc){壊れたエンジン};&br;&color(slateblue){ブリキングカスタムスタンプ};|グランドクロス||
+
+***Lv51～60 [#cafc5a95]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Brocks.jpg,nolink,100x100);|ブロックス|51|4960?|962/794|BGCOLOR(#98fb98):土|Link|【サウスダンジョン】&br;B1F～B3F|肉&br;スタミナポーション&br;破れた魔法書&br;&color(red){カッパーメダル};&br;&color(slateblue){ブロックススタンプ};|アースファング&br;ハイパーチャージ||
+
+***Lv61～70 [#pb3655bd]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Alraune.jpg,nolink,100x100);|アラウネ|67|4458|1800/1850|BGCOLOR(#98fb98):土|-|原初の森&br;毒の湿原&br;&br;【インスタンスダンジョン】&br;残存するモンスターの駆除|木の枝&br;植物栄養剤&br;キャリアオイル&br;&color(red){マリオネット・マンドラゴラ};&br;&color(slateblue){母樹石};|アースストーム&br;ロックドライブ&br;サイレントグリーン&br;グラビティフォール||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MandoraWasabi.jpg,nolink,100x100);|マンドラワサビ|69|5800|2000/2000|BGCOLOR(#98fb98):土|Active|イストー岬&br;&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|タムタム草&br;マリカ草&br;アボリー草&br;毒薬&br;&color(red){魔力の結晶};&br;&color(red){シルバーメダル};|プラントポイズン&br;ディビリテイト&br;ディープフォレスト&br;ヒーリング&br;ライフスティール||
+
+***Lv71～80 [#fb1682f6]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NenoOu.jpg,nolink,100x100);|ネノオウ|80|455000|48000/35000|BGCOLOR(#98fb98):土|Active|イストー岬|カッパーメダル(PT)&br;タイニーメダル(PT)&br;不思議な木の種(PT)&br;シルバーメダル&br;ひのきの木材&br;&color(slateblue){母樹石};&br;&color(slateblue){真実を見抜く眼鏡};|アースクエイク&br;アースクライ&br;アシッドミスト&br;ノクシャスブラスト&br;ロックドライブ&br;ワサビ|超大型BOSS&br;30～90分毎沸き&br;取り巻き（マンドラワサビ）|
+
+***Lv91～100 [#x4f552a7]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KoganeGumoN.jpg,nolink,100x100);|コガネグモ|91|12000|4200/4100|BGCOLOR(#98fb98):土|Link&br;→コガネグモ&br;→シャインビー|バオバブの森（夜）|青汁&br;蜘蛛の白ワイン&br;金のナゲット&br;クリティカルの結晶&br;&color(red){琥珀};|スケア&br;バイタリティダウン&br;コンフューズスタッド&br;セイントアート|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Detritus.jpg,nolink,100x100);|ディトライテス|92|12000|3500/3400|BGCOLOR(#98fb98):土|特殊詠唱反応|マイマイ遺跡第一甲板|ハーブのど飴&br;ケセランパサラン&br;破れた魔法書&br;毒薬&br;&color(red){緑の結晶１};&br;&color(red){ペリドットのとげ};|エクスクラメーション&br;ガイデッド&br;マジックスリープ&br;ウィンドアタック|自分へのスキル使用を察知して襲ってくる場合あり|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/cristalt.jpg,nolink,100x100);|クリスタルタートル|92||6460/6800|BGCOLOR(#98fb98):土|詠唱反応|海底洞窟（寒流）|青汁&br;カビ&br;カメの甲羅|クロスリバー&br;アースライズ&br;リフレクションウォール&br;ソリッドオーラ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Baruru.jpg,nolink,100x100);|バルル|94|15000|4800/5000|BGCOLOR(#98fb98):土||バオバブの森&br;バオバブの森(夜)|骨&br;バルルの革切れ&br;バルルの革&br;上等な肉&br;破れた魔法書&br;するどい牙&br;&color(slateblue){バルルのしっぽ(イエロー)};|アタック・バースト&br;アヴォイド・バースト&br;スタンアタック&br;足払い|足払いが高確率で内部に貫通|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Okyupete.jpg,nolink,100x100);|オキュペテー|95||4500/4650|BGCOLOR(#98fb98):土||マイマイ遺跡第一甲板|異界の羽&br;ハーブのど飴&br;ユニコーンの角&br;&color(red){音叉管};&br;&color(red){天上のハープ};|パープルガス&br;ディープフォレスト&br;ラッシュ&br;ロックストーン|瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KimottamaKaachan.jpg,nolink,100x100);|肝っ玉母ちゃん|100|525000|45000/45000|BGCOLOR(#98fb98):土||バオバブの森|サーロイン&br;上等な肉(PT)&br;バルルの革(PT)&br;するどい牙&br;&color(slateblue){スノーバルルの革};&br;&color(slateblue){バルルのしっぽ(グレー)};|ハウルアウト&br;アークパワーライズ&br;ブランディッシュ&br;バルル召喚|BOSS&br;出現時バルル召喚使用|
+
+***Lv111～ [#p328a670]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilDragon.jpg,nolink,100x100);|エミルドラゴン|113|2000000|112000/95000|BGCOLOR(#98fb98):土||終淵||リフレクションウォール&br;アシッドミスト&br;アースクライ&br;グラビティフォール&br;|BOSS&br;クエスト「終淵に立つ最強の竜」|

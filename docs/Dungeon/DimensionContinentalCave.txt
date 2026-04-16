@@ -1,0 +1,124 @@
+# Dungeon/DimensionContinentalCave
+
+*ディメンション大陸の洞窟 [#p4786dc2]
+
+-適正Lv：90～99
+
+-[[ダンジョン>Dungeon]]
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+
+#contents
+
+**ディメンション大陸の洞窟B1F [#y9216030]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionContinentalCave/DimensionContinentalCaveB1F.png,nolink,ディメンション大陸の洞窟B1F);
+-隣接マップ：[[東アクロニア海岸>Kariba#EastAcbeach]]、ディメンション大陸の洞窟B2F
+-属性：無
+-常時HP減少（水中、5秒毎にHPが50減少）
+
+-出現モンスター
+--[[D-オーカージェリー>MobDimension#Tairiku]]（アクティブ）
+　(Lv90/風)[HP:8900?][%%5500/5300%%→7150/6890]
+--[[D-ドラッキー>MobDimension#Tairiku]]（アクティブ）
+　(Lv90/風)[HP:10000?][%%5800/5800%%→7540/7540]
+--[[D-ローキー>MobDimension#Tairiku]]（アクティブ）
+　(Lv92/風)[HP:12000?][%%6300/6200%%→8190/8060]
+--[[D-ウィスプ>MobDimension#Tairiku]]（アクティブ）
+　(Lv93/光)[HP:13000?][%%6500/6900%%→8450/8970]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション大陸の洞窟B2F [#j934c4f6]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionContinentalCave/DimensionContinentalCaveB2F.png,nolink,ディメンション大陸の洞窟B2F);
+-隣接マップ：ディメンション大陸の洞窟B1F、ディメンション大陸の洞窟B3F
+-属性：土
+
+-出現モンスター
+--[[D-オーカージェリー>MobDimension#Tairiku]]（アクティブ）
+　(Lv90/風)[HP:8900?][%%5500/5300%%→7150/6890]
+--[[D-ドラッキー>MobDimension#Tairiku]]（アクティブ）
+　(Lv90/風)[HP:10000?][%%5800/5800%%→7540/7540]
+--[[D-ローキー>MobDimension#Tairiku]]（アクティブ）
+　(Lv92/風)[HP:12000?][%%6300/6200%%→8190/8060]
+--[[D-ウィスプ>MobDimension#Tairiku]]（アクティブ）
+　(Lv93/光)[HP:13000?][%%6500/6900%%→8450/8970]
+--[[D-モックー>MobDimension#Tairiku]]（アクティブ）
+　(Lv94/土)[HP:?][%%7500/7500%%→9750/9750]
+--[[D-ケイブローキー>MobDimension#Tairiku]]（アクティブ）
+　(Lv94/風)[HP:?][%%7200/7500%%→9360/9750]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション大陸の洞窟B3F [#l67244b0]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionContinentalCave/DimensionContinentalCaveB3F.png,nolink,ディメンション大陸の洞窟B3F);
+-隣接マップ：ディメンション大陸の洞窟B2F、ディメンション大陸の洞窟B4F
+-属性：土
+
+-出現モンスター
+--[[D-ローキー>MobDimension#Tairiku]]（アクティブ）
+　(Lv92/風)[HP:12000?][%%6300/6200%%→8190/8060]
+--[[D-ウィスプ>MobDimension#Tairiku]]（アクティブ）
+　(Lv93/光)[HP:13000?][%%6500/6900%%→8450/8970]
+--[[D-モックー>MobDimension#Tairiku]]（アクティブ）
+　(Lv94/土)[HP:?][%%7500/7500%%→9750/9750]
+--[[D-ケイブローキー>MobDimension#Tairiku]]（アクティブ）
+　(Lv94/風)[HP:?][%%7200/7500%%→9360/9750]
+--[[D-ブーピー>MobDimension#Tairiku]]（アクティブ）
+　(Lv95/光)[HP:?][%%7600/7900%%→9880/10270]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション大陸の洞窟B4F [#lf57522e]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionContinentalCave/DimensionContinentalCaveB4F.png,nolink,ディメンション大陸の洞窟B4F);
+-隣接マップ：ディメンション大陸の洞窟B3F、ディメンション大陸の洞窟B5F
+-属性：闇10
+
+-出現モンスター
+--[[D-モックー>MobDimension#Tairiku]]（アクティブ）
+　(Lv94/土)[HP:?][%%7500/7500%%→9750/9750]
+--[[D-ブーピー>MobDimension#Tairiku]]（アクティブ）
+　(Lv95/光)[HP:?][%%7600/7900%%→9880/10270]
+--[[D-ミイラ>MobDimension#Tairiku]]（アクティブ）
+　(Lv96/闇)[HP:?][%%6000/9000%%→7800/11700]
+--[[D-リヴィングデッド>MobDimension#Tairiku]]（アクティブ）
+　(Lv96/闇)[HP:?][%%9000/6000%%→11700/7800]
+--[[インビジブルメイジ>MobDimension#Tairiku]]（アクティブ）
+　(Lv100/闇)[HP:?][%%14000/13500%%→18200/17500]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション大陸の洞窟B5F [#t39c7c24]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionContinentalCave/DimensionContinentalCaveB5F.png,nolink,ディメンション大陸の洞窟B5F);
+-隣接マップ：ディメンション大陸の洞窟B4F
+-属性：水50
+-常時HP減少（水中、5秒毎にHPが100減少）
+
+-出現モンスター
+--[[D-ケイブフィッシュ>MobDimension#Tairiku]]（アクティブ）
+　(Lv94/水)[HP:?][%%8600/8800%%→11180/11440]
+--[[D-トルピード>MobDimension#Tairiku]]（アクティブ）
+　(Lv95/水)[HP:?][%%8900/8200%%→11570/10660]
+--[[D-ライギョー>MobDimension#Tairiku]]（アクティブ）
+　(Lv97/水)[HP:?][%%9999/9999%%→13000/13000]
+--[[D-ジルコンI>MobDimension#Tairiku]]（アクティブ）
+　(Lv98/光)[HP:?][%%9500/9800%%→12350/12740]
+--[[D-モクギョー>MobDimension#Tairiku]]（アクティブ）
+　(Lv99/水)[HP:?][%%12500/12000%%→16200/15600]
+--[[インビジブルメイジ>MobDimension#Tairiku]]（アクティブ）
+　(Lv100/闇)[HP:?][%%14000/13500%%→18200/17500]
+--[[グラフヴェルズ>MobDimension#Tairiku]]（アクティブ、BOSS）
+　(Lv110/土)[HP:?][?/?]
+--[[ラタトスク>MobDimension#Tairiku]]（アクティブ、BOSS）
+　(Lv111/光)[HP:300000?][150000/150000]
+--[[ニーズホッグ>MobDimension#Tairiku]]（アクティブ、BOSS、取り巻き：グラフヴェルズ）
+　(Lv115/水)[HP:3000000?][?/?]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**コメント欄 [#dcabe838]
+#pcomment

@@ -1,0 +1,17 @@
+# ドロップ率検証/ドミニオン系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[人間知識>ドロップ率検証#lb6d67cf]]
+
+***ドミニオン・アニムス [#u38b9160]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|たましいの粉|マジックポーション|マジックドリンク|聖者の涙|紫金の宝玉|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（800体）|396個（49.50％）|292個（36.50％）|92個（11.50％）|7個（0.88％）|1個（0.13％）|12個（1.50％）|
+
+***ドミニオン・マリシャス [#jf4bae1e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|たましいの粉|マジックポーション|魔力の結晶|紫金の宝玉|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|42個（42.00％）|42個（42.00％）|13個（13.00％）|1個（1.00％）|2個（2.00％）|

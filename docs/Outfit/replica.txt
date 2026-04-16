@@ -1,0 +1,251 @@
+# Outfit/replica
+
+#author("2017-04-07T17:38:25+00:00","","")
+*レプリカ装備品 [#bcaec9bc]
+#contents
+
+**レプリカ装備品について [#j0edafcd]
+-レプリカ装備品とは
+レプリカ装備品とは、特定の職業や一定のレベルを満たさないと装備できない装備品を、誰でも((2006/06/16：ノービス以外の全職業が装備可能とされていたものが、ノービスも装備可能に変更されました。))手軽に装備できるようにした''模造品''です。
+なので、見た目こそ同じですが、容量・重量を除くすべての性能が1です。
+-レプリカ装備品の使い方
+レプリカ装備品は何のために生まれてきたのか？
+そんな疑問にお答え致します。レプリカだって必要としてくれる人はいる！
+--装備して使う
+レプリカでも装備品。それなら装備して使いましょう。
+※耐久度1が心配な方は、憑依してもらうか憑依アイテムを探して使って下さい。（憑依者がオンライン／オフラインどちらの状態でも、装備品が削れなくなります。）
+---レプリカ右手装備・両手装備（レプリカ武器）
+これらのレプリカ装備品は、装備することによってその武器に応じた攻撃・魔法のアクションに変更されます。
+人気は、特定の職業に装備が限定されている両手装備品（特に両手剣）です。武器攻撃がダイナミックになります。
+AGIの高いキャラクターはもちろん、各DCを持ったプレイヤーに憑依してもらってDCをかけてもらうことでダイナミックさが倍増します。
+ワテさんが両手剣を豪快に振り回す！ なんていう姿も見ることができます。
+もちろん、レプリカなので攻撃力を期待してはいけません。あくまで見た目のアクションが重要です。
+---レプリカ左手装備（レプリカ盾）
+盾を装備できない職業にとっては、唯一の盾装備になります。
+%%特に、左手に実用的な装備品がないウィザード・シャーマン・ウァテスにとってはありがたい存在です。%%
+→今は左手アクセサリーや全職装備可能なレプリカ以外の盾も有るので重要度は下がりました。
+そのためレプリカ装備品の中で最も使用されている装備品になっています。
+防御力や回避は当然1ですが、レプリカでも盾は盾。たまに攻撃をGUARDしてくれます。
+---レプリカ頭部装備・上半身装備・下半身装備（レプリカ防具）
+これらはコーディネート性が高いレプリカ装備品です。
+装備しても外見が変わるだけで、武器のようなアクションや盾のGUARDのような有効な効力はありません。
+しかし馬子にも衣装です。職業やレベルを見た目で詐称することができます。
+--武具融合で使う
+レプリカ装備品は装備制限がほとんどないので、さまざまな装備品に対して融合させることができるほぼオールマイティな''「見た目」アイテム''です。
+使っている装備品の能力はそのままに、見た目だけ変更したいと言う方は、レプリカ装備品も選択肢の一つに加えることができます。
+今まで日の目を見なかったレプリカ装備品たちは、武具融合で活躍してくれることでしょう。
+--ジョブスイッチ時に装備して使う
+レプリカでもシステム上はその装備品として扱われますので、装備品依存のスキルを使うことができるようになります。壊れやすいので誰かに憑依してもらって使うのが吉。
+例）ブリーダにスイッチしたバードの場合 → レプリカハープを装備すれば、リラクゼーションなどの音楽スキルを使えます。
+
+**レプリカ右手装備 [#d39d6857]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~必要Lv|~耐久度|~攻撃力&br;叩/斬/突|~魔法攻撃力|~価格&br;(売価)|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/LongSword.png,nolink,36x36);|レプリカソード|1|1|1/1/1|-|-|3/3(3)|NPCエミル&br;(チュートリアル)|兼用|全種族|ノービス|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/SansaKen.gif,nolink,36x36);|レプリカ・ケルベロスファング|1|1|1/1/1|-|-|34/12(12)|コンテナ&br;(廃炭鉱D3F)|-|全種族|-|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Katar.gif,nolink,36x36);|レプリカ・カタール|1|1|1/1/1|-|-|24/12(12)|宝箱|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Houken.jpg,nolink,36x36);|レプリカ・宝剣|1|1|1/1/1|-|-|32/12(12)|宝箱11,コンテナ1,2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/AncientCrosier.jpg,nolink,36x36);|レプリカ・エンシェントクロージャ|1|1|1/1/1|1|-|25/8|宝箱3,コンテナ1|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/AncientWand.jpg,nolink,36x36);|レプリカ・エンシェントワンド|1|1|1/1/1|-|-|20/8|コンテナ|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Closer.jpg,nolink,36x36);|レプリカ・クロージャ|1|1|1/1/1|1|-|15/8(8)|-|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/FlameWand.jpg,nolink,36x36);|レプリカ・フレイムワンド|1|1|1/1/1|1|(100)|20/8(8)|コンテナ5|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/LightningWand.jpg,nolink,36x36);|レプリカ・ライトニングワンド|1|1|1/1/1|1|(100)|25/8(8)|コンテナ2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/MinstrelNote.jpg,nolink,36x36);|レプリカ・ミンストレルノート|1|1|1/1/1|1|-|20/8(8)|宝箱2,コンテナ2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Bo-wa.jpg,nolink,36x36);|レプリカ・ボーワ|1|1|1/1/1|1|-|25/12(12)|コンテナ1|兼用|全種族|全職業|-|
+//説明：杖の一種、右手装備　ボーワの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/MailBreaker.jpg,nolink,35x35);|レプリカ・メイルブレイカー|1|1|1/1/1|-|(100)|30/16(12)|宝箱|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/MorningStar.gif,nolink,36x36);|レプリカ・モーニングスター|1|1|1/1/1|-|-|24/5(5)|宝箱|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Lance.png,nolink,36x36);|レプリカ・ランス|1|1|1/1/1|-|-|20/12(12)|-|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/RippaNaOno.gif,nolink,36x36);|レプリカ・りっぱな斧（仮）|1|1|1/1/1|-|-|45/16(16)|宝箱&br;コンテナ|兼用|全種族|全職業|片手持ち|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Sprinkler.jpg,nolink,35x35);|レプリカ・スプリンクラー|1|1|1/1/1|1|-|55/6(6)|-|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/GiantCrossBow.jpg,nolink,35x35);|レプリカ・ジャイアントクロスボウ|1|1|-/-/1|-|-|35/20(20)|宝箱5|兼用|全種族|アーチャー|矢必要|
+|-|レプリカ・バリアタブ|1|1|-/-/1|-|-|25/16(16)|レプリカ宝箱|兼用|全種族|アーチャー|矢必要|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/LaserGun.jpg,nolink,36x36);|レプリカ・レーザーガン|1|1|1/1/1|-|-|25/8(8)|コンテナ5|兼用|全種族|全職業|実包(弾)必要|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Tanjuu.jpg,nolink,36x36);|レプリカ・短銃|1|1|-/-/1|-|(100)|8/4(4)|宝箱9,11,コンテナ1,5|兼用|全種族|全職業|実包(弾)必要|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/MusketJuu.jpg,nolink,36x36);|レプリカ・マスケットライフル|1|1|-/-/1|-|(100)|10/10(10)|コンテナ1,5&br;天まで続く塔の島ドミ側武具商人1100G|兼用|全種族|全職業|実包(弾)必要|
+|-|レプリカ・鏡花水月の扇|1|1|1/1/1|-|-|3/3(1)|エンシェントアーク報酬|兼用|全種族|全職業|ハンマー|
+
+
+//武器追加コピペ用
+//|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//|~画像|~名前|~必要Lv|~耐久度|~攻撃力&br;叩/斬/突|~魔法攻撃力|~価格&br;(売価)|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+//|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+**レプリカ両手装備 [#t7267904]
+|~画像|~名前|~必要Lv|~耐久度|~攻撃力&br;叩/斬/突|~魔法攻撃力|~価格&br;(売価)|~追加効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Urieganofu.jpg,nolink,36x35);|レプリカ・ウリエガノフ|1|1|1/1/1|-|-|-|30/16(16)|コンテナ2|兼用|全種族|全職業|-|
+//説明：ロングソードの一種、両手装備　伝説の両大剣　大剣では珍しく　斬る、突く攻撃に優れている
+|-|レプリカ・刀|1|1|1/1/1|-|-|クリティカル率アップ|15/18(18)|コンテナ2|兼用|全種族|全職業|-|
+//説明：ロングソードの一種、両手装備　ロングソードの模造品|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/GreatedSpear.jpg,nolink,36x36);|レプリカ・グレイテッドスピア|1|1|1/1/1|-|-|-|80/17(17)|コンテナ2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/GiantAx.jpg,nolink,36x36);|レプリカ・ジャイアントアックス|1|1|1/1/1|-|-|-|50/17(17)|宝箱5|兼用|全種族|全職業|両手持ち|
+//説明：アックスの一種、両手装備　ジャイアントアックスの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/StunBlade.jpg,nolink,37x37);|レプリカ・スタンブレイド|1|1|1/1/1|-|-|クリティカル率アップ|48/18(18)|宝箱11, コンテナ1,2|兼用|全種族|全職業|固有エフェクト有り 06/06/09名称変更|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Tachi.jpg,nolink,35x35);|レプリカ・太刀|1|1|1/1/1|-|-|クリティカル率アップ|30/18(18)|コンテナ2|兼用|全種族|全職業|両手持ち|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KowaretaTrueHammer.jpg,nolink,36x36);|レプリカ・トゥールハンマー|1|1|1/1/1|-|-|-|50/18(18)|コンテナ2|兼用|全種族|全職業|-|
+//説明：ハンマーの一種、両手装備　トゥールハンマーの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TogetogeTaiken.jpg,nolink,36x36);|レプリカ・とげとげ大剣|1|1|1/1/1|-|-|クリティカル率アップ|35/20(20)|コンテナ2|兼用|全種族|全職業|-|
+//説明：ロングソードの一種、両手装備　とげとげ大剣の模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Trident.png,nolink,36x36);|レプリカ・トライデント|1|1|1/1/1|-|-|-|50/14(14)|宝箱5,コンテナ2,飛空城ブース|兼用|全種族|全職業|-|
+//説明：スピアの一種、両手装備　トライデントの模造品
+|-|レプリカ・長い斧（仮）|1|1|1/1/1|-|-|-|70/18|コンテナ|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/NagaiOno.jpg,nolink,36x36);|レプリカ・長い斧|1|1|1/1/1|-|-|-|70/18(18)|コンテナ2|兼用|全種族|全職業|-|
+//説明：アックスの一種、両手装備　長い斧の模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/NagaiRyouOno.jpg,nolink,36x36);|レプリカ・長い両斧|1|1|1/1/1|-|-|-|55/18(18)|宝箱5,|兼用|全種族|全職業|-|
+//説明：アックスの一種、両手装備　長い両斧の模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Halberd.jpg,nolink,36x36);|レプリカ・ハルバード|1|1|1/1/1|-|-|-|80/19(19)|宝箱5,コンテナ2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/HeavyHammer.jpg,nolink,35x35);|レプリカ・ヘビーハンマー|1|1|1/1/1|-|-|-|45/15(15)|-|兼用|全種族|全職業|-|
+//説明：ハンマーの一種、両手装備　ヘビーハンマーの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Hammer.jpg,nolink,36x35);|レプリカ・メロディアスハンマー|1|1|1/1/1|-|-|-|35/14(14)|宝箱5,8,9,コンテナ2|兼用|全種族|全職業|-|
+//説明：ハンマーの一種、両手装備　メロディアスハンマーの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/LaserBlade.jpg,nolink,36x36);|レプリカ・レーザーブレイド|1|1|1/1/1|-|-|クリティカル率アップ|50/18(18)|宝箱8,9,コンテナ1,2,5|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Kokurou.jpg,nolink,32x32);|レプリカ・黒狼|1|1|1/1/1|-|-|クリティカル率アップ|60/20(20)|コンテナ1|兼用|全種族|全職業|06/04/07右手装備→両手装備に変更|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ScoutClaw.jpg,nolink,36x36);|レプリカ・スカウトクロー|1|1|1/1/1|-|-|-|25/20(20)|天まで続く塔の島ドミ側武具商人1100G,飛空城ブース|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Harp.jpg,nolink,36x36);|レプリカ・ハープ|1|1|1/1/1|1|-|-|26/13(13)|宝箱2,コンテナ2,飛空城ブース|兼用|全種族|全職業|弦楽器|
+|-|レプリカ・宝呪剣「骸殺し」|1|1|1/1/1|-|-|クリティカル率アップ|65/24(24)|エンシェントアーク報酬|兼用|全種族|全職業|-|
+|-|レプリカ・バレ・ソルシエール|1|1|1/0/1|10|-|移動力+10|10/20(20)|エンシェントアーク報酬|兼用|全種族|全職業|杖|
+
+//両手追加コピペ用
+//|~画像|~名前|~必要Lv|~耐久度|~攻撃力&br;叩/斬/突|~魔法攻撃力|~価格&br;(売価)|~追加効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+//|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+**レプリカ左手装備 [#u0fd62e8]
+|~画像|~名前|~必要Lv|~耐久度|~物防&br;/魔防|~近回避&br;/遠回避|~効果|~価格|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KiteShield.png,nolink,36x36);|レプリカ・カイトシールド|1|1|1/1|1/1|-|-|15/8(8)|宝箱|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/CrystalShield.jpg,nolink,36x35);|レプリカ・クリスタルシールド|1|1|1/1|1/1|-|-|28/12(12)|レプリカ宝箱|兼用|全種族|全職業|-|
+//説明：シールドの一種、左手装備　クリスタルシールドの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KokurouNoTate.jpg,nolink,36x36);|レプリカ・黒狼の盾|1|1|1/1|1/1|-|-|30/15(15)|コンテナ1|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/CompositeShield.jpg,nolink,36x36);|レプリカ・コンポジットシールド|1|1|1/1|1/1|-|-|26/16(16)|コンテナ1|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/SpikeShield.gif,nolink,36x36);|レプリカ・スパイクシールド|1|1|1/1|1/1|-|-|18/10(10)|コンテナ2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/SwordStopper.jpg,nolink,36x36);|レプリカ・ソードストッパー|1|1|1/1|1/1|-|-|12/8(8)|宝箱3,コンテナ1,2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TowerShield.jpg,nolink,34x37);|レプリカ・タワーシールド|1|1|1/1|1/1|-|-|25/13(13)|宝箱5,コンテナ1|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/HeaterShield.jpg,nolink,38x38);|レプリカ・ヒーターシールド|1|1|1/1|1/1|-|-|20/12(12)|宝箱5,コンテナ2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/BeamShield.jpg,nolink,36x36);|レプリカ・ビームシールド|1|1|1/1|1/1|-|-|24/7(7)|宝箱8,9,コンテナ1,2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ReactiveShield.jpg,nolink,36x35);|レプリカ・リアクティブシールド|1|1|1/1|1/1|-|-|28/16(16)|コンテナ2|兼用|全種族|全職業|-|
+|-|レプリカ・センチネルシールド|1|1|-|-|-|-|8/12(6)|エンシェントアーク報酬|兼用|全種族|全職業|-|
+|-|レプリカ・ゴーレムシールド|1|1|-|-|-|-|8/12(6)|エンシェントアーク報酬|兼用|全種族|全職業|-|
+
+//左手追加コピペ用
+//|~画像|~名前|~必要Lv|~耐久度|~物防&br;/魔防|~近回避&br;/遠回避|~効果|~価格|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~備考|h
+//|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+**レプリカ頭部装備 [#q283e733]
+|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|CENTER:|CENTER:|c
+|~画像|~名前|~必要Lv|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/StudlessPlateMet.jpg,nolink,35x35);|レプリカ・アーメット|1|1|1/1|-|-|32/15(7)|宝箱5,コンテナ2|兼用|全種族|全職業|外見:アーメット（銀）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KakutouBoushi.jpg,nolink,36x36);|レプリカ・格闘帽子|1|1|1/1|-|-|3/10(5)|「スペクター」ドロップ,コンテナ（炭坑D3F）|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/PierrotBou.jpg,nolink,36x36);|レプリカ・ピエロ帽|1|1|1/1|-|-|8/20(10)|宝箱2|兼用|全種族|全職業|外見:ピエロ帽（赤）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/HornedMet.jpg,nolink,36x36);|レプリカ・ホーンドメット|1|1|1/1|-|-|28/15(7)|宝箱5,コンテナ2|兼用|全種族|全職業|-|
+//説明：頭部装備、　ヘルメットの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TitaniaNoKabuto.jpg,nolink,35x35);|レプリカ・エミルの兜|1|1|1/1|-|-|36/15(7)|宝箱5,コンテナ2|兼用|人|全職業|外見:ロードヘルム（水色）|
+//説明：頭部装備、　エミルの兜の模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TitaniaNoKabuto.jpg,nolink,35x35);|レプリカ・ドミニオンの兜|1|1|1/1|-|-|36/15(7)|宝箱5,コンテナ2|兼用|悪|全職業|外見:ロードヘルム（水色）|
+//説明：頭部装備、　兜の模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TitaniaNoKabuto.jpg,nolink,35x35);|レプリカ・タイタニアの兜|1|1|1/1|-|-|36/15(7)|宝箱5,コンテナ2|兼用|天|全職業|外見:ロードヘルム（水色）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ShisaiNoBoushi.gif,nolink,36x36);|レプリカ・司祭の帽子|1|1|1/1|-|-|8/20(10)|宝箱4,コンテナ2|兼用|全種族|全職業|外見:司祭の帽子（青）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KawaKabuto.jpg,nolink,35x35);|レプリカ・革兜|1|1|1/1|-|-|24/15(7)|コンテナ|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TetsuKabuto.gif,nolink,36x36);|レプリカ・鉄兜|1|1|1/1|-|-|24/15(7)|コンテナ|兼用|全種族|全職業|βのデータ？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Helmet.gif,nolink,36x36);|レプリカ・ヘルメット|1|1|1/1|-|-|15/10(5)|宝箱|兼用|全種族|全職業|βのデータ？|
+|-|レプリカ・トライアンアイパッチ|1|10|1/1|-|-|1/1(1)|エンシェントアーク報酬|兼用|全種族|ジョイントジョブ以外|顔アクセ|
+
+//頭部追加コピペ用
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|CENTER:|CENTER:|c
+//|~画像|~名前|~必要Lv|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|
+//|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+**レプリカ上半身装備 [#w411054b]
+|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|CENTER:|CENTER:|c
+|~画像|~名前|~必要Lv|~条件|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ZipUpShirtM.jpg,nolink,36x36);|レプリカ・ジップアップシャツ♂|1|-|15|2/2|-|-|2/1(1)|タイニーアイランド商人|男|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ShiroiShirtM.jpg,nolink,36x36);|レプリカ・白いシャツ♂|1|-|8|2/2|-|-|9/10(5)|タイニーアイランド商人|男|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/NaturalTopsF.jpg,nolink,36x36);|レプリカ・ナチュラル・トップス♀|1|-|15|2/2|-|-|8/16(8)|タイニーアイランド商人|女|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/FrillM.jpg,nolink,35x35);|レプリカ・フリル♂|1|-|5|1/1|-|-|2/2(1)|初期装備：天男|男|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/FrillF.jpg,nolink,36x36);|レプリカ・フリル♀|1|-|5|1/1|-|-|2/2(1)|初期装備：天女|女|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ArcherMail.jpg,nolink,34x36);|レプリカ・アーチャーメイル|1|-|1|1/1|-|-|34/21(12)|コンテナ|兼用|全種族|全職業|-|
+//説明：上半身装備　アーチャーメイルの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TitaniaRobe.gif,nolink,36x36);|レプリカ・ウァテスローブ|1|-|1|1/1|-|-|20/16(8)|レプリカ宝箱|-|全種族|全職業|-|
+//上半身装備。タイタニアローブの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Kakutougi.jpg,nolink,36x36);|レプリカ・格闘着|1|-|1|1/1|-|-|5/7(6)|コンテナ2|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KawajanM.gif,nolink,34x34);|レプリカ・革ジャン♂|1|-|1|1/1|-|-|20/15()|廃炭鉱コンテナ|男|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/HighLeatherArmor.jpg,nolink,35x35);|レプリカ・黒いハイレザーアーマー|1|-|1|1/1|-|-|30/24(12)|コンテナ|兼用|全種族|全職業|-|
+//説明：上半身装備　ハイレザーアーマーの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KokurouNoYoroi.jpg,nolink,36x36);|レプリカ・黒狼の鎧|1|-|1|1/1|-|-|45/27(13)|大陸の洞窟５Fコンテナ|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TitaniaMail.jpg,nolink,36x36);|レプリカ・タイタニアメイル|1|-|1|1/1|(100)|-|36/25(12)|木箱4,宝箱4,コンテナ2|兼用|天|全職業|-|
+//説明：上半身装備　タイタニアメイルの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TitaniaOne-piece.jpg,nolink,36x36);|レプリカ・タイタニアワンピース♀|1|-|1|1/1|-|-|18/17|木箱4,宝箱4|女|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/DominionTuxedoM.jpg,nolink,36x36);|レプリカ・ドミニオンタキシード♂|1|-|1|1/1|-|-|25/20(10)|コンテナ2|男|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/DominionPlate.jpg,nolink,35x36);|レプリカ・ドミニオンプレート|1|-|1|1/1|-|-|40/25(12)|コンテナ2|兼用|悪|全職業|外見：ロードメイル（紫）|
+//説明：上半身装備　ドミニオンプレートの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ArcherMail.jpg,nolink,34x36);|レプリカ・プレートメイル|1|-|1|1/1|-|-|38/25(12)|宝箱2,コンテナ2|兼用|全種族|全職業|外見：プレートメイル（赤）|
+//説明：上半身装備　プレートメイルの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ArcherMail.jpg,nolink,34x36);|レプリカ・ハイプレートメイル|1|-|1|1/1|-|-|38/25(12)|宝箱2,コンテナ2|兼用|全種族|全職業|外見：ハイプレートメイル（赤）|
+//説明：上半身装備　プレートメイルの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/HighLeatherArmor.jpg,nolink,35x35);|レプリカ・ハイレザーアーマー|1|-|1|1/1|(100)|-|30/24(12)|-|兼用|全種族|全職業|-|
+|-|レプリカ・フリルリボンカットソー|1|-|1|1/1|-|-|8/8(4)|エンシェントアーク報酬|兼用|全種族|全職業|-|
+|-|レプリカ・漆黒王の礼服|1|-|1|3/3|-|闇属性値10|8/8(4)|エンシェントアーク報酬|兼用|全種族|全職業|-|
+
+//上半身追加コピペ用
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RRIGHT:|IGHT:|CENTER:|CENTER:|c
+//|~画像|~名前|~必要Lv|~条件|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+//|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+**レプリカ下半身装備 [#m35c5c89]
+|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RIGHT:|RIGHT:|CENTER:|CENTER:|c
+|~画像|~名前|~必要Lv|~条件|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/NagaZubon.jpg,nolink,36x36);|レプリカ・長ズボン（デニム）|1|-|5|1/1|-|-|8/7(3)|タイニーアイランド商人|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/MeisaiNoZubon.jpg,nolink,36x36);|レプリカ・迷彩のズボン|1|-|5|1/1|-|-|8/7(3)|タイニーアイランド商人|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/NagaZubon.jpg,nolink,36x36);|レプリカ・長ズボン（ベージュ）|1|-|5|1/1|-|-|8/7(3)|初期装備：天男|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ShortPants.jpg,nolink,35x35);|レプリカ・ショートパンツ|1|-|5|1/1|-|-|7/5(2)|初期装備：悪女|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/HizakozouPants.jpg,nolink,36x36);|レプリカ・ひざ小僧パンツ|1|-|5|1/1|-|-|7/5(2)|初期装備：悪男|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KakutouZubon.jpg,nolink,35x35);|レプリカ・格闘ズボン|1|-|1|1/1|-|-|8/7(9)|コンテナ|兼用|全種族|全職業|-|
+|-|レプリカ・ウエスタンブーツ|1|-|1|1/1|-|-|12/12(6)|-|兼用|人悪|全職業|-|
+//説明：靴装備　ウエスタンブーツの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Anzengutsu.jpg,nolink,36x36);|レプリカ・安全靴|1|-|1|1/1|(100)|-|12/8(4)|木箱|兼用|全種族(6/23up)|全職業|-|
+//説明：靴装備　安全靴の模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KoutetsuNoKutsu.jpg,nolink,36x36);|レプリカ・炎鉄の靴|1|-|1|1/1|(100)|-|18/12(6)|コンテナ2|兼用|全種族|全職業|-|
+//説明：靴装備　炎鉄の靴の模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/SpikeBoots.png,nolink,36x36);|レプリカ・スパイクブーツ|1|-|1|1/1|-|-|14/12(6)|-|兼用|全種族(6/23up)|全職業|-|
+//説明：靴装備　スパイクブーツの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/TitanianMailBoots.jpg,nolink,36x36);|レプリカ・タイタニアブーツ|1|-|1|1/1|-|-|12/12(6)|-|兼用|天|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/DominionBoots.jpg,nolink,36x36);|レプリカ・ドミニオンブーツ|1|-|1|1/1|-|-|20/12(6)|コンテナ2|兼用|悪|全職業|-|
+//説明：靴装備　ドミニオンブーツの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KokurouNoBoots.png,nolink,36x36);|レプリカ・黒狼のブーツ|1|-|1|1/1|-|-|30/16(8)|コンテナ1|兼用|全種族|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/ChainMailBoots.jpg,nolink,36x36);|レプリカ・チェーンメイルブーツ|1|-|1|1/1|-|-|20/16(8)|レプリカ宝箱|兼用|人悪|全職業|外見:炎鉄のブーツ|
+//説明：下半身装備　チェーンメイルブーツの　模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/KokurouNoBoots.png,nolink,36x36);|レプリカ・タイタニアメイルブーツ|1|-|1|1/1|-|-|25/16(8)|コンテナ2|兼用|天|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/StudlessPlateBoots.jpg,nolink,36x36);|レプリカ・ドミニオンプレートブーツ|1|-|1|1/1|-|-|25/16(8)|コンテナ2|兼用|悪|全職業|-|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/StudlessPlateBoots.jpg,nolink,36x36);|レプリカ・プレートブーツ|1|-|1|1/1|-|-|25/16(8)|コンテナ|兼用|全種族|全職業|外見:プレートブーツ(銀)|
+//説明：靴装備　プレートブーツの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/StudlessPlateBoots.jpg,nolink,36x36);|レプリカ・プレートメイルブーツ|1|-|1|1/1|-|-|25/16(8)|コンテナ2|兼用|全種族(7/21up)|全職業|外見:プレートブーツ(赤)|
+//説明：靴装備　プレートメールブーツの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/LeatherBoots.jpg,nolink,36x36);|レプリカ・レザーブーツ|1|-|1|1/1|-|-|20/16(8)|コンテナ2|兼用|全種族|全職業|-|
+|~|レプリカ・レザーブーツ（黒）|1|-|1|1/1|-|-|20/16(8)|コンテナ2|兼用|全種族|全職業|-|
+|~|レプリカ・レザーブーツ（なめし）|1|-|1|1/1|-|-|20/16(8)|コンテナ2|兼用|全種族|全職業|-|
+//説明：靴装備　レザーブーツの模造品
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/image/Pumps.jpg,nolink,36x36);|レプリカパンプス♀（赤）|1|-|-|1/1|-|-|4/4(2)|アップタウン東可動橋シルバーメダルアイテムBOX|女|全種族|全職業|-|
+|~|レプリカパンプス♀（黒）|1|-|-|1/1|-|-|4/4(2)|アップタウン東可動橋シルバーメダルアイテムBOX|女|全種族|全職業|-|
+
+//下半身追加コピペ用
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RRIGHT:|IGHT:|CENTER:|CENTER:|c
+//|~画像|~名前|~必要Lv|~条件|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+//|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+**レプリカ背中装備 [#h608fd64]
+|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RRIGHT:|IGHT:|CENTER:|CENTER:|c
+|~画像|~名前|~必要Lv|~条件|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~追加効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+|-|レプリカ・シエルヒップバッグ|1|-|1|-|-|最大重量+15最大容量+40|3/6(6)|エンシェントアーク報酬|兼用|全種族|全職業|-|
+|-|レプリカ・ルナーアルジャバ|1|-|1|-|-|最大重量+15最大容量+40|3/3(3)|エンシェントアーク報酬|兼用|全種族|全職業|-|
+
+**レプリカ胸装備 [#xed419c1]
+|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|RRIGHT:|IGHT:|CENTER:|CENTER:|c
+|~画像|~名前|~必要Lv|~条件|~耐久度|~物防&br;/魔防|~価格&br;(売価)|~追加効果|~重量/容量&br;(装備時容量)|~入手方法|~性別|~種族|~職業|~備考|h
+|-|レプリカ・神威の外套|1|-|1|1/1|-|-|2/2(1)|エンシェントアーク報酬|兼用|全種族|ジョイントジョブ以外|-|
+|-|レプリカ・マジカチェーン|1|-|1|1/1|-|-|2/2(1)|エンシェントアーク報酬|兼用|全種族|ジョイントジョブ以外|-|
+|-|レプリカ・アンジェロシャルパー|1|-|1|1/1|-|-|2/2(1)|エンシェントアーク報酬|兼用|全種族|ジョイントジョブ以外|-|
+|-|レプリカ・ケット・シーの襟巻き|1|-|1|1/1|-|-|2/2(1)|エンシェントアーク報酬|兼用|全種族|ジョイントジョブ以外|-|
+
+
+*コメント欄（Wikiが苦手な方はこちらへ） [#qc29ce5f]
+COLOR(RED):見かけました、だけでは反映されません。
+
+#pcomment

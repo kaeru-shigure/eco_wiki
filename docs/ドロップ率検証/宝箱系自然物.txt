@@ -1,0 +1,45 @@
+# ドロップ率検証/宝箱系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[宝箱知識>ドロップ率検証#i7d2b489]]
+
+***宝箱 [#e342a402]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||宝箱|木片|直ドロップ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|56個（56.00％）|36個（36.00％）|8個（8.00％）|
+|知識あり（300体）|174個（58.00％）|88個（29.33％）|38個（12.67％）|
+
+***宝箱 アンロックLv1 [#g64d6276]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||宝箱|木片|直ドロップ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|76個（76.00％）|15個（15.00％）|9個（9.00％）|
+|知識あり（200体）|131個（65.50％）|38個（19.00％）|31個（15.50％）|
+
+***宝箱 アンロックLv2 [#y6d10637]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||宝箱|木片|直ドロップ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|71個（71.00％）|20個（20.00％）|9個（9.00％）|
+|知識あり（200体）|142個（71.00％）|21個（10.50％）|37個（18.50％）|
+
+***宝箱 アンロックLv3 [#w9b58df3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||宝箱|木片|直ドロップ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|80個（80.00％）|7個（7.00％）|13個（13.00％）|
+|知識あり（200体）|138個（69.00％）|23個（11.50％）|39個（19.50％）|
+
+***宝箱 アンロックLv4 [#xf7834af]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||宝箱|木片|直ドロップ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|74個（74.00％）|11個（11.00％）|15個（15.00％）|
+|知識あり（200体）|156個（78.00％）|17個（8.50％）|27個（13.50％）|
+
+***宝箱 アンロックLv5 [#b2b3d882]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||宝箱|木片|直ドロップ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|164個（82.00％）|11個（5.50％）|25個（12.50％）|
+|知識あり（200体）|147個（73.50％）|15個（7.50％）|38個（19.00％）|

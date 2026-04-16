@@ -1,0 +1,12 @@
+# Skill/Another/MenuList
+
+#author("2016-10-27T06:59:25+00:00","","")
+[[アナザークロニクル概要 >Job/AnotherChronicle]]/[[ プロローグイベント >Event/AnotherChroniclePrologue]]/[[ アナザーエンシェントアーク(EXキャプチャー) >Quest/AncientArk/ExCapture]]/[[ キャプチャー報酬 >Quest/AncientArk/ExCapture/BoxDrop]]
+
+[[アナザーページ一覧>Job/AnotherChronicle#AC_PageList]]
+FT([[ バステト >Skill/Another/Bastet]]/[[ キャプテンキッド >Skill/Another/Captainkidd]]/[[ ワーウルフ >Skill/Another/Werewolf]]/[[ ルチフェロ >Skill/Another/Lucifero]])　SU([[ アルカード >Skill/Another/Alucard]]/[[ 清姫 >Skill/Another/Kiyohime]]/[[ ル・フェイ >Skill/Another/Lefay]]/[[ ローレライ >Skill/Another/Loreley]])
+BP([[ 玉藻 >Skill/Another/Tamamo]]/[[ パラケルスス >Skill/Another/Paracelsus]]/[[ メフィストフェレス >Skill/Another/Mephistopheles]]/[[ ステラ >Skill/Another/Stellar]])　NV/JO([[ イリス >Skill/Another/Iris]])
+
+RIGHT:&size(12){&edit(,noicon){このメニューを編集};};
+
+//[[新規ページ用テンプレート>Skill/Another/Template]]

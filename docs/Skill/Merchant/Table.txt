@@ -1,0 +1,35 @@
+# Skill/Merchant/Table
+
+-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+☆:必須クラス
+◎:取得推奨
+○:あると便利
+△:限定状況でのみ役に立つ
+×:全く役に立たない
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #マーチャント>Dungeon/InfiniteCorridorAbyssSkill#xe646adf]]''
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:400|c
+|~Job&br;LV|~名称|~略称|~Max&br;Lv|~型|~消費SP/MP|~評価|~効果|h
+|RIGHT:|LEFT:|CENTER:|CENTER:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|1|[[パッキング >../Explanation#oceb1007]]|-|5|&color(blue){P};|-|☆|最大キャパシティを増加させる。&br;地味ながら狩りでも商売でも大変有効なスキル。|
+|2|[[最大HP上昇 >../Explanation#ddc07603]]|-|5|&color(blue){P};|-|☆|最大HPを上昇させる。&br;VITが高いほど有効。取って損は無い。|
+|4|[[最大SP上昇 >../Explanation#e2b8ecbf]]|-|5|&color(blue){P};|-|○|最大SPを上昇させる|
+|5|[[HP回復率上昇 >../Explanation#c8fa3b9b]]|-|5|&color(blue){P};|-|◎|HPの回復率を上昇させる|
+|7|[[鑑定 >../Explanation#t4fc0a1b]]|-|1|&color(red){A};|SP:1 MP:1|△|未鑑定品の鑑定が出来る。NPCで代用可能。|
+|9|[[メイスマスタリー >../Explanation#e696e63f]]|-|5|&color(blue){P};|-|○|鈍器装備時に最低攻撃力を上昇させる。鈍器型なら☆。&br;ただし転職後は鞄が主力武器になるため、最終的に使わなくなる可能性が高い。|
+|10|[[SP回復率上昇 >../Explanation#z8adec02]]|-|5|&color(blue){P};|-|◎|SPの回復率を上昇させる|
+|10|[[ブロウ >../Explanation#bffa55fd]]|-|5|&color(red){A};|SP:4/5/6/7/8|◎|相手を武器で殴りつける。&br;バックパッカー系共通のシンプルな攻撃スキル。|
+|12|[[ビートダウン >../Explanation#tc28860a]]|BD|10|&color(blue){P};|-|◎|NPCからの購入金額が低下する。&br;モーグ炭、実包など、消耗品を購入する機会が多い人ほど有効。|
+|15|[[キャンプ >../Explanation#na460ea1]]|-|10|&color(red){A};|SP:5|△|その場にテントを張れる。専用のアイテム『[[テント>http://eco.acronia.net/itemdb/#id=1653]]』が必要。&br;スキルレベルを上げると、テントの損耗を抑える事ができる。&br;多くのマップで安全地帯を作れる。&br;しかしこれにスキルポイントを多く使う必要性は全く無い。|
+|17|[[プライスハイク >../Explanation#jece3466]]|PH|10|&color(blue){P};|-|◎|商人への売却金額が増加する。よそ者商人クエストで☆。&br;初心者にとって序盤から拾えるアイテムの多くは、これでNPCに売るより買取ゴーレムに放り込んだ方がお金になる事も多いと知っておこう。|
+|20|[[焚き火 >../Explanation#b95172f2]]|-|3|&color(red){A};|SP:10/15/20|△|専用のアイテム『[[木片>http://eco.acronia.net/itemdb/#id=2595]]』が必要。&br;回復量はわずかで、狩りでの有用性も乏しい。|
+|25|[[応援 >../Explanation#n3bd68cc]]|-|5|&color(red){A};|SP:5/10/15/20/25|◎|対象の最小物理攻撃力を一時的に上昇させる。中盤まで有用|
+|28|[[バニシングブロウ >../Explanation#fcc5001d]]|-|5|&color(red){A};|SP:5/5/7/7/9|◎|相手を武器で殴り飛ばす、ブロウと好きな方を選択|
+|30|[[亀の構え >../Explanation#ffd8260d]]|-|5|&color(red){A};|SP:10/15/25|×|防御力が大幅に上昇する。&br;移動などをしない限り継続する。&br;現状、使い所が全く無い･･･。|
+|30|[[お得意様倉庫>../Explanation#otokuisama]]|-|20|&color(blue){P};|-|○/×|ギルド商人のお得意様倉庫が使用できるようになる。&br;取得ＬＶが高くなるにつれ使用できる枠数が増える。&br;EXアイテム「お得意様倉庫チケット」で代替可能。|
+|40|[[ごうりき >../Explanation#l38ee9c5]]|-|5|&color(blue){P};|-|☆|最大ペイロードを増加させる。&br;その性質上、パッキングあってのスキルである。取得推奨。|
+|45|[[ライオットハンマー >../Explanation#ae3dba2e]]|-|5|&color(red){A};|SP:45/50/55/60/65|×/△|対象をパーティーメンバーの脇から攻撃する&br;対象の近くにパーティーメンバーがいないと発動しない。&br;現在の仕様で、これを取得する必要は無いだろう。|
+|50|[[ファシーボイス >../Explanation#d16c2f80]]|-|5|&color(red){A};|SP:6/9/12/15/20|◎|対象の集中力を乱す声を出し魔法攻撃力を低下させる。強ボス戦で有効|

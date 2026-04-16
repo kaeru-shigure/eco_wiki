@@ -1,0 +1,45 @@
+# PetList/automata
+
+#author("2017-04-07T17:41:19+00:00","","")
+#include(Pet/PetMenu,notitle)
+*ペット一覧表 （背負い魔・オートマタ） [#j0604031]
+#contents
+
+--パラメーターは、レイアウトの関係で英語表記としています。
+---パラメーターの表示順序はゲーム内の説明と同じです。
+---初期パラメーターのうち、&color(#a0a0a0){''灰色で表示''};されたものはかつて隠しステータスであり、数値が確定出来ませんでした。確定したもののみ黒で表示に戻してください。
+
+**背負い魔・オートマタ [#AutoMata]
+-[[オートマタ入手イベント>Event/Automata]]はDEMのみ。
+-イベントによりDEM用のパーツ化が出来る。
+--[[ディメンションパーツ化イベント>Event/Automata#h38b258e]]
+--[[ディメンションパーツデータ>DEM/Parts#wc18d534]]
+-セット・オートマタユナイトフォーム、オートマタブースト
+--[[入手イベント>Event/Automata#ob5921d0]]
+--[[パーツデータ>DEM/Parts#Yunaito]]
+
+***背負い魔・オートマタ（アメジスト） [#ab0ef6c9]
+|CENTER:128|CENTER:20|RIGHT:85|RIGHT:55|LEFT:570|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Automata.jpg,nolink,128x128);|-|HP:240&br;MP:80&br;SP:80&br;ATK:10&br;M.ATK:30&br;DEF:4&br;M.DEF:10&br;S.HIT:34&br;L.HIT:20&br;M.HIT:100&br;S.AVOID:60&br;L.AVOID:20&br;M.RST:120&br;CRITICAL:20&br;CAPA: +50&br;PAYL: +50&br;&br;C.AVOID:20&br;A.SPD:200&br;C.SPD:200&br;RCV:100&br;M.RCV:1&br;S.RCV:0|&color(#000000){+1980};&br;&br;&br;+30&br;&color(#000000){+95};&br;+145&br;+95&br;+100&br;+75&br;&color(#000000){+300};&br;+180&br;+60&br;&color(#000000){+360};&br;+65&br;&br;&br;&br;+65&br;+200&br;&color(#a0a0a1){+200};&br;+100&br;+13&br;+100|【説明】&br;2010/03/26のアップデートで実装されたオートマタ。&br;元ＤＥＭであった所為か機械的な口調が目立つ、いわゆるクール天然。&br;普段は冷静だが、時折寂しがり屋＆内省的な一面も覗かせる。&br;「[[台詞ページ>PetSpeech/Automata/Amethyst]]」&br;&br;攻撃の際には銃を使用、通常攻撃射程３&br;&br;【ユニオン時】&br;系統：オートマタ系　攻撃タイプ：叩き&br;MP80&br;SP80&br;DEF(%)6&br;MDEF(%)16&br;&br;【使用スキル】&br;デフラグ ： HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇（非ユニオン時はPCには使用しない）&br;コンセントレート&br;アタック・バースト&br;ディフェンス・バースト&br;リヴァイブ&br;&br;入手イベントは[[こちら>Event/Automata#oead0313]]|
+
+***背負い魔・オートマタ（ルビー） [#cc696a1c]
+|CENTER:128|CENTER:20|RIGHT:85|RIGHT:55|LEFT:570|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/rubi.JPG,nolink,128x124);|-|HP:350&br;ATK:55&br;M.ATK:30&br;DEF:15&br;M.DEF:10&br;S.HIT:50&br;L.HIT:20&br;M.HIT:100&br;S.AVOID:70&br;L.AVOID:25&br;M.RST:120&br;CRITICAL:45&br;CAPA: +35&br;PAYL: +35&br;&br;C.AVOID:30&br;A.SPD:200&br;C.SPD:200&br;RCV:100&br;M.RCV:1&br;S.RCV:0|&color(#000000){+};2100&br;+30&br;+95&br;+160&br;+90&br;+115&br;+60&br;+300&br;+180&br;+60&br;&color(#000000){+360};&br;+70&br;&br;&br;&br;+65&br;+200&br;&color(#a0a0a1){+200};&br;&color(#a0a0a3){+100};&br;&color(#a0a0a4){+?};&br;&color(#a0a0a5){+?};|【説明】&br;2010/04/23のアップデートで実装されたオートマタ。&br;杏、トラに続く男の子で、口調はやや乱暴。たまに死亡フラグを立てる。&br;「[[台詞ページ>PetSpeech/Automata/Ruby]]」&br;&br;持っている斧で攻撃を行う。他の背負い魔に比べ、攻撃力がズバ抜けて高い。&br;その代わりにペイキャパ上昇は低め。&br;&br;【ユニオン時】&br;系統：オートマタ系　攻撃タイプ：叩き&br;MP80&br;SP80&br;DEF(%)10&br;MDEF(%)16&br;&br;【使用スキル】&br;デフラグ ： HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇（非ユニオン時はPCには使用しない）&br;アヴォイド・バースト&br;アタック・バースト&br;クリティカル&br;アサルト&br;ラウズボディ&br;チャージ&br;スタンブロウ&br;&br;入手イベントは[[こちら>Event/Automata#d7ef4f5a]]|
+
+***背負い魔・オートマタ（トパーズ） [#m0737f02]
+|CENTER:128|CENTER:20|RIGHT:85|RIGHT:55|LEFT:570|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/topa.jpg,nolink,128x128);|-|HP:400&br;ATK:5&br;M.ATK:45&br;DEF:20&br;M.DEF:55&br;S.HIT:45&br;L.HIT:20&br;M.HIT:100&br;S.AVOID:15&br;L.AVOID:10&br;M.RST:125&br;CRITICAL:55&br;CAPA: +90&br;PAYL: +90&br;&br;C.AVOID:25&br;A.SPD:200&br;C.SPD:200&br;RCV:100&br;M.RCV:1&br;S.RCV:0|&color(#000000){+};2600&br;+30&br;+115&br;+225&br;+95&br;+105&br;+70&br;+300&br;+180&br;+70&br;+380&br;+75&br;&br;&br;&br;+55&br;+200&br;&color(#a0a0a1){+200};&br;&color(#a0a0a3){+100};&br;+13&br;&color(#a0a0a5){+100};|【説明】&br;2010/05/21のアップデートで実装されたオートマタ。&br;アメジストよりも更に事務的な口調で、控えめな性格。&br;「[[台詞ページ>PetSpeech/Automata/Topaz]]」&br;&br;攻撃の際にはハンマーを取り出す。&br;キャリアーに匹敵するペイキャパと、背負い魔最高のHPへと成長する可能性を持つ。%%(2013年2月末時点でロボを除くペット全体で2位)%%&br;ロアの出現により８位以下にまで下落。しかし背負い魔中TOPのHPであることに変わりは無い。&br;また防御や妨害に特化したスキルを使用してくれる。&br;クリティカルが高い。「ロック鳥（ヘヴィ）」を上回るペット最高数値。&br;&br;【ユニオン時】&br;系統：オートマタ系　攻撃タイプ：叩き&br;MP60&br;SP80&br;DEF(%)25&br;MDEF(%)20&br;&br;【使用スキル】&br;デフラグ ：HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇（非ユニオン時はPCには使用しない）&br;ソリッドオーラ&br;マジックシールド&br;リヴァイブ&br;弾けなさい！ ： アンチモブミサイルに相当&br;止まりなさい！ ： スパークボールと同じ効果の模様(低ダメージ＋スタン)&br;&br;入手イベントは[[こちら>Event/Automata#j18d71b4]]|
+
+***背負い魔・オートマタ（サファイア） [#w016ff5e]
+|CENTER:128|CENTER:20|RIGHT:85|RIGHT:55|LEFT:570|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/s_fire.jpg,nolink,128x128);|-|HP:220&br;ATK:5&br;M.ATK:45&br;DEF:3&br;M.DEF:10&br;S.HIT:34&br;L.HIT:20&br;M.HIT:100&br;S.AVOID:70&br;L.AVOID:30&br;M.RST:125&br;CRITICAL:20&br;CAPA: +50&br;PAYL: +50&br;&br;C.AVOID:30&br;A.SPD:200&br;C.SPD:200&br;RCV:100&br;M.RCV:1&br;S.RCV:0|&color(#000000){+};1700&br;+30&br;+115&br;+145&br;+95&br;+105&br;+70&br;+300&br;+190&br;+75&br;+380&br;+75&br;&br;&br;&br;+75&br;+200&br;+200&br;&color(#a0a0a3){+100};&br;+13&br;&color(#a0a0a5){+100};|【説明】&br;2010/09/24のアップデートで実装されたオートマタ&br;真面目かつ冷静な性格。その一方で、昼寝をしていたり、趣味の盆栽に興じるといった一面も。&br;「[[台詞ページ>PetSpeech/Automata/Sapphire]]」&br;&br;攻撃の際は投げナイフ使用。射程は３。&br;&br;【ユニオン時】&br;系統：オートマタ系　攻撃タイプ：叩き&br;MP70&br;SP70&br;DEF(%)6&br;MDEF(%)16&br;&br;【使用スキル】&br;デフラグ ： HP回復+一定確率で状態異常解除&br;最適化 ： ディレイキャンセル+クリティカル率上昇（非ユニオン時はPCには使用しない）&br;ダストエクスプロージョン&br;ララバイ （囲まれると高確率で使用）&br;ゼン&br;連続投げ&br;リヴァイブ&br;&br;入手イベントは[[こちら>Event/Automata#if981ffe]]|
+
+***背負い魔・オートマタ（ダイヤモンド）[#k2c18a75]
+|CENTER:128|CENTER:20|RIGHT:85|RIGHT:55|LEFT:570|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/Diamond.jpg,nolink,128x128);|-|HP:320&br;ATK:25&br;M.ATK:50&br;DEF:30&br;M.DEF:40&br;S.HIT:45&br;L.HIT:20&br;M.HIT:100&br;S.AVOID:70&br;L.AVOID:40&br;M.RST:120&br;CRITICAL:30&br;CAPA: +50&br;PAYL: +50&br;&br;C.AVOID:20&br;A.SPD:200&br;C.SPD:200&br;RCV:100&br;M.RCV:1&br;S.RCV:0|&color(#000000){+};2200&br;+60&br;+100&br;+160&br;+100&br;+100&br;+75&br;+300&br;+180&br;+70&br;&color(#000000){+360};&br;+80&br;&br;&br;&br;+40&br;+200&br;+200&br;+100&br;+13&br;&color(#a0a0a5){+?};|【説明】&br;2010/11/18のアップデートで実装されたオートマタ&br;他の4体の母親的存在で、古風な話し方（所謂わらわ口調）をする。&br;「[[台詞ページ>PetSpeech/Automata/Diamond]]」&br;&br;高確率で使用するララバイには物理攻撃ダメージ有り（クリティカル判定も）&br;成長するとルビーに匹敵する攻撃力を持つように。通常攻撃射程5。L.HIT依存。&br;オートマタの中で唯一デフラグを所持していない為、回復はしてもらえない点に注意。&br;と思われていたが、ユニオン時のスキル欄にデフラグを発見、修正された？&br;&br;【ユニオン時】&br;系統：オートマタ系　攻撃タイプ：叩き&br;MP85&br;SP85&br;DEF(%)10&br;MDEF(%)25&br;&br;【使用スキル】&br;最適化 ： ディレイキャンセル+クリティカル率上昇（非ユニオン時はPCには使用しない）&br;ルミナリィノヴァ&br;ララバイ （高確率で使用）&br;マジックバリア&br;リヴァイブ&br;デフラグ（ユニオン時のみ？検証求む）&br;&br;入手イベントは[[こちら>Event/Automata#k415e702]]|
+
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、ペットの種類（転生している場合は転生回数）、ステータス名、ステータス値を記入して下さい。};
+#pcomment

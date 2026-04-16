@@ -1,0 +1,44 @@
+# Quest/Season/TinyCompanyTalentScout07
+
+*タイニー・かんぱにー～人材発掘編～　「鳥が先か卵が先か」 [#Top_TinyCompany]
+RIGHT:&edit(,noicon){TinyCompanyTalentScout07を編集};
+#contents
+
+-期間： COLOR(red):''2015年6月25日(木)定期メンテナンス終了後 ～ ''
+
+**公式の告知 [#Press_TinyCompany]
+タイ兄さんとアルマたちのワンダフルストーリー！タイニー・かんぱにー
+http://econline.gungho.jp/special/tinycompany/
+
+**これまでの依頼 [#Past_TinyCompany]
+完了していない依頼は好きな順番で受けることができる。
+01月:[[「鉄腕少女ブリキング」>Quest/Season/TinyCompanyTalentScout01]]
+02月:[[「少女B」>Quest/Season/TinyCompanyTalentScout02]]
+03月:[[「ハートの切り札」>Quest/Season/TinyCompanyTalentScout03]]
+04月:[[「コミックガール・ウィスプちゃん」>Quest/Season/TinyCompanyTalentScout04]]
+05月:[[「リトルシューター」>Quest/Season/TinyCompanyTalentScout05]]
+06月:[[「ふたりでおかいもの」>Quest/Season/TinyCompanyTalentScout06]]
+
+また、依頼を一定数こなす度に別途イベントが発生する。
+イベントまとめ：[[タイニー・かんぱにー～人材発掘編～>Quest/Season/TinyCompanyTalentScout]]
+
+**イベント内容 [#Event_TinyCompany]
+[[過去の通年イベント>Quest/Season/Log#yearround]]の様に選択肢によって分岐があるかは不明。
+-未就職状態ではチュートリアルの「だいじなおしごと」以降を１話終える毎に手紙が届く。
++アップタウン・ギルド元宮の入口の傍にいる、｢古びたガイドマシーン｣に話しかけてタイ兄さんの飛空城に移動する。
++就職していない場合、タイ兄さんの飛空城に居る｢タイ兄さん｣に話しかけ、タイニー・かんぱにーに就職する。
++｢タイ兄さん｣に話しかけ、「訓練教官」を受諾する。
++ダウンタウン2番シアター前の「古びたガイドマシーン」に話しかける。
++東アクロニア平原初心者学校脇の「ニドエッグ・アルマ」か「ギーゴ・アルマ」に話しかける。
++バオバブの森（夜）森のギルド前の「ニドエッグ・アルマ」か「ギーゴ・アルマ」に話しかける。
++（140, 43）の「ニドエッグ・アルマ」に話しかける。
++タイ兄さんの飛空城の「ニドエッグ・アルマ」か「ギーゴ・アルマ」に話しかける。
+--''｢ニドエッグの帽子(※)｣''（※は白･黒･ピンクの全3色、うち1個を選択）と300Goldを入手。
+---Goldはここまでの依頼を全て達成している場合の金額です。
+**タイ兄さんの飛空城 [#Guild]
+***EXイベント [#y8287607]
+-上記のイベントをクリアした後、タイ兄さんの飛空城にいる「ギーゴ・アルマ」に話しかけると
+｢[[EXイベントチケット>http://eco.acronia.net/itemdb/#id=285]]｣ 5枚と交換で''｢ニドエッグの浮き輪(※)｣''を入手できる。
+--※は白･黒･ピンクの全3色
+**タイニー・かんぱにー～人材発掘編～ 関連コメント欄 [#Comment_TinyCompany]
+#pcomment(,20)

@@ -1,0 +1,17 @@
+# ドロップ率検証/倒木系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[木材知識>ドロップ率検証#xe3716bd]]
+
+***流れ着いた倒木 [#ze8f9417]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|木片|キューティクルエキス|キノコの種|丸太|かたい木材|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1205体）|680個（56.43％）|375個（31.12％）|137個（11.37％）|0個（0.00％）|10個（0.83％）|3個（0.25％）|
+|知識あり（450体）|167個（37.11％）|133個（29.55％）|36個（8.00％）|2個（0.44％）|3個（0.66％）|109個（24.22％）|
+
+***古木 [#q7eb1e35]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||木片|サンゴ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|65個（65.00％）|35個（35.00％）|

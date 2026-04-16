@@ -1,0 +1,120 @@
+# Dungeon/DimensionCarmineBrickRuins
+
+#author("2017-06-28T11:39:04+00:00","","")
+*ディメンションカーマインブリック遺跡 [#ld848a83]
+-1Fのmobはベース経験値が多めでジョブ経験値が少なめ。
+%%B1Fのmobはベース経験値は0だが、ジョブ経験値が多めとなっている。%%
+2017/6/28 全階層にてベース経験値の入手を確認。
+
+-[[ダンジョン>Dungeon]]
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+
+-[[Dカーマイン遺跡モンスター>MobDimension#CarmineBrick]]
+
+#contents
+
+**Ｄ－カーマインブリック遺跡１Ｆ中央 [#v7170c4b]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionCarmineBrickRuins/CarmineBrickRuins1F.jpg,nolink,カーマインブリック遺跡１Ｆ中央);
+-隣接マップ：カーマインブリックシティ、D-東居住区、D-西居住区、D-２Ｆ、D-Ｂ１Ｆ
+-属性：
+
+-出現モンスター
+--Ｄ－アルトスカラーベン
+--Ｄ－トンファーパンダ
+--Ｄ－カビーフローパー
+--Ｄ－Ｄ－サバクタケ
+--カトブレパス
+--Ｄ－サンドアルム
+--Ｄ－ジェネラルゴーレム
+--Ｄ－ブルガルスムージー
+--微睡のジノ
+
+#fold{{{
+Ｄ－カーマインブリック遺跡１Ｆ中央 モンスター詳細
+#mobdb(habitat=0-2-6-0)
+}}}
+
+**Ｄ－カーマインブリック遺跡１Ｆ東居住区 [#r9cf1c09]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionCarmineBrickRuins/CarmineBrickRuins1FEast.jpg,nolink,カーマインブリック遺跡１Ｆ東居住区);
+-隣接マップ：１Ｆ中央
+-属性：
+
+-出現モンスター
+--Ｄ－アルトスカラーベン
+--Ｄ－トンファーパンダ
+--Ｄ－カビーフローパー
+--Ｄ－サバクタケ
+--Ｄ－カトブレパス
+--Ｄ－サンドアルム
+--Ｄ－ジェネラルゴーレム
+--Ｄ－ブルガルスムージー
+--ロストデカッカラン
+
+#fold{{{
+Ｄ－カーマインブリック遺跡１Ｆ東居住区 モンスター詳細
+#mobdb(habitat=0-2-6-1)
+}}}
+
+**Ｄ－カーマインブリック遺跡１Ｆ西居住区 [#ve6ce462]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionCarmineBrickRuins/CarmineBrickRuins1FWest.jpg,nolink,カーマインブリック遺跡１Ｆ西居住区);
+-隣接マップ：D-１Ｆ中央
+-属性：
+
+-出現モンスター
+--Ｄ－アルトスカラーベン
+--Ｄ－トンファーパンダ
+--Ｄ－カビーフローパー
+--Ｄ－サバクタケ
+--Ｄ－カトブレパス
+--Ｄ－サンドアルム
+--Ｄ－ジェネラルゴーレム
+--Ｄ－ブルガルスムージー
+--ホワイトデカッカラン
+
+#fold{{{
+Ｄ－カーマインブリック遺跡１Ｆ西居住区 モンスター詳細
+#mobdb(habitat=0-2-6-2)
+}}}
+
+**Ｄ－カーマインブリック遺跡２Ｆ [#f62114a7]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionCarmineBrickRuins/CarmineBrickRuins2F.jpg,nolink,カーマインブリック遺跡２Ｆ);
+-隣接マップ：D-１Ｆ中央
+-属性：
+
+-出現モンスター
+--Ｄ－ムハンディス
+--Ｄ－マーシナリー・ファース
+--Ｄ－マーシナリー・アスレハ
+--Ｄ－マーシナリー・ヒラーワ
+--Ｄ－アーマードアルマジロン
+--Ｄ－ストロングドロイダー
+
+#fold{{{
+Ｄ－カーマインブリック遺跡２Ｆ モンスター詳細
+#mobdb(habitat=0-2-6-3)
+}}}
+
+**Ｄ－カーマインブリック遺跡Ｂ１Ｆ [#id8af118]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionCarmineBrickRuins/CarmineBrickRuinsB1F.jpg,nolink,カーマインブリック遺跡Ｂ１Ｆ);
+-隣接マップ：D-１Ｆ中央
+-属性：
+
+-出現モンスター
+--Ｄ－ガイコツムリ
+--Ｄ－スケルトンスナイパー
+--Ｄ－サイクロプスグール
+--Ｄ－クッバラングール
+--Ｄ－ドラゴングール
+--Ｄ－シェアプアンク
+--Ｄ－スフィンクス
+--Ｄ－ワイズスフィンクス
+
+#fold{{{
+Ｄ－カーマインブリック遺跡Ｂ１Ｆ モンスター詳細
+#mobdb(habitat=0-2-6-4)
+}}}
+
+*情報提供・コメント欄 [#g8337188]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Tutorial#p39618b7]]にどうぞ。~
+#pcomment

@@ -1,0 +1,143 @@
+# Dungeon/ContinentalCave
+
+#author("2017-04-07T16:52:11+00:00","","")
+←[[ダンジョン>Dungeon]]へ戻る
+*大陸の洞窟 [#xfd6382c]
+#contents
+
+[[次元安定石>http://eco.acronia.net/itemdb/#id=1119]]を持ったままダンジョンに入って''使う''を選択した場合には[[ディメンション大陸の洞窟>Dungeon/DimensionContinentalCave]]（適正レベル90～99）に入ることができる。
+
+
+**大陸の洞窟B1F [#ab75d673]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/ContinentalCaveB1F.png,nolink,128x128,大陸の洞窟B1F);
+-隣接マップ：[[東アクロニア海岸>Kariba#EastAcbeach]]、大陸の洞窟B2F
+-属性：無
+
+-出現モンスター
+--[[ドラッキー>MobBird#Dracky]]（アクティブ）
+　 (Lv19/闇)[HP:230][%%69/31%%→136/68]
+--[[オーカージェリー>MobPlant#Pururu]] （リンク）
+　(Lv21/火)[HP:210][%%48/62%%→86/112]
+--[[ウィスプ>MobMagic#Wisp]] （リンク）
+　(Lv24/光)[HP:300][%%46/85%%→154/102]
+--[[ローキー>MobAnimal#Lowkey]] （アクティブ）
+　(Lv24/風)[HP:380][%%91/46%%→146/91]
+
+-自然物
+--[[木箱１>kihako#d598db8e]]
+--[[宝箱１>takarahako#t1]]
+--[[大壷>Nature#g8b14895]]
+
+
+**大陸の洞窟B2F [#c97bda3d]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/ContinentalCaveB2F.png,nolink,128x128,大陸の洞窟B2F);
+-隣接マップ：大陸の洞窟B1F、大陸の洞窟B3F
+-属性：無
+
+-出現モンスター
+--[[ドラッキー>MobBird#Dracky]]（アクティブ）
+　 (Lv19/闇)[HP:230][%%69/31%%→136/68]
+--[[オーカージェリー>MobPlant#Pururu]] （リンク）
+　(Lv21/火)[HP:210][%%48/62%%→86/112]
+--[[ウィスプ>MobMagic#Wisp]] （リンク）
+　(Lv24/光)[HP:300][%%46/85%%→154/102]
+--[[ローキー>MobAnimal#Lowkey]] （アクティブ）
+　(Lv24/風)[HP:380][%%91/46%%→146/91]
+--[[モックー>MobSpirit#Pino]]（アクティブ）
+　 (Lv25/土)[HP:310][%%60/40%%→216/144]
+--[[ケイブローキー>MobAnimal#Lowkey]] （アクティブ）
+　(Lv25/風)[HP:420][%%85/35%%→163/96]
+
+-自然物
+--[[木箱１>kihako#d598db8e]]
+--[[宝箱１>takarahako#t1]]
+--[[大壷>Nature#g8b14895]]
+
+**大陸の洞窟B3F [#j9b356be]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/ContinentalCaveB3F.png,nolink,128x128,大陸の洞窟B3F);
+-隣接マップ：大陸の洞窟B2F、大陸の洞窟B4F
+-属性：無
+
+-出現モンスター
+--[[ウィスプ>MobMagic#Wisp]] （リンク）
+　(Lv24/光)[HP:300][%%46/85%%→154/102]
+--[[ローキー>MobAnimal#Lowkey]] （アクティブ）
+　(Lv24/風)[HP:380][%%91/46%%→146/91]
+--[[モックー>MobSpirit#Pino]]（アクティブ）
+　 (Lv25/土)[HP:310][%%60/40%%→216/144]
+--[[ケイブローキー>MobAnimal#Lowkey]] （アクティブ）
+　(Lv25/風)[HP:420][%%85/35%%→163/96]
+--[[ブーピー>MobMagic#Wisp]]（アクティブ）
+　 (Lv28/火)[HP:320][%%80/120%%→235/216]
+
+-自然物
+--[[木箱２>kihako#c21d6442]]
+--[[宝箱２>takarahako#t2]]
+--[[大壷>Nature#g8b14895]]
+--[[鉱石のかたまり>Nature#fd1df99d]]
+
+
+**大陸の洞窟B4F [#x909ecfa]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/ContinentalCaveB4F.png,nolink,128x128,大陸の洞窟B4F);
+-隣接マップ：大陸の洞窟B3F、大陸の洞窟B5F
+-属性：闇10
+
+-出現モンスター
+--[[モックー>MobSpirit#Pino]]（アクティブ）
+　 (Lv25/土)[HP:310][%%60/40%%→216/144]
+--[[ミイラ>MobGhost#Mummy]] （アクティブ）
+　(Lv26/闇)[HP:360][%%75/75%%→258/152]
+--[[ブーピー>MobMagic#Wisp]]（アクティブ）
+　 (Lv28/火)[HP:320][%%80/120%%→235/216]
+--[[リヴィングデッド>MobGhost#LivingDead]]（アクティブ）
+　 (Lv29/闇)[HP:520][%%125/125%%→276/276]
+
+-自然物
+--[[木箱２>kihako#c21d6442]]
+--[[宝箱２>takarahako#t2]]
+--[[大壷>Nature#g8b14895]]
+--[[鉱石のかたまり>Nature#fd1df99d]]
+
+-NPC
+--ジャスミン
+--リヴィングデッド
+--鍛冶屋のスミフ
+
+***Lv85帯テクニカルジョブ用装備の入手 [#y335b4fb]
+-[[Lv85帯テクニカルジョブ用装備入手イベント>Event/Armor#ECtke77c]]参照
+
+**大陸の洞窟B5F [#oadfe09c]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/map/ContinentalCaveB5F.png,nolink,128x128,大陸の洞窟B5F);
+-隣接マップ：大陸の洞窟B4F
+-属性：水50
+-常時HP減少（水中、5秒毎にHPが5減少）
+
+-出現モンスター
+--[[ジルコンI>MobMagic#Beryl]] （リンク）
+　(Lv17/光)[HP:222][%%32/48%%→78/84]
+--[[ケイブフィッシュ>MobUnderwater#Fish]] （アクティブ、リンク）
+　(Lv27/水)[HP:370][%%90/70%%→216/168]
+--[[トルピード>MobAnimal#A-chin]] （アクティブ）
+　(Lv29/水)[HP:330][%%165/85%%→264/264]
+--[[ライギョー>MobUnderwater#Innsmouth]] （アクティブ）
+　(Lv33/水)[HP:512][%%310/190%%→624/384]
+--[[モクギョー>MobUnderwater#Innsmouth]] （アクティブ）
+　(Lv39/水)[HP:1600][1800/1800]
+--[[ふんどしマン！>MobUnderwater#Innsmouth]] （BOSS、取り巻き：モクギョー、周期：30～90分、出現ポイント：マップ北半分）
+　(Lv43/水)[HP:70000?][34700/34700]
+
+-自然物
+--[[宝箱３>takarahako#t3]]
+--[[コンテナ１>kontena#y4796701]]
+
+-その他
+--インスマウスの隠れ里
+---NPC：インスマウス住人(８ヶ所)、インスマウス長老、インスマウス宰相
+---マップ上部にある黄色い点が「インスマウスの隠れ里」へのワープリンクです。ワープリンクは画面に表示されていませんが、看板付近に存在します。
+---アップタウンのギルド元宮5F「少数民族利益代表の部屋」にる「ギョニン」に「[[干し魚>http://eco.acronia.net/itemdb/#id=2325]]」か「[[不思議な干し魚>http://eco.acronia.net/itemdb/#id=2149]]」を見せてCOLOR(red){“元の姿に戻して欲しい”というイベントを起こしていないと入れません}。
+---「[[マリオネット・インスマウス>MarionetteList#rbe0b0ca]]」を参照
+
+
+*情報提供・コメント欄（Wikiの編集が苦手な方はこちらに） [#x55a05b7]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Tutorial#p39618b7]]にどうぞ。~
+#pcomment

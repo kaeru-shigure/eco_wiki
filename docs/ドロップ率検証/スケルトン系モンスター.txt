@@ -1,0 +1,17 @@
+# ドロップ率検証/スケルトン系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[死霊知識>ドロップ率検証#qc2da4d1]]
+
+***スケルトン [#i463fd1e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|骨|紋章紙|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|49個（49.00％）|39個（39.00％）|12個（12.00％）|0個（0.00％）|
+|知識あり（100体）|37個（37.00％）|49個（49.00％）|13個（13.00％）|1個（1.00％）|
+
+***スケルトンアーチャー [#ab1f9f1b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|骨|紋章紙|こころのかけら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|51個（51.00％）|40個（40.00％）|7個（7.00％）|2個（2.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

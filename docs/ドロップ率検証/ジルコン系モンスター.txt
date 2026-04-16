@@ -1,0 +1,38 @@
+# ドロップ率検証/ジルコン系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***ジルコンⅠ [#h9bfd234]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ガラス生地|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（50体）|35個（70.00％）|15個（30.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|
+
+***ジルコンⅡ [#ve59fd3b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ガラス生地|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（100体）|64個（64.00％）|36個（36.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|
+
+***ジルコンⅢ [#aba07a3d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし| ガラス生地|水晶のかけら|ナニカの入った宝石|マリオネット・ベリル|魔力の結晶|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識あり（500体）|138個（27.6％）|178個（35.6％）|180個（36.0％）|3個（0.6％）|1個（0.2％）|0個（0.00％）|0個（0.00％）|
+
+
+***コランダム [#s4c767ab]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ガラス生地|ソーダ灰|白いゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1300体）|641個（49.30％）|518個（39.85％）|125個（9.62％）|16個（1.23％）|
+|知識あり（100体）|46個（46.00％）|46個（46.00％）|6個（6.00％）|2個（2.00％）|
+
+***オブシディアン [#yefe74da]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ガラス生地|破れた魔法書|ナニカの入った宝石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|65個（65.00％）|28個（28.00％）|6個（6.00％）|1個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

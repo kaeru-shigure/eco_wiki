@@ -1,0 +1,106 @@
+# MobBird
+
+#author("2017-04-07T17:34:20+00:00","","")
+*モンスター・エミル世界（鳥） [#u29bdfc1]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***カッカラン系 [#Kakkaran]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/kubbaran.jpg,nolink,100x100);|クッバラン|80||15,555/14,455|BGCOLOR(#fff68f):風|Active&br;→瀕死時Active+Escape|カーマイン砂漠（昼）&br;カーマイン砂漠（夕）|高級手羽先&br;乾燥手羽先&br;&color(orange){大きな鳥の骨};&br;ブランクイリスカード|スケア&br;チャージ&br;兜割り&br;ソリッドオーラ||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/kakkaran.jpg,nolink,100x100);|カッカラン|80||18,333/18,450|無|Active&br;→瀕死時Active+Escape|カーマイン砂漠（夜）|高級ゆで卵&br;高級手羽先&br;&color(orange){大きな鳥の骨};|パープルガス&br;ダークウェポン&br;デクライズウェポン&br;デッドエンド|アンデッド|
+
+***キメラ系 [#Chimera]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GaleChimera.jpg,nolink,100x100);|ゲイルキメラ|35|1,300|1,171/1,436|BGCOLOR(#fff68f):風|NonActive|【光の塔】&br;メインフロア4F&br;B-5F&br;&br;【インスタンスダンジョン】&br;地下迷宮|くんせい肉&br;コケトリスの羽&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};&br;&color(slateblue){サングラス};|ファルコン&br;サンダーストーム&br;ライジングサンダー||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BenamasuChimera.jpg,nolink,100x100);|ベナマスキメラ|45|1,980|533/720|BGCOLOR(#98fb98):土|Active|【インスタンスダンジョン】&br;集う魔物&br;潜む白い影|くんせい肉&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};|猛毒針&br;ポイズンパフューム&br;アースアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Chimera.jpg,nolink,100x100);|キメラ|48|1,500|1,540/1,240|BGCOLOR(#ffdddd):火|Active|【サウスダンジョン】&br;B1F～B3F|くんせい肉&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};&br;&color(slateblue){キメラスタンプ};|バードケージ&br;ロックストーン&br;コンフューズスタッド||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AquaChimera.jpg,nolink,100x100);|アクアキメラ|55|2,150|733/913|BGCOLOR(#bbffff):水|NonActive|【インスタンスダンジョン】&br;地下迷宮&br;デスメイズ|くんせい肉&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};|ウォーターファング&br;クロスリバー&br;アクアストーム|M.DEF低め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AlbinoChimera.jpg,nolink,100x100);|アルビノキメラ|65|20,000|7,000/9,000|||【インスタンスダンジョン】&br;集う魔物&br;潜む白い影|光の矢(PT)&br;プラズム(PT)|リフレクションウォール&br;ワー・クライ&br;エナジークロウ&br;コンフューズスタッド|BOSS&br;取巻き：ベナマスキメラ|
+
+***コッコー系 [#Kokko]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokko-.jpg,nolink,100x100);|コッコー|8|50|15/14|BGCOLOR(#ffdddd):火|Active&br;|ファーイースト街道&br;イストー岬&br;ウテナ湖&br;果物の森|卵&br;コッコーの羽&br;&color(orange){力の結晶};&br;&color(red){破れた魔法書};&br;&color(slateblue){コッコースタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Koketorisu.jpg,nolink,100x100);|コケトリス|19|130|68/50|BGCOLOR(#ffdddd):火|Active&br;|東アクロニア海岸&br;(イストー岬)&br;(ウテナ湖)&br;(ファーイースト街道)|コケトリスの羽&br;上等な肉&br;卵&br;&color(orange){コケトリスの瞳};&br;&color(red){コッコーの砂キモ};&br;&color(slateblue){コケトリススタンプ};|ロックストーン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ImmatureKokko-.jpg,nolink,100x100);|イマチュアーコッコー|24|300|80/70|BGCOLOR(#ffdddd):火|NonActive|モーモー草原&br;穀倉地帯|卵&br;肉&br;ブラックビネガー&br;&color(orange){上等な肉};&br;&color(red){カッパーメダル};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tosaka.jpg,nolink,100x100);|トサカ|25|450？|0/0|BGCOLOR(#fff68f):''風''/火|Active|【インスタンスダンジョン】&br;地下に巣くう者|卵&br;肉|-|先に進むための鍵モンスター|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokokko-.jpg,nolink,100x100);|ココッコー|27|270|70/50|無|NonActive|モーモー草原&br;穀倉地帯|肉&br;パートナーフード&br;カビ&br;&color(orange){上等な肉};&br;&color(red){カッパーメダル};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BasiliKokke.jpg,nolink,100x100);|バジリコッケ|40|1,560|540/540|BGCOLOR(#ffdddd):火|Active|フシギ団の砦&br;穀倉地帯|コケトリスの羽&br;卵&br;高級卵&br;上等な肉&br;カビ&br;コケトリスの瞳&br;カッパーメダル&br;&color(red){サーロイン};|スタンアタック&br;ラッシュ&br;ロックストーン|一度ターゲットを定めると、ロストするまでターゲットを変えない|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokkarasu.jpg,nolink,100x100);|コッカラス|50|1,950|2,025/1,770|BGCOLOR(#bbffff):水|NonActive|イーストダンジョン|高級卵&br;ダークフェザーの羽&br;パートナーフード&br;主人のＨＰが○以上なら△に&br;主人のＨＰが○以下から△に&br;&color(red){シルバーメダル};|ラッシュ&br;スロウロジック&br;コンフューズスタッド||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GiantKokko-.jpg,nolink,100x100);|ジャイアントコッケー|10|9,800|10,000/4,000|BGCOLOR(#ffdddd):火|Active|東アクロニア海岸&br;&br;【インスタンダンジョン】&br;地下に巣くう者|コケトリスの瞳&br;羽かざり&br;羽マスク&br;インペリアルトパーズ&br;&color(red){背負い魔・ブースト};&br;&color(slateblue){ジャイアントコッケースタンプ};|スーパーファイアーストーム&br;スロウロジック&br;石化ガス&br;コケトリス召喚|フィールドBOSS&br;30～90分毎&br;取り巻き(コケトリス)|
+
+***サンダーバード系 [#Thunderbird]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Thunderbird.jpg,nolink,100x100);|サンダーバード|37|400|310/240|BGCOLOR(#fff68f):風|Active|ノース中央山脈(北)&br;&br;【インスタンスダンジョン】&br;潜む白い影|肉&br;上等な肉&br;破れた魔法書&br;&color(slateblue){ロック鳥};&br;&color(slateblue){サンダーバードスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gi-go.jpg,nolink,100x100);|ギーゴ|41|665|374/336|BGCOLOR(#ffdddd):火|Active|鬼ノ寝床岩&br;鉄火山|卵&br;&color(orange){クチバシ};&br;&color(red){力の結晶};&br;&color(slateblue){ギーゴスタンプ};|-|高回避|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NightStalk.jpg,nolink,100x100);|ナイトストーク|63|2,550|3,130/3,093|BGCOLOR(#ffdddd):火|NonActive&br; →瀕死時Active|毒の湿原&br;フシギ団の砦&br;フシギ団の砦(中立のシマ)|高級卵&br;卵&br;クチバシ&br;力の結晶&br;&color(slateblue){ロック鳥};|つむじ風&br;衝撃波&br;チャージ|&color(#cccccc){高回避};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TropicalGi-go.jpg,nolink,100x100);|トロピカルギーゴ|78|6,500|3,860/3,450|BGCOLOR(#fff68f):風|Active|バオバブの森|上等な肉&br;異界の羽&br;テリヤキ&br;&color(red){カラフルな羽根};&br;&color(slateblue){羽マスク(黒)};|チャージ&br;マジックスリープ&br;コンフューズスタッド&br;バイタリティダウン||
+
+***ドードー系 [#Dodo]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/BlazeDodo.jpg,nolink,100x100);|ブレイズドードー|40|1,820|896/1,008|BGCOLOR(#ffdddd):火|Active&br;瀕死時Active&Escape|東アクロニア段丘|火鳥のクチバシ&br;肉&br;黒色火薬|ディレイキャンセル&br;ファイアアタック&br;ファイアーボール|MAPに1体のみ|
+
+***ドラッキー系 [#Dracky]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dracky.jpg,nolink,100x100);|ドラッキー|19|230|136/68|BGCOLOR(#c4adff):闇|Active&br;Link|【大陸の洞窟】&br;B1F,B2F|肉&br;破れた魔法書&br;鉄製の小さな刀身&br;力の結晶&br;&color(slateblue){ドラッキースタンプ};|旋風剣||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NightBat.jpg,nolink,100x100);|ナイトバット|25|430|89/120|BGCOLOR(#c4adff):闇|NonActive&br;瀕死時Active|【インスタンスダンジョン】&br;地下迷宮|肉&br;力の結晶|マジックスリープ|数を集めると憑依してジャンボナイトバットに変身。&br;瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CutBat.jpg,nolink,100x100);|カットバット|28|410|250/180|BGCOLOR(#fff68f):風|Active&br;Link|【廃炭鉱】&br;B1F|肉&br;破れた魔法書&br;力の結晶&br;&color(red){カッパーメダル};&br;&color(red){鉄製の小さな刀身};&br;&color(slateblue){カットバットスタンプ};|サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NecroBat.jpg,nolink,100x100);|ネクロバット|43|1,500|450/550|BGCOLOR(#c4adff):闇|詠唱反応|【インスタンスダンジョン】&br;地下に巣くう者&br;地下迷宮&br;潜む白い影|肉&br;力の結晶|エクスクラメーション&br;トランスマインド||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HeavyBat.jpg,nolink,100x100);|ヘビーバット|65|2,800|3,740/3,485|BGCOLOR(#fff68f):風|詠唱反応|【光の塔】&br;メインフロア1F&br;メインフロア2F&br;B-8F&br;光の塔上層|上等な肉&br;金色の牙&br;破れた魔法書&br;金属の混じった石３&br;&color(red){するどい牙};|サンダーボルト&br;チャージ&br;ファイアライズ|詠唱反応範囲が広い|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/WeibBat.jpg,nolink,100x100);|ヴァイスバット|92|12,000?|11,616/11,220|無|Active|【ノーザン地下】&br;市民街|上等な肉&br;力の結晶&br;破れた魔法書&br;白いゼリコ|ディレイキャンセル&br;ブランディッシュ&br;アムラーム&br;ライフスティール||
+
+***ハーピー系 [#Ha-Pi-]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ha-Pi-.jpg,nolink,100x100);|ハーピー|90|12,500|9,880/10,070|BGCOLOR(#fff68f):風|詠唱反応|【光の塔】&br;A-13F～A-20F&br;&br;【インスタンスダンジョン】&br;マイマイ遺跡|異界の羽&br;ハーブのど飴&br;破れた魔法書&br;破れた魔法書(PT)&br;ユニコーンの角&br;&color(red){音叉管};&br;&color(red){天上のハープ};|ディープフォレスト&br;ブランディッシュ&br;ララバイ&br;サンダーストーム|瀕死時→Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Okyupete.jpg,nolink,100x100);|オキュペテー|95||7,800/7,900|BGCOLOR(#98fb98):''土''/風|詠唱反応|マイマイ遺跡第一甲板|異界の羽&br;ハーブのど飴&br;ユニコーンの角&br;いのちの結晶&br;&color(red){音叉管};&br;&color(red){天上のハープ};|パープルガス&br;ディープフォレスト&br;ラッシュ&br;ロックストーン|瀕死時→Active&br;水属性攻撃が有効|
+
+***ピヨエッグ系 [#y8001330]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/PiyoEgg.jpg,nolink,100x100);|ピヨエッグ|32|480|178/202|BGCOLOR(#ffffff):風/''光''|詠唱反応|東アクロニア段丘|卵&br;卵の殻|エナジークロウ&br;サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/NidEgg.jpg,nolink,100x100);|ニドエッグ|34|570|244/274|BGCOLOR(#ffffff):風/''光''|詠唱反応|東アクロニア段丘|卵&br;とげ卵の殻|エナジークロウ&br;サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Kafig.jpg,nolink,100x100);|ケーフィヒ|93|?|11,880/14,520|BGCOLOR(#bbffff):水|Active|【ノーザン地下】&br;市民街|ミルク&br;黒いゼリコ&br;卵&br;上等なマジックキャンディー&br;&color(slateblue){ケーフィヒスタンプ};|アイスグローブ&br;アイスフェード&br;ショックウェーブ&br;スタンブロウ||
+
+***ペペン系 [#Pepen]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pepen.jpg,nolink,100x100);|ペペン|27|600|165/195|BGCOLOR(#bbffff):水|NonActive|永遠への北限&br;ノース台地&br;ノース中央山脈|ミルク&br;マシュマロ&br;氷砂糖&br;バター&br;いのちの結晶&br;&color(red){スノードロップ};&br;&color(red){カッパーメダル};&br;&color(slateblue){ファイアードラゴの卵};&br;&color(slateblue){ペペンスタンプ};|-|M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Prune.jpg,nolink,100x100);|プルーン|31|900|245/255|BGCOLOR(#c4adff):闇|詠唱反応|永遠への北限&br;ノース中央山脈(北部)|ミルク&br;マシュマロ&br;氷砂糖&br;いのちの結晶&br;&color(red){スノードロップ};&br;&color(red){カッパーメダル};&br;&color(slateblue){ファイアードラゴの卵};|コンフュージョンブロウ|高HP|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NangokuPepen.jpg,nolink,100x100);|南国ペペン|38|700|360/385|BGCOLOR(#bbffff):水|Active|鬼ノ寝床岩|ブラックビネガー&br;香辛料&br;いのちの結晶&br;&color(red){マシュマロ};&br;&color(red){赤いゼリコ};&br;&color(slateblue){南国ペペンスタンプ};|マジックスリープ||
+
+***ホムラ系 [#Homura]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Houou.jpg,nolink,100x100);|ホウオウ|64|2,400|2,400/2,543|BGCOLOR(#ffdddd):火||【サウスダンジョン】&br;B3F|上等な肉&br;炎のコロン&br;炎の翼&br;&color(red){炎の召喚石};&br;&color(red){赤い粉末};&br;&color(slateblue){ホウオウスタンプ};|クロスファイア&br;バーニングロード&br;ファイアボール|高S.AVOID&br;高L.AVOID&br;高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GokurakuChou.jpg,nolink,100x100);|極楽鳥|74||2,450/2,250|||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！上級|||ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/HououMistis.jpg,nolink,100x100);|ホウオウミスティオス|||1,800/1,543||Active|【サウスダンジョン】&br;B3F&br;&br;【インスタンスダンジョン】&br;集う魔物&br;戦慄のプリズン|||ライオウの取り巻きで出現|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Raiou.jpg,nolink,100x100);|ライオウ|64|210,000|56,000/34,800|BGCOLOR(#fff68f):風|詠唱反応&br;Active|【サウスダンジョン】&br;B3F&br;&br;【インスタンスダンジョン】&br;集う魔物&br;戦慄のプリズン|カッパーメダル&br;シルバーメダル&br;タイニーメダル&br;&color(slateblue){タイニーレインボーメダル};&br;&color(slateblue){ライオウスタンプ};|ゴゥアウト&br;サンダークランク&br;スーパーサンダーボルト&br;ライジングサンダー&br;ハウルアウト|超大型BOSS&br;50～60分毎&br;パッシブリザレクション(HP100%で復活、2回まで使用)&br;取り巻き(ホウオウミスティオス)|
+
+***ワイルドダック系 [#WildDuck]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/WildDuck.png,nolink,100x100);|ワイルドダック|25||142/56|BGCOLOR(#bbffff):水|NonActive&br;瀕死時Active&Escape|ウェストー開拓地&br;アクロニア丘陵|卵&br;上等な肉&br;ワイルドダックの羽&br;&color(slateblue){フォアグラ};|||

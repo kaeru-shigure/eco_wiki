@@ -1,0 +1,80 @@
+# ドロップ率検証/岩・鉱物系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[鉱物知識>ドロップ率検証#g76f84d7]]
+
+***岩 [#nf2bc29b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|石ころ|磁石|金属の混じった石|固い石ころ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（296体）|149個（50.34％）|135個（45.61％）|8個（2.70％）|4個（1.35％）|0個（0.00％）|
+|知識あり（379体）|138個（36.41％）|125個（32.98％）|6個（1.58％）|2個（0.53％）|108個（28.50％）|
+
+***山の岩 [#d8f45f08]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|固い石ころ|火打石|セメント|粘土|いのちの結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（152体）|87個（57.24％）|62個（40.79％）|2個（1.32％）|1個（0.66％）|0個（0.00％）|0個（0.00％）|
+|知識あり（440体）|170個（38.64％）|139個（31.59％）|4個（0.91％）|4個（0.91％）|121個（27.50％）|2個（0.45％）|
+
+***重い岩 [#d4bc3404]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|金属の混じった石（４）|金属の混じった石（５）|ソーダ灰|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（140体）|54個（38.57％）|59個（42.14％）|24個（17.14％）|3個（2.14％）|
+|知識あり（314体）|111個（35.35％）|156個（49.68％）|43個（13.69％）|4個（1.27％）|
+
+***鉄鉱石を含む岩 [#t05986da]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|金属の混じった石（４）|金属の混じった石|砂鉄|金属の混じった石（３）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（189体）|72個（38.10％）|80個（42.33％）|30個（15.87％）|7個（3.70％）|0個（0.00％）|
+|知識あり（640体）|234個（36.56％）|281個（43.91％）|109個（17.03％）|15個（2.34％）|1個（0.16％）|
+
+***鉱石のかたまり（軍艦島） [#p0ae36a8]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|金属の混じった石（４）|金属の混じった石（２）|金属の混じった石（３）|プラチナ塊|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（76体）|30個（39.47％）|33個（43.42％）|12個（15.79％）|0個（0.00％）|1個（1.32％）|
+|知識あり（631体）|231個（36.61％）|296個（46.91％）|88個（13.95％）|15個（2.38％）|1個（0.16％）|
+
+***鉱石のかたまり（大陸D） [#h59bd3cb]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|にごった結晶（５）|にごった結晶（３）|にごった結晶（４）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（500体）|193個（38.60％）|212個（42.40％）|85個（17.00％）|10個（2.00％）|
+
+***タタラベ石 [#me8c59b7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|岩塩|固い石ころ|金属の混じった石|氷鉄|鬼鉄|大理石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|157個（52.33％）|86個（28.67％）|53個（17.67％）|0個（0.00％）|3個（1.00％）|0個（0.00％）|1個（0.33％）|
+|知識あり（925体）|432個（46.70％）|298個（32.22％）|165個（17.84％）|5個（0.54％）|13個（1.41％）|6個（0.65％）|6個（0.65％）|
+
+***サウス岩 [#kc1581bb]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|石ころ|火打石|金属の混じった石(５)|炎鉄|軽鉄|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|152個（50.67％）|92個（30.67％）|55個（18.33％）|0個（0.00％）|1個（0.33％）|0個（0.00％）|
+|知識あり（1555体）|754個（48.49％）|513個（32.99％）|235個（15.11％）|17個（1.09％）|25個（1.61％）|11個（0.71％）|
+
+***鉱床石 [#o133f24d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|鉄くず|金属の混じった石|砂鉄|金属の混じった石(５)|金属の混じった石(４)|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（55体）|20個（36.36％）|13個（23.64％）|13個（23.64％）|2個（3.64％）|5個（9.09％）|2個（3.64％）|
+
+***火山弾 [#mb67faf4]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|黒色火薬|火山岩|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（49体）|49個（100.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（934体）|674個（72.16％）|256個（27.41％）|4個（0.43％）|
+
+***海底の岩 [#z83a7bf5]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|石ころ|固い石ころ|青い結晶1|アーチンの化石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（250体）|4個（1.60％）|122個（48.80％）|88個（35.20％）|35個（14.00％）|1個（0.40％）|

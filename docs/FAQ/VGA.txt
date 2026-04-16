@@ -1,0 +1,304 @@
+# FAQ/VGA
+
+#author("2017-08-26T12:32:11+00:00","","")
+*GPUの動作リスト [#graphics]
+-注：''このリストには4年以上前のグラフィックボードも掲載されています。グラフィックボードの購入をお考えの方は、最新のシリーズのグラフィックボードをご購入ください。''
+-「快適」…快適に動作します。
+-「動作可能」…動作はするものの重たい、あるいは表示が一部おかしいものです。
+//-「動作不明(非推奨)」…動作する可能性があるが、動作報告がないものです。動作しないものではありません。
+-動作が確認できたら動作可能に、問題なく動けば快適に上げてください。
+
+-2016/11/05編集分より、「動作不明(非推奨)」は非表示とさせて頂きます。
+
+#contents
+
+*[[NVIDIA:http://www.nvidia.co.jp/]] [#nvidia]
+-ドライバダウンロード：[[NVIDIA公式>http://www.nvidia.co.jp/Download/index.aspx?lang=jp]]
+--インストールするOSと製品名を選択し、検索をクリックする。
+-2016年11月現在、''GeForce 900シリーズ以降(TITAN系も含む)の使用を強く推奨します。''
+--Quadroは推奨しません。
+**快適 [#nv-a]
+***デスクトップ [#nv-a1]
+|>|~GeForce 10シリーズ&br;(Pascal)|
+|NVIDIA TITAN Xp|GTX 1080 Ti|
+|NVIDIA TITAN X|GTX 1080|
+|GTX 1070|GTX 1060|
+|GTX 1050 Ti|GTX 1050|
+|>||
+|>|~GeForce 900シリーズ&br;(Maxwell)|
+|GTX TITAN X|GTX 980 Ti|
+|GTX 980|GTX 970|
+|GTX 960|GTX 950|
+|>||
+|>|~GeForce 700シリーズ&br;(Kepler/Maxwell)|
+|GTX TITAN Z|GTX TITAN Black|
+|GTX 780 Ti|GTX 780|
+|GTX 770|GTX 760|
+|GTX 750 Ti|GTX 750|
+|GT 740|GT 730|
+|GT 720|GT 710|
+|>||
+|>|~GeForce 600シリーズ&br;(Kepler)|
+|GTX TITAN|GTX 690|
+|GTX 680|GTX 670|
+|GTX 660 Ti|GTX 660|
+|GTX 650 Ti BOOST|GTX 650 Ti|
+|GT 640|GT 630|
+|GT 620|GT 610|
+-GeForce 500シリーズ
+-GeForce 400シリーズ
+-GeForce 200シリーズ
+-GeForce 9シリーズ
+-GeForce 8シリーズ
+-GeForce 7シリーズ
+-GeForce 6シリーズ
+-(※100・300番代はOEM向けなので市販されていない)
+-(※800番代はデスクトップ用のものは存在しない)
+
+***ノート [#nv-a2]
+-GeForce 10シリーズ
+-GeForce 900Mシリーズ
+-GeForce 800Mシリーズ
+-GeForce 700Mシリーズ
+-GeForce 600Mシリーズ
+-GeForce 500Mシリーズ
+-GeForce 400Mシリーズ
+-GeForce 300Mシリーズ
+-GeForce 200Mシリーズ
+-GeForce 100Mシリーズ
+-GeForce 9Mシリーズ
+-GeForce 8Mシリーズ
+-GeForce Go 7シリーズ
+-GeForce Go 6シリーズ
+
+**動作可能 [#nv-b]
+***デスクトップ [#nv-b1]
+-GeForce FX/PCXシリーズ
+-GeForce 4シリーズ
+-GeForce 3シリーズ
+-GeForce 2シリーズ
+--GeForce2 GTS/Pro/Ultra
+--GeForce2 MX (無印)/200/400
+--GeForce2 Ti
+-GeForce 256
+
+***ノート [#nv-b2]
+-GeForce FX Goシリーズ
+-GeForce 4 Goシリーズ
+
+*[[AMD:http://www.amd.com/ja-jp]] [#amd]
+
+-ドライバ：[[AMD公式>http://support.amd.com/ja-jp/download]]
+-2016年8月現在、''Radeon R7/R9 200シリーズ以降の使用を強く推奨します。''
+--FireProは推奨しません。
+**快適 [#amd-a]
+***デスクトップ [#amd-a1]
+|>|~Radeon RX Vegaシリーズ|
+|RX Vega 64||
+|>||
+|>|~Radeon RX 400シリーズ&br;(Polaris)|
+|RX 580|RX 570|
+|RX 560|RX 550|
+|>||
+|>|~Radeon RX 400シリーズ&br;(Polaris)|
+|RX 480|RX 470|
+|RX 460||
+|>||
+|>|~Radeon Rx 300シリーズ|
+|R9 Fury X|R9 Nano|
+|R9 Fury|R9 390X|
+|R9 390|R9 380X|
+|R9 380|R9 370|
+|R7 360|R7 360E|
+|>||
+|>|~Radeon Rx 200シリーズ|
+|R9 295X2|R9 290X|
+|R9 290|R9 285|
+|R9 280X|R9 280|
+|R9 270X|R9 270|
+|R7 265|R7 260X|
+|R7 260|R7 250X|
+|R7 250XE|R7 250|
+|R7 240|R5 230|
+-Radeon HD 7000シリーズ
+-Radeon HD 6000シリーズ
+-Radeon HD 5000シリーズ
+-Radeon HD 4000シリーズ
+-Radeon HD 3000シリーズ
+-Radeon HD 2000シリーズ
+-Radeon R500世代(X1000系)
+-Radeon R400世代(X700/X800/X850)
+
+***ノート [#amd-a2]
+-Radeon R9 M290X/295X
+-Radeon HD 7000Mシリーズ
+-Radeon HD 6000Mシリーズ
+-Mobility Radeon HD 5000シリーズ
+-Mobility Radeon HD 4000シリーズ
+-Mobility Radeon HD 3000シリーズ
+-Mobility Radeon HD 2000シリーズ
+-Mobility Radeon X 2000シリーズ
+-Mobility Radeon X 1000シリーズ
+-Mobility Radeon X 200～800
+-Mobility Radeon 9000シリーズ
+
+**動作可能 [#amd-b]
+***デスクトップ [#amd-b1]
+-Radeon R300世代(9500～9800/X200/X300/X550/X600/X1050)
+-Radeon R200世代(8000/9000～9250)
+-Radeon R100世代(7000系,VE及びLE含む)
+-Radeon Xpress 200
+-RS690E
+
+***ノート [#amd-b2]
+-Radeon IGP 350M/345M/340M/330M/320M
+-Mobility Radeon 9100 IGP
+-Mobility Radeon (7000,M6)
+
+//**動作不明(非推奨) [#amd-c]
+//-Radeon X300LE
+//-Radeon 9600SE
+//-Radeon 8500LE
+//-Radeon 7500Pro
+//-Radeon 7500SE
+//-Radeon
+//-Rage 128 Pro GL
+//-Rage 128 GL
+
+*[[Intel:http://www.intel.co.jp/]] [#intel]
+-インテル ドライバー・アップデート・ユーティリティー
+--[[ダウンロード>http://www.intel.co.jp/content/www/jp/ja/support/detect.html]]
+
+-Sandy Bridge以降のオンチップGPUなら普通に遊べますが、より快適な環境を目指す場合には、デスクトップの場合は、NVIDIA・AMDのグラフィックボードを購入するといいでしょう。
+**快適 [#intel-a]
+-Skylakeマイクロアーキテクチャ
+--Iris Pro Graphics 580
+--HD Graphics 530
+--HD Graphics 510
+-Broadwellマイクロアーキテクチャ
+--Iris Pro Graphics 6200
+--Iris Graphics 6100
+--HD Graphics 6000
+-Haswellマイクロアーキテクチャ
+--HD Graphics 5100
+--HD Graphics 5000
+--HD Graphics 4600
+--HD Graphics 4400
+-Ivy Bridgeマイクロアーキテクチャ
+--HD Graphics 4000
+--HD Graphics 2500
+-Sandy Bridgeマイクロアーキテクチャ
+--HD Graphics 3000
+--HD Graphics 2000
+-Graphics Media Accelerator HD (Core i5-660)
+
+**動作可能 [#intel-b]
+-Intel 4シリーズ チップセット
+--GMA X4500HD (G45)
+--GMA X4500 (G43)
+-Intel 900 チップセット ファミリ
+--GMA X3000 (G965)
+--GMA 3000 (Q965)
+--GMA 950 (945G 945GZ 945GM)
+--GMA 900 (915GV 915GL 910GL)
+-GMA 500 (US15W/Atom Z515、オンキヨーBX407A4で確認済)
+-Intel 800 チップセット ファミリ
+--Extreme Graphics2 (865G 865GV 855GM 855GME)
+--Extreme Graphics (845G 845GL 845GE 845GV)
+--852GM (852GM 852GMV 852GME)
+--830GM
+
+//**動作不明(非推奨) [#intel-c]
+//-GMA500(UL11L,US15L…Atomプロセッサー)
+
+//----
+//ここからは古い情報のため、非表示にしています
+//
+//*[[Matrox:http://www.infomagic.co.jp/products/personal/hardware/graphicbord/]] [#matrox]
+//
+//-Parhelia Windows XP/2000 用ドライバ
+//--[[1.07J>http://www.infomagic.co.jp/download/detail/dv4_1.htm]]
+//---ドライバ/ソフトダウンロード の下にある ダウンロード のURLをクリックする。
+//
+//**実用範囲のチップ [#matrox-1]
+//-Parhelia (Parhelia-512)
+//
+//**動作可能なチップ [#matrox-2]
+//-Millennium P750
+//-Millennium P650
+//-Millennium G550
+//-Millennium G450
+//-Millennium G400
+//
+//*[[VIA / S3 Graphics:http://www.s3graphics.com/]] [#vias3]
+//
+//-Chrome Windows XP/2000/Vista 用ドライバ
+//--[[Driver Download>http://s3graphics.com/en/resources/drivers/index.jsp]]
+//---インストールする製品名とOSを選択し、Download をクリックする。
+//
+//**実用範囲のチップ [#vias3-1]
+//-Chrome 430 ULP
+//-Chrome S27
+//-Chrome S25
+//-GammaChrome S18 Pro
+//-GammaChrome S18
+
+//**動作可能なチップ [#vias3-2]
+//-Chrome 9
+//-DeltaChrome F1
+//-DeltaChrome S8
+//-DeltaChrome S4
+//-UniChrome Pro (PM880 PM800 K8M800 CN400)
+//-UniChrome (P4M266 KN400 KM 400 CLE266)
+//-Savage 2000
+//-ProSavage DDR
+//-ProSavage
+//
+//**動作不明のチップ [#vias3-3]
+//-Savage 4 Pro
+//-Savage 4
+//
+//*[[SiS:http://www.sis.com/]] [#sis]
+//-SiS チップセット用ドライバ
+//--[[Download Center>http://www.sis.com/download/]]
+//---OS と 製品名 を選び GO をクリックする。
+//
+//**動作可能なチップ [#sis-1]
+//-Mirage (761GX 761GL 760GX 760 661FX 661GX 741GX 741 740)
+//--ドライバのアップデートが必須
+//-651 650
+//--ドライバのアップデートが必須
+//
+//**動作不明のチップ [#sis-3]
+//-Xabre 600
+//-Xabre 400
+//-Xabre 200
+//-Xabre 80
+//
+//*[[XGI:http://www.xgitech.com/]] [#xgi]
+//-XGI グラフィックボードドライバ
+//--[[Download>http://www.xgitech.com/sd/sd_download.asp]]
+//---製品名 と OS を選び Go をクリックする。ドライバ名の横にある矢印をクリックする。
+
+//**動作可能なチップ [#xgi-1]
+//-Volari Duo V8 Ultra
+//-Volari V8 Ultra
+//-Volari V8
+//-Volari V5
+//-Volari V3 XT
+//-Volari V3
+//
+//**動作不明のチップ [#xgi-3]
+//-Volari 8600
+//-Volari 8300
+//
+//*[[ST Microelectronics:http://www.st-japan.co.jp/]] [#stm]
+//**動作不明のチップ [#stm-3]
+//-Kyro II
+//-Kyro
+//
+//コメントアウトここまで
+//----
+*コメント欄（グラフィックボードの動作報告はこちらに） [#vga-comment]
+-ECOの動作に関する質問は[[こちら:http://jbbs.shitaraba.net/bbs/read.cgi/netgame/11977/1416899654/]]へ
+#pcomment

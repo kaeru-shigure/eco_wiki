@@ -1,0 +1,11 @@
+# Map
+
+#author("2017-04-07T17:29:48+00:00","","")
+**ワールドマップ [#g6c6b1cc]
+
+-[[Ecologie>http://ecologie.sakura.ne.jp/]]（マップ）
+
+***座標 [#j8d16a8d]
+座標の取得の方法は、chatウィンドウに&quot;/where&quot;と打ちこめむことで、システムメッセージにマップ名と座標が出てきます。
+左上が(0,0)、右下が(256,256)となっています。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Zahyou.png,nolink,256x256,左上が(0,0);右下が(256,256));

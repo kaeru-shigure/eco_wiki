@@ -1,0 +1,66 @@
+# ドロップ率検証/木系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[木材知識>ドロップ率検証#xe3716bd]]
+
+***小枝の木 [#q001d36f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|木の枝|かたい木の枝|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（12体）|9個（75.00％）|3個（25.00％）|0個（0.00％）|
+|知識あり（400体）|39個（9.75％）|248個（62.00％）|113個（28.25％）|
+
+***材木の木 [#mc373be2]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||木片|木の種|大きな丸太|木材|ひのきの木材|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（320体）|183個（57.19％）|128個（40.00％）|4個（1.25％）|5個（1.56％）|0個（0.00％）|
+|知識あり（3741体）|1391個（37.18％）|1111個（29.70％）|73個（1.95％）|1163個（31.08％）|3個（0.08％）|
+
+***紙の木 [#t3602ab9]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|木の皮|キューティクルエキス|パルプロール|パルプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（12体）|5個（41.67％）|4個（33.33％）|2個（16.67％）|1個（8.33％）|0個（0.00％）|
+|知識あり（165体）|62個（37.58％）|39個（23.64％）|17個（10.30％）|3個（1.82％）|44個（26.67％）|
+
+***東の果物の木 [#v2e1fdda]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|りんご|カカオ豆|東の果物の木の種|ぶどう|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（253体）|130個（51.38％）|81個（32.02％）|33個（13.04％）|9個（3.56％）|0個（0.00％）|
+|知識あり（145体）|73個（50.34％）|36個（24.83％）|10個（6.90％）|1個（0.69％）|25個（17.24％）|
+
+***西の果物の木 [#fb45ee3b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|あんず|カカオ豆|西の果物の木の種|いちじく|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（232体）|124個（53.45％）|79個（34.05％）|28個（12.07％）|1個（0.43％）|0個（0.00％）|
+|知識あり（422体）|158個（37.44％）|106個（25.12％）|35個（8.29％）|11個（2.61％）|112個（26.54％）|
+
+***南の果物の木 [#qd22d464]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|オレンジ|カカオ豆|南の果物の木の種|プルーン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（60体）|34個（56.67％）|18個（30.00％）|6個（10.00％）|2個（3.33％）|0個（0.00％）|
+|知識あり（95体）|40個（42.11％）|24個（25.26％）|7個（7.37％）|1個（1.05％）|23個（24.21％）|
+
+***北の果物の木 [#h65003ac]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|さくらんぼ|カカオ豆|北の果物の木の種|ラズベリー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（48体）|27個（56.25％）|16個（33.33％）|5個（10.42％）|0個（0.00％）|0個（0.00％）|
+|知識あり（68体）|30個（44.12％）|16個（23.53％）|5個（7.35％）|1個（1.47％）|16個（23.53％）|
+
+***果樹園の木 [#od538e10]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||りんご|あんず|オレンジ|さくらんぼ|パートナーフード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（600体）|119個（19.83％）|135個（22.50％）|117個（19.50％）|120個（20.00％）|109個（18.17％）|
+|知識あり（400体）|75個（18.75％）|88個（22.00％）|75個（18.75％）|69個（17.25％）|93個（23.25％）|
+
+***名もない木 [#e637f660]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||木の枝|木の皮|ひのきの木の枝|世界樹の枝|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|238個（59.50％）|162個（40.50％）|0個（0.00％）|0個（0.00％）|
+|知識あり（22600体）|8382個（37.09％）|7300個（32.30％）|6896個（30.51％）|22個（0.10％）|

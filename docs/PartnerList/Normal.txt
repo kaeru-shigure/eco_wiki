@@ -1,0 +1,12 @@
+# PartnerList/Normal
+
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （通常パートナー） [#h19b7b98]
+RIGHT:&edit(PartnerList/NormalHeader,noicon){トップメニューを編集};
+#include(PartnerList/NormalHeader,notitle)
+#include(PartnerList/NormalDogTiny,notitle)
+#include(PartnerList/NormalOtherwise,notitle)
+*情報提供欄（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){情報提供欄はゲーム内容を質問する場ではありません。}質問等は[[''外部スレッド''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、ペットの種類（転生している場合は転生回数）、ステータス名、ステータス値を記入して下さい。};
+#pcomment

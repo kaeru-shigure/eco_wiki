@@ -1,0 +1,35 @@
+# Dungeon/MaimaiRuins
+
+*マイマイ遺跡 [#f1ab74ba]
+
+-インスタンスダンジョンは、「[[遺跡クエスト>Quest/Maimai#a78afaed]]」を参照。
+
+-[[ダンジョン>Dungeon]]
+
+#contents
+
+**マイマイ遺跡第一甲板 [#wf6085db]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/MaimaiRuins/1f.jpg,nolink,マイマイ遺跡第一甲板);
+-隣接マップ：[[マイマイ島>Quest/Maimai]]
+-属性：無
+
+-出現モンスター
+--[[ディトライテス>MobRock#CrystalA-chin]]（詠唱反応）
+　(Lv92/土)[HP:12000][%%3500/3400%%→7150/7050]
+--[[ホログラフ>MobMachine#Holograph]]
+　(Lv93/火)[HP:15500][%%4650/4450%%→5650/5450]
+--[[ホログラフＣＤ>MobMachine#Holograph]]（詠唱反応）
+　(Lv93/火)[HP:15500][%%4650/4450%%→5650/5450]
+--[[オキュペテー>MobBird#Ha-Pi-]] （瀕死時アクティブ）
+　(Lv95/土＋風)[HP:?][%%4500/4650%%→7800/7900]
+
+-自然物
+--[[コンテナ７>kontena#x6a89d46]]
+
+-NPC
+--研究者
+--マシンナリー(４箇所)
+
+**情報提供・コメント欄 [#i38c8149]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Tutorial#p39618b7]]にどうぞ。~
+#pcomment

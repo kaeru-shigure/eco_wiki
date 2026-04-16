@@ -1,0 +1,17 @@
+# PetList/Ride/CaitSith
+
+#author("2017-04-07T17:41:08+00:00","","")
+RIGHT:&edit(,noicon){ケット・シーを編集};
+
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/CaitSith.jpg,nolink,146x299);|なし|>|CENTER:~通常|【説明】&br;・通常&br;ケット・シーがほんの少しだけ&br;力を貸してくれるそうだ&br;&br;・騎乗化&br;ケット・シーがほんの少しだけ&br;本気を出したようだ&br;&br;※通常時のみ成長します&br;※通常のステ+育成したステ=騎乗化の右側のステになります&br;&br;[[台詞>PetSpeech/CaitSith]]&br;&br;【ユニオン時】&br;MP80&br;SP80&br;DEF(%)25&br;M.DEF(%)10&br;&br;【使用スキル】&br;なし&br;&br;【通常＜＞騎乗の変更】&br;詳細情報の「change」ボタンを押す&br;インベントリがBodyの場合のみ有効&br;&br;【入手法】&br;[[エミルの転生特典>Job/Change/Chronicle#j725762b]]&br;&br;【注意】&br;装備条件：転生後可能&br;&color(#f00000){''ハイエミルのみ装備可能''　};|
+//
+//ここから通常ステータス
+//
+|~|~|HP:300&br;ATK:40&br;M.ATK:1&br;DEF:40&br;M.DEF:10&br;S.HIT:35&br;L.HIT:20&br;M.HIT:100&br;S.AVOID:40&br;L.AVOID:20&br;M.RST:0&br;CRITICAL:18&br;&br;C.AVOID:5&br;A.SPD:200&br;C.SPD:200&br;RCV:100&br;M.RCV:1&br;S.RCV:0|+1600&br;+126&br;+75&br;+114&br;+120&br;+90&br;+60&br;+250&br;+100&br;+55&br;+60&br;+50&br;&br;+20&br;+200&br;+200&br;+100&br;+10&br;+100|~|
+//
+//
+//ここから騎乗化ステータス
+//
+|~|~|>|CENTER:~騎乗化|~|
+|~|~|HP:420&br;ATK:49&br;M.ATK:43&br;DEF:37&br;M.DEF:18&br;S.HIT:30&br;L.HIT:25&br;M.HIT:20&br;S.AVOID:28&br;L.AVOID:15&br;M.RST:14&br;CRITICAL:30&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|&color(#a0a0a0){+1900};&br;&color(#a0a0a0){+166};&br;&color(#a0a0a0){+76};&br;&color(#a0a0a0){+154};&br;&color(#a0a0a0){+130};&br;&color(#a0a0a0){+125};&br;&color(#a0a0a0){+80};&br;&color(#a0a0a0){+350};&br;&color(#a0a0a0){+140};&br;&color(#a0a0a0){+75};&br;&color(#a0a0a0){+60};&br;&color(#a0a0a0){+68};&br;&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};&br;&color(#a0a0a0){+0};|~|

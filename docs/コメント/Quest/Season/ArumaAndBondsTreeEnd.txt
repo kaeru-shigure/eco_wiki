@@ -1,0 +1,5 @@
+# コメント/Quest/Season/ArumaAndBondsTreeEnd
+
+[[Quest/Season/ArumaAndBondsTreeEnd]]
+
+-12/12/27UD以降は黒の聖堂前にアミスがいて、そこからアミスの飛空庭に移動できる。 --  &new{2012-12-30 (日) 01:36:08};

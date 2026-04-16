@@ -1,0 +1,38 @@
+# ドロップ率検証/デバステイター系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[人間知識>ドロップ率検証#lb6d67cf]]
+
+***デバステイター [#se200413]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|トニックウォーター|ヒールポーション|戦乙女の涙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|47個（47.00％）|42個（42.00％）|11個（11.00％）|0個（0.00％）|
+|知識あり（100体）|38個（38.00％）|49個（49.00％）|12個（12.00％）|1個（1.00％）|
+
+***ヘルダイバー [#yec0409c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|トニックウォーター|パートナーフード|パワードリンク|力の結晶|コンポジットシールド（銀）|壊れたマシンアクス|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（600体）|279個（46.50％）|241個（40.17％）|71個（11.83％）|8個（1.33％）|0個（0.00％）|1個（0.17％）|0個（0.00％）|
+|知識あり（2300体）|1073個（46.65％）|952個（41.39％）|253個（11.00％）|17個（0.74％）|2個（0.09％）|2個（0.09％）|1個（0.04％）|
+
+***アベンジャー [#ibd0293d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|トニックウォーター|パートナーフード|パワードリンク|戦乙女の涙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（40体）|20個（50.00％）|17個（42.50％）|3個（7.50％）|0個（0.00％）|0個（0.00％）|
+|知識あり（550体）|283個（51.45％）|211個（38.36％）|53個（9.64％）|1個（0.18％）|2個（0.36％）|
+
+***スカイレイダー [#qf5f0b0a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|トニックウォーター|パートナーフード|パワードリンク|壊れたチェインソード|ナックルガード|コンポジットシールド（紺）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|94個（47.00％）|80個（40.00％）|24個（12.00％）|2個（1.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（1600体）|735個（45.94％）|648個（40.50％）|188個（11.75％）|19個（1.19％）|4個（0.25％）|4個（0.25％）|2個（0.13％）|
+
+***バンディット [#w5bdbf02]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|パートナーフード|頑丈な革|金のナゲット|いのちの結晶|手裏剣|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|47個（47.00％）|36個（36.00％）|14個（14.00％）|2個（2.00％）|1個（1.00％）|0個（0.00％）|
+|知識あり（100体）|39個（39.00％）|41個（41.00％）|15個（15.00％）|1個（1.00％）|0個（0.00％）|4個（4.00％）|

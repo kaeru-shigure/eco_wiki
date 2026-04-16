@@ -1,0 +1,271 @@
+# MobCityBattle2
+
+#author("2024-01-05T15:56:56+00:00","","")
+*モンスター（都市攻防戦） [#CityBattle]
+
+[[都市攻防戦>defense]] / [[都市攻防戦パターン>defense/pattern]] / [[都市攻防戦パターン詳細>defense/pattern/Explanation]] / モンスター（都市攻防戦）
+
+#contents
+#include(MobMenu,notitle)
+
+//編集者向け属性テンプレート
+//BGCOLOR(#ffdddd):火
+//BGCOLOR(#bbffff):水
+//BGCOLOR(#fff68f):風
+//BGCOLOR(#98fb98):土
+//BGCOLOR(#ffffff):光
+//BGCOLOR(#c4adff):闇
+
+***敵モンスター [#t1ba5f17]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~属性|~チャンプ属性|~性格|~スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|LEFT:|LEFT:|c
+//|画像|名前|LV|HP|属性|性格|スキル|その他|
+// ＤＥＭ－数字
+||ＤＥＭ－００Ｆ１|||？|なし|Active|エセリアルボディ||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%EF%BC%90%EF%BC%90%EF%BC%B0%EF%BC%90.jpg,nolink,45x100);|ＤＥＭ－００Ｐ０|||BGCOLOR(#c4adff):闇|なし|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%EF%BC%90%EF%BC%90%EF%BC%B3%EF%BC%90.jpg,nolink,100x100);|ＤＥＭ－００Ｓ０|||BGCOLOR(#c4adff):闇|なし|Active|範囲射撃&br;チャージショット||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%EF%BC%A9%EF%BC%A5.jpg,nolink,65x100);|ＤＥＭ－ＩＥ|||BGCOLOR(#c4adff):闇76↑|有|Active|一閃&br;バッドドリーム&br;死鎌乱舞&br;カオスマーチ&br;猛毒針|火ライズで上書き不可|
+|http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%EF%BC%B3%EF%BC%A8%EF%BC%A1.jpg|ＤＥＭ－ＳＨＡ|||BGCOLOR(#98fb98):火/風/''土''|有|Active|クロスファイア&br;グランドクロス&br;デクライズインパクト&br;ゼーレゲリヒト&br;リフレクションウォール||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%80.jpg,nolink,100x100);|ＤＥＭ－アインスパーダ||6M|BGCOLOR(#ffdddd):火|なし|Active|アブソリューションジョルト&br;ゼーレゲリヒト&br;フォトンランチャー&br;エンジェルリング&br;ヒールビット召喚？体&br;ハンドレットハードコーティング|ゼーレの使用頻度が高い&br;ヒールビットのリカバリーで1.2M回復&br;外見：ノワローゼスＤＥＭにベルクヴィントウイングとラパンアーム|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A2%E3%82%B0%E3%83%AA%E3%82%AA%E3%82%B9.jpg,nolink,100x87);|ＤＥＭ－アグリオス||HP約2M？|BGCOLOR(#ffdddd):火50|なし|Active|ファランクス&br;一閃|状態異常入らない|
+||ＤＥＭ－アメージャー|||BGCOLOR(#c4adff):闇|有|Active|つむじ風&br;連続攻撃&br;ディレイキャンセル||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A2%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－アメージャーＳ|||BGCOLOR(#c4adff):闇|なし|Active|連続攻撃&br;つむじ風&br;ディレイキャンセル||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A4%E3%83%9F%E3%83%86%E3%82%A4%E3%83%88%EF%BC%A6%EF%BC%91%E5%9E%8B.jpg,nolink,100x100);|ＤＥＭ－イミテイトＦ１型|||BGCOLOR(#ffffff):光100|有|Active|エンジェルリング&br;アビス&br;アルティメットグレアー&br;フォトンランチャー&br;インバリデイトフレーム&br;ゼーレゲリヒト||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A4%E3%83%9F%E3%83%86%E3%82%A4%E3%83%88%EF%BC%A6%EF%BC%91%E5%9E%8B.jpg,nolink,100x100);|ＤＥＭ－イミテイトＦ１型改|高Lv（赤文字）|400M|光？|有|Active|フォトンランチャー&br;アルティメットグレアー&br;ゼーレゲリヒト&br;インバリデイトフレーム&br;アビス||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A4%E3%83%AA%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%B3.jpg,nolink,69x100);|ＤＥＭ－イリミネーターＳ|||BGCOLOR(#c4adff):闇|有|Active|ソリッドオーラ&br;連続攻撃&br;つむじ風&br;アヴォイド・バースト&br;バイタリティダウン|状態異常攻撃が有効　出現時ソリッドオーラ|
+||ＤＥＭ－イールド|||BGCOLOR(#c4adff):闇|？|Active|||
+||ＤＥＭ－イールド（チャンプ）|||？|有|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%B3.jpg,nolink,61x100);|ＤＥＭ－イールドＳ||HP265k|BGCOLOR(#c4adff):闇|なし|Active|連続射撃&br;バレッドダンス&br;散弾||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%B4%E3%82%A3%E3%82%B8%E3%82%B0%E3%83%BC%E3%83%90.jpg,nolink,86x100);|ＤＥＭ－ヴィジグーバ|||？|なし|Active|ハウリングスクイーザー&br;ノクシャスブラスト&br;ヴァニッシュメント&br;ダークランチャー|討伐不能　ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%B0%E3%83%B3%EF%BC%A1.jpg,nolink,100x94);|ＤＥＭ－ウォーグン|||BGCOLOR(#ffdddd):火|？|Active|怒&br;無名スキル（ジョルト？）|ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%B0%E3%83%B3%EF%BC%A1.jpg,nolink,100x94);|ＤＥＭ－ウォーグンＡ|||BGCOLOR(#ffdddd):火|なし|Active|デュアルアロー&br;チャージショット&br;無名スキル（ジョルト？）|ボス属性　フリブラ毒有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%B0%E3%83%B3%EF%BC%A1.jpg,nolink,100x94);|ＤＥＭ－ウォーグンＳ||HP1～1.4M|BGCOLOR(#ffdddd):火|？|Active|怒&br;アブソリューションジョルト&br;ラッシュ&br;連続攻撃&br;無名スキル（ジョルト？）|ボス属性&br;無名スキルはATK依存？&br;バーサクさせると火力が上がるため注意|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%88.jpg,nolink,100x100);|ＤＥＭ－ヴォースハイト||HP約3M|BGCOLOR(#ffdddd):火|なし|Active|ゼーレゲリヒト&br;ラーヴァフロウ&br;アイシクルテンペスト&br;エンジェルリング&br;ディスペルオーラ&br;エセリアルボディ|状態異常無効&br;高AVOID&br;ゼーレとラーヴァの使用頻度が高い&br;ディスペルオーラほぼ常時使用&br;MDEF50でラーヴァの被ダメ1発2000↑&br;エンジェルリングの被ダメ9000↑&br;出現時にリフレクション&br;死亡時にエッセンガイスト&br;外見：セイレーンＤＥＭ　バレットアーム|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B2.jpg,nolink,100x100);|ＤＥＭ－クリンゲ|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B2%EF%BC%88%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97%EF%BC%89.jpg,nolink,72x100);|ＤＥＭ－クリンゲ（チャンプ）|||BGCOLOR(#c4adff):闇|有|Active|一閃||
+||ＤＥＭ－クリンゲＲ（チャンプ）||HP約300～400k|BGCOLOR(#c4adff):闇|有|Active|一閃&br;連続攻撃&br;アヴォイドバースト||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B2%EF%BC%B2%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－クリンゲＲＳ|||BGCOLOR(#c4adff):火/水/土/風/''闇49↓''|なし|Active|連続攻撃&br;一閃&br;アヴォイド・バースト||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B2%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－クリンゲＳ||HP458k|BGCOLOR(#fff68f):風49↓？|なし|Active|連続攻撃&br;一閃&br;アヴォイド・バースト||
+||ＤＥＭ－ゲヴェーア|||BGCOLOR(#c4adff):闇|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B2%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%A2%EF%BC%B2.jpg,nolink,100x100);|ＤＥＭ－ゲヴェーアＲ|||BGCOLOR(#c4adff):闇|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B2%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%A2%EF%BC%B2%EF%BC%B3.jpg,nolink,75x100);|ＤＥＭ－ゲヴェーアＲＳ||HP320k|BGCOLOR(#c4adff):闇|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B2%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%A2%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－ゲヴェーアＳ|||BGCOLOR(#c4adff):闇|なし|Active|バレットダンス&br;アヴォイド・バースト&br;範囲射撃||
+||ＤＥＭ－ゲバイン|||BGCOLOR(#c4adff):闇|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B2%E3%83%90%E3%82%A4%E3%83%B3%EF%BC%B3.jpg,nolink,64x100);|ＤＥＭ－ゲバインＳ||278k|BGCOLOR(#c4adff):闇|なし|Active|つむじ風&br;ディレイキャンセル||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%88.jpg,nolink,70x100);|ＤＥＭ－シュウィアート|||BGCOLOR(#c4adff):闇|？|Active|インパクトスライド&br;アヴォイド・バースト|インパクトスライド：神速斬り＋スタン|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%88.jpg,nolink,70x100);|ＤＥＭ－シュウィアートＡ||19.6M|BGCOLOR(#c4adff):闇|なし|Active|エリアパワーエンチャント&br;ショックブラスト&br;一閃&br;ジリオンブレイド|高ATK&br;エリアパワーエンチャント：範囲　ATK/MATK/DEF/MDEF上昇&br;ショックブラスト：範囲＋ノックバック3マス？＋混乱＋壁に衝突時に追加ダメージ&br;ジリオンブレイド：高倍率　範囲3x3　ジリオンスマイトとは違う|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%88.jpg,nolink,70x100);|ＤＥＭ－シュウィアートＢ||19.6M|BGCOLOR(#c4adff):闇|なし|Active|エリアパワーエンチャント&br;ショックブラスト&br;一閃&br;ジリオンブレイド|高ATK&br;エリアパワーエンチャント：範囲　ATK/MATK/DEF/MDEF上昇&br;ショックブラスト：範囲＋ノックバック3マス？＋混乱＋壁に衝突時に追加ダメージ&br;ジリオンブレイド：高倍率　範囲3x3　ジリオンスマイトとは違う|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%88.jpg,nolink,70x100);|ＤＥＭ－シュウィアートＣ||19.6M|BGCOLOR(#c4adff):闇|なし|Active|エリアパワーエンチャント&br;ショックブラスト&br;一閃&br;ジリオンブレイド|高ATK&br;エリアパワーエンチャント：範囲　ATK/MATK/DEF/MDEF上昇&br;ショックブラスト：範囲＋ノックバック3マス？＋混乱＋壁に衝突時に追加ダメージ&br;ジリオンブレイド：高倍率　範囲3x3　ジリオンスマイトとは違う|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%88.jpg,nolink,70x100);|ＤＥＭ－シュウィアートＤ||19.6M|BGCOLOR(#c4adff):闇|なし|Active|エリアパワーエンチャント&br;ショックブラスト&br;一閃&br;ジリオンブレイド&br;インパクトスライド|高ATK&br;エリアパワーエンチャント：範囲　ATK/MATK/DEF/MDEF上昇&br;ショックブラスト：範囲＋ノックバック3マス？＋混乱＋壁に衝突時に追加ダメージ&br;ジリオンブレイド：高倍率　範囲3x3　ジリオンスマイトとは違う|
+||ＤＥＭ－シュウィアートＳ|||BGCOLOR(#c4adff):闇|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%BC%E3%82%A4.jpg,nolink,69x100);|ＤＥＭ－シュターイ|||BGCOLOR(#ffffff):光|？|Active|||
+||ＤＥＭ－シュターイＳ|||BGCOLOR(#ffffff):光|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%83%86%E3%83%BC%E3%83%AC%E3%83%B3.jpg,nolink,66x100);|ＤＥＭ－シュテーレン||1650k|BGCOLOR(#ffdddd):火|なし|Active|インバリデイトフレーム&br;メガダークブレイズ&br;レイビングストーム&br;ソウルプランダー&br;リカバリー&br;ダメージマーキング&br;デクライズウエポン|リカバリー330k回復。|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%83%94%E3%83%B3%E3%83%8D.jpg,nolink,100x69);|ＤＥＭ－シュピンネ|||無|？|Active||ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%83%94%E3%83%B3%E3%83%8D%E3%82%BF%E3%83%BC%E3%83%9C.jpg,nolink,100x69);|ＤＥＭ－シュピンネターボ|||BGCOLOR(#ffdddd):火|？|Active|インパクトスライド&br;アブソリューションジョルト&br;ファランクス|ボス属性　インパクトスライド：神速斬り＋スタン|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%83%94%E3%83%B3%E3%83%8D%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC.jpg,nolink,100x69);|ＤＥＭ－シュピンネブースター|||BGCOLOR(#ffdddd):火|？|Active|インパクトスライド&br;ファランクス&br;無名スキル（ジョルト？）|ボス属性|
+||ＤＥＭ－シュメルツ|||BGCOLOR(#c4adff):闇|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%83%A1%E3%83%AB%E3%83%84%EF%BC%88%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97%EF%BC%89.jpg,nolink,55x100);|ＤＥＭ－シュメルツ（チャンプ）|||BGCOLOR(#c4adff):闇|有|Active|散弾&br;連続射撃||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B7%E3%83%A5%E3%83%A1%E3%83%AB%E3%83%84%EF%BC%B3.jpg,nolink,85x100);|ＤＥＭ－シュメルツＳ||HP400k|BGCOLOR(#c4adff):闇|？|Active|バレッドダンス&br;連続射撃&br;散弾||
+||ＤＥＭ－スナイパーＳ|||BGCOLOR(#c4adff):闇|有|Active|ディレイキャンセル&br;連続射撃&br;範囲射撃（対象中心）&br;チャージショット|状態異常攻撃が有効　出現時ディレイキャンセル|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC%EF%BC%B3%EF%BC%88%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97%EF%BC%89.jpg,nolink,69x100);|ＤＥＭ－スナイパーＳ（チャンプ）|||BGCOLOR(#c4adff):闇|有|Active|範囲射撃&br;チャージショット||
+|http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%BB%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC.jpg|ＤＥＭ－セイヴァーマイスター|高Lv（赤文字）||BGCOLOR(#ffdddd):火|有|Active|ノクシャスブラスト&br;ラピッジカノン&br;ディバインブレーカー&br;ダークランチャー|高クリ回避（約125～130？）&br;外見：50斬りアームを装備したヴェッジェンテDEM|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%B3.jpg,nolink,100x72);|ＤＥＭ－タイタン||HP600～700k|BGCOLOR(#ffdddd):火|？|Active|ファランクス&br;一閃||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%A6%E3%83%B3%E3%82%AE%E3%82%A2.jpg,nolink,100x100);|ＤＥＭ－ツヴァイウンギア|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレットハードコーティング&br;ディバインブレーカー&br;死鎌乱舞&br;ダークネスグレアー&br;アビス&br;レリッシュ召喚６体|外見：ノワローゼスＤＥＭ　ラインハイトウイング　ファルチェアーム|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%A2%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＢ|||BGCOLOR(#ffdddd):火|なし|Active|サウザンハードコーティング&br;アサルト|出現時にサウザンハードコーティングを使用。&br;サウザンハードコーティング：ダメージを1000回防ぐ？要検証&br;混乱スタンスロウ有効&br;コーティングは3分ほど持続|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%A2%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＢＳ|||無|なし|Active|ハウルアウト&br;アーマーキャプチャー&br;ライフスティール&br;ツイステッドプラント|コーティング系は使わない&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＡ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＢ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＣ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＤ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＥ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＦ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＧ|||BGCOLOR(#ffdddd):火|なし|Active|ハンドレッドハードコーティング|出現時にハンドレッドハードコーティングを使用&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%84%E3%83%B4%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%B2%EF%BC%A5.jpg,nolink,100x100);|ＤＥＭ－ツヴェックＲＳ|||？|なし|Active|ハウルアウト&br;アーマーキャプチャー&br;ライフスティール&br;デッドリーアタック|コーティング系は使わない&br;混乱スタンスロウ有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%87%E3%82%A3%E3%83%99%E3%83%AD%E3%83%89%E3%83%B3.jpg,nolink,100x100);|ＤＥＭ－ディベロドン|高Lv（赤文字）|HP1.2M|BGCOLOR(#ffdddd):火|なし|Active|ディフェンス・バースト&br;火炎放射&br;チャージショット&br;デッドリーアタック|スタン有効　神速斬りやアブサードが有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%88%E3%82%A5%E3%83%96%E3%83%AC%E3%83%B3%E3%83%85.jpg,nolink,85x100);|ＤＥＭ－トゥブレンヅ||HP8M|BGCOLOR(#ffdddd):火|なし|Active|バイタルショット&br;散弾&br;フラッシュ・フロスト&br;フラッシュ・ファイア|高ＡＶＯＩＤ&br;硬直スロウ回復不能有効&br;フロスト→ファイアで氷結後に火属性で攻撃|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3.jpg,nolink,100x75);|ＤＥＭ－ドライランチャ||HP8M|BGCOLOR(#c4adff):闇76↑|なし|Active|ディスチャージ&br;スピリットマーキング&br;バイタリティダウン&br;ヴェノムエクスプロージョン&br;インバリデイトフレーム&br;ソウルブレイク&br;連続攻撃&br;パワービット召喚？体&br;ハンドレッドハードコーティング|ハンドレッドとリカバリー対策に状態異常と手数で攻めよう|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%88%E3%83%AD%E3%82%A4.jpg,nolink,100x89);|ＤＥＭ－トロイ||HP約100M？|BGCOLOR(#ffdddd):火|？|Active|一閃&br;ファランクス&br;レヴェラー召喚５体|護衛１体倒すと9Mダメージ|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8A%E3%82%A6%E3%83%9E%E3%83%BC%E3%83%B3%EF%BC%88%E5%B0%8F%EF%BC%89.jpg,nolink,85x100);|ＤＥＭ－ナウマーン（小）||HP約3M|BGCOLOR(#ffdddd):火100|なし|Active|散弾&br;スパークボール&br;チャージショット&br;フォトンランチャー|ボス属性なし　高MDEF　スロウスタン硬直有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8A%E3%82%A6%E3%83%9E%E3%83%BC%E3%83%B3%EF%BC%88%E5%A4%A7%EF%BC%89.jpg,nolink,85x100);|ＤＥＭ－ナウマーン（大）||HP4.8M|BGCOLOR(#ffdddd):火|なし|Active|||
+||ＤＥＭ－ナウマーンＳＰＤ|||BGCOLOR(#ffdddd):火|？|Active|散弾|ボス属性なし　スロウ　スタン有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8D%E3%83%A9%E3%82%A4%E3%83%80.jpg,nolink,79x100);|ＤＥＭ－ネライダ||HP600k|BGCOLOR(#fff68f):風|無|Active|ラビッジカノン&br;フォトンランチャー&br;連続射撃|外見：橙色のフリューゲルDEM|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8D%E3%83%A9%E3%82%A4%E3%83%80%EF%BC%A1.jpg,nolink,79x100);|ＤＥＭ－ネライダＡ|||BGCOLOR(#fff68f):風|無|Active|バレットダンス&br;フォトンランチャー&br;エナジーショック&br;連続射撃||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8D%E3%83%A9%E3%82%A4%E3%83%80%EF%BC%B3.jpg,nolink,79x100);|ＤＥＭ－ネライダＳ||ＨＰ約650k|BGCOLOR(#fff68f):風|無|Active|バレットダンス&br;連続射撃|左MDEF約65|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%AB.jpg,nolink,100x100);|ＤＥＭ－ハーゲル|||BGCOLOR(#ffdddd):火|なし|Active|フォトンランチャー&br;クライシスパワー||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%AB%EF%BC%88%E9%BB%84%EF%BC%89.jpg,nolink,100x100);|ＤＥＭ－ハーゲル（黄）|||BGCOLOR(#ffdddd):火|なし|Active|フォトンランチャー&br;クライシスパワー&br;スパークボール&br;散弾||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%AB%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－ハーゲルＳ||800k|BGCOLOR(#ffdddd):火|なし|Active|フォトンランチャー&br;クライシスパワー&br;スパークボール&br;散弾|石化有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%94%E3%82%AF%E3%82%B7%E3%83%BC%CE%B1_s.jpg,nolink,100x100);|ＤＥＭ－ピクシーα||650k?|BGCOLOR(#fff68f):風|なし|Active|ディレイキャンセル&br;散弾&br;エアアート|出現時ディレイキャンセル|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%94%E3%82%AF%E3%82%B7%E3%83%BC%CE%B2_s.jpg,nolink,100x100);|ＤＥＭ－ピクシーβ||650k?|BGCOLOR(#fff68f):風|なし|Active|エアアート|すぐ自爆する　威力はかなり低い|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%94%E3%82%AF%E3%82%B7%E3%83%BC%CE%B3.jpg,nolink,100x100);|ＤＥＭ－ピクシーγ||HP650k|BGCOLOR(#fff68f):風|？|Active|エアアート&br;散弾|すぐ自爆する|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%94%E3%82%AF%E3%82%B7%E3%83%BC%CF%89.jpg,nolink,88x100);|ＤＥＭ－ピクシーω|||火？|？|Active|スパークボール&br;散弾&br;バレットダンス|バイタルショット|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%EF%BC%B3_s.jpg,nolink,100x100);|ＤＥＭ－ファントムＳ||3M|BGCOLOR(#c4adff):闇|有|Active|ラッシュ&br;足払い&br;ハイパーチャージ&br;ディレイキャンセル|状態異常攻撃が有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%E3%82%AF.jpg,nolink,100x100);|ＤＥＭ－ファールク||HP5,550k|BGCOLOR(#ffdddd):火50↑|なし|Active|常に使用&br;　ディスチャージ&br;　ディバインブレーカー&br;残りHP75～100%&br;　ダークランチャー&br;　デッドエンド&br;　ホーミングアビス&br;残りHP50～75%&br;　ガッテンダーミサイル&br;　ホーミングアビス&br;　無名の範囲沈黙ダメージ&br;残りHP0～50%&br;　ガッテンダーミサイル&br;　ホーミングアビス（バフ消し）&br;　無名のバフ消しスタン&br;|ディスチャージ：超射程範囲スタン＋憑依解除&br;ホーミングアビス：範囲キャッチ＋アビス&br;無名の範囲沈黙ダメージ：範囲沈黙攻撃&br;ホーミングアビス（バフ消し）：見た目ナッシングネスのバフ消し＋スタン。設置スキルではない。ウルゥで13000ダメ確認&br;無名のバフ消しスタン：見た目ダークブレイズ。バフ消し＋スタン&br;闇ライズ無効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC.jpg,nolink,100x100);|ＤＥＭ－フェアリー|||BGCOLOR(#fff68f):風|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC.jpg,nolink,100x100);|ＤＥＭ－フェアリーＳ|||BGCOLOR(#fff68f):風|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%97%E3%83%AA%E3%83%A1%E3%83%AC%E3%83%95%E3%82%A1%E3%82%B9.jpg,nolink,94x100);|ＤＥＭ－プリメレファス||HP2M|BGCOLOR(#ffdddd):火（高め）|なし|Active|リターンランダムダメージ&br;フォトンランチャー&br;散弾&br;スパークボール&br;チャージショット|出現時リターンランダムダメージ範囲5x5？　ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%97%E3%83%AA%E3%83%A1%E3%83%AC%E3%83%95%E3%82%A1%E3%82%B9%EF%BC%B3.jpg,nolink,100x100);|ＤＥＭ－プリメレファスＳ||HP4M？|BGCOLOR(#ffdddd):火|なし|Active|リターンハーフダメージ&br;スパークボール&br;フォトンランチャー&br;散弾|出現時リターンハーフダメージ&br;ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%97%E3%83%AA%E3%83%A1%E3%83%AC%E3%83%95%E3%82%A1%E3%82%B9.jpg,nolink,94x100);|ＤＥＭ－プリメレファスＰ１|||？|なし|Active|インフェルノグレアー&br;バルカン&br;リターンランダムダメージ&br;ディスチャージ&br;ルミナリティフレアー&br;フォトンランチャー&br;弱体化エリア展開|状態異常有効&br;出現時リターンランダムダメージ範囲5x5？&br;バルカン：詳細不明&br;弱体化エリア展開：クトゥグアのウィークネスサークル（サークルでAVI・DEF・MDEF低下）|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%97%E3%83%AA%E3%83%A1%E3%83%AC%E3%83%95%E3%82%A1%E3%82%B9.jpg,nolink,94x100);|ＤＥＭ－プリメレファスＰ２|||？|なし|Active||状態異常有効|
+||ＤＥＭ－フリューゲルＳ|||BGCOLOR(#fff68f):風|なし|Active|スパークボール&br;散弾|スロウ　硬直　混乱有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%98%E3%82%AB%E3%83%88%E3%83%B3%E3%82%B1%E3%82%A4%E3%83%AB.jpg,nolink,100x100);|ＤＥＭ－ヘカトンケイル||HP4,550k?|BGCOLOR(#ffdddd):火100|なし|Active|ファランクス&br;一閃|ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%9A%E3%83%8D%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC.jpg,nolink,93x100);|ＤＥＭ－ペネトレーター||HP1,820k|BGCOLOR(#ffdddd):火|なし|Active|ソウルブレイク&br;エセリアルボディ&br;一閃&br;連続攻撃&br;デッドリーアタック|MDEF低め&br;推定AVOID570？&br;エセリアルにイクパン連打&br;クロキン無効&br;ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AC%E3%83%BC.jpg,nolink,100x100);|ＤＥＭ－マザーフォルガー|Lv105以下&br;（青文字）||BGCOLOR(#ffdddd):火|なし|Active|インフェルノグレアー&br;ソウルブレイク&br;無名スキル（ジョルト？）&br;ブラックホールキャノン&br;ハードコーティング&br;ミリオンハードコーティング&br;カウンタービット？体召喚|射程５前後&br;低ATK&br;高ASPD・CSPD・移動速度&br;超高MATK&br;ソウルブレイクの被ダメ92023確認&br;ブラックホールキャノンは引き寄せ効果つき貫通闇グローブ&br;ミリオンハードコーティングからハードコーティングに変更された？|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%9E%E3%83%B3%E3%83%A2%E3%82%B9.jpg,nolink,100x100);|ＤＥＭ－マンモス|高Lv（赤文字）||BGCOLOR(#ffdddd):火|なし|Active|チャージショット&br;散弾&br;ラピッジカノン&br;フォトンランチャー|ラピッジカノンは長詠唱|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%9E%E3%83%B3%E3%83%A2%E3%82%B9%EF%BC%88%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97%EF%BC%89.jpg,nolink,100x100);|ＤＥＭ－マンモス（チャンプ）|高Lv（赤文字）||BGCOLOR(#ffdddd):火|有|Active|チャージショット&br;散弾&br;ラピッジカノン&br;フォトンランチャー&br;バレットダンス|ラピッジカノンは長詠唱|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%AC%E3%82%A4%E3%82%B2%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A0.jpg,nolink,100x90);|ＤＥＭ－レイゲンシュトゥルム|||BGCOLOR(#ffdddd):火|なし|Active|インパクトショット&br;ブラックホールキャノン＋&br;ディバインブレーカー|ブラックホールキャノン＋：使用キャラ中心メガダークブレイズ|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%AC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5.jpg,nolink,100x100);|ＤＥＭ－レリッシュ|||BGCOLOR(#ffdddd):火|なし|Active|怒&br;連続攻撃|出現時怒&br;高AVOID&br;高ASPD&br;高クリティカル(60～90？)&br;外見：ベルクヴィントＤＥＭ　レプスアーム|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%A9%EF%BC%AC.jpg,nolink,80x100);|ＤＥＭＩＬ|||BGCOLOR(#fff68f):火/''風100''/土|有|Active|一閃&br;アースパウダー&br;ライジングサンダー&br;インバリデイトフレーム&br;アークパワーライズ|火ライズ７５で火属性上書き可　インバリ使用頻度が高い|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%B2%EF%BC%A9%EF%BC%A1%EF%BC%AC.jpg,nolink,72x100);|ＤＥＭＲＩＡＬ|||BGCOLOR(#c4adff):火/''闇100''|有|Active|デッドエンド&br;ピアースダムネイション&br;アニマドレイン&br;ゼーレゲリヒト&br;オブセッション|火ライズ７５で火属性上書き可&br;MDEF50でアニマドレインの被ダメ20000↑|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%E8%BB%8D%E4%BB%95%E6%A7%98%E3%83%BB%E3%82%A2%E3%82%B9%E3%83%AC%E3%83%8F.jpg,nolink,91x100);|ＤＥＭ軍仕様・アスレハ||ＨＰ約900k|BGCOLOR(#ffdddd):火|なし|Active|コンフュージョンブロウ&br;アサルト|DEF/MDEFともに低い？　サイズはプレイヤーの２倍くらい|
+||ＤＥＭ軍仕様・ヒラーワ|||無|？|Active|||
+||ＤＥＭ軍仕様・ファース|||無|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%E5%88%B6%E4%BD%9C%E5%A4%A7%E5%9E%8B%E7%88%86%E5%BC%BE.jpg,nolink,85x100);|ＤＥＭ制作大型爆弾|||？|？|Active||見た目：プレイヤーよりやや小さい&br;ドガちゃんのＣＰ品「ドラム缶型爆弾」|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%E5%88%B6%E4%BD%9C%E7%88%86%E5%BC%BE.jpg,nolink,85x100);|ＤＥＭ制作爆弾|||？|？|Active|ファイアランチャー|低HP　高DEF/MDEF&br;見た目：サイズはプレイヤーの半分&br;ドガちゃんのＣＰ品「ドラム缶型爆弾」|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%A2.jpg,nolink,100x56);|アーリー・アクア|||BGCOLOR(#bbffff):水|なし|Active|怒|高ATK|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%87%E3%83%AB%E3%83%81%CE%B1.jpg,nolink,100x100);|アーリー・ヴェデルチα|||BGCOLOR(#98fb98):風/''土100''|なし|Active|ディレイキャンセル&br;ホーリーライズ&br;怒&br;アサルト&br;ショックウェーブ|出現時ディレイキャンセル|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%88.jpg,nolink,100x74);|アーリー・ギガント|||？|？|Active|アサルト&br;怒||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3.jpg,nolink,100x100);|アーリー・クイーン||4.5M|BGCOLOR(#bbffff):水|なし|Active||ボス属性　巨大モンスター|
+||インセクトマニピュレーター|||？|？|Active|アーリー・アクア８体召喚|見た目：一部赤いサーチキル|
+||ヴァント|||BGCOLOR(#98fb98):土100|有|Active|アースクエイク&br;アースパウダー&br;ディスペルオーラ||
+||エミル（敵）|||？|なし|Active||低ＨＰ|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%83%E3%83%88.jpg,nolink,100x100);|カウンタービット|||BGCOLOR(#ffdddd):火|なし|Active|セルフミラー|ボス属性なし　エンブロしよう|
+||カッテー・ムカーデ|||BGCOLOR(#98fb98):土|？|Active|||
+||ギガントＧＴ１|||？|？|Active|||
+||ギガントＧＴ２|||？|？|Active|||
+||ギガントＧＴ３|||？|？|Active|||
+||キャノン砲－ＥＸ|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%AD%E3%83%A3%E3%83%8E%E3%83%B3%E7%A0%B2%EF%BC%8D%EF%BC%A5%EF%BC%B8%EF%BC%91.jpg,nolink,100x68);|キャノン砲－ＥＸ１|||？|なし|Active||硬直有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%82%B0.jpg,nolink,100x100);|クラッシュバグ||100k|？|なし|Active|ディレイキャンセル&br;ファイアアート|すぐ自爆する　出現時ディレイキャンセル　高移動速度|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%AF%E3%83%AA%E3%83%A0%E3%82%BE%E3%83%B3%E3%83%96%E3%83%A9%E3%83%83%E3%83%89.jpg,nolink,100x100);|クリムゾンブラッド（チャンプ）||HP3.5～4.5M|BGCOLOR(#ffdddd):火100|有|Active|アースクエイク&br;スプラッシュ&br;ローリングサンダー&br;エクスプロージョン||
+||サルファーゴーチン|||BGCOLOR(#ffdddd):火49↓|なし|Active|ディレイキャンセル&br;ファイアアート|ＨＰが減ると徐々に巨大化|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B5%E3%83%BC%E3%83%81%E3%82%A2%E3%82%A4.jpg,nolink,100x100);|サーチアイ|||BGCOLOR(#fff68f):火/水/''風99↓''/土/光/闇|なし|Active|スパークボール&br;アサルト|射程３　低L.HIT（L.AVOID280で回避を確認）|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B5%E3%83%BC%E3%83%81%E3%82%AD%E3%83%AB.jpg,nolink,100x100);|サーチキル|||BGCOLOR(#c4adff):闇49↓|なし|Active|スパークボール&br;サンダーボルト&br;バイタリティダウン&br;ヴァニッシュメント|射程３　低L.HIT（L.AVOID280で回避を確認）|
+||ジェノサイドＨＸ|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%89%EF%BC%A8%EF%BC%B8%EF%BC%90.jpg,nolink,100x100);|ジェノサイドＨＸ０|||BGCOLOR(#ffdddd):火49↓|なし|Active|範囲射撃||
+||ジョーブ・ナ・アーリー|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AC%E3%83%BC.jpg,nolink,100x100);|ストライクティーガー|高Lv（赤文字）||？|なし|Active|インバリデイトフレーム&br;ラピッジカノン&br;エセリアルボディ？|ティーガー系|
+||ストロングドロイダーＧＴ－６|||？|？|Active|||
+||ストロングドロイダーＧＴ－７|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%EF%BC%A7%EF%BC%90%EF%BC%90.jpg,nolink,100x97);|ストームＧ００|||BGCOLOR(#ffdddd):火|なし|Active|アークパワーライズ|ボス属性　索敵反応悪い or 視界が狭い|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%EF%BC%A7%EF%BC%B8%EF%BC%90.jpg,nolink,100x100);|ストームＧＸ０||4,650k?|BGCOLOR(#ffdddd):火49↓|なし|Active|範囲射撃（対象中心）&br;ファイアアート（死亡時）||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B9%E3%83%94%E3%83%8B%E3%83%BC%EF%BC%B4%EF%BC%A1.jpg,nolink,100x100);|スピニーＴＡ|||？|なし|Active|スタンブロウ|スロウ　沈黙有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%A0%E3%83%90%E3%82%B0.jpg,nolink,80x80);|スワームバグ|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AC%E3%83%BC.jpg,nolink,100x100);|ディバインティーガー|||？|なし|Active|ディバインブレーカー&br;ディバインバリア|高Lv（赤文字）|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%87%E3%82%B9%E3%83%88%E3%83%AD%E3%82%A4%EF%BC%B4%EF%BC%90%EF%BC%90.jpg,nolink,100x100);|デストロイＴ００|||無|なし|Active||出現時ディスペルオーラ　高移動速度　高ＡＳＰＤ|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%87%E3%82%B9%E3%83%88%E3%83%AD%E3%82%A4%EF%BC%B4%EF%BC%90%EF%BC%91.jpg,nolink,100x100);|デストロイＴ０１|||無？|なし|Active|兜割り&br;スタンブロウ|ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%87%E3%82%B9%E3%83%88%E3%83%AD%E3%82%A4%EF%BC%B4%EF%BC%B8%EF%BC%90.jpg,nolink,100x94);|デストロイＴＸ０||HP305k|BGCOLOR(#ffdddd):火100|なし|Active|ララバイ|出現時ララバイ|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%87%E3%82%B9%E3%83%88%E3%83%AD%E3%82%A4%EF%BC%B4%EF%BC%B8%EF%BC%91.jpg,nolink,100x100);|デストロイＴＸ１|||？|なし|Active|スタンブロウ|ボス属性|
+||デムスライトジェネレータ|||？|？|Active|||
+||デムスライトリフレクター|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%AA%E3%83%96%E3%83%A9%E3%83%96.jpg,nolink,100x100);|トゥルーオブラブ|||BGCOLOR(#ffdddd):火|なし|Active|ノクシャスブラスト&br;デッドエンド&br;エンドライン&br;大好き！||
+||ドミニオンコントローラー|||？|？|Active|||
+||ドミニオンコントローラーα|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%93%E3%83%83%E3%83%88.jpg,nolink,100x100);|ハッキングビット||4M|？|なし|Active|ハンドレットハードコーティング&br;サンダーパルス&br;フォトンランチャー&br;ラピッジカノン&br;ディスチャージ|出現時ハンドレットハードコーティング。ハンドレットはイクパンで解除可能|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%90%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%89.jpg,nolink,100x27);|バリケード|||？|なし|NonActive|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%91%E3%83%AF%E3%83%BC%E3%83%93%E3%83%83%E3%83%88.jpg,nolink,100x100);|パワービット|||BGCOLOR(#ffdddd):火|なし|Active|スタンアタック&br;リカバリー&br;フォトンランチャー|ボス属性なし　状態異常「スロウ　鈍足　混乱　硬直」有効。石化は要検証|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%92%E3%83%BC%E3%83%AB%E3%83%93%E3%83%83%E3%83%88.jpg,nolink,100x100);|ヒールビット||500k|BGCOLOR(#ffdddd):火|なし|Active|リカバリー&br;アブリテレイション&br;クリティカルマーキング&br;デフィート&br;ダメージマーキング&br;アブリテレイション&br;エリアリペア|ボス属性なし　石化有効&br;エリアリペア：見た目エリアヒール&br;ヒールビットは360k回復&br;ハーゲルは1200回復&br;アインスパーダは0回復&br;リカバリーは対象の最大HPの20%回復|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%95%E3%83%A9%E3%82%BA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%81%E3%83%B3.jpg,nolink,100x100);|フラズルゴーチン||655k|？|なし|Active|ブラスターアート||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AC%E3%83%BC.jpg,nolink,100x100);|ブラックティーガー|高Lv（赤文字）||？|有|Active|エセリアルボディ&br;ラビッジカノン&br;フォトンランチャー&br;インバリデイトフレーム&br;ディスペルオーラ||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC.jpg,nolink,100x100);|ブラッドサッカー||HP約400k|BGCOLOR(#ffdddd):火100|なし|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%97%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC.jpg,nolink,100x100);|プリサーバー|||BGCOLOR(#fff68f):風|なし|Active|ウィンドアタック||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%97%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC.jpg,nolink,100x100);|プリサーバー（チャンプ）|||BGCOLOR(#fff68f):風100|有|Active|ローリングサンダー&br;サンダーパルス&br;石化ガス&br;エセリアルボディ||
+||ボルケーノドライブＢ|||？|？|Active|||
+||ボルケーノドライブＤ|||？|なし|Active|||
+||ボルケーノドライブＥ|||？|？|Active|||
+||ボルケーノドライブＦ|||？|？|Active|||
+||ボルケーノドライブＧ|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%9E%E3%82%AA%E3%82%A2%E3%83%BC.jpg,nolink,100x100);|マオアー|||BGCOLOR(#bbffff):水100|有|Active|スプラッシュ&br;アイスギャザー&br;猛毒スロウガス&br;ディスペルオーラ||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%93%E3%83%83%E3%83%88.jpg,nolink,100x72);|マザービット||90M|？|有|Active|サンダーパルス&br;フォトンランチャー&br;ラビッジカノン&br;ディスチャージ&br;サーチキル召喚６体|超高DEF/MDEF　護衛のサーチキルを倒すことでＨＰが減る&br;取り巻き1体撃破時に4.5Mダメージ入る|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%87%E3%83%BB%E3%82%AD%E3%83%B3%E3%82%B0.jpg,nolink,100x100);|ムカーデ・キング|||？|なし|Active|ディープフォレスト&br;パープルガス|ボス属性|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%87%E3%83%BB%E3%83%91%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%BA.jpg,nolink,100x100);|ムカーデ・パラライズ|||？|なし|Active|アサルト&br;コンフューズスタッド|出現時アサルト|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%87%E3%83%BB%E3%83%9D%E3%82%A4%E3%82%BA%E3%83%B3.jpg,nolink,100x100);|ムカーデ・ポイズン|||？|なし|Active|猛毒針&br;猛毒スタンガス|出現時：アサルト&br;死亡時：猛毒スタンガス|
+|http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%A9%E3%82%A4%E3%83%94%E3%83%83%E3%83%89.jpg|ライピッド|||？|？|Active|コンフュージョンブロウ&br;クライシスパワー|ボス属性なし　見た目：メタヴォーラの肌色&br;クライシスパワーは被ダメ60000↑　ソリッドで対応&br;沈黙　スタン　混乱有効|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%AA%E3%83%BC%E3%83%B4%E3%82%A1%E3%82%A6%E3%83%B3%E3%83%89_s.jpg,nolink,100x100);|リーヴァウンド||HP500k|BGCOLOR(#c4adff):闇|なし|Active|ダークウェポン&br;ブラックアート|アンデッド　MDEF0-0　HPが減ると徐々に巨大化|
+||リーヴァントＨ||HP300k？|？|？|Active|コンフュージョンブロウ&br;自爆（スキル名不明）||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%AC%E3%83%B4%E3%82%A7%E3%83%A9%E3%83%BC.jpg,nolink,100x100);|レヴェラー||HP300k|？|なし|Active|ダークバラッド|ＤＥＭ－トロイの護衛|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%AC%E3%83%B4%E3%82%A7%E3%83%A9%E3%83%BC.jpg,nolink,100x100);|レヴェラー（チャンプ）|||BGCOLOR(#c4adff):闇100？|有|Active|ローリングサンダー&br;アースクエイク&br;エクスプロージョン&br;スプラッシュ||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E4%BB%95%E5%85%A5%E5%B1%8B%E3%83%89%E3%82%AC%EF%BC%88%E6%95%B5%EF%BC%89.jpg,nolink,67x100);|仕入屋ドガ（敵）|||？|なし|Active|ジリオンスマイト&br;ダメージチャージ|洗脳状態&br;スケッチ不可|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E5%AF%BE%EF%BC%B7%EF%BC%A6%E6%88%A6%E7%95%A5%E5%85%B5%E5%99%A8%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%80.jpg,nolink,100x100);|対ＷＦ戦略兵器・アルマダ|||？|有|Active|ラビッジカノン&br;フォトンランチャー&br;インバリデイトフレーム&br;ディスペルオーラ||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E5%AF%BE%EF%BC%B7%EF%BC%A6%E6%88%A6%E7%95%A5%E5%85%B5%E5%99%A8%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%80.jpg,nolink,100x100);|対サウス戦略兵器・アルマダ|||？|有|Active|ラビッジカノン&br;フォトンランチャー&br;インバリデイトフレーム&br;エセリアルボディ|死亡時にインバリデイトフレーム？|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AC%E3%83%BC.jpg,nolink,100x100);|対地下戦略兵器・アイギス|||？|有|Active||討伐不能。&br;アイギス以外の指令を達成する必要がある|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E6%95%B5%E6%80%A7%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%BB%E2%97%AF%E5%8F%B7%E6%A9%9F.jpg,nolink,90x100);|敵性シンボル・◯号機||HP約16M|？|なし|Active|ダメージマーキング&br;フォトンランチャー&br;ウォーターゲイン&br;デフィート|ノックバックスキルは通用しない&br;スケッチ不可|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E9%89%84%E7%81%AB%EF%BC%A1%E5%81%B5%E5%AF%9F%E6%A9%9F%E3%82%B5%E3%83%BC%E3%83%81%E3%82%AD%E3%83%AB.jpg,nolink,100x100);|鉄火Ａ偵察機サーチキル||HP50Mor100M|？|なし|Active|スパークボール&br;サンダーボルト&br;バイタリティダウン&br;ヴァニッシュメント|名前はサーチキル。。沈黙スロウ鈍足混乱スタン硬直石化を確認。|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E9%89%84%E5%A3%81.jpg,nolink,100x55);|鉄壁|||無|なし|NonActive||HP2.5M　左DEF/MDEF50　回り込みで通り越すことができる。|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E9%9B%BB%E5%8A%9B%E4%BE%9B%E7%B5%A6%E8%A3%85%E7%BD%AE.jpg,nolink,100x86);|電力供給装置|||無|なし|Active||小さい|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%8A%E3%82%A6%E3%83%9E%E3%83%BC%E3%83%B3%EF%BC%88%E5%A4%A7%EF%BC%89.jpg,nolink,85x100);|透過加工型ＤＥＭ－ナウマーン|||？|なし|Active|チャージショット&br;散弾|討伐不能。&br;透過加工型ＤＥＭ－ナウマーン以外の指令を達成する必要がある|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E8%AC%8E%E3%81%AE%E5%B0%91%E5%A5%B3.jpg,nolink,94x100);|謎の少女|高Lv（赤文字）||BGCOLOR(#c4adff):闇76↑|有|Active|フォトンランチャー&br;バレットダンス&br;火炎放射&br;ソウルブレイク&br;猛毒スタンガス|出現時に怒を使用&br;火ライズで上書き可|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E8%AC%8E%E3%81%AE%E5%B0%91%E5%B9%B4.jpg,nolink,94x100);|謎の少年|高Lv（赤文字）|HP35M|BGCOLOR(#c4adff):闇76↑|有|Active|一閃&br;アイシクルテンペスト&br;連続攻撃&br;ソウルブレイク&br;ピアースダムネイション&br;アビス|一閃の使用頻度が高い|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E7%A0%B4%E5%A3%8A%E5%B7%A5%E4%BD%9C%E3%83%AD%E3%83%9C%E3%83%BB%E3%82%B5%E3%83%83%E3%82%B5%E3%82%AB%E3%83%BC%E3%82%B5.jpg,nolink,100x88);|破壊工作ロボ・サッサカーサ|||？|有|Escape||非常に小さい&br;鈍足有効、若干足が遅くなる|
+
+
+
+***味方ＮＰＣ [#u3be4a81]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~属性|~チャンプ属性|~性格|~スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|LEFT:|LEFT:|c
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%A2%E3%82%A4%E3%82%BC%E3%83%B3%E3%83%BB%E3%83%8A%E3%83%BC%E3%82%B2%E3%83%AB.jpg,nolink,66x100);|アイゼン・ナーゲル||250k|？|なし|Active|バイタルショット&br;連続射撃|シュタイン博士が変装した姿？|
+||ウォルター訓練生|||？|？|Active||青髪|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%A8%E3%82%A4%E3%83%80.jpg,nolink,100x100);|エイダ||1.83M|？|なし|Active|一閃&br;衝撃波&br;ブランディッシュ&br;かかってきなさい！|かかってきなさい！は&br;神速斬り+ジリオンブレイドの&br;コンボスキル　倍率2000%ほど|
+||エミル||200k|？|なし|Active|チャージ&br;ファランクス&br;ブロウ|洗脳されて敵になることもある&br;指令によって最大HPが異なる|
+||エリートドミニオン兵||530k|？|なし|Active|ナッシングネス&br;連続攻撃&br;一閃&br;デッドリーアタック&br;さぁ、楽しませてくれ！（開戦時）&br;ふふふ、機械のおでましか！（開戦時）&br;よし、行くぞ！（セリフ）&br;踏み込みが足りんわ！（セリフ）||
+||ギルド商人|||？|なし|Active|ディバインバリア|トラージでドガと共に出現|
+||グンバール|||？|なし|Active|グンバール式・ＤＯＧＥＺＡ！！&br;ディバインバリア&br;怒&br;チャージ||
+||工兵ニーア|||？|？|Active|援護をお願いします！バリア壁を無効化&br;しに行きます！（登場時セリフ）||
+||工兵ピオニー|||？|？|Active|援護を頼む！バリア壁を無効化しに行く&br;ぞ！（登場時セリフ）||
+||コォーム|||？|？|Active|ウィンドアロー&br;チャージアロー||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%8D%9A%E5%A3%AB.jpg,nolink,72x100);|シュタイン博士||1M|？|なし|Active|散弾&br;連続射撃&br;ミサイル発射！&br;チャージショット&br;ふぉっふぉ、この天才シュタインに&br;分からないことなどないぞ！（登場時セリフ）&br;キノコはないんかの？（セリフ）||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%AB%E3%83%BC.jpg,nolink,89x100);|ジョーカー||200k|？|？|Active|アタックバースト&br;ファランクス&br;コンフューズブロウ||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%BB%E2%97%AF%E5%8F%B7%E6%A9%9F.jpg,nolink,54x100);|シンボル・◯号機||HP10000|？|？|NonActive||ゴスペル込みHP13500|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E6%8A%80%E5%B8%AB.jpg,nolink,63x100);|シンボル技師|||？||Active|||
+||ジーク|||？|？|Active|衝撃波&br;居合い&br;旋風剣||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA.jpg,nolink,100x100);|スリースターズ|||？|？|Active|一閃&br;出撃する！（出現時のセリフ）&br;よし、トリプルアタックをかけるぞ！（セリフ）&br;ふふん、まだまだこれからよ！（セリフ）&br;くそっ、うるさい機械どもめ！（交戦時？）&br;感謝するぞ（回復時）&br;お、俺を足蹴にしただと…（死亡時のセリフ）|３人出現する&br;ログ流しでプレイヤーに精神攻撃してくる|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E5%85%88%E5%85%B5%E3%83%8F%E3%83%B3%E3%82%AC.jpg,nolink,100x100);|先兵バンガ|||？|？|Active|||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E5%A2%97%E6%8F%B4%E9%83%A8%E9%9A%8A%E5%85%B5.jpg,nolink,100x100);|増援部隊兵||200k|？|なし|Active|||
+||タイタス|||？|なし|Active|ヒーリング&br;ホーリーライト&br;エンジェルリング&br;ディバインブレーカー||
+||ティタ||630k|？|なし|Active|応援&br;リフレクション&br;ディバインバリア|鉄火山で登場|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E6%92%A4%E9%80%80%E5%85%B5.jpg,nolink,58x100);|撤退兵||200k|？|なし|Active|||
+||ドミナス訓練生||600k|？|？|Active|ラッシュ&br;応援||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF.jpg,nolink,100x100);|ドミニオン・メディック|||？|なし|Active|ヒーリング||
+||ドミニオン兵||400k|？|？|Active|スキル無し&br;鉄火山&br;　ブロウ&br;　チャージ&br;　ファランクス|最大ATK700&br;最大M.ATK500|
+||トール||200k|？|？|Active|ディフェンスバースト||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%92%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E8%A3%85%E7%BD%AE%CE%B1.jpg,nolink,79x100);|ヒーリング装置α|||？|なし|Active|リカバリー|敵から狙われることはない|
+||フェスト||200k|？|？|Active|スタンブロウ&br;ブランディッシュ&br;デッドリーアタック||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%99%E3%83%AA%E3%82%A2%E3%83%AB.jpg,nolink,100x100);|ベリアル||100k|？|なし|Active|スタンブロウ&br;デッドリーアタック||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%99%E3%83%AA%E3%82%A8%E3%83%AB.jpg,nolink,100x100);|ベリエル|||？|なし|Active|バレットダンス&br;ミサイル発射！&br;チャージショット|レジスタンスリーダー|
+||捕虜||200k|？|なし|Active|使用スキル無し|護衛に全力を尽くす|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%9E%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC%E8%A8%93%E7%B7%B4%E7%94%9F.jpg,nolink,79x100);|マキュリー訓練生|||？|なし|Active|鉄火山&br;　応援||
+||マーシャ|||？|なし|Active|エナジーシールド&br;兜割り&br;デッドリーアタック&br;応援||
+||モルグ訓練生||200k|？|？|Active||ぐるぐる眼鏡をかけている|
+||ヨルン|||？|？|Active|旋風剣&br;一閃||
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%A9%E3%82%A4%E3%83%92.jpg,nolink,100x100);|ライヒ|||？|なし|Active|ナッシングネス&br;ダークブレイズ|超低DEF|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3.jpg,nolink,100x100);|ルルイエ|||？|？|Active|地下浄水施設&br;　メデューサスキン&br;サウス跡地&br;　メガダークブレイズ&br;　メデューサスキン&br;　ライフスティール&br;　ナッシングネス&br;鉄火山&br;　メガダークブレイズ&br;　ライフスティール&br;　ファランクス&br;　ソリッドオーラ|出現マップによってスキルが異なる&br;ライフスティールは与ダメの100%回復&br;ファーストエイド5で228800回復|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E4%BB%95%E5%85%A5%E5%B1%8B%E3%83%89%E3%82%AC.jpg,nolink,67x100);|仕入屋ドガ|||？|なし|Active|デッドリーアタック&br;つむじ風&br;見切り&br;ダメージチャージ&br;どこからでもどうぞ|洗脳されて敵になることもある|
+||二足歩行ロボＥＮ|||？|？|Active|スパークボール&br;ラビッジカノン|アイゼン・ナーゲルの愛機|
+
+
+
+***季節限定モンスター（節分） [#q631d7c3]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~属性|~チャンプ属性|~性格|~スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|LEFT:|LEFT:|c
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E9%85%92%E5%91%91%E7%AB%A5%E5%AD%90.jpg,nolink,100x100);|酒呑童子|高Lv（赤文字）|HP8～10M|BGCOLOR(#c4adff):闇76↑|有|Active|残りＨＰ50～100%：&br;　ダークネスグレアー&br;　ダークランチャー&br;　エンドライン&br;　ネクロマンシー&br;　ダークブレイズ&br;残りHP25～50%：&br;　ダークランチャー&br;　ダークブレイズ&br;　デクライズインパクト&br;　リストリクトリバース&br;残りHP0～25：&br;　アニマドレイン&br;　メガダークブレイズ&br;　バードケージ&br;死亡時：&br;　ファイアアート|低詠唱速度&br;死亡時ファイアアート&br;節分モンスター&br;出現時「氷鬼」１体召喚|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E7%81%AB%E9%AC%BC.jpg,nolink,100x100);|火鬼|高Lv（赤文字）|1.5M|BGCOLOR(#ffdddd):火|なし|Active|ファイアアタック&br;兜割り&br;怒|節分モンスター&br;ターゲット時に怒を使用|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E6%B0%B7%E9%AC%BC.jpg,nolink,100x100);|氷鬼|高Lv（赤文字）||？|なし|Active|コールドグレアー&br;アイスダンス&br;氷河鬼&br;氷飛ばし|節分モンスター&br;氷河鬼：術者中心5x5？ダメージ＋氷結&br;氷飛ばし：遠距離攻撃？見た目アイスアロー|
+
+
+
+
+***季節限定モンスター（ハロウィン） [#q631d7c3]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~属性|~チャンプ属性|~性格|~スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|LEFT:|LEFT:|c
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%AD.jpg,nolink,100x100);|ディアブロ|高Lv（赤文字）||？|有|Active|残りHP55～100%&br;　ダークナイト&br;　ダークスラッシュ&br;　メガダークブレイズ&br;　斬撃無双&br;残りHP0～55%&br;　ダークナイト&br;　ダークネスレコルダ&br;　ヘル・アラスタラ&br;　憤怒|ダークナイト：沈黙＋混乱の攻撃・妨害設置。見た目はダークライト&br;ヘル・アラスタラ：直線状に闇ストーム|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0.jpg,nolink,100x100);|ハロウィンキング|||？|有|Active|ブラックホール&br;エセリアルボディ&br;ディスペルオーラ&br;ララバイ|攻撃すると見た目が大きくなる。|
+|&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%E3%83%91%E3%83%B3%E3%83%97%E3%83%81%E3%83%B3.jpg,nolink,100x100);|パンプチン|||？|なし|Active||スキルなし|
+
+***情報提供用（都市攻防戦） [#comment]
+//通常ＭＯＢとごっちゃにならないように仮でつけてみる。
+#pcomment

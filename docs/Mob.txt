@@ -1,0 +1,207 @@
+# Mob
+
+#author("2017-04-07T17:30:27+00:00","","")
+*モンスター [#Mob]
+&color(red){2014/11/20のアップデートでアイアンサウス跡地、鉄火山エネルギープラント、トラージ・ディコーヤが実装されました。};
+&size(16){皆さまの情報提供をお待ちしています。[[コメント欄へ>#Comment]]};
+
+
+※ドロップ品は、現在では落とさないものもあります。
+
+#contents
+
+**関連ページ [#td0eb711]
+-[[モンスター索引>MobIndex]]
+-[[モンスター基礎知識>MobBasicKnowledge]]
+-[[モンスタースキル>Skill/Mob]]
+-[[(外部)モンスターデータベース>http://eco.acronia.net/mobdb/]]
+-ダンジョンごとの出現モンスターは「[[ダンジョン>Dungeon#f407caca]]」を参照。
+
+#include(MobMenu,notitle)
+
+**[[エミル世界>MobEmil]][#Emil]
+
+***[[動物系>MobAnimal]] [#Animal]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|アーチン系|アルマジロン系|ヴァルヴァル系|ウィリー･ドゥ系|カトブレパス系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/A-chin.jpg,nolink,98x94);>MobAnimal#A-chin]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Armadillon.jpg,nolink,100x100);>MobAnimal#Armadillon]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Walwal.jpg,nolink,100x100);>MobAnimal#af07dea5]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WiliDu.jpg,nolink,100x100);>MobAnimal#WiliDu]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/catoblepas.jpg,nolink,100x100);>MobAnimal#Catoblepas]]|
+|ゲッコ系|スカー系|スネーキー系|スフィンクス系|ゼレブ系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gekko.jpg,nolink,100x100);>MobAnimal#Gekko]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/desert_scar.jpg,nolink,100x100);>MobAnimal#Scar]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/PotSnakee.jpg,nolink,100x100);>MobAnimal#Snaky]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sphinx.jpg,nolink,100x100);>MobAnimal#Sphinx]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Zerebu.jpg,nolink,100x100);>MobAnimal#Zerebu]]|
+|タルパ系|ドラゴ系|ドラゴン系|バウ系|バルル系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Puyunitarupa.jpg,nolink,100x100);>MobAnimal#Tarupa]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WildDorago.jpg,nolink,100x100);>MobAnimal#Drago]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/InferiorDragon.jpg,nolink,100x100);>MobAnimal#Dragon]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bow.jpg,nolink,100x100);>MobAnimal#Bow]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Baruru.jpg,nolink,100x100);>MobAnimal#Baruru]]|
+|パンダ系|フリッカーテイル系|フレハラム系|ベア系|ボア系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/tonfa_panda.jpg,nolink,100x100);>MobAnimal#Panda]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/FTail.jpg,nolink,100x100);>MobAnimal#FTail]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Fureharamu.jpg,nolink,100x100);>MobAnimal#Fureha]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bear.jpg,nolink,100x100);>MobAnimal#Bear]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EcoBou.jpg,nolink,100x100);>MobAnimal#Boar]]|
+|ミノー系|モーモー系|ラクダーン系|ラット系|ローキー系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Ponsiuninmino.jpg,nolink,100x100);>MobAnimal#Mino]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mo-Mo-.jpg,nolink,100x100);>MobAnimal#Mo-Mo-]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Rakudaan.jpg,nolink,100x100);>MobAnimal#i21aefb5]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sand_rat.jpg,nolink,100x100);>MobAnimal#Rat]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lowkey.jpg,nolink,100x100);>MobAnimal#Lowkey]]|
+
+***[[鳥系>MobBird]] [#Bird]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|カッカラン系|キメラ系|コッコー系|サンダーバード系|ドードー系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/kakkaran.jpg,nolink,100x100);>MobBird#Kakkaran]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Chimera.jpg,nolink,100x100);>MobBird#Chimera]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokko-.jpg,nolink,100x100);>MobBird#Kokko]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Thunderbird.jpg,nolink,100x100);>MobBird#Thunderbird]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/BlazeDodo.jpg,nolink,100x100);>MobBird#Dodo]]|
+|ドラッキー系|ハーピー系|ピヨエッグ系|ペペン系|ホムラ系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dracky.jpg,nolink,100x100);>MobBird#Dracky]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ha-Pi-.jpg,nolink,100x100);>MobBird#Ha-Pi-]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/PiyoEgg.jpg,nolink,100x100);>MobBird#y8001330]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pepen.jpg,nolink,100x100);>MobBird#Pepen]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Houou.jpg,nolink,100x100);>MobBird#Homura]]|
+|ワイルドダック系|||||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/WildDuck.png,nolink,100x100);>MobBird#WildDuck]]|||||
+
+***[[昆虫系>MobInsect]] [#Insect]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|蜘蛛系|クローラー系|サンドワーム系|スカラーベン系|スルクオッケ系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TsuchiGumo.jpg,nolink,100x100);>MobInsect#Kumo]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Crawler.jpg,nolink,100x100);>MobInsect#Crawler]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sand_worm_n.jpg,nolink,100x100);>MobInsect#SandWorm]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/scaraben.jpg,nolink,100x100);>MobInsect#Scaraben]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Surkuokke.jpg,nolink,100x100);>MobInsect#Okke]]|
+|バタフライ系|ビー系|ホブニキキリ系|ヤドスラッグ系||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/seducebutterfly.jpg,nolink,100x100);>MobInsect#batafurai]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerBee.jpg,nolink,100x100);>MobInsect#KillerBee]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Hobunikikiri.jpg,nolink,100x100);>MobInsect#Kikiri]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/clam.jpg,nolink,100x100);>MobInsect#clam]]||
+
+***[[植物系>MobPlant]] [#Plant]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|エスカルゴ系|シャボタン系|ドリアード系|プルル系|マタンゴ系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Escargot.jpg,nolink,100x100);>MobPlant#Escargot]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Shabotan.jpg,nolink,100x100);>MobPlant#Shabotan]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Akasnonno.jpg,nolink,100x100);>MobPlant#Dori]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pururu.jpg,nolink,100x100);>MobPlant#Pururu]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Shiitakke.jpg,nolink,100x100);>MobPlant#Matango]]|
+|マンドラ系|モーラン系|ローパー系|||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MandoraWasabi.jpg,nolink,100x100);>MobPlant#Mandora]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Moren.jpg,nolink,100x100);>MobPlant#af07dea5]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Roper.jpg,nolink,100x100);>MobPlant#Roper]]|||
+
+***[[水中生物系>MobUnderwater]] [#Underwater]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|インスマウス系|サラマンドラ系|フィッシュ系|フグローブ系||
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Raigyo-.jpg,nolink,100x100);>MobUnderwater#Innsmouth]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DokuTokage.jpg,nolink,100x100);>MobUnderwater#Salamandra]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FlyFish.jpg,nolink,100x100);>MobUnderwater#Fish]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Fugurobu.png,nolink,100x100);>MobUnderwater#Fugu]]||
+
+***[[魔法生物系>MobMagic]] [#Magic]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|アスタロト系|アルカナ系|アンブレラ系|イブルクック系|ウィスプ系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/astaroth_100x100.jpg,nolink,100x100);>MobMagic#Astaroth]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ArcanaClub.jpg,nolink,100x100);>MobMagic#Arcana]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Umbrella.jpg,nolink,100x108);>MobMagic#Umbrella]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Evil%20Kook.jpg,nolink,100x100);>MobMagic#f92b43b1]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Wisp.jpg,nolink,100x100);>MobMagic#Wisp]]|
+|ゴースト系|ゴーレム系|サイクロプス系|スタートラー系|スムージー系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ghost.jpg,nolink,100x100);>MobMagic#Ghost]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/general_golem.jpg,nolink,100x100);>MobMagic#Golem]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cyclops.jpg,nolink,100x83);>MobMagic#Cyclops]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Startler.jpg,nolink,100x100);>MobMagic#Startler]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/brugal_smoothy.jpg,nolink,100x100);>MobMagic#Smoothy]]|
+|タイニー系|使い魔系|ディース系|ニポポ系|パーティザン系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dumpty.jpg,nolink,100x100);>MobMagic#Tiny]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tsukaima.jpg,nolink,100x100);>MobMagic#Tsukaima]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Dies.jpg,nolink,100x100);>MobMagic#of5896b6]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Irusukanipopo.jpg,nolink,100x100);>MobMagic#Nipopo]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Partisan.jpg,nolink,100x100);>MobMagic#Partisan]]|
+|パイレーツ系|箱系|ファー系|ブーフ系|フェザー系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PirateBomber.jpg,nolink,100x100);>MobMagic#Pirate]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kibako.jpg,nolink,100x100);>MobMagic#Box]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Fer.jpg,nolink,100x100);>MobMagic#af07dea5]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Buch.jpg,nolink,100x100);>MobMagic#af07dea5]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AngelFeather.jpg,nolink,100x100);>MobMagic#Feather]]|
+|ベリル系|ホブニウェンペ系|ホルスゴーレム系|ポロヌプリ系|ラーミア系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Zircon1.jpg,nolink,100x100);>MobMagic#Beryl]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Hobuniwenpe.jpg,nolink,100x100);>MobMagic#Wenpe]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/holus_G.jpg,nolink,100x100);>MobMagic#HGolem]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Poronupuri.jpg,nolink,100x100);>MobMagic#Nupuri]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lamia.jpg,nolink,100x100);>MobMagic#Lamia]]|
+|レラカムイ系|||||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Rerakamuy.jpg,nolink,100x100);>MobMagic#Rerakamuy]]|||||
+
+***[[精霊系>MobSpirit]] [#Spirit]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|アイシー系|アイスアルム系|ニンフ系|ピーノ系|マンドラゴラ系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SnowCrystal.jpg,nolink,100x100);>MobSpirit#Icy]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Eisarm.jpg,nolink,100x100);>MobSpirit#af07dea5]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Banshie.jpg,nolink,100x100);>MobSpirit#Nymph]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mokku-.jpg,nolink,100x100);>MobSpirit#Pino]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Mokuju.jpg,nolink,100x100);>MobSpirit#Mandragora]]|
+
+***[[人間系>MobHuman]] [#Human]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|DEM系|アルケー系|スペルキャスター系|デックアールヴ系|デバステイター系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM01.jpg,nolink,100x100);>MobHuman#Dem]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Arkh.jpg,nolink,100x100);>MobHuman#Arkh]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SpellCaster.jpg,nolink,100x100);>MobHuman#SpellCaster]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DarkElves.jpg,nolink,100x100);>MobHuman#af07dea5]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Devastator.jpg,nolink,100x100);>MobHuman#Devastator]]|
+|ドミニオン系|マタンキクル系|傭兵系|||
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionKouiHaitokusha.jpg,nolink,100x100);>MobHuman#Dominion]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Matankikuru.jpg,nolink,100x100);>MobHuman#Matankikuru]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Bandit.jpg,nolink,100x100);>MobHuman#Youhei]]|||
+
+***[[死霊系>MobGhost]] [#Ghost]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|ガイコツムリ系|グール系|クックガイスト系|スケルトン系|スペクター系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/gaikotsumuri.jpg,nolink,100x100);>MobGhost#Gaikotsumuri]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/cyclops_ghoul.jpg,nolink,100x100);>MobGhost#Ghoul]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/CookGeist.jpg,nolink,100x100);>MobGhost#af07dea5]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Skeleton.jpg,nolink,100x100);>MobGhost#Skeleton]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Spectre.jpg,nolink,100x100);>MobGhost#Spectre]]|
+|デス系|マミー系|リヴィングデッド系|リビングアーマー系|ロッティープルル系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Death.jpg,nolink,100x100);>MobGhost#Death]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mummy.jpg,nolink,100x100);>MobGhost#Mummy]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/LivingDead.jpg,nolink,97x100);>MobGhost#LivingDead]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/LivingArmor.jpg,nolink,100x100);>MobGhost#LivingArmor]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/RottyPururu.png,nolink,100x100);>MobGhost#RottyPururu]]|
+
+***[[機械系>MobMachine]] [#Machine]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|アーマードアルマジロン系|エレキテル系|ガッテンガー系|ギガント系|キラーマシン系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/armored_armadillo.jpg,nolink,100x100);>MobMachine#AArmadillon]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BlikKingRX1.jpg,nolink,94x100);>MobMachine#Elecitel]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gattenga-sigma.jpg,nolink,100x100);>MobMachine#Gattenga-]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantB1.jpg,nolink,100x97);>MobMachine#Gigant]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerMachine.jpg,nolink,100x100);>MobMachine#KillerMachine]]|
+|スチーマー系|ドロイダー系|トロット系|ハウンド系|ピボット系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/steamer.jpg,nolink,100x100);>MobMachine#Steamer]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/strong_droider.jpg,nolink,100x100);>MobMachine#Droider]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxtrotC1.jpg,nolink,100x100);>MobMachine#Trot]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundG4.jpg,nolink,100x100);>MobMachine#Hound]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DPivot.jpg,nolink,100x100);>MobMachine#Pivot]]|
+|ホログラフ系|マーシナリー系|マオアー系|||
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Holograph.jpg,nolink,100x100);>MobMachine#Holograph]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/mercenary_hirawa.jpg,nolink,100x100);>MobMachine#Mercenary]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/muhandis.jpg,nolink,100x100);>MobMachine#Maore]]|||
+
+***[[岩系>MobRock]] [#Rock]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|イワンコフ系|カンカン系|クリスタルアーチン系|ゴーチン系|サンドアルム系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Iwankov.jpg,nolink,100x100);>MobRock#Iwankov]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kankan.jpg,nolink,100x100);>MobRock#Kankan]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrystalA-chin.jpg,nolink,100x100);>MobRock#CrystalA-chin]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Bambylock.JPG,nolink,100x100);>MobRock#Gotin]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sand_arm.jpg,nolink,100x100);>MobRock#SandArm]]|
+|ラバープルル系|||||
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RubberPururu.jpg,nolink,100x100);>MobRock#RubberPururu]]|||||
+
+***[[無限回廊>MobCorridor]][#Corridor]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|上層|中層|下層|レアモンスター|奈落|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Houou.jpg,nolink,100x100);>MobCorridor#a86bb139]]|[[中層>MobCorridor#k819fe4a]]|[[下層>MobCorridor#g6367f86]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/mandra_habanero.jpg,nolink,127x127);>MobCorridor#RareMob]]|[[奈落>MobCorridor#hb523dea]]|
+
+***[[エンシェントアーク>MobAncientArk]][#Ancient]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|1-3階層|4-6階層|7-9階層|10-12階層|13-15階層|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GreyHound.jpg,nolink,100x101);>MobAncientArk#floor13]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MandoraWasabi.jpg,nolink,100x100);>MobAncientArk#floor46]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/akagosuto.jpg,nolink,100x100);>MobAncientArk#floor79]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/gouyoku100.jpg,nolink,100x100);>MobAncientArk#floor1012]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/suiou.jpg,nolink,100x100);>MobAncientArk#floor1315]]|
+|16-18階層|19-21階層|22-24階層|忘却の時の果て|失われた遺産|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/janbo1.jpg,nolink,100x100);>MobAncientArk#floor1618]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/ennou.jpg,nolink,100x100);>MobAncientArk#floor1921]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/kouou.jpg,nolink,100x100);>MobAncientArk#floor2224]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/ss20110613_043030.jpg,nolink,100x85);>MobAncientArk#AAboukyaku]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/konikurasu%28big%29.png,nolink,100x100);>MobAncientArk#AAisan]]|
+
+//***[[レアモンスター>MobRare]]
+//[[無限回廊>Dungeon/InfiniteCorridor#[#b636d9f7]]]の特定のキーモンスターを倒すことで出現するモンスター
+
+
+**[[タイタニア世界>MobTitania]][#Titania]
+
+***[[ウォーターレイアー>MobWaterLayer]][#WaterLayer]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|鳥系|昆虫系|水中生物系|魔法生物系|岩系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ChunChun.jpg,nolink,100x100);>MobWaterLayer#Bird]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/YadoSlag.jpg,nolink,100x100);>MobWaterLayer#Insect]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaDragon.jpg,nolink,100x100);>MobWaterLayer#Underwater]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Elemental.jpg,nolink,100x100);>MobWaterLayer#Magic]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/StoneTurtle.jpg,nolink,100x100);>MobWaterLayer#Rock]]|
+
+
+***[[エル・シエル周辺＆忘却の庭園>MobTitania]] [#wfc67f72]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|動物系|鳥系|昆虫系|植物系|水中生物系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/balloonpig.JPG,nolink,100x100);>MobTitania#Animal]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/copopo.JPG,nolink,100x100);>MobTitania#Bird]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/RaputoStinger.JPG,nolink,100x100);>MobTitania#Insect]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Moran.JPG,nolink,100x100);>MobTitania#Plant]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Majestiyins.JPG,nolink,100x100);>MobTitania#Underwater]]|
+|魔法生物系|死霊系||||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Kauntesu.JPG,nolink,100x100);>MobTitania#Magic]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/RaputoMamy.JPG,nolink,100x100);>MobTitania#Ghost]]||||
+
+***[[クジラ岩>MobKujira]][#Kujira]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|動物系|昆虫系|植物系|魔法生物系|精霊系|
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/bakubaku.jpg,nolink,100x100);>MobKujira#Animal]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/seducebutterfly.jpg,nolink,100x100);>MobKujira#Insect]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Dryad.jpg,nolink,100x100);>MobKujira#Plant]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherB.jpg,nolink,100x100);>MobKujira#Magic]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/shadow.jpg,nolink,100x100);>MobKujira#Spirit]]|
+|人間系|死霊系|機械系|||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/demaise.jpg,nolink,100x100);>MobKujira#Human]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/loebknight.jpg,nolink,100x100);>MobKujira#Ghost]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Cyclone.jpg,nolink,100x100);>MobKujira#Machine]]|||
+
+**[[ドミニオン世界>MobDominion]][#Dominion]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|動物系|鳥系|昆虫系|植物系|水中生物系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Skink.jpg,nolink,100x100);>MobDominion#Animal]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PiyoPiyo.jpg,nolink,100x100);>MobDominion#Bird]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MaskeSpinne.jpg,nolink,100x100);>MobDominion#Insect]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Malus.jpg,nolink,100x100);>MobDominion#Plant]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Tood%20of%20king.jpg,nolink,100x100);>MobDominion#Underwater]]|
+|魔法生物系|精霊系|人間系|死霊系|機械系|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Teufel.jpg,nolink,100x100);>MobDominion#Magic]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Sprite.jpg,nolink,100x100);>MobDominion#Spirit]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM01.jpg,nolink,100x100);>MobDominion#Human]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Revenant.jpg,nolink,100x100);>MobDominion#Ghost]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SearchEye.jpg,nolink,100x100);>MobDominion#Machine]]|
+|岩系|||||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Gorchin.jpg,nolink,100x100);>MobDominion#Rock]]|||||
+
+***[[都市攻防戦>MobCityBattle2]][#CityBattle]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|旧　都市攻防戦|都市攻防戦||||
+|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM%EF%BC%8D00P0.JPG,nolink,100x100);>MobCityBattle#Westfort]]|[[&ref(http://eco.acronia.net/img/wiki/MobCityBattle/%EF%BC%A4%EF%BC%A5%EF%BC%AD%EF%BC%8D%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AC%E3%83%BC.jpg,nolink,100x100);>MobCityBattle2#t1ba5f17]]||||
+
+
+**[[ディメンションダンジョン>MobDimension]][#Dimension]
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|廃炭鉱|大陸の洞窟|ノーザン&br;ダンジョン|イースト&br;ダンジョン|氷結の坑道|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerBeast.jpg,nolink,100x100);>MobDimension#Haitankou]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Raigyo-.jpg,nolink,100x100);>MobDimension#Tairiku]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ArcanaSpade.jpg,nolink,100x100);>MobDimension#NorthernDungeon]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Startler.jpg,nolink,100x100);>MobDimension#EastDungeon]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dumpty.jpg,nolink,100x100);>MobDimension#FrozenTunnel]]|
+|サウス&br;ダンジョン|カーマイン&br;ブリック|海底洞窟|神託の風穴||
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Chimera.jpg,nolink,100x100);>MobDimension#SouthDungeon]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/general_golem.jpg,nolink,100x100);>MobDimension#CarmineBrick]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/cristalt.jpg,nolink,100x100);>MobDimension#D-Kaiteidoukutu]]|[[&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Fureharamu.jpg,nolink,100x100);>MobDimension#Sintaku]]||
+
+
+**[[イベント・クエスト系>MobEvent]][#Event]
+-季節イベントで出現するモンスター
+//-ゲーム中１回のみ、または一定回数のみ出会えるモンスター
+-特定のイベント中のみに登場するモンスター
+
+→[[''モンスター（イベント）''>MobEvent]]ページを参照
+
+**[[属性別>Mob/Elements]] [#Zokusei]
+-属性別モンスターページ
+-注意：このページは情報が古い場合があります
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|無属性|火属性|土属性|水属性|風属性|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cinnamon.jpg,nolink,100x100);>Mob/Elements/NoElement]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Houou.jpg,nolink,100x100);>Mob/Elements/Fire]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Baruru.jpg,nolink,100x100);>Mob/Elements/Earth]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaSerpent.jpg,nolink,100x100);>Mob/Elements/Water]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TropicalGi-go.jpg,nolink,100x100);>Mob/Elements/Wind]]|
+|光属性|闇属性|複合属性|属性不明||
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AngelFeather.jpg,nolink,100x100);>Mob/Elements/Light]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionMalicious.jpg,nolink,100x100);>Mob/Elements/Dark]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Vega.jpg,nolink,100x101);>Mob/Elements/ComplexElements]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kibako.jpg,nolink,100x100);>Mob/Elements/Unknown]]||
+
+
+*情報提供用 （モンスター） [#Comment]
+
+COLOR(red):多人数での編集を円滑にするため、''反映済みのコメントは順に取消線を引かせて頂きます''。よろしくお願いします。
+(反映されて、且つ投稿から２ヶ月経過したコメントは削除させていただきます。)
+
+COLOR(red):モンスターの画像は100px×100pxで添付するよう、お願いします。
+(反映漏れを防ぐため、添付して頂いた際にコメント欄で「●●の画像を添付した」と一言ご連絡下さい。)
+
+※モンスタードロップ欄で灰色になっている部分は「保留」扱いですので、補完の情報投稿をお願いいたします。
+
+
+ 知識スキルを取得している場合は、下のラベルの後にコメントを書いてください。
+ &COLOR(,#ee3333){　知識　};
+
+#pcomment

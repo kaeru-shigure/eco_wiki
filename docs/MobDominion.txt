@@ -1,0 +1,128 @@
+# MobDominion
+
+#author("2023-02-03T17:00:17+00:00","","")
+*モンスター（ドミニオン世界） [#nf147153]
+
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***動物系 [#Animal]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Skink.jpg,nolink,100x100);|スキンク|32|1240|777/801|BGCOLOR(#98fb98):土|NonActive&br;瀕死時Escape|ステップキャニオン&br;ヘルサバーク&br;ゴールデンブリッジ|シップ&br;キャビア|コンフューズスタッド&br;エクスクラメーション|WRP 3|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Maggie.jpg,nolink,100x100);|マギー|46|1590|1190/1244|BGCOLOR(#98fb98):土|NonActive|ヘルサバーク(夜)|シップ&br;キャビア&br;&color(red){トカゲしっぽ};|コンフュージョンブロウ&br;アースファング|高L.Avoid&br;WRP 3|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Tarupa.JPG,nolink,100x100);|タルパ|60|4230|%%2083/2224%%&br;2780/4961|BGCOLOR(#98fb98):土|Link|地下浄水施設&br;地下大水路(1階層目)|タルパスコップ&br;&color(orange){掘るすかりばぁ};&br;&color(red){掘るすかりぱぁ(PT)};&br;上等な肉|スタンアタック||
+||タルパ・マッシブ|96||20448/23937|BGCOLOR(#98fb98):土||アイアンサウス跡地（南側）&br;鉄火山エネルギープラント&br;トラージ・ディコーヤ|タルパスコップ&br;掘るすかりばぁ&br;上等な肉|||
+||アルマサブロー|97||24532/19904|無||トラージ・ディコーヤ|肉&br;ダイヤモンド&br;最高級ヒールポーション&br;濃縮リザレクションポーション|||
+||ルーインハラム|99||24320/21910|BGCOLOR(#bbffff):水|Active|トラージ・ディコーヤ|動物のフン&br;琥珀色の樹液&br;濃縮マジスタポーション&br;濃縮エナジーポーション|アクアウェーブ||
+
+***鳥系 [#Bird]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PiyoPiyo.jpg,nolink,100x100);|ピヨピヨ|26|240|120/137|無|NonActive|天まで続く塔の島&br;軍艦島|ゼリコポーション&br;コッコーの羽&br;クリティカルの結晶|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrimsonBat.jpg,nolink,100x100);|クリムゾンバット|40|1300|1049/1086|BGCOLOR(#c4adff):闇|詠唱反応|ゴールデンブリッジ（夜）&br;ヘルサバーク（夜）|動物のフン&br;破れた魔法書&br;クリティカルの結晶|ワー・クライ&br;チャージ&br;スタンアタック|WRP 3|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EvilChimera.jpg,nolink,100x100);|イーブルキメラ|50|3700|1758/1850|BGCOLOR(#c4adff):闇|NonActive|ヘルサバーク（夜）|上等な肉&br;赤紫色のギトギトお肉&br;クリティカルの結晶&br;&color(red){キメラのつばさ};|ナッシングネス&br;エンドライン&br;ダークファング|WRP 5|
+||ギヨギヨ|90|5|56,000/55,104|無|Active+Escape|アイアンサウス跡地（南側）|ふわふわ肉&br;濃縮エナジーポーション&br;想いの真結晶&br;ブランクイリスカードＵＣ|ディスペルオーラ&br;ソリッドオーラ|高速移動&br;高頻度スキル使用&br;超高DEF&br;超高M.DEF&br;ダメージ補正（1/1000？）&br;沈黙・毒無効（エフェクト有り・効果無し）&br;要：防御無視の高威力スキル、エンチャントブロック&br;周囲のLink属性持ちモンスターに注意&br;マップに同時出現する数は最大3体|
+||シャドーバット|97||23,760/23,968||Link+詠唱反応？|アイアンサウス跡地（南側）|動物のフン&br;からふるきのこ&br;濃縮エナジーポーション&br;濃縮スタミナポーション&br;&color(red){動物のフン};&br;&color(red){からふるきのこ};||広範囲詠唱反応|
+
+***昆虫系 [#Insect]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MaskeSpinne.jpg,nolink,100x100);|マスケシュピンネ|38|1000|1013/1046|BGCOLOR(#98fb98):土|NonActive|軍艦島&br;軍艦島（夜）&br;ステップキャニオン&br;ゴールデンブリッジ（夜）|毒消しの実&br;&color(orange){糸};&br;破れた魔法書&br;クリティカルの結晶|ポイズンパフューム|WRP2|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Are%20daina.JPG,nolink,100x100);|アーリー・ダイナー|59|2700|%%2035/2139%%&br;2750/4794|BGCOLOR(#fff68f):''風''/土|Active|地下浄水施設&br;地下大水路(2階層目)|アリの触角&br;マジックキャンディー|怒&br;||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Are%20ritter.jpg,nolink,100x100);|アーリー・リッター|83|8000|%%5564/6059%%&br;5564/14717|BGCOLOR(#fff68f):''風''/土|Active|旧アクロポリスＢ１Ｆ|アリの触角&br;アリの大顎&br;マシュマロ|怒&br;|高S.Hit|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Mukade%20daina.JPG,nolink,100x100);|ムカーデ・ダイナー|61|3528|%%2035/2139%%&br;2852/5070|BGCOLOR(#98fb98):土|詠唱反応|地下大水路(2階層目)|ムカデの足&br;&color(orange){ムカデの顎肢};|ディープトランス&br;トランスマインド&br;ウォータアタック||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Mukade%20ritter.jpg,nolink,100x100);|ムカーデ・リッター|84|9260|%%5885/6410%%&br;5885/15563|BGCOLOR(#98fb98):土|詠唱反応|旧アクロポリスＢ１Ｆ|ムカデの足&br;ムカデの顎肢&br;黒いゼリコ&br;|ディープトランス&br;トランスマインド&br;ウォータアタック|高S.Hit|
+||ムカーデ・ギアー|94||18,770/19,903|無|詠唱反応|アイアンサウス跡地|ムカデの顎肢&br;機械の破片&br;&color(slateblue){シリコンプラグコード（青）};&br;&color(red){シリコンプラグコード（青）};|猛毒針&br;トランスマインド|要：沈黙・毒対策&br;絡まれたら最優先に倒すべき|
+||アーリー・ギアー|98||29,416/29,416|BGCOLOR(#ffdddd):火||鉄火山エネルギープラント|アリの大顎&br;胞子袋&br;金メッキ液&br;機械の破片|||
+
+***植物系 [#Plant]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Malus.jpg,nolink,100x100);|マリュス|25|240|113/128|BGCOLOR(#98fb98):土|NonActive|天まで続く塔の島&br;軍艦島&br;ゴールデンブリッジ|ゼリコポーション&br;りんご&br;いのちの結晶&br;&color(red){東の果物の木の種};&br;&color(red){不思議な木の種};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DokuMalus.jpg,nolink,100x100);|ドクマリュス|25|750|263/296|無|NonActive|軍艦島(夜)&br;ゴールデンブリッジ（夜）|青汁&br;毒消しの実&br;いのちの結晶&br;&color(red){毒りんご};&br;&color(red){不思議な木の種};|-||
+
+***水中生物系 [#Underwater]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Dominion%20tood.JPG,nolink,100x100);|ドミニオントード|57|3240|%%1865/1984%%&br;2600/4430|BGCOLOR(#bbffff):''水''/土|Active&br;→瀕死時特殊&br;(Active+Escape)|地下浄水施設&br;地下大水路|カエルの舌&br;毒消しの実&br;ミネラルウォーター&br;蒸留水|ウェポンキャプチャー&br;アーマーキャプチャー&br;ラッシュ||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Tood%20of%20king.jpg,nolink,100x100);|トード・オブ・キング|65||%%2425/10185%%&br;20673/15396|BGCOLOR(#bbffff):''水''/土|特殊&br;(Link+Escape)|地下大水路|艶やかな皮&br;&color(red){艶やかな皮(PT)};&br;リザレクションポーション|スプラッシュ&br;|BOSS属性&br;高S.Hit|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Ikuchi.jpg,nolink,100x100);|イクチ|63|5160|1896/9954|BGCOLOR(#c4adff):''闇''/水|Active|地下浄水施設&br;地下大水路(1～2階層目)|青汁&br;水竜のヒレ&br;水竜の角|氷化ガス&br;コンフューズスタッド&br;ダークバラッド&br;ホーリーライト|広範囲索敵|
+||アヤカシ|103||35,033/47,926|BGCOLOR(#c4adff):闇|Active|トラージ・ディコーヤ|水竜のヒレ&br;動物のフン&br;上等な肉&br;濃縮エナジーポーション&br;&color(red){濃縮エナジーポーション};||広範囲索敵|
+
+***魔法生物系 [#Magic]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Teufel.jpg,nolink,100x100);|トイフェル|29|710|896/915|BGCOLOR(#98fb98):土|Link|ヘルサバーク|魔力の結晶&br;&color(orange){たましいの粉};|ヒーリング&br;アヴォイド・バースト|WRP 1|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Imp.jpg,nolink,100x100);|インプ|42|1260|1089/1133|BGCOLOR(#bbffff):水|Link|ヘルサバーク（夜）|魔力の結晶&br;&color(orange){たましいの粉};|ヒーリング&br;アークパワーライズ&br;氷化ガス&br;ウォーターアタック|WRP 3&br;瀕死時Active|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Salamander.jpg,nolink,100x100);|サラマンダー|46|2300|1190/1244|BGCOLOR(#ffdddd):火|NonActive|ステップキャニオン(夜)&br;軍艦島(夜)|炎の召喚石&br;破れた魔法書&br;&color(red){不思議な水晶};&br;&color(slateblue){サラマンダーの紅玉};|ファイアストーム&br;ファイアボール&br;エナジーシールド|瀕死時Active|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Metabora.jpg,nolink,100x100);|メタヴォーラ|67|%%17000?%%&br;13225|%%7380/7952%%&br;7380/12696|BGCOLOR(#c4adff):闇|Active|地下大水路(3階層目)|大きなボルト&br;腐った体液&br;マジックポーション&br;黒真珠|ブロウ&br;コンフュージョンブロウ|アンデッド&br;低速移動&br;高S.Hit&br;低M.DEF&br;闇51↑|
+||インフェルノ|95||29,104/24,390|無||鉄火山エネルギープラント|炎の召喚石&br;破れた魔法書&br;&color(slateblue){サラマンダーの紅玉};&br;&color(red){炎の召喚石};&br;&color(red){不思議な水晶};|||
+
+***精霊系 [#Spirit]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Sprite.jpg,nolink,100x100);|スプライト|46|1300|733/823|BGCOLOR(#c4adff):闇|NonActive|軍艦島(夜)&br;ゴールデンブリッジ(夜)|キューティクルエキス&br;魔力の結晶&br;破れた魔法書&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};|カオスウィドウ&br;ダークバラッド||
+
+***人間系 [#Human]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lunatic.jpg,nolink,100x100);|ルナティック|30|1120|906/927|BGCOLOR(#c4adff):闇|NonActive|軍艦島&br;ヘルサバーク&br;ゴールデンブリッジ|のど飴&br;クレジットカード&br;&color(red){シルバーメダル};|トランスマインド&br;マジックスロウ&br;コンフューズスタッド|WRP 3|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM01.jpg,nolink,100x100);|ＤＥＭ－０１|42|3700|1839/1883|無|Active|西アクロニア平原|ハーブのど飴&br;鉄くず&br;マシンオイル&br;臨界のトランジスタ|ディレイキャンセル&br;足払い&br;ハイパーチャージ&br;ラッシュ|広範囲索敵&br;高ASPD&br;タゲ移りしやすい&br;WRP 4|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM-Sniper.jpg,nolink,100x100);|ＤＥＭ－スナイパー|46|4900|1940/1994|無|Active|西アクロニア平原|ナット&br;黒色火薬&br;ケセランパサラン&br;&color(red){ネジ};&br;ＣＰＵ(PT)&br;プラチナの部品|連続射撃&br;チャージショット&br;ディレイキャンセル&br;範囲射撃|遠距離攻撃&br;WRP 4|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Eliminater.jpg,nolink,100x100);|イリミネーター|46|5100|1940/1994|無|NonActive|西アクロニア平原|ナット&br;ハーブのど飴&br;ケセランパサラン&br;メモリ(PT)&br;鉄の部品|つむじ風&br;連続攻撃&br;アヴォイド・バースト&br;バイタリティダウン|WRP 4|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-Klinge.JPG,nolink,100x100);|ＤＥＭ－クリンゲ|47|4100|1968/2027|無|Active|西アクロニア平原|ハーブのど飴&br;黒いゼリコ&br;&color(red){鉄の棒？};&br;守りのトランジスタ&br;&color(red){守りのトランジスタ(PT)};|一閃&br;デッドリーアタック&br;連続攻撃&br;アヴォイド・バースト|WRP 4|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-Gevea.JPG,nolink,100x100);|ＤＥＭ－ゲヴェーア|48|5378|2000/2061|無|Active|西アクロニア平原|ハーブのど飴&br;トニックウォーター&br;銃床&br;対魔のトランジスタ&br;&color(slateblue){対魔のトランジスタ(PT)？};|散弾&br;バレットダンス&br;連続射撃&br;バイタルショット|WRP 4|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM-KlingeR.jpg,nolink,100x100);|ＤＥＭ－クリンゲＲ|49|4300|2034/2099|無|Active|西アクロニア平原|ハーブのど飴&br;黒いゼリコ&br;金の部品？&br;力のトランジスタ|一閃&br;デッドリーアタック&br;アヴォイド・バースト&br;|WRP 4|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-Gevea-R.JPG,nolink,100x100);|ＤＥＭ－ゲヴェーアＲ|50|4100|2069/2138|無|Active|西アクロニア平原|ハーブのど飴&br;トニックウォーター&br;&color(red){マスケットライフルの銃筒？};&br;&color(red){魔法のトランジスタ？};|散弾&br;バレットダンス&br;連続射撃&br;バイタルショット|WRP 5|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM-AmejarBeta.jpg,nolink,100x100);|ＤＥＭ－アメージャーβ|%%30%%&br;50|80000|%%4400/5680%%&br;24276/18216||Active|ヘルサバーク(夜)|鉄くず&br;ブランクイリスカードUC&br;|ノクシャスブラスト&br;つむじ風&br;連続攻撃&br;ディレイキャンセル&br;|チャンプモンスター&br;フェイントによる硬直は有効&br;WRP 8|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-s%EF%BD%88%EF%BD%95%EF%BD%8D%EF%BD%85%EF%BD%92%EF%BD%95%EF%BD%94%EF%BD%95-%CE%B2.JPG,nolink,100x100);|ＤＥＭ－シュメルツβ|%%30%%&br;50|60000|%%4000/5280%%&br;24276/18216||Active|ステップキャニオン(夜)|鉄くず&br;ブランクイリスカードUC&br;|散弾&br;バイタルショット&br;バレットダンス&br;連続射撃|チャンプモンスター&br;WRP 8|
+||ＤＥＭ－パワーストライカー|95||24,880/23,280|BGCOLOR(#ffdddd):火|NonActive|アイアンサウス跡地&br;鉄火山エネルギープラント&br;トラージ・ディコーヤ|機械の破片&br;&color(slateblue){カードモジュール：Ａ};&br;&color(slateblue){カードモジュール：Ｄ};&br;&color(slateblue){カードモジュール：Ｓ};|一閃||
+||ＤＥＭ－ガンアーチャー|95||23,280/24,880|BGCOLOR(#ffdddd):火|Active|アイアンサウス跡地&br;鉄火山エネルギープラント&br;トラージ・ディコーヤ|機械の破片&br;&color(slateblue){シリコンプラグコード（青）};&br;&color(slateblue){シリコンプラグコード（緑）};&br;&color(slateblue){シリコンプラグコード（黄）};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Eliminater.jpg,nolink,100x100);|イリミネーター|96|25,500|8,850/7,800|無|NonActive|鉄火山エネルギープラント|ナット&br;DEMの片手(左)&br;ケセランパサラン(PT)&br;バッテリー(PT)&br;&color(red){ＤＥＭの片手（右）};|ディレイキャンセル&br;つむじ風&br;ファランクス&br;連続攻撃|マイマイ遺跡と同じ個体|
+||ＤＥＭ－アームズウォリアー|101||41,216/36,142|BGCOLOR(#ffdddd):火|Active|アイアンサウス跡地|動力ユニット&br;排熱ユニット&br;&color(slateblue){カードモジュール：Ａ};&br;&color(red){カードモジュール：Ａ};||高ATK|
+
+***死霊系 [#Ghost]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Revenant.jpg,nolink,100x100);|レヴァナント|44|1730|1136/1184|BGCOLOR(#c4adff):闇|nonActive|ヘルサバーク(夜)|腐った体液&br;破れた魔法書&br;魔力の結晶|マジックスリープ&br;ダークバラット&br;ライフスティール|アンデッド&br;WRP 3|
+
+***機械系 [#Machine]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SearchEye.jpg,nolink,100x100);|サーチアイ|34|600|675/760|BGCOLOR(#ffdddd):火|Active|ステップキャニオン&br;ヘルサバーク|鉄くず&br;破れた魔法書&br;魔力の結晶&br;&color(red){対魔のトランジスタ};|アサルト&br;スパークボール|WRP 1|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/SearchEye-%CE%B2.JPG,nolink,100x100);|サーチアイβ|%%30%%&br;40|40000|%%3000/4280%%&br;17022/12837|BGCOLOR(#ffdddd):火|Active|ヘルサバーク|闇の召喚石&br;鉄くず&br;ブランクイリスカードUC|ショックウェーブ&br;メデューサスキン&br;ライジングサンダー&br;ガトリングブレイズ|チャンプモンスター&br;WRP 8|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SearchKill.jpg,nolink,100x100);|サーチキル|46|1400|1190/1244|BGCOLOR(#ffdddd):火|Active|ヘルサバーク(夜)|鉄くず&br;破れた魔法書&br;いのちの結晶&br;&color(red){守りのトランジスタ};|アサルト&br;スパークボール&br;ヴァニッシュメント&br;ディビリテイト&br;バイタリティダウン|WRP 3|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Killer%20seeker.jpg,nolink,100x100);|キラーシーカー|84|5120|5885/6410|BGCOLOR(#c4adff):''闇''/風|Active|旧アクロポリスＢ１Ｆ|精密なレンズ&br;精密なレンズ(PT)|ゴゥアウト&br;ヒーリング&br;ショックウェーブ&br;ディープフォレスト|高S.Avoid|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Maore.jpg,nolink,100x100);|マオアー|30|900|520/590|無|NonActive|ステップキャニオン&br;ヘルサバーク&br;ゴールデンブリッジ|ブリキの板&br;力の結晶&br;&color(red){オイル};&br;&color(red){力のトランジスタ};|火炎放射&br;スロウロジック&br;ディープフォレスト|WRP 2|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Maore-%CE%B2.JPG,nolink,100x100);|マオアーβ|%%30%%&br;40|45000|%%2500/3800%%&br;17022/12837|無|NonActive|ステップキャニオン|ブランクイリスカードUC|スーパーファイアストーム&br;猛毒スロウガス&br;スタンブロウ&br;ファイアシャッター|チャンプモンスター&br;WRP 8|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Vant.JPG,nolink,100x100);|ヴァント|48|4000|2000/2061|無|NonActive|西アクロニア平原|ハーブのど飴&br;鉄くず&br;修復のトランジスタ(PT)|スパークボール&br;火炎放射&br;ディープフォレスト&br;スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Auto%20Medec.jpg,nolink,100x100);|オートメディック|85|4350|6228/6786|BGCOLOR(#bbffff):''水''/風|Active|旧アクロポリスＢ２Ｆ|壊れたチップ&br;壊れたチップ(PT)|ハウルアウト&br;ヒーリング&br;ディバインバリア&br;ファイアウェポン&br;ウォーターライズ|ファイアウェポンを使うものと&br;ウォーターライズを使うものの&br;二種類存在する|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-Fluegel.jpg,nolink,100x100);|ＤＥＭ－フリューゲル|87|10900|%%7450/8120%%&br;7450/24099|BGCOLOR(#ffdddd):火|Active|旧アクロポリスＢ１Ｆ・Ｂ２Ｆ|鉄くず&br;軽い装甲板&br;&color(orange){壊れた飛行ユニット};&br;&color(orange){オイル};|散弾&br;バイタルショット&br;スパークボール&br;バレットダンス|高S.Avoid&br;遠距離攻撃&br;ライズ有効&br;WRP 6|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-Vieruvein.jpg,nolink,100x100);|ＤＥＭ－ヴィエルヴェイン|88|18000|%%9868/10756%%&br;9868/34943|BGCOLOR(#ffdddd):火|Active|旧アクロポリスＢ１Ｆ・Ｂ２Ｆ|動力ユニット&br;鉄の部品&br;銀のナゲット|ファランクス&br;一閃&br;ラッシュ&br;|高M.DEF&br;L.Hit攻撃&br;ライズ無効&br;WRP 6|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-Elephant.jpg,nolink,100x100);|ＤＥＭ－エレファント|90|%%34200%%&br;24200|%%16641/18141%%&br;16641/42496|BGCOLOR(#ffdddd):火|Active|旧アクロポリスＢ２Ｆ|&color(orange){排熱ユニット};&br;分厚い装甲板&br;黒い基盤&br;金のナゲット|チャージショット&br;ディフェンス・バースト&br;オールターゼロ&br;火炎放射|高DEF&br;ライズ無効&br;WRP 7|
+||ライフ・サポーター|100||20,080/20,080|BGCOLOR(#ffdddd):火|Link|アイアンサウス跡地&br;鉄火山エネルギープラント&br;トラージ・ディコーヤ|力のトランジスタ&br;魔法のトランジスタ&br;守りのトランジスタ&br;対魔のトランジスタ&br;&color(red){臨界のトランジスタ};&br;&color(red){修復のトランジスタ};|||
+||サイバー・レヴェーラー|104||64,192/48,275|BGCOLOR(#ffdddd):火||トラージ・ディコーヤ|軽い装甲板&br;壊れた飛行ユニット&br;&color(slateblue){カードモジュール：Ｄ};&br;&color(red){カードモジュール：Ｄ};|||
+||ＤＥＭ－バスターフォート|101||43,000/43,000|BGCOLOR(#ffdddd):火|Active|トラージ・ディコーヤ|分厚い装甲板&br;排熱ユニット&br;&color(slateblue){シリコンプラグコード（黄）};&br;&color(red){シリコンプラグコード（黄）};|デクライズウェポン||
+||ＤＥＭ－スピードストライカー|96||44,320/36,800|BGCOLOR(#ffdddd):火||鉄火山エネルギープラント|黒い基盤&br;壊れた飛行ユニット&br;&color(slateblue){カードモジュール：Ｓ};&br;&color(red){カードモジュール：Ｓ};|||
+||ＤＥＭ－パワードガンナー|97||42,456/32,232|BGCOLOR(#ffdddd):火||鉄火山エネルギープラント|壊れたチップ&br;排熱ユニット&br;&color(slateblue){シリコンプラグコード（緑）};&br;&color(red){シリコンプラグコード（緑）};|||
+||偵察型ＤＥＭ－ハーゲル|100|600,000|65,000/65,000|BGCOLOR(#ffdddd):火||トラージ・ディコーヤ&br;鉄火山エネルギープラント|||偵察型ＤＥＭは&br; 屈強なドミニオン兵士に話しかけて入ることができる&br;特定地域にのみ生息&br;ボス属性|
+||偵察型ＤＥＭ－ウォーグン|110|800,000|47,000/47,000|BGCOLOR(#ffdddd):火||トラージ・ディコーヤ&br;アイアンサウス跡地|||ボス属性|
+||偵察型ＤＥＭ－ネライダ|110|600,000|50,000/50,000|BGCOLOR(#ffdddd):火||アイアンサウス跡地|||信頼度 15|
+||偵察型ＤＥＭ－ナウマーン|110|4,800,000|60,000/60,000|BGCOLOR(#ffdddd):火||鉄火山エネルギープラント||||
+
+***岩系 [#Rock]
+|~画像|~名前|~LV|~HP|~Exp/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Gorchin.jpg,nolink,100x100);|ゴーチン|28|390|137/156|BGCOLOR(#ffdddd):''火''/土|NonActive|軍艦島&br;ヘルサバーク&br;ゴールデンブリッジ|ホカホカ石&br;破れた魔法書&br;力の結晶&br;&color(red){銅のナゲット};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Go-chin.jpg,nolink,100x100);|フレイムゴーチン|36|1160|980/1010|BGCOLOR(#ffdddd):''火''/土|NonActive|軍艦島(夜)&br;ステップキャニオン|黒色火薬&br;破れた魔法書&br;力の結晶&br;&color(red){原油};|チャージ&br;ファイアボール&br;ファイアアート|WRP 2|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FlazzleGo-chin.jpg,nolink,100x100);|フラズルゴーチン|48|2716|1250/1310|BGCOLOR(#ffdddd):''火''/土|NonActive|ステップキャニオン(夜)&br;ヘルサバーク(夜)|ホカホカ石&br;力の結晶&br;破れた魔法書&br;&color(red){銅のナゲット};|石化ガス&br;ファイアアート&br;ディフェンス・バースト|WRP 3|
+||デムスライト||20|0/0||Active|地下大水路|デムスライトの破片|アイスウェポン&br;アースライズ&br;ディバインバリア|BOSS属性|
+||レアメタル・アーチン|100||32,080/32,080|BGCOLOR(#fff68f):風|NonActive|アイアンサウス跡地（南側）&br;鉄火山エネルギープラント&br;トラージ・ディコーヤ|金のナゲット&br;砂鉄&br;&color(slateblue){ジュエル・ゴールド};|ポイズンパフューム&br;ウインドランチャー&br;サンダーボルト&br;ローリングサンダー|高DEF&br;ジュエル・ゴールドは超低確率|
+||ケミカル・ゴーチン|99||34,296/34,016|BGCOLOR(#ffdddd):火||鉄火山エネルギープラント|デムスライトの破片&br;鉄のナゲット&br;オリハルコン&br;濃縮マジスタポーション&br;&color(red){オリハルコン};|||

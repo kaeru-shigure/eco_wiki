@@ -1,0 +1,117 @@
+# Mob/Elements/Water
+
+#author("2017-04-07T18:21:51+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（水属性） [#m914a185]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv1～10 [#uc9264b5]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MilkPitcher.jpg,nolink,100x100);|ミルクピッチャー|6|41|7/9|BGCOLOR(#bbffff):水|NonActive|アクロニアの林&br;ファーイースト街道&br;イストー岬|ミルク&br;バター&br;白いゼリコ&br;破れた魔法書&br;魔力の結晶&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){ミルクピッチャースタンプ};|アースアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShirokumaKun.jpg,nolink,100x100);|白熊くん|10|11000|7500/3500|BGCOLOR(#bbffff):水|Link|スノップ雪原|毛皮&br;白い毛皮&br;アクアマリン&br;サングラス&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){白熊くんスタンプ};|氷化ガス&br;アクアストーム&br;ポーラーベア召喚|フィールドBOSS&br;出現時ポーラベア召喚使用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cool.jpg,nolink,100x100);|クール|10|75|13/14|BGCOLOR(#bbffff):水|NonActive|スノップ雪原&br;スノップの山道&br;スノップ追分&br;ノーザリン岬|にごった水&br;水色のゼリコ&br;ミネラルウォーター&br;破れた魔法書&br;&color(red){ロウ};&br;&color(slateblue){クールスタンプ};|ウォータアタック||
+
+***Lv11～20 [#pd994ca8]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrashIce.jpg,nolink,100x100);|クラッシュアイス|20|160|56/44|BGCOLOR(#bbffff):水|NonActive|スノップの山道&br;スノップ追分&br;ノーザリン岬|にごった水&br;ミネラルウォーター&br;トニックウォーター&br;&color(red){キャリアオイル};&br;&color(red){融けない氷};&br;&color(slateblue){クラッシュアイススタンプ};|ウォータアタック&br;アイスフェード||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FlyFish.jpg,nolink,100x100);|フライフィッシュ|20|160|54/46|BGCOLOR(#bbffff):水|Link→水中生物|ウテナ川河口&br;モーモー草原|のど飴&br;干し魚&br;シャケ&br;不思議な干し魚&br;&color(red){干しフカヒレ};&br;&color(slateblue){フライフィッシュスタンプ};|サイレントグリーン||
+
+***Lv21～30 [#v1876a7f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PolarBear.jpg,nolink,100x100);|ポーラーベア|22|340|65/55|BGCOLOR(#bbffff):水|Active|スノップ雪原&br;スノップの山道&br;ノーザリン岬&br;ノース台地|氷砂糖&br;&color(orange){毛皮};&br;白い毛皮&br;ニット生地&br;破れた魔法書&br;&color(slateblue){ポーラーベアスタンプ};&br;&color(#cccccc){水晶のかけら};|衝撃波&br;スタンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Edge.jpg,nolink,100x100);|エッジ|24|270|65/65|BGCOLOR(#bbffff):水|Active|【氷結の坑道】&br;B1F,B2F&br;&br;ノース台地|ミルク&br;バター&br;エッジのとげ&br;&color(red){カルシウムビスケット};&br;&color(slateblue){エッジスタンプ};|アイスフェード&br;アイスアロー|DEF高め&br;MDEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Crystal.jpg,nolink,100x100);|クリスタル|24|288|46/90|BGCOLOR(#bbffff):水|NonActive|スノップの山道（北）&br;スノップ雪原&br;（スノップ追分）|ミネラルウォーター&br;スノードロップ&br;キャリアオイル&br;融けない氷&br;&color(red){シルバーメダル};&br;&color(red){超氷石};&br;&color(slateblue){クリスタルスタンプ};|アイスアロー&br;アイスグローブ&br;アクアストーム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FrostyCrystal.jpg,nolink,100x100);|フロスティクリスタル|24|330|60？/110？|BGCOLOR(#bbffff):水||【インスタンスダンジョン】&br;地下迷宮 第1,6,7階層&br;地下に巣くう者|ミネラルウォーター&br;スノードロップ&br;キャリアオイル|アイスアロー&br;アイスグローブ&br;アクアストーム&br;ウォーターファング&br;アイスフェード||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pepen.jpg,nolink,100x100);|ペペン|27|600|140/175|BGCOLOR(#bbffff):水|NonActive|永遠への北限&br;ノース台地&br;ノース中央山脈|ミルク&br;マシュマロ&br;氷砂糖&br;バター&br;いのちの結晶&br;&color(red){スノードロップ};&br;&color(red){カッパーメダル};&br;&color(slateblue){ファイアードラゴの卵};&br;&color(slateblue){ペペンスタンプ};|-|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CaveFish.jpg,nolink,100x100);|ケイブフィッシュ|27|370|90/70|BGCOLOR(#bbffff):水|Active&br;Link|【大陸の洞窟】&br;B5F|のど飴&br;干し魚&br;シャケ&br;不思議な干し魚&br;&color(slateblue){ケイブフィッシュスタンプ};|サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Torpedo.jpg,nolink,100x100);|トルピード|29|330|165/85|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|燐粉&br;黒色火薬&br;破れた魔法書&br;ブランクイリスカード&br;&color(red){シルバーメダル};|ウォータアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/YadoSlag.jpg,nolink,100x100);|ヤドスラッグ|30|1485|250/300|BGCOLOR(#bbffff):水|NonActive|ウォーターレイアー|スノードロップ&br;ブラックビネガー&br;真珠貝&br;真珠&br;&color(red){巻貝};&br;&color(red){青い巻貝};|ヒーリング&br;ウォーターアタック&br;スタンアタック||
+
+***Lv31～40 [#a113a638]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SnowCrystal.jpg,nolink,100x100);|スノークリスタル|31|366|105/245|BGCOLOR(#bbffff):水|Link|(ノーザリン岬)&br;&br;【氷結の坑道】&br;B2F～B3F|マナ・ウォーター&br;破れた魔法書&br;&color(red){カッパーメダル};&br;&color(slateblue){スノークリスタルスタンプ};|アイスグローブ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tentacle.jpg,nolink,100x100);|テンタクル|33|430|200/250|BGCOLOR(#bbffff):水|Active|ステップ砂漠&br;サウスリン岬|マジックキャンディー&br;破れた魔法書&br;ローパーの触手&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){テンタクルスタンプ};|スタンアタック|ATK高め&br;DEF高め&br;高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Raigyo-.jpg,nolink,100x100);|ライギョー|33|512|310/190|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|干し魚&br;ライギョーの汗&br;不思議な干し魚&br;&color(orange){ライギョーのウロコ};&br;&color(red){干しフカヒレ};&br;&color(red){マリオネット・インスマウス};&br;&color(slateblue){ライギョースタンプ};|コンフュージョンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ArcanaClub.jpg,nolink,100x100);|アルカナクラブ|34|1250|300/200|BGCOLOR(#bbffff):水|Active|【氷結の坑道】&br;B1F～B3F|紙&br;破れた魔法書&br;&color(red){古書};&br;&color(red){古い本};&br;&color(slateblue){アルカナクラブスタンプ};|アイスフェード&br;コンフューズスタッド&br;アイスウェポン|！を出さずに襲い掛かってくる場合あり|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RecklessGekko.jpg,nolink,100x100);|レクルスゲッコ|35|840|390/400|BGCOLOR(#bbffff):水|NonActive|モーモー草原&br;穀倉地帯|青汁&br;&color(orange){革のベルト};&br;毒消しの実&br;健康栄養ドリンク&br;ペリドット&br;&color(red){カッパーメダル};||鈍足|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DokuTokage.jpg,nolink,100x100);|ドクトカゲ|35|450|290/210|BGCOLOR(#bbffff):水|Active|モースグ崖&br;アンデッド島・島|肉&br;破れた魔法書&br;ドクトカゲの尻尾&br;&color(orange){丈夫な革};&br;&color(red){マリオネット・サラマンドラ};&br;&color(slateblue){ドクトカゲスタンプ};|ポイズンパフューム&br;スロウロジック|高ATK|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ma-re.jpg,nolink,100x100);|マーレ|36|1200|330/375|BGCOLOR(#bbffff):水|特殊詠唱反応|ウォーターレイアー|水の召還石&br;流氷詰めの缶&br;不思議な水晶&br;&color(red){青い結晶１};&br;&color(red){オリハルコン};|アクアストーム&br;アイスフェード|自分へのスキル使用を察知すると反応|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TropicalFish.jpg,nolink,100x100);|トロピカルフィッシュ|37|520|426/163|BGCOLOR(#bbffff):水|Active|鬼ノ寝床岩|のど飴&br;干し魚&br;シャケ&br;不思議な干し魚&br;&color(slateblue){トロピカルフィッシュスタンプ};|サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KingPolar.jpg,nolink,100x100);|キングポーラー|38|800|400/200|BGCOLOR(#bbffff):水|Active|ノーザリン岬|毛皮&br;毛糸&br;上等な毛皮&br;白い毛皮&br;破れた魔法書|衝撃波&br;スタンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gekko.jpg,nolink,100x100);|ゲッコ|38|2100|350/450|BGCOLOR(#bbffff):水|Active|穀倉地帯&br;&br;【インスタンスダンジョン】&br;潜む白い影&br;地下迷宮 第4,8階層|青汁&br;革のベルト&br;キャベツ&br;ねばねば&br;ペリドット&br;&color(red){シルバーメダル};&br;&color(red){ヒスイ};|アクアストーム&br;あしばらい||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NangokuPepen.jpg,nolink,100x100);|南国ペペン|38|700|300/385|BGCOLOR(#bbffff):水|Active|鬼ノ寝床岩|ブラックビネガー&br;香辛料&br;いのちの結晶&br;&color(red){マシュマロ};&br;&color(red){赤いゼリコ};&br;&color(slateblue){南国ペペンスタンプ};|マジックスリープ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mokugyo-.jpg,nolink,100x100);|モクギョー|39|1600|1800/1800|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|干し魚&br;&color(red){ライギョーのウロコ};&br;不思議な干し魚|サイレントポゼション&br;スリープポゼション|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Ogre.jpg,nolink,100x100);|オーガ|39|2700?|460/290|BGCOLOR(#bbffff):水|Link|【ノーザンダンジョン】&br;1F|ヒールポーション&br;流氷詰めの缶&br;破れた魔法書&br;&color(slateblue){ブルードラゴの卵};&br;&color(slateblue){オーガスタンプ};|アイスフェード&br;ワー・クライ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Furufuru.jpg,nolink,100x100);|フルフル|40|660|336/312|BGCOLOR(#bbffff):水|Active|鬼ノ寝床岩&br;鉄火山|&color(red){マジックキャンディー};&br;ローパーの触手&br;橙色のゼリコ&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){フルフルスタンプ};|スタンアタック|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ArcanaSpade.jpg,nolink,100x100);|アルカナスペード|40|1400|550/150|BGCOLOR(#bbffff):水|Active|【ノーザンダンジョン】&br;1F|紙&br;ヒールサプリメント&br;ヒールポーション&br;&color(red){古い本};&br;&color(red){古書};&br;&color(slateblue){アルカナスペードスタンプ};|-|高MDEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ArcanaDia.jpg,nolink,100x100);|アルカナダイヤ|40|&color(gray){1555};|380/320|BGCOLOR(#bbffff):水|Link|【ノーザンダンジョン】&br;1F|紙&br;スタミナポーション&br;リザレクションポーション&br;&color(red){古書};&br;&color(slateblue){アルカナダイヤスタンプ};|ウォーターファング|高DEF&br;高MDEF|
+
+***Lv41～50 [#c238f197]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+||フローズンプルル|42|900|360/458|BGCOLOR(#bbffff):水|Active|【氷結の坑道】&br;B3F|ミネラルウォーター&br;にごった水|アースライズ&br;||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FundoshiMan.jpg,nolink,100x100);|ふんどしマン！|43|70000?|14700/14700|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|干し魚&br;干しフカヒレ&br;不思議な干し魚&br;&color(red){インスマウスの生地};&br;マリオネット・インスマウス&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){ふんどしマン！スタンプ};|スタンアタック&br;ウォータアタック&br;モクギョー召喚|BOSS&br;30～90分毎&br;取り巻き(モクギョー)|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/IcyCool.jpg,nolink,100x100);|アイシクール|44|1400|433/390|BGCOLOR(#bbffff):水|Active|【氷結の坑道】&br;B3F|ミネラルウォーター&br;キャリアオイル&br;スノードロップ|アイスアロー&br;ウォーターファング&br;アクアストーム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokkarasu.jpg,nolink,100x100);|コッカラス|45|2550|550/480|BGCOLOR(#bbffff):水|NonActive|イーストダンジョン|高級卵&br;ダークフェザーの羽&br;バードケーキ&br;&color(red){シルバーメダル};|ラッシュ&br;スロウロジック&br;コンフューズスタッド||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Startler.jpg,nolink,100x100);|スタートラー|45|2000|600/700|BGCOLOR(#bbffff):水|特殊Active|イーストダンジョン|頑丈な布&br;布&br;&color(orange){ハートルビー};&br;上等な綿花&br;防水布&br;&color(red){シルバーメダル};|ディープフォレスト&br;コンフューズスタッド&br;スタンアタック|視線方向に対して背中を見せると襲ってくる|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/IceDoll.jpg,nolink,100x107);|アイスドール|50|2650|630/420|BGCOLOR(#bbffff):水|NonActive|【光の塔】&br;メインフロア3F&br;A-7F&br;&br;【氷結の坑道】&br;B3F|スノードロップ&br;流氷詰めの缶&br;魔力の結晶|アイスアロー&br;アイスグローブ&br;アイスフェード&br;アースライズ|瀕死時→Active|
+
+***Lv51～60 [#w0a18d2e]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AltoGekko.jpg,nolink,100x100);|アルトゲッコ|52|2250|1150/950|BGCOLOR(#bbffff):水|Link&br;詠唱反応|イーストダンジョン&br;原初の森|ねばねば&br;キャベツ&br;鋼の刀身&br;ブランクイリスカード&br;&color(red){キャビア};&br;&color(orange){黒キャビア};&br;&color(red){シルバーメダル};|アイスフェード&br;アクアストーム&br;ウォータアタック&br;居合|詠唱反応の頻度は低め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/iceelement.png,nolink,100x100);|アイスエレメント|52|30000|/|BGCOLOR(#bbffff):水|詠唱反応|【氷結の坑道】&br;B3F|ガラス生地&br;破れた魔法書&br;ブランクイリスカードUC&br;ナニカの入った宝石|アクアストーム&br;デクライズウエポン&br;|１時間沸き|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AquaChimera.jpg,nolink,100x100);|アクアキメラ|55|2150|733/913|BGCOLOR(#bbffff):水||【インスタンスダンジョン】&br;地下迷宮|くんせい肉&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};|ウォーターファング&br;クロスリバー||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ElderGekko.jpg,nolink,100x100);|エルダーゲッコ|58|3500|1450/1274|BGCOLOR(#bbffff):水|Active&br;Link→All|原初の森&br;毒の湿原|ねばねば&br;キャベツ&br;鋼の刀身&br;&color(orange){キャビア};&br;&color(red){黒キャビア};|アイスフェード&br;ウォーターバーン&br;マジックポイズン&br;アイスウェポン||
+
+***Lv71～80 [#iced626d]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HermitCrab.jpg,nolink,100x100);|ハーミットクラブ|72|10890|2400/2550|BGCOLOR(#bbffff):水|NonActive|海底洞窟（暖流）|ゼリコ&br;闇のコロン&br;真珠貝&br;&color(red){二枚貝};&br;&color(red){紫色の巻貝};&br;&color(slateblue){真珠};|ブランディッシュ&br;ディフェンス・バースト&br;スタンブロウ&br;足払い||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/noguddoachine.jpg,nolink,100x100);|ノグッドアーチン|73|100|98/112|BGCOLOR(#bbffff):水|詠唱反応|海底洞窟（暖流）&br;海底洞窟（寒流)|アーチン印のミソ&br;キャビア&br;黒キャビア|スピードダウン&br;ゴゥアウト&br;ファイアウェポン&br;アースライズ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaDragon.jpg,nolink,100x100);|シードラゴン|73||2500/2800|BGCOLOR(#bbffff):水|NonActive|海底洞窟（暖流）|ミネラルウォーター&br;異界の羽&br;ハーブのど飴&br;&color(#cccccc){魚のウロコ};|ディビリテイト&br;ウォーターバーン&br;ディレイキャンセル&br;ヴァニッシュメエント||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FlankerPirates.jpg,nolink,100x100);|フランカーパイレーツ|75|4300|2550/1900|BGCOLOR(#bbffff):水|NonActive|【フシギ団の砦】&br;南部&br;中立のシマ&br;海賊のシマ&br;&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|パートナーフード&br;血判状&br;青いゼリコ&br;上等な綿花&br;&color(red){青ペンキ};|旋風剣&br;衝撃波&br;スプラッシュ|HPが半分以下になると魔法発動|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SwimFish.jpg,nolink,100x100);|スイムフィッシュ|75|&color(gray){12000±？};|2500/2600|BGCOLOR(#bbffff):水|Link→水中生物|海底洞窟（暖流）|異界の羽&br;シャケ&br;ライギョーのウロコ&br;クリティカルの結晶|パープルガス&br;チャージ&br;スリープストライク|MDEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SwimFishDai.jpg,nolink,100x100);|スイムフィッシュ(大)|75|&color(gray){12000±？};|2500/2600|BGCOLOR(#bbffff):水|Link→水中生物|海底洞窟（暖流）|異界の羽|パープルガス&br;チャージ&br;スリープストライク|BOSS&br;出現時にスイムフィッシュを&br;取り巻きとして召喚&br;MDEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PoisonGel.jpg,nolink,100x100);|ポイズンジェル|77||2800/3200|BGCOLOR(#bbffff):水|Link→水中生物|海底洞窟（暖流）|緑のゼリコ&br;魔力の結晶&br;金運の香水|猛毒スロウガス&br;スケア&br;ポイズンパヒューム&br;サンダーボルト||
+
+***Lv81～90 [#fe7b58e7]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Conc.jpg,nolink,100x100);|コンク|82|13442|2750/3100|BGCOLOR(#bbffff):水|NonActive|海底洞窟（寒流）|毒消しの実&br;蜘蛛の白ワイン&br;真珠貝&br;&color(red){二枚貝};&br;&color(red){茶色の巻貝};&br;&color(slateblue){真珠};|マジックスリープ&br;足払い&br;エナジーシールド&br;ブランディッシュ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaHorse.jpg,nolink,100x100);|シーホース|83|14850|2800/3300|BGCOLOR(#bbffff):水|NonActive|海底洞窟（寒流）|魚のウロコ&br;ミネラルウォーター&br;サンゴ&br;&color(orange){ケセランパサラン};&br;&color(red){上等なサンゴ};&br;|アムラーム&br;アクアストーム&br;マジックシールド&br;連続攻撃|魔法詠唱が早い|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BalloonGel.jpg,nolink,100x100);|バルーンジェル|87||3800/4000|BGCOLOR(#bbffff):水|Link→水中生物|海底洞窟（寒流）|魔力の結晶&br;ミネラルウォーター&br;精霊水&br;赤いゼリコ&br;透明シール|超電磁波&br;エレクトリックファング&br;バイタリティダウン&br;スタンアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaSerpent.jpg,nolink,100x100);|シーサーペント|88||5450/5550|BGCOLOR(#bbffff):水|NonActive|海底洞窟（寒流）|ジューシーなお肉（PT）&br;ジューシーなお肉&br;海竜の瞳（PT）&br;不思議な水晶&br;タイタニアレザー&br;&color(red){逆鱗};|アイスフェード&br;ライフスティール&br;ウォーターバーン&br;アクアウェーブ||
+
+***Lv91～100 [#sad97e8f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KozureBalloonGel.jpg,nolink,100x100);|子づれバルーンジェル|97||5800/6300|BGCOLOR(#bbffff):水|Link→水中生物|海底洞窟（寒流）|ミネラルウォーター（PT）&br;赤ゼリコ |エレクトリックファング&br;スタンアタック&br;怒|BOSS&br;出現時にバルーンジェルを&br;取り巻きとして召喚|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/IshiGameSama.jpg,nolink,100x100);|石亀様|100||50000/60000|BGCOLOR(#bbffff):水|NonActive|ウォーターレイアー|カビ(PT)&br;ハートルビー&br;カメの甲羅&br;亀の甲羅リュック（黒）|アースクライ&br;グラヴィティフォール&br;ランドクラッグ&br;グランドクロス&br;ソリッドオーラ|BOSS&br;一定以上被ダメ時何もしなくても４０秒ごとにアースクライを使用してくる|
+
+***Lv111～ [#ibb577a6]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+||ザ・ルーラー・オブ・タイタニア|200|1500000|/|BGCOLOR(#bbffff):水||【天まで続く塔】&br;エレベータールーム|上質な紫竜のたてがみ(PT)&br;&color(slateblue){黄金に輝く紫竜のたてがみ(PT)};|アブソリュートテリトリー&br;アイシクルテンペスト&br;ノクシャスブラスト&br;ディスペルオーラ&br;スレイブドラゴン召喚&br;リザレクション|BOSS&br;一定時間毎沸き&br;パッシブリザレクション(HP100%で復活、二回まで)&br;取り巻き（スレイブドラゴン）&br;高回避|

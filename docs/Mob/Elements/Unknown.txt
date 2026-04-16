@@ -1,0 +1,101 @@
+# Mob/Elements/Unknown
+
+#author("2017-04-07T17:32:49+00:00","","")
+//編集するときは種類別モンスターのページも併せて編集してください。
+
+*モンスター（属性不明） [#a0d6529c]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***Lv1～10 [#d231c062]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kibako.jpg,nolink,100x100);|木箱（擬態）|1|3000？|5/5||NonActive|【インスタンスダンジョン】&br;遺跡の宝探し|ゼリコ&br;ゼリコポーション&br;ソーダ水&br;青いゼリコ|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Takarabako.jpg,nolink,100x100);|宝箱（擬態）|1|3000？|5/5||NonActive|【インスタンスダンジョン】&br;遺跡の宝探し|ゼリコ&br;ゼリコポーション&br;ソーダ水&br;青いゼリコ|||
+
+***Lv11～20 [#e19ffa8f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DeadFish.jpg,nolink,100x100);|デッドフィッシュ|15|||||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！初級|のど飴&br;干し魚&br;シャケ||ネカフェクエで登場|
+
+***Lv21～30 [#d4253d60]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/QueenWasp.jpg,nolink,100x100);|クイーンワスプ|23|||||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！初級|||ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Gloodnesupururu.JPG,nolink,100x100);|グラットネスプルル|||0/0||Active|カセドラル鉱山B1・B2|アルモフの欠片|リジェネート||
+||グルーミージュエル|28||0/0|||カセドラル鉱山B2||||
+
+***Lv41～50 [#ge0c2553]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BenamasuChimera.jpg,nolink,100x100);|ベナマスキメラ|45|1980|533/720|||【インスタンスダンジョン】&br;集う魔物|くんせい肉&br;キメラのつばさ&br;キメラのとさか&br;&color(red){炎のコロン};|猛毒針&br;ポイズンパヒューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KuroOniGumo.jpg,nolink,100x100);|黒鬼蜘蛛|49||3400/5400|||【インスタンスダンジョン】&br;集う魔物|毒針|オブセッション&br;サテライトタイタン|BOSS|
+//|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaElderWorm.jpg,nolink,zoom,100x100);|でかエルダーワーム|50|500000|0/0||Active|東海岸ペット育成場|-|||
+//|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaBu-Pi-.jpg,nolink,zoom,100x100);|でかブーピー|50|500000|0/0||Active|【回廊育成場】&br;B3F|-|||
+
+***Lv51～60 [#c542e2a0]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/GigaPolar.jpg,nolink,100x100);|ギガポーラー|51||1000/1000||Active|ノース中央山脈(南東)|毛皮&br;白い毛皮&br;毛糸|衝撃波&br;スタンブロウ&br;スロウマジック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Zenki.jpg,nolink,100x100);|前鬼|60||25000/18000||Active|【インスタンスダンジョン】&br;迷宮の結晶体の破壊！中級 第4階層|||BOSS&br;ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Goki.jpg,nolink,100x100);|後鬼|60||22000/17000||Active|【インスタンスダンジョン】&br;迷宮の結晶体の破壊！中級 第4階層|||BOSS&br;ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GrimReaper.jpg,nolink,100x100);|グリムリーパー|60|24000|11000/13000|||【インスタンスダンジョン】|上等なマジックキャンディー&br;&color(red){古書(PT)};|サテライトカロン|BOSS|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DreadArmor.jpg,nolink,100x100);|ドレッドアーマー|60||14000/12000||Active|【インスタンスダンジョン】&br;迷宮の結晶体の破壊！中級 第2階層|||BOSS|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DeathBringer.jpg,nolink,100x100);|デスブリンガー|60||15000/11000||Active|【インスタンスダンジョン】&br;迷宮の結晶体の破壊！中級 第2階層|||BOSS|
+
+***Lv61～70 [#g6a3586e]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HannyaGumo.jpg,nolink,100x100);|般若蜘蛛|62|2400|750/1000||Link|【インスタンスダンジョン】&br;戦慄のプリズン|蜘蛛のワイン&br;アラクネーの糸&br;力の結晶&br;&color(red){丈夫な糸};&br;&color(slateblue){タランチュラの糸};|ポイズンパフューム&br;スロウロジック|数を集めると憑依して&br;ジャンボ般若蜘蛛に変身|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Nightmare.jpg,nolink,100x100);|ナイトメア|62||13000/11000||Active|【インスタンスダンジョン】&br;デスメイズ&br;集う魔物 第4階層|上等なマジックキャンディー&br;たましいの粉(PT)&br;リザレクションポーション(PT)&br;古書(PT)|ロラン&br;サテライトカロン&br;スケア|BOSS&br;取り巻き（レイヴンゴースト）|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Darkelementplim.jpg,nolink,100x100);|ダークエレメント・クライム|64|&color(gray){50000?};|1650/1650||詠唱反応|【アンデッドの城】&br;居館2F|ブランクイリスカードUC|カオスウィドウ&br;デクライズウエポン&br;デクライズシールド&br;ララバイ&br;ソリッドオーラ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AlbinoChimera.jpg,nolink,100x100);|アルビノキメラ|65|20000|7000/9000|||【インスタンスダンジョン】&br;集う魔物|光の矢（PT）&br;プラズム（PT）||BOSS&br;取巻き：ベナマスキメラ|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KakashiTaishou.jpg,nolink,100x100);|かかし大将|65||1750/1850|||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！上級 第1階層|頑丈な布&br;布||ネカフェクエで登場|
+
+***Lv71～80 [#jb754a9f]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GokurakuChou.jpg,nolink,100x100);|極楽鳥|74||2450/2250|||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！上級|||ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/QueenGuard.jpg,nolink,100x100);|クイーンガード|80|||||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！上級|||BOSS属性&br;迷宮の女王の取り巻き&br;ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MeikyuuNoJouou.jpg,nolink,100x100);|迷宮の女王|80|||||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！上級|||BOSS&br;取り巻き(クイーンガード)&br;ネカフェクエで登場|
+
+***Lv81～90 [#mde848dc]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Elemental.jpg,nolink,100x100);|エレメンタル|84||3590/4150|詠唱反応||【海底洞窟（暖流）】|聖者の涙&br;ミネラルウォーター&br;ケセランパサラン&br;&color(red){ドクロ&br;水晶のかけら};|クロスリバー&br;ミラー&br;アクアウェーブ&br;スプラッシュ|接地してるがトラップ無効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantS6.jpg,nolink,100x100);|ギガントＳ６|85|10000|3500/3600||詠唱反応|【光の塔】&br;A-21F&br;A-22F&br;【インスタンスダンジョン】&br;超兵器の破壊|ナット&br;CPU&br;強力磁石&br;スナイパーライフルの銃筒&br;&color(slateblue){アサルトライフルの銃筒};|範囲射撃||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KozurePoisonGel.jpg,nolink,100x100);|子づれポイズンジェル|87||/||NonActive|海底洞窟（暖流）|ミネラルウォーター(PT)|猛毒スロウガス&br;怒|BOSS&br;出現時にポイズンジェルを&br;取り巻きとして召喚|
+||アルモフバタフライ|90|30|0/0||Escape|カセドラル鉱山B1|アルモフの欠片&br;カセドラル鉱山の鍵||かなり小さい|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lyrical.jpg,nolink,100x100);|リリカル|90|12550|3200/3350||詠唱反応|【光の塔】&br;光の塔上層（A屋上）&br;【インスタンスダンジョン】&br;超兵器の破壊|ハーブのど飴&br;珍しい種&br;破れた魔法書(PT)&br;&color(slateblue){信頼のお札};&br;&color(red){リアクティブシールド};&br;&color(red){バトルウィップ};|マジックシールド&br;ヴァニッシュメント&br;アムラーム&br;リジェネレート&br;氷化ガス||
+
+***Lv91～100 [#ma2b72d8]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/BaruruKids.jpg,nolink,113x113);|バルルキッズ|94|15400|4400/4500|||(バオバブの森)|上等な肉&br;骨&br;バルルの革切れ&br;バルルの革&br;するどい牙&br;&color(slateblue){バルルのしっぽ(イエロー)};||バルル召喚でのみ出現|
+||スレイブドラゴン|98|38000|/|||【天まで続く塔】&br;エレベータールーム|ジューシーなお肉&br;紫竜のたてがみ|アイスアロー&br;氷化ガス&br;ゴゥアウト&br;ヴァニッシュメント&br;リジェネレート|BOSS属性|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/seducebutterfly.jpg,nolink,100x100);|シデュースバタフライ|100|46590|11980/10000||Link→&br;バタフライ系|【クジラ岩】&br;歪淵・迷&br;歪淵・艦&br;幻淵&br;深淵|燐粉&br;たましいの粉&br;畏れる蝶の羽&br;&color(orange){耀く燐粉(PT)};&br;激震のど飴&br;|ディバインバリア&br;ヒーリング&br;ポケポケ&br;エナジーショック&br;ディビリテイト|&br;|
+
+***Lv111～ [#qedb1419]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|&color(gray){LEFT:};|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/deathscythe.jpg,nolink,100x100);|デスサイズ|111|62580|7560/7850||NonActive|【クジラ岩】&br;歪淵・艦&br;深淵|銀の部品&br;異界の歯車&br;運命の車輪&br;&color(orange){運命の車輪(PT)};&br;超絶水分補給水|ナッシングネス&br;つむじ風&br;グラビティフォール&br;一閃||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Terrierblebutterfly.jpg,nolink,100x100);|テリアブルバタフライ|116|52500|7268/7380||Link→&br;バタフライ系|【クジラ岩】&br;歪淵・迷&br;歪淵・艦&br;幻淵&br;深淵|燐粉&br;たましいの粉&br;妖精のキャンディ&br;畏れる蝶の羽&br;&color(orange){耀く燐粉(PT)};&br;激震のど飴|石化ガス&br;ミラー&br;ハウルアウト&br;ランドクラック&br;|&br;|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/alseid.jpg,nolink,100x100);|アルセイド|130|81110|14900/17720||NonActive|【クジラ岩】&br;深淵|ドリアードの触手&br;ドリアードの苺&br;&color(red){ドリアードの苺(PT)};&br;禁断の果実(PT)&br;嘆きの懐中時計(PT)&br;超絶水分補給水&br;激震のど飴|ロックドライブ&br;アースクエイク&br;ポイズンマーシュ&br;グラビティフォール&br;|ポイズンマーシュのダメージが凶悪(0.5s=1600)&br;固まって動かないほうが吉|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/MobPlant/Alrun.png,nolink,82x100);|アルルーン|145||/|||【インスタンスダンジョン】&br;終淵||ハウルアウト&br;リストリクトリバース&br;リジェネーション&br;|エミルドラゴン（本気）の取り巻きとして出現&br;ボス属性|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilDragon.jpg,nolink,100x100);|エミルドラゴン(本気)|250|4000000|2000000/2500000|||終淵||アースクライ&br;グラビティフォール&br;リフレクション&br;アニマドレイン&br;ハウリングスクイーザー|BOSS&br;特定の99武器を解放するために闘う本気モード&br;クエスト「終淵に立つ最強の竜 弐」|

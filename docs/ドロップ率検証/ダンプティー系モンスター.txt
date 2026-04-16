@@ -1,0 +1,17 @@
+# ドロップ率検証/ダンプティー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***ダンプティー [#nae2a67d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マナ・ウォーター|破れた魔法書|ぬいぐるみの生地|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|238個（59.50％）|154個（38.50％）|8個（2.00％）|0個（0.00％）|
+|知識あり（57体）|20個（35.09％）|14個（24.56％）|0個（0.00％）|23個（40.35％）|
+
+***壊れたぬいぐるみ [#z0cf19da]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||マナ・ウォーター|頑丈な布|ぬいぐるみの生地|マリオネット・タイニー|背負い魔・ブースト|スタンプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（61体）|26個（42.62％）|23個（37.70％）|9個（14.75％）|1個（1.64％）|1個（1.64％）|1個（1.64％）|
+|知識あり（1体）|1個（100.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

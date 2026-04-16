@@ -1,0 +1,538 @@
+# Quest/Season/Anemone7
+
+*Anemoneワールド 第7回 [#q8393f14]
+&color(red){既存ページの枠にとらわれず、検証結果や考察を書くページ};
+&color(red){「不具合だろう」「本鯖実装時に修正されるだろう」といった予想は当てにせず、自分で不具合修正や効果調整の要望を送りましょう。};
+
+#contents
+
+
+**公式の告知 [#f4888479]
+公式サイト：[[Anemoneワールドについて>http://econline.gungho.jp/special/anemone]]
+公式サイト：[[Anemoneワールド＞スキル内容変更>http://econline.gungho.jp/special/anemone/skill.html]]
+公式サイト：[[第7回Anemoneワールド　追加調整のお知らせ>http://econline.gungho.jp/news/information/anemone_20130118.html]]
+実施期間：2013/01/15～2013/01/22
+
+**ソードマン系 [#SwordMan]
+
+***HPコミュニオン[#n9f05dd1]
+-HP最大値の上昇値を上昇いたします。
+
+|''Lv''|~1|~2|~3|~4|~5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~COLOR(gray):旧最大HP上昇|COLOR(gray):+624|COLOR(gray):+768|COLOR(gray):+912|COLOR(gray):+1056|COLOR(gray):+1180|
+|~COLOR(red):新最大HP上昇|COLOR(red):+800|COLOR(red):+1100|COLOR(red):+1400|COLOR(red):+1700|COLOR(red):+2000|
+
+***グラディエイター [#gdb9eab3]
+-効果のON／OFFができるように仕様を変更いたします。
+
+***大車輪 [#rd21012a]
+-ノックバックの距離を6セルから3セルへ調整いたします。
+
+***プレッシャー [#p05f0da3]
+-移動速度減少効果を強化いたします。
+
+***剣聖 [#db8f5c46]
+-連携できるスキルを追加いたします。
+-「神速斬り」「ジリオンブレイド」から「一閃」
+-「アギト砕き」「巨木断ち」「霞斬り」「隼の太刀」「兜割り」から「殺界」
+--ECO公式ブログ「[[教授のお部屋～第7回Anemoneについて>http://eco-blog.livedoor.biz/archives/51984273.html]]」にて連携ルート図公開
+-「剣聖」習得時に「一閃」の威力を上昇いたします。
+-「剣聖」習得時に「アギト砕き」「巨木断ち」「霞斬り」「隼の太刀」「兜割り」の特定種族に対する追加威力補正を上昇いたします。
+
+|>|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|~特効居合い&br;&color(Red){補正最大};|+400% &br;&color(Red){1060%};|+500% &br;&color(Red){1160%};|+600% &br;&color(Red){1260%};|+700% &br;&color(Red){1360%};|+800% &br;&color(Red){1460%};|
+|>|~一閃&br;&color(Red){補正最大};|+250% &br;&color(Red){800%};|+350% &br;&color(Red){900%};|+450% &br;&color(Red){1000%};|+550% &br;&color(Red){1100%};|+650% &br;&color(Red){1200%};|
+
+**フェンサー系 [#Fencer]
+
+***イージス [#q1dbdfbc]
+-追加防御力も追加魔法防御力に入れ替わるように変更いたします。
+
+***スパイラルスピア [#h6928b9b]
+-消費SPを増加いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|''効果＼SkillLv''|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|~COLOR(gray):旧消費SP|COLOR(gray):20|COLOR(gray):25|COLOR(gray):30|COLOR(gray):35|COLOR(gray):40|
+|~COLOR(Red):新消費SP|COLOR(Red):40|COLOR(Red):60|COLOR(Red):80|COLOR(Red):100|COLOR(Red):120|
+
+***シールドインパクト [#impact]
+-消費SPを増加いたします。COLOR(Red):(2013/1/18追加調整)
+-威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv3～5をモンスターに対して使用した際のステータス低下確率を上昇いたします。
+-ディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+**スカウト系 [#Scout]
+
+***トータルコンバットマスタリー [#b892059d]
+-投擲武器の攻撃力・命中率・クリティカル率も上昇させるように変更いたします。
+
+|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~ATK|+30|+45|+60|+75|+90|
+|~S.HIT(短剣･爪)|+16|+22|+28|+34|+40|
+|~COLOR(Red):L.HIT(銃・投擲)|+16|+22|+28|+34|+40|
+|~体術倍率|134%|140%|146%|152%|158%|
+|~クリティカル率|+3%|+6%|+9%|+12%|+15%|
+---他の武器と同等の上昇量
+
+***イレイザー [#q47a728f]
+-効果のON／OFFができるように仕様を変更いたします。
+-ディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~消費SP|32|42|52|62|72|
+|~詠唱時間|>|>|>|>|無詠唱|
+|~COLOR(gray):旧ディレイ(s)|COLOR(gray):短い|COLOR(gray):＜|COLOR(gray):＜|COLOR(gray):＜|COLOR(gray):4|
+|~COLOR(Red):新ディレイ(s)|COLOR(Red):0.5|COLOR(Red):＜|COLOR(Red):＜|COLOR(Red):＜|COLOR(Red):1.0|
+
+***ノーティオ [#qbd4b0a7]
+-憑依者への貫通ダメージを減少いたします。
+
+***エフィカス [#xc6f697b]
+-憑依者が使用した場合に得られる効果が減少するようにいたします。
+--憑依時、宿主へは最大50%、憑依しない場合は今まで通り100%
+--憑依時の1回毎の加算倍率は未検証
+
+***見切り [#f89455cc]
+-効果時間を延長いたします。
+|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~消費SP|>|>|>|>|100|
+|~回避率|30-40%||70-80%||80-90%|
+|~詠唱時間(s)|1.5|＞|＞|＞|0.5|
+|~ディレイ(s)|>|>|>|>|1.0|
+|~COLOR(gray):旧効果時間(s)|COLOR(gray):64|COLOR(gray):48|COLOR(gray):34|COLOR(gray):22|COLOR(gray):12|
+|~COLOR(red):新効果時間(s)|COLOR(red):180|COLOR(red):80|COLOR(red):60|COLOR(red):30|COLOR(red):15|
+|~固有ディレイ(CT)|>|>|>|>|180s|
+
+***悪鬼 [#m92f37ae]
+-威力を上昇いたします。
+|~スキルLv|~Lv1|~Lv2|~Lv3|h
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~消費SP|15|17|19|
+|~COLOR(gray):旧威力|COLOR(gray):160%×4|COLOR(gray):200%×4|COLOR(gray):240%×4|
+|~COLOR(red):新威力|COLOR(red):200%×4|COLOR(red):250%×4|COLOR(red):300%×4|
+
+***影縫い [#mf06a917]
+-PvPモード中にLv1～2を使用した際の硬直効果時間を延長いたします。COLOR(Red):(2013/1/18追加調整)
+-PvPモード中にLv3～5を使用した際の硬直効果時間を短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+**アーチャー系 [#Archer]
+
+***ウィークネスショット [#p4b64f5c]
+-騎士団演習時を除く、状態異常成功率を上昇いたします。
+
+***テンペストショット [#e0608a0b]
+-消費する弾の数を増加いたします。
+--第7回Anemoneワールドにおける調整内容から消費する弾の数を減少いたします。COLOR(Red):(2013/1/18追加調整)
+-消費SPを増加いたします。COLOR(Red):(2013/1/18追加調整)
+
+|~効果/Lv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~旧消費SP|COLOR(gray):12|COLOR(gray):24|COLOR(gray):36|COLOR(gray):48|COLOR(gray):60|
+|~COLOR(Red):新消費SP|COLOR(Red):18|COLOR(Red):36|COLOR(Red):54|COLOR(Red):72|COLOR(Red):90|
+|~詠唱速度|>|>|>|>|2|
+|~ディレイ|>|>|>|>|1|
+|~攻撃範囲|>|3*3|5*5|3*3|5*5|
+|~一発の威力|170%|186%|202%|218%|234%|
+|~最大攻撃回数|4|7|8|10|15|
+|~COLOR(gray):旧弾消費|>|>|>|>|COLOR(gray):1|
+|~COLOR(red):新弾消費|COLOR(red):1|COLOR(red):2|COLOR(red):3|COLOR(red):4|COLOR(red):5|
+--追加調整前と比べ、弾消費数は半分に減った。
+
+***インパクトショット [#i266a30e]
+-Lv1～5の威力を上昇いたします。
+-第7回Anemoneワールドにおける調整内容から威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~消費SP|50|55|60|65|70|
+|~COLOR(gray):旧威力|COLOR(gray):650%|COLOR(gray):700%|COLOR(gray):750%|COLOR(gray):800%|COLOR(gray):850%|
+|~新威力|COLOR(red):900%|COLOR(red):950%|COLOR(red):1000%|COLOR(red):1050%|COLOR(red):1100%|
+|~スタン効果時間(s)|2.5|>|3.5|4.5|5.0|
+|~移動セル数|>|2|3|4|5|
+|~基本詠唱時間(s)|>|>|1.5|>|1|
+|~ディレイ(s)|1|>|0.5|>|0|
+--
+
+***ミラージュショット [#t6a359da]
+-一定距離以上離れた場所から「ミラージュショット」で敵を倒した場合、経験値が取得できない不具合を修正いたします。
+
+***フレアショット [#reino8]
+-Lv1～4のキャストタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+-追加威力補正を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+
+**ウィザード系 [#Wizard]
+
+***C.SPDコミュニオン [#kc9199e9]
+-C.SPDの上昇値を低下いたします。
+|~効果＼SkillLv|Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費SP|>|>|>|>|100|
+|COLOR(gray):C.SPD上昇量|COLOR(gray):+124|COLOR(gray):+153|COLOR(gray):+182|COLOR(gray):+211|COLOR(gray):+240|
+|COLOR(red):C.SPD上昇量|COLOR(red):+70|COLOR(red):+90|COLOR(red):+110|COLOR(red):+130|COLOR(red):+150|
+|詠唱時間(s)|>|>|>|>|5|
+|ディレイ(s)|2|2.5|3|3.5|4|
+|持続時間(s)|>|>|>|>|600|
+
+***デクライズウエポン [#o2e4cfc0]
+-Lv2とLv4を敵に対して使用できるように変更いたします。
+
+***デクライズシールド [#l3bced4d]
+-Lv2とLv4を敵に対して使用できるように変更いたします。
+
+***フォースバレット [#x86217b0]
+-分身が敵を倒しても経験値が入るように変更いたします。
+-威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+-ディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+***デストラクショングレアー [#b310471d]
+-キャストタイムを増加いたします。
+-ディレイタイムを増加いたします。
+-消費MPを増加いたします。
+|>|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|~COLOR(gray):旧消費MP|COLOR(gray):130|COLOR(gray):150|COLOR(gray):170|COLOR(gray):190|COLOR(gray):210|
+|>|COLOR(red):~新消費MP|COLOR(red):150|COLOR(red):180|COLOR(red):210|COLOR(red):240|COLOR(red):270|
+|>|~COLOR(gray):旧基本詠唱時間(s)|COLOR(gray):4.0|COLOR(gray):3.0|COLOR(gray):2.5|COLOR(gray):2.0|COLOR(gray):2.0|
+|>|COLOR(red):~新基本詠唱時間(s)|COLOR(red):5.0|COLOR(red):4.0|COLOR(red):3.5|COLOR(red):3.0|COLOR(red):2.0|
+|>|~COLOR(gray):旧ディレイ(s)    |COLOR(gray):3.0|COLOR(gray):3.0|COLOR(gray):3.0|COLOR(gray):2.5|COLOR(gray):2.0|
+|>|COLOR(red):~新ディレイ(s)    |COLOR(red):3.0|COLOR(red):3.0|COLOR(red):3.0|COLOR(red):2.5|COLOR(red):2.0|
+--ディレイは変わっていない(？)
+---↑私が調べた時は、LV1:基本詠唱時間4.5/ディレイ3.5、LV5:基本詠唱時間3.0/ディレイ2.5でした。
+
+**シャーマン系 [#Shaman]
+
+***MPコミュニオン [#of89664c]
+-MP最大値の上昇値を上昇いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|COLOR(gray):旧最大MPの増加量|COLOR(gray):260|COLOR(gray):320|COLOR(gray):380|COLOR(gray):440|COLOR(gray):500|
+|COLOR(Red):新最大MPの増加量|520|640|760|880|1000|
+
+***トランスボディ [#c6b1d6d0]
+-付与されるシールドの効果時間を延長いたします。
+
+***エレメンタルブレッド [#xf1ce347]
+-召喚した砲台が敵を倒しても経験値が入るように変更いたします。
+
+***アースクライ [#a62043eb]
+-威力を上昇いたします。
+--威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+-消費MPを増加いたします。COLOR(Red):(2013/1/18追加調整)
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|COLOR(gray):旧消費MP|COLOR(gray):54|COLOR(gray):60|COLOR(gray):66|COLOR(gray):72|COLOR(gray):78|
+|COLOR(Red):新消費MP|COLOR(Red):62|COLOR(Red):74|COLOR(Red):86|COLOR(Red):98|COLOR(Red):110|
+|基本詠唱時間(s)|3.0|2.5|2.0|2.0|2.0|
+|ディレイ(s)|>|>|>|>|1.5|
+|COLOR(gray):旧威力(%)&br;&color(red){補正最大};|COLOR(gray):100&br;190|COLOR(gray):105&br;195|COLOR(gray):110&br;200|COLOR(gray):105&br;205|COLOR(gray):120&br;210|
+|COLOR(Red):新威力(%)&br;&color(red){補正最大};|COLOR(Red):140&br;230|COLOR(Red):150&br;240|COLOR(Red):160&br;250|COLOR(Red):170&br;260|COLOR(Red):180&br;270|
+|持続時間(s)| 6| 6| 7| 8| 8|
+|攻撃回数&br;&color(red){最大攻撃回数};| 5&br;&color(red){8};| 5&br;&color(red){9};| 6&br;&color(red){10};| 6&br;&color(red){11};| 6&br;&color(red){12};|
+|目標|>|>|>|>|単体を中心とした円(5×5)|
+|射程|>|>|>|>|5 |
+|~アースストーム|>|>|>|>|~威力補正(%)|
+|Lv1|>|>|>|>|  0|
+|Lv2|>|>|>|>|+30|
+|Lv3|>|>|>|>|+50|
+|Lv4|>|>|>|>|+70|
+|Lv5|>|>|>|>|+90|
+|~サンダーストーム|>|>|>|>|~ダメージ発生回数|
+|Lv1| 5| 6| 6| 7| 7|
+|Lv2| 6| 6| 7| 7| 8|
+|Lv3| 7| 7| 8| 8| 9|
+|Lv4| 7| 8| 8| 9|10|
+|Lv5| 8| 9|10|11|12|
+
+
+
+***ウィンドエクスプロージョン [#a017ca58]
+-キャストタイムを増加いたします。
+-ディレイタイムを増加いたします。
+-消費MPを増加いたします。
+|>|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|COLOR(red):~新基本詠唱時間(s)|COLOR(red):3.0|COLOR(red):|COLOR(red):|COLOR(red):|COLOR(red):5.0|
+|>|COLOR(red):~新ディレイ(s)    |COLOR(red):4.5|COLOR(red):|COLOR(red):|COLOR(red):|COLOR(red):2.5|
+
+**ウァテス系 [#Wotes]
+第7回Anemoneワールドで仕様変更・調整を行うスキルはありません。
+--COLOR(Red):全く調整が無かったスキルも強化された前例が今回、過去のアネモネで存在するので、諦めないで要望して欲しい。
+
+**ウォーロック系 [#Warlock]
+
+*** メガダークブレイズ[#reino1]
+-「ダークブレイズ」取得時に威力が上がるように変更いたします。
+-Lv2～3のキャストタイムを短縮いたします。
+-ディレイタイムを短縮いたします。
+--第7回Anemoneワールドにおける調整内容からディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-再使用時間を短縮いたします。
+
+|効果＼スキルＬＶ |Lv1|Lv2|Lv3|h
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|80|100|140|
+|攻撃力|400%|600%|800%|
+|COLOR(red):攻撃力(DB取得)|COLOR(red):800%|COLOR(red):1000%|COLOR(red):1200%|
+|範囲|>|>|11×11|
+|COLOR(gray):旧詠唱時間(s)|COLOR(gray):6|COLOR(gray):9|COLOR(gray):12|
+|COLOR(red):新詠唱時間(s)|COLOR(red):6|COLOR(red):6|COLOR(red):6|
+|COLOR(gray):旧ディレイ(s)|COLOR(gray):7|COLOR(gray):8|COLOR(gray):9|
+|COLOR(red):新ディレイ(s)|COLOR(red):1～2|COLOR(red):1～2|COLOR(red):1～2|
+|COLOR(gray):旧固有ディレイ(s)|COLOR(gray):7|COLOR(gray):8|COLOR(gray):9|
+|COLOR(red):新固有ディレイ(s)|COLOR(red):5|COLOR(red):5|COLOR(red):5|
+--DBの取得レベル問わず、取得時威力＋400%の模様
+
+***ソウルテイカー [#n9f05dd1]
+-効果のON／OFFができるように仕様を変更いたします。
+
+***スポレーションソウル[#spallation]
+-威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+
+|効果＼スキルＬＶ |Lv1|Lv2|Lv3|Lv4|Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|消費MP|43|47|51|55|59|
+|COLOR(gray):旧攻撃力|COLOR(gray):150%|COLOR(gray):180%|COLOR(gray):210%|COLOR(gray):240%|COLOR(gray):270%|
+|COLOR(Red):新攻撃力|COLOR(Red):500%|COLOR(Red):615%|COLOR(Red):730%|COLOR(Red):845%|COLOR(Red):960%|
+|基本詠唱時間(s)|2.5|2.0|2.0|1.5|1.0|
+|ディレイ(s)|1.5|1.5|1.5|1.5|1.5|
+
+***ダムネイション [#reino13]
+-キャストタイムを延長いたします。
+-Lv2～5のディレイタイムを延長いたします。
+-消費MPを増加いたします。
+
+|>|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|~COLOR(gray):旧消費MP|COLOR(gray):77|COLOR(gray):88|COLOR(gray):99|COLOR(gray):111|COLOR(gray):121|
+|>|~COLOR(red):新消費MP|COLOR(red):150|COLOR(red):180|COLOR(red):210|COLOR(red):240|COLOR(red):270|
+|>|~威力&br;&color(red){補正最大};|1350%&br;&color(red){1850%};|1800%&br;&color(red){2300%};|2250%&br;&color(red){2750%};|2700%&br;&color(red){3200%};|3150%&br;&color(red){3650%};|
+|>|~COLOR(gray):旧基本詠唱時間(s)|COLOR(gray):3.0|>|COLOR(gray):2.5|>|COLOR(gray):2.0|
+|>|~COLOR(red):新基本詠唱時間(s)|COLOR(red):5.0|COLOR(red):4.5|COLOR(red):4.0|COLOR(red):2.5|COLOR(red):2.5|
+|>|~COLOR(gray):旧ディレイ(s)|>|COLOR(gray):0.5|>|COLOR(gray):1.0|COLOR(gray):2.0|
+|>|~COLOR(red):新ディレイ(s)|COLOR(red):0.5|COLOR(red):1.0|COLOR(red):2.0|COLOR(red):3.0|COLOR(red):3.0|
+
+--威力補正は割愛
+
+**タタラベ系 [#Tatarabe]
+
+***ＤＯＧＥＺＡ [#ef2b37ed]
+-ボス属性のモンスターに対して使用した際に、低下する攻撃力の割合を減少いたします。
+***ウエポンエンハンス [#t9e4e15e]
+-武器攻撃力の上昇値を上昇いたします。
+-クリティカル率の上昇値を上昇いたします。
+-効果範囲を単体指定から、5×5の単体範囲指定に変更いたします。
+
+**ファーマー系 [#Farmer]
+
+***PAYLコミュニオン [#g85da309]
+-重量、容量オーバー時も使えるように変更いたします。
+--重量、容量オーバー時に使用可能になっただけで、上昇量は一切変わっていない。
+
+***ハーヴェスト [#Harvest]
+-Lv2～5のキャストタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv2～5のディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv2～5の再使用時間を短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+***ネガティブハーヴェスト [#r7cdeab7]
+-アイテム「トキシケートポーション」を耐久度200の新規アイテムに変更いたします。
+-再使用時間を短縮いたします。
+
+***黒薔薇の棘 [#h2cd3818]
+-残りHPを超えるダメージを受けた際に、１度だけ死なないようにしつつダメージを反射するスキルに変更いたします。
+-但し、一部のダメージについては黒薔薇の棘の効果を発揮しないことがあります。
+
+|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~消費SP|20|25|30|35|40|
+|~消費MP|20|25|30|35|40|
+|~反射ダメージ係数|>|>|>|>|100%|
+|~詠唱時間(s)|3.0|2.5|2.0|1.5|1.0|
+|~ディレイ(s)|>|>|>|>|0.5|
+|~効果時間(s)|>|>|>|>|180|
+
+-効果時間中に、残HPを越えるダメージを受けた際に、そのダメージを0にしつつ、受けるはずだったダメージをそのまま敵へ反射するスキルへと変更された。
+-対MOB、対人で反射ダメージの倍率に変わりはない。
+-消費、詠唱、ディレイ、効果時間は元のものをそのまま使っている模様。
+-ハーヴェストマスター取得時も反射ダメージの上昇は見込めないため、乗らなくなったと見るべきか。
+-使用レベルによって反射ダメージの変動は見られない。
+--そのためレベルによる違いは詠唱時間しかない。
+
+***プラントエッジ [#cc0f15e8]
+-威力を上昇いたします。
+-演習時威力が半減するようにいたします。
+
+**レンジャー系 [#Ranger]
+
+***アブサードウィップ [#abwhip]
+-Lv2～5のキャストタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv2～5のディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|''Lv''|~1|~2|~3|~4|~5|h
+|~使用SP|52|60|68|76|84|
+|~威力（%）|200|225|250|275|300|
+|~攻撃回数|>|>|>|>|8|
+|~総合威力|1600%|1800%|2000%|2200%|2400%|
+|~COLOR(gray):旧詠唱時間(s)|COLOR(gray):1s|COLOR(gray):1.5s|COLOR(gray):2s|COLOR(gray):3s|COLOR(gray):4s|
+|~COLOR(Red):新詠唱時間(s)|COLOR(Red):1s|COLOR(Red):1s|COLOR(Red):1.5s|COLOR(Red):2s|COLOR(Red):2.5s|
+|~COLOR(gray):旧ディレイ(s)|COLOR(gray):1s|COLOR(gray):2s|COLOR(gray):3s|COLOR(gray):4s|COLOR(gray):5s|
+|~COLOR(Red):新ディレイ(s)|COLOR(Red):1s|COLOR(Red):1s|COLOR(Red):1s|COLOR(Red):1.5s|COLOR(Red):1.5s|
+
+***SPコミュニオン [#ca8753f1]
+-SP最大値の上昇値を上昇いたします。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~1|~2|~3|~4|~5|h
+|COLOR(gray):旧最大SPの増加量|COLOR(gray):260|COLOR(gray):320|COLOR(gray):380|COLOR(gray):440|COLOR(gray):500|
+|COLOR(Red):新最大SPの増加量|520|640|760|880|1000|
+
+***ロングレンジプルウィップ [#j3085dfb]
+-威力を上昇いたします。
+-再使用時間を設定いたします。
+-第7回Anemoneワールドにおける調整内容から再使用時間を短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-消費SPを増加いたします。COLOR(Red):(2013/1/18追加調整)
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|''Lv''|~1|~2|~3|~4|~5|h
+|~COLOR(gray):旧使用SP|COLOR(gray):15|COLOR(gray):21|COLOR(gray):26|COLOR(gray):30|COLOR(gray):33|
+|~COLOR(Red):新使用SP|COLOR(Red):43|COLOR(Red):46|COLOR(Red):49|COLOR(Red):52|COLOR(Red):55|
+|~詠唱時間(s)|1.5|1.4|1.3|1.2|1.1|
+|~ディレイ(s)|1.2|0.9|0.9|0.6|0.6|
+|~再使用時間(s)|>|>|>|>|3|
+|~威力(%)&br;&color(Red){補正最大};|140&br;&color(Red){380};|170&br;&color(Red){410};|200&br;&color(Red){440};|230&br;&color(Red){470};|260&br;&color(Red){500};|
+|~キャッチ|>|>|>|>|~威力補正(%)|
+|Lv1|>|>|>|>|+200|
+|Lv2|>|>|>|>|+210|
+|Lv3|>|>|>|>|+220|
+|Lv4|>|>|>|>|+230|
+|Lv5|>|>|>|>|+240|
+--追加調整前の再使用時間は10sだった。
+--したらばレンジャースレ17>>557より
+COLOR(blue):固有ディレイに関して補足
+COLOR(blue):mobに対して撃った際に2秒間の硬直が発生した後に引き寄せ処理が行われる
+COLOR(blue):引き寄せ処理にも1秒程度時間がかかるから
+COLOR(blue):ちょうど手元に寄せられたくらいで固有ディレイが消える
+COLOR(blue):処理的に見てこれ以上短くするのは仕様上無理だと言える
+
+***レストスキル [#cc02e420]
+-成功率が100％になってしまっていた不具合を修正し、正常な成功率が反映されるようにいたします。
+-キャストタイムを短縮いたします。
+-ディレイタイムを短縮いたします。
+-消費SPを減少いたします。
+-ボスに対して効果が得られないようにいたします。
+-「レストスキル」と同様の効果を持つペットスキル「ちょっと黙ってて」を使用した際にボスに対して効果が得られないようにいたします。
+
+***ピレッジアクト [#lb5b19da]
+-Lv4～5の威力を上昇いたします。
+--第7回Anemoneワールドにおける調整内容からLv4～5の威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv1～2のアイテム取得成功率を上昇いたします。
+-Lv3～5のアイテム取得成功率を低下いたします。
+--第7回Anemoneワールドにおける調整内容からLv4～5のアイテム取得成功率を低下いたします。COLOR(Red):(2013/1/18追加調整)
+-「スナッチ」を習得していた場合、「スナッチ」のレベルに依存せずアイテム取得成功率が上昇するようにいたします
+-Lv1～2の威力を低下いたします。
+-消費SPを増加いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv1～4のキャストタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv5のキャストタイムを増加いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv1～4のディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-Lv5のディレイタイムを増加いたします。COLOR(Red):(2013/1/18追加調整)
+
+|>|~スキルLv|~Lv1|~Lv2|~Lv3|~Lv4|~Lv5|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|~COLOR(gray):旧消費SP|COLOR(gray):25|COLOR(gray):35|COLOR(gray):45|COLOR(gray):55|COLOR(gray):65|
+|>|~COLOR(Red):新消費SP|COLOR(Red):70|COLOR(Red):75|COLOR(Red):80|COLOR(Red):85|COLOR(Red):90|
+|>|~COLOR(gray):旧威力|COLOR(gray):400%|COLOR(gray):600%|COLOR(gray):800%|COLOR(gray):1000%|COLOR(gray):1200%|
+|>|~COLOR(Red):新威力|COLOR(Red):50%|COLOR(Red):300%|COLOR(Red):800%|COLOR(Red):1300%|COLOR(Red):1800%|
+|>|~COLOR(gray):旧基本詠唱時間(s)|COLOR(gray):2.5|COLOR(gray):2.5|COLOR(gray):2.0|COLOR(gray):1.5|COLOR(gray):1.0|
+|>|~COLOR(Red):新基本詠唱時間(s)|1.0|1.0|1.0|1.0|1.0|
+|>|~COLOR(gray):旧ディレイ(s)    |COLOR(gray):2.0|COLOR(gray):2.0|COLOR(gray):2.0|COLOR(gray):2.0|COLOR(gray):1.5|
+|>|~COLOR(Red):新ディレイ(s)    |1.0|1.0|1.0|1.5?|1.5?|
+|>|~スナッチ成功率|25%|20%|COLOR(gray):10%|COLOR(gray):5%|COLOR(gray):2.5%|
+|>|~スナッチ成功率(スナッチLv1-5取得時)|50%|40%|COLOR(gray):20%|COLOR(gray):10%|COLOR(gray):5%|
+
+**マーチャント系 [#Merchant]
+
+***ファシーボイス [#fdd3abfb]
+-ボス属性のモンスターに対して使用した際に、低下する魔法攻撃力の割合を減少いたします。
+***CAPAコミュニオン [#hb5ccd1c]
+-重量、容量オーバー時も使えるように変更いたします。
+--重量、容量オーバー時に使用可能になっただけで、上昇量は一切変わっていない。
+
+***パーフェクトライオットスタンプ [#a698d670]
+-キャストタイムを短縮いたします。
+-ディレイタイムを短縮いたします。
+***タイムイズマネー [#s3032f96]
+-キャストタイムを延長いたします。
+-ディレイタイムを延長いたします。
+-消費MPを増加いたします。
+
+**ジョーカー [#Joker]
+***ジョーカースタイル [#JokerStyle]
+-威力を上昇いたします。
+--第7回Anemoneワールドにおける調整内容から威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+-ディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+**DEM [#dem]
+
+***ソニックブレイカー[#sonic]
+-威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+|CENTER:''効果＼スキルLv''|~1|~2|~3|h
+|LEFT:|CENTER:|CENTER:|CENTER:|c
+|~使用SP|160|200|220|
+|~COLOR(gray):旧威力(ATK比%)|COLOR(gray):1350%|COLOR(gray):1550%|COLOR(gray):1750%|
+|~COLOR(Red):新威力(ATK比%)|COLOR(Red):1800%|COLOR(Red):2300%|COLOR(Red):2700%|
+
+***クーデグラ[#kude]
+-キャストタイムを延長いたします。COLOR(Red):(2013/1/18追加調整)
+-ディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-消費SPを増加いたします。COLOR(Red):(2013/1/18追加調整)
+-威力を上昇いたします。COLOR(Red):(2013/1/18追加調整)
+|CENTER:''効果＼スキルLv''|~1|~2|~3|h
+|LEFT:|CENTER:|CENTER:|CENTER:|c
+|~COLOR(gray):旧使用SP|COLOR(gray):160|COLOR(gray):200|COLOR(gray):240|
+|~COLOR(Red):新使用SP|COLOR(Red):200|COLOR(Red):260|COLOR(Red):320|
+|~COLOR(gray):旧威力(ATK比%)|COLOR(gray):1700%|COLOR(gray):2100%|COLOR(gray):2550%|
+|~COLOR(Red):新威力(ATK比%)|COLOR(Red):2000%|COLOR(Red):2650%|COLOR(Red):3500%|
+|~COLOR(Red):新詠唱時間(s)|COLOR(Red):4|COLOR(Red):4.5|COLOR(Red):5|
+|~COLOR(Red):新ディレイ(s)|COLOR(Red):1|COLOR(Red):1|COLOR(Red):1.5|
+--旧詠唱、ディレイは不明
+
+***レガシースペル[#legacy]
+-キャストタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+|CENTER:''効果＼スキルLv''|~1|~2|~3|h
+|LEFT:|CENTER:|CENTER:|CENTER:|c
+|~使用MP|380|420|460|
+|~威力(M.ATK比%)|2200%|2600%|3000%|
+|~COLOR(gray):旧詠唱時間(s)|||COLOR(gray):12|
+|~COLOR(Red):新詠唱時間(s)|COLOR(Red):6.5|COLOR(Red):7|COLOR(Red):7.5|
+|~ディレイ(s)|||1.0|
+
+***インサニティヴォーテックス[#insvo]
+-キャストタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+-ディレイタイムを短縮いたします。COLOR(Red):(2013/1/18追加調整)
+
+|CENTER:''効果＼スキルLv''|~1|~2|~3|~4|h
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~使用MP|>|>|>|550|
+|~属性|火|水|風|土|
+|~威力(M.ATK比%)|>|>|>|520%|
+|~攻撃回数|>|>|>|5|
+|~合計威力(M.ATK比%)|>|>|>|2600%|
+|~COLOR(gray):旧詠唱時間(s)|>|>|>|COLOR(gray):12くらい？|
+|~COLOR(Red):新詠唱時間(s)|>|>|>|COLOR(Red):約9.0|
+|~ディレイ(s)|||||
+
+**その他[#ect]
+***CSPD仕様変更 [#p9ebb5b1]
+-C.SPDの上限を「800」に設定いたします。 
+
+***アイテム調整 [#pcfc8f18]
+-アイテム「大きな矢束」を第7回Anemoneワールドに実装いたします。
+COLOR(gray):※「大きな矢束」はスキル「投擲武器作成」Lv4を使用して「木の矢」300本と「ひも」2本から作成することができます。
+COLOR(gray):※「大きな矢束」「矢束」「大きな弾倉（実包）」「弾倉（実包）」「大きな弾倉（弱弾）」「弾倉（弱弾）」については重量と容量の減少を行いますが、第7回Anemoneワールドでは対応は見送らせて頂きます。
+COLOR(gray):※AnemoneワールドではNPCより「大きな矢束」の購入が可能です。
+
+**コメント欄 [#comment]
+#pcomment

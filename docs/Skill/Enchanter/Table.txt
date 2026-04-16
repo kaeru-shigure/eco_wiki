@@ -1,0 +1,42 @@
+# Skill/Enchanter/Table
+
+#author("2016-11-02T08:15:43+00:00","","")
+-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+☆:必須クラス
+◎:取得推奨
+○:あると便利
+△:通好み/限定状況でのみ役に立つ
+×:全く役に立たない
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #エンチャンター>Dungeon/InfiniteCorridorAbyssSkill#pa8609d7]]''
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Job&br;Lv|~名称|~型|~属性|~対象|~Max&br;Lv|~射程|~効果|~評価|~コメント|h
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|~3|''[[ポイズンマーシュ>../Explanation#poisonmarsh]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|地面を中心にした円|5|6|大地の力が宿っている地面に&br;足にまとわり付く毒の沼を作る|△|威力が魔法攻撃力ではなく、術者のHPに依存&br;魔法防御高い相手には○|
+|~5|''[[バインド>../Explanation#bind]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|地面を中心にした円|5|5|大地の力が宿っている地面に移動力低下地帯を作る|×|一定確率で鈍足化するが手間がかかりすぎる＆鈍足時間が短い|
+|~7|''[[アシッドミスト>../Explanation#acidmist]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|地面を中心にした円|5|6|大地の力が宿っている範囲に強力な酸の霧を発生させる|○|条件さえ揃えば燃費の良いスキル&br;ポイズンマーシュと違い、術者の魔法攻撃力に依存|
+|~9|''[[ファイアピラー>../Explanation#firepillar]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|地面単体|5|6|炎の力が宿っている地面に炎の柱を出現させる|△|時間当たりの火力ならラーヴァフロウより高い|
+|~11|''[[アースライズ>../Explanation#rise]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|敵単体|5|5|一定時間、対象のモンスターに大地の属性を与える|◎|[[アクアブラスト>Skill/Shaman/Explanation#blast]]と組み合わせると効果大。[[ファシライズ>Skill/Elementaler/Explanation#fasy]]が効かない敵にはこちらを。&br;※ライズ系は主に使うスキルと相談して1つか2つだけ覚えれば良い。&br;三次職以降は☆、それまでは◎程度|
+|~13|''[[ウォーターライズ>../Explanation#rise]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|敵単体|5|5|一定時間、対象のモンスターに水の属性を与える|◎|[[ラーヴァフロウ>Skill/Elementaler/Explanation#lavaflow]]や[[ファイアブラスト>Skill/Shaman/Explanation#blast]]と組み合わせると効果大。[[フロスティゲイル>Skill/Elementaler/Explanation#frosty]]が効かない敵はこちらを。&br;※ライズ系は主に使うスキルと相談して1つか2つだけ覚えれば良い。&br;三次職以降は☆、それまでは◎程度|
+|~15|''[[ウィンドライズ>../Explanation#rise]]''|''&color(red){A};''|BGCOLOR(#fff68f):風|敵単体|5|5|一定時間、対象のモンスターに風の属性を与える|◎|グラヴィティフォールと同時に使うとなお良い。&br;※ライズ系は主に使うスキルと相談して1つか2つだけ覚えれば良い。&br;三次職以降は☆、それまでは◎程度|
+|~17|''[[ファイアライズ>../Explanation#rise]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|敵単体|5|5|一定時間、対象のモンスターに火の属性を与える|◎|風属性の強力の魔法がないため二次時点ででは微妙。三次で[[WE>Skill/Astralist/Explanation#windexp]]を覚えたら使いやすい。&br;※ライズ系は主に使うスキルと相談して1つか2つだけ覚えれば良い。&br;三次職以降は☆、それまでは◎程度|
+|~19|''[[アースパワーサークル>../Explanation#powercircle]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|地面を中心にした円|5|6|地面の広い範囲に一時的に大地の力を宿らせる|○|土属性値の底上げに&br;マーシュ、アシッドとの連携で使える。エミルドラゴン戦でも有用|
+|~21|''[[ウォーターパワーサークル>../Explanation#powercircle]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|地面を中心にした円|5|6|地面の広い範囲に一時的に水の力を宿らせる|○|水属性値の底上げに|
+|~23|''[[ウィンドパワーサークル>../Explanation#powercircle]]''|''&color(red){A};''|BGCOLOR(#fff68f):風|地面を中心にした円|5|6|地面の広い範囲に一時的に風の力を宿らせる|○|風属性値の底上げに|
+|~25|''[[ファイアパワーサークル>../Explanation#powercircle]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|地面を中心にした円|5|6|地面の広い範囲に一時的に炎の力を宿らせる|○|火属性値の底上げに&br;ファイアピラーとの連携で使える|
+|~27|''[[アースオーラ>../Explanation#earthaura]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|味方単体|3|6|一定時間、対象プレイヤーの防御力、防御率を上昇する|◎|効果がそれなりに高く有用|
+|~28|''[[ウォーターオーラ>../Explanation#wateraura]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|味方単体|3|6|一定時間、対象プレイヤーの魔法防御力を上昇する|○|パートナーのマジックバリアで代用出来る|
+|~29|''[[ウィンドオーラ>../Explanation#windaura]]''|''&color(red){A};''|BGCOLOR(#fff68f):風|味方単体|3|6|一定時間、対象プレイヤーのディレイキャンセル効果時間を延長する|△|スピードエンチャントの修正により、効果的に使える状況がほとんど無くなった|
+|~30|''[[ファイアオーラ>../Explanation#fireaura]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|味方単体|3|6|一定時間、対象プレイヤーの最小攻撃力、最大攻撃力を上昇する|△|物理職や物理パートナーと組むことが多いなら覚えても良いが、パワーエンチャントで十分|
+|~32|''[[パワーエンチャント>../Explanation#powerenchant]]''|''&color(red){A};''|-|味方単体|3|6|一定時間、対象プレイヤーの物理攻撃力、物理防御力、魔法攻撃力、魔法防御力を上昇させる|◎|2012/8/23のアップデートにより減少効果は撤廃&br;以前よりずっと使いやすくなった。&br;攻撃力と防御力を同時に上げるには最適|
+|~34|''[[スピードエンチャント>../Explanation#speedenchant]]''|''&color(red){A};''|-|味方単体|3|6|一定時間、対象プレイヤーの物理攻撃速度、回避率、魔法抵抗率、魔法詠唱速度を上昇させる。|◎|2012/8/23のアップデートにより減少効果（デメリット）は撤廃&br;数少ない詠唱短縮可能な魔法&br;2012/8/23現在、ステータスによる%%A.SPD、%%C.SPDの上限値を超える事が可能|
+|~36|''[[エレメンタルボール>../Explanation#elementalball]]''|''&color(red){A};''|BGCOLOR(#cccccc):火水&br;風土|地面を中心にした円|5|6|4属性の場を発生させ、属性を切り替えながらダメージを与える&br;&color(red){憑依中使用不可　ゼン効果無し};|△|硬直がないため使うのが難しい|
+|~40|''[[エレメンタルアディション>../Explanation#elementaladdition]]''|''&color(red){A};''|-|自分を中心とした円|1|-|自分を中心とした範囲内に居た者に自身にかかっている属性効果を付加させる|◎|ボス戦など、複数人に素早く属性を付与したい時に便利|
+|~42|''[[エンチャントウエポン>../Explanation#enchantweapon]]''|''&color(red){A};''|-|味方単体|3|6|対象の武器に状態異常効果を付加させる|△|スピードエンチャントなどの修正があった為、PT狩りでも使う事はほぼなくなった|
+|~44|''[[グラヴィティフォール>../Explanation#gravityfall]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|地面を中心にした円|5|6|対象の周囲に地震を起こしダメージを与える&br;一定確率で対象は鈍足状態になる|◎|風ライズと組み合わせることで主力級の攻撃スキルになる|
+|~50|''[[エレメンタルラース>../Explanation#elementalwrath]]''|''&color(red){A};''|BGCOLOR(#cccccc):火水&br;風土|地面を中心にした円|5|6|指定座標に4属性全ての力を持つ竜巻を発生させダメージを与える&br;&color(red){憑依中使用不可};|◎|2012/8/23にクールタイムが大幅に短縮&br;高火力スキルとして使えるようになった&br;憑依時は使用不可&br;[[エレメンタルレイン>Skill/Astralist/Explanation#elementalrain]]の威力を強化。|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Job&br;Lv|~名称|~型|~属性|~対象|~Max&br;Lv|~射程|~効果|~評価|~コメント|f

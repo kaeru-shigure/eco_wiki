@@ -1,0 +1,74 @@
+# Quest/Fishing
+
+*釣りクエスト [#w14dcb62]
+←[[クエスト>Quest]]へ戻る
+←[[釣り>Fishing]]へ戻る
+
+「釣具屋店員」と南ウテナ開拓地に居る「流れの釣具屋」から受けられる収集クエスト。
+「釣具屋店員」はイストー岬の村、ウェストー開拓地、ノーザリン岬、マイマイ島、オアシス、および飛空城の釣り堀にいる。
+
+//クエアイテムの強調表示はエルシエル・開拓地等統一とれていますので//
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~条件|~クエスト名|~時間|~内容|~EXP&br;報酬|~備考|h
+|LEFT:|CENTER:|LEFT:|RIGHT:|RIGHT:|CENTER:|LEFT:|c
+|>|>|>|>|>|>|LEFT:~採取|
+|~-|-|釣堀の入手|900分|[[''オオサンショウウオ''>http://eco.acronia.net/itemdb/#id=371]] 1個&br;[[''リュウグウノツカイ''>http://eco.acronia.net/itemdb/#id=2709]] 1個&br;[[''ジンベイザメ''>http://eco.acronia.net/itemdb/#id=1292]] 1個|165/165&br;240G&br;釣堀|クエスト3消費&br;釣堀はペイキャパ100なので&br;貰う際注意&br;淡水P2、海水P2|
+|~14-50|-|錦鯉を我が家に！|900分|[[''錦鯉''>http://eco.acronia.net/itemdb/#id=1789]] 5個|2,700/2,700&br;2,400G|淡水P1&br;2013/04/10更新|
+|~|BP系|金のフナを探して欲しい|~|[[''キンブナ''>http://eco.acronia.net/itemdb/#id=789]] 3個|4,050/4,050&br;2,400G|泥水P2&br;2013/04/10更新|
+|~14-30|-|桜和金の誘惑|900分|[[''桜和金''>http://eco.acronia.net/itemdb/#id=1067]] 10個|4,050/4,050&br;3,600G|淡水P1&br;2013/04/10更新|
+|~|BP系|鉄魚の浪漫|~|[[''鉄魚''>http://eco.acronia.net/itemdb/#id=1594]] 5個|6,075/6,075&br;3,600G|淡水P1&br;2013/04/10更新|
+|~|~|魅惑の出目金|~|[[''出目金''>http://eco.acronia.net/itemdb/#id=1621]] 5個|~|淡水P1&br;2013/04/10更新|
+|~19-35|-|ワカサギホイホイ|900分|[[''ワカサギ''>http://eco.acronia.net/itemdb/#id=2830]] 10個|7,362/7,362&br;4,800G|淡水P2&br;2013/04/10確認|
+|~|BP系|サンショウウオが飼いたい|~|[[''サンショウウオ''>http://eco.acronia.net/itemdb/#id=1093]] 5個|11,043/11,043&br;4,800G|淡水P2&br;2013/04/10確認|
+|~|~|マンボウゲッター|~|[[''マンボウ''>http://eco.acronia.net/itemdb/#id=2488]] 5個|~|海水P1&br;2013/04/10確認|
+|~24-40|-|危険なサメを捕まえて|900分|[[''ホオジロザメ''>http://eco.acronia.net/itemdb/#id=2318]] 10個|8,988/8,988&br;6,000G|海水P2&br;2013/04/10確認|
+|~|BP系|今夜はアンコウ鍋|~|[[''アンコウ''>http://eco.acronia.net/itemdb/#id=140]] 5個|13,482/13,482&br;6,000G|海水P1&br;2013/04/10確認|
+|~|~|この毒が病みつき|~|[[''トラフグ''>http://eco.acronia.net/itemdb/#id=1715]] 5個|~|海水P2&br;2013/04/10確認|
+|~29-45|-|白銀のアロワナ|900分|[[''シルバーアロワナ''>http://eco.acronia.net/itemdb/#id=1260]] 10個|13,389/13,389&br;7,200G|泥水P1&br;2013/04/10確認|
+|~|BP系|水面に浮かぶ花|~|[[''スイレン''>http://eco.acronia.net/itemdb/#id=1695]] 5個|20,082/20,082&br;7,200G|泥水P2&br;2013/04/10確認|
+|~|~|黄金色のアロワナ|~|[[''ゴールデンアロワナ''>http://eco.acronia.net/itemdb/#id=964]] 5個|~|泥水P1&br;2013/04/10確認|
+|~34-50|-|水生昆虫の調査|900分|[[''ゲンゴロウ''>http://eco.acronia.net/itemdb/#id=898]] 5個&br;[[''ヤゴ''>http://eco.acronia.net/itemdb/#id=2615]] 5個|17,628/17,628&br;8,400G|泥水２，P3|
+|~|BP系|水槽の掃除屋|~|[[''タニシ''>http://eco.acronia.net/itemdb/#id=1479]] 5個|26,442/26,442&br;8,400G|泥水P2|
+|~39-55|-|水辺の安全を確保せよ！|900分|[[''アリゲーター''>http://eco.acronia.net/itemdb/#id=115]] 5個&br;[[''クロコダイル''>http://eco.acronia.net/itemdb/#id=856]] 5個|22,785/22,785&br;9,600G|泥水P2|
+|~|BP系|害魚ハンター１|~|[[''ブルーギル''>http://eco.acronia.net/itemdb/#id=2221]] 5個|34,178/34,178&br;9,600G|泥水P3|
+|~|~|害魚ハンター２|~|[[''ピラルク''>http://eco.acronia.net/itemdb/#id=2103]] 5個|~|泥水P3|
+|~|~|害魚ハンター３|~|[[''マレーコッド''>http://eco.acronia.net/itemdb/#id=2483]] 5個|~|泥水P3|
+|~44-60|-|グラミーコレクター１|900分|[[''レッドグラミー''>http://eco.acronia.net/itemdb/#id=2771]] 2個&br;[[''サンセットグラミー''>http://eco.acronia.net/itemdb/#id=1094]] 2個&br;[[''バンデッドグラミー''>http://eco.acronia.net/itemdb/#id=1998]] 2個|28,404/28,404&br;10,800G|淡水P3|
+|~|BP系|和金の味わい|~|[[''和金''>http://eco.acronia.net/itemdb/#id=2834]] 5個|42,606/42,606&br;10,800G|淡水P1|
+|~|~|グラミー道の求道者１|~|[[''チョコレートグラミー''>http://eco.acronia.net/itemdb/#id=1549]] 5個|~|淡水P3|
+|~49-65|-|グラミーコレクター２|900分|[[''マーブルグラミー''>http://eco.acronia.net/itemdb/#id=2385]] 2個&br;[[''パールグラミー''>http://eco.acronia.net/itemdb/#id=1912]] 2個&br;[[''シルバーグラミー''>http://eco.acronia.net/itemdb/#id=1261]] 5個|33,933/33,933&br;12,000G|淡水P3|
+|~|BP系|グラミー道の求道者２|~|[[''ピグミーグラミー''>http://eco.acronia.net/itemdb/#id=2048]] 5個|50,900/50,900&br;12,000G|淡水P3|
+|~|~|グラミー道の求道者３|~|[[''ジャイアントグラミー''>http://eco.acronia.net/itemdb/#id=1140]] 5個|~|淡水P3|
+|~54-70|-|ピラニア大量発生！１|900分|[[''ブラックピラニア''>http://eco.acronia.net/itemdb/#id=2190]] 5個&br;[[''イエローピラニア''>http://eco.acronia.net/itemdb/#id=155]] 5個|30,785/51,308&br;13,200G|泥水P4|
+|~|~|ピラニア大量発生！２|~|[[''レッドピラニア''>http://eco.acronia.net/itemdb/#id=2774]] 5個&br;[[''ブルーピラニア''>http://eco.acronia.net/itemdb/#id=2227]] 5個|51,308/30,785&br;13,200G|泥水P4|
+|~|BP系|オタマジャクシが欲しい|~|[[''オタマジャクシ''>http://eco.acronia.net/itemdb/#id=403]] 5個|61,569/61,569&br;13,200G|泥水P2|
+|~|~|水辺の掃除屋１|~|[[''ヤドカリ''>http://eco.acronia.net/itemdb/#id=2627]] 5個|46,177/76,961&br;13,200G|泥水P3|
+|~|~|水辺の掃除屋２|~|[[''ヤシガニ''>http://eco.acronia.net/itemdb/#id=2621]] 5個|76,961/46,177&br;13,200G|泥水P3|
+|~59-75|-|生ける宝石１|900分|[[''ブラックアロワナ''>http://eco.acronia.net/itemdb/#id=2184]] 3個&br;[[''ホワイトアロワナ''>http://eco.acronia.net/itemdb/#id=2373]] 3個&br;[[''グリーンアロワナ''>http://eco.acronia.net/itemdb/#id=829]] 3個|39,863/66,439&br;14,400G|泥水P1|
+|~|~|生ける宝石２|~|[[''レッドアロワナ''>http://eco.acronia.net/itemdb/#id=2770]] 3個&br;[[''イエローアロワナ''>http://eco.acronia.net/itemdb/#id=153]] 3個&br;[[''ブルーアロワナ''>http://eco.acronia.net/itemdb/#id=2220]] 3個|66,439/39,863&br;14,400G|泥水１，P4|
+|~|BP系|鋭い魚影を追え！|~|[[''ナイフフィッシュ''>http://eco.acronia.net/itemdb/#id=1735]] 5個|79,728/79,728&br;14,400G|泥水P4|
+|~|~|凶暴なアイツ１|~|[[''アリゲーターガー''>http://eco.acronia.net/itemdb/#id=116]] 5個|59,796/99,660&br;14,400G|泥水P4|
+|~|~|凶暴なアイツ２|~|[[''ワニガメ''>http://eco.acronia.net/itemdb/#id=2839]] 5個|99,660/59,796&br;14,400G|泥水P3|
+|~64-80|-|海鮮料理で朝食を！|900分|[[''イシダイ''>http://eco.acronia.net/itemdb/#id=169]] 2個&br;[[''アサリ''>http://eco.acronia.net/itemdb/#id=75]] 5個|60,486/60,486&br;15,600G|海水P3|
+|~|BP系|したたる脂に舌鼓１|~|[[''ブリ''>http://eco.acronia.net/itemdb/#id=2204]] 5個|68,047/113,411&br;15,600G|海水P3|
+|~|~|したたる脂に舌鼓２|~|[[''サバ''>http://eco.acronia.net/itemdb/#id=1078]] 5個|113,411/68,047&br;15,600G|海水P3|
+|~69-85|-|常連客へのおもてなし|900分|[[''ハモ''>http://eco.acronia.net/itemdb/#id=1970]] 2個&br;[[''ホタテ''>http://eco.acronia.net/itemdb/#id=2341]] 5個|67,734/67,734&br;16,800G|海水P3|
+|~|BP系|望郷の味１|~|[[''ホッケ''>http://eco.acronia.net/itemdb/#id=2345]] 5個|76,201/127,001&br;16,800G|海水P3|
+|~|~|望郷の味２|~|[[''ニシン''>http://eco.acronia.net/itemdb/#id=1796]] 5個|127,001/76,201&br;16,800G|海水P3|
+|~74-90|-|流行の兆し１|900分|[[''ネオンテトラ''>http://eco.acronia.net/itemdb/#id=1812]] 5個&br;[[''カーディナルテトラ''>http://eco.acronia.net/itemdb/#id=475]] 5個|80,364/80,364&br;18,000G|淡水P4|
+|~|BP系|お得意様の熱望１|~|[[''グローライトテトラ''>http://eco.acronia.net/itemdb/#id=852]] 5個|108,243/108,243&br;18,000G|淡水P4|
+|~79-95|-|流行の兆し２|900分|[[''レモンテトラ''>http://eco.acronia.net/itemdb/#id=2783]] 5個&br;[[''ラミーノーズテトラ''>http://eco.acronia.net/itemdb/#id=2697]] 5個|89,911/89,911&br;23,400G|淡水P4|
+|~|BP系|お得意様の熱望２|~|[[''キャッスルテトラ''>http://eco.acronia.net/itemdb/#id=728]] 5個|132,600/132,600&br;23,400G|淡水P4|
+|~84-100|-|流行の兆し３|900分|[[''ブラックファントムテトラ''>http://eco.acronia.net/itemdb/#id=2191]] 5個&br;[[''フレームテトラ''>http://eco.acronia.net/itemdb/#id=2240]] 5個|139,519/139,519&br;28,080G|淡水P4|
+|~|BP系|お得意様の熱望３|~|[[''ブラックテールエンジェルフィッシュ''>http://eco.acronia.net/itemdb/#id=2187]] 5個|175,406/175,406&br;28,080G|淡水P4|
+|~89-105|-|流行の兆し４|900分|[[''イエローテールエンジェルフィッシュ''>http://eco.acronia.net/itemdb/#id=154]] 5個&br;[[''レッドテールエンジェルフィッシュ''>http://eco.acronia.net/itemdb/#id=2772]] 5個|143,519/143,519&br;29,000G|淡水P4&br;2012/04/26報酬変更|
+|~|BP系|お得意様の熱望４|~|[[''ブルーテールエンジェルフィッシュ''>http://eco.acronia.net/itemdb/#id=2224]] 5個|184,399/184,399&br;29,000G|淡水P4&br;2012/04/26報酬変更|
+|~94-110|-|新鮮珍味二点盛り！|900分|[[''ウツボ''>http://eco.acronia.net/itemdb/#id=269]] 5個&br;[[''トビウオ''>http://eco.acronia.net/itemdb/#id=1701]] 5個|175,406/175,406&br;30,000G|海水P4|
+|~|BP系|優雅な魚が欲しい|~|[[''チョウチョウウオ''>http://eco.acronia.net/itemdb/#id=1542]] 5個|212,392/212,392&br;30,000G|海水P4|
+//|~|BP系||~|'''' 個|/&br;G||
+//|~|~||~|'''' 個|/&br;G||
+
+* 釣りクエスト コメント欄（Wikiの編集の苦手な方はこちらに） [#comment]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Tutorial#rdccae8]]にどうぞ。
+どんな些細な情報でもこちらにお願いします。
+#pcomment

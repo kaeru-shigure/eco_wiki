@@ -1,0 +1,24 @@
+# ドロップ率検証/ブリキング系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[機械知識>ドロップ率検証#gc548967]]
+
+***ブリキングRX1 [#a69a2c17]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ブリキの板|エレキテルの材料((CPU 1/11　メモリ 1/7　コイル 0/8　電卓 0/5　乾電池 3/6))|赤いコード|ポケコン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（209体）|106個（50.72％）|96個（45.93％）|5個（2.39％）|2個（0.96％）|0個（0.00％）|
+|知識あり（109体）|40個（36.70％）|30個（27.52％）|37個（33.94％）|1個（0.92％）|1個（0.92％）|
+
+***ブリキングカスタム [#td5af764]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ブリキの板|エレキテルの材料((CPU 2/0　メモリ 3/0　コイル 2/0　電卓 7/0　乾電池 2/0))|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|46個（46.00％）|38個（38.00％）|16個（16.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***ブリキングMkII [#w5c2dd35]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||ブリキの部品|マリオネット・エレキテル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（24体）|23個（98.95％）|1個（1.05％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|

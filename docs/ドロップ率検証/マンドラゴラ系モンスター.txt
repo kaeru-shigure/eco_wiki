@@ -1,0 +1,10 @@
+# ドロップ率検証/マンドラゴラ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***マンドラワサビ [#x9abe625]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||タムタム草|マリカ草|アボリー草|毒薬|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（50体）|29個（58.00％）|15個（30.00％）|5個（10.00％）|1個（2.00％）|

@@ -1,0 +1,7 @@
+# Favicon
+
+#freeze
+*現在のfaviconについて [#q043a84e]
+//#ref(http://jasmin.sakura.ne.jp/ecowiki_backup/img/ec.gamedb.info/favicon.ico,nolink)
+NoImage
+ECO関連ニュースサイト「[[YGGDRASIL:http://yggdrasil.main.jp/]]」のtetraさまより頂きました。

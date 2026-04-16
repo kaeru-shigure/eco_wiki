@@ -1,0 +1,39 @@
+# Hairsalon/Mononoke
+
+#author("2017-04-07T17:25:47+00:00","","")
+#include(Hairsalon/Menu,notitle)
+**物怪の紹介状（ECOくじ「和風はろうぃん」） [#mononoke]
+
+***男性 [#gaf584e7]
+|~物の怪が人に化けた時の髪型|
+|~しっとりロング　※つけ毛の有無・種類選択可能|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke.jpg,nolink,635x383);|
+|~しっとりロング　※つけ毛・たぬき耳|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke2.jpg,nolink,655x383);|
+|~しっとりロング　※つけ毛なし|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke3.jpg,nolink,705x383);|
+|~くるふわボブ　※つけ毛の有無・種類選択可能|
+|CENTER:画像募集中|
+|~くるふわボブ　※つけ毛・きつね耳|
+|CENTER:画像募集中|
+|~くるふわボブ　※つけ毛なし|
+|CENTER:画像募集中|
+***女性 [#w3946d1c]
+|~しっとりロング　※つけ毛の有無・種類選択可能|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke_long_kitune.jpg,nolink,850x259);|
+|~しっとりロング　※つけ毛・たぬき耳|
+|CENTER:NoImage|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke_long_tanuki.jpg,nolink);|
+|~しっとりロング　※つけ毛なし|
+|CENTER:NoImage|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke_long_nomal.jpg,nolink);|
+|CENTER:NoImage|
+//|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke_long_color.jpg,nolink);|
+|~くるふわボブ　※つけ毛の有無・種類選択可能|
+|CENTER:NoImage|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke_b2.jpg,nolink);|
+|~くるふわボブ　※つけ毛・きつね耳|
+|CENTER:NoImage|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke_b1.jpg,nolink);|
+|~くるふわボブ　※つけ毛なし|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/bobu_mimi_nasi.jpg,nolink,661x311);|

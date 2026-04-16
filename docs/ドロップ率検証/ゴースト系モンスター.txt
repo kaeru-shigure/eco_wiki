@@ -1,0 +1,17 @@
+# ドロップ率検証/ゴースト系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***ゴースト [#l454cdb9]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|たましいの粉|紋章紙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|62個（62.00％）|37個（37.00％）|1個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***スカーレットゴースト [#l67b9088]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|たましいの粉|紋章紙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|52個（52.00％）|47個（47.00％）|1個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

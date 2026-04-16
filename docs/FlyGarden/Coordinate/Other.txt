@@ -1,0 +1,227 @@
+# FlyGarden/Coordinate/Other
+
+#author("2017-04-07T18:21:22+00:00","","")
+#include(FlyGarden/Menu,notitle)
+*飛空庭コーディネート（その他） [#FlyingGarden_Miscellanea]
+#contents
+-[[飛空庭システム>FlyGarden]]
+-[[飛空庭コーディネート（外装）>FlyGarden/Coordinate]]
+-[[飛空庭コーディネート（内装）>FlyGarden/Coordinate/Interior]]
+-[[飛空庭コーディネート（装飾品）>FlyGarden/Coordinate/Accessories]]
+-公式サイト
+--[[飛空庭システム:http://www.econline.jp/option/garden/index.html]]
+-したらば掲示板：[[飛空庭スレッド>FlyGarden#thread]]
+-SS掲示板
+--[[ECO飛空庭関連あぷろだ>http://ecossup.my.land.to/FlyGarden/FlyGarden.htm]]
+--[[ECO飛空庭内装あぷろだ>http://ecossup.my.land.to/interior/interior.htm]]
+
+**染色の方法[#Paint]
+薬品合成で作成
+重量/容量（3/2）
+（青・紫・赤・橙色・黄色・黄緑・緑・白色・黒・水色）ペンキ
+蒸留水*5　オイル*5　各色ゼリコ*20
+飛行庭の部品を（　）に染色する。 
+
+[[インスタンスダンジョン>Quest/InstanceDungeon]]の宝箱（[[9>takarahako#zba9bf62]]/[[10>takarahako#zba9bf63]]/[[11>takarahako#ra8eca28]]/[[12>takarahako#ra8eca29]]）から色ゼリコとペンキが出る模様。
+色ゼリコはエンシェントアークの報酬で入手可能に。また、製造レシピも実装された。
+
+
+-家や床を染色したいのですが、どうやって染めるのですか？
+--染めたい色のペンキを1つのパーツにつき1個用意してください。&br;次に、ご自身の飛空庭に入って、ペンキをダブルクリックしてください。&br;自分の飛空庭にいない場合、「自分の飛空庭にいません。」と警告がでます。&br;ダブルクリックをすると、染色可能なパーツの一覧が出ますので、染めたい物を選べば染色の完了です。
+-家の染色についてですが、家が2つあった場合気分によって付け替えることで色を変える事はできるのでしょうか？&br;たとえばタイニー（青）をタイニー（無）に変えてペンキで赤にした後、タイニー（青）に戻すことは可能でしょうか？ 
+--可能です。&br;染色した家にはアイテムの「戦闘」の項目に「鑑定済み　○○色に染色済み」とでますので、&br;家(アイテム)ごとに色が記録されます。&br;ちなみにリムーバーで色を落とさなくてもペンキの上塗りは可能です。
+
+|>|>|LEFT:~色ゼリコの入手|h
+|>|>||
+|LEFT:|LEFT:|LEFT:|c
+|~ゼリコ|~入手元|~備考|
+|青いゼリコ|プルル&br;フランカーパイレーツ&br;合成失敗物100個と交換&br;コンテナ５|-&br;-&br;アクロジャンク屋&br;-|
+|赤いゼリコ|キャタピラー&br;オーカージェリー&br;南国ペペン&br;パイレーツボマー&br;合成失敗物100個と交換&br;ガンラ&br;木箱６&br;宝箱１１&br;コンテナ５/６|-&br;-&br;-&br;-&br;サウスジャンク屋&br;無限回廊１０Ｆ&br;-&br;-&br;-|
+|黄色いゼリコ|サンドクローラー&br;合成失敗物100個と交換&br;フイラ&br;宝箱１１&br;コンテナ６|-&br;モーグジャンク屋&br;無限回廊１５Ｆ&br;-&br;-|
+|黄緑のゼリコ|サラダアーチン&br;ガンラ&br;木箱７&br;宝箱８/９/１１&br;コンテナ５|-&br;無限回廊１０Ｆ&br;-&br;-&br;-|
+|黒いゼリコ|コールタール&br;オイリー&br;モーリー&br;合成失敗物100個と交換&br;ミンラ/リンラ/クイラ/エンラ/フイラ&br;宝箱１１&br;コンテナ５|-&br;-&br;ウェストフォートジャンク屋&br;無限回廊４０Ｆ/３５Ｆ/２５Ｆ/２０Ｆ/１５Ｆ&br;-&br;-|
+|白いゼリコ|ミルクピッチャー&br;コランダム||
+|橙色のゼリコ|アンバージェリー&br;ラバープルル&br;フルフル&br;ケウラ&br;宝箱１１&br;コンテナ５|-&br;-&br;-&br;無限回廊５Ｆ&br;-&br;-|
+|水色のゼリコ|クール&br;ケウラ&br;宝箱１１/１３&br;コンテナ５/６|要植物知識&br;無限回廊５Ｆ&br;-&br;-|
+|緑のゼリコ|クローラー&br;でかクローラー&br;グリーンプルル&br;ケウラ&br;木箱７&br;宝箱８/９&br;コンテナ５|-&br;-&br;-&br;無限回廊５Ｆ&br;-&br;-&br;-|
+|紫のゼリコ|エルダーワーム&br;メイジプルル&br;合成失敗物100個と交換&br;フイラ/ガンラ&br;コンテナ５/６|-&br;-&br;トンカジャンク屋&br;無限回廊１５Ｆ/１０Ｆ&br;-|
+&br;
+|>|>|LEFT:~ペンキの入手|h
+|>|>||
+|~ペンキ|~入手元|~備考|
+|青ペンキ|薬品合成&br;フランカーパイレーツ&br;宝箱１０/１１/１２|-&br;要知識&br;-|
+|赤ペンキ|薬品合成&br;パイレーツボマー&br;宝箱１０/１２|-&br;要知識&br;-|
+|黄色ペンキ|薬品合成&br;宝箱９/１１/１２||
+|黄緑ペンキ|薬品合成&br;宝箱９/１１/１２||
+|黒ペンキ|薬品合成&br;宝箱９/１１||
+|白ペンキ|薬品合成&br;宝箱９/１１||
+|橙色ペンキ|薬品合成&br;宝箱９/１１/１２||
+|水色ペンキ|薬品合成&br;宝箱１１||
+|緑ペンキ|薬品合成&br;宝箱９/１１||
+|紫ペンキ|薬品合成&br;宝箱１０/１１||
+&br;
+
+**レコードプレイヤー、蓄音機、ゲリラライブ(BGMの変更)[#RecordPlayer]
+-家具アイテムのレコードプレーヤー、蓄音機と後述のレコード、
+ウァテス二次職テクニカルジョブ、バードのスキル「ゲリラライブ」を使用することにより
+飛空庭の中と外のBGMを変更することが出来ます。
+
+
+***レコードプレーヤー（又は蓄音機）の使い方 [#k24fdaa9]
+&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RecordPlayer.jpg,nolink,150x150);
++レコードプレーヤー（又は蓄音機　以下省略）といずれかのレコードを用意します。
+-レコードプレーヤーはエレキテルラボの景品またはコンテナや宝箱から、
+蓄音機はECOタウンショップゾーンの家具屋ジュグラーから1000ecoin（＝100,000Gold）で入手。
++レコードを飛空庭所持状態で使用してください。（&color(red){レコードは消滅します};）
++飛空庭にレコードプレーヤーを設置して使用→レコードを再生するを選んでください。
++使用したレコードのタイトルが選べるようになります
++レコードを選ぶとさらに曲を選択できます
+//（※1枚につき4曲+1曲）
++曲を選ぶと飛空庭の音楽が変更されます
+
+-現在誰でも曲の変更ができます。お客様でも曲の変更が可能です。
+-現時点で、レコードプレーヤーを撤去しても音楽はそのまま有効です。
+-家の中と外でそれぞれ曲を選べます
+--家の中で曲を設定した後、プレイヤーを撤去し（曲の設定はそのまま有効です）、家の外に再設置して曲を指定します。
+-レコードは家具としての設置数には含まれません
+-レコードを止めるを選ぶと従来の曲（キャラクター選択時の曲）に戻ります。
+（&color(red){ゲリラライブで設定した曲でも戻ってしまうので注意};）
+-レコードプレーヤーを他の飛空庭に持ち込んでも、そこの飛空庭（アカウント）でセットされているレコードしか再生できません
+--レコードのセット情報はアカウント単位で管理されているようです。
+--レコードを使用して曲をセットした後、プレイヤーを他人に譲渡しても設定された曲はそのまま残ります。
+--同じアカウントに飛空庭が２台ある場合レコード情報は共通になるので同じレコードを２枚集める必要はありません。
+
+***ゲリラライブ [#ja8fa8e9]
+-スキルに関してはバードの項目を参照。→[[ゲリラライブ・スキル説明>Skill/Bard#GuerrillaLive]]
+-「ゲリラ」ライブと言うだけあり、他人の飛空庭でも曲の変更ができます。
+-レコードと同じく、一度設定したらログアウトしても曲はそのまま維持されます。
+
+***レコードの曲目一覧[#RecordContents]
+ゲリラライブで選ぶことのできない曲は青色で表記してあります。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/image/RecordHajimariNoUta.jpg,nolink,36x36);''始まりの詩''
+-dear my friends（ダウンタウン）
+-&color(blue){Life（アップタウン）};
+-&color(blue){the Palace（ギルド元宮）};
+-&color(blue){Sacred duties（聖堂）};
+-&color(blue){Ceaseless conflict（タイタニア転送室とか）};
+
+&ref(http://eco.acronia.net/img/gamedb_info/eco/image/RecordIronsouthKoukyoukyoku.jpg,nolink,36x36);''アイアンサウス交響曲''
+-&color(blue){Beyond the Destiny（蜂峠とか）};
+-&color(blue){Sea of Sand（サウスリン岬とか）};
+-&color(blue){Day-to-day, Sweet-to-sweet（アイアンサウスシティ）};
+-&color(blue){Dance in the shadows(サウスD)};
+-&color(blue){Flair for life（トンカ・農場とか）};
+
+&ref(http://eco.acronia.net/img/gamedb_info/eco/image/RecordTatakaiNoSymphony.png,nolink,38x38);''戦いのシンフォニー''
+-&color(blue){Over the infinite helix（無限回廊）};
+-&color(blue){Down to the danger（大陸D初層）};
+-&color(blue){Coming danger, Incoming crisis（廃炭坑）};
+-Crushed darkness（大陸D深層etc）
+-theme of Dominion (遺跡インスタントDのBOSS部屋)
+
+&ref(http://eco.acronia.net/img/gamedb_info/eco/image/RecordNorthernGensouKyoumeiKyoku.png,nolink,38x38);''ノーザン幻想共鳴曲''
+-&color(blue){The world of curiosity（スノップ追分とか）};
+-&color(blue){Alone in the snowstorm（北限とか）};
+-&color(blue){Snow mirage（ノーザン王国とか）};
+-&color(blue){Phantasmagoria（ノーザンDとか）};
+-Holy day, Holy night（クリスマス）
+
+&ref(http://eco.acronia.net/img/gamedb_info/eco/image/RecordAcroniaNoKodou.png,nolink,38x38);''アクロニアの鼓動''
+-&color(blue){good morning（アクロニア平原とか）};
+-&color(blue){FAR AND AWAY（ファーイースト街道とか）};
+-&color(blue){Play in the wilderness（モースグ崖とか）};
+-&color(blue){time（東海岸とか）};
+-&color(blue){The Laughing Man（ハロウィン）};
+
+&ref(http://eco.acronia.net/img/gamedb_info/eco/image/RecordFareastOngakukai.png,nolink,38x38);''ファーイースト音楽祭''
+-&color(blue){Dance to the breeze（イストーとか）};
+-&color(blue){easygoing（モーモー草原とか）};
+-&color(blue){Idyllic journey（ファーイーストシティ）};
+-&color(blue){memories（アンデッド城外）};
+-theme of Emil(飛空庭マップ移動時・アップタウン演習場とか)
+
+&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Other/RecordHirakareruDaichi.jpg,nolink,36x36);''拓かれる大地''
+-&color(blue){Lands for Groundbreaker};
+-&color(blue){Lands for Groundbreaker (Field Ver)};
+-&color(blue){Living Together in a Village};
+
+&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Other/RecordKooriNoJyououNoTuioku.jpg,nolink,36x36);''氷の女王の追憶''
+-&color(blue){the wisdom};
+-&color(blue){Sorrow ends before long};
+
+&ref(http://eco.acronia.net/img/wiki/FlyGarden/other/RecordSekisyokuNoKodaitoshi.jpg,nolink,36x36);''赤蝕の古代都市''
+-&color(blue){empire of the sun};
+-&color(blue){moonlight caravan};
+-&color(blue){ruins of sand};
+-&color(blue){Messenger from ancient times};
+
+&ref(http://eco.acronia.net/img/wiki/FlyGarden/other/RecordTatakaiNoSymphony2.jpg,nolink,36x36);''戦いのシンフォニー２''
+-&color(blue){seeker of the abyss};
+-&color(blue){lightning break forth};
+-&color(blue){Song for Battle Field};
+-&color(blue){Massive conflict};
+-&color(blue){The Time has come};
+-&color(blue){ARISE};
+
+※詳細は[[BGM>BGM]]を参照
+
+***ゲリラライブの曲目一覧 [#gdc1fce3]
+レコードプレーヤーで選ぶことのできない曲は青色で表記してあります。
+-''LV1''
+dear my friends(ダウンタウン)
+&color(blue){Feel free![旧名:Harvest](下町酒屋、宝石店etc)};
+&color(blue){Lucky!(タイニーアイランド)};
+Happy Merry feeling(飛空庭初期設定曲) 
+-''LV2''
+Crushed darkness(大陸D深層etc)
+&color(blue){Portion in life(アンデッド城)};
+&color(blue){Step to the fate(イーストD)};
+-''LV3''
+theme of Dominion(遺跡インスタントDのBOSS部屋)
+&color(blue){theme of Titania(ヨーコさんの家)};
+theme of Emil(飛空庭マップ移動時・アップタウン演習場とか) 
+-''LV4''
+&color(blue){Crispy winey early spring(正月)};
+&color(blue){HANAMI(花見)};
+Holy day,Holy night(クリスマス) 
+-''LV5''
+&color(blue){Sound of the ruin(ドミニオン世界)};
+&color(blue){my country(チュートリアル)};
+&color(blue){break through the parallel(ウォーターレイアー)};
+
+※詳細は[[BGM>BGM]]を参照
+
+**飛空庭小技集 [#w12df7d2]
+***設置物を重ねる・浮かせる [#w9304e56]
+-どの家具や小物やパートナーも、位置を調整することにより重ねることができます。
+-家具を積み重ねた後、下に設置してある家具を撤去すると上の家具は浮いたままの状態になります。
+--これらを利用して変わった配置をすることができます。
+
+***部屋の外にタンスを配置する方法[#Exterior_Hidden_Chest]
+-部屋の外にタンスがあると、キャパオーバーの状態で飛空庭に入っても倉庫の利用が可能になるメリットがあります。
+-しかし、庭にタンスを置くのには違和感があって抵抗があるのも事実。
+-ここでは部屋の外にタンスを置いても、見た目を損なわない方法を紹介します。
+
+タンスはそれを置くだけで、飛空庭倉庫の容量を＋１０してくれます。
+逆にいえば、飛空庭倉庫の上限である１００にするためには最高１０個配置しなければなりませんし、
+家の外や庭にタンスを置くのには違和感があって抵抗がある！
+
+そんな方のために～
+
+一見なんの変哲も無い家ですが・・・
+&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HiddenChest01.jpg,nolink,300x155);
+
+家の影には・・・・
+&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HiddenChest02.jpg,nolink,300x155);
+
+操作パネルで家を撤去したあと、タンスなどを隠れるように配置して
+再度、家を設置するだけです。
+応用としては、家にピッタリ隣接したポストや、窓の枠に沿ったガスランプ
+家の屋根の上に鯉のぼりなどを配置することが出来ます。
+
+もちろん、家の影に隠れていますが、ちゃんとタンスにアクセスして飛空庭倉庫を外から使うことも可能です。
+また、家を撤去しても家の内部の内装の配置等には影響はありません。
+
+* コメント欄 [#s9ea94a0]
+
+#pcomment

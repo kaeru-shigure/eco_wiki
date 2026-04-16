@@ -1,0 +1,75 @@
+# Quest/Season/Setsubun2014
+
+*節分イベント2014 [#j6e6c066]
+RIGHT:&edit(,noicon){Setsubun2014を編集};
+#contents
+-期間： COLOR(red):''2014年1月30日（木）定期メンテナンス終了後～2014年2月27日（木）定期メンテナンス開始まで''
+
+**公式の告知 [#a507c04b]
+“守護魔・キサラギ”は見た！気になるバレンタインの恋愛模様をお届け＋節分イベントも開催中♪
+http://econline.gungho.jp/news/event/event/season_of_20140130valentine.html
+
+**イベント内容 [#x27baed2]
+参考：[[2013年の節分>/Quest/Season/Setsubun2013]]
+
+***鬼は外！インスマウスたちと豆まき! [#o5ce5da6]
+|CENTER:|CENTER:|c
+|~イベント内容|~貰えるアイテム|h
+|LEFT:|LEFT:|c
+|>|~鬼の札＆節分の豆|
+|東西南北アクロニア平原のインスマウスから入手&br;(何度でも入手可)|[[節分の豆>http://eco.acronia.net/itemdb/#id=1401]]&br;&br;[[赤鬼の札>http://eco.acronia.net/itemdb/#id=49]]：東平原&br;[[青鬼の札>http://eco.acronia.net/itemdb/#id=33]]：西平原&br;[[桃鬼の札>http://eco.acronia.net/itemdb/#id=2602]]：南平原&br;[[灰鬼の札>http://eco.acronia.net/itemdb/#id=1913]]：北平原|
+
+CENTER:鬼の札を使って鬼になっている人に豆を投げてみると・・・
+
+***らくがき?! 鬼のお面 [#s5c92069]
+|>|~鬼のお面|
+|イベント期間中、&br;ダウンタウンのらくがきマシンから入手可能。&br;通常のらくがきペーパーも出てくる。&br;（[[紙>http://eco.acronia.net/itemdb/#id=589]]が必要）|[[鬼のお面>http://eco.acronia.net/equipdb/#id=583]]&br;[[鬼のお面（１本角付）>http://eco.acronia.net/itemdb/#id=583]]&br;のどちらか|
+時々インクが切れる。その時はダウンタウンの「北側の露店店員」か「時を知る占い師レミア」から[[インクセット>http://eco.acronia.net/itemdb/#id=237]]を買って補充する。自分で作ってもいい。
+
+***鬼姫が失踪!? [#q290ea2f]
+迷子になっている鬼姫（モミジ）を見つけ、鬼侍従のもとへ連れて行く。
+|CENTER:|CENTER:|c
+|~順序|~内容／備考|h
+|LEFT:|LEFT:|c
+|1.鬼の寝床岩|鬼姫の従者（鬼侍従）に鬼姫を探すように言われる&br;北に向かったと言うのでノーザンプロムナードへ|
+|2.ノーザンプロムナード|ダーリンとハニー近く&br;アクロポリスのダウンタウンに向かっている途中と言われる&br;南の方角に行くと言って消える|
+|3.西アクロニア平原|北西の端にある木の前&br;座標(24.26)キラービーの峠道へのWPをずっと北へ|
+|4.イストー岬|リューの近くのいす|
+|5.ダウンタウン|北側階段前|
+|6.鬼の寝床岩|[[子鬼のぬいぐるみ>http://eco.acronia.net/equipdb/#id=2190]]4種のいずれか一つが貰える（1キャラ1個）&br;・子鬼のぬいぐるみ（赤）&br;・子鬼のぬいぐるみ（青）&br;・子鬼のぬいぐるみ（緑）&br;・[[肩のせぐるみ（鬼姫）>http://eco.acronia.net/equipdb/#id=4366]]&br;&br;※肩のせぐるみは、もう一度話しかけることで[[鬼姫のぬいぐるみ>http://eco.acronia.net/itemdb/#id=423]]（家具）と交換できる&br;　ただし&color(red){交換したものを元に戻すことはできない};ので注意 |
+
+***ecoinショップラインナップ追加 [#r9200312]
+ECOタウンのアトラクションゾーンにいる「景品交換所」に以下のアイテムが追加される。（2/1～2/28?）
+レート:100Gold⇒1ecoin
+購入できるのは2013年まで行われていた「[[豆を届けろ!>Quest/Season/Setsubun2013#r9200312]]」「[[散らばった宝玉を探せ!>Quest/Season/Setsubun2013#sa97e93f]]」イベントで入手できたアイテム。
+
+|CENTER:|CENTER:||CENTER:|CENTER:|c
+|>|~新作3||>|~新作4|h
+|CENTER:|CENTER:||CENTER:|CENTER:|c
+|~アイテム|~値段||~アイテム|~値段|
+|LEFT:|RIGHT:||LEFT:|RIGHT:|c
+|[[鬼の服♂>http://eco.acronia.net/equipdb/#id=560]]|200e||[[雷神アフロ（赤鬼）>http://eco.acronia.net/equipdb/#id=1603]]|100e|
+|[[鬼の服♀>http://eco.acronia.net/equipdb/#id=561]]|200e||[[雷神アフロ（青鬼）>http://eco.acronia.net/equipdb/#id=1603]]|100e|
+|[[鬼のパンツ>http://eco.acronia.net/equipdb/#id=562]]|100e||[[雷神アフロ（緑鬼）>http://eco.acronia.net/equipdb/#id=1603]]|100e|
+|[[鬼神の仮面>http://eco.acronia.net/equipdb/#id=1873]]|100e||[[雷神アフロ（黄鬼）>http://eco.acronia.net/equipdb/#id=1603]]|100e|
+|[[鬼の金棒>http://eco.acronia.net/equipdb/#id=563]]|200e||[[雷神アフロ（桃鬼）>http://eco.acronia.net/equipdb/#id=1603]]|100e|
+|[[鬼っ子ブーツ>http://eco.acronia.net/equipdb/#id=1577]]|100e||[[雷神アフロ（黒鬼）>http://eco.acronia.net/equipdb/#id=1603]]|100e|
+|[[般若の盾>http://eco.acronia.net/equipdb/#id=1601]]|350e||||
+|[[雷神太鼓>http://eco.acronia.net/equipdb/#id=1604]]|450e||||
+
+***酒屋クエストの追加 [#q469b869]
+
+|~Lv|~クエスト名|~時間|~内容|~EXP&br;報酬|~備考|h
+|~5-110|鬼がでたぞーー！|1440分|ダウンタウンの酒屋の''マドンナ''&br;→鬼ノ寝床岩の''ナイン''&br;節分の豆（クエスト）1個|820/820&br;12,000G|一回目：[[１本角>http://eco.acronia.net/equipdb/#id=558]]&br;二回目：[[２本角>http://eco.acronia.net/equipdb/#id=559]]&br;三回目：なし|
+
+***期間中の変更 [#qa7db1c9]
+-都市攻防戦 節分モンスター出現
+-ECO タウン　アトラクションゾーンポスター変更
+-シアターポスター変更
+
+***掲示板関連スレッド [#e600a851]
+【鬼っ娘】ルーミックワールド【節分】
+http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1138959236/
+
+**節分イベントコメント欄 [#ye9753a4]
+#pcomment

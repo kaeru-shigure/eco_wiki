@@ -1,0 +1,6 @@
+# Editor
+
+#freeze
+//スパムはきていないため編集リンク設置
+&edit(Editor/contents,noicon){Editorを編集};
+#include(./contents,notitle)

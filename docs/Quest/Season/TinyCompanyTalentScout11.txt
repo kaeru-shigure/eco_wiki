@@ -1,0 +1,49 @@
+# Quest/Season/TinyCompanyTalentScout11
+
+*タイニー・かんぱにー～人材発掘編～　「センパイのおしごと」 [#Top_TinyCompany]
+RIGHT:&edit(,noicon){TinyCompanyTalentScout11を編集};
+#contents
+
+-期間： COLOR(red):''2015年10月22日(木)定期メンテナンス終了後 ～ ''
+
+**公式の告知 [#Press_TinyCompany]
+タイ兄さんとアルマたちのワンダフルストーリー！タイニー・かんぱにー
+http://econline.gungho.jp/special/tinycompany/
+
+**これまでの依頼 [#Past_TinyCompany]
+完了していない依頼は好きな順番で受けることができる。
+01月:[[「鉄腕少女ブリキング」>Quest/Season/TinyCompanyTalentScout01]]
+02月:[[「少女B」>Quest/Season/TinyCompanyTalentScout02]]
+03月:[[「ハートの切り札」>Quest/Season/TinyCompanyTalentScout03]]
+04月:[[「コミックガール・ウィスプちゃん」>Quest/Season/TinyCompanyTalentScout04]]
+05月:[[「リトルシューター」>Quest/Season/TinyCompanyTalentScout05]]
+06月:[[「ふたりでおかいもの」>Quest/Season/TinyCompanyTalentScout06]]
+07月:[[「鳥が先か卵が先か」>Quest/Season/TinyCompanyTalentScout07]]
+08月:[[「姉のために、妹のために、自分のために」>Quest/Season/TinyCompanyTalentScout08]]
+09月:[[「都会の空、マジヤバイ」>Quest/Season/TinyCompanyTalentScout09]]
+10月:[[「あぶないふたり」>Quest/Season/TinyCompanyTalentScout10]]
+
+また、依頼を一定数こなす度に別途イベントが発生する。
+イベントまとめ：[[タイニー・かんぱにー～人材発掘編～>Quest/Season/TinyCompanyTalentScout]]
+
+**イベント内容 [#Event_TinyCompany]
+[[過去の通年イベント>Quest/Season/Log#yearround]]の様に選択肢によって分岐があるかは不明。
+-未就職状態ではチュートリアルの「だいじなおしごと」以降を１話終える毎に手紙が届く。
++アップタウン・ギルド元宮の入口の傍にいる、｢古びたガイドマシーン｣に話しかけてタイ兄さんの飛空城に移動する。
++就職していない場合、タイ兄さんの飛空城に居る｢タイ兄さん｣に話しかけ、タイニー・かんぱにーに就職する。
++「タイ兄さん」に話しかけ、「センパイに会いにいこう」を受諾する。
++南ウテナ開拓地（101, 87）の「古びたガイドマシーン」に話しかける。
++（55, 191）周辺の「サンドラット・アルマ」か「マタンガ・アルマ」に話しかける。
++（153, 103）周辺の「サンドラット・アルマ」か「マタンガ・アルマ」に話しかける。
++（99, 82）周辺の「サンドラット・アルマ」か「マタンガ・アルマ」に話しかける。
++タイ兄さんの飛空城の「サンドラット・アルマ」か「マタンガ・アルマ」に話しかける。
+--''｢サンドラットのシッポ(※)｣''（※は黄・紺・白の全3色、うち1個を選択）と10Goldを入手。
+---Goldはここまでの依頼を全て達成している場合の金額です。
+**タイ兄さんの飛空城 [#Guild]
+***EXイベント [#x7574a03]
+-上記のイベントをクリアした後、タイ兄さんの飛空城にいる「サンドラット・アルマ」か「マタンガ・アルマ」に話しかけると
+｢[[EXイベントチケット>http://eco.acronia.net/itemdb/#id=285]]｣ 3枚と交換で''｢ボンボン飾りのブーツ(※)｣''を入手できる。
+--※はオレンジ・赤・青の全3種
+
+**タイニー・かんぱにー～人材発掘編～ 関連コメント欄 [#Comment_TinyCompany]
+#pcomment(,20)

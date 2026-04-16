@@ -1,0 +1,122 @@
+# FlyGarden/Coordinate/SFurniture
+
+#author("2017-04-07T17:13:35+00:00","","")
+#include(FlyGarden/Menu,notitle)
+
+*小型家具 [#yfebf115]
+
+#contents
+
+***じゅうたん [#vab35e8f]
+|>|>|>|LEFT:~じゅうたん|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|じゅうたん（小）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanShou.jpg,nolink,150x150);|家具屋共通&br;5000G||
+|じゅうたん小(青空)|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanShouAozora.png,nolink,150x150);|||
+|じゅうたん小（お花）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanShouOhana.jpg,nolink,150x150);|トンカ&br;5000G|金曜日|
+|じゅうたん小（ホワイトデー）|-|ECOホワイトデー2007||
+|じゅうたん小（ココッコー）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanShouKokokko-.png,nolink,150x150);|平原スタンプ&br;大陸の洞窟スタンプ&br;アイアンサウススタンプ||
+|じゅうたん小（ゴージャス）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanShouGorgeous.jpg,nolink,150x150);|裁縫Lv2|毛糸:50&br;マナウォーター:25&br;裁縫道具|
+|じゅうたん小（ござ）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanShouGoza.jpg,nolink,150x78);|ECOひなまつり2007&br;カジノ景品交換所（3月・9月） 150e||
+|あじさいのじゅうたん小|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AjisaiNoJuutanShou.jpg,nolink,150x150);|ばいばい×ばいお×ばいうぜんせん！||
+|じゅうたん（大）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanDai.jpg,nolink,150x150);|木箱1/2/3/4/6||
+|じゅうたん大（青空）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanDaiAozora.jpg,nolink,150x150);|平原スタンプ&br;大陸の洞窟スタンプ||
+|じゅうたん大（お花）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanDaiOhana.jpg,nolink,150x137);|大陸の洞窟スタンプ||
+|じゅうたん大（ゴージャス）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanDaiGorgeous.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|じゅうたん大*1（木曜日）|
+|じゅうたん大（ござ）|-|ECOひなまつり2007&br;カジノ景品交換所（3月・9月） 150e||
+|じゅうたん大（ホワイトデー）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/JuutanDaiWhiteDay.jpg,nolink,150x150);|ECOホワイトデー2007||
+|絆の小道|-|ジューンブライトロマンス2007||
+|タイニーじゅうたん|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/tiny_jutan.jpg,nolink,150x150);|ECOプレイチケット第5弾||
+|ゼブラの敷物|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292889791937.jpg,nolink,150x150);|ECOプレイチケット第9弾||
+|毛皮のじゅうたん（白熊）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/PolarBearCarpet.jpg,nolink,150x149);|ECOくじ ホワイト&ミリタリー||
+|ゴシックラグマット（紫）|画像募集中|ECOくじ 水月の待ち人||
+|ゴシックラグマット（赤）|画像募集中|ゴシックラグマット（紫）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|ゴシックラグマット（白）|画像募集中|ゴシックラグマット（紫）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|ゴシックラグマット（茶）|画像準備中|ECOくじ 時計塔のヒミツの研究|（緑）（ベージュ）に染色可|
+|じゅうたん小（ソードマン）|-|家具「機織機」による作成||
+|じゅうたん小（フェンサー）|-|~||
+|じゅうたん小（スカウト）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_scout.jpg,nolink,150x150);|~||
+|じゅうたん小（アーチャー）|-|~||
+|じゅうたん小（スペルユーザー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/superuyu-za-.jpg,nolink,150x150);|~||
+|じゅうたん小（タタラベ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_tatarabe.jpg,nolink,150x150);|~||
+|じゅうたん小（マシンナリー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_machinery.jpg,nolink,150x150);|~||
+|じゅうたん小（ファーマー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/fa-ma-juutan.jpg,nolink,150x150);|~||
+|じゅうたん小（アルケミスト）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/arukemisutojuutan.jpg,nolink,150x150);|~||
+|じゅうたん小（マリオネスト）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/marionesutojuutan.jpg,nolink,150x150);|~||
+|じゅうたん小（レンジャー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_ranger.jpg,nolink,150x150);|~||
+|じゅうたん小（マーチャント）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_merchant.jpg,nolink,150x150);|~||
+|丸じゅうたん|-|||
+|丸じゅうたん（青）|-|||
+|丸じゅうたん（紫）|-|||
+|丸じゅうたん（緑）|-|||
+|丸じゅうたん（桃）|-|||
+|じゅうたん（ダークフェザー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_dark-feather.jpg,nolink,150x150);|2012年通年イベント「絆の樹」（終了）&br;チュートリアル全話終了後、&br;アミスの飛空庭のデス・アルマからECO券4枚と交換||
+|じゅうたん（バウ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_baw.jpg,nolink,150x150);|~||
+|じゅうたん（シャボタン）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_shabotan.jpg,nolink,150x150);|~||
+|じゅうたん（ローキー）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/other/lowkey.jpg,nolink,150x150);|~||
+|じゅうたん（バルル）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_baruru.jpg,nolink,150x150);|~||
+|じゅうたん（シーホース）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/other/seahorse.png,nolink,150x150);|~||
+|じゅうたん（ペペン）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/other/pepen.jpg,nolink,150x150);|~||
+|じゅうたん（サラマンダー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_salamander.jpg,nolink,150x150);|~||
+|じゅうたん（ミニー・ドゥ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_minnie.jpg,nolink,150x150);|~||
+|じゅうたん（白い使い魔）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_siroi-tsukaima.jpg,nolink,150x150);|~||
+|じゅうたん（オートメディック）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_automedic.jpg,nolink,150x150);|~||
+|じゅうたん（デス）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_death.jpg,nolink,150x150);|~||
+|じゅうたん（プルル）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/other/plulu_carpet.jpg,nolink,150x150);|~||
+|じゅうたん（リリム）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/juutan_ririmu.jpg,nolink,150x150);|||
+
+***その他 [#l336875b]
+|>|>|>|LEFT:~その他|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|花瓶|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Kabin.jpg,nolink,150x150);|高度金属精錬|プリザーブドフラワー:1&br;ガラス生地:3&br;タタラ炉|
+|花瓶（赤）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KabinAka.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|花瓶*2（月曜日）|
+|カーネーションの壁掛け花瓶|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CarnationNoKabekakeKabin.jpg,nolink,150x150);|MYSTERIOUS CARNATION||
+|ペインティングスタンド|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PaintingStand.jpg,nolink,150x150);|木箱1/2/4/6/7&br;宝箱1/3/4/5/6||
+|ペインティングスタンド（鉄）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PaintingStandTetsu.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ペインティングスタンド*2（火曜日）|
+|サインボード|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/SFurniture/Signboard.jpg,nolink,150x149);|ECOくじ ウィンターストリートカフェ|（白）に染色可能|
+|大きな古時計|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OokinaFurudokei.jpg,nolink,150x150);|コンテナ1/2/5||
+|大きな古時計（シック）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OokinaFurudokeiShick.jpg,nolink,102x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|大きな古時計*1（木曜日）|
+|機械仕掛けの柱時計(茶)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/SFurniture/Kikaijikake_b.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/SFurniture/Kikaijikake_w.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/SFurniture/Kikaijikake_g.jpg,nolink,150x149);|ECOくじ 時計塔のヒミツの研究|（白）（緑）に染色可&br;「使う」で振り子が動く|
+|壁時計|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KabeDokei.jpg,nolink,150x150);|コンテナ1/2/5||
+|壁時計（緑）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KabeDokeiMidori.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|壁時計*1（水曜日）|
+|レコードプレーヤー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RecordPlayer.jpg,nolink,150x150);|コンテナ1/2/4|[[詳細>FlyGarden/Coordinate/Other]]|
+|レコードプレイヤー（赤）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RecordPlayerAka.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|レコードプレイヤー*1（金曜日）|
+|蓄音機|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/tikuonki.jpg,nolink,150x150);|ECOタウン家具屋ジュグラー　1000ecoin||
+|スイーツクッション|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/sweetscushion.jpg,nolink,150x150);|ECOプレイチケット第10弾||
+|にくきゅうクッション|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/299_Cushion.jpg,nolink,150x138);|ECOくじDX|「使う」で音が鳴る|
+|カラーテレビ（りんご）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292890404012.jpg,nolink,150x150);|ドミニオン界アイテムBOX かわいい|「使う」で画像が流れる|
+|カラーテレビ（カエル）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ColorTVKaeru.jpg,nolink,150x150);|ドミニオン界アイテムBOX かっこいい|「使う」で画像が流れる|
+|黒電話|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1247735344505.jpg,nolink,150x150);|ECOくじDX|｢使う｣で電話が鳴る|
+|てんびん座のおおきなはかり|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1293477094075.jpg,nolink,150x150);|ECOくじ Ver.9||
+|てんびん座のおおきなはかり☆|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248962592815.jpg,nolink,150x150);|ECOくじ 真夏のアンコール(１２星座)||
+|和風の衝立|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/tsuitate.jpg,nolink,100x150);|2009年年賀メールお年玉くじ||
+|アジアンつい立て|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1302271180497.jpg,nolink,150x150);|カジノ景品交換所（5月）&br;1200e||
+|ロングパーテーション（新緑）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/SFurniture/ss20150506_152127.jpg,nolink,150x150);|ECOくじ プリティロリータデビル|（黒壇）に染色可|
+|音楽堂の緞帳|-|ECOくじ Ver.14||
+|バスケのゴール|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BaskeNoGoal.jpg,nolink,150x150);|ECOプレイチケット第11弾|「使う」でボールのアニメーション|
+|美術部のイーゼル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BijutsubuNoEasel.jpg,nolink,150x150);|ECOプレイチケット第11弾|「使う」でイーゼルに絵が出る|
+|小さな扇風機|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1302271360824.jpg,nolink,150x150);|カジノ景品交換所（2月・8月）&br;1200e|「使う」で回る|
+|大きな扇風機|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1302271628608.jpg,nolink,150x150);|カジノ景品交換所（2月・8月）&br;1500e|「使う」で回る|
+|サーキュレーター（小）|-|カジノ景品交換所（3月・9月）&br;1200e||
+|サーキュレーター（大）|-|カジノ景品交換所（3月・9月）&br;1500e||
+|ミラーボール（ホワイト）|-|カジノ景品交換所（4月・10月）&br;1200e||
+|ミラーボール（ピンク）|-|カジノ景品交換所（4月・10月）&br;1200e||
+|名探偵のチェスボード|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1293477243501.jpg,nolink,150x150);|ECO Shop 6000ShopPoint &br;（期間限定） &br;もてなしタイニースタンプ10個の景品|「使う」でチェス対戦のモーション|
+|アンティークワゴン|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AntiqueWagon.jpg,nolink,150x150);|宝箱15||
+|足踏みミシン|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/asibumimisin.jpg,nolink,150x150);|||
+|機織機|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/hataoriki.jpg,nolink,150x150);|||
+|古風なふすま|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KofuuNaFusuma.jpg,nolink,150x150);|和風な家具職人 &br;EXイベントチケット1枚と交換||
+|おしゃれなふすま|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OshareNaFusuma.jpg,nolink,150x150);|和風な家具職人 &br;EXイベントチケット1枚と交換||
+|すりガラスの仕切り（朝）|画像募集中|ECOくじ 悠久の古物商|（夕）（夜）（朝・大）（夕・大）（夜・大）に染色可能|
+|間仕切りラック|画像募集中|ECOくじ ノーティ・スクールガールズ||
+|間仕切りラック（ブラウン）|画像募集中|ECOくじ ノーティ・スクールガールズ|間仕切りラックを、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|
+|間仕切りラック（ダークブラウン）|画像募集中|ECOくじ ノーティ・スクールガールズ|間仕切りラックを、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|
+|レトロな壁掛け電話|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/RetroPhone.jpg,nolink,150x149);|ECOくじ ホワイト&ミリタリー|｢使う｣で電話が鳴る|
+|なごみの座布団(茶)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/SFurniture/Zabuton_b.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/SFurniture/Zabuton_g.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/SFurniture/Zabuton_p.jpg,nolink,150x149);|ECOくじ 水辺の納涼夜会|（緑）（紫）に染色可|
+|ウッドラック１段|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/SFurniture/woodrack1_brown.jpg,nolink,150x150);|まいにちダンジョン（ゴールド）まいにちＢＯＸ|（ブラウン）（ベージュ）（マホガニー）（ブラック）|
+|ウッドラック２段|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/SFurniture/woodrack2_beige.jpg,nolink,150x150);|まいにちダンジョン（ゴールド）まいにちＢＯＸ|（ブラウン）（ベージュ）（マホガニー）（ブラック）|
+|ウッドラック３段|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/SFurniture/woodrack3_black.jpg,nolink,150x150);|まいにちダンジョン（ゴールド）まいにちＢＯＸ|（ブラウン）（ベージュ）（マホガニー）（ブラック）|
+|黒板&br;（上：表）&br;（下：裏）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/SFurniture/blackboard_f.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/SFurniture/blackboard_b.jpg,nolink,150x150);|まいにちダンジョン（ゴールド）まいにちＢＯＸ||

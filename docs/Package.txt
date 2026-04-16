@@ -1,0 +1,1301 @@
+# Package
+
+*ゲーム外でのアイテム入手 [#h26ac216]
+ゲーム内だけでは入手できないアイテムの入手方法についてのまとめページ
+アイテム入手の流れ：ゲーム外でアイテムチケット入手→ゲーム内でコード入力
+[[ECOくじ>kuji]]と[[ゲーム内ショップ>ECOShop]]については各ページ参照
+チケット入手方法は広義の課金によるものが多いが、イベント等で無料配布されたものもある。
+関連：[[アイテムチケットの使い方>http://econline.gungho.jp/manual/howtoticket.html]]
+[[チケットの有効期限にご注意ください>http://econline.gungho.jp/news/important/ticketexpirationdate.html]]
+
+//テンプレ
+//|~種別|~名前|~備考|
+//|CENTER:|LEFT:|LEFT:|c
+//|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備||-|
+//|COLOR(#FFFFFF):BGCOLOR(#FF0099):~背負||-|
+//|COLOR(#000000):BGCOLOR(#FFFF99):~家具||-|
+//|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET||-|
+//|COLOR(#000000):BGCOLOR(#33CC66):~紹介状||~|
+//|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗||-|
+//|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|||
+//|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ||-|
+//|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|||
+#contents
+
+**有効期間内のチケット [#v910839a]
+
+***～2016年10月末日 メタルアレンジＣＤ「エコメタ！」 [#q47f16a5]
+http://econline.gungho.jp/niconico/special/anniversary9th/eco-cd.html
+-発売日：2014年10月31日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ヘビメタイニー・アルマ>PartnerList/Almamonster#HeavyMetalTinyAlma]]||
+
+***～2016年10月末日 9thアニバーサリーソング「はじまる」 [#t862ae2e]
+http://econline.gungho.jp/niconico/special/anniversary9th/eco-cd.html
+http://econline.gungho.jp/niconico/news/information/eco9_anniversary_cd.html
+-発売日：2014年11月12日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ファントム・アルマ>PartnerList/Almamonster#PhantomAlma]]||
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|９ｔｈアニバーサリーのオルゴール|-|
+
+***～2016年11月末日 オリジナル「ハートフルサウンドトラック」 [#x2198b21]
+http://econline.gungho.jp/niconico/special/anniversary9th/eco-cd.html
+http://econline.gungho.jp/niconico/news/information/eco9_anniversary_cd.html
+-発売日：2014年12月3日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[メルティ>PartnerList/Normal#Melty]]||
+
+***～2017年6月14日 オフィシャルファッションカタログ「えここれ」 [#sd50e693]
+http://econline.gungho.jp/news/information/fashionbook20150430.html
+-発売日：2015年6月15日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ダンプティー・アルマ(Mary)>PartnerList/Almamonster#DumptyAlmaMary]]||
+
+***～2017年7月末 アルマモンスター キャラクターソングCD [#ic8250bd]
+http://econline.gungho.jp/special/arumaContest2013/
+-発売日：2013年8月28日
+-&color(silver){※期限が2015年→2017年に延長されました(2015年7月21日)};
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|イリュージョンステッキ（絆）|[[アイテムチェンジ可>SpecialItem#illusionstick]]|
+
+***～2016年9月末 ハートフルコレクション [#cc5d33ed]
+http://econline.gungho.jp/news/information/eco10_anniversary_cd.html
+http://www.lantis.jp/eco/
+-発売日：2015年9月30日
+-2015年12月1日24時まで、特定の配信サイトで購入すると以下の特典アイテムが入手可能。
+--入手方法については公式や各配信サイトの注意書きをよく読むこと
+
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|おしごとへの招待状（カナデ）||
+|>|>|上記アイテムを所持してダウンタウン西「おしごと掲示板」に話しかけるとクエスト受注&br;クエストクリアで下記アイテム入手 [[詳細はこちら>Quest/Acropolis#la5e4598]]|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[カナデのメイガスハート>PartnerList/Heartmate#KanadeMagusHeart]]||
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|１０ｔｈアニバーサリーのオルゴール|10thアニバソング「Diamond days～想いの力～」の一部を試聴できる|
+
+***～2017年11月末 コミック「エミル・クロニクル・オンライン」 [#v1e3b1c1]
+http://econline.gungho.jp/special/comic_aruma2014/
+-発売日：2015年12月12日
+-先行発売：2015年12月5日（ECO祭2015）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|おしごとへの招待状（エコ坊）||
+|>|>|上記アイテムを所持してダウンタウン西「おしごと掲示板」に話しかけるとクエスト受注&br;クエストクリアで下記アイテム入手 [[詳細はこちら>Quest/Acropolis#la5e4598]]|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|エコ用アクロニア学院制服|使用すると、装備中の[[エコ坊・アルマ>PartnerList/Almamonster#EkobouAlma]]の見た目が変化する|
+
+***～2017年12月5日 ECO祭2015 [#td72a117]
+-ECO祭2015限定　ECOくじ「ECO×Favorite」先行販売パック
+-発売日：2015年12月5日
+
+**&aname(DL);(発売中)ダウンロードパッケージ [#r7ccf295]
+
+***復刻プレチケ1 [#uae22847]
+http://econline.gungho.jp/econetstore/playticket01.html
+-下記10種類のアイテム全て
+-10,000 Shop Point分のチケット
+-マニュアル
+-壁紙（3サイズ）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ねこねこハンド|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|回復ECOラーメン|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハッピーケーキ|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|伝説の召還魔法カード（傭兵）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|伝説の召喚魔法カード(超ECO坊)|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|笑顔の緑マスク（笑）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ペットまっしぐら|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|タイニーじゅうたん|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|粉雪の舞|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|プレイチケットDLパッケージ５|下記4種類から&color(red){ランダム};で1つ入手|
+
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ベリアルのボレロスーツ上♂＋&br;ベリアルのボレロスーツ下♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルルイエの小悪魔ドレス上♀＋&br;ルルイエの小悪魔ドレス下♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルルイエの小悪魔ドレス上♀（桃）＋&br;ルルイエの小悪魔ドレス下♀（桃）|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ゴージャス紹介状|-|
+
+***復刻プレチケ2 [#wa3a6969]
+http://econline.gungho.jp/econetstore/playticket02.html
+-下記10種類のアイテム全て
+-10,000 Shop Point分のチケット
+-マニュアル
+-壁紙（3サイズ）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|祭りのはっぴ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|小粋な巾着|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|舞妓はんの扇子|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|蛇の目の和傘|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|風流な掛け軸|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|豪快なししおどし|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|伝説の召喚魔法カード（忍びの者）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハートフル招き猫|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|回復ECOラーメン|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|プレイチケットDLパッケージ６|下記4種類から&color(red){ランダム};で1つ入手|
+
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|小粋な着物ワンピ♀|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|姫さまの紹介状|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|忍びの装束|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|小粋な着物ワンピ♀（椿）|-|
+
+***復刻プレチケ3 [#b3cd86c3]
+http://econline.gungho.jp/econetstore/playticket03.html
+-下記10種類のアイテム全て
+-10,000 Shop Point分のチケット
+-マニュアル
+-壁紙（3サイズ）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|妖精さんの耳|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|みつばちスーツ|「みつばちスーツ」と&br;「みつばち触覚」の二つ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|船長の勝負服|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ちびちびハット|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|ねこあしのバスタブ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|星のティアラ|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|癒しのはと時計|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|回復ECOラーメン|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|プレイチケットDLパッケージ７|下記4種類から&color(red){ランダム};で1つ入手|
+
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|お菓子の家|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|プリンセスの紹介状|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|王子様の服|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|王子様の服（真紅）|-|
+
+***第9弾（ECO×ハローキティといっしょ！） [#gb6cb17f]
+http://econline.gungho.jp/econetstore/iriscard09.html
+-ＷＫＩＴＴＹブランクイリスカード１０(1つ)
+--[[コラボイリス全18種>IrisCard/ExIrisCard0#Ex09]]の中から10枚&color(red){ランダム};&br;(全カードから8枚、UC以上から1枚、UCとRから1枚)
+-マニュアル
+-壁紙（3サイズ）
+
+**CD [#ra03e9f2]
+***オリジナルサウンドトラック 第1弾 [#sa64c4b6]
+-発売日：2006年3月23日(木)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[スリーピー>PartnerList/Normal#i50244f5]]|加曽利りあら氏デザイン|
+
+***オリジナルサウンドトラック 第2弾 [#c4047380]
+-発売日：2007年8月1日(水)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[スリーピーカー>PartnerList/Ride#ud07e5d9]]|加曽利りあら氏デザイン|
+
+***イメージソングCD 嘉陽愛子「Hold on to love」 [#q31632b6]
+-発売日：2006年1月25日(水)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|幸運のクローバー|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ラブハット|幸運のクローバーと交換|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ECO愛子Tシャツ|幸運のクローバーと交換|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ココア>PartnerList/Normal#cocoa]]|幸運のクローバーと交換|
+
+***イメージソングCD 嘉陽愛子「HOME MADE STAR」 [#b55ce792]
+-発売日：2006年8月23日(水)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|スリーピーハウス|加曽利りあら氏デザイン|
+
+***オリジナルドラマCD「は～とふるMAP」第1弾 [#n4979de3]
+-発売日：2006年7月28日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ルチルのヘアカタログ|羽々キロ氏デザインのルチルの髪型|
+
+***オリジナルドラマCD「は～とふるMAP」第2弾 [#o3bca791]
+-発売日：2006年8月25日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|トリスのオーバーニー|ドルイド♀45装備の靴下部分|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ガーネットのニーハイセット|背徳のメイド服♀の靴下+靴部分|
+
+***オリジナルドラマCD「は～とふるMAP」第3弾 [#w20a75db]
+-発売日：2006年10月27日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|リリスの小悪魔角|羽々キロ氏デザインのリリスの角|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|小悪魔のしっぽ|羽々キロ氏デザインのリリスのしっぽ|
+
+***オリジナルドラマCD「エミる☆みらくる」Vol.1 [#ke7a522d]
+-発売日：2008年8月29日（金）　※2008年8月15日（金）夏コミ先行発売
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キャリーの帽子|加曽利りあら氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キャリーのコート|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キャリーのロングブーツ|~|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|魔法のコンパス部品１|全3種を揃えてノース中央山脈南東の「伝説の宝箱」に話しかけると&br;騎乗パートナー[[暁の白鰐丸>PartnerList/Ride#dda24cf7]]を入手|
+
+***オリジナルドラマCD「エミる☆みらくる」Vol.2 [#r9d24d9d]
+-発売日：2008年11月28日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のせヨナ|加曽利りあら氏デザイン|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|魔法のコンパス部品２|全3種を揃えてノース中央山脈南東の「伝説の宝箱」に話しかけると&br;騎乗パートナー[[暁の白鰐丸>PartnerList/Ride#dda24cf7]]を入手|
+
+***オリジナルドラマCD「エミる☆みらくる」Vol.3 [#h59586c5]
+-発売日：2009年1月9日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|空賊の紹介状|加曽利りあら氏デザイン|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|魔法のコンパス部品３|全3種を揃えてノース中央山脈南東の「伝説の宝箱」に話しかけると&br;騎乗パートナー[[暁の白鰐丸>PartnerList/Ride#dda24cf7]]を入手|
+
+***キャラクターイメージCD「SPRING」ルルイエ [#s321240d]
+-発売日：2009年6月26日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルルイエのパンクシャツ♀|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|春のオルゴール（ルルイエ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片1（ルルイエ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ルルイエ）」を入手|
+
+***キャラクターイメージCD「SPRING」マーシャ [#v0e7bea4]
+-発売日：2009年6月26日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|マーシャのニーハイブーツ♀|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|春のオルゴール（マーシャ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片1（マーシャ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（マーシャ）」を入手|
+
+***キャラクターイメージCD「SPRING」ティタ [#x9039155]
+-発売日：2009年6月26日
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ティタの紹介状|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|春のオルゴール（ティタ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片1（ティタ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ティタ）」を入手|
+
+***キャラクターイメージCD「SUMMER」ルルイエ [#ka2dbcf4]
+-発売日：2009年8月26日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルルイエのパンクブーツ♀|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|夏のオルゴール（ルルイエ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片2（ルルイエ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ルルイエ）」を入手|
+
+***キャラクターイメージCD「SUMMER」マーシャ [#pef5fa1a]
+-発売日：2009年8月26日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|マーシャのワンピース♀|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|夏のオルゴール（マーシャ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片2（マーシャ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（マーシャ）」を入手|
+
+***キャラクターイメージCD「SUMMER」ティタ [#d0ec23a4]
+-発売日：2009年8月26日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ティタのベレー帽|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|夏のオルゴール（ティタ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片2（ティタ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ティタ）」を入手|
+
+***キャラクターイメージCD「AUTUMN」ルルイエ [#c764ee58]
+-発売日：2009年11月11日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルルイエのチビシルクハット|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|秋のオルゴール（ルルイエ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片3（ルルイエ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ルルイエ）」を入手|
+
+***キャラクターイメージCD「AUTUMN」マーシャ [#r0627537]
+-発売日：2009年11月11日
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|マーシャの紹介状|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|秋のオルゴール（マーシャ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片3（マーシャ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（マーシャ）」を入手|
+
+***キャラクターイメージCD「AUTUMN」ティタ [#u22dd658]
+-発売日：2009年11月11日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ティタのワンピース♀|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|秋のオルゴール（ティタ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片3（ティタ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ティタ）」を入手|
+
+***キャラクターイメージCD「WINTER」ルルイエ [#m532a9bd]
+-発売日：2010年1月13日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルルイエのしっぽリボン|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|冬のオルゴール（ルルイエ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片4（ルルイエ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ルルイエ）」を入手|
+
+***キャラクターイメージCD「WINTER」マーシャ [#p972e858]
+-発売日：2010年1月13日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|マーシャのリボン|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|冬のオルゴール（マーシャ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片4（マーシャ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（マーシャ）」を入手|
+
+***キャラクターイメージCD「WINTER」ティタ [#idead6c8]
+-発売日：2010年1月13日
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ティタの編み上げブーツ♀|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|冬のオルゴール（ティタ）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|光った破片4（ティタ）|全4種を揃えてタイニー島NPC「デ・ジ・キャラット」に話しかけると&br;装備「歌姫のマイク（ティタ）」を入手|
+
+***4thアニバーサリー メモリアル コンプリート サウンドトラック [#n9a9e78f]
+-発売日：2009年12月23日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[背負い魔・ネコマタ（トラ）>PartnerList/nekomata#n8k9e361]]|-|
+
+***ドラマCD Vol.1 [#ze3baf0d]
+-発売日：2010年3月31日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|メイド服♀（プレミア）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|壊れた船体|[[夢境のゴンドラ>PartnerList/Ride#b2010cd4]]の入手に必要|
+
+***ドラマCD Vol.2 [#ke88f7ce]
+-発売日：2010年4月28日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|タイニースーツ|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|ほつれたぬいぐるみ|[[夢境のゴンドラ>PartnerList/Ride#b2010cd4]]の入手に必要|
+
+***5周年記念アニバーサリーソング『Seize the Days』 [#hbad2f4b]
+-発売日：2010年12月20日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ノーブルタイニー>PartnerList/Normal#nobletiny]]|-|
+
+***生放送番組「えこなまっ！」テーマソングCD『１・２・３でオンライン』 [#e214a0f9]
+-発売日：2011年8月31日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[みんなのアシスタント>PartnerList/Normal#assistant]]|-|
+
+***6thアニバーサリーメモリアルサウンドトラックCD [#f97bc9a7]
+-発売日：2012年1月11日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[守護魔・カナデ>PartnerList/Syugoma#Kanade]]|-|
+
+***7thアニバーサリードラマCD～ECOねくと！～ [#o397eff2]
+-発売日：2012年8月8日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ちなつの追跡ハート>PartnerList/Normal#ChinatsuNoTsuisekiHeart]]|-|
+
+***7周年記念アニバーサリーソングCD『生命の樹』 [#g976a313]
+-発売日：2012年12月26日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[タイニー・アルマ>PartnerList/Almamonster#TinyAlma]]|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|７ｔｈアニバーサリーのオルゴール|-|
+
+***8周年記念アニバーサリーソングCD『INFINITY～あの日を越えて～』 [#h7d7fda6]
+http://econline.gungho.jp/special/anniversary8th/cd.html
+http://econline.gungho.jp/news/information/130911_eco8_anniversary_cd.html
+-発売日：2013年11月27日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[カナデのメモリーハート>PartnerList/Heartmate#Kanade_Memory_Heart]]||
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|８ｔｈアニバーサリーのオルゴール|-|
+
+
+**書籍 [#ec12313a]
+***公式ガイド [#m90bc29a]
+-発売日：2006年3月24日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|たれ耳キャップ|-|
+
+***ゲーマガ7月号 [#ta042ec6]
+-発売日：2006年5月30日（火）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|高級な和室の壁紙|JohnHathway氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（日本一！）|JohnHathway氏デザイン|
+
+***ログイン2006年9月号 [#ca988703]
+-発売日：2006年
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|カキ氷ののぼり|雄一郎氏デザイン|
+
+***ログイン2007年9月号 [#nc5c3067]
+-発売日：2007年7月24日（火）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ビキニ水着♀（青・パレオ付）|-|
+
+***月刊少年ブラッド9月号 [#b4ccfbd7]
+-発売日：2006年8月11日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|アップルの帽子|-|
+
+***コミデジ+（プラス）vol.3 [#g5ece77c]
+-発売日：2006年8月21日（月）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（銀河天使）|-|
+
+***デルタサーガ第2巻 [#ga332815]
+-発売日：2007年6月12日（火）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・サラマンドラ（セレヌ）|-|
+
+***デルタサーガ第3巻 [#fc8d57c3]
+-発売日：2007年12月12日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[おてつだいミルフィ>PartnerList/Normal#milfy]]|-|
+
+***電撃OnlineGames コラボ Vol.1 [#dengeki1]
+-発売日：2008年8月29日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ナースバニー帽（へびぃなへび）」|えびね氏デザイン|
+
+***電撃OnlineGames コラボ Vol.2 [#dengeki2]
+-発売日：2008年10月29日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|あこがれのセーラー（フリル）|植田亮氏デザイン|
+
+***公式ビジュアルファンブック [#c9dcb387]
+-発売日：2011年1月13日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[子パンダ>PartnerList/Normal#kopanda]]|-|
+||イリス「[[ロッテのおもちゃ！とネコマタ>IrisCard/NormalIrisCard#AC00-0013]]」|イラストコンテスト投票者プレゼント|
+||イリス「[[ロッテのおもちゃ！とタイニー>IrisCard/NormalIrisCard#AC00-0014]]」|イラストコンテスト投票者プレゼント|
+
+***ライトノベル ECOねくと！～二次元嫁がやってきた！～ [#ge8aa4dd]
+-発売日：2012年7月14日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+||イリス「[[ティティルのサポート>IrisCard/NormalIrisCard#AC00-0019]]」|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ティティルのサイハイソックス（赤）|-|
+
+***オフィシャルデザインワークス [#c36492fe]
+-発売日：2013年2月14日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ダンプティー・アルマ>PartnerList/Almamonster#DumptyAlma]]|-|
+
+**イベント [#i0a70a1e]
+***ECO de うさぷちフェア [#j9b056af]
+-期間：2006年3月18日（土）～
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|うさだのウサミミ（サイコロ付）♀|髪型もうさだのツインテールに変わる|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|サイコロリボン♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ぷちこのトラミミ帽|-|
+
+***ECOケット [#ub5cead4]
+-開催日：2006年3月19日（日）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ECOケットTシャツ|ECOケット開催記念|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|文字Tシャツ（萌え）|ECOケット開催記念|
+
+***ECO×EVA [#h535bdb6]
+-期間：2006年11月22日（水）～
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|ペンペン|-|
+
+***春のECO友キャンペーン [#feea2909]
+-期間：2007年4月10日（火）～2007年5月7日（月）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（友達100人出来るかな？）|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|おもちゃ壁紙|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|しましまオーバーニー（桃白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|猫耳（桃）|-|
+
+***祝！新ワールドオープン！ECO友キャンペーン [#yb01166a]
+-期間：2007年5月25日（金）～2007年6月30日（土）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|おもちゃ壁紙（ピンク）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|しましまオーバーニー（空白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|猫耳（藍）|-|
+
+***おでかけECO♪～愛に生きます2007 In札幌～ [#kd876c14]
+-開催日：2007年5月27（日）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（なまらいいんでないかい？）|-|
+
+***おでかけECO♪～愛に生きます2007 In福岡～ [#c5ec8bd3]
+-開催日：2007年7月14（土）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（ちかっぱすいとー）|-|
+
+***コミックマーケット72 [#m5a1ed41]
+-開催日：2007年8月17日(金)～8月19日(日)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ１|-|
+
+***コミックマーケット78 [#c5a24e1b]
+-開催日：2010年8月13日(金)～15日(日)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+||イリス「[[超キティラー冒険者、見月陽夜子>IrisCard/NormalIrisCard#AC00-0009]]」|-|
+
+***コミックマーケット82 [#o7bfdeec]
+-開催日：2012年8月10日(金)から12日(日)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ２|[[ドラマCD「ECOねくと！」>#o397eff2]]購入特典|
+
+***ECO祭2007 [#lf5ba949]
+-開催日：2007年12月2日(日)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ECO六地蔵御守|お土産|
+
+***ECO祭2008 [#y15b8ae7]
+-開催日：2008年12月13日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[機関車ダンプティー>PartnerList/Ride#x7800f81]]|じゃんけんタイニー第3回戦|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ２|~|
+
+***ECO祭2009 [#wc533eca]
+-開催日：2009年12月5日（土）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[空飛ぶコウモリ傘（赤）>PartnerList/Ride#v2e610b4]]|ECO祭限定特製&br;特大アイテムチケットDX|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・タイニーゼロ|~|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・パイレーツ|~|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・ネイティブ|~|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|デビューへの紹介状|~|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~特殊|フシギな鏡の契約証（３０日）|~|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ＥＸブランクイリスカード１０|~|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハートフルキャンディー（10個）|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キラキラアイドルワンピース♀|じゃんけんタイニー景品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キラキラアイドルの靴|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キラキラアイドルマイク|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|うさ耳（キラキラアイドル）|~|
+||ネコネコシリーズセット|~|
+||第4弾イリスカードコンプリートセット|~|
+
+***ECO祭2010 [#gc5079c2]
+-開催日：2010年12月4日（土）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[空飛ぶコウモリ傘（白）>PartnerList/Ride#KasaSiro]]|お土産|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・タイニーゼロ|~|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・パイレーツ|~|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・ネイティブ|~|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|西洋ロマンの紹介状|~|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|びっくりアイテムＢＯＸ|~|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ＥＸブランクイリスカード１０|~|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハートフルキャンディー（10個）|~|
+
+***ECO祭2011 [#n6a9d11e]
+-開催日：2011年12月3日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[マジカルステッキ>PartnerList/Ride#magical_s]]|お土産|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・タイニーゼロ|~|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・パイレーツ|~|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・ネイティブ|~|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|歌姫の紹介状|~|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|びっくりアイテムＢＯＸ|~|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ＥＸブランクイリスカード１０|~|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|スロット用ドリル５|~|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハートフルキャンディー（10個）|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[背負い魔・ブーストパパ>PetList/Shoulder#s72d6ada]]3種から1つ選択|じゃんけんタイニー|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ３|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハルシネイションコート＋３|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハルシネイションロングブーツ＋３|~|
+||AAレアアイテムセット|~|
+||2011年イリスカードSR[R4]12点セット|~|
+||イリスカード第17弾コンプリートセット|~|
+
+***ECO祭2012 [#sbc45684]
+-発売日：2012年12月8日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ3|ファッションコンテスト「エコ・コレ2012」最優秀賞|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|下記17種の紹介状から選択|ファッションコンテスト「エコ・コレ2012」入賞|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|アルマのお面BOX|来場者お土産&br;下記13種の装備全て|
+
+|>|>|>|>|~入賞商品の紹介状|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|新春の紹介状|雪国の紹介状|小悪魔の紹介状|ロリポップの紹介状|アジアンの紹介状|
+|大江戸の紹介状|学園の紹介状|商店街の紹介状|妖精の紹介状|海賊の紹介状|
+|誓いの紹介状|深海の紹介状|ゴーストの紹介状|サイバーの紹介状|お泊り会の紹介状|
+|大和神話の紹介状|北欧神話の紹介状||||
+
+|>|>|~アルマのお面BOX内容|
+|LEFT:|LEFT:|LEFT:|c
+|アルマお面（ダークフェザー）|アルマお面（バウ）|アルマお面（シャボタン）|
+|アルマお面（ローキー）|アルマお面（バルル）|アルマお面（シーホース）|
+|アルマお面（ペペン）|アルマお面（サラマンダー）|アルマお面（ミニードゥ）|
+|アルマお面（白い使い魔）|アルマお面（オートメディック）||
+|アルマお面（デス）|アルマお面（プルル）||
+
+***ECO祭2013 [#t3d9b4e7]
+-ECO祭2013限定　[[ECOくじ「ECO×BABY＋A&P」>Kuji/SP#ka63d146]]先行販売パック アイテムチケット
+-発売日：2013年12月7日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ3|ファッションコンテスト「エコ・コレ2013」最優秀賞|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|下記24種の紹介状から選択|ファッションコンテスト「エコ・コレ2013」入賞|
+||[[イリスカード第25段>IrisCard/ExIrisCard1#Ex25]]コンプリートセット|じゃんけんタイニー|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[スフィンクス>PartnerList/Normal#Sphinx]]|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ワイズ・スフィンクス>PartnerList/Normal#WiseSphinx]]|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|オアシスヘアバンド＋３|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|オアシスローブ＋３|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|オアシスブーツ＋３|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハルシネイションロングブーツ＋３|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハルシネイションコート＋３|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[トップアイドル・リリー>PartnerList/Normal#idollily]]|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ピッグー>PartnerList/Normal#r0386cf9]]|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[スーパーアイドル・デイジー>PartnerList/Normal#idoldaisy]]|~|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|アルマのお面BOX (2013)|来場者お土産&br;下記12種の装備全て|
+
+|>|>|>|>|~入賞商品の紹介状|
+|LEFT:|LEFT:|LEFT:|LEFT:|LEFT:|c
+|黒き翼の紹介状|ムツキの紹介状|忠犬の紹介状|キサラギの紹介状|萌芽の紹介状|
+|ヤヨイの紹介状|あやかしの紹介状|ウヅキの紹介状|やんちゃ娘の紹介状|サツキの紹介状|
+|潮風の紹介状|ミナヅキの紹介状|南極の紹介状|フミツキの紹介状|アラビアンナイトの紹介状|
+|ハヅキの紹介状|おかしな紹介状|キクヅキの紹介状|使い魔の紹介状|カミア・カンナの紹介状|
+|スチームパンクの紹介状|シモツキの紹介状|闇夜の紹介状|ロウゲツの紹介状||
+
+|>|>|~アルマのお面BOX（2013）内容|
+|LEFT:|LEFT:|LEFT:|c
+|アルマお面（エンジェルフェザー）|アルマお面（モーモー）|アルマお面（ネクロアーマー）|
+|アルマお面（アンブレラ）|アルマお面（ココッコー）|アルマお面（タランチュラ）|
+|アルマお面（ベア）|アルマお面（フライフィッシュ）|アルマお面（テンタクル）|
+|アルマお面（マミー）|アルマお面（ドラッキー）|アルマお面（ブーフ）|
+
+***ECO祭2014 [#b4b0b8c8]
+-ECO祭2014限定　ECOくじ「ECO×Mary Magdalene」先行販売パック アイテムチケット&br;※2016年11月末日
+-発売日：2014年11月23日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+||[[9thアニバイリス>IrisCard/NormalIrisCard#Anniversary9th]]コンプリートセット|タイニーのラッキーナンバー抽選会|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|BBQセット|~|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|なつかしの学び舎|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|旋律のヴァリアスギター|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハイパーライオギター（白）|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|バンドタイニー|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ペンライトハイパー（橙）|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クリーミーアイドルマイク|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クリーミーアイドルワンピース♀|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|うさ耳（クリーミーアイドル）|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クリーミーアイドルの靴|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[肝っ玉母ちゃん>PartnerList/Ride#p8988fe3]]|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[背負い魔・ブーストパパ>PetList/Shoulder#s72d6ada]]3種から1つ選択|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[デス・アルマ>PartnerList/Almamonster#DeathAlma]]|~|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|闇夜の紹介状|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ミニー・ドゥ・アルマ>PartnerList/Almamonster#MinnieDoAlma]]|~|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|おかしな紹介状|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ローキー・アルマ>PartnerList/Almamonster#LowkeyAlma]]|~|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|あやかしの紹介状|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ダークフェザー・アルマ>PartnerList/Almamonster#DarkFeatherAlma]]|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|サイドヘッドチェックリボン（黒）|~|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|黒き翼の紹介状|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|魅惑の特攻服|来場者お土産|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|祝福の特攻服|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|喝采の特攻服|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|祭の特攻服|~|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|御魂タペストリーBOX|来場者お土産&br;下記12種の家具全て|
+
+|>|>|~御魂タペストリーBOX内容|
+|LEFT:|LEFT:|LEFT:|c
+|タペストリー（ミコト）|タペストリー（メイ）|タペストリー（ライ）|
+|タペストリー（キリエ）|タペストリー（セレス）|タペストリー（ルリ）|
+|タペストリー（フォルテ）|タペストリー（エリーゼ）|タペストリー（アリア）|
+|タペストリー（ナナイ）|タペストリー（リーリエ）|タペストリー（ヒスイ）|
+
+***ガンホーフェスティバル2009 [#b44c401b]
+-開催日：2009年11月1日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+||イリス「[[お祭り！タイニー神輿>IrisCard/NormalIrisCard#AC00-0003]]」|イラストコンテスト投票者プレゼント|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|小粋な着物ワンピ♀（橙）|ドラマCD購入特典抽選会景品|
+
+***ガンホーフェスティバル2011 [#qe83eb83]
+-開催日：2011年6月4日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クリエイターマント|みんつく第16弾入賞|
+||イリス「[[拓かれる大地>IrisCard/NormalIrisCard#AC00-0015]]」|みんつく第16弾投票者プレゼント|
+
+***ガンホーフェスティバル2013 [#ob81c04f]
+-開催日：2013年4月29日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+||イリス「[[パズドラからの来訪者たち>IrisCard/NormalIrisCard#AC00-0020]]」|イラストコンテスト景品|
+
+***オフラインイベント「タイニー・かんぱにー全国合宿アイテム制作会議」 [#l425c611]
+http://econline.gungho.jp/special/ecotc-mtg/
+-有効期限はイベント開催場所により異なる
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ECOメダル 5個|じゃんけんタイニー|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|[[アルマの紹介状BOX>Kuji/2014#n2948f75]]|~|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|[[アルマの絆BOX>Kuji/2014#n2948f75]]|~|
+|>|>||
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|おしごとへの招待状|お土産|
+|>|>|おしごとへの招待状を所持してダウンタウン東「探偵タイニー」に話しかけるとクエスト受注&br;クエストクリアで下記アイテム入手 [[詳細はこちら>Quest/Acropolis#bf5fc120]]|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|おでかけタイニーゼロステッキ|[[アイテムチェンジ可>SpecialItem#odekakezero]]|
+-以下は大阪支部(2015年8月1日)のみ
+http://econline.gungho.jp/special/ecofes2015oosaka/
+|~種別|~名前|~備考|h
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ４|じゃんけんタイニー|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|海路のコンパス|~|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|ウォーターガーデン|~|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|やしの木ハンモック|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ご当地タイニー（近畿）>PartnerList/Normal#gotouchikinki]]|~|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|任意のロア|~|
+
+
+**グッズなど [#w6927dcb]
+***ハッピータイニーセット！ [#j6092004]
+-発売日：2006年4月8日(土)
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・ベイビー（緑）|ファミマ限定|
+
+***ECOプレイチケット第1弾 [#q346f5a5]
+-発売日：2006年5月23日（火）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|緑の若葉|ファミマ予約特典|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（一日一善）|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（看板娘）|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（悠々自適）|~|
+
+***ECO×MARS16コラボTシャツ [#s2efdbf0]
+-発売日：2006年8月11日（金）～2006年9月19日（火）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Tシャツ（MARS16）|MARS16デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Tシャツ（GET A HAT！）|~|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Tシャツ（SHOOTING?）|ガンホーデザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Tシャツ（DOMINION_T）|~|
+
+***ECOトランプ [#j7b63949]
+-発売日：2007年2月23日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|アルカナリボン|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|アルカナドレス♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|アルカナブーツ♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|アルカナブーツ♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ECOトランプ|投擲武器|
+
+***ECO×Emily [#nf99aecc]
+-発売日：2010年9月1日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+||イリス「[[メイド・ヒロインズ>IrisCard/NormalIrisCard#AC00-0010]]」|-|
+
+***ECOくじ「魔法少女まどか☆マギカ」ゲーマーズ限定先行販売パック [#m069a400]
+-開催日：2011年8月26日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+||イリス「[[魔法少女まどか☆マギカ>IrisCard/NormalIrisCard#AC00-0017]]」|-|
+
+**ネットカフェ [#d67b26f0]
+***ネットカフェWチャンスキャンペーン [#je867cf5]
+-期間：2006年3月24日（金）～2006年5月31日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・金のインスマウス|-|
+
+***ECO公認ネットカフェ アイテムゲットキャンペーン3 [#bec78a4c]
+-期間：2007年3月1日（木）～2007年4月16日（月）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[人力車（金のインスマウス）>PartnerList/Ride#d0425ecb]]|-|
+
+***ECO公認ネットカフェ 新規スタートキャンペーン [#oa3fafa6]
+-期間：2007年7月1日(日）～2007年8月19日（日）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり（ＥＣＯはじめました。）|加曽利りあら氏デザイン|
+
+***ECO公認ネットカフェ夏祭り2007 [#t26ba9ae]
+-期間：2007年7月6日（金）～2007年8月19日（日）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[インス神輿>PartnerList/Ride#jf4ecbfb]]|加曽利りあら氏デザイン|
+
+***ECO公認ネットカフェ アイテムゲットキャンペーン5 [#d7909311]
+-期間：2007年8月20日（月）～2007年9月27日（木）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[インスライダー>PartnerList/Ride#me2de8a4]]|加曽利りあら氏デザイン|
+
+**ガンホーゲームズ『パチンコ・パチスロ』 [#iac51279]
+[[パチンコ・スロット詳細>pachinko#premium]]
+***パチンコ・スロット限定品 [#pachionly]
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|チアガールのユニフォーム|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|チアガールのズボン♂|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|チアガールのスカート♀|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|元気なスクールオーバーニー|抽選|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|野球のユニフォーム上|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|野球のユニフォーム下|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|グローブ付バット|抽選|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キャビンアテンダント服|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キャビンアテンダントスカート♀|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|キャビンアテンダントズボン♂|抽選　セット品|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ゴロ付スーツケース>PartnerList/Ride#l65fba41]]|抽選|
+
+**店舗扱いパッケージ [#w8b6dec0]
+***ビギナーズパッケージ [#j125a99e]
+-発売日：2005年11月25日（金）～2007年12月31日（月）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|赤いフィールドジャケット|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|赤いメイド服|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|でじこのネコミミ帽|ゲーマーズ予約特典|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|でじこの鈴|~|
+
+***ビギナーズパッケージ ファミマ限定版 [#e51bd97e]
+-発売日：2005年11月25日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~背負|[[背負い魔・ネコマタ（緑）>PartnerList/nekomata#tdb09239]]|-|
+
+***スペシャルパッケージ WonderGOO限定版 [#ga307e6a]
+-発売日：2005年11月25日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ウイングヘルム|雄一郎氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|教師用の眼鏡|雄一郎氏デザイン|
+
+***スペシャルパッケージⅡ WonderGOO限定版 [#v97bd791]
+-発売日：2006年3月31日（金）～2007年9月14日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハイスクールジャケット♂|かわすみ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハイスクールワンピ♀|かわすみ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ダンプティーのぬいぐるみ|-|
+
+***スペシャルパッケージⅢ WonderGOO限定版 [#j55062f9]
+-発売日：2006年12月9日（土）～2007年9月14日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|水色のオーバーニー|雄一郎氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ウイングブーツ|雄一郎氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハイスクールパンツ（チェック）|雄一郎氏デザイン|
+
+***ハートフルパッケージ [#yaa1bda1]
+-発売日：2006年4月29日（土）～2008年4月30日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳のメイドキャップ♀|羽々キロ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳のメイド服♀（一体型）|羽々キロ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳のシルクハット|羽々キロ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳の礼服上♂|羽々キロ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳の礼服下♂|羽々キロ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳の靴♂|羽々キロ氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳のメイドキャップ♀（黒）|[[ECO1周年キャンペーン>http://www.econline.jp/news/information/435.html]]&br;2006年11月17日～|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|背徳のシルクハット（エンジ）|~|
+
+***ハートフルパッケージ 新生活セット [#m1cb7564]
+-発売日：2007年3月30日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|いちごのパラソル|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|いちごのティーセット|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|いちごソーダ|-|
+
+***ハートフルパッケージ 新入生セット [#h7f3634d]
+-発売日：2007年3月30日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|はじめてのワイシャツ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|はじめてのミニスカート♀|-|
+
+***はじめてのECO WonderGOO限定版 [#x33f6b42]
+-発売日：2007年10月5日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルーキースーツ上|雄一郎氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルーキースーツ下|雄一郎氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルーキーブーツ|雄一郎氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルーキーヒップバッグ|雄一郎氏デザイン|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[おてつだいタイニー（エンジェル）>PartnerList/Normal#angeltiny]]|-|
+
+***ハートフルパッケージ ワールドフラワーセット [#x33f6b53]
+-発売日：2008年1月25日（金）～2008年8月31日（日）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ジニアの馬車>PartnerList/Ride#p8d831b7]]|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ルピナスの花傘|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クローバーの花冠|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|フリージアのタキシード♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|フリージアのドレス♀|-|
+
+***アニバ！BOX [#s6e2bf77]
+-発売日：2006年12月8日（金）～2008年12月31日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|エミルの旅立ちの服上♂|SAGA3ビジュアルタイプ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|エミルの旅立ちの服下♂|SAGA3ビジュアルタイプ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|エミルの旅立ちのブーツ♂|SAGA3ビジュアルタイプ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ティタのそよ風のドレス♀|SAGA3ビジュアルタイプ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ティタのそよ風のブーツ♀|SAGA3ビジュアルタイプ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|マーシャのごきげんワンピ♀|SAGA3ビジュアルタイプ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|マーシャのごきげんブーツ♀|SAGA3ビジュアルタイプ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ゴージャスな手持ち花火（金銀）|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|想い出の桜の木|-|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[機関車タイニー>PartnerList/Ride#vfcb7266]]|-|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[機関車ダンプティー>PartnerList/Ride#x7800f81]]|祝!!2周年「ECOアニバ！BOX」&br;ボーナスキャンペーン&br;2008年1月8日～3月31日|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|フシギなヘアカタログ２|~|
+
+***コラボレーションパッケージ 新世紀エヴァンゲリオンversion.レイ [#mf5eb0d9]
+-発売日：2006年8月25日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|プラグスーツ（レイ）♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|レイの包帯|カツラ|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ミサトのジャケット|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ミサトのペンダント|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ロンギヌスの槍|その他の武器|
+
+***コラボレーションパッケージ 新世紀エヴァンゲリオンversion.アスカ [#ub08dbef]
+-発売日：2006年8月25日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|プラグスーツ（シンジ）♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|プラグスーツ（アスカ）♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|第壱中学校の女子学生服♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|プログレッシブナイフ（弐号機）|その他の武器|
+
+***コラボレーションパッケージ 攻殻機動隊S.A.C.シリーズ [#yba0d7d6]
+-発売日：2007年8月24日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[タチコマ>PartnerList/Normal#tachikoma]]|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|笑い男のマーク|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|公安9課の制服|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|公安9課のバトルスーツ|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|少佐の紹介状|-|
+
+***コラボレーションパッケージ ひぐらしのなく頃にシリーズ [#yd9cfcc6]
+-発売日：2008年8月22日
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+//|COLOR(#000000):BGCOLOR(#FFFF99):~家具|古手神社の祭具殿|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ひぐらしの紹介状|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|竜宮レナのワンピース|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|竜宮レナの帽子|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|竜宮レナの鉈|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|エンジェルモートの制服♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|羽入の巫女服|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|羽入の角|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|のぼり「鬼ヶ淵死守同盟」|-|
+
+***コラボレーションパッケージ ヤッターマン [#d38bfbd0]
+-発売日：2008年9月26日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ヤッターマンの服（1号・2号）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ヤッターマンのマスク|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ヤッターマンの帽子|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ドロンジョ様の服♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ドロンジョ様の帽子|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ボヤッキーの服♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ボヤッキーの帽子|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|トンズラーの服♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|トンズラーの帽子|-|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[おしおきドクロベェさま>PartnerList/Normal#dokurobe]]|-|
+
+** ガンホーオンラインショップ扱いパッケージ [#i2c48020]
+***マリオネットと旅に出よう！ 30DAYSパック [#v6958d4a]
+-販売期間：2006年3月17日（金）～2007年4月27日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・インスマウス|-|
+
+***マリオネットと旅に出よう！ 60DAYSパック [#l731e749]
+-販売期間：2006年3月17日（金）～2007年11月16日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ビギナーズナイフ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ビギナーズアーマー|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|シルバーメダル|-|
+|COLOR(#FFFFFF):BGCOLOR(#CC33CC):~ﾏﾘｵﾈｯﾄ|マリオネット・タイニー|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|ビギナーズBOX|[[中身>#c45e7189]]|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|肉まん（10個）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|砂糖入りコーヒー（5個）|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ヘアサロンの紹介状|-|
+
+***タイニーと旅に出よう！ 60DAYSパック [#l731e760]
+-発売日：2007年11月16日（金）～2008年5月7日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ビギナーズナイフ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ビギナーズアーマー|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|シルバーメダル|-|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ジェントルタイニー>PartnerList/Normal#gentletiny]]|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|ビギナーズBOX2|[[中身>#fa308f76]]|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|サンドウィッチ（10個）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|砂糖入りコーヒー（5個）|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ヘアサロンの紹介状|-|
+
+***タイニーと旅に出よう！ 60DAYSパック Ver.2 [#nc61d8a9]
+-発売日：2008年5月7日（水）～2009年3月16日（月）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ビギナーズナイフ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ビギナーズアーマー|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|シルバーメダル|-|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ジェントルタイニー>PartnerList/Normal#gentletiny]]|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|ビギナーズBOX3|[[中身>#fa308742]]|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|サンドウィッチ（10個）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|砂糖入りコーヒー（5個）|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ヘアサロンの紹介状|-|
+
+***お得に冒険！ 30DAYSパック [#w0e801d2]
+-販売期間：2006年3月17日（金）～2007年11月16日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハートフルキャンディー|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|スペシャルBOX|[[中身>#ncda3f28]]|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|お楽しみBOX|[[中身>#a6eb4988]]|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|結晶BOX|[[中身>#b0b06e79]]|
+
+***お得に冒険！ 30DAYSパック Ver.3 [#v6958d5b]
+-発売日：2007年11月16日（金）～2008年5月7日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハートフルキャンディー|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|結晶BOX|[[中身>#b0b06e79]]|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|スペシャルBOX2|[[中身>#t8d63639]]|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|お楽しみBOX2|[[中身>#b06ba178]]|
+
+***お得に冒険！ 30DAYSパック Ver.4 [#j76e31c7]
+-発売日：2008年5月7日（水）～2009年4月15日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ハートフルキャンディー|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|結晶BOX|[[中身>#b0b06e79]]|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|スペシャルBOX3|[[中身>#t8d63ijy]]|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|お楽しみBOX2|[[中身>#b06ba178]]|
+
+***おめかしタータンチェック はじめての60DAYSセット Ver.1 [#gdb78085]
+-販売期間：2007年4月27日（金）～2007年8月10日（金）
+-再販期間：2008年3月5日（水）～2008年4月9日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹチェックＪＳＫ♀（エンジ）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹチェックカチューシャ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹフリルシューズ♀（エンジ）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹハートBAG（オフ白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹフリル＆レース傘（オフ白）|-|
+
+***おめかしタータンチェック つづきの30DAYSセット Ver.1 [#l639a819]
+-販売期間：2007年4月27日（金）～2007年8月10日（金）
+-再販期間：2008年3月5日（水）～2008年4月9日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹチェックＪＳＫ♀（ピンク）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹヘッドドレス（オフ白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹハートシューズ♀（オフ白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹうさくみゃリュック（白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ＢＡＢＹリボンタイ（ピンク）|-|
+
+***ALICE and the PIRATES はじめての冒険60DAYSパック Ver.1 [#yc2358ac]
+-販売期間：2007年8月10日（金）～2007年11月16日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐヴィクトルブラウス（オフ白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐベルト付レジメンタルパンツ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐアンティークレザーシューズ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐパイレーツシルクハット（黒）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐ眼帯（黒）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐロゴ入りネクタイ（黒）|-|
+
+***ALICE and the PIRATES つづきの冒険30DAYSパック Ver.1 [#mb919939]
+-販売期間：2007年8月10日（金）～2007年11月16日（金）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐリボンタイ付セーラーワンピ♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐ厚底ベルトシューズ♀（紺）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐコサージュ付リボンカチューシャ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐ宝箱ＢＡＧ（茶×白）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ａ＆Ｐボーダーハイソックス（紺白）|-|
+
+***HANGRY ＆ ANGRY「秋の新作セット」 [#hf926ee7]
+-販売期間：2009年10月15日（木）～2010年1月13日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハロウィン柄チュニックワンピース|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|H＆Aフリフリカットソーシャツ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|H＆Aハートのブローチ|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|H＆Aマグカップ|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ハングリー紹介状|-|
+
+***HANGRY ＆ ANGRY「キャンディ＆プリンセット」 [#q7953154]
+-販売期間：2009年10月15日（木）～2010年1月13日（水）
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|C＆Pカーディガン|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|C＆Pハートスカート♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|C＆Pフリルトートバッグ|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|C＆Pマグカップ|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|コウモリタ紹介状|-|
+
+***しゅごキャラ！「あむちゃんの制服セット」 [#ShugocharaAmu]
+-販売期間：2010年3月12日（金）～2010年6月11日（金）
+-価格：3,480ガンホーコイン
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クール＆スパイシー制服♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クール＆スパイシースカート♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クール＆スパイシーレッグウォーマー♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|クール＆スパイシーバッグ|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|あむちゃんの紹介状 |-|
+||10,000 ShopPoint|-|
+
+***しゅごキャラ！「イクトの制服セット」 [#ShugocharaIkuto]
+-販売期間：2010年3月12日（金）～2010年6月11日（金）
+-価格：3,480ガンホーコイン
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|イクトの制服（上）♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|イクトの制服（下）♂|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|イクトのチョーカー|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|イクトのバイオリンケース型バッグ|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|イクトの紹介状 |-|
+||10,000 ShopPoint|-|
+
+***ECO × ラグナロクオンライン [#ecoro]
+
+***HANGRY & ANGRY「禁断のコラボセット」 [#mbc1a62e]
+http://econline.gungho.jp/econetstore/2015/kincs-hangry-angrydl/
+-下記5種類のアイテム全て
+-10,000 Shop Point分のチケット
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ハロウィン柄チュニックワンピース|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ｈ＆Ａフリフリカットソーシャツ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ｈ＆Ａハートのブローチ|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|Ｈ＆Ａマグカップ|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|ハングリー紹介状|-|
+
+***HANGRY & ANGRY「キャンディ＆プリンセット」 [#taa2bf57]
+http://econline.gungho.jp/econetstore/2015/kincs-hangry-angrydl/
+-下記5種類のアイテム全て
+-10,000 Shop Point分のチケット
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ｃ＆Ｐカーディガン|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ｃ＆Ｐハートスカート♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|Ｃ＆Ｐフリルトートバッグ|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|Ｃ＆Ｐマグカップ|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|コウモリタ紹介状|-|
+
+**箱 [#c2cdb13d]
+***ビギナーズBOX [#c45e7189]
+-[[マリオネットと旅に出よう！ 60DAYSパック>#l731e749]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|?|?|シークレット|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|セレブの紹介状|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|フリルカチューシャ|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|レプリカ宝箱|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|フェイスゴーグル|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|カチューシャ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|カウボーイマスク|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|大きなリボンの髪飾り|-|
+
+***ビギナーズBOX2 [#fa308f76]
+-[[タイニーと旅に出よう！ 60DAYSパック>#l731e760]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|うさ耳（ブラック）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|しましまオーバーニーＥＸ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|フェイスゴーグル|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|カウボーイマスク|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|セレブの紹介状|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|レプリカ宝箱|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|レモン色のオーバーニー|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|うさ耳（レモン）|-|
+
+***ビギナーズBOX3 [#fa308742]
+-[[タイニーと旅に出よう！ 60DAYSパック Ver.2>#nc61d8a9]]で入手
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ベイビータイニーのおしゃぶり(空色）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ベイビータイニーのおしゃぶり(桃）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ベイビータイニーのおしゃぶり(緑）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|バニーしっぽ（レモン）|-|
+|COLOR(#000000):BGCOLOR(#CCCCCC):~箱|レプリカ宝箱|-|
+|COLOR(#000000):BGCOLOR(#33CC66):~紹介状|セレブの紹介状|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|レモン色のオーバーニー|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|うさ耳（レモン）|-|
+
+***スペシャルBOX [#ncda3f28]
+-[[お得に冒険！ 30DAYSパック>#w0e801d2]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|うさ耳（ブラック）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|スクール♀（紫）|シークレット|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|セーラーリボン|シークレット（羽々キロ氏デザイン）|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|しましまオーバーニーＥＸ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|白い軍服ＥＸ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|シルバーメイルＥＸ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ドミニオンエッジＥＸ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|タイタニアプレートＥＸ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|スタッドレスプレートＥＸ|-|
+
+***スペシャルBOX2 [#t8d63639]
+-[[お得に冒険！ 30DAYSパック Ver.3>#v6958d5b]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|白衣・聴診器付き|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ピンクの白衣|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|古風なナース服|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|古風なナースキャップ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|古風なナースシューズ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|眼帯（ガーゼ）|-|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[救急わんわん>PartnerList/Ride#nb3cfb33]]|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|救急ライト|-|
+
+***スペシャルBOX3 [#t8d63ijy]
+-[[お得に冒険！ 30DAYSパック Ver.4>#j76e31c7]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|チャイナ風ミニドレス♀|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|炎のパンダカンフースーツ|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|スニーカー（黄）|-|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[パンダ>PartnerList/Ride#ad9a6a5a]]|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|点心セット|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|青龍偃月刀|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|パンダ机|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|パンダ椅子|-|
+
+***お楽しみBOX [#a6eb4988]
+-[[お得に冒険！ 30DAYSパック>#w0e801d2]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|ブレザー♂|シークレット|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|セーラーベレー|シークレット（羽々キロ氏デザイン）|
+|COLOR(#FFFFFF):BGCOLOR(#FF0099):~PET|[[ブラックタン>PartnerList/Normal#black-tan]]|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|でかでかカード|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|ちびちびカード|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|スキル石・デコイ|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|スキル石・ゴー！|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|スキル石・クローキング|-|
+
+***お楽しみBOX2 [#b06ba178]
+-[[お得に冒険！ 30DAYSパック Ver.3>#v6958d5b]]、[[お得に冒険！ 30DAYSパック Ver.4>#j76e31c7]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|伝説の召喚カード（たこ焼きアーチン）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|伝説の召喚カード（巨大メンタイ）|-|
+|COLOR(#FFFFFF):BGCOLOR(#6666FF):~装備|直球ストレート|投擲武器|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|スキル石・東京の鳩|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|誇り高き金のシャチホコ|-|
+|COLOR(#000000):BGCOLOR(#FFFF99):~家具|くまのペナント|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|スキル石・デコイ|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|スキル石・クローキング|-|
+
+***結晶BOX [#b0b06e79]
+-[[お得に冒険！ 30DAYSパック>#w0e801d2]]、[[お得に冒険！ 30DAYSパック Ver.3>#v6958d5b]]、[[お得に冒険！ 30DAYSパック Ver.4>#j76e31c7]]で入手
+|~種別|~名前|~備考|
+|CENTER:|LEFT:|LEFT:|c
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|いのちの結晶（2個）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|力の結晶（2個）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|魔力の結晶（2個）|-|
+|COLOR(#000000):BGCOLOR(#CCFFFF):~消耗|クリティカルの結晶（2個）|-|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#tfc246bc]
+#pcomment

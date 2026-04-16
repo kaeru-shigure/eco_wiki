@@ -1,0 +1,17 @@
+# ドロップ率検証/ジェル系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[水中生物知識>ドロップ率検証#qf2e06cc]]
+
+***バルーンジェル [#v18a6c1f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|精霊水|赤いゼリコ|魔力の結晶|透明シール|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|47個（47.00％）|27個（27.00％）|19個（19.00％）|4個（4.00％）|2個（2.00％）|1個（0.00％）|
+
+***ポイズンジェル [#u36dd834]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|毒消しの実|金運の香水|緑のゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|41個（41.00％）|37個（37.00％）|19個（19.00％）|3個（3.00％）|

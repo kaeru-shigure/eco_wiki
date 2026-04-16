@@ -1,0 +1,42 @@
+# MobUnderwater
+
+*モンスター・エミル世界（水中生物） [#u3150ec5]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***インスマウス系 [#Innsmouth]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Raigyo-.jpg,nolink,zoom,100x100);|ライギョー|33|512|624/384|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|干し魚&br;ライギョーの汗&br;不思議な干し魚&br;&color(orange){ライギョーのウロコ};&br;&color(red){干しフカヒレ};&br;&color(red){マリオネット・インスマウス};&br;&color(slateblue){ライギョースタンプ};|コンフュージョンブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mokugyo-.jpg,nolink,zoom,100x100);|モクギョー|39|1,600|1,800/1,800|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|干し魚&br;&color(red){ライギョーのウロコ};&br;不思議な干し魚&br;&color(red){マリオネット・インスマウス};|サイレントポゼション&br;スリープポゼション|高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FundoshiMan.jpg,nolink,zoom,100x100);|ふんどしマン！|43|70,000?|34,700/34,700|BGCOLOR(#bbffff):水|Active|【大陸の洞窟】&br;B5F|干し魚&br;干しフカヒレ&br;不思議な干し魚&br;&color(red){インスマウスの布地};&br;マリオネット・インスマウス&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){ふんどしマン！スタンプ};|スタンアタック&br;ウォータアタック&br;スロウロジック&br;モクギョー召喚|BOSS&br;30～90分毎&br;取り巻き(モクギョー)|
+
+***サラマンドラ系 [#Salamandra]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DokuTokage.jpg,nolink,zoom,100x100);|ドクトカゲ|35|450|362/300|BGCOLOR(#bbffff):水|Active|モースグ崖&br;アンデッド島・島|肉&br;破れた魔法書&br;ドクトカゲの尻尾&br;&color(orange){丈夫な革};&br;&color(red){マリオネット・サラマンドラ};&br;&color(slateblue){ドクトカゲスタンプ};|ポイズンパフューム&br;スロウロジック|高ATK|
+
+***フィッシュ系 [#Fish]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DeadFish.jpg,nolink,zoom,100x100);|デッドフィッシュ|15||/|||【インスタンスダンジョン】&br;迷宮の結晶体の破壊！初級|のど飴&br;干し魚&br;シャケ||ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FlyFish.jpg,nolink,zoom,100x100);|フライフィッシュ|20|160|54/46|BGCOLOR(#bbffff):水|Link→水中生物|ウテナ川河口&br;モーモー草原|のど飴&br;干し魚&br;シャケ&br;不思議な干し魚&br;&color(red){干しフカヒレ};&br;&color(slateblue){フライフィッシュスタンプ};|サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Evilfish.jpg,nolink,zoom,100x100);|イブルフィッシュ|20|300|200/240|BGCOLOR(#bbffff):水|Active|東アクロニア段丘&br;モーモー草原&br;ファーイースト街道&br;ウェストー開拓地&br;アクロニア丘陵|-|デクライズウエポン&br;スタンアタック&br;スリープストライク|[[釣り>Fishing]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CaveFish.jpg,nolink,zoom,100x100);|ケイブフィッシュ|27|370|216/168|BGCOLOR(#bbffff):水|Active&br;Link|【大陸の洞窟】&br;B5F|のど飴&br;干し魚&br;シャケ&br;不思議な干し魚&br;&color(slateblue){ケイブフィッシュスタンプ};|サイレントグリーン||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/CandyFish.png,nolink,zoom,100x100);|キャンディーフィッシュ|32||213/81|BGCOLOR(#bbffff):水|詠唱反応|ウェストー開拓地|のど飴&br;干し魚|ウォータアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TropicalFish.jpg,nolink,zoom,100x100);|トロピカルフィッシュ|37|720|426/163|BGCOLOR(#bbffff):水|Active|鬼ノ寝床岩|のど飴&br;干し魚&br;シャケ&br;不思議な干し魚&br;&color(slateblue){トロピカルフィッシュスタンプ};|サイレントグリーン||
+
+***フグローブ系 [#Fugu]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Fugurobu.png,nolink,zoom,100x100);|フグローブ|33||168/216|BGCOLOR(#bbffff):水|NonActive|ウェストー開拓地|干し魚&br;フグローブのトゲ&br;ハコフグ&br;&color(slateblue){フグのキモ};|スタンアタック||

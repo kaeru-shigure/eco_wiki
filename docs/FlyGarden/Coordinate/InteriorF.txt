@@ -1,0 +1,416 @@
+# FlyGarden/Coordinate/InteriorF
+
+#author("2017-05-15T01:10:16+00:00","","")
+#include(FlyGarden/Menu,notitle)
+
+*インテリア[#yfebf115]
+
+#contents
+
+***ライト [#h5aadfa0]
+|>|>|>|LEFT:~ライト|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|キャンドル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Candle.png,nolink,150x150);|高度金属精錬|&br;ロウ:3&br;ひも:3&br;鉄の部品:1&br;ビーの針:3&br;タタラ炉|
+|キャンドル（白）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CandleShiro.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|キャンドル*2（月曜日）|
+|ランプ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Lamp.jpg,nolink,150x150);|木箱1/2/3/4/8&br;宝箱3/6/7/8/9&br;コンテナ1||
+|ランプ（水色）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/LampMizuiro.jpg,nolink,150x100);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ランプ*2（土曜日）|
+|ガスランプ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/GasLamp.jpg,nolink,150x150);|宝箱1/2/3||
+|ガスランプ（赤）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/GasLampAka.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|ガスランプ*1（金曜日）|
+|りっぱなガスランプ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RippaNaGasLamp.png,nolink,150x150);|コンテナ1/6||
+|りっぱなガスランプ（銀）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/RippaNaGasLampGin.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|りっぱなガスランプ*1(土曜日)|
+|灯油ランプ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TouyuLamp.jpg,nolink,150x150);|木箱1/2/3&br;宝箱2/4/5/7/9||
+|灯油ランプ（黒）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TouyuLampKuro.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|灯油ランプ*1（火曜日）|
+|電気ランプ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DenkiLamp.jpg,nolink,150x150);|コンテナ1/5||
+|電気ランプ（銀）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DenkiLampGin.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|電気ランプ*1（日曜日）|
+|電気スタンド|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DenkiStand.jpg,nolink,150x150);|コンテナ1/5||
+|電気スタンド（緑）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DenkiStandMidori.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|電気スタンド*1（日曜日）|
+|おとぎの国のシャンデリア|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OtogiNoKuniNoChandelier.jpg,nolink,150x150);|ECOくじ Ver.13||
+|おとぎの国のシャンデリア（金）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1278418766976.jpg,nolink,150x150);|ECOくじ アニバ☆ゴージャス！||
+|巻貝の街灯|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MakigaiNoGaitou.jpg,nolink,150x150);|木材加工Lv2|巻貝:30&br;サンドペーパー:5&br;マナ・ウォーター:10&br;釘:10&br;金槌|
+|鳥かごランプ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258592558131.jpg,nolink,150x150);|ECOくじ　西洋ファンタジーロマン||
+|鳥かごランプ（ルクス）|-|ECOくじ ハートメイトカーニバル||
+|すずらんランプ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Suzuran_lamp.jpg,nolink,114x150);|ECOくじ さんぽ日和||
+|天使の卵（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Angelegg_w.jpg,nolink,150x150);|ECOくじ ブランシュ・プチ・アンジュ|「使う」でほのかな輝きを放つ。|
+|天使の卵（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Angelegg_b.jpg,nolink,150x150);|天使の卵（白）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」でほのかな輝きを放つ。|
+|５連提灯|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/GorenChouchin.jpg,nolink,150x150);|ECOくじ 和風はろうぃん||
+|パンプキンキャンドルスタンド|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PumpkinCandleStand.jpg,nolink,150x150);|ECOくじ 洋風ハロウィン||
+|壁用燭台|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292889974312.jpg,nolink,150x150);|ECOくじ あけましアニバ||
+|謁見の間のシャンデリア（金）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Ekkensyanderia_g.jpg,nolink,150x150);|ECOくじ お城の童話&br;ECOくじ 終幕オペラハウス|「使う」で明かりが灯る。|
+|謁見の間のシャンデリア（銀）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Ekkensyanderia_s.jpg,nolink,150x150);|謁見の間のシャンデリア（金）を&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」で明かりが灯る。|
+|BABYシャンデリア|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/BABYChandelier.jpg,nolink,150x150);|ECOくじ ECO×BABY+A&P|「使う」で明かりが灯る。|
+|ムーディーランプ（ピンク）|画像募集中|ECOくじ 令月の盗賊&br;ECOくじ ジェイルハウス・インプリズン|「使う」でハートのエフェクトと共に周囲を照らす。|
+|ムーディーランプ（黄）|画像募集中|ムーディーランプ（ピンク）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」でキラキラ輝きを放ちながら周囲を照らす。|
+|きのこなランプ|-|2012年 きのこ狩りイベント|「使う」で明かりが灯る|
+|こうもりらんぷ（金）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/KoumoriLamp_gold.jpg,nolink,150x150);|ECOくじ ヴァンパイア・ロマンス|「使う」で左右に揺れる|
+|こうもりらんぷ（銀）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Battylamp_s.jpg,nolink,150x150);|こうもりらんぷ（金）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」で左右に揺れる|
+|スチームファン・ライト（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Steamfanlight_g.jpg,nolink,150x150);|ECOくじ スチームパンク|「使う」でライトが付きファンが回転する|
+|スチームファン・ライト（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Steamfanlight_b.jpg,nolink,150x150);|スチームファン・ライト（茶）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」でライトが付きファンが回転する|
+|スチームファン（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Steamfan_br.jpg,nolink,150x147);|スチームファン・ライト（茶）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」ファンが回転する|
+|スチームファン（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Steamfan_b.jpg,nolink,150x150);|スチームファン・ライト（茶）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|「使う」ファンが回転する|
+|骸骨ランプ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Skulllamp.jpg,nolink,150x150);|ECOくじ パイレーツ・クロニクル&br;ECOくじ ミリタリールック・リトルシューター|「使う」で照明のON/OFF|
+|狐の吊るし燈籠（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Turusitoro.jpg,nolink,150x150);|ECOくじ 御伽の国のお狐様|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（朱）（狐の燈籠・黒）（狐の燈籠・朱）に染色できる。&br;「使う」で明かりのON/OFF|
+|狐の燈籠（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kitsunetoro_b.jpg,nolink,150x150);|染色で入手|「使う」で明かりのON/OFF|
+|狐の吊るし燈籠（朱）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tsurushitoro_syu.jpg,nolink,150x150);|染色で入手|「使う」で明かりのON/OFF|
+|狐の燈籠（朱）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kitsunetoro_syu.jpg,nolink,150x148);|染色で入手|「使う」で明かりのON/OFF|
+|ハートの照明（吊るし・赤）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Toro_heart.jpg,nolink,150x150);|ECOくじ 鉄腕少女ブリキング|（置き型・赤）（吊るし・青）（置き型・青）に染色可能&br;「使う」で明かりのON/OFF|
+|壁掛け燭台（金）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Walllamp_gold.jpg,nolink,150x150);|ECOくじ ワーキング・ワーウルフ|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで（銀）に染色できる。&br;「使う」でキャンドルの火のON/OFF|
+|壁掛け燭台（銀）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Walllamp_s.jpg,nolink,150x150);|染色で入手|「使う」でキャンドルの火のON/OFF|
+|壁掛け燭台（黒）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/ss20150506_143701.jpg,nolink,150x149);|ECOくじ モンスター☆パレード|（紫）に染色可能&br;「使う」でキャンドルの火のON/OFF|
+|観劇のスポットライト（上）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kansoku_h.jpg,nolink,150x150);|染色|「使う」でライトのON/OFF|
+|観劇のスポットライト（中）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kansoku_m.jpg,nolink,150x150);|ECOくじ 終幕オペラハウス|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで（上）（下）に染色できる。&br;「使う」でライトのON/OFF|
+|観劇のスポットライト（下）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kansoku_l.jpg,nolink,150x150);|染色|「使う」でライトのON/OFF|
+|魔法図書館のフロアランプ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Foorlamp.jpg,nolink,150x150);|ECOくじ 記憶の図書館|「使う」で照明が付く|
+|マジックランプ（赤）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Magiclamp_r.jpg,nolink,150x150);|ECOくじ こぎつねアプレンティス|染色娘にて（青）に染色可能|
+|マジックランプ（青）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Magiclamp_b.jpg,nolink,150x149);|染色で入手||
+|船舶窓風照明（金）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/sennpaku.jpg,nolink,150x150);|ECOくじ スチームエイジ・アドベンチャー|下記いずれかに染色可能&br;（大きな船舶窓風照明（金））（船舶窓照明・設置型（金））&br;（銀）（大きな船舶窓風照明（銀））（船舶窓照明・設置型（銀）|
+|行燈（桃）（虹）（墨絵）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Andon_m.jpg,nolink,150x149);|ECOくじ 今世東洋怪異譚|染色で（虹）（墨絵）に染色可能&br;「使う」で明かりが灯る|
+|シルフィランプ|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Sylphylamp.jpg,nolink,150x150);|ECOくじ 優しい森の住人|染色で（青）に染色可能&br;「使う」で明かりが灯る|
+|レトロなモダンランプ（卓上・緑）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Retromodernlamp.jpg,nolink,150x150);|ECOくじ 悠久の古物商|染色で（吊り下げ・緑）（卓上・赤）（吊り下げ・赤）（卓上・青）（吊り下げ・青）に染色可能&br;「使う」で明かりが灯る|
+
+
+
+***タペストリー [#jabca88d]
+|>|>|>|LEFT:~タペストリー|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|タペストリー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Tapestry.jpg,nolink,150x150);|木箱1/2/3/6/7||
+|タペストリー（ココッコー）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TapestryKokokko-.jpg,nolink,109x150);|タペストリー*1（金曜日）||
+|タペストリー（草花）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TapestryKusabana.jpg,nolink,150x150);|大陸の洞窟スタンプ||
+|タペストリー（タイニー）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TapestryTiny.jpg,nolink,150x150);|平原スタンプ&br;大陸の洞窟スタンプ||
+|タペストリー（レース）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TapestryRace.jpg,nolink,146x150);|「ゆめみのたびびと」第一話||
+|タペストリー（ソードマン）|-|家具「足踏みミシン」による作成||
+|タペストリー（フェンサー）|-|~||
+|タペストリー（スカウト）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/tapestry_scout.jpg,nolink,150x150);|~||
+|タペストリー（アーチャー）|-|~||
+|タペストリー（スペルユーザー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/superuyu-za-tapesutori-.jpg,nolink,107x150);|~||
+|タペストリー（タタラベ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/tapestry_tatarabe.jpg,nolink,150x150);|~||
+|タペストリー（マシンナリー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/tapestry_machinery.jpg,nolink,150x150);|~||
+|タペストリー（ファーマー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/fa-ma-tapesutori-.jpg,nolink,108x150);|~||
+|タペストリー（アルケミスト）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/arukemisutotapesutori-.jpg,nolink,108x150);|~||
+|タペストリー（マリオネスト）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/marionesutotapesutori-.jpg,nolink,108x150);|~||
+|タペストリー（レンジャー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/tapestry_ranger.jpg,nolink,150x150);|~||
+|タペストリー（マーチャント）|-|~||
+|くまのペナント|-|お得に冒険！30DAYSパックVer.3　お楽しみBOX2||
+|ネルフのタペストリー|-|ECOプレイチケット SPエディション「新世紀エヴァンゲリオン」||
+|額縁タペストリー（セピア）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/gakubutitapesutori-sepia.jpg,nolink,150x150);|ECOくじ スチームパンク||
+|額縁タペストリー（モノクローム）|-|額縁タペストリー（セピア）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|タペストリー（アルカード）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapestry_a.jpg,nolink,150x150);|2013年通年イベント「イリスと記憶の書架&br;-[[イリスと記憶の書架－あとがき（公式サイト）>http://econline.gungho.jp/special/lore/]]||
+|タペストリー（清姫）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapestry_k.jpg,nolink,150x150);|~|~|
+|タペストリー（ル・フェイ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_lf.jpg,nolink,150x150);|~|~|
+|タペストリー（バステト）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_b.jpg,nolink,150x150);|~|~|
+|タペストリー（キャプテンキッド）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_c.jpg,nolink,150x149);|~|~|
+|タペストリー（玉藻）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_t.jpg,nolink,150x150);|~|~|
+|タペストリー（ローレライ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapestry_l.jpg,nolink,150x150);|~|~|
+|タペストリー（パラケルスス）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_p.jpg,nolink,150x150);|~|~|
+|タペストリー（ワーウルフ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_w.jpg,nolink,150x150);|~|~|
+|タペストリー（メフィストフェレス）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_m.jpg,nolink,150x150);|~|~|
+|タペストリー（ルチフェロ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_lc.jpg,nolink,150x150);|~|~|
+|タペストリー（ステラ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_s.jpg,nolink,150x150);|~|~|
+|タペストリー（アイリス）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tapstry_i.jpg,nolink,150x150);|~|~|
+
+***絵画 [#ebdbc444]
+|>|>|>|LEFT:~絵画|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|絵画「アップタウンの情景」|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigaUptown.jpg,nolink,150x108);|スケッチ旅行イベント||
+|絵画「ダウンタウンの賑わい」|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigaDowntown.jpg,nolink,150x109);|スケッチ旅行イベント||
+|絵画「ノーザンプロムナードの静寂」|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigaNorthern.jpg,nolink,150x111);|スケッチ旅行イベント||
+|絵画「マルクトの船着場の風景」|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigaIronsouth.jpg,nolink,115x150);|スケッチ旅行イベント||
+|絵画「のどかなファーイーストシティー」|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigaFareast.jpg,nolink,150x111);|スケッチ旅行イベント||
+|絵画「薄暮のモーグシティー」|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigaMorg.jpg,nolink,150x111);|スケッチ旅行イベント||
+|絵画「豊穣の国と闇の城」|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KaigaSaga3.jpg,nolink,111x150);|スケッチ旅行イベント||
+|デルタの写真|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DeltaNoShashin.jpg,nolink,150x150);|デルタサーガ最終話連動イベント||
+|ポスター『ツクヨミ』|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterTsukuyomi.jpg,nolink,150x150);|お月見イベント2007||
+|ポスター（バレンタイン）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterValentine.jpg,nolink,150x150);|バレンタイン2008||
+|ポスター（ホワイトデー）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterWhiteDay.jpg,nolink,150x150);|ホワイトデー2007||
+|ポスター（ひな祭り）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterHinamatsuri.jpg,nolink,149x150);|み～んなお姫さま！ECOひなまつり||
+|ポスター（花見）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterHanami.jpg,nolink,150x150);|お花見2007||
+|ポスター（子どもの日）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterKodomoNoHi.jpg,nolink,150x150);|わくわく！GWはECOで遊ぼう&br;わくわく！GWはECOで遊ぼう2009||
+|ポスター（母の日）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterHahaNoHi.jpg,nolink,150x150);|MYSTERIOUS CARNATION||
+|ポスター（結婚式）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterKekkonshiki.jpg,nolink,150x150);|ジューンブライトロマンス2007||
+|ポスター（海の日）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterUmiNoHi.jpg,nolink,150x150);|キラリECO★夏2007||
+|ポスター（花火大会）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterHanabiTaikai.jpg,nolink,150x150);|ECO夏★花火大会||
+|ポスター（お月見）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterOtsukimi.jpg,nolink,150x150);|お月見イベント2007||
+|ポスター（ハロウィン）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterHalloween.jpg,nolink,148x150);|ハロウィンイベント2007||
+|ポスター（正月）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PosterShougatsu.jpg,nolink,142x150);|お正月イベント2008||
+|ポスター（2ndアニバ）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Poster2ndAnniversary.jpg,nolink,146x150);|ECO 2nd Anniversary||
+|ポスター（3rdアニバ）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Poster3rdAnnive.jpg,nolink,150x150);|ECO 3rd Anniversary||
+|ポスター（4thアニバ）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258132423600.jpg,nolink,150x150);|ECO 4th Anniversary||
+|ポスター（5thアニバ）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1291558887685.jpg,nolink,150x150);|ECO 5th Anniversary||
+|ポスター（6thアニバ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Poster6thAnnive.jpg,nolink,150x150);|ECO 6th Anniversary||
+|ポスター（7thアニバ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Poster7thAnnive.jpg,nolink,150x150);|ECO 7th Anniversary||
+|イラスト『応援』（Production I.G）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/illust_ouen_ProductionIG.jpg,nolink,150x150);|イベント「想いを込めて 祈りのともしび」||
+|イラスト『祈り』（雀葵蘭）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/illust_inori_kirouran.jpg,nolink,150x150);|イベント「想いを込めて 祈りのともしび」||
+|イラスト『仲間』（かわすみ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/illust_kawasumi.jpg,nolink,150x150);|イベント「想いを込めて 祈りのともしび」||
+|イラスト『息吹』（ぐーじん）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/illust_ibuki_gu-jin.jpg,nolink,150x150);|イベント「想いを込めて 祈りのともしび」||
+|イラスト『祈り』（ハコマチシュシュ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/illust_inori_hakomachishushu.jpg,nolink,150x150);|イベント「想いを込めて 祈りのともしび」||
+|イラスト『祈り』（ノブヨシ侍）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/illust_inori_nobuyoshi.jpg,nolink,150x150);|イベント「想いを込めて 祈りのともしび」||
+|イラスト『祈り』（むきゅう☆）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/illust_inori_mukyuu.jpg,nolink,150x150);|イベント「想いを込めて 祈りのともしび」||
+|アルカードの肖像画|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Alucard.jpg,nolink,150x150);|ECOくじ ヴァンパイア・ロマンス|「使う」で中のアルカードが…。|
+|ヴェルデガルドの肖像画|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Veldegerd.jpg,nolink,150x150);|ノーザン地下民家（屋根裏部屋）で交換||
+|ローレライの姿見|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Loreleimirror.jpg,nolink,150x150);|ECOくじ マーメイド・オン・ステージ|「使う」でローレライ・ロアのイラストが表示される|
+|ウォールアクアリウム|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Wallaquarium.jpg,nolink,150x150);|ECOくじ マーメイド・オン・ステージ||
+|モダンな絵画|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Modernpicture.jpg,nolink,150x149);|ECOくじ 大正レトロモダニズム||
+|豪華な額縁（額金）|画像募集中|ECOくじ リトルシューターの休日|（額緑）&br;（バラと蝶々ステッカー（影絵赤））&br;（バラと蝶々ステッカー（影絵紫））に染色可能|
+***カーテン・窓 [#ka-tenn]
+|>|>|>|LEFT:~カーテン・窓|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|カーテン付き窓(ベージュ)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/CurtainWindow.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/CurtainWindow_b.jpg,nolink,150x149);|ECOくじ メイド・イン・グランドハウス|染色にて（青）に染色可能。「使う」で光が差す。|
+|月明かりのステンドグラス|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1302272808013.jpg,nolink,150x150);|ECOくじ あこがれアートコレクション||
+|星明りのステンドグラス（夜）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/hoshiakari_night.png,nolink,150x150);|ECOくじ 星降る夜の物語|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで（月）（星）に染色できる。&br;「使う」で光が差す|
+|星明りのステンドグラス（月）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/hoshiakari_moon.png,nolink,150x150);|染色で入手|「使う」で光が差す|
+|星明りのステンドグラス（星）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/hoshiakari_star.png,nolink,150x150);|染色で入手|「使う」で光が差す|
+|天上のステンドグラス|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/stained_glass.jpg,nolink,150x150);|ECOくじ ホーリーハロウィン|「使う」で光がさす。|
+|舞踏会の大窓(赤)|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Bigwindow_r.jpg,nolink,150x150);|ECOくじ 夜会への招待状|(ベージュ)に染色可能&br;「使う」で窓から光が差し込む|
+|舞踏会の大窓(ベージュ)|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/BFurniture/Bigwindow_b.jpg,nolink,150x149);|染色|「使う」で窓から光が差し込む|
+|階段付きの窓|&ref(http://eco.acronia.net/img/wiki/FlyGarden/kaidanntukimado.jpg,nolink,150x150);|ECOくじ クラシカルサーバント|-|
+|ステンドグラスの丸窓|&ref(http://eco.acronia.net/img/wiki/FlyGarden/sutenndogurasunomarumadodai.jpg,nolink,150x150);|堕ちた明けの明星・ルシファー|染色にて「青」「小・紫」「小・青」に染色可能。「使う」で光が差す。|
+|アスモデウスのステンドグラス|&ref(http://eco.acronia.net/img/wiki/FlyGarden/asumo.jpg,nolink,150x150);|神魔ステンドグラスＢＯＸ|「使う」で光が差す。|
+|ワルキューレのステンドグラス|-|~|「使う」で光が差す。|
+|ヤタガラスのステンドグラス|-|~|「使う」で光が差す。|
+|リヴァイアサンのステンドグラス|-|~|「使う」で光が差す。|
+|イシスのステンドグラス|-|~|「使う」で光が差す。|
+|イザナミのステンドグラス|-|~|「使う」で光が差す。|
+|ケルベロスのステンドグラス|-|~|「使う」で光が差す。|
+|バフォメットのステンドグラス|-|~|「使う」で光が差す。|
+|カグヤのステンドグラス|-|~|「使う」で光が差す。|
+|リリムのステンドグラス|-|~|「使う」で光が差す。|
+|麒麟のステンドグラス|-|~|「使う」で光が差す。|
+|バハムートのステンドグラス|-|~|「使う」で光が差す。|
+|クロノスのステンドグラス|-|~|「使う」で光が差す。|
+|鈴すだれ|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/ExteriorF/Suzusudare.jpg,nolink,150x150);|ECOくじ おめかし巫女装束|（青）に染色可|
+|星屑のオーナメント（黒）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/o-namennto.jpg,nolink,150x150);|ECOくじ アルカナハート・イン・ザ・サーカス|（金）に染色可&br;「使う」で左右に揺れる|
+|カーテン|&ref(http://eco.acronia.net/img/wiki/FlyGarden/ka-tenn.jpg,nolink,150x150);|運試しガチャ|-|
+|カーテン（黒）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/ka-tennkuro.jpg,nolink,150x150);|運試しガチャ|-|
+|カーテン（紫）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/ka-tennmurasaki.jpg,nolink,150x150);|運試しガチャ|-|
+|カーテン（桃）|-|運試しガチャ|-|
+|カーテン（黄緑）|-|運試しガチャ|-|
+|カーテン（フリル）|-|運試しガチャ|-|
+|カーテン（ドット）|-|運試しガチャ|-|
+|カーテン（縞）|-|運試しガチャ|-|
+|カーテン（チェック）|-|運試しガチャ|-|
+|カーテン（モノクロ）|-|運試しガチャ|-|
+|水のカーテン|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/mizunoka-tenn.jpg,nolink,150x150);|まいにちBOX3|-|
+|ブラインド|-|運試しガチャ|-|
+|ブラインド（茶）|-|運試しガチャ|-|
+|ブラインド（黄）|-|運試しガチャ|-|
+|ブラインド（青）|-|運試しガチャ|-|
+|ブラインド（灰）|-|運試しガチャ|-|
+|ブラインド（緑）|-|運試しガチャ|-|
+|ブラインド（桃）|-|運試しガチャ|-|
+
+
+
+***食事・食器 [#Tableware]
+|>|>|>|LEFT:~食事・食器|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|クリームソーダ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CreamSoda.jpg,nolink,150x150);|大陸の洞窟スタンプ||
+|クリームソーダ(青)|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/soda_b.jpg,nolink,150x150);|ネコマタ店員(100e)||
+|いちごソーダ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IchigoSoda.jpg,nolink,105x114);|ECOハートフルパッケージ||
+|いちごパフェ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Strawberry_parfait.jpg,nolink,90x150);||ECOタウン・ネコマタ店員|
+|チョコパフェ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Choco_parfait.jpg,nolink,90x150);||ネコマタ店員|
+|抹茶パフェ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/MATTYA_parfait.jpg,nolink,137x150);||ネコマタ店員|
+|ティーセット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TeaSet.jpg,nolink,150x150);|平原スタンプ&br;サウスダンジョンスタンプ||
+|ティーセット(黄)|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TeaSetKiiro.jpg,nolink,150x150);|大陸の洞窟スタンプ&br;ノーザンダンジョンスタンプ&br;サウスダンジョンスタンプ&br;&br;わくわく！GWはECOで遊ぼう2009||
+|いちごのティーセット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IchigoNoTeaSet.jpg,nolink,150x120);|ECOハートフルパッケージ||
+|ハートのティーセット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HeartNoTeaSet.jpg,nolink,144x124);|ECOくじ Ver.12||
+|手作りパイ（りんご）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TezukuriPieRingo.jpg,nolink,150x150);|宝箱16||
+|MEGA手作りパイ（りんご）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292890602322.jpg,nolink,150x150);|HappyMerryXmas2007||
+|まんぷくごちそうセット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ManpukuGochisouSet.jpg,nolink,150x150);|ECOプレイチケット第8弾||
+|いちごのショートケーキ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IchigoNoShortcake.jpg,nolink,150x70);|ECOプレイチケット第10弾||
+|点心セット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TenshinSet.jpg,nolink,150x133);|お得に冒険！30DAYSパック&br;Ver.4 スペシャルBOX3||
+|陽だまりのランチバスケット|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HidamariNoLunchBasket.jpg,nolink,150x150);|ECOくじ Ver.7|飛空庭倉庫+10|
+|陽だまりのランチバスケット（緑）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HidamariNoLunchBasketMidori.jpg,nolink,150x150);|ECOくじ 春☆スペシャル|飛空庭倉庫+10|
+|手動式かき氷機|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1247735602983.jpg,nolink,123x150);|ECOくじ Ver.9||
+|手動式かき氷機☆|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShudouShikiKakigooriKiHoshi.jpg,nolink,150x150);|ECOくじ 真夏のアンコール(１２星座)|「使う」で融けない氷からカキ氷製造|
+|ブッシュドノエル|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BucheDeNoel.jpg,nolink,150x150);|HappyMerryXmas2007||
+|BBQセット|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/bbqset.jpg,nolink,150x150);|ECOくじ Ver.15||
+|秋の日の七輪（秋刀魚）|画像募集中|ECOくじ 詠月の郷愁||
+|秋の日の七輪（茄子）|画像募集中|秋の日の七輪（秋刀魚）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|秋の日の七輪（まつたけ）|画像募集中|秋の日の七輪（秋刀魚）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。||
+|うれしい給食|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1247545553920.jpg,nolink,150x150);|ECOプレイチケット第12弾||
+|茶道部のおもてなし|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248964760844.jpg,nolink,150x150);|ECOプレイチケット第11弾||
+|ウェディングケーキ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248964553350.jpg,nolink,150x150);|ECOくじ シンフォニックウェディング||
+|大きなチョコレートケーキ|画像募集中|ECOくじ スイートバレンタイン||
+|たっぷりきのこシチュー|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1253434208049.jpg,nolink,150x150);|きのこ狩りイベント2009・2010・2011||
+|アフタヌーンティーセット|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258592394911.jpg,nolink,150x150);|ECOくじ　西洋ファンタジーロマン||
+|デザートプレート|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/DessertPlate.jpg,nolink,150x150);|ECOくじ　ハンドメイド・バレンタイン||
+|Ｈ＆Ａマグカップ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258592814937.jpg,nolink,150x150);|DLパッケージ&br;HANGRY＆ANGRY「秋の新作セット」||
+|Ｃ＆Ｐマグカップ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258592853281.jpg,nolink,150x150);|DLパッケージ&br;HANGRY＆ANGRY「キャンディ＆プリンセット」||
+|サンドイッチ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1276017203941.jpg,nolink,150x150);|ECOくじ 盤上の騎士団||
+|高級なお鍋|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Kokyuonabe.jpg,nolink,150x150);|ECO Shop 500ShopPoint &br;2009年期間限定お歳暮&br;もてなしタイニースタンプ5個の交換品|「高級鍋の具」を所持して「使う」と鍋を作る|
+|高級あま酒のとっくり|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tokkuri.jpg,nolink,150x150);|ECO Shop 500ShopPoint &br;2009年期間限定お歳暮&br;もてなしタイニースタンプ5個の交換品|「高級あま酒のもと」を所持して「使う」とあま酒を作る|
+|ラーメン|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1228452605896.jpg,nolink,150x150);|ECOタウン 100e||
+|南国カレー|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1228452404468.jpg,nolink,150x120);|ECOタウン 100e||
+|朝食セット（洋）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1228452469635.jpg,nolink,150x120);|ECOタウン 200e||
+|朝食セット（和）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1228452517823.jpg,nolink,150x120);|ECOタウン 200e||
+|うな重|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/unajuu.jpg,nolink,150x150);|料理スキルLv5|ウナギの蒲焼き：1&br;上等なお米：1&br;&br;「使う」でお重が開く|
+|天重|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Tenju.jpg,nolink,150x150);|料理スキルLv5|海老天：1&br;お米：1&br;&br;「使う」でお重が開く|
+|カツ丼|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/katudon_mini.jpg,nolink,150x150);|料理スキルLv3|やわらかいカツ：3&br;お米：10&br;たまねぎ：3&br;卵：2&br;&br;「使う」で丼が開く|
+|親子丼|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/oyakodon_mini.jpg,nolink,150x150);|料理スキルLv5|万能ネギ：1&br;肉：1&br;卵：1&br;お米：1&br;&br;「使う」で丼が開く|
+|ランチプレート（ハンバーグ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/lunchplate_h.jpg,nolink,150x150);|ECOくじ ドキドキ・クッキング！|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（オムライス）（ミートソース）に染色できる。&br;「使う」で「少し食べる」「全部食べる」「新しく盛り付ける」&br;が選択可能。|
+|ランチプレート（ミートソース）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Lunchplate_m.jpg,nolink,150x150);|ECOくじ ドキドキ・クッキング！|「使う」で「少し食べる」「全部食べる」「新しく盛り付ける」&br;が選択可能。|
+|ランチプレート（オムライス）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Lunchplate_o.jpg,nolink,150x150);|ECOくじ ドキドキ・クッキング！|使う」で「少し食べる」「全部食べる」「新しく盛り付ける」&br;が選択可能。|
+|カキ氷（ブルーハワイ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/KakigooriBlueHawaii.jpg,nolink,150x150);|料理スキルLv1|板氷：1|
+|カキ氷（いちご）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/KakigooriIchigo.jpg,nolink,150x150);|料理スキルLv1|板氷：1&br;いちご：1|
+|カキ氷（宇治金時）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/KakigooriUjiKintoki.jpg,nolink,150x150);|料理スキルLv1|板氷：1&br;あんこ：1|
+
+***天体変更[#fa7cffc5]
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|雨雲スイッチ|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/amagumo_switch_s.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/amagumo_switch2.jpg,nolink,150x150);|水も滴るフレッシュ！ECOスタートキャンペーン&br;(2013/6/27～7/18 抽選500名)&br;絆の試練ログインキャンペーン&br;(2015/5/28～6/18 抽選300名)|使用すると飛空庭の空を雨雲＆雨天に変更することができる&br;※ガーデナースキル「ウェザーコントロール」の&br;　雨と重複するかは要検証|
+|高気圧発生装置|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/koukiatu_hassei_souti.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/koukiatu_hassei_souti2.jpg,nolink,150x150);|ECOくじ ハネムーンバカンス&br;ECOくじ 涼月の姫君|使用すると飛空庭の空を夏空（入道雲）に変更することができる|
+|打ち上げ花火装置|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/utiage_hanabi.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/utiage_hanabi2.jpg,nolink,150x150);|ECOくじ サマーナイトカーニバル&br;ECOくじ 清月の電脳幻想|使用すると飛空庭の空を花火に変更することができる。&br;※花火が打ち上がるのは北側のみ|
+|スイートムーンランプ|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sweet_moon_lamp.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sweet_moon_lamp2.jpg,nolink,59x59);|ECOくじ FRILL|使用すると飛空庭の空をゴシックな空間に変更することができる|
+|夕暮れ赤とんぼ|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/yuugure_akatonbo.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/yuugure_akatonbo2.jpg,nolink,150x150);|ECOくじ 詠月の郷愁&br;ECOくじ 豊饒の村のスタートラー|使用すると飛空庭の周囲が、どこか懐かしい気分になる秋の夕暮れに変化する|
+|新春初日の出|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sinsyun_hatuhinode.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sinsyun_hatuhinode2.jpg,nolink,150x150);|ECOくじ あけおめ兎年&br;ECOくじ 雪国あやかし絵巻|使用すると飛空庭の空を初日の出に変更することができる&br;※日の出は動かない。南西で固定|
+|海路のコンパス|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/kairo_no_compass.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/kairo_no_compass2.jpg,nolink,150x150);|ECOくじ パイレーツアドベンチャー&br;ECOくじ パイレーツ・クロニクル&br;ECOドリーム ドラむすめ海賊航海記|使用すると飛空庭の空を大海原に変更することができる&br;※本来は使用中の媒体は地図が広がるが&br;　不具合により表示されなくなっている(2016/11時点)|
+|潜水装置|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sensui_souti.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sensui_souti2.jpg,nolink,150x150);|ECOくじ 夢見るアクアマリン&br;ECOくじ マーメイドオンステージ&br;ECOドリーム ライド・オン・サマー|使用すると飛空庭の空を幻想的な海の中に変更することができる|
+|ヴァルハラ|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/valhalla.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/valhalla2.jpg,nolink,150x150);|ECOくじ 古の北欧神話&br;ECOくじ ヴァルハラの戦乙女|使用すると飛空庭の空を神々の住むヴァルハラの世界に変更できる|
+|地獄の大釜|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/jigoku_no_oogama.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/jigoku_no_oogama2.jpg,nolink,150x150);|ECOくじ デビルズハロウィン&br;ECOくじ レジェンド・オブ・アスモデウス|使用すると飛空庭の空を煮えたぎるマグマが止め処なく溢れる地獄に変更することができる|
+|ムーディーライト|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/moody_lamp.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/moody_lamp2.jpg,nolink,150x150);|ECOくじ 令月の盗賊&br;ECOくじ ジェイルハウス・インプリズン&br;ECOくじ スイートバレンタイン|使用すると飛空庭の空を朝焼けの美しい景色に変更することができる|
+|ティル・ナ・ノグの入り口|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/tir_na_nog.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/tir_na_nog2.jpg,nolink,150x150);|ECOくじ 雨月の妖精物語&br;ECOくじ 優しい森の住人|使用すると飛空庭の空を森に囲まれた妖精の国に変更することができる|
+|Bloodゴシックキャンドル|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/blood_candle.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/blood_candle2.jpg,nolink,150x150);|ECOくじ ECO×h.NAOTO|使用すると飛空庭の空をダークゴシックな空間に変更することができる|
+|神秘の聖杯|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sinpi_no_seihai.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/sinpi_no_seihai2.jpg,nolink,150x150);|ECOくじ ケルティック・ファンタジー&br;ECOくじ 精霊の国のウィスプ|使用すると飛空庭の空を湖の上空にいるかのような景色に変更することができる|
+|青春の夏空|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/seisyun_no_natuzora.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/seisyun_no_natuzora2.jpg,nolink,150x150);|ECOくじ 夏色の放課後&br;ECOドリーム ライド・オン・サマー|使用すると飛空庭の空を青春の夏空に変更することができる|
+|アクロニアン天球儀|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/acronian_tenkyuugi.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/acronian_tenkyuugi2.jpg,nolink,150x150);|ECOくじ 星降る夜の物語&br;ECOくじ 星空と舞うサイクロプス&br;ECOドリーム 星降る夜の物語|使用すると飛空庭の空をアクロニアの星空に変更することができる|
+|逢魔ヶ刻&br;(おうまがどき)|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/ouma_ga_toki.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/ouma_ga_toki2.jpg,nolink,150x150);|ECOくじ 今世東洋怪異譚&br;ECOくじ 煌めく宵の狂宴‐ヤタガラス‐|使用すると飛空庭の空を逢魔ヶ刻に変更することができる|
+|星の海|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/hosi_no_umi.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/hosi_no_umi2.jpg,nolink,150x150);|ECOくじ スターライト☆ステージ|使用すると飛空庭の空をライブ会場の客席に変更することができる|
+|ハロウィンナイト|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/halloween_night.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/halloween_night2.jpg,nolink,150x150);|ECOくじ モンスター☆パレード|使用すると飛空庭の空をハロウィン状態に変更することができる|
+|ハニーポット|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/honey_pot.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/honey_pot2.jpg,nolink,150x150);|ECOくじ ロイヤルハニー・クイーンビー|使用すると飛空庭の空をはちみつ色に変更することができる|
+|雷雲発生装置|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/raiun_hassei_souti.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/raiun_hassei_souti2.jpg,nolink,150x150);|ECOドリーム 渦巻く大海のリヴァイアサン|使用すると飛空庭の空を雷雲に変更することができる|
+|不思議な闇夜の空|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/fusigi_na_yamyo.jpg,nolink,150x150);&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/Accessories/fusigi_na_yamyo2.jpg,nolink,150x150);|ECOドリーム 冥府の守護者ケルベロス|使用すると飛空庭の空を不思議な闇夜の空に変更することができる|
+***エフェクト[#efekuto]
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|イルミネーション装置|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IlluminationSouchi.jpg,nolink,150x150);|ECOくじ Ver.5&br;アニバーサリーチャンス・ECOくじ(Ver.5)&br;ECOくじ エレクトロメモリーズ||
+|イルミネーション装置（花）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248964862165.jpg,nolink,150x150);|ECOくじ 春☆スペシャル||
+|イルミネーション装置（金コイン）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258592213371.jpg,nolink,150x150);|エミル・クロニクル・オンラインVISAカード入会特典||
+|ミッドナイトイルミネーション|-|ECOくじ Ver.14||
+|イルミネーション装置（桜吹雪）|-|ECOくじ 陰月の“契約者”|「使う」で桜が舞う|
+|エフェクト発生装置（新緑）|画像募集中|ECOくじ　雨月の妖精物語|「使う」で木の葉が舞う|
+|エフェクト発生装置（紅葉）|-|ECOくじ　詠月の郷愁|「使う」で見事な紅葉が舞い散る|
+|紙吹雪発生装置|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Confetti_generator.jpg,nolink,150x143);|ECOくじ あけましアニバ||
+|雪の結晶発生装置|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Crystal_generator_of_snow.jpg,nolink,123x150);|ECOくじ 粉雪のプレゼント|「使う」で範囲内に雪の結晶が舞う|
+|夢見のオーロラ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248963137905.jpg,nolink,150x150);|ECOくじ Ver.17|「使う」で飛空庭上にオーロラが出る（天体は変わらない）|
+|北斗七星発生装置|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/hokuto_generator.jpg,nolink,150x150);|ECOくじ 北斗の拳ONLINE HEROES||
+|大泣きてるてるぼうず|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OoNakiTeruteruBouzu.jpg,nolink,150x150);|ECOくじ Ver.7|「使う」で逆さになり、てるてる坊主の上に雨が降る|
+|薔薇のかご（赤）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Rosebasket_r.jpg,nolink,150x149);|ECOくじ 水月の待ち人|「使う」で光が灯り花弁が舞う|
+|薔薇のかご（青）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Roselamp_bule.jpg,nolink,150x150);|薔薇のかご（赤）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す|「使う」で光が灯り花弁が舞う|
+|紋章発生装置|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/MonsyoHsseiSochi%2B.jpg,nolink,150x150);|ECOくじ ラジカル・セルフコンシャス|「使う」で周囲の空中に紋章が浮かび上がる|
+|星座のランプ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/constellation_lamp.png,nolink,150x150);|ECOくじ 星降る夜の物語|「使う」で宙に十二星座が展開|
+|蛍の虫かご|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292890049306.jpg,nolink,150x150);|ECOくじ Ver.15|「使う」で周囲に蛍が飛ぶ|
+|蛍の虫かご☆|-|復刻・ECOくじ第15弾エンジョイ夏休み☆|「使う」で周囲に蛍が飛ぶ|
+|スモーク発生器|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292889914690.jpg,nolink,150x150);|ECOくじ バレンタインライブ||
+***その他 [#v5553597]
+|>|>|>|LEFT:~その他|h
+|>|>|>||
+|LEFT:|LEFT:|LEFT:|LEFT:|c
+|~アイテム名|~画像|~入手|~備考|
+|カレンダー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Calendar.jpg,nolink,150x150);|宝箱8&br;コンテナ1/2/5||
+|カレンダー（花）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CalendarHana.jpg,nolink,150x150);|[[家具リサイクル>FlyGarden/Furniture#md5563f9]]|カレンダー*1（火曜日）|
+|カレンダー（タイニー）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CalendarTiny.jpg,nolink,150x150);|タイニーアイランド&br;パイレーツタイニー|タイニーメダル*1|
+|風流な掛け軸|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/HuryunaKakejiku.jpg,nolink,89x150);|ECOプレイチケット第6弾||
+|機関車（模型）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KikanshaMokei.jpg,nolink,150x111);|海岸スタンプ&br;廃炭鉱スタンプ||
+|汽車のレール（模型）|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KishaNoRailMokei.jpg,nolink,150x130);|海岸スタンプ&br;大陸の洞窟スタンプ||
+|誇り高き金のシャチホコ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248963281053.jpg,nolink,150x150);|お得に冒険！30DAYSパックVer.3　お楽しみBOX2||
+|ぶた蚊取り線香|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ButaKatoriSenkou.jpg,nolink,150x150);|ECOくじ Ver.9||
+|ぶた蚊取り線香☆|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248962257897.jpg,nolink,150x150);|ECOくじ 真夏のアンコール(１２星座)||
+|クリスタルタイニー|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CrystalTiny.jpg,nolink,150x133);|ECOくじ Ver.12|「使う」でクリスタルが光り、ハートのモーションが出る|
+|アホロートルのぬいぐるみ|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Axolotl_nuigurumi.jpg,nolink,150x150);|裁縫スキルLv5|アホロートル：3&br;ふわふわの綿：5|
+|スタッフドドッグ（大）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/staffdog.jpg,nolink,150x150);|ECOくじ もこもこファーコーデ||
+|スタッフドドッグ（中）|画像募集中|ECOくじ もこもこファーコーデ|スタッフドドッグ（大）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|
+|スタッフドドッグ（小）|画像募集中|ECOくじ もこもこファーコーデ|スタッフドドッグ（大）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|
+|スタッフドペンギン(黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Staffedpenguin_bl.jpg,nolink,150x150);|ECOくじ ピングアクアリウム||
+|スタッフドペンギン(青）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Staffedpenguin_b.jpg,nolink,150x150);|スタッフドペンギン(黒)を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す||
+|スタッフドペンギン(赤）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Staffedpenguin_r.jpg,nolink,150x150);|スタッフドペンギン(黒)を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す||
+|ねこの足跡|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248964000551.jpg,nolink,150x150);|ECOくじDX||
+|屏風|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Byoubu.jpg,nolink,107x150);|海岸スタンプ||
+|衝立「四獣対面の図」|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Taimen.jpg,nolink,150x150);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Taimen_sepia.jpg,nolink,150x149);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Taimen_plain.jpg,nolink,150x150);|ECOくじ 迅雷の鳳雛|（セピア）（無地）に染色可能|
+|レジ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Regi.jpg,nolink,150x150);|大陸スタンプ||
+|パンの詰まった箱|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1276017494338.jpg,nolink,150x150);|ECOくじ 北斗の拳ONLINE HEROES||
+|迎撃砲台|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292890532664.jpg,nolink,150x150);|ECOくじ Ver.19||
+|井戸|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258592086945.jpg,nolink,150x150);|ECOくじ RPG&br;ECOくじ フェアリーテイル|「使う」でカエルが出現|
+|立て看板|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Tatekanban.jpg,nolink,150x150);|ECOくじ RPG||
+|ドラムセット|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1293315890988.jpg,nolink,150x150);|ECOくじ シンフォニックウェディング||
+|ねこねこコンビニレジ|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1248964343204.jpg,nolink,150x150);|ECOくじ DX Ver.2||
+|お花見セット|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292890317906.jpg,nolink,150x150);|ECOくじ さんぽ日和|「使う」でシートが敷かれ弁当が広げられる|
+|おかしなストーブ（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/okasinasuto-bukuro.jpg,nolink,130x150);|ECOくじ マッド・ティータイム|「使う」で湯気と煙りが出る|
+|おかしなストーブ（茶）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Okashinasutobu_br.jpg,nolink,150x150);|ECOくじ マッド・ティータイム|おかしなストーブ（黒）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。&br;「使う」で湯気と煙りが出る|
+|石油ストーブ|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/SekiyuStove.jpg,nolink,150x150);|年賀メールお年玉くじ|「使う」で原油を1個消費して点火する。|
+|火鉢|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Hibachi.jpg,nolink,150x150);|年賀メールお年玉くじ|「使う」で火が点き餅が膨れる。|
+|おおきな姿見鏡|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OokinaSugatamiKagami.jpg,nolink,150x150);|ECOくじ ウインターホリデー||
+|大鏡|-|ファーム図鑑コンプリート報酬||
+|ダイヤの台座|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DaiyaNoDaiza.jpg,nolink,150x150);|ECOくじ 怪盗★ハード＆ワイルド|「使う」でダイヤが消える|
+|春のオルゴール（マーシャ）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1302272262497.jpg,nolink,150x150);|ECOキャラクターイメージCD &br;SPRING マーシャ特典|「使う」で蓋が開き、SPRING　マーシャを視聴できる|
+|春のオルゴール（ルルイエ）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292889673928.jpg,nolink,150x150);|ECOキャラクターイメージCD &br;SPRING ルルイエ特典||
+|春のオルゴール（ティタ）|-|ECOキャラクターイメージCD &br;SPRING ティタ特典||
+|夏のオルゴール（マーシャ）|-|ECOキャラクターイメージCD &br;SUMMER マーシャ特典||
+|夏のオルゴール（ルルイエ）|-|ECOキャラクターイメージCD &br;SUMMER ルルイエ特典||
+|夏のオルゴール（ティタ）|-|ECOキャラクターイメージCD &br;SUMMER ティタ特典||
+|秋のオルゴール（マーシャ）|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1302272717604.jpg,nolink,150x150);|ECOキャラクターイメージCD &br;AUTUMN マーシャ特典|「使う」で蓋が開き、AUTUMNマーシャを視聴できる|
+|秋のオルゴール（ルルイエ）|-|ECOキャラクターイメージCD &br;AUTUMN ルルイエ特典||
+|秋のオルゴール（ティタ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Musicbox_autumn_thita.jpg,nolink,150x150);|ECOキャラクターイメージCD &br;AUTUMN ティタ特典||
+|冬のオルゴール（マーシャ）|-|ECOキャラクターイメージCD &br;WINTER マーシャ特典||
+|冬のオルゴール（ルルイエ）|-|ECOキャラクターイメージCD &br;WINTER ルルイエ特典||
+|冬のオルゴール（ティタ）|-|ECOキャラクターイメージCD &br;WINTER ティタ特典||
+|ヴァーチャルディスプレイ|-|ヒトトセの不思議なたまご　ハヅキとナニカガスムイエ|EXイベントチケット2枚と交換|
+|几帳（春）|-|ヒトトセの不思議なたまご　キクヅキと月の姫君|EXイベントチケット1枚と交換|
+|几帳（夏）|-|ヒトトセの不思議なたまご　キクヅキと月の姫君|EXイベントチケット1枚と交換|
+|几帳（秋）|-|ヒトトセの不思議なたまご　キクヅキと月の姫君|EXイベントチケット1枚と交換|
+|几帳（冬）|-|ヒトトセの不思議なたまご　キクヅキと月の姫君|EXイベントチケット1枚と交換|
+|クリスタルキティヘッド|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1292890148310.jpg,nolink,150x150);|ECO×ハローキティといっしょ！||
+|手桶|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1238646958727.jpg,nolink,150x115);|ECOタウン 300e||
+|お風呂セット|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1238647015818.jpg,nolink,150x124);|ECOタウン 300e||
+|カードホルダー|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1293315959452.jpg,nolink,150x150);|カードラボ ジーニャ博士||
+|エスニックな壷（茶）|画像募集中|ECOくじ スカーレット・フレイム|飛空庭倉庫+10|
+|エスニックな壷（黒）|画像募集中|エスニックな壷（茶）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す。|飛空庭倉庫+10|
+|エスニックな壷（青）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/ethnicnatubobule.jpg,nolink,150x146);|エスニックな壷（茶）を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す|飛空庭倉庫+10|
+|ホログラムフラワー|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Hologramflower.jpg,nolink,150x150);|ECOくじ 清月の電脳幻想|｢使う｣で立体映像の花が咲く|
+|固定型天体望遠鏡|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Boenkyo.jpg,nolink,150x150);|ECOくじ スチームパンク||
+|固定型天体望遠鏡（卓上）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Boenkyo_m.jpg,nolink,150x150);|固定型天体望遠鏡を、&br;アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡す||
+|剣と盾の壁飾り（金）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/kenntotate.jpg,nolink,150x150);|ECOくじ 黒鉄の騎士団|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（銀）（黒鉄）に染色できる。|
+|剣と盾の壁飾り（銀）|画像募集中|染色にて入手||
+|剣と盾の壁飾り（黒鉄）|画像募集中|染色にて入手||
+|猫のぬいぐるみ（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Catdoll_black.jpg,nolink,150x150);|ECOくじ ブバスティスの子猫たち|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（白）（茶トラ）（アメショー）(ぶち)に染色できる。&br;「使う」で＼にゃー／と鳴く|
+|猫のぬいぐるみ（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Catdoll_white.jpg,nolink,150x150);|染色にて入手|「使う」で＼にゃー／と鳴く|
+|猫のぬいぐるみ（茶トラ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Catdoll_tora.jpg,nolink,150x150);|染色にて入手|「使う」で＼にゃー／と鳴く|
+|猫のぬいぐるみ（アメショー）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Catdoll_amesyo.jpg,nolink,150x150);|染色にて入手|「使う」で＼にゃー／と鳴く|
+|猫のぬいぐるみ（ぶち）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Catdoll_buti.jpg,nolink,150x150);|染色にて入手|「使う」で＼にゃー／と鳴く|
+|ながいねこのぬいぐるみ（黒）|画像募集中|ECOくじ にゃんにゃん☆ぱらだいす||
+|海賊の財宝|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Takaramono.jpg,nolink,150x150);|ECOくじ パイレーツ・クロニクル|「使用」で宝箱の蓋が開閉|
+|ウォールステッカー（ひよこ）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Wallsticker_hiyoko.jpg,nolink,150x149);|ECOくじ ぴよぴよピクニック&br;ECOくじ リトルシューターの休日|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（木と鳥）（装飾）（ひよこ・白）（木と鳥・白）（装飾・白）に染色できる。|
+|ウォールステッカー（木と鳥）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Wallsticker._W%26Bjpg.jpg,nolink,150x149);|染色で入手||
+|ウォールステッカー（装飾）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Wallsticker_sousyoku.jpg,nolink,150x150);|染色で入手||
+|がんばれぴよ|&ref(http://eco.acronia.net/img/wiki/FlyGarden/gannbarepiyo.jpg,nolink,150x150);|ECOくじ ぴよぴよピクニック|「使う」でひよこたちが無邪気にはしゃぐ|
+|おみやげテディベア（薄茶）|画像募集中|ECOくじ ふぁん☆ふぁんファンフェアー！|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（茶）（黒）に染色できる。染色によって大きさが変わる。|
+|実験器具|画像募集中|ECOくじ シークレット・ラボラトリー|「使う」で試験管などが動く|
+|ミステリーバード（青）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Mysterybird_b.jpg,nolink,150x150);|ECOくじ デーモニック・ディテクディブ|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（黄）（黒）（赤）（桃）（白）（緑）に染色できる。&br;「使う」でゆらゆらと揺れる|
+|ハロウィン・ディスプレー|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Halloweendisplay.jpg,nolink,150x150);|ECOくじ ローズウィッチ・ハロウィーン||
+|子コウモリ（紫）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/ChildBatty.jpg,nolink,150x150);|ECOくじ 大正レトロモダニズム|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで&br;（ピンク）（黒）（青）（白）に染色できる。|
+|BABYうさくみゃちゃん（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Usakumya_w.jpg,nolink,150x148);|ECOくじ ECO×BABY+A&P|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで（ピンク）（黒）に染色できる。|
+|BABYうさくみゃちゃん（ピンク）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Usakumya_p.jpg,nolink,150x150);|染色||
+|BABYうさくみゃちゃん（黒）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Usakumya_b.jpg,nolink,150x149);|染色||
+|BABYトルソー（ワンピース・白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Toruso_w.jpg,nolink,150x149);|ECOくじ ECO×BABY+A&P|アップタウン「裁縫おばさん」の家にいる&br;「染色娘」に渡すことで（ピンク）に染色できる。|
+|BABYトルソー（ピンク）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Toruso_p.jpg,nolink,150x150);|染色||
+|禁断の魔導書|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Forbiddenbook.jpg,nolink,150x150);|ECOくじ 記憶の図書館|「使う」で少女の幻影が浮かび上がる|
+|ウサギクッション（白）|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Rabbitcushion.jpg,nolink,150x150);|2014年通年イベント「空飛ぶ工房とフシギな武器」1月報酬|EXイベントチケット×３&br;（白）(茶)(黒)が選べる。染色不可|
+|怠惰のまくら|&ref(http://eco.acronia.net/img/wiki/FlyGarden/makura.jpg,nolink,150x150);|2014年通年イベント「空飛ぶ工房とフシギな武器」|EXイベントチケット×３&br;緑･赤･青が選べる。染色不可|
+|勉強道具セット|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Accessories/Studytoolset.jpg,nolink,150x150);|ECOくじ 早春スクールライフ|「使う」でノートが開き、ペンや消しゴムが広がる|
+|サイバーステッカー（青・ライン）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Cybersticker_line%2B.jpg,nolink,150x149);|ECOくじ エンシェント・サイバーウェポン|(青・魔方陣)（赤・ライン）（赤・魔方陣）に染色可|
+|サイバーステッカー（青・魔方陣）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Cybersticker_circle%2B.jpg,nolink,150x150);|染色||
+|聖夜の結晶（星）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Seiyanokessyo_st.jpg,nolink,150x150);|ECOくじ イルミネーション・クリスマス|(雪結晶)に染色可能&br;「使う」でキラキラ光る&br;大きさはココッコーより一回り小さいです|
+|聖夜の結晶（雪結晶）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Seiyanokessyo_sn.jpg,nolink,150x149);|染色|「使う」で光が差す&br;大きさはココッコーより一回り小さいです|
+|インスマウスの神棚（薄茶）|画像募集中|ECOくじ おめかし巫女装束|（神棚･薄茶）（焦茶）（神棚・焦茶）に染色可能|
+|羊のぬいぐるみ（白黒）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/Sheepdoll.jpg,nolink,150x150);|ECOくじ おめかし巫女装束|（白）（茶）に染色可能|
+|点滴（青）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/tennteki.jpg,nolink,150x202);|ゴーストのマッドクリニック|アップタウン「裁縫おばさん」の家にいる「染色娘」に渡すと「桃」に染め直すことができる。|
+|小さな西洋甲冑の置物（白）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/kattyuu.jpg,nolink,150x150);|アンデッド城の秘密|アップタウン「裁縫おばさん」の家にいる「染色娘」に渡すと「小さな西洋甲冑の置物（黒）」か「大きな西洋甲冑の置物（白）」か「大きな西洋甲冑の置物（黒）」のいずれかに交換することができる。|
+|バルーンセット（赤・青）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/baru-nn.jpg,nolink,150x261);|ECOくじ アルカナハート・イン・ザ・サーカス|（白・黒）（赤・金）に染色可|
+|精霊水晶（緑）|&ref(http://eco.acronia.net/img/wiki/FlyGarden/seireisuisyou.jpg,nolink,150x150);|ECOくじ 精霊の国のウィスプ|（青）（橙）に染色可&br;「使う」で光って反応する|

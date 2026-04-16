@@ -1,0 +1,59 @@
+# ドロップ率検証/アーチン系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***アーチン [#b6707dc9]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|アーチンのとげ|ゼリコポーション|オイル|ロウ|アーチン印のミソ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（600体）|327個（54.50％）|193個（32.17％）|69個（11.50％）|10個（1.67％）|1個（0.17％）|0個（0.00％）|
+|知識あり（900体）|367個（40.78％）|220個（24.44％）|88個（9.78％）|8個（0.89％）|0個（0.00％）|217個（24.11％）|
+
+***サラダアーチン [#l10f8e9e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|菜っ葉|レタス|黄緑のゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（2426体）|1198個（49.38％）|956個（39.41％）|248個（10.22％）|24個（0.99％）|
+|知識あり（1737体）|767個（44.16％）|771個（44.39％）|184個（10.59％）|15個（0.86％）|
+
+***キャビアーチン [#a115dc44]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|アーチン印のミソ|キャビア|黒キャビア|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|52個（52.00％）|37個（37.00％）|11個（11.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（300体）|138個（46.00％）|123個（41.00％）|32個（10.67％）|6個（2.00％）|1個（0.33％）|
+
+***タンカー [#h47785be]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|原油|プラスチック|オイル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（135体）|51個（37.78％）|64個（47.41％）|19個（14.07％）|1個（0.74％）|
+|知識あり（50体）|18個（36.00％）|22個（44.00％）|9個（18.00％）|1個（2.00％）|
+
+***クラッシュアイス [#v38d4382]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|にごった水|ミネラルウォーター|トニックウォーター|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（600体）|291個（48.50％）|232個（38.67％）|71個（11.83％）|6個（1.00％）|
+|知識あり（640体）|289個（45.16％）|271個（42.34％）|74個（11.56％）|6個（0.94％）|
+
+***エッジ [#o5bbfac1]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミルク|バター|エッジのとげ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|58個（58.00％）|34個（34.00％）|8個（8.00％）|0個（0.00％）|
+|知識あり（700体）|298個（42.57％）|309個（44.14％）|87個（12.43％）|6個（0.86％）|
+
+***トルピード [#u68e9b9b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|燐粉|黒色火薬|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|38個（38.00％）|48個（48.00％）|13個（13.00％）|1個（1.00％）|
+
+***モーニングスター [#gdb49d40]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|鉄のナゲット|銅のナゲット|銀のナゲット|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|35個（35.00％）|48個（48.00％）|13個（13.00％）|4個（4.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

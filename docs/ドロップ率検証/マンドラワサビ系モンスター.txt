@@ -1,0 +1,17 @@
+# ドロップ率検証/マンドラワサビ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***マンドラワサビ [#x9abe625]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||タムタム草|マリカ草|アボリー草|毒薬|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（50体）|29個（58.00％）|15個（30.00％）|5個（10.00％）|1個（2.00％）|
+
+***マンドラワサビ(クリスマスイベント) [#zfe94f1a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||タムタム草|マリカ草|アボリー草|毒薬|プレゼント箱|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（615体）|287個（46.66％）|246個（40.00％）|64個（10.40％）|11個（1.78％）|7個（1.13％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

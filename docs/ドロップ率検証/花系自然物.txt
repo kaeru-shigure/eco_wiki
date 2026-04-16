@@ -1,0 +1,52 @@
+# ドロップ率検証/花系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***花 [#v6a64dc6]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|花|花の種|花束|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（22体）|15個（68.18％）|7個（31.82％）|0個（0.00％）|0個（0.00％）|
+|知識あり（216体）|89個（41.20％）|58個（26.85％）|3個（1.39％）|66個（30.56％）|
+
+***炎の花 [#g59ce1e7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|いばらのトゲ|赤い花の種|赤い花びら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（119体）|79個（66.39％）|39個（32.77％）|1個（0.84％）|0個（0.00％）|
+|知識あり（61体）|28個（45.90％）|11個（18.03％）|1個（1.64％）|21個（34.43％）|
+
+***大地の花 [#cf97ef9e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|いばらのトゲ|橙の花の種|橙色の花びら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（20体）|10個（50.00％）|10個（50.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|103個（51.50％）|40個（20.00％）|1個（0.50％）|56個（28.00％）|
+
+***疾風の花 [#x34cb192]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|いばらのトゲ|黄色の花びら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|71個（71.00％）|29個（29.00％）|0個（0.00％）|
+|知識あり（250体）|119個（47.60％）|63個（25.20％）|68個（27.20％）|
+
+***氷の花 [#vc2dcede]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|いばらのトゲ|青い花の種|青い花びら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（171体）|83個（48.54％）|42個（24.56％）|1個（0.58％）|45個（26.32％）|
+
+***光の花 [#g59be368]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|じゃがいも|白い花の種|白い花びら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（55体）|36個（65.45％）|19個（34.55％）|0個（0.00％）|0個（0.00％）|
+|知識あり（55体）|22個（40.00％）|11個（20.00％）|1個（1.82％）|21個（38.18％）|
+
+***闇の花 [#ea1c59e7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|いばらのトゲ|紫色の花の種|黒色の花びら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（130体）|82個（63.08％）|46個（35.38％）|2個（1.54％）|0個（0.00％）|
+|知識あり（400体）|191個（47.75％）|107個（26.75％）|4個（1.00％）|98個（24.50％）|

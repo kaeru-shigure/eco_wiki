@@ -1,0 +1,59 @@
+# Hairsalon/2006M
+
+#author("2017-04-07T17:16:52+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*男性ヘアサロン（2006年） [#Hairsalon2006M]
+#contents
+
+
+**ヘアサロンの紹介状 [#hairsalon]
+-''&color(red){紹介状を使用して髪型を変えると、元の髪型にエクステ部分(三つ編み等)が追加されます。};''
+|~一つゴムエクステ&br;ダウン|~二つゴムエクステ&br;ダウン|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/1tsuGumExteDown.jpg,nolink,122x122);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/2tsuGumExteDown.jpg,nolink,120x120);|
+|~三つ編みエクステ&br;ダウン|~三つ編みエクステ&br;サイド|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiExteDown.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiExteSide.jpg,nolink,121x121);|
+|~きつい三つ編みエクステ&br;ダウン|~きつい三つ編みエクステ&br;サイド|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KitsuiMitsuamiExteDown.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KitsuiMitsuamiExteSide.jpg,nolink,121x121);|
+
+**セレブの紹介状 [#celeb]
+-''&color(red){紹介状を使用して髪型を変えると、元の髪型にエクステ部分(三つ編み等)が追加されます。};''
+|~一つゴムエクステ&br;アップ(セレブ特注エクステ)|~一つゴムエクステ&br;ダウン(ヘアサロンと一緒？)|>|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/1tsuGumExteUp.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/1tsuGumExteDown.jpg,nolink,122x122);|>|
+|~二つゴムエクステ&br;アップ(セレブ特注エクステ)|~二つゴムエクステ&br;ダウン(ヘアサロンと一緒？)|~二つゴムエクステ&br;サイド(セレブ特注エクステ)|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/2tsuGumExteUp.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/2tsuGumExteDown.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/2tsuGumExteSide.jpg,nolink,121x121);|
+|~三つ編みエクステ&br;アップ(セレブ特注エクステ)|~三つ編みエクステ&br;ダウン(ヘアサロンと一緒？)|~三つ編みエクステ&br;サイド(ヘアサロンと一緒？)|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiExteUp.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiExteDown.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MitsuamiExteSide.jpg,nolink,121x121);|
+|~きつい三つ編みエクステ&br;アップ(セレブ特注エクステ)|~きつい三つ編みエクステ&br;ダウン(ヘアサロンと一緒？)|~きつい三つ編みエクステ&br;サイド(ヘアサロンと一緒？)|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KitsuiMitsuamiExteUp.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KitsuiMitsuamiExteDown.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/KitsuiMitsuamiExteSide.jpg,nolink,121x121);|
+|>|>|~シニヨンエクステ&br;(クールorスキン限定)|
+|>|>|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/ChignonExte.jpg,nolink,476x110);|
+
+**ドミニオンのヘアカタログ [#Dominion]
+|~ベリアルの髪型&br;（羽々キロ氏デザイン）|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/domi.jpg,nolink,1000x250);|
+
+**アニキの紹介状 (ECOプレイチケット第2弾) [#Aniki]
+|>|COLOR(#000000):BGCOLOR(#FFFF99):~※男性専用の紹介状※|
+|~モヒカン|~リーゼント|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/Mohican.jpg,nolink,121x121);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/Regent.jpg,nolink,121x121);|
+
+**ちょいかわ紹介状（ECOプレイチケット第4弾） [#Choikawa]
+|~スポーティーポニー|~ショート＆エクステ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/supo-thixiponi-.jpg,nolink,118x150);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ekusute.jpg,nolink,117x150);|
+
+**ゴージャス紹介状（ECOプレイチケット第5弾） [#Gorgeous]
+|~縦ロール&br;（羽々キロ氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/TateRollM.png,nolink,400x250);|
+|~正統派おさげ|
+|CENTER:画像募集中（女の子と同じ）|
+
+**おてんば紹介状 (アニバーサリーチャンス・ECOくじ) [#Otenba]
+|~元気のいい弟の髪形&br;※ECO祭り2007で浅間教授が名称に言及&br;（羽々キロ氏デザイン）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/DarkStalkerNoKamigata.jpg,nolink,572x259);|
+
+[ [[ トップメニュー >#TopMenu]] ][ [[ 2007年へ続く >Hairsalon/2007M]] ]

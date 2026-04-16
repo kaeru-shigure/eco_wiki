@@ -1,0 +1,360 @@
+# Quest/AncientArk/ExCapture/BoxDrop
+
+#author("2016-11-09T14:17:20+00:00","","")
+#include(Skill/Another/MenuList,notitle)
+
+*EXキャプチャー（アナザーエンシェントアーク）報酬 [#e5a318d0]
+#contents
+
+**全キャプチャー共通 [#m6dc15fd]
+-イリスカード
+--ブランクイリスカード
+--ブランクイリスカードＣ
+
+**クエスト消費キャプチャー共通((「知りたがりの少女」以外)) [#i826ad3d]
+-万年筆
+--想いの万年筆（銅）
+--想いの万年筆（銀）
+--想いの万年筆（金）
+--想いの万年筆（虹）
+-イリスカード
+--ドロップイリスカードＢＯＸ
+--ブランクイリスカードＵＣ
+--ブランクイリスカードＲ
+--ブランクイリスカードＳＲ
+
+**「闇と獣の侵略者」のみ [#t368f8ef]
+-紙片
+--アルカードアナザーの紙片１～８
+--バステトアナザーの紙片１～８
+-パートナー
+--パワー・ストーン　【[[スフィンクス>PartnerList/Normal#Sphinx]]に使用可能、ワイズ・スフィンクスには使用不可】
+
+**「趣向な創造者」のみ [#d48dbc39]
+-紙片
+--メフィストフェレスアナザーの紙片１～８
+--イリスアナザーの紙片１～８
+-防具（レア）
+--[[ハニーワ・シールド（金）>http://eco.acronia.net/equipdb/#id=5394]]
+
+**「闇と獣の侵略者」「趣向な創造者」共通 [#k78b7c12]
+-武器
+--[[カタナ（赤紫）>http://eco.acronia.net/equipdb/#id=5393]]
+--[[マジカルサイズ（青紫）>http://eco.acronia.net/equipdb/#id=5396]]
+--[[エンドオブブック（黒）>http://eco.acronia.net/equipdb/#id=5397]]
+-防具
+--[[ストライプシャツ（水×黒）>http://eco.acronia.net/equipdb/#id=5391]]
+--[[フリルリボンカットソー（白×青）>http://eco.acronia.net/equipdb/#id=5392]]
+--[[学士のジャケット>http://eco.acronia.net/equipdb/#id=5371]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5372]]、[[＋２>http://eco.acronia.net/equipdb/#id=5373]]、[[＋３>http://eco.acronia.net/equipdb/#id=5374]]も有】
+--[[学士のスカート>http://eco.acronia.net/equipdb/#id=5240]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5364]]、[[＋２>http://eco.acronia.net/equipdb/#id=5365]]、[[＋３>http://eco.acronia.net/equipdb/#id=5366]]も有】
+--[[学士の靴>http://eco.acronia.net/equipdb/#id=5367]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5368]]、[[＋２>http://eco.acronia.net/equipdb/#id=5369]]、[[＋３>http://eco.acronia.net/equipdb/#id=5370]]も有】
+--[[アンリーシュの神眼>http://eco.acronia.net/equipdb/#id=5379]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5380]]、[[＋２>http://eco.acronia.net/equipdb/#id=5381]]、[[＋３>http://eco.acronia.net/equipdb/#id=5382]]も有】
+--[[アンリーシュワンピース>http://eco.acronia.net/equipdb/#id=5375]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5376]]、[[＋２>http://eco.acronia.net/equipdb/#id=5377]]、[[＋３>http://eco.acronia.net/equipdb/#id=5378]]も有】
+--[[アンリーシュアンクレット>http://eco.acronia.net/equipdb/#id=5383]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5384]]、[[＋２>http://eco.acronia.net/equipdb/#id=5385]]、[[＋３>http://eco.acronia.net/equipdb/#id=5386]]も有】
+-防具（レア）
+--[[赤のアンリーシュタイツ（体）>http://eco.acronia.net/equipdb/#id=5421]]
+--[[赤のアンリーシュタイツ（技）>http://eco.acronia.net/equipdb/#id=5422]]
+--[[魂の衝動（ＨＰ）>http://eco.acronia.net/equipdb/#id=5420]]
+--[[魂の衝動（会心）>http://eco.acronia.net/equipdb/#id=5387]]
+--[[魂の衝動（命中）>http://eco.acronia.net/equipdb/#id=5388]]
+--[[魂の衝動（回避）>http://eco.acronia.net/equipdb/#id=5389]]
+
+**「嘆きの歌姫」 [#wa837d69]
+-紙片
+--ローレライアナザーの紙片１～８
+--ルチフェロアナザーの紙片１～８
+-武器
+--[[ギター（黒）>http://eco.acronia.net/equipdb/#id=5464]]
+-防具
+--[[ユニークキャップ（水色）>http://eco.acronia.net/equipdb/#id=5436]]
+--[[タイタニア兵正式剣鞘（赤）>http://eco.acronia.net/equipdb/#id=5437]]
+--[[タイタニア兵正式剣鞘（腰・赤）>http://eco.acronia.net/equipdb/#id=5438]]
+--[[学士のジャケット（紫）>http://eco.acronia.net/equipdb/#id=5456]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5457]]、[[＋２>http://eco.acronia.net/equipdb/#id=5458]]、[[＋３>http://eco.acronia.net/equipdb/#id=5459]]も有】
+--[[学士のスカート（黒）>http://eco.acronia.net/equipdb/#id=5443]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5444]]、[[＋２>http://eco.acronia.net/equipdb/#id=5445]]、[[＋３>http://eco.acronia.net/equipdb/#id=5446]]も有】
+--[[学士の靴（黒）>http://eco.acronia.net/equipdb/#id=5447]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5448]]、[[＋２>http://eco.acronia.net/equipdb/#id=5449]]、[[＋３>http://eco.acronia.net/equipdb/#id=5450]]も有】
+--[[アンリーシュの神眼（黄）>http://eco.acronia.net/equipdb/#id=5439]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5440]]、[[＋２>http://eco.acronia.net/equipdb/#id=5441]]、[[＋３>http://eco.acronia.net/equipdb/#id=5442]]も有】
+--[[アンリーシュワンピース（白）>http://eco.acronia.net/equipdb/#id=5460]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5461]]、[[＋２>http://eco.acronia.net/equipdb/#id=5462]]、[[＋３>http://eco.acronia.net/equipdb/#id=5463]]も有】
+--[[アンリーシュアンクレット（青）>http://eco.acronia.net/equipdb/#id=5451]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5452]]、[[＋２>http://eco.acronia.net/equipdb/#id=5453]]、[[＋３>http://eco.acronia.net/equipdb/#id=5454]]も有】
+-防具（レア）
+--[[聖白王の礼服>http://eco.acronia.net/equipdb/#id=5455]]
+--[[青のアンリーシュタイツ（速）>http://eco.acronia.net/equipdb/#id=5434]]
+--[[青のアンリーシュタイツ（知）>http://eco.acronia.net/equipdb/#id=5435]]
+--[[魂の胎動（ＨＰ・ＳＰ）>http://eco.acronia.net/equipdb/#id=5433]]
+--[[魂の胎動（ＨＰ・ＭＰ）>http://eco.acronia.net/equipdb/#id=5432]]
+--[[魂の胎動（ＭＰ）>http://eco.acronia.net/equipdb/#id=5466]]
+--[[魂の胎動（ＳＰ）>http://eco.acronia.net/equipdb/#id=5465]]
+-家具
+--魔界の樹木
+
+**「天理人欲の錬金術師」 [#l6237d21]
+-紙片
+--パラケルススアナザーの紙片１～８
+--ワーウルフアナザーの紙片１～８
+-武器
+--[[カタナ（紫）>http://eco.acronia.net/equipdb/#id=5470]]
+--[[マジカルサイズ（赤）>http://eco.acronia.net/equipdb/#id=5471]]
+--[[エンドオブブック（白）>http://eco.acronia.net/equipdb/#id=5472]]
+-防具
+--[[フリルリボンカットソー（白×赤）>http://eco.acronia.net/equipdb/#id=5473]]
+--[[学士のモノクル（金）>http://eco.acronia.net/equipdb/#id=5474]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5475]]、[[＋２>http://eco.acronia.net/equipdb/#id=5476]]、[[＋３>http://eco.acronia.net/equipdb/#id=5477]]も有】
+--[[学士のリボン（赤）>http://eco.acronia.net/equipdb/#id=5478]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5479]]、[[＋２>http://eco.acronia.net/equipdb/#id=5480]]、[[＋３>http://eco.acronia.net/equipdb/#id=5481]]も有】
+--[[学士のジャケット（赤）>http://eco.acronia.net/equipdb/#id=5482]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5483]]、[[＋２>http://eco.acronia.net/equipdb/#id=5484]]、[[＋３>http://eco.acronia.net/equipdb/#id=5485]]も有】
+--[[学士のスカート（赤）>http://eco.acronia.net/equipdb/#id=5486]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5487]]、[[＋２>http://eco.acronia.net/equipdb/#id=5488]]、[[＋３>http://eco.acronia.net/equipdb/#id=5469]]も有】
+--[[学士の靴（赤）>http://eco.acronia.net/equipdb/#id=5489]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5490]]、[[＋２>http://eco.acronia.net/equipdb/#id=5491]]、[[＋３>http://eco.acronia.net/equipdb/#id=5492]]も有】
+--[[アンリーシュワンピース（紫）>http://eco.acronia.net/equipdb/#id=5493]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5468]]、[[＋２>http://eco.acronia.net/equipdb/#id=5494]]、[[＋３>http://eco.acronia.net/equipdb/#id=5467]]も有】
+--[[アンリーシュアンクレット（裸足）>http://eco.acronia.net/equipdb/#id=5495]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5496]]、[[＋２>http://eco.acronia.net/equipdb/#id=5497]]、[[＋３>http://eco.acronia.net/equipdb/#id=5498]]も有】
+-防具（レア）
+--[[内なる力の片鱗（魔防）>http://eco.acronia.net/equipdb/#id=5499]]
+--[[内なる力の片鱗（魔命中）>http://eco.acronia.net/equipdb/#id=5500]]
+--[[内なる力の片鱗（魔回避）>http://eco.acronia.net/equipdb/#id=5501]]
+--[[内なる力の片鱗（魔回復）>http://eco.acronia.net/equipdb/#id=5502]]
+-パートナー
+--アナザーウルフの力　【[[金狼>PartnerList/Normal#gold-wolf]]に使用可能】
+--キャリアー専用砲台　【[[キャリアー>PartnerList/Normal#carrier1]]、[[ミニキャリアー>PartnerList/Normal#mini-carrier]]に使用可能】
+--[[ホムンクルス（成熟）>PartnerList/Normal#Homunculus_Maturity]]
+
+**「比翼連理の蛇狐」 [#u49ea263]
+-紙片
+--清姫アナザーの紙片１～８
+--玉藻アナザーの紙片１～８
+-武器
+--[[カタナ（青）>http://eco.acronia.net/equipdb/#id=5508]]
+--[[エンドオブブック（漫画）>http://eco.acronia.net/equipdb/#id=5509]]
+--[[蒼溟蛇流棍>http://eco.acronia.net/equipdb/#id=5510]]
+--[[桜桃蝶舞棍>http://eco.acronia.net/equipdb/#id=5511]]
+--[[翠嵐翡翔棍>http://eco.acronia.net/equipdb/#id=5512]]
+--[[雷霆狐閃棍>http://eco.acronia.net/equipdb/#id=5513]]
+-防具
+--[[給食当番の三角巾（白）>http://eco.acronia.net/equipdb/#id=5514]]
+--[[幻狐のお面（白）>http://eco.acronia.net/equipdb/#id=5515]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5516]]、[[＋２>http://eco.acronia.net/equipdb/#id=5517]]、[[＋３>http://eco.acronia.net/equipdb/#id=5518]]も有】
+--[[幻狐装束（上・白）>http://eco.acronia.net/equipdb/#id=5519]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5524]]、[[＋２>http://eco.acronia.net/equipdb/#id=5525]]、[[＋３>http://eco.acronia.net/equipdb/#id=5526]]も有】
+--[[幻狐装束（下・白）>http://eco.acronia.net/equipdb/#id=5523]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5520]]、[[＋２>http://eco.acronia.net/equipdb/#id=5521]]、[[＋３>http://eco.acronia.net/equipdb/#id=5522]]も有】
+--[[幻狐臑当（白）>http://eco.acronia.net/equipdb/#id=5527]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5528]]、[[＋２>http://eco.acronia.net/equipdb/#id=5529]]、[[＋３>http://eco.acronia.net/equipdb/#id=5530]]も有】
+--[[夜海ノ照の鍔・眼帯>http://eco.acronia.net/equipdb/#id=5531]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5532]]、[[＋２>http://eco.acronia.net/equipdb/#id=5533]]、[[＋３>http://eco.acronia.net/equipdb/#id=5534]]も有】
+--[[桔梗染軽装帯付具足・胴>http://eco.acronia.net/equipdb/#id=5535]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5536]]、[[＋２>http://eco.acronia.net/equipdb/#id=5537]]、[[＋３>http://eco.acronia.net/equipdb/#id=5538]]も有】
+--[[桔梗染軽装帯付具足・草履>http://eco.acronia.net/equipdb/#id=5539]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5540]]、[[＋２>http://eco.acronia.net/equipdb/#id=5541]]、[[＋３>http://eco.acronia.net/equipdb/#id=5542]]も有】
+-防具（レア）
+--桔梗染軽装帯付具足・足袋（ＳＰ）
+--桔梗染軽装帯付具足・足袋（ＭＰ）
+--[[内なる力の片鱗（物回避）>http://eco.acronia.net/equipdb/#id=5504]]
+--[[内なる力の片鱗（速・知）>http://eco.acronia.net/equipdb/#id=5503]]
+--[[内なる力の片鱗（会心回避）>http://eco.acronia.net/equipdb/#id=5505]]
+--[[内なる力の片鱗（速）>http://eco.acronia.net/equipdb/#id=5506]]
+
+**「海賊団と宝島」 [#fd0b0f6f]
+-紙片
+--ル・フェイアナザーの紙片１～８
+--キャプテンキッドアナザーの紙片１～８
+-防具((＋無しはＢＯＸ開封からのみ))
+--[[ハーミットフード（白）>http://eco.acronia.net/equipdb/#id=5558]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5559]]、[[＋２>http://eco.acronia.net/equipdb/#id=5560]]、[[＋３>http://eco.acronia.net/equipdb/#id=5561]]が有】
+--[[ハーミットフード（黒）>http://eco.acronia.net/equipdb/#id=5562]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5563]]、[[＋２>http://eco.acronia.net/equipdb/#id=5564]]、[[＋３>http://eco.acronia.net/equipdb/#id=5565]]が有】
+--[[ハーミットフード（茶）>http://eco.acronia.net/equipdb/#id=5566]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5567]]、[[＋２>http://eco.acronia.net/equipdb/#id=5568]]、[[＋３>http://eco.acronia.net/equipdb/#id=5569]]が有】
+--[[ジョンベラワンピ（白）>http://eco.acronia.net/equipdb/#id=5595]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5596]]、[[＋２>http://eco.acronia.net/equipdb/#id=5597]]、[[＋３>http://eco.acronia.net/equipdb/#id=5598]]が有】
+--[[ジョンベラ（Ａタイプ・青）>http://eco.acronia.net/equipdb/#id=5599]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5600]]、[[＋２>http://eco.acronia.net/equipdb/#id=5601]]、[[＋３>http://eco.acronia.net/equipdb/#id=5602]]が有】
+--[[ジョンベラスカート（青）>http://eco.acronia.net/equipdb/#id=5578]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5579]]、[[＋２>http://eco.acronia.net/equipdb/#id=5580]]、[[＋３>http://eco.acronia.net/equipdb/#id=5581]]が有】
+--[[ジョンベラズボン（青）>http://eco.acronia.net/equipdb/#id=5582]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5583]]、[[＋２>http://eco.acronia.net/equipdb/#id=5584]]、[[＋３>http://eco.acronia.net/equipdb/#id=5585]]が有】
+--[[パイレーツコート（茶）>http://eco.acronia.net/equipdb/#id=5612]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5545]]、[[＋２>http://eco.acronia.net/equipdb/#id=5546]]、[[＋３>http://eco.acronia.net/equipdb/#id=5547]]が有】
+--[[パイレーツボトム（茶）>http://eco.acronia.net/equipdb/#id=5586]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5552]]、[[＋２>http://eco.acronia.net/equipdb/#id=5553]]、[[＋３>http://eco.acronia.net/equipdb/#id=5554]]が有】
+--[[パイレーツシューズ（茶）>http://eco.acronia.net/equipdb/#id=5591]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5551]]、[[＋２>http://eco.acronia.net/equipdb/#id=5550]]、[[＋３>http://eco.acronia.net/equipdb/#id=5548]]が有】
+--[[サーフトップス♀（青）>http://eco.acronia.net/equipdb/#id=5613]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5614]]、[[＋２>http://eco.acronia.net/equipdb/#id=5615]]、[[＋３>http://eco.acronia.net/equipdb/#id=5616]]が有】
+--[[サーフパンツ（青）>http://eco.acronia.net/equipdb/#id=5587]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5588]]、[[＋２>http://eco.acronia.net/equipdb/#id=5589]]、[[＋３>http://eco.acronia.net/equipdb/#id=5590]]が有】
+--[[精霊のマント（白）>http://eco.acronia.net/equipdb/#id=5570]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5571]]、[[＋２>http://eco.acronia.net/equipdb/#id=5572]]、[[＋３>http://eco.acronia.net/equipdb/#id=5573]]が有】
+--[[ショルダーマント（白）>http://eco.acronia.net/equipdb/#id=5574]]　【[[＋１>http://eco.acronia.net/equipdb/#id=5575]]、[[＋２>http://eco.acronia.net/equipdb/#id=5576]]、[[＋３>http://eco.acronia.net/equipdb/#id=5577]]が有】
+-防具（レア）
+--[[古風な足袋（力）>http://eco.acronia.net/equipdb/#id=5549]]
+--[[古風な足袋（魔）>http://eco.acronia.net/equipdb/#id=5621]]
+--[[古風な足袋（遠命中）>http://eco.acronia.net/equipdb/#id=5544]]
+--[[古風な足袋（会心命中）>http://eco.acronia.net/equipdb/#id=5543]]
+--[[ル・フェイの五芒星（魔攻）>http://eco.acronia.net/equipdb/#id=5618]]
+--[[ル・フェイの五芒星（ＨＰ・魔攻）>http://eco.acronia.net/equipdb/#id=5619]]
+--[[キャプテンキッドの海賊旗（物攻）>http://eco.acronia.net/equipdb/#id=5557]]
+--[[キャプテンキッドの海賊旗（ＨＰ・物攻）>http://eco.acronia.net/equipdb/#id=5620]]
+-ＢＯＸ
+--ハーミットフードＢＯＸ
+--ジョンベラワンピＢＯＸ
+--ジョンベラＢＯＸ
+--ジョンベラスカートＢＯＸ
+--ジョンベラズボンＢＯＸ
+--パイレーツコートＢＯＸ
+--パイレーツボトムＢＯＸ
+--パイレーツシューズＢＯＸ
+--サーフトップス♀ＢＯＸ
+--サーフパンツＢＯＸ
+--精霊のマントＢＯＸ
+--ショルダーマントＢＯＸ
+--パイレーツハチェットＢＯＸ
+--パイレーツマスケットＢＯＸ
+-パートナー
+--桃用ジョンベラＢＯＸ・青
+--藍用ジョンベラＢＯＸ・青
+--山吹用ジョンベラＢＯＸ・青
+--菫用ジョンベラＢＯＸ・青
+--茜用ジョンベラＢＯＸ・青
+--杏用ジョンベラＢＯＸ・青
+--空用ジョンベラＢＯＸ・青
+--胡桃用ジョンベラＢＯＸ・青
+--若菜用ジョンベラＢＯＸ・青
+--緑用ジョンベラＢＯＸ・青
+--白用ジョンベラＢＯＸ・青
+--黒用ジョンベラＢＯＸ・青
+-家具
+--ネコマタ用タンス
+
+**「報われない世界」 [#w475c265]
+-紙片
+--ステラアナザーの紙片１～８
+-武器
+--パラティヌスフォルション（金）
+--パラティヌスフォルション（銀）
+-防具
+--覆面マスク（青）
+--覆面マスク（赤）
+--覆面マスク（黄）
+--覆面マスク（緑）
+--覆面マスク（紫）
+--覆面マスク（白）
+--覆面マスク（黒）
+--覆面マスク（黒桃）
+--覆面マスク（黒紫）
+--覆面マスク（白赤）
+--覆面マスク（白金）
+--パラティヌスリース（金）　【＋１、＋２、＋３も有】
+--パラティヌスリース（銀）
+--パラティヌスアーマー（金）　【＋１、＋２、＋３も有】
+--パラティヌスアーマー（銀）
+--パラティヌスゲートル（金）　【＋１、＋２、＋３も有】
+--パラティヌスゲートル（銀）
+--カニングフォークキャップ（白）　【＋１、＋２、＋３が有】
+--カニングフォークコート（白）　【＋１、＋２、＋３が有】
+--カニングフォークスカート（白）　【＋１、＋２、＋３が有】
+--カニングフォークソックス（白）　【＋１、＋２、＋３が有】
+--カニングフォークブーツ（白）　【＋１、＋２、＋３が有】
+--天然石パワーブレスレット（赤）
+-防具（レア）
+--内なる力の片鱗（物防）
+--スノーホワイト
+--チェリーブロッサム
+--ブラックフェザー
+-ＢＯＸ
+--ライトウィングＢＯＸ
+--ピュアヘッドドレスＢＯＸ
+--ピュアドレスＢＯＸ
+--ピュアサンダルＢＯＸ
+--カニングフォークロッドＢＯＸ
+--カニングフォークキャップＢＯＸ
+--カニングフォークコートＢＯＸ
+--カニングフォークスカートＢＯＸ
+--カニングフォークソックスＢＯＸ
+--カニングフォークブーツＢＯＸ
+-パートナー
+--[[インスマウス・アルマ>PartnerList/Almamonster#InnsmouthAlma]]
+
+//|~報酬アイテム名|>|>|>|>|>|~EXキャプチャー名|~備考|
+//|~|~少女|~侵略者|~創造者|~歌姫|~錬金|~蛇狐|~|
+//|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|c
+//|ドロップイリスカードＢＯＸ||◯|◯|◯|◯|◯||
+//|ブランクイリスカード|◯|◯|◯|◯|◯|◯||
+//|ブランクイリスカードＣ|◯|◯|◯|◯|◯|◯||
+//|ブランクイリスカードＵＣ||◯|◯|◯|◯|◯||
+//|ブランクイリスカードＲ||◯|◯|◯|◯|◯||
+//|ブランクイリスカードＳＲ||◯|◯|◯|◯|◯||
+//|>|>|>|>|>|>|>| |
+//|アルカードアナザーの紙片１～８|×|◯|×|×|×|×|赤・金|
+//|バステトアナザーの紙片１～８|×|◯|×|×|×|×|赤・金|
+//|メフィストフェレスアナザーの紙片１～８|×|×|◯|×|×|×|赤・金|
+//|イリスアナザーの紙片１～８|×|×|◯|×|×|×|赤・金|
+//|ローレライアナザーの紙片１～８|×|×|×|◯|×|×|赤・金|
+//|ルチフェロアナザーの紙片１～８|×|×|×|◯|×|×|赤・金|
+//|パラケルススアナザーの紙片１～８|×|×|×|×|◯|×|赤・金|
+//|ワーウルフアナザーの紙片１～８|×|×|×|×|◯|×|赤・金|
+//|清姫アナザーの紙片１～８|×|×|×|×|×|◯|赤・金|
+//|玉藻アナザーの紙片１～８|×|×|×|×|×|◯|赤・金|
+//|>|>|>|>|>|>|>| |
+//|想いの万年筆（銅）|×|◯|◯|◯|◯|◯|赤で確認|
+//|想いの万年筆（銀）|×|◯|◯|◯|◯|◯|赤で確認|
+//|想いの万年筆（金）|×|◯|◯|◯|◯||赤で確認&br;(イレギュラー未出現)|
+//|想いの万年筆（虹）|×|◯|◯|◯|◯||赤で確認&br;(イレギュラー未出現)|
+//|>|>|>|>|>|>|>| |
+//|[[カタナ（赤紫）>http://eco.acronia.net/equipdb/#id=5393]]|×|◯|◯|×|×|×||
+//|[[カタナ（紫）>http://eco.acronia.net/equipdb/#id=5470]]|×|×|×|×|◯|×||
+//|[[カタナ（青）>http://eco.acronia.net/equipdb/#id=5508]]|×|×|×|×|×|◯||
+//|[[マジカルサイズ（青紫）>http://eco.acronia.net/equipdb/#id=5396]]|×|◯|◯|×|×|×||
+//|[[マジカルサイズ（赤）>http://eco.acronia.net/equipdb/#id=5471]]|×|×|×|×|◯|×||
+//|[[エンドオブブック（黒）>http://eco.acronia.net/equipdb/#id=5397]]|×|◯|◯|×|×|×||
+//|[[エンドオブブック（白）>http://eco.acronia.net/equipdb/#id=5472]]|×|×|×|×|◯|×||
+//|[[エンドオブブック（漫画）>http://eco.acronia.net/equipdb/#id=5509]]|×|×|×|×|×|◯||
+//|[[ギター（黒）>http://eco.acronia.net/equipdb/#id=5464]]|×|×|×|◯|×|×||
+//|[[蒼溟蛇流棍>http://eco.acronia.net/equipdb/#id=5510]]|×|×|×|×|×|◯||
+//|[[桜桃蝶舞棍>http://eco.acronia.net/equipdb/#id=5511]]|×|×|×|×|×|◯||
+//|[[翠嵐翡翔棍>http://eco.acronia.net/equipdb/#id=5512]]|×|×|×|×|×|◯||
+//|[[雷霆狐閃棍>http://eco.acronia.net/equipdb/#id=5513]]|×|×|×|×|×|◯||
+//|>|>|>|>|>|>|>| |
+//|[[ユニークキャップ（水色）>http://eco.acronia.net/equipdb/#id=5436]]|×|×|×|◯|×|×||
+//|[[給食当番の三角巾（白）>http://eco.acronia.net/equipdb/#id=5514]]|×|×|×|×|×|◯||
+//|[[ストライプシャツ（水×黒）>http://eco.acronia.net/equipdb/#id=5391]]|×|◯|◯|×|×|×||
+//|[[フリルリボンカットソー（白×青）>http://eco.acronia.net/equipdb/#id=5392]]|×|◯|◯|×|×|×||
+//|[[フリルリボンカットソー（白×赤）>http://eco.acronia.net/equipdb/#id=5473]]|×|×|×|×|◯|×||
+//|[[聖白王の礼服>http://eco.acronia.net/equipdb/#id=5455]]|×|×|×|◯|×|×||
+//|[[タイタニア兵正式剣鞘（赤）>http://eco.acronia.net/equipdb/#id=5437]]|×|×|×|◯|×|×||
+//|[[タイタニア兵正式剣鞘（腰・赤）>http://eco.acronia.net/equipdb/#id=5438]]|×|×|×|◯|×|×||
+//|[[ハニーワ・シールド（金）>http://eco.acronia.net/equipdb/#id=5394]]|×|×|◯|×|×|×|レア|
+//|>|>|>|>|>|>|>| |
+//|[[学士のモノクル（金）>http://eco.acronia.net/equipdb/#id=5474]]|×|×|×|×|◯|×|[[＋１>http://eco.acronia.net/equipdb/#id=5475]]、[[＋２>http://eco.acronia.net/equipdb/#id=5476]]、[[＋３>http://eco.acronia.net/equipdb/#id=5477]]も有|
+//|[[学士のリボン（赤）>http://eco.acronia.net/equipdb/#id=5478]]|×|×|×|×|◯|×|[[＋１>http://eco.acronia.net/equipdb/#id=5479]]、[[＋２>http://eco.acronia.net/equipdb/#id=5480]]、[[＋３>http://eco.acronia.net/equipdb/#id=5481]]も有|
+//|[[学士のジャケット>http://eco.acronia.net/equipdb/#id=5371]]|×|◯|◯|×|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5372]]、[[＋２>http://eco.acronia.net/equipdb/#id=5373]]、[[＋３>http://eco.acronia.net/equipdb/#id=5374]]も有|
+//|[[学士のジャケット（紫）>http://eco.acronia.net/equipdb/#id=5456]]|×|×|×|◯|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5457]]、[[＋２>http://eco.acronia.net/equipdb/#id=5458]]、[[＋３>http://eco.acronia.net/equipdb/#id=5459]]も有|
+//|[[学士のジャケット（赤）>http://eco.acronia.net/equipdb/#id=5482]]|×|×|×|×|◯|×|[[＋１>http://eco.acronia.net/equipdb/#id=5483]]、[[＋２>http://eco.acronia.net/equipdb/#id=5484]]、[[＋３>http://eco.acronia.net/equipdb/#id=5485]]も有|
+//|[[学士のスカート>http://eco.acronia.net/equipdb/#id=5240]]|×|◯|◯|×|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5364]]、[[＋２>http://eco.acronia.net/equipdb/#id=5365]]、[[＋３>http://eco.acronia.net/equipdb/#id=5366]]も有|
+//|[[学士のスカート（黒）>http://eco.acronia.net/equipdb/#id=5443]]|×|×|×|◯|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5444]]、[[＋２>http://eco.acronia.net/equipdb/#id=5445]]、[[＋３>http://eco.acronia.net/equipdb/#id=5446]]も有|
+//|[[学士のスカート（赤）>http://eco.acronia.net/equipdb/#id=5486]]|×|×|×|×|◯|×|[[＋１>http://eco.acronia.net/equipdb/#id=5487]]、[[＋２>http://eco.acronia.net/equipdb/#id=5488]]、[[＋３>http://eco.acronia.net/equipdb/#id=5469]]も有|
+//|[[学士の靴>http://eco.acronia.net/equipdb/#id=5367]]|×|◯|◯|×|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5368]]、[[＋２>http://eco.acronia.net/equipdb/#id=5369]]、[[＋３>http://eco.acronia.net/equipdb/#id=5370]]も有|
+//|[[学士の靴（黒）>http://eco.acronia.net/equipdb/#id=5447]]|×|×|×|◯|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5448]]、[[＋２>http://eco.acronia.net/equipdb/#id=5449]]、[[＋３>http://eco.acronia.net/equipdb/#id=5450]]も有|
+//|[[学士の靴（赤）>http://eco.acronia.net/equipdb/#id=5489]]|×|×|×|×|◯|×|[[＋１>http://eco.acronia.net/equipdb/#id=5490]]、[[＋２>http://eco.acronia.net/equipdb/#id=5491]]、[[＋３>http://eco.acronia.net/equipdb/#id=5492]]も有|
+//|>|>|>|>|>|>|>| |
+//|[[アンリーシュの神眼>http://eco.acronia.net/equipdb/#id=5379]]|×|◯|◯|×|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5380]]、[[＋２>http://eco.acronia.net/equipdb/#id=5381]]、[[＋３>http://eco.acronia.net/equipdb/#id=5382]]も有|
+//|[[アンリーシュの神眼（黄）>http://eco.acronia.net/equipdb/#id=5439]]|×|×|×|◯|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5440]]、[[＋２>http://eco.acronia.net/equipdb/#id=5441]]、[[＋３>http://eco.acronia.net/equipdb/#id=5442]]も有|
+//|[[アンリーシュワンピース>http://eco.acronia.net/equipdb/#id=5375]]|×|◯|◯|×|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5376]]、[[＋２>http://eco.acronia.net/equipdb/#id=5377]]、[[＋３>http://eco.acronia.net/equipdb/#id=5378]]も有|
+//|[[アンリーシュワンピース（白）>http://eco.acronia.net/equipdb/#id=5460]]|×|×|×|◯|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5461]]、[[＋２>http://eco.acronia.net/equipdb/#id=5462]]、[[＋３>http://eco.acronia.net/equipdb/#id=5463]]も有|
+//|[[アンリーシュワンピース（紫）>http://eco.acronia.net/equipdb/#id=5493]]|×|×|×|×|◯|×|[[＋１>http://eco.acronia.net/equipdb/#id=5468]]、[[＋２>http://eco.acronia.net/equipdb/#id=5494]]、[[＋３>http://eco.acronia.net/equipdb/#id=5467]]も有|
+//|[[アンリーシュアンクレット>http://eco.acronia.net/equipdb/#id=5383]]|×|◯|◯|×|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5384]]、[[＋２>http://eco.acronia.net/equipdb/#id=5385]]、[[＋３>http://eco.acronia.net/equipdb/#id=5386]]も有|
+//|[[アンリーシュアンクレット（青）>http://eco.acronia.net/equipdb/#id=5451]]|×|×|×|◯|×|×|[[＋１>http://eco.acronia.net/equipdb/#id=5452]]、[[＋２>http://eco.acronia.net/equipdb/#id=5453]]、[[＋３>http://eco.acronia.net/equipdb/#id=5454]]も有|
+//|[[アンリーシュアンクレット（裸足）>http://eco.acronia.net/equipdb/#id=5495]]|×|×|×|×|◯|×|[[＋１>http://eco.acronia.net/equipdb/#id=5496]]、[[＋２>http://eco.acronia.net/equipdb/#id=5497]]、[[＋３>http://eco.acronia.net/equipdb/#id=5498]]も有|
+//|[[赤のアンリーシュタイツ（体）>http://eco.acronia.net/equipdb/#id=5421]]|×|◯||×|×|×|レア|
+//|[[赤のアンリーシュタイツ（技）>http://eco.acronia.net/equipdb/#id=5422]]|×|◯||×|×|×|レア|
+//|[[青のアンリーシュタイツ（速）>http://eco.acronia.net/equipdb/#id=5434]]|×|×|×|◯|×||×レア&br;黄で確認&br;(イレギュラー未出現)|
+//|[[青のアンリーシュタイツ（知）>http://eco.acronia.net/equipdb/#id=5435]]|×|×|×|◯|×|×|レア|
+//|>|>|>|>|>|>|>| |
+//|[[幻狐のお面（白）>http://eco.acronia.net/equipdb/#id=5515]]|×|×|×|×|×|◯|[[＋１>http://eco.acronia.net/equipdb/#id=5516]]、[[＋２>http://eco.acronia.net/equipdb/#id=5517]]、[[＋３>http://eco.acronia.net/equipdb/#id=5518]]も有|
+//|[[幻狐装束（上・白）>http://eco.acronia.net/equipdb/#id=5519]]|×|×|×|×|×|◯|[[＋１>http://eco.acronia.net/equipdb/#id=5524]]、[[＋２>http://eco.acronia.net/equipdb/#id=5525]]、[[＋３>http://eco.acronia.net/equipdb/#id=5526]]も有|
+//|[[幻狐装束（下・白）>http://eco.acronia.net/equipdb/#id=5523]]|×|×|×|×|×|◯|[[＋１>http://eco.acronia.net/equipdb/#id=5520]]、[[＋２>http://eco.acronia.net/equipdb/#id=5521]]、[[＋３>http://eco.acronia.net/equipdb/#id=5522]]も有|
+//|[[幻狐臑当（白）>http://eco.acronia.net/equipdb/#id=5527]]|×|×|×|×|×|◯|[[＋１>http://eco.acronia.net/equipdb/#id=5528]]、[[＋２>http://eco.acronia.net/equipdb/#id=5529]]、[[＋３>http://eco.acronia.net/equipdb/#id=5530]]も有|
+//|[[夜海ノ照の鍔・眼帯>http://eco.acronia.net/equipdb/#id=5531]]|×|×|×|×|×|◯|[[＋１>http://eco.acronia.net/equipdb/#id=5532]]、[[＋２>http://eco.acronia.net/equipdb/#id=5533]]、[[＋３>http://eco.acronia.net/equipdb/#id=5534]]も有|
+//|[[桔梗染軽装帯付具足・胴>http://eco.acronia.net/equipdb/#id=5535]]|×|×|×|×|×|◯|[[＋１>http://eco.acronia.net/equipdb/#id=5536]]、[[＋２>http://eco.acronia.net/equipdb/#id=5537]]、[[＋３>http://eco.acronia.net/equipdb/#id=5538]]も有|
+//|[[桔梗染軽装帯付具足・草履>http://eco.acronia.net/equipdb/#id=5539]]|×|×|×|×|×|◯|[[＋１>http://eco.acronia.net/equipdb/#id=5540]]、[[＋２>http://eco.acronia.net/equipdb/#id=5541]]、[[＋３>http://eco.acronia.net/equipdb/#id=5542]]も有|
+//|>|>|>|>|>|>|>| |
+//|[[魂の衝動（ＨＰ）>http://eco.acronia.net/equipdb/#id=5420]]|×|◯|◯|×|×||レア&br;赤で確認&br;(イレギュラー未出現)|
+//|[[魂の衝動（会心）>http://eco.acronia.net/equipdb/#id=5387]]|×|||×|×||レア|
+//|[[魂の衝動（命中）>http://eco.acronia.net/equipdb/#id=5388]]|×|◯|◯|×|×||レア&br;赤で確認&br;(イレギュラー未出現)|
+//|[[魂の衝動（回避）>http://eco.acronia.net/equipdb/#id=5389]]|×|◯|◯|×|×||レア&br;赤で確認&br;(イレギュラー未出現)|
+//|[[魂の胎動（ＨＰ・ＳＰ）>http://eco.acronia.net/equipdb/#id=5433]]|×|×|×|◯|×||レア&br;赤で確認&br;(イレギュラー未出現)|
+//|[[魂の胎動（ＨＰ・ＭＰ）>http://eco.acronia.net/equipdb/#id=5432]]|×|×|×|◯|×||レア&br;赤で確認&br;(イレギュラー未出現)|
+//|[[魂の胎動（ＭＰ）>http://eco.acronia.net/equipdb/#id=5466]]|×|×|×|◯|×||レア&br;赤で確認&br;(イレギュラー未出現)|
+//|[[魂の胎動（ＳＰ）>http://eco.acronia.net/equipdb/#id=5465]]|×|×|×|◯|×||レア&br;赤で確認&br;(イレギュラー未出現)|
+//|[[内なる力の片鱗（魔防）>http://eco.acronia.net/equipdb/#id=5499]]|×|×|×|×|◯||レア|
+//|[[内なる力の片鱗（魔命中）>http://eco.acronia.net/equipdb/#id=5500]]|×|×|×|×|◯||レア|
+//|[[内なる力の片鱗（魔回避）>http://eco.acronia.net/equipdb/#id=5501]]|×|×|×|×|◯||レア|
+//|[[内なる力の片鱗（魔回復）>http://eco.acronia.net/equipdb/#id=5502]]|×|×|×|×|◯||レア|
+//|[[内なる力の片鱗（物回避）>http://eco.acronia.net/equipdb/#id=5504]]|×|×|×|×|×||レア|
+//|[[内なる力の片鱗（速・知）>http://eco.acronia.net/equipdb/#id=5503]]|×|×|×|×|×||レア|
+//|[[内なる力の片鱗（会心回避）>http://eco.acronia.net/equipdb/#id=5505]]|×|×|×|×|×||レア|
+//|[[内なる力の片鱗（速）>http://eco.acronia.net/equipdb/#id=5506]]|×|×|×|×|×||レア|
+//|>|>|>|>|>|>|>| |
+//|パワー・ストーン|×|◯|×|×|×|×|レア&br;[[スフィンクス>PartnerList/Normal#Sphinx]]に使用可能&br;ワイズ・スフィンクスには使用不可|
+//|アナザーウルフの力|×|×|×|×|◯|×|[[金狼>PartnerList/Normal#gold-wolf]]に使用可能|
+//|キャリアー専用砲台|×|×|×|×|◯|×|[[キャリアー>PartnerList/Normal#carrier1]]、[[ミニキャリアー>PartnerList/Normal#mini-carrier]]に使用可能|
+//|[[ホムンクルス（成熟）>PartnerList/Normal#Homunculus_Maturity]]|×|×|×|×|◯|×|パートナー|
+//|魔界の樹木|×|×|×|◯|×|×||
+//|>|>|>|>|>|>|>| |
+
+**コメント欄 [#f4ae5be3]
+#pcomment

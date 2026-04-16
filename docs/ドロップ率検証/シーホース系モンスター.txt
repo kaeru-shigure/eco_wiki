@@ -1,0 +1,17 @@
+# ドロップ率検証/シーホース系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[水中生物知識>ドロップ率検証#qf2e06cc]]
+
+***シーホース [#q66fc877]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ケセランパサラン|魚のウロコ|ミネラルウォーター|サンゴ|上等なサンゴ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（500体）|143個（28.6％）|137個（27.4％）|95個（19.00％）|53個（10.60％）|19個（3.80％）|3個（0.60％）|
+
+***シードラゴン [#j4abbe92]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|ハーブのど飴|異界の羽|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|35個（35.00％）|41個（0.00％）|14個（0.00％）|10個（0.00％）|

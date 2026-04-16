@@ -1,0 +1,10 @@
+# Hairsalon/MenuTest
+
+*ヘアサロン分割テストメニュー [#n93202c8]
+''&color(red){編集テストページです};''
+
+（[[編集議論スレッド>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1253723681/]]で分割案募集中）
+-髪型の変更 
+--男性ヘアサロンTest（ ヘアカタログTest ）（ 2006年 / 2007年 / 2008年 / 2009年 / 2010年 ）
+--[[女性ヘアサロンTest>Hearsallon_testpage]]（[[ ヘアカタログTest >HearCatalogF_testpage]]）（[[ 2006年Test >Hairsalon/2006F_testpage]]/[[ 2007年Test >Hairsalon/2007F_testpage]]/[[ 2008年Test >Hairsalon/2008F_testpage]]/[[ 2009年Test >Hairsalon/2009F_testpage]]/[[ 2010年Test >Hairsalon/2010F_testpage]]/ 2011年 ）
+RIGHT:&edit(,noicon){ヘアサロン''テスト''メニューを編集};

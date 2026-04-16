@@ -1,0 +1,428 @@
+# Kuji/2016
+
+#author("2016-09-17T14:26:54+00:00","","")
+//#include(Kuji/Menu,notitle)
+//ECOくじページTOP(kuji)においてincludeが重複する事になるので最新年はメニュー表示なしで
+*ECOくじ 2016年 [#cc8a9895]
+#contents
+
+**レジェンド・オブ・アスモデウス：2016/1/4〜2016/1/18 [#y2167233]
+http://econline.gungho.jp/econetstore/2016/legend-of-asmodeus/
+
+01.　[[アスモデウス>PartnerList/Shinma#Asmodeus]]（レア）
+02.　[[地獄の竜>PartnerList/Ride#jigokunoryuu]]（レア）
+03.　大悪魔の翼（黒）
+04.　大悪魔のワンピース（黒）
+05.　アスモデウスの紹介状
+06.　廃教会の壁（グレー）
+07.　大悪魔のブーツ（黒）
+08.　地獄の大釜
+09.　眷属のスーツ(黒) 
+10.　大悪魔のスカート（黒）
+11.　大悪魔の片刃剣（紫）＋ＥＸイベントチケット（1個）
+12.　眷属の像（グレー）＋ＥＸイベントチケット（1個）
+13.　謁見の間の玉座＋次元のかけら（80個セット）
+
+**洋装仕立てのホワイトファング：2016/1/18〜2016/2/1 [#v3342079]
+http://econline.gungho.jp/econetstore/2016/yousoujitateno-whitefang/
+
+01.　[[ホワイトファング・アルマ>PartnerList/Almamonster#WhitefangAlma]]（レア）
+02.　[[ほわいと三兄弟>PartnerList/Normal#whitefang-brothers]]（レア）
+03.　和柄のタイツ（茶梅）
+04.　和柄のジャケット（青）
+05.　ホワイトファングの紹介状
+06.　和柄のスカート（青）
+07.　レトロモダンワンピース（緑）
+08.　レトロモダンな壁
+09.　和柄のブーツ（青）
+10.　漆塗のテーブルセット（赤）
+11.　和風の玄関マット（梅）＋ＥＸイベントチケット（1個）
+12.　活花の花瓶（青）＋ＥＸイベントチケット（1個）
+13.　行燈（桃）＋次元のかけら（80個セット）
+
+**ヴァルハラの戦乙女：2016/2/1〜2016/2/15 [#i312f906]
+http://econline.gungho.jp/econetstore/2016/valhalla-no-ikusaotome/
+
+01.　[[ワルキューレ>PartnerList/Shinma#valkyrie]]（レア）
+02.　[[戦乙女のチャリオット>PartnerList/Ride#Valkyrie_Chariot]]（レア）
+03.　神域・アヴァロン
+04.　ヴァルハラの加護
+05.　ワルキューレの紹介状
+06.　ヴァルハラの戦装束（青・上）
+07.　ヴァルハラ
+08.　ヴァルハラの戦装束（シルバー・下）
+09.　ヴァルハラの門(グレー) 
+10.　エインヘリアルの鎧（緑・上）
+11.　エインヘリアルの鎧（緑・下）＋ＥＸイベントチケット（1個）
+12.　ヴァルハラの頭飾り（青）＋ＥＸイベントチケット（1個）
+13.　ヴァルハラへの階段（グレー）＋次元のかけら（80個セット）
+
+**シナモンのドキドキ学園生活：2016/2/15〜2016/3/1 [#a12be62c]
+http://econline.gungho.jp/econetstore/2016/cinnamon-no-dokidokigakuenseikatu/
+
+01.　[[シナモン・アルマ>PartnerList/Almamonster#CinnamonAlma]]（レア）
+02.　[[トコトコ・シナモン>PartnerList/Normal#tokotokocinnamon]]（レア）
+03.　プレッピーソックス（ホワイト）
+04.　チアフルベスト（赤）
+05.　シナモンの紹介状
+06.　チアフルスカート（茶）
+07.　思い出の教室
+08.　アカデミートップス（赤）
+09.　シナモンのうさ耳王冠
+10.　夕暮れ地球儀（ノーマルカラー）
+11.　アカデミーボトムス（茶）＋ＥＸイベントチケット（1個）
+12.　名門学園の机（ブラウン）＋ＥＸイベントチケット（1個）
+13.　スクールロッカー＋次元のかけら（80個セット）
+
+**煌めく宵の狂宴‐ヤタガラス‐：2016/3/1〜2016/3/15 [#kj160301]
+http://econline.gungho.jp/econetstore/2016/kirameku-yoinokyouen-yatagarasu/
+
+01.　[[ヤタガラス（レア）>PartnerList/Shinma#Yatagarasu]]（レア）
+02.　[[コッカラス軍団>PartnerList/Ride#kokarasu_gundan]]（レア）
+03.　導ノ翼（蒼）
+04.　烏神ノ衣・羅刹（蒼）
+05.　ヤタガラスの紹介状
+06.　烏神ノ袴・羅刹（蒼）
+07.　夜叉姫の装束♀（蒼）
+08.　翔烏・蒼焔（双剣）
+09.　逢魔ヶ刻
+10.　極彩障子（紅ニ染マル月）
+11.　極彩仕切＋ＥＸイベントチケット（1個）
+12.　極彩雪洞（赤）＋ＥＸイベントチケット（1個）
+13.　木製の欄干＋次元のかけら（80個セット）
+
+**星空と舞うサイクロプス：2016/3/15〜2016/4/4 [#kj160315]
+http://econline.gungho.jp/econetstore/2016/hoshizoratomau-cyclops/
+
+01.　[[サイクロプス・アルマ>PartnerList/Almamonster#CyclopsAlma]]（レア）
+02.　[[ライオン>PartnerList/Ride#lion]]（レア）
+03.　星界のレッグペイント（茶）
+04.　星界の胸飾り（金）
+05.　サイクロプスの紹介状
+06.　星界の装束（緑）
+07.　アストラルトップス（黒）
+08.　アストラルスカート（紫）
+09.　アクロニアン天球儀
+10.　星界の帽子（緑）
+11.　星空の窓（月夜の砂漠）＋ＥＸイベントチケット（1個）
+12.　星の祭壇（金）＋ＥＸイベントチケット（1個）
+13.　さざなみのサンダル（ピンク）＋次元のかけら（80個セット）
+
+*ECOドリーム 2016年 [#j174ff05]
+
+**渦巻く大海のリヴァイアサン：2016/4/4〜2016/4/18 [#kj160404]
+http://econline.gungho.jp/econetstore/2016/uzumakutaikaino-leviathan/
+
+A賞　[[リヴァイアサン>PartnerList/Shinma]]（レア）
+A賞　雷雲発生装置（レア）
+B賞　海賊のアジト＋ＥＸイベントチケット（1個）
+B賞　[[海賊船・マーチャント号>PartnerList/Ride#PirateShip]]＋ＥＸイベントチケット（1個）
+B賞　大渦の床＋ＥＸイベントチケット（1個）
+C賞　リヴァイアサンの紹介状＋ＥＸイベントチケット（1個）
+C賞　深海の衣（白）＋ＥＸイベントチケット（1個）
+C賞　海竜神の尻尾（白）＋ＥＸイベントチケット（1個）
+C賞　海竜神のアギト（白）＋ＥＸイベントチケット（1個）
+D賞　マリンワンピース（白）＋信頼度あがーる（小）
+D賞　マリンパンプス（靴下付き・水色）＋信頼度あがーる（小）
+D賞　マリンブルーペンダント＋信頼度あがーる（小）
+D賞　雷雲（白）＋信頼度あがーる（小）
+E賞　激しい波＋信頼度あがーる（小）
+E賞　苔生した石垣＋信頼度あがーる（小）
+
+**スプリング・ティーパーティー：2016/4/11〜2016/4/26 [#y7728f2f]
+http://econline.gungho.jp/econetstore/2016/spring-tea-party/
+
+A賞　[[ミニー・ドゥ・アルマ>PartnerList/Almamonster#MinnieDoAlma]]（レア）
+A賞　[[テンタクル・アルマ>PartnerList/Almamonster#TentacleAlma]]（レア）
+A賞　[[ロウゲツのフェンサーハート>PartnerList/Heartmate#RougetsuFencerHeart]]（レア）
+B賞　バー・ワイルドウルフ＋次元のかけら（80個セット）
+B賞　オープンカフェ＋次元のかけら（80個セット）
+B賞　シモツキハウス＋次元のかけら（80個セット）
+C賞　お散歩ガーデン＋ＥＸイベントチケット（1個）
+C賞　石畳の床＋ＥＸイベントチケット（1個）
+C賞　ロウゲツのティーセット＋ＥＸイベントチケット（1個）
+C賞　クラシックトレー＋ＥＸイベントチケット（1個）
+D賞　カフェのショーケース（茶）＋信頼度あがーる（小）
+D賞　L字型キッチン＋信頼度あがーる（小）
+D賞　カフェテーブル（こげ茶・パンケーキ）＋信頼度あがーる（小）
+D賞　ランチプレート（ハンバーグ）＋信頼度あがーる（小）
+E賞　チェーンフェンス（黒）＋信頼度あがーる（中）
+E賞　サインボード（黒）＋信頼度あがーる（中）
+
+**放課後ゲーセンファイト！：2016/4/18〜2016/5/2 [#g0934ceb]
+http://econline.gungho.jp/econetstore/2016/houkago-gesen-fight/
+
+A賞　[[クリムゾンバウ・アルマ>PartnerList/Almamonster#CrimsonBauAlma]]（レア）
+A賞　[[搭乗型体感ゲームのパワードスーツ>PartnerList/Ride]]（レア）
+B賞　クレーンゲーム機＋ＥＸイベントチケット（1個）
+B賞　機械部屋の壁＋ＥＸイベントチケット（1個）
+B賞　[[炎のスケートボード>PartnerList/Ride#jc6ac60f]]＋ＥＸイベントチケット（1個）
+C賞　クリムゾンバウの紹介状＋ＥＸイベントチケット（1個）
+C賞　スタイリッシュロングパーカー（赤）＋ＥＸイベントチケット（1個）
+C賞　スタイリッシュショートパンツ（赤）＋ＥＸイベントチケット（1個）
+C賞　スタイリッシュパンプス（黒）＋ＥＸイベントチケット（1個）
+D賞　ストリートシャツ（紫）＋みんなのおやつ（初級）
+D賞　ストリートボトムス（紫）＋みんなのおやつ（初級）
+D賞　クリムゾンナックル（焔）＋みんなのおやつ（初級）
+D賞　格闘ゲーム機（ブルー）＋みんなのおやつ（初級）
+E賞　ECOガチャ機＋みんなのおやつ（初級）
+E賞　サイバーステッカー（青・ライン）＋みんなのおやつ（初級）
+
+**吸血鬼と鋼鉄の花飾り：2016/4/26〜2016/5/16 [#u49859e0]
+http://econline.gungho.jp/econetstore/2016/kyuketukito-koutetuno-hanakazari/
+
+A賞　[[アルカード・ロア>PartnerList/Lore#AlucardLore]]（レア）
+A賞　[[北国の吸血姫・アルカード>PartnerList/Lore#NorthernAlucard]]（レア）
+A賞　[[御魂・アリア>PartnerList/Mitama#MitamaAria]]（レア）
+B賞　[[コウモリぶらんこ（アルカード）>PartnerList/Ride#Koumori_Alucard]]＋次元のかけら（80個セット）
+B賞　[[コンバット・タンク>PartnerList/Ride#CombatTank]]＋次元のかけら（80個セット）
+B賞　強化拡張ユニット（白）＋次元のかけら（80個セット）
+C賞　アルカードの紹介状＋ＥＸイベントチケット
+C賞　アリアの紹介状＋ＥＸイベントチケット
+C賞　吸血姫の紹介状＋ＥＸイベントチケット
+C賞　ルミナスドレス（白）＋ＥＸイベントチケット
+D賞　雪国のカラータイツ（ターコイズ）＋みんなのおやつ（初級）
+D賞　雪国の下士官ワンピース（青）＋みんなのおやつ（初級）
+D賞　ヴァンパイアマント（フード付き）＋みんなのおやつ（初級）
+D賞　プリティウィング（赤・黒レース）＋みんなのおやつ（初級）
+E賞　サイバータワー（青）＋みんなのおやつ（中級）
+E賞　こうもりらんぷ（金）＋みんなのおやつ（中級）
+
+**聖母イシス：2016/5/2〜2016/5/16 [#i08e286b]
+http://econline.gungho.jp/econetstore/2016/seibo-isis/
+
+A賞　[[イシス>PartnerList/Shinma#Isis]]（レア）
+A賞　[[メジェド>PartnerList/Normal#Medjed]]（レア）
+B賞　[[西方白虎>PartnerList/Ride#k8df7d57]]＋ＥＸイベントチケット
+B賞　古代宮殿の壁＋ＥＸイベントチケット
+B賞　古代宮殿の床＋ＥＸイベントチケット
+C賞　イシスの紹介状＋ＥＸイベントチケット
+C賞　神秘の浮遊石（金）＋ＥＸイベントチケット
+C賞　悲しみのエキゾチックワンピース（白）＋ＥＸイベントチケット
+C賞　エキゾチックハーフブーツ（グレー）＋ＥＸイベントチケット
+D賞　クロスチャーム（銀）＋みんなのおやつ（初級）
+D賞　壁画模様（エンシェント）＋みんなのおやつ（初級）
+D賞　石の柱（六角柱）＋みんなのおやつ（初級）
+D賞　鉄柵のハマった石壁＋みんなのおやつ（初級）
+E賞　エスニックな壷（茶）＋みんなのおやつ（初級）
+E賞　高級粘土（10個セット）＋みんなのおやつ（初級）
+
+**特選得物蚤の市：2016/5/9〜2016/5/23 [#s395c09f]
+http://econline.gungho.jp/econetstore/2016/tokusentokumono-nominoiti/
+
+A賞　[[ドラッキー・アルマ>PartnerList/Almamonster#DrackyAlma]]（レア）
+A賞　[[御魂・ヒスイ>PartnerList/Mitama#MitamaHisui]]（レア）
+A賞　[[キサラギの盗賊ハート>PartnerList/Heartmate#KisaragiTouzokuHeart]]（レア）
+B賞　エル・ド・アンジュ（白・リボン）＋次元のかけら（80個セット）
+B賞　[[ミナヅキの日傘>PartnerList/Ride#ub1a5323]]＋次元のかけら（80個セット）
+B賞　[[悪魔機甲ファウスト>PartnerList/Ride#Akumakikou_Faust]]＋次元のかけら（80個セット）
+C賞　氷雪剣・初雪＋ＥＸイベントチケット
+C賞　漆黒鎌・アビスブレイカー＋ＥＸイベントチケット
+C賞　キセル＋ＥＸイベントチケット
+C賞　ムツキの巻物＋ＥＸイベントチケット
+D賞　ウサミミリュック（白）＋みんなのおやつ（初級）
+D賞　マルドゥックの炎剣（赤）＋みんなのおやつ（初級）
+D賞　断頭大斧（鋼）＋みんなのおやつ（初級）
+D賞　アームウォッチ（黒）＋みんなのおやつ（初級）
+E賞　フライフィッシュの鞄（右・茶）＋みんなのおやつ（中級）
+E賞　スクウェアフレーム眼鏡（赤）＋みんなのおやつ（中級）
+
+**ピッグーのメルヘンガーデン：2016/5/16〜2016/6/1 [#w54ae632]
+http://econline.gungho.jp/econetstore/2016/pinguno-meruhengarden/
+
+A賞　[[バルーンピッグー・アルマ>PartnerList/Almamonster#BalloonPigguAlma]]（レア）
+B賞　フラワーキャッスル＋ＥＸイベントチケット
+C賞　バルーンピッグーの紹介状＋ＥＸイベントチケット
+C賞　ミレディワンピース（ピンク）＋ＥＸイベントチケット
+C賞　ミレディハーフブーツ（ピンク）＋ＥＸイベントチケット
+D賞　ノーブルナロウソード（金）＋信頼度あがーる（小）
+D賞　プリンスジャケット（黒）＋信頼度あがーる（小）
+D賞　プリンスボトムス（黒）＋信頼度あがーる（小）
+E賞　ガーデン用テーブル＆チェア（白）＋信頼度あがーる（小）
+E賞　ちいさな橋（ブラウン）＋信頼度あがーる（小）
+E賞　ガーデントピアリー（四方形）＋信頼度あがーる（小）
+
+**オオカミさんにご注意を：2016/5/23〜2016/6/8 [#t8b2d6e9]
+http://econline.gungho.jp/econetstore/2016/ookamisanni-gotyuiwo/
+
+A賞　[[ワーウルフ・ロア>PartnerList/Lore#WerewolfLore]]（レア）
+A賞　[[礼装の紳士・ワーウルフ>PartnerList/Lore#ReisounosinsiWerewolf]]（レア）
+A賞　[[バルル・アルマ>PartnerList/Almamonster#BaruruAlma]]（レア）
+B賞　[[肝っ玉母ちゃん>PartnerList/Ride#p8988fe3]]＋次元のかけら（80個セット）
+B賞　[[舞踏会の馬車>PartnerList/Ride#Butoukainobasya]]＋次元のかけら（80個セット）
+B賞　夜会の壁＋次元のかけら（80個セット）
+C賞　ワーウルフの紹介状＋ＥＸイベントチケット
+C賞　やんちゃ娘の紹介状＋ＥＸイベントチケット
+C賞　礼装の紳士の紹介状＋ＥＸイベントチケット
+C賞　舞い散る花（青）＋ＥＸイベントチケット
+D賞　ジップアップパーカー（紺）＋信頼度あがーる（小）
+D賞　レイヤードスカート（赤）＋信頼度あがーる（小）
+D賞　舞踏会のジャケット（黒）＋信頼度あがーる（小）
+D賞　舞踏会のズボン（黒）＋信頼度あがーる（小）
+E賞　L字型ソファ（赤）＋信頼度あがーる（中）
+E賞　間仕切りラック＋信頼度あがーる（中）
+
+**誘うは黒き花嫁：2016/5/27〜2016/6/10 [#wff99f66]
+http://econline.gungho.jp/econetstore/2016/izanauha-kurokihanayome/
+
+A賞　[[イザナミ>PartnerList/Shinma#Izanami]]（レア）
+B賞　[[カグツチ>PartnerList/Normal#kagututi]]＋ＥＸイベントチケット
+C賞　イザナミの紹介状＋ＥＸイベントチケット
+C賞　社の壁＋ＥＸイベントチケット
+C賞　社の床＋ＥＸイベントチケット
+D賞　誘いの和装束（薄桜・上）＋信頼度あがーる（小）
+D賞　誘いの和装束（薄桜・下）＋信頼度あがーる（小）
+D賞　和神の神剣（赤）＋信頼度あがーる（小）
+D賞　誘いのベール（薄桜）＋信頼度あがーる（小）
+E賞　ハイカラモダンな着物（黄）＋信頼度あがーる（小）
+E賞　ハイカラモダンな袴（黄）＋信頼度あがーる（小）
+E賞　和風ポーチライト（黄）＋信頼度あがーる（小）
+
+**突貫少女フォックストロット！：2016/6/3〜2016/6/17 [#be14d889]
+http://econline.gungho.jp/econetstore/2016/tokkannsyoujyo-foxtrot/
+
+A賞　[[フォックストロットB3・アルマ>PartnerList/Shinma#FoxTrotB3Alma]]（レア）
+B賞　[[搭乗型フォックストロットB3>PartnerList/Ride]]＋ＥＸイベントチケット
+C賞　フォックストロットB3の紹介状＋ＥＸイベントチケット
+C賞　サイバー軍服（青・上）＋ＥＸイベントチケット
+C賞　サイバー軍服（青・下）＋ＥＸイベントチケット
+D賞　ドリルパーツ（青）＋みんなのおやつ（初級）
+D賞　ミリタリー軍服（緑迷彩・上）＋みんなのおやつ（初級）
+D賞　ミリタリー軍服（緑迷彩・下）＋みんなのおやつ（初級）
+E賞　サイバー軍帽（青）＋みんなのおやつ（初級）
+E賞　発光球体発生装置（ブルー）＋みんなのおやつ（初級）
+E賞　発光パネル（ブルー）＋みんなのおやつ（初級）
+
+**もこもこふわふわぱらだいす：2016/6/10〜2016/6/24 [#f55e22c8]
+http://econline.gungho.jp/econetstore/2016/mokomokohuwahuwa-paradise/
+
+A賞　[[バウ・アルマ>PartnerList/Almamonster#BauAlma]]（レア）
+A賞　[[御魂・メイ>PartnerList/Mitama#MitamaMay]]（レア）
+A賞　[[キクヅキの守護魔ハート>PartnerList/Heartmate#KikudukiShugomaHeart]]（レア）
+B賞　[[フォックスブラザーズ>PartnerList/Normal#FoxBrothers]]＋次元のかけら（80個セット）
+B賞　[[ジャグラー・ドゥ>PartnerList/Ride#k8df7d58]]＋次元のかけら（80個セット）
+B賞　九尾の尻尾（白）＋次元のかけら（80個セット）
+C賞　メイの紹介状＋ＥＸイベントチケット
+C賞　キクヅキの紹介状＋ＥＸイベントチケット
+C賞　忠犬の紹介状＋ＥＸイベントチケット
+C賞　モッズコートワンピ（カーキ）＋ＥＸイベントチケット
+D賞　雅な羽衣＋信頼度あがーる（小）
+D賞　九尾の耳飾り＋信頼度あがーる（小）
+D賞　フォックス・マジックハット（赤）＋信頼度あがーる（小）
+D賞　おみやげテディベア（薄茶）＋信頼度あがーる（小）
+E賞　がんばれぴよ＋信頼度あがーる（中）
+E賞　忠義の番犬（ベージュ）＋信頼度あがーる（中）
+
+**お狐さま洋菓子店：2016/6/17〜2016/7/8 [#nf8b556d]
+http://econline.gungho.jp/econetstore/2016/okitunesama-yougashiten/
+
+A賞　[[玉藻・ロア>PartnerList/Lore#TamamoLore]]（レア）
+A賞　[[黒衣の天使・玉藻>PartnerList/Lore#KokuiNoTenshiTamamo]]（レア）
+A賞　[[ローキー・アルマ>PartnerList/Almamonster#LowkeyAlma]]（レア）
+B賞　[[白面金毛九尾ノ狐>PartnerList/Normal#nine-tailedfox]]＋次元のかけら（80個セット）
+B賞　[[看守長の椅子>PartnerList/Ride#Kansyutyounoisu]]＋次元のかけら（80個セット）
+B賞　石畳の床＋次元のかけら（80個セット）
+C賞　玉藻の紹介状＋ＥＸイベントチケット
+C賞　あやかしの紹介状＋ＥＸイベントチケット
+C賞　黒衣の天使の紹介状＋ＥＸイベントチケット
+C賞　和風傘（赤・桜）＋ＥＸイベントチケット
+D賞　九尾の衣（撫子）＋みんなのおやつ（初級）
+D賞　みやびな十二単ワンピ♀（梅重）＋みんなのおやつ（初級）
+D賞　ニュルンベルクワンピース（紫）＋みんなのおやつ（初級）
+D賞　妖狐の霊刀（青・片手）＋みんなのおやつ（初級）
+E賞　狐の吊るし灯籠（黒）＋みんなのおやつ（中級）
+E賞　檻（茶）＋みんなのおやつ（中級）
+
+**冥府の守護者ケルベロス：2016/6/24〜2016/7/8 [#gcd05703]
+http://econline.gungho.jp/econetstore/2016/meifunosyugosya-keruberosu/
+
+A賞　[[ケルベロス>PartnerList/Shinma#Kerberos]]（レア）
+B賞　[[忠犬わんわん>PartnerList/Ride]]＋ＥＸイベントチケット
+C賞　ケルベロスの紹介状＋ＥＸイベントチケット
+C賞　地獄の狛犬＋ＥＸイベントチケット
+C賞　不思議な闇夜の空＋ＥＸイベントチケット
+D賞　ゴシックリボンワンピース（赤）＋みんなのおやつ（初級）
+D賞　ゴシックニーハイ（黒）＋みんなのおやつ（初級）
+D賞　ゴシックホラーな街灯（黒）＋みんなのおやつ（初級）
+E賞　カジュアルゴシックトップス（赤・L）＋みんなのおやつ（初級）
+E賞　ゴシックリボンズボン（赤）＋みんなのおやつ（初級）
+E賞　ゴシックホラーな石垣（灰）＋みんなのおやつ（初級）
+
+**ポイズンジェルのゆるゆる夏休み：2016/7/1〜2016/7/15 [#oe91f64a]
+http://econline.gungho.jp/econetstore/2016/poizunjeruno-yuruyurunatuyasumi/
+
+A賞　[[ポイズンジェル・アルマ>PartnerList/Almamonster#PisongelAlma]]（レア）
+B賞　[[相方ポイズンジェル>PartnerList/Ride]]＋ＥＸイベントチケット
+C賞　ポイズンジェルの紹介状＋ＥＸイベントチケット
+C賞　故郷の壁＋ＥＸイベントチケット
+C賞　チュールキャミソール（黄）＋ＥＸイベントチケット
+D賞　アクティブショートパンツ（青）＋信頼度あがーる（小）
+D賞　テンタクルウィップ（黄）＋信頼度あがーる（小）
+D賞　サマーTシャツ（赤）＋信頼度あがーる（小）
+E賞　サマーチェックボトムス（赤）＋信頼度あがーる（小）
+E賞　レトロな扇風機（青）＋信頼度あがーる（小）
+E賞　ラムネ桶（薄茶）＋信頼度あがーる（小）
+
+**ライド・オン・サマー：2016/7/8〜2016/7/22 [#x07b5a5f]
+http://econline.gungho.jp/econetstore/2016/ride-on-summer/
+
+A賞　[[御魂・セレス>PartnerList/Mitama#MitamaCeles]]（レア）
+A賞　[[フミツキのぷりてぃハート>PartnerList/Heartmate#FumitsukiPrettyHeart]]（レア）
+A賞　[[フライフィッシュ・アルマ>PartnerList/Almamonster#FlyFishAlma]]（レア）
+B賞　[[遊泳のガラス球>PartnerList/Ride#ja4c3275]]＋次元のかけら（80個セット）
+B賞　[[神秘の貝殻>PartnerList/Ride#Sinpinokaigara]]＋次元のかけら（80個セット）
+B賞　ペンギンハウス＋次元のかけら（80個セット）
+C賞　セレスのトランススーツ（赤）＋ＥＸイベントチケット
+C賞　セレスの紹介状＋ＥＸイベントチケット
+C賞　ウォールアクアリウム＋ＥＸイベントチケット
+C賞　潜水装置＋ＥＸイベントチケット
+D賞　サマーハーフパンツ（クリーム）＋みんなのおやつ（初級）
+D賞　青春の青空＋みんなのおやつ（初級）
+D賞　なごみの縁台（こげ茶）＋みんなのおやつ（初級）
+D賞　なごみの座布団（茶）＋みんなのおやつ（初級）
+E賞　思い出の電柱（木）＋みんなのおやつ（中級）
+E賞　テーブルアクアリウム＋みんなのおやつ（中級）
+
+**蛇とメイドと女子力と：2016/7/15〜2016/8/12 [#e2456c3c]
+http://econline.gungho.jp/econetstore/2016/hebito-meidoto-jyosiryokuto/
+
+A賞　[[清姫・ロア>PartnerList/Lore#KiyohimeLore]]（レア）
+A賞　[[御魂・キリエ>PartnerList/Mitama#MitamaKirie]]（レア）
+A賞　[[燐火の女学生・清姫>PartnerList/Lore#RinkaKiyohime]]（レア）
+B賞　[[聖なるアルパカ>PartnerList/Ride#Holyalpaca]]＋次元のかけら（80個セット）
+B賞　[[通学用電動自動二輪>PartnerList/Ride#Tsugakuyo-jidonirin]]＋次元のかけら（80個セット）
+B賞　天魔の翼（白）＋次元のかけら（80個セット）
+C賞　清姫の紹介状＋ＥＸイベントチケット
+C賞　キリエの紹介状＋ＥＸイベントチケット
+C賞　蛇姫の紹介状＋ＥＸイベントチケット
+C賞　お屋敷の壁＋ＥＸイベントチケット
+D賞　カーディガンセーラー（白）＋信頼度あがーる（小）
+D賞　メイドの靴下（黒）＋信頼度あがーる（小）
+D賞　古風なメイド服（上・黒）＋信頼度あがーる（小）
+D賞　古風なメイド服（下・黒）＋信頼度あがーる（小）
+E賞　おかしなパーティーテーブル（青）＋信頼度あがーる（中）
+E賞　カーテン付き窓（ベージュ）＋信頼度あがーる（中）
+
+**バフォメットはパンがお好き？：2016/7/22〜2016/8/5 [#ne2dc284]
+http://econline.gungho.jp/econetstore/2016/bafomettoha-pangaosuki/
+
+**魔法使いの森の家 [#x969b0b4]
+http://econline.gungho.jp/econetstore/2016/mahoutukaino-morinoie/
+
+**遊びまくり夏休み [#ce98a8b5]
+http://econline.gungho.jp/econetstore/2016/asobimakuri-natuyasumi/
+
+**まな板の上の人魚姫 [#r79fe02a]
+http://econline.gungho.jp/econetstore/2016/manaitano-ueno-ningyohime/
+
+**ムーン・ナビゲーター・カグヤ [#fbbbe4ec]
+http://econline.gungho.jp/econetstore/2016/moon-navigator-kaguya/
+
+**モックーの駄菓子屋通い [#r8194aa3]
+http://econline.gungho.jp/econetstore/2016/mokkuno-dagasiyagayoi/
+
+**初秋読書三昧 [#zebd81ec]
+http://econline.gungho.jp/econetstore/2016/syosyu-dokusyozanmai/
+
+**ドラむすめ海賊航海記 [#y6079252]
+http://econline.gungho.jp/econetstore/2016/doramusume-kaizokukoukaiki/

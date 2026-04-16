@@ -1,0 +1,10 @@
+# ドロップ率検証/大壷系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[鉱物知識>ドロップ率検証#g76f84d7]]
+
+***あやしいツボ [#zbaffbb7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ヒールポーション|マジックポーション|スタミナポーション|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（57体）|31個（54.39％）|9個（15.79％）|8個（14.04％）|9個（15.79％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

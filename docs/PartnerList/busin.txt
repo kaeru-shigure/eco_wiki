@@ -1,0 +1,263 @@
+# PartnerList/busin
+
+#author("2017-09-04T02:30:23+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （武神） [#e6a50db4]
+#contents
+
+**特徴 [#i1fbeaee]
+-武器の攻撃力と強化状況(ステータス補正、結晶強化)により能力値が上昇する
+元になった武器の[[従属ステータス>Status#Definition]]がパートナーの成長部分に表示される。
+-イリスカードによる強化の影響は受けない
+-HPが0になると耐久減、ごきげん度回復アイテムは使用できないので修理で回復させるしかない？
+-通常パートナーと同様に装備品インベントリのパートナー枠を使用して装備できる
+-通常パートナーと同様に各種パートナー用スキル（ブリーダースキル含む）を適用できる
+-通常パートナーと同様に家具アイテムとして飛空庭の庭に配置することができる
+-装備すると「ゴー」を標準で使用できる
+-パートナー覚醒は110武器入手イベントと関係なく行え、職種族装備Lvどれにも制限がない&br;つまり該当武器を所持しかつ課金アイテム「パートナー覚醒」を使用すれば誰でも装備できる
+
+→詳細は[[110武器のパートナー化>Quest/Tonka/Lv110weapons#pet110]]を参照
+
+***カムイ [#mbcaafe0]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/kamui.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''神剣・武御雷''};&br;ATK:+144?&br;S.HIT:+30&br;&br;&size(11){''煌刃・白虎''};&br;ATK:+176&br;S.HIT:+20&br;CRITICAL:+10|神剣・武御雷 / 煌刃・白虎のパートナーチェンジ後の姿&br;「さあ、死合おうか……」&br;&br;『普段は人を殺めるのを拒んでいるけど&br;戦闘モードになると人が変るのニャ』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：斬り&br;MP：750&br;SP：1850&br;DEF(%)：25&br;MDEF(%)：15&br;&br;【使用スキル】&br;ラウズボディ&br;みね打ち&br;一閃&br;居合い&br;アタック・バースト&br;ディフェンス・バースト&br;コンセントレート&br;クリティカル&br;滅　(１０連続攻撃)&br;&br;[[台詞一覧>PetSpeech/Busin/Kamui]]|
+
+***リゼル [#efa637a3]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/rezel.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;5300&br;870&br;1600&br;639&br;713&br;245&br;268&br;255&br;198&br;&br;250&br;30&br;197&br;20&br;170&br;100&br;420&br;300&br;&br;210&br;200&br;200|110&br;黒&br;&br;30300&br;1170&br;2300&br;1539&br;1613&br;645&br;668&br;405&br;348&br;&br;520&br;30&br;467&br;20&br;190&br;120&br;420&br;300&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''血剣・ダインスレイブ''};&br;HP+300&br;ATK:+159&br;DEF:+15&br;M.DEF:+15&br;M.RST:+20|血剣・ダインスレイブのパートナーチェンジ後の姿&br;「この剣に誓う、……あなたを守り抜くことを！」&br;&br;『しっかり者で、整理整頓と料理が&br;好きみたいニャ』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：突き&br;MP：870&br;SP：1600&br;DEF(%)：30&br;MDEF(%)：20&br;&br;【使用スキル】&br;ヒーリング&br;ライフテイク&br;マジックシールド&br;マジックバリア&br;コンセントレート&br;サイクロンスティング(ストライクスピアの模様)&br;連続突き&br;&br;[[台詞一覧>PetSpeech/Busin/Rizeru]]|
+
+***ヨシュア [#f2ce720e]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/yoshua.png,nolink,232x316);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''神槍・ブリューナク''};&br;&br;&size(11){''天槍・リンドブルム''};&br;ATK:+174&br;C.AVOID:+10|神槍・ブリューナク / 天槍・リンドブルムのパートナーチェンジ後の姿、♂&br;「大丈夫、キミは僕が守るから」&br;&br;『平和と自然を愛する温厚な好青年ニャ。&br;ポジティブな思考は見習いたいのニャ～』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：突き&br;MP：1300&br;SP：1400&br;DEF(%)：32&br;MDEF(%)：23&br;&br;【使用スキル】&br;ヒーリング&br;ライフテイク&br;ディフェンス・バースト&br;エナジーバリア&br;コンセントレート&br;サイクロンスティング&br;連続突き&br;&br;[[台詞一覧>PetSpeech/Busin/Yosyua]]|
+
+***テリア [#ua7844f8]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/terrier.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;4400&br;1000&br;1600&br;606&br;683&br;235&br;255&br;280&br;203&br;&br;210&br;22&br;165&br;12&br;211&br;145&br;460&br;300&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''護聖剣・ジブリール''};&br;ATK:+138&br;S.HIT:+20&br;S.AVOID:+15&br;L.AVOID:+15&br;M.RST:+10|護聖剣・ジブリールのパートナーチェンジ後の姿&br;「何が出るかな♪何か出るかな♪」&br;&br;『天真爛漫で純粋な女の子なのニャ。&br;何でも信じるのはどうかと思うけど……』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：斬り&br;MP：1000&br;SP：1600&br;DEF(%)：22&br;MDEF(%)：12&br;&br;【使用スキル】&br; アヴォイド・バースト &br; クリティカル &br; アサルト &br; ワー・クライ &br; ディビリテイト &br; スタミナテイク &br; 切り刻んであげる♪（高速の10連続攻撃） &br; くらえ！必殺！（タックル）&br;&br;[[台詞一覧>PetSpeech/Busin/Teria]]|
+
+***キーノ [#ndcbd905]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/keno.jpg,nolink,170x315);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;&color(,#ffafcf){桃};&br;&br;38496&br;2900&br;3950&br;1597&br;1667&br;732&br;750&br;620&br;602&br;&br;585&br;24&br;530&br;10&br;317&br;254&br;470&br;300&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''冥王爪・オルトロス''};&br;ATK:+112&br;S.HIT:+20&br;CRITICAL:+20|冥王爪・オルトロスのパートナーチェンジ後の姿&br;「く……、体が疼く……」&br;&br;『バカにされるとすぐに怒るのニャ……。&br;でも仲良くなると素を見せてくれる&br;みたいなのニャ～』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：突き&br;MP：????&br;SP：????&br;DEF(%)：24&br;MDEF(%)：10&br;&br;【使用スキル】&br;アサルト&br;ラウズボディ&br;スキャターポイズン&br;アヴォイド・バースト&br;アタック・バースト&br;デッドリーアタック&br;クリティカル&br;連続突き&br;&br;[[台詞一覧>PetSpeech/Busin/Keno]]|
+
+
+
+
+
+***ソレイユ [#d7b9e3ce]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/soleil.jpg,nolink,200x286);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''月天弓・アルテミス''};&br;&br;&size(11){''轟天弓・バハムート''};&br;|月天弓・アルテミス / 轟天弓・バハムートのパートナーチェンジ後の姿&br;「私は空が好きなんです&br;青空、夜空、何でも好きなんです！」&br;&br;『高いところからのが狙撃しやすい&br;とか言ってたのニャ……&br;……撃たれないように気を付けるのニャ』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：突き&br;MP：????&br;SP：????&br;DEF(%)：????&br;MDEF(%)：????&br;&br;【使用スキル】&br;チャージアロー&br;デュアルアロー&br;リヴァイブ&br;アヴォイドバースト&br;コンセントレート&br;ヒーリング&br;バラージアロー&br;&br;[[台詞一覧>PetSpeech/Busin/Soreiyu]]|
+
+***グリヴァー [#d4cf85f4]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/griever.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''烈神銃・サラマンドラ''};&br;ATK:+157&br;L.HIT:+30&br;S.AVOID:+20&br;&br;&size(11){''烈神銃・サラマンドラ''};&br;''（２丁)''&br;&br;&size(11){''穿竜砲・ヤタガラス''};&br;&br;|烈神銃・サラマンドラ / 烈神銃・サラマンドラ（２丁）&br; 穿竜砲・ヤタガラスのパートナーチェンジ後の姿&br;「互いの命を賭した戦い……&br;どちらかの命が尽き果てるまで&br;楽しもうじゃないか……！」&br;&br;『引退を考えている……みたいなことを&br;言っていたけど、まだまだ現役なのニャ！』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：突き&br;MP：1000&br;SP：1500&br;DEF(%)：30&br;MDEF(%)：17&br;&br;【使用スキル】&br;クロスクレスト&br;バレットダンス&br;バーストショット&br;コンセントレート&br;アヴォイドバースト&br;リヴァイブ&br;&br;[[台詞一覧>PetSpeech/Busin/Griever]]|
+
+***レネット [#nc82590a]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/reinette.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''黒書・ネクロノミコン''};&br;ATK:+81&br;M.ATK:+163&br;M.HIT:+30&br;&br;&size(11){''黎明杖・カドゥケウス''};&br;ATK:+84&br;M.ATK:+153&br;M.DEF:+15&br;M.HIT:+30|黒書・ネクロノミコン / 黎明杖・カドゥケウスのパートナーチェンジ後の姿&br;「私の魔力の前にひれ伏しなさい！」&br;&br;『魔法の知識や才能は誰にも負けないくらいすごいニャ！&br;&br;……いいかニャ？&br;……彼女に口答えしてはだめなのニャ……&br;勝てる気がしないのニャ～……』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：叩き&br;MP：2150&br;SP：500&br;DEF(%)：17&br;MDEF(%)：27&br;&br;【使用スキル】&br;ヒーリング&br;マジックリベレイション&br;アイスアロー&br;ブラックウィドウ&br;ルミナリィノヴァ&br;モータルフィアー&br;グラヴィティフォール&br;アイシクルテンペスト&br;&br;[[台詞一覧>PetSpeech/Busin/Renet]]|
+
+***フロール [#qa0d7ca7]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/frall.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;3890&br;1750&br;870&br;349&br;432&br;680&br;698&br;203&br;162&br;&br;182&br;16&br;177&br;25&br;134&br;99&br;350&br;440&br;&br;210&br;200&br;200|Lv&br;信頼度&br;&br;25890&br;2050&br;1570&br;749&br;832&br;1580&br;1598&br;353&br;312&br;&br;452&br;16&br;447&br;25&br;254&br;219&br;350&br;440&br;&br;210&br;200&br;200|&size(10){''浄絃・ソウルセラフィム''};&br;ATK:+111&br;M.ATK:+125&br;M.DEF:+10&br;M.HIT:+20&br;S.AVOID:+10&br;M.RST:+10|浄絃・ソウルセラフィムのパートナーチェンジ後の姿&br;「一生懸命歌いますの♪」&br;&br;『フロールが奏でる音色は素敵なのニャ。&br;彼女の天然な性格に&br;つい守ってあげたくなっちゃうのニャ』&br;&br;通常攻撃の射程が3セル。&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：叩き&br;MP：1750&br;SP：870&br;DEF(%)：16&br;MDEF(%)：25&br;&br;【使用スキル】&br; デッドマーチ &br; セイクリッドエンブレイス &br; リヴァイブ（キャラ＆本人） &br; エリアヒール &br; ソリッドオーラ（キャラ＆本人） &br; ラウドソング &br;&br;[[台詞一覧>PetSpeech/Busin/Furol]]|
+
+***ツバキ [#d5113420]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/tsubaki.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''降魔槌・クレイオス''};&br;ATK+145&br;S.HIT+40&br;M.RST+30&br;&br;&size(11){''祓魔槌・ウロボロス''};&br;ATK+166&br;S.HIT+20&br;M.RST+10|降魔槌・クレイオス / 祓魔槌・ウロボロスのパートナーチェンジ後の姿&br;「二度と味わえぬ恐怖……&br;あなたに与えてあげましょう」&br;&br;『彼は……「変わり者」ニャ。&br;何事にも達観していて、キレ者。&br;しかも、サディスティックなのニャ』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：叩き&br;MP：1000&br;SP：1500&br;DEF(%)：28&br;MDEF(%)：14&br;&br;【使用スキル】&br; クリティカル &br; アースクラッシュ &br; ディビリテイト &br; ブロウ &br; スタンブロウ &br; 粉砕します！(範囲攻撃、吹き飛ばしorスタン) &br; ヒーリング&br;&br;[[台詞一覧>PetSpeech/Busin/Tsubaki]]|
+
+***カノン [#f3537211]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/canon.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''闇葬鎌・タルタロス''};&br;ATK:+142&br;M.ATK:+126&br;S.HIT:+20&br;M.HIT:+20&br;&br;&size(10){''断罪斧・レヴァイアサン''};&br;ATK:+170&br;S.HIT:+20&br;CRITICAL:10&br;|闇葬鎌・タルタロス / 断罪斧・レヴァイアサンのパートナーチェンジ後の姿&br;「あなたの力になれれば……」&br;&br;『ドミニオン界の平和を願う優しい子ニャ。&br;ウニャ～……健気なのニャ』&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：叩き&br;MP：850&br;SP：1850&br;DEF(%)：21&br;MDEF(%)：10&br;&br;【使用スキル】&br; ヒール &br; クリティカル &br; ソリッドオーラ &br; 一閃 &br; ファランクス &br; せ～の！（リミテイションエッジ）&br;&br;[[台詞一覧>PetSpeech/Busin/Kanon]]|
+
+***プリーシュ [#h6676f3e]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:110|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|RIGHT:110|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/pulish.jpg,nolink,240x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''煉獄鞭・アナフィエル''};&br;|煉獄鞭・アナフィエルのパートナーチェンジ後の姿&br;「こ、今度地上に降りたら&br;飛空庭職人を根絶やしにしてやるっ！」&br;&br;『仲間思いの良い子ニャ！&br;だけど、高所恐怖症だから……&br;とりあえず、飛空庭職人さんは&br;全力で逃げて欲しいのニャ』&br;&br;通常攻撃の射程が3セル。&br;&br;【ユニオン時】&br;系統：武神系　攻撃タイプ：叩き&br;MP：????&br;SP：????&br;DEF(%)：23&br;MDEF(%)：20&br;&br;【使用スキル】&br;ソリッドオーラ（キャラ＆本人）&br;アヴォイドバースト（キャラ＆本人）&br;ヒーリング（キャラ＆本人）&br;スラギッシュ&br;ウィップラッシュ&br;バックラッシュ&br;&br;[[台詞一覧>PetSpeech/Busin/Pulishu]]|
+
+//***PartnerName [#PartnerName]
+//|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+//|~画像|~ステータス|~初期|~転生|~装備性能値|~説明と入手法|h
+//|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+//|&ref(http://eco.acronia.net/img/wiki/PetList/.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|&size(11){''(武器名)''};&br;|【説明】&br;&br;[[台詞>PetSpeech/]]&br;&br;系統：&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;?&br;&br;【入手法】&br;?|
+
+//台詞ページ内容のテンプレート。コピー後、全ての「//」を外してください
+//ここから――――――――――――――――――――――↓
+
+//#include(Pet/PetMenu,notitle)
+//「？」の[[ステータス>PartnerList/busin#?]]
+//*「？」の台詞
+//※プレイヤーが男なら？、女なら？になる // ←不要なら削除
+//-装備時
+//--
+
+//-戦闘時
+//--
+
+//-囲まれた時
+//--
+
+//-状態異常時
+//--
+
+//-戦闘不能時
+//--
+
+//-レベルアップした時
+//--
+
+//-パーティーに参加した時
+//--
+
+//-パーティーから抜けた時
+//--
+
+//-ダンジョンでワープした時
+//--
+
+//-飛空庭(自)に入った時(装備中)
+//--
+
+//-飛空庭(自)から出る時(装備中)
+//--
+
+//-飛空庭(他)に入った時(装備中)
+//--
+
+//-飛空庭(他)から出る時(装備中)
+//--
+
+//-飛空庭(自)の室内に設置した時
+//--
+
+//-飛空庭(自)の屋外に設置した時
+//--
+
+//-飛空庭(自)で話しかけた時
+//--
+
+//-飛空庭(自)に(自)が入った時(屋外に設置中)
+//--
+
+//-飛空庭(自)から(自)が出る時(屋外に設置中)
+//--
+
+//-飛空庭(自)の家に(自)が入った時(屋内に設置中)
+//--
+
+//-飛空庭(自)の家から(自)が出た時(屋外に設置中)
+//--
+
+//-飛空庭(自)で(他)が話しかけた時
+//--
+
+//-飛空庭(自)に(他)が入った時（屋外に設置中）
+//--
+
+//-飛空庭(自)から(他)が出る時
+//--
+
+//-飛空庭(自)の家に(他)が来た時（屋内に設置中）
+//--
+
+//-飛空庭(自)の家から(他)が出た時(屋外に設置中)
+//--
+
+//-憑依した時
+//--
+
+//-憑依された時
+//--
+
+//-CAPA/PAYLオーバーした時
+//--
+
+//-ログアウトする時
+//--
+
+//-ターン系(/turn1、/turn2、/joy、/yahoo) 
+//--
+
+//-座り(座る、/chair) 
+//--
+
+//-休憩(/relax、/break) 
+//--
+
+//-土下座(/dogeza) 
+//--
+
+//-めげる(/disappoint、/orz) 
+//--
+
+//-挨拶(/bow)
+//--
+
+//-？(信頼の証)
+//--
+
+
+
+//*信頼度で追加される台詞
+
+//-ログイン時 
+//--
+
+//-信頼度、色変化時 
+//--
+
+//-おやつ使用時 
+//--
+
+//-食事ができるようになった時 
+//--
+
+//-パートナーがレベルアップした時 
+//--
+
+//-パートナーに装備品を装備時 
+//--
+
+//-パートナー負傷中 
+//--
+
+//-パートナー負傷回復時 
+//--
+
+//-かんたんAI攻撃重視設定時 
+//--
+
+//-かんたんAI主人重視設定時 
+//--
+
+//-かんたんAI追従設定時 
+//--
+
+//-かんたんAIカスタム設定時 
+//--
+
+// ここまで―――――――――――――――――――――↑
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment

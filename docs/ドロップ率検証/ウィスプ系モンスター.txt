@@ -1,0 +1,38 @@
+# ドロップ率検証/ウィスプ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***ウィスプ [#ofe7853f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|燐粉|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|
+|知識あり（82体）|38個（46.34％）|44個（53.66％）|
+
+***ブーピー [#p7e9fae5]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|燐粉|ガスバルーン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|52個（52.00％）|39個（39.00％）|9個（9.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***アンダンテ [#n402ef83]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|燐粉|パチパチ薬|アンダンテの灰|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|102個（51.00％）|76個（38.00％）|22個（11.00％）|0個（0.00％）|
+|知識あり（105体）|49個（46.67％）|31個（29.52％）|10個（9.52％）|15個（14.29％）|
+
+***ガイスター [#c4ee7ae3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|たましいの粉|燐粉|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|59個（59.00％）|24個（24.00％）|17個（17.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***フォトン [#bff99e41]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|燐粉|チョーキングガス|ソーダ灰|魔力の結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|53個（53.00％）|27個（27.00％）|18個（18.00％）|1個（1.00％）|1個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

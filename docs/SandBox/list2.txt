@@ -1,0 +1,319 @@
+# SandBox/list2
+
+*テストページ MenuBar [#t750428a]
+*Quest & Event [#d505ec46]
+**現行 Quest & Event [#f0104412]
+-''[[イベント>Event]]''
+-- [[イベントログ>Event/Log]]
+-- ''[[季節イベント>Quest/Season]]''
+-- [[NPCリスト>Event/NPCList]] 
+-''[[クエスト>Quest]]''
+-- [[(外部)検索>http://www19.atpages.jp/teco/quest/]]
+-''全域''
+-- ''[[酒屋>Quest/Pub]]''（[[運搬>Quest/Pub_Conveyance]]/[[討伐>Quest/Pub_Punitive]]/[[採取>Quest/Pub_Pick]]）
+-- [[六姫>Quest/6List]]
+-- [[クリーンアップ>Quest/Cleanup]] （[[ECO券>Quest/Cleanup#dcedaf09]]）
+-- [[インスタンスダンジョン>Quest/InstanceDungeon]]
+-''[[アクロポリス周辺>Quest/Acropolis]]''
+-- [[マリオネット>Quest/Marionet]]
+-- [[騎士団>Quest/KnighthoodList]]
+-''職業別クエスト''
+-- [[Ｆ系>職クエ/F]]：[[ 剣 >職クエ/F#SwordMan]]/[[ 槍 >職クエ/F#Fencer]]/[[ 隠 >職クエ/F#Scout]]/[[ 弓 >職クエ/F#Archer]]
+-- [[ＳＵ>職クエ/SU]]：[[ 魔 >職クエ/ウィザード]]/[[ 巫 >職クエ/シャーマン]]/[[ 聖 >職クエ/ウァテス]]/[[ 闇 >職クエ/ウォーロック]]
+-- [[ＢＰ>職クエ/BP]]：[[ 鉱 >職クエ/タタラベ]]/[[ 農 >職クエ/ファーマー]]/[[ 冒 >職クエ/レンジャー]]/[[ 商 >職クエ/マーチャント]]
+
+**改造案1 かなり短くした [#g10e35f5]
+-''[[イベント総合 >Event]]''/''[[ 季節イベント>Quest/Season]]''
+-''[[クエスト総合 >Quest]]''/[[ (外部)検索>http://www19.atpages.jp/teco/quest/]]
+--''[[酒屋(クエストカウンター)>Quest/Pub]]''
+---[[運搬 >Quest/Pub_Conveyance]]/[[ 討伐 >Quest/Pub_Punitive]]/[[ 採取>Quest/Pub_Pick]]
+---[[騎士団>Quest/KnighthoodList]]
+---職業別 ([[F系 >職クエ/F]]/[[ SU >職クエ/SU]]/[[ BP>職クエ/BP]])
+
+**改造案2 酒屋以外にも対応（クエスト総合の中身を全部その他に記載） [#aca16ed6]
+-''[[イベント総合 >Event]]''/''[[ 季節イベント>Quest/Season]]''
+-''[[クエスト総合 >Quest]]''/[[ (外部)検索>http://www19.atpages.jp/teco/quest/]]
+--''[[酒屋(クエストカウンター)>Quest/Pub]]''
+---[[運搬 >Quest/Pub_Conveyance]]/[[ 討伐 >Quest/Pub_Punitive]]/[[ 採取>Quest/Pub_Pick]]
+---[[騎士団>Quest/KnighthoodList]]
+---職業別 ([[F系 >職クエ/F]]/[[ SU >職クエ/SU]]/[[ BP>職クエ/BP]])
+
+#fold{{{
+その他のクエスト
+エミル世界
+-[[天空のオープンカフェ>Quest/InstanceDungeonFromNcafe]]
+-[[六姫>Quest/6List]]
+-[[クリーンアップ>Quest/Cleanup]]
+-[[インスタンスダンジョン>Quest/InstanceDungeon]]
+-[[マリオネット>Quest/Marionet]]
+-[[ノーザンシティ>Quest/Northern]]
+--[[逃げたうさぎクエスト>Quest/Northern#Lv65Equipment]]
+--[[エンシェントアーク>Quest/AncientArk]]
+--[[アナザークロニクル>Job/AnotherChronicle]]
+-[[アイアンサウス>Quest/IronSouth]]
+-[[ファーイースト>Quest/Fareast]]
+-[[モーグ>Quest/Morg]]
+-[[マイマイ遺跡>Quest/Maimai#m2b67bb8]]
+-[[タイニーアイランド>Quest/タイニーアイランド]]
+-[[ビーの巣穴>Quest/BeesNest]]
+-[[無限回廊>Quest/Corridor]]
+--[[上層>Quest/Corridor#c4e07682]]
+--[[中層>Quest/Corridor#t8d9f0ad]]
+--[[下層>Quest/Corridor#eceef5df]]
+-[[H.E.ART>Skill/H.E.ART#p78c310f]]
+-アップタウン
+--[[千姫>Event/Armor#y2184777]]
+--[[セラエノの依頼>Quest/Tonka/Lv110weapons#Quest110]]
+--[[デイリークエスト>Quest/DalyWeeklyQuest#DalyQuest]]
+--[[ウィークリークエスト>Quest/DalyWeeklyQuest#WeeklyQuest]]
+-[[ゆめみのたびびと>Event/DreamTraveler]]
+-[[エレキテルラボ>Quest/ElekitelLab]]
+-[[よそもの行商人>Quest/StrangerMerchantStorehouse]]
+-[[南ウテナ開拓村>Quest/ReclaimedVillage#ofc14072]]
+-[[アクロニア丘陵>Quest/WestReclaimedVillage#ueb879b9]]
+-[[釣り>Quest/Fishing]]
+
+ドミニオン世界
+-[[レジスタンスクエスト>Quest/Westfort#ce03636b]]
+-[[調達屋クエスト>Quest/Westfort#y206e947]]
+-[[CPクエスト>Quest/Westfort#y280e948]]
+-[[攻略解放地クエスト>World/Dominion#QuestL]]
+
+タイタニア世界
+-[[エル・シエル>Quest/AileCiel]]
+--[[酒屋（一般）>Quest/AileCiel#m93cbe5b]]
+--[[忘却の庭園>Quest/AileCiel#r161e1c4]]
+-[[エミルドラゴン>Quest/ECOtown/Lv99weapons#EmilDragonQuest]]
+-[[四季クエスト>Quest/ECOtown/Lv99weapons#ShikiQuest]]
+}}}
+
+*World [#y90bec81]
+**現行 World [#l7c4dd81]
+- [[(外部)マップ>http://ecologie.sakura.ne.jp/map/]]
+- [[ダンジョン>Dungeon]]
+***エミル世界 [#w419cb29]
+-''アクロニア近辺''
+-- [[アクロポリス周辺>Quest/Acropolis]]
+-- [[タイニーアイランド>Quest/タイニーアイランド]]
+-- [[エレキテル・ラボ>Quest/ElekitelLab]]
+-- [[ビーの巣穴>Dungeon/BeeNest]]: [[クエスト>Quest/BeesNest]]
+-- [[無限回廊>Dungeon/InfiniteCorridor]]: [[クエスト>Quest/Corridor]]
+--- [[奈落階層>Dungeon/InfiniteCorridorAbyss]]
+-- [[大陸>Dungeon/ContinentalCave]] / [[氷結>Dungeon/FrozenMine]] / [[炭鉱>Dungeon/AbolitionColliery]]
+-- [[南ウテナ開拓地>Quest/ReclaimedVillage]]
+-- [[ウェストー開拓地>Quest/WestReclaimedVillage]]
+-''アクロニア外縁''
+-- ''[[ノーザンシティ>Quest/Northern]]''
+--- [[ノーザン地下>Dungeon/NorthernUnderground]]
+--- [[ノーザンダンジョン>Dungeon/NorthernDungeon]]
+--- [[エンシェントアーク>Quest/AncientArk]]
+-- ''[[ファーイースト>Quest/Fareast]]''
+--- [[イーストダンジョン>Dungeon/EastDungeon]]
+--- [[アンデッド城>Dungeon/UndeadCastle]]
+-- ''[[モーグシティ>Quest/Morg]]''
+--- [[光の塔>Dungeon/LightTower]]
+-- ''[[アイアンサウス>Quest/IronSouth]]''
+--- [[サウスダンジョン>Dungeon/SouthDungeon]]
+-- ''[[トンカシティ>Quest/Tonka]]''
+-- ''[[マイマイ島>Quest/Maimai]]''
+--- [[神託の風穴>Dungeon/OracleWindCave]]
+-- ''[[カーマインブリック>Quest/CarmineBrick]]''
+--- [[カーマインブリック遺跡>Dungeon/CarmineBrickRuins]]
+***[[ドミニオン世界>World/Dominion]] [#s627b69a]
+-[[ウェストフォート>Quest/Westfort]]
+-[[都市攻防戦>defense]] / [[パターン>defense/pattern]]
+-[[軍艦島地下>Dungeon/WarshipIslandUnderground]]
+***タイタニア世界 [#h098ad2c]
+-[[エル・シエル>Quest/AileCiel]]
+-[[ウォーターレイアー島>Quest/Waterlayer]]
+-海底洞窟（[[寒流>Dungeon/UnderseaCave#a14fd2e7]]/[[暖流>Dungeon/UnderseaCave#uff09c65]]）
+-[[くじら岩>Dungeon/WhaleRock]]
+-[[ECOタウン>Quest/ECOtown]]
+
+
+*Job [#ybdb6b91]
+**現行 Job [#w2f3b064]
+-''初期：''[[ノービス>Skill/Novice]]
+--☆ [[ジョーカー>Skill/Joker]]
+-''F系：ファイター''
+--''[[ソードマン>Skill/SwordMan]]''
+--- [[ブレイドマスター>Skill/BladeMaster]]
+--- [[バウンティハンター>Skill/Bountyhunter]]
+--- [[グラディエイター>Skill/Gladiator]]
+--''[[フェンサー>Skill/Fencer]]''
+--- [[ナイト>Skill/Knight]]
+--- [[ダークストーカー>Skill/Darkstalker]]
+--- [[ガーディアン>Skill/Guardian]]
+--''[[スカウト>Skill/Scout]]''
+--- [[アサシン>Skill/Assassin]]
+--- [[コマンド>Skill/Commando]]
+--- [[イレイザー>Skill/Eraser]]
+--''[[アーチャー>Skill/Archer]]''
+--- [[ストライカー>Skill/Striker]]
+--- [[ガンナー>Skill/Gunner]]
+--- [[ホークアイ>Skill/Hawkeye]]
+-''SU系：スペルユーザー''
+--''[[ウィザード>Skill/Wizard]]''
+--- [[ソーサラー>Skill/Sorcerer]]
+--- [[セージ>Skill/Sage]]
+--- [[フォースマスター>Skill/ForceMaster]]
+--''[[シャーマン>Skill/Shaman]]''
+--- [[エレメンタラー>Skill/Elementaler]]
+--- [[エンチャンター>Skill/Enchanter]]
+--- [[アストラリスト>Skill/Astralist]]
+--''[[ウァテス>Skill/Wotes]]''
+--- [[ドルイド>Skill/Druid]]
+--- [[バード>Skill/Bard]]
+--- [[カーディナル>Skill/Cardinal]]
+--''[[ウォーロック>Skill/Warlock]]''
+--- [[カバリスト>Skill/Cabalist]]
+--- [[ネクロマンサー>Skill/Necromancer]]
+--- [[ソウルテイカー>Skill/SoulTaker]]
+-''BP系：バックパッカー''
+--''[[タタラベ>Skill/Tatarabe]]''
+--- [[ブラックスミス>Skill/Blacksmith]]
+--- [[マシンナリー>Skill/Machinery]]
+--- [[マエストロ>Skill/Maestro]]
+--''[[ファーマー>Skill/Farmer]]''
+--- [[アルケミスト>Skill/Alchemist]]
+--- [[マリオネスト>Skill/Marionest]]
+--- [[ハーヴェスト>Skill/Harvest]]
+--''[[レンジャー>Skill/Ranger]]''
+--- [[エクスプローラー>Skill/Explorer]]
+--- [[トレジャーハンター>Skill/Treasurehunter]]
+--- [[ストライダー>Skill/Stryder]]
+--''[[マーチャント>Skill/Merchant]]''
+--- [[トレーダー>Skill/Trader]]
+--- [[ギャンブラー>Skill/Gambler]]
+--- [[ロイヤルディーラー>Skill/RoyalDealer]]
+-''JJ系：ジョイントジョブ''
+--''[[ブリーダー>Skill/Breeder]]''
+--''[[ガーデナー>Skill/Gardener]]''
+
+**改造案1 とりあえず全閉じ [#d9aa1852]
+#fold{{{
+クリックで開閉
+-''初期：''[[ノービス>Skill/Novice]]
+--☆ [[ジョーカー>Skill/Joker]]
+-''F系：ファイター''
+--''[[ソードマン>Skill/SwordMan]]''
+--- [[ブレイドマスター>Skill/BladeMaster]]
+--- [[バウンティハンター>Skill/Bountyhunter]]
+--- [[グラディエイター>Skill/Gladiator]]
+--''[[フェンサー>Skill/Fencer]]''
+--- [[ナイト>Skill/Knight]]
+--- [[ダークストーカー>Skill/Darkstalker]]
+--- [[ガーディアン>Skill/Guardian]]
+--''[[スカウト>Skill/Scout]]''
+--- [[アサシン>Skill/Assassin]]
+--- [[コマンド>Skill/Commando]]
+--- [[イレイザー>Skill/Eraser]]
+--''[[アーチャー>Skill/Archer]]''
+--- [[ストライカー>Skill/Striker]]
+--- [[ガンナー>Skill/Gunner]]
+--- [[ホークアイ>Skill/Hawkeye]]
+-''SU系：スペルユーザー''
+--''[[ウィザード>Skill/Wizard]]''
+--- [[ソーサラー>Skill/Sorcerer]]
+--- [[セージ>Skill/Sage]]
+--- [[フォースマスター>Skill/ForceMaster]]
+--''[[シャーマン>Skill/Shaman]]''
+--- [[エレメンタラー>Skill/Elementaler]]
+--- [[エンチャンター>Skill/Enchanter]]
+--- [[アストラリスト>Skill/Astralist]]
+--''[[ウァテス>Skill/Wotes]]''
+--- [[ドルイド>Skill/Druid]]
+--- [[バード>Skill/Bard]]
+--- [[カーディナル>Skill/Cardinal]]
+--''[[ウォーロック>Skill/Warlock]]''
+--- [[カバリスト>Skill/Cabalist]]
+--- [[ネクロマンサー>Skill/Necromancer]]
+--- [[ソウルテイカー>Skill/SoulTaker]]
+-''BP系：バックパッカー''
+--''[[タタラベ>Skill/Tatarabe]]''
+--- [[ブラックスミス>Skill/Blacksmith]]
+--- [[マシンナリー>Skill/Machinery]]
+--- [[マエストロ>Skill/Maestro]]
+--''[[ファーマー>Skill/Farmer]]''
+--- [[アルケミスト>Skill/Alchemist]]
+--- [[マリオネスト>Skill/Marionest]]
+--- [[ハーヴェスト>Skill/Harvest]]
+--''[[レンジャー>Skill/Ranger]]''
+--- [[エクスプローラー>Skill/Explorer]]
+--- [[トレジャーハンター>Skill/Treasurehunter]]
+--- [[ストライダー>Skill/Stryder]]
+--''[[マーチャント>Skill/Merchant]]''
+--- [[トレーダー>Skill/Trader]]
+--- [[ギャンブラー>Skill/Gambler]]
+--- [[ロイヤルディーラー>Skill/RoyalDealer]]
+-''特殊系：ジョイントジョブ''
+--''[[ブリーダー>Skill/Breeder]]''
+--''[[ガーデナー>Skill/Gardener]]''
+}}}
+
+**改造案2 系統ごとに閉じる（無職のうまい閉じ方募集中） [#o4015937]
+-''初期：''[[ノービス>Skill/Novice]]
+--☆ [[ジョーカー>Skill/Joker]]
+
+#fold{{{
+''F系：ファイター''
+-''[[ソードマン>Skill/SwordMan]]''
+-- [[ブレイドマスター>Skill/BladeMaster]]
+-- [[バウンティハンター>Skill/Bountyhunter]]
+-- [[グラディエイター>Skill/Gladiator]]
+-''[[フェンサー>Skill/Fencer]]''
+-- [[ナイト>Skill/Knight]]
+-- [[ダークストーカー>Skill/Darkstalker]]
+-- [[ガーディアン>Skill/Guardian]]
+-''[[スカウト>Skill/Scout]]''
+-- [[アサシン>Skill/Assassin]]
+-- [[コマンド>Skill/Commando]]
+-- [[イレイザー>Skill/Eraser]]
+-''[[アーチャー>Skill/Archer]]''
+-- [[ストライカー>Skill/Striker]]
+-- [[ガンナー>Skill/Gunner]]
+-- [[ホークアイ>Skill/Hawkeye]]
+}}}
+#fold{{{
+''SU系：スペルユーザー''
+-''[[ウィザード>Skill/Wizard]]''
+-- [[ソーサラー>Skill/Sorcerer]]
+-- [[セージ>Skill/Sage]]
+-- [[フォースマスター>Skill/ForceMaster]]
+-''[[シャーマン>Skill/Shaman]]''
+-- [[エレメンタラー>Skill/Elementaler]]
+-- [[エンチャンター>Skill/Enchanter]]
+-- [[アストラリスト>Skill/Astralist]]
+-''[[ウァテス>Skill/Wotes]]''
+-- [[ドルイド>Skill/Druid]]
+-- [[バード>Skill/Bard]]
+-- [[カーディナル>Skill/Cardinal]]
+-''[[ウォーロック>Skill/Warlock]]''
+-- [[カバリスト>Skill/Cabalist]]
+-- [[ネクロマンサー>Skill/Necromancer]]
+-- [[ソウルテイカー>Skill/SoulTaker]]
+}}}
+#fold{{{
+''BP系：バックパッカー''
+-''[[タタラベ>Skill/Tatarabe]]''
+-- [[ブラックスミス>Skill/Blacksmith]]
+-- [[マシンナリー>Skill/Machinery]]
+-- [[マエストロ>Skill/Maestro]]
+-''[[ファーマー>Skill/Farmer]]''
+-- [[アルケミスト>Skill/Alchemist]]
+-- [[マリオネスト>Skill/Marionest]]
+-- [[ハーヴェスト>Skill/Harvest]]
+-''[[レンジャー>Skill/Ranger]]''
+-- [[エクスプローラー>Skill/Explorer]]
+-- [[トレジャーハンター>Skill/Treasurehunter]]
+-- [[ストライダー>Skill/Stryder]]
+-''[[マーチャント>Skill/Merchant]]''
+-- [[トレーダー>Skill/Trader]]
+-- [[ギャンブラー>Skill/Gambler]]
+-- [[ロイヤルディーラー>Skill/RoyalDealer]]
+}}}
+#fold{{{
+''特殊系：ジョイントジョブ''
+-''[[ブリーダー>Skill/Breeder]]''
+-''[[ガーデナー>Skill/Gardener]]''
+}}}

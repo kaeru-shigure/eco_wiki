@@ -1,0 +1,272 @@
+# MobEvent
+
+#author("2020-02-20T16:59:35+00:00","","")
+*モンスター（イベント） [#nf147153]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+**イベント [#EventMob]
+***オープニングイベント [#Opening]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DEM-00.jpg,nolink,100x100);|ＤＥＭ－００|1|150|30/30||Active|【…夢の中…？】&br;アクロポリスシティ通路|-|ディレイキャンセル&br;足払い&br;ラッシュ&br;ハイパーチャージ|オープニングイベント&br;（エミル・タイタニア・ドミニオン）|
+|~|ＤＥＭ－００|-|23|1/1||Active|【…夢の中…？】&br;ステップキャニオン|-|ディレイキャンセル&br;足払い&br;ラッシュ&br;ハイパーチャージ|オープニングイベント&br;（DEM）|
+
+***クロニクルイベント [#Chronicle]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Fate.jpg,nolink,100x100);|フェイト|50||||Active|【氷結の坑道】&br;B3F&br;（クロニクルイベント内）|大きな心のかけら（イベント）(PT)||BOSS&br;取り巻き（レイヴンゴースト）|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Nightmare.jpg,nolink,100x100);|ナイトメア|62||13000/11000||Active|【氷結の坑道】&br;B3F&br;（クロニクルイベント内）|上等なマジックキャンディー&br;たましいの粉(PT)&br;リザレクションポーション(PT)&br;古書(PT)|ロラン&br;サテライトカロン&br;スケア|BOSS&br;取り巻き（レイヴンゴースト）|
+
+***メインストーリー [#MainStory]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/InferiorDragon.jpg,nolink,100x100);|インフェリアドラゴン|90|16,000|4,000/4,200|BGCOLOR(#ffdddd):''火''/水/土/風|NonActive|【天まで続く塔】&br;エレベータールーム|角笛&br;角笛(PT)|ゴゥアウト&br;ファイヤーボール&br;ランドクラッグ&br;サンダーボルト&br;アイスアロー|風属性攻撃が有効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TitaniaDragon.jpg,nolink,100x100);|傷ついたタイタニアドラゴン|30|8,000|0/0|BGCOLOR(#ffdddd):火|Active|【天まで続く塔】&br;エレベータールーム(インスタンスダンジョン)||グランドクロス&br;サンダークランク&br;ラーヴァフロウ&br;イクスプロージョン|BOSS&br;クエスト「天まで続く塔を登れ・改」に出現&br;タイタニアドラゴンと比べると遥かに弱い。&br;タイタニアドラゴンと異なり、最初から攻撃が届く位置にいる。&br;移動速度がだいぶ遅い。|
+|~|タイタニアドラゴン|118|958,000|80,000/76,000|BGCOLOR(#ffdddd):火|Active|【天まで続く塔】&br;エレベータールーム(インスタンスダンジョン)||グランドクロス&br;サンダークランク&br;ラーヴァフロウ&br;ディフェンス・バースト&br;怒&br;ノクシャスブラスト|BOSS&br;一定時間毎沸き&br;PTドロップはLv98から&br;クエスト「天まで続く塔を登れ」にも出現&br;インフェリアドラゴンの落す角笛が無いと攻撃が届く位置に来ない上一定時間で元の場所に戻る|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Mermaid.jpg,nolink,100x100);|マーメイド|||0/0|BGCOLOR(#bbffff):水|active|海底洞窟(水牢)||捕縛|タイタニア世界「海底洞窟(水牢) 」イベント&br;%%発見されると水牢に戻されるので戦闘不可%%&br;捕縛される前に攻撃する事で撃破可能|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DominionDragon.jpg,nolink,100x100);|ドミニオンドラゴン|30|3500|0/0|BGCOLOR(#ffdddd):火|Active|【ドミニオン界】&br;ヘルサバーク（夜）|プルートオーブ|ファイアストーム&br;バーニングロード&br;ナッシングネス&br;エンドライン|BOSS&br;イベント「力の解放！覚悟の果てに…」用|
+//|~|ドミニオンドラゴン|150|1,000,000|135,000/132,750|BGCOLOR(#c4adff):闇||||ヘルファイア&br;ソウルブレイク&br;ボルカニックヘル&br;ディスペルオーラ||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Crawler.jpg,nolink,100x100);|ディメンションクローラー|||/||Active|【ドミニオン界】|||[Saga9]イベント&br;&br;「謎のタイタニア （エミル＆ルルイエ＆タイタス編）」|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/demgirl.jpg,nolink,100x100);|謎の少女||4600？|/|BGCOLOR(#ffdddd):火||||スパークボール&br;アサルト&br;バイタルショット&br;ミラー|[Saga9]イベント&br;&br;「新型…？！ （ベリアル編）」|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEMnoShonen1.jpg,nolink,100x100);|DEMの少年(１人)|||100/100|BGCOLOR(#c4adff):闇|Active|【ドミニオン界】&br;デムロポリス|-|連続攻撃|[Saga10]イベント|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEMnoShonen.jpg,nolink,100x100);|DEMの少年(大量)|||30/30|BGCOLOR(#c4adff):闇|Active|【ドミニオン界】&br;デムロポリス|-|一閃|[Saga10]イベント&br;100人出現|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEMDragon.jpg,nolink,100x100);|DEM－ドラゴン|||0/0|BGCOLOR(#c4adff):闇|Active|【ドミニオン界】&br;デムロポリス|-|バーニングロード&br;ヘルファイア&br;ホーリーライズ&br;レインボー&br;ゼーレゲリヒト|[Saga10]イベント|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AncientCaster.jpg,nolink,100x100);|暴走した謎の男|||1025/?||NonActive|||ダークバラッド&br;マジックスロウ&br;トランスマインド&br;超電磁波|[Saga12]イベント&br;Lv110時JobExp195|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/shadow.jpg,nolink,100x100);|豹変したハーシェル|||0/0||NonActive|【クジラ岩】&br;歪淵・骸|-|ダークブレイズ&br;オブセッション|[Saga13]イベント|
+||暴走したエミル|||1800/1200||Active|南アクロニア平原|-|旋風剣&br;衝撃波|[Saga13]イベント|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/buster.jpg,nolink,100x100);|ハスター|||2500/2000|BGCOLOR(#fff68f):風|Active|【クジラ岩】&br;終淵|-|ダークバラッド&br;マジックスロウ&br;トランスマインド&br;超電磁波|[Saga13]イベント|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/v_buster.jpg,nolink,100x100);|ヴェリタブルハスター|||4,000/3,500|BGCOLOR(#fff68f):風|Active|【クジラ岩】&br;終淵|-|ウィンドアタック&br;カオスウィドウ&br;ポイズンパフューム|[Saga13]イベント|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Unknown.jpg,nolink,100x100);|？？？|||2,000/1,500||Active|神託の風穴３Ｆ |-|-|[Saga14]イベント|
+||ザナフ|||6,000/8,900||Active|アンデッド島|-|ブラックウィドウ&br;ダークワールウィンド|[Saga15]イベント|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/v_buster.jpg,nolink,100x100);|ヴェリタブルハスター|||?/?|BGCOLOR(#fff68f):風|Active|カーマインブリック遺跡B1F最深部|-|ポイズンパフューム|[Saga18]イベント|
+
+***上位転生 [#h05c92c7]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+||空白に囚われし存在|100|15,000|1,310/2,600|BGCOLOR(#c4adff):闇|Active|白き世界|珠魂&br;珠魂(PT)&br;理のかけら&br;マジックポーション&br;大珠魂|リストリクトリバース&br;メガダークブレイズ&br;ララバイ&br;デクライズシールド&br;ソリッドオーラ|出現時にソリッドオーラを使用&br;広範囲索敵&br;アンデッド|
+||空白に囚われし存在|100|15,000||BGCOLOR(#c4adff):闇|NonActive|白き世界|珠魂&br;珠魂(PT)&br;理のかけら&br;スタミナポーション&br;大珠魂|ハウルアウト&br;ハウリングスクイーザー&br;ソウルブレイク&br;デクライズウェポン&br;オールターフェイト|出現時にオールターフェイトを使用&br;高A.SPD&br;高AVOID&br;アンデッド&br;瀕死時Active？|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pururu.jpg,nolink,100x100);|全ての始まりとなる存在|||3/?||Active|白き世界|&color(slateblue){雲蒸竜変の証（イベント）?};|リジェネレート|高S.AVOID&br;高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Majestiyins.JPG,nolink,100x100);|全ての終わりとなる存在|||||Active|白き世界||アクアウェーブ&br;ヴァニッシュメント||
+|MIRROR属性で&br;自キャラ姿で登場|頂を目指す存在||80,000|9,999/?||Active|白き世界||連続攻撃&br;ソーマミラージュ&br;デクライズウェポン&br;ソウルブレイク&br;リストリクトリバース|高回避&br;HP50%↓からソウルブレイクを一定周期で使用する&br;瀕死時にリストリクトリバースを使用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/kamui.jpg,nolink,240x320);|カムイ|||1/1||Active|白き世界||ディレイキャンセル&br;ソウルブレイク&br;連続攻撃&br;スタンブロウ&br;グラヴィティフォール|ソードマン系&br;&br;高ATK&br;瀕死時にソウルブレイクを使用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/rezel.jpg,nolink,240x320);|リゼル|||1/1||Active|白き世界||ディレイキャンセル&br;ヒーリング&br;ソーマミラージュ&br;エセリアルボディ&br;ディフェンス・バースト|フェンサー系&br;&br;高回避&br;開始時にディフェンス・バーストを１度だけ使用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/keno.jpg,nolink,170x315);|キーノ|||||Active|白き世界|||スカウト系|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/griever.jpg,nolink,240x320);|グリヴァー|||||Active|白き世界||チャージショット&br;連続射撃&br;ディレイキャンセル&br;ソリッドオーラ|アーチャー系&br;&br;高L.HIT|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/reinette.jpg,nolink,240x320);|レネット|||1/1||Active|白き世界||ラーヴァフロウ&br;アイシクルテンペスト&br;ゼーレゲリヒト&br;ディスペルオーラ&br;リフレクション&br;エッセンガイスト|ウィザード系&br;シャーマン系&br;ウォーロック系&br;&br;開始時にリフレクションを１度だけ使用&br;瀕死時にエッセンガイストを１度だけ使用（HP全回復）|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/frall.jpg,nolink,240x320);|フロール||80000|1/1||Active|白き世界||オールターゼロ&br;ソーマミラージュ&br;ホーリーライト&br;マーベリック&br;ヒーリング&br;リジェネレート|ウァテス系&br;&br;開始時にリジェネレートを１度だけ使用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/tsubaki.jpg,nolink,240x320);|ツバキ|||1/1||Active|白き世界||グラヴィティフォール&br;クリティカル&br;コンフュージョンブロウ&br;ディレイキャンセル&br;ソリッドオーラ|タタラベ系&br;&br;開始時にソリッドオーラを１度だけ使用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/canon.jpg,nolink,240x320);|カノン|||1/1||Active|白き世界||ファランクス&br;プラントポイズン&br;怒|ファーマー系&br;マーチャント系|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/busin/pulish.jpg,nolink,240x320);|プリーシュ||80,000|1/1||Active|白き世界||アタック・バースト&br;ディレイキャンセル&br;怒|レンジャー系|
+
+***デュアルジョブ [#DualJob]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+||オルトス|||/||Active|||||
+
+***ネコマタイベント [#Nekomata]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NazoNoShounen.jpg,nolink,100x100);|謎の少年の正体|40||3/1||Active|-|何かのパーツ（イベント）|ディレイキャンセル&br;超電磁波&br;ショックウェーブ&br;エレクトリックファング|ネコマタ（山吹）イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GigantX7.jpg,nolink,100x100);|ギガントＸ７|40||700/700|BGCOLOR(#ffdddd):火|Nonactive(?)|-|ギガントのトランジスタ（イベント）|範囲射撃|ネコマタ（菫）イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Maou.jpg,nolink,100x100);|魔王|||0/0||Active|呪われた城|目覚めの聖水（イベント）|アクアストーム&br;アイスグローブ&br;アイスギャザー|ネコマタ(空)入手イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MarleRamuros.jpg,nolink,100x100);|マール・ラミュロス||4,750|||Active|心、失いし者の間||石化ガス&br;ブラックホール&br;ポイズンパフューム&br;猛毒スタンガス|ネコマタ（胡桃・若菜）イベント用&br;BOSS|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/bakubaku.jpg,nolink,100x100);|ディメンションバクバク|||||Active|【ドミニオン界】&br;ステップキャニオン(夢幻)||グラヴィティフォール&br;ハイパーチャージ&br;ララバイ|ネコマタ(白)・(黒)入手イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Terrierblebutterfly.jpg,nolink,100x100);|バッキングテフ|||||Active|【ドミニオン界】&br;ステップキャニオン(夢幻)||リジェネーション&br;アヴォイド・バースト&br;アークパワーライズ|ネコマタ(白)・(黒)入手イベント用|
+|&aname(fularplant);&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/fularplant.jpg,nolink,100x100);|レジェクター|||||NonActive|【ドミニオン界】&br;ステップキャニオン(夢幻)||ヒーリング&br;プラントポイズン&br;ランドクラッグ|ネコマタ(白)・(黒)入手イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MagePururu.jpg,nolink,100x100);|スィーパー|||||Active|【ドミニオン界】&br;ステップキャニオン(夢幻)|||ネコマタ(白)・(黒)入手イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mokuju.jpg,nolink,84x100);|プリヴェンダー|||||Active|【ドミニオン界】&br;ステップキャニオン(夢幻)||リフレクションウォール&br;ブラックホール&br;|ネコマタ(白)・(黒)入手イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/loebknight.jpg,nolink,100x100);|エクリュージョン|||||Active|【ドミニオン界】&br;ステップキャニオン(夢幻)||スタンブロウ&br;リフレクション&br;デッドリーアタック|ネコマタ(白)・(黒)入手イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/shadow.jpg,nolink,100x100);|レプロヴェイダー||66,666|0/0||Active|【ドミニオン界】&br;ステップキャニオン(夢幻)|-|ダークブレイズ&br;ロラン&br;ララバイ&br;ライフスティール|ネコマタ(白)・(黒)入手イベント用(BOSS)|
+
+***DEMイベント [#DemEvent]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/FoxHoundR1.jpg,nolink,100x100);|フォックスハウンドE200||3,800|10/8|BGCOLOR(#ffdddd):火||地下遺跡上層部|開錠キー（イベント）|連続射撃&br;範囲射撃|クロスイベント「-キカイのココロ-」|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM-Redhand.JPG,nolink,100x100);|DEM-レッドハンド|||/|BGCOLOR(#ffdddd):火|Active|廃棄された地下通路2|キカイのココロ（ルビー）（イベント）|一閃&br;アヴォイド・バースト&br;デッドリーアタック|オートマタ（ルビー）入手イベント「ココロのチカラ」&br;BOSS属性？|
+||キュービックジルコニアB|85以下|約2000|10/10|BGCOLOR(#c4adff):闇|Active|虚構の庭園|スタミナポーション&br;マジックポーション|ロラン&br;範囲射撃(B)|X-1タナトスの取り巻き|
+||X-1タナトス|95以上|約100,000|99,999/99,999|BGCOLOR(#c4adff):闇|Active|~|-|マジックスロウ&br;怒&br;デッドエンド&br;メガダークブレイズ|オートマタ（ダイヤモンド）入手イベント&br;BOSS&br;Avoid高め|
+||キュービックジルコニアW|85以下|約2,000|10/10|無|Active|~|スタミナポーション&br;マジックポーション|アッシュ&br;リフレクションウォール&br;衝撃波|X-1アグレスの取り巻き|
+||X-1アグレス|95以上|約10,0000|99,999/99,999|BGCOLOR(#ffdddd):火|Active|~|-|怒&br;エナジーストーム&br;レインボー&br;バイタリティダウン|オートマタ（ダイヤモンド）入手イベント&br;BOSS&br;バイタリティダウンはX-1アグレス自身に掛かりDEF低下|
+||DEM-AA6530|||1,5000/1,5000|無？|Active||-|サンダーボルト&br;ラッシュ&br;スパークボール&br;チャージ|１００パーツイベント&br;高ＨＰ&br;&br;アヌビス|
+||DEM-SP4210|||17,000/17,000|無？|Active||-|居合い&br;パープルガス&br;ファイアストーム&br;アサルト|高ＨＰ&br;&br;プワゾン|
+||DEM-IM5100|||18,000/18,000|無？|Active||-|連続攻撃&br;つむじ風&br;ハチの一刺し&br;ディレイキャンセル|高ＨＰ&br;&br;リュンクス|
+
+***ジョイントジョブイベント [#Jointjob]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/arc.JPG,nolink,100x100);|アーク||4,000？|0/0|無|Active|マイマイ島||アヴォイドバースト&br;怒|BOSS&br;ダークドラゴ入手ブリーダーイベント|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/wolf-kin.JPG,nolink,100x100);|金||8,500？|0/0|無|Active|マイマイ島&br;||グリッターボディ&br;レイジアバウト|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/wolf-siro.JPG,nolink,100x100);|白|||0/0|無|Active|マイマイ島&br;||グリッターボディ&br;レイジアバウト|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MandoraWasabi.jpg,nolink,100x100);|マンドラワサビ||4|0/0|BGCOLOR(#98fb98):土|Active|マイマイ遺跡&br;『ガーデナーマスター救出！』||プラントポイズン&br;ディープフォレスト&br;ライフスティール|ヤドリギの種以外無効&br;ガーデナーシンボル入手イベント|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/mandoradaikon.JPG,nolink,100x100);|マンドラダイコン||3|0/0||Active|マイマイ遺跡&br;『ガーデナーマスター救出！』||氷化ガス&br;石化ガス&br;アースアロー|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/mandoraninjin.JPG,nolink,100x100);|マンドラニンジン||4|0/0||Active|マイマイ遺跡&br;『ガーデナーマスター救出！』||-|~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ElisabethTeller.gif,nolink,100x100);|エリザベス・テラー||150|0/0||Active|マイマイ遺跡&br;『ガーデナーマスター救出！』||ガイデッド&br;アースパウダー&br;アースクライ|BOSS&br;ヤドリギの種以外無効&br;スケッチ不可&br;ガーデナーシンボル入手イベント|
+
+**季節イベント [#EventKisetsu]
+***お正月 [#Shogatsu]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShinshunInnsmouth.jpg,nolink,100x100);|新春インスマウス(弱)|1|2008|2008/2008||Escape|アクロニア平原&br;ウォーターレイアー|○○守りの札*1&br;神社のミニチュア|氷化ガス&br;バトンタッチ|お正月イベント用。&br;*1)○○にはその年の干支が入ります（例：ネズミ守りの札、ウシ守りの札等）&br;&br;倒されると別の強さにバトンタッチする場合あり|
+|~|新春インスマウス(普)|61|200,008|2,008/2,008||Escape|ウォーターレイアー&br;バオバブの森|神社のミニチュア&br;鳥居|氷化ガス|~|
+|~|新春インスマウス(強)|&color(#cccccc){91};|2,000,008|2,011/2,011||Escape|ウォーターレイアー&br;バオバブの森|屏風&br;○○守りの札*1|氷化ガス&br;ハイパーチャージ&br;ノクシャスブラスト&br;アクアウェーブ|~|
+
+***ホワイトデー [#s3e83145]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EvilDead.jpg,nolink,100x100);|モテナイ男達の怨念||5|/|BGCOLOR(#c4adff):闇||北アクロニア平原&br;東アクロニア平原&br;南アクロニア平原&br;西アクロニア平原|マシュマロ&br;&color(orange){血涙};|-|ハートフルボゥ又はラブレター以外無効&br;ホワイトデーイベント時限定|
+
+***お花見 [#Hanami]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CherryDu.jpg,nolink,100x100);|チェリー・ドゥ|10|6|-/-|||北アクロニア平原&br;東アクロニア平原&br;アクロニアの林&br;イストー岬&br;モーモー草原|桜の花びら|-|ハートにさくらもちイベント時限定|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SakuraPururu.jpg,nolink,100x100);|さくらプルル|1|1|1/1|無|-|ファーイースト街道&br;ファーマー農場|コルクの栓&br;さくら餅&br;さくらの種|-|コルクの栓以外無効&br;お花見イベント用|
+|~|さくらプルル|1|3|1/1|無|Escape|ファーイースト街道&br;ファーマー農場|コルクの栓1～4個&br;さくら餅1～9個&br;さくらの種|-|~|
+
+***ジューンブライド [#Bride]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/YellowPururu.jpg,nolink,100x100);|ダイヤプルル|10||0/0|無||絆の聖地|絆のかけら1～15個|-|ジューンブライトロマンスイベント用&br;|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/OchreJelly.jpg,nolink,100x100); |ルビープルル|15|50|0/0|無|NonActive|絆の聖地|絆のかけら|-|ジューンブライトロマンスイベント用&br;高ＤＥＦ&br;高ＭＤＥＦ|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pururu.jpg,nolink,100x100);|アクアマリンプルル|15|1000?|0/0|無|NonActive|絆の聖地|絆のかけら|-|ジューンブライトロマンスイベント用&br;ある程度集めると憑依してジャンボアクアマリンプルルに|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/UmberJelly.jpg,nolink,100x100);|トパーズプルル|15|500?|0/0|無|Escape|絆の聖地|絆のかけら|-|ジューンブライトロマンスイベント用|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GreenPururu.jpg,nolink,100x100);|エメラルドプルル|15|23|0/0|無|NonActive|絆の聖地|絆のかけら&br;金属の混じった石４&br;金属の混じった石1|-|ジューンブライトロマンスイベント用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DoPururu.jpg,nolink,100x100);|ドプルル|15|22|10/10|無|NonActiv|音プルルダンジョン|音プルルの卵(ド)|-|音楽祭イベント用|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/RePururu.jpg,nolink,100x100);|レプルル|15|22|10/10|無|NonActiv|音プルルダンジョン|音プルルの卵(レ)|-|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MiPururu.jpg,nolink,100x100);|ミプルル|15|22|10/10|無|NonActiv|音プルルダンジョン|音プルルの卵(ミ)|-|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/FaPururu.jpg,nolink,100x100);|ファプルル|15|22|10/10|無|NonActiv|音プルルダンジョン|音プルルの卵(ファ)|-|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/SoPururu.jpg,nolink,100x100);|ソプルル|15|22|10/10|無|NonActiv|音プルルダンジョン|音プルルの卵(ソ)|-|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/LaPururu.jpg,nolink,100x100);|ラプルル|15|22|10/10|無|NonActiv|音プルルダンジョン|音プルルの卵(ラ)||~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/TiPururu.jpg,nolink,100x100);|シプルル|15|22|10/10|無|NonActiv|音プルルダンジョン|音プルルの卵(シ)|-|~|
+
+***花火 [#Hanabi]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/LoveSkink.jpg,nolink,100x100);|ラブ・スキンク|||0/0|BGCOLOR(#98fb98):土|Active|ヘヴンの間|爆愛の塊&br;偽花火|好き！&br;大好き！|キラリ☆ECO夏2008イベント第二部&br;キラリ☆ECO夏2009第二弾|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dumpty.jpg,nolink,100x100);|イタズラダンプティー||100|||Escape|タイニーアイランド|ピカピカうちわ赤&br;ピカピカうちわ青&br;ピカピカうちわ緑&br;魔力の結晶&br;&color(slateblue){クリティカルの結晶};|氷化ガス|花火大会イベント用&br;高DEF&br;出現時に氷化ガス発動&br;魔法攻撃無効（DS、RS除）|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Obake.JPG,nolink,100x100);|お化けだぞ！|||||NonActive|タイニーアイランド||ポケポケ|花火大会イベント用&br;高DEF|
+|~|こわ～いお化けだぞ！||||||~||ポケポケ|~|
+
+***お月見 [#Tsukimi]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cinnamon.jpg,nolink,100x100);|逆襲のシナモン|60|450000|480/480|無|NonActive|鉄火山&br;南アクロニア平原&br;光の塔周辺|力の結晶（PT）&br;いのちの結晶(PT)&br;ムーンネックレス（PT）&br;ルナイヤリング（PT）&br;%%クリティカルの結晶（PT）%%&br;%%魔力の結晶(PT)%%|-|お月見イベント用&br;超高ATK&br;高S.HIT&br;超高M.DEF&br;&br;移動速度最低&br;射程１&br;30分湧き|
+|~|お月見シナモン(シナモンサイズ)|3|45?|10/10|BGCOLOR(#ffdddd):火|NonActive|タイニーアイランド|||お月見イベント用|
+|~|お月見シナモン(ミニサイズ)|3|45?|10/10|BGCOLOR(#ffdddd):火|NonActive|タイニーアイランド|||~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Dumpty.jpg,nolink,100x100);|拳を極めたダンプティー|70||||Nonactive|暴走ダンプティーの間||アースストーム|お月見イベント時限定|
+|~|暴走ダンプティー（小）|43|||BGCOLOR(#c4adff):闇|Active|暴走ダンプティーの間||スリープポゼション&br;アースストーム|~|
+|~|暴走ダンプティー（中）|45|||BGCOLOR(#c4adff):闇|Link|暴走ダンプティーの間|マナ・ウォーター|ヒーリング|~|
+|~|暴走ダンプティー（大）|50|||BGCOLOR(#c4adff):闇|Active|暴走ダンプティーの間|||~|
+
+***ハロウィン [#Halloween]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CrimsonBat.jpg,nolink,100x100);|マーズ|9|110|24/2|無|Active|ノーザン魔法学校|コウモリの羽|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HeavyBat.jpg,nolink,100x100);|ヴィーナス|24|380|91/46|BGCOLOR(#fff68f):風|Active|ノーザン魔法学校|コウモリの羽|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/NightBat.jpg,nolink,100x100); |プルートゥ||1200?|635/333|無|NonActive|ノーザン魔法学校|コウモリの羽|アークパワーライズ&br;バイタリティダウン||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShineBee.jpg,nolink,100x100);|ハウメア||5000？|2500/2400|BGCOLOR(#98fb98):土|NonActive|ノーザン魔法学校|コウモリの羽|アースストーム&br;ランドクラッグ&br;|高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KoganeGumo.jpg,nolink,100x100);|フォボス|16|225|31/29|BGCOLOR(#98fb98):土|NonActive|ノーザン魔法学校|毒蜘蛛の糸|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KoganeGumoN.jpg,nolink,100x100);|ルシファー|24|300|46/85|BGCOLOR(#ffffff):光|Link|ノーザン魔法学校|毒蜘蛛の糸|ヒーリング||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KuroOniGumo.jpg,nolink,100x100);|ニクス||700?|360/483|BGCOLOR(#cccccc):闇/水|Active|ノーザン魔法学校|毒蜘蛛の糸|ナッシングネス&br;ダークファング&br;||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HannyaGumo.jpg,nolink,100x100);|ヒイアカ||4500|2350/2500|BGCOLOR(#fff68f):風|Link|ノーザン魔法学校|毒蜘蛛の糸|マジックポイズン&br;ブランディッシュ&br;ロラン|超高DEF(箱並)|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EvilDead.jpg,nolink,100x100);|ダイモス|14|135|25/15|BGCOLOR(#ffdddd):火|NonActive|ノーザン魔法学校|ゾンビパウダー||アンデッド&br;&br;&color(#cccccc){サンドクローラー};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Loubnan.jpg,nolink,100x100);|イシュタル|25|300|60/40|BGCOLOR(#98fb98):土|Active|ノーザン魔法学校|ゾンビパウダー|アースストーム|アンデッド&br;&br;&color(#cccccc){モックー};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/LivingDead.jpg,nolink,97x100);|ヒドラ|50|1700|835/808|BGCOLOR(#98fb98):土|Active|ノーザン魔法学校|ゾンビパウダー|ロックストーン&br;ロックドライブ&br;アースファング|アンデッド&br;土属性値50↑&br;&br;&color(#cccccc){ラーミア};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PanserDead.jpg,nolink,100x100);|ナマカ||4,700|2,450/2500||NonActive|ノーザン魔法学校|ゾンビパウダー|アイスグローブ&br;マジックポイズン&br;マジックスロウ&br;ディフェンスバースト|アンデッド&br;&br;&color(#cccccc){エスカルゴ};|
+
+***帰ってきたフシギ団！ [#Return]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Higoimausu.JPG,nolink,100x100);|ヒゴイマウス||500前後？|/|BGCOLOR(#bbffff):水|Link|湖底の洞窟|干し魚&br;不思議な干し魚&br;栄養剤・ぐんぐんアメグレート||帰ってきたフシギ団！&br;Episode,May. &br;「衝撃の娘ＤＥＭ（コデム）の日！？」|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Magoimausu.jpg,nolink,100x100);|マゴイマウス||5000前後？|/|BGCOLOR(#bbffff):水|Link|湖底の洞窟|栄養剤・ぐんぐんアメグレート&br;マリオネット・インスマウス||~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Wisp.jpg,nolink,100x100);|ヤンチャな雨の精|||/||NonActive|ウテナ湖|太陽のしずく||帰ってきたフシギ団！&br;Episode,June &br;「太陽の巫女ポロン！？集え青き冒険者たち」イベント|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GreyHound.jpg,nolink,100x101);|不屈の門番|||/||Active|太陽のタワー１Ｆ|||~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Lowkey.jpg,nolink,100x100);|オレンジの門番|||/||Active|太陽のタワー２Ｆ・３Ｆ|||~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Gaburu.jpg,nolink,100x100);|ダイナマイトな門番||50|/||Active|太陽のタワー３Ｆ||ファイアアート|~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Marou.jpg,nolink,100x98);|エースすぎる門番|||/||Active|太陽のタワー２Ｆ・３Ｆ|||~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/WildDorago.jpg,nolink,100x100);|したっぱドドラゴ||150|||NonActive|太古のアクロニア大陸|肉&br;骨||帰ってきたフシギ団！&br;Episode,August &br;「フシギ時間旅行 ～太古の卵、研究中！」 |
+|~|かんぶドドラゴ||2,000|||NonActive|~|上等なお肉|火炎放射|~|
+|~|おかしらドドラゴ||17,500？|||Link|~|ジューシーなお肉　丈夫な骨|火炎放射&br;アッシュ&br;バーニングロード|~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Mo-Mo-.jpg,nolink,100x100);|ぐんぐんモーモー||500|/||NonActive|ファーイースト(夜)|捕まえたモーモー&br;牛革||帰ってきたフシギ団！&br;Episode, September&br;「収穫祭危うし！？戦慄のモーモー・パニック！」|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/GunGun%20MuscleMo-Mo.jpg,nolink,100x100);|ぐんぐんマッスルモーモー||50000|60/100||NonActive|~|特濃ぐんぐんミルク&br;牛革&br;&color(red){金の卵};||~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/EvilDead.jpg,nolink,100x100);|エターナル・ファン|||0/0||Active|天空のコンサート会場|&br;|&br;|帰ってきたフシギ団! &br;Episode, October2010&br; ｢ナニカガスムイエ3 ～ 消えたアイドルを追え! ～｣|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MarleRamuros.jpg,nolink,100x100);|悪霊ラミュロス||3000？|0/0||Active|天空のコンサート会場|&br;|バットドリーム&br;ブラックホール&br;石化ガス&br;氷化ガス|~|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DPivot.jpg,nolink,100x100); |小型おそうじロボ|15|600|300/525|BGCOLOR(#cccccc):火/水|NonActive|パケルのヒミツ研究基地？|バケルのマイクロマシン&br;丈夫なひも&br;フカフカの綿&br;香りのする布&br;鉄くず|キャッチ|帰ってきたフシギ団! &br;Episode, November2010&br; ｢さよならポロン!? パケル博士のミクロな愛情｣|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Are%20daina.JPG,nolink,100x100);|ケーキ目当てのアリ|75|3000|700/850|BGCOLOR(#ffdddd):火|Link|~|蜂蜜&br;チョコレート&br;ビスケット||~|
+
+***その他のイベント [#Others]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+||ＤＥＭ－００Ｓ３|35|75000|/||Active|【ドミニオン世界】&br;ゴールデンブリッジ(夜)|&br;|連続攻撃&br;アヴォイドバースト&br;バイタリティダウン&br;つむじ風&br;リフレクションウォール|DEM’s INVASION！イベント時限定&br;チャンプDEM|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Kisekepull.JPG,nolink,100x100);|奇跡のプルル|||/||NonActive|暗黒ウェストフォート&br;暗黒ウォーターレイアー&br;暗黒ファーイスト|奇跡のかけら||全ワールド協力型特別イベント「次元からの来襲者」|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEMRIAL.JPG,nolink,100x100);|ＤＥＭＲＩＡＬ|||/||Active|暗黒ウェストフォート&br;暗黒ファーイスト|奇跡のかけら(PTドロップ)|アニマドレイン&br;ディレイキャンセル&br;オブセッション&br;カオスウィドゥ|全ワールド協力型特別イベント「次元からの来襲者」&br;BOSS|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEMIL.JPG,nolink,100x100);|ＤＥＭＩＬ|||/||Active|暗黒ファーイスト&br;|~|キャッチ&br;ブロウ&br;|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM%EF%BC%8DIE.JPG,nolink,100x100);|ＤＥＭ－ＩＥ|||/||Active|暗黒ウェストフォート&br;暗黒ウォーターレイアー&br;|~|ディレイキャンセル&br;オブセッション&br;猛毒針&br;ブランディッシュ&br;スタンブロウ|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEM%EF%BC%8DSHA.JPG,nolink,100x100);|ＤＥＭ－ＳＨＡ|||/||Active|暗黒ウェストフォート&br;|~|リジェネレート&br;ブロウ&br;|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Mammoth.jpg,nolink,100x100);|ＤＥＭ－Ｐｒｔマンモス|||/||Active|暗黒ファーイースト|戦闘に参加してた全員に&br;奇跡のかけら(PTドロップ)&br;更に奇跡のクリスタル大量POP|アサルト&br;ディフェンス・バースト&br;氷化ガス|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Hekatoncheir.jpg,nolink,100x100);|ＤＥＭ－Ｐｒｔヘカトンケイル|||/||Active|暗黒ウォーターレイアー|~|一閃&br;ハウルアウト&br;ワー・クライ&br;猛毒スロウガス|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/PNE200.jpg,nolink,100x100);|ＰＮＥ２００・テュポーン|||/||Active|暗黒ウェストフォート|~|エッセンガイスト&br;猛毒スタンガス&br;エセリアルボディ&br;ディスペルオーラ&br;ワー・クライ|~|
+
+**クエスト系 [#QuestMob]
+
+***装備入手イベント [#Equip]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kokko-.jpg,nolink,100x100);|魔鳥フェニックス||50||BGCOLOR(#ffdddd):火|NonActive|千姫の飛空庭|コッコーの羽&br;卵||千姫（75職服）イベント内|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/MobPlant/Alrun.png,nolink,82x100);|アルルーン|145||0/0|||【インスタンスダンジョン】&br;終淵||ハウルアウト&br;リストリクトリバース&br;リジェネーション&br;|エミルドラゴン（本気）の取り巻きとして出現&br;ボス属性|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherR.jpg,nolink,100x100);|エミルフェザーＲ|145|100000?|0/0|||終淵||ファイアアタック&br;ファイアアート&br;セイントアート&Br;ブラックアート|エミルドラゴン・アルマの取り巻きとして出現|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherB.jpg,nolink,100x100);|エミルフェザーＢ|145|100000?|0/0|||終淵||ウォータアタック&br;アクアアート&br;セイントアート&br;ブラスターアート|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherY.jpg,nolink,100x100);|エミルフェザーＹ|145|100000?|0/0|||終淵||ウィンドアタック&br;エアアート&br;ブラックアート&br;セイントアート|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilFeatherG.jpg,nolink,100x100);|エミルフェザーＧ|145|100000?|0/0|||終淵||アースアタック&br;ブラスターアート&br;エアアート&br;セイントアート&br;ブラックアート|~|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilDragon.jpg,nolink,100x100);|エミルドラゴン|113|4500000|212000/115000|BGCOLOR(#98fb98):土30|Active|終淵||リフレクションウォール&br;アシッドミスト&br;アースクライ&br;グラビティフォール&br;|BOSS&br;クエスト「終淵に立つ最強の竜」&br; DEF70-210&br;MDEF70-230&br;クリティカル回避60|
+|~|エミルドラゴン(本気)|250|推定7,000,000|2,000,000/2,500,000||Active|終淵||アースクライ&br;グラビティフォール&br;リフレクション&br;アニマドレイン&br;ハウリングスクイーザー|BOSS&br;両手剣、片手槍、両手槍の99武器を&br;解放するために闘う本気モード&br;クエスト「終淵に立つ最強の竜 弐」&br;取り巻きが１匹以下になると再召喚|
+|MIRROR属性で&br;自キャラ姿で登場|正体不明|120||1/1|無|Active|夢幻|勇気のかけら|オールターフェイト&br;アニマドレイン(※)&br;チャージ(※)&br;エナジーショック&br;スタンブロウ|BOSS&br;[[Lv99防具入手イベント用>Quest/ECOtown/Lv99weapons#qde2306d]]&br;敵が画面に入った時点での自キャラの見た目が反映されます&br;※職によって使用スキルが変化&br;オールターフェイトにより属性変化|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/EmilDragonAnima.jpg,nolink,100x100);|エミルドラゴン・アルマ|250|推定10,000,000|/|無|Active|終淵||アニマドレイン&br;オールターフェイト&br;オールターゼロ&br;ソーマミラージュ&br;エミルフェザー召喚|BOSS&br;高M.ATK、高M.DEF&br;99防具を解放するために闘う人型モード&br;繰り出す攻撃がほぼクリティカル&br;オールターフェイトにより属性変化&br;クエスト「終淵に立つ最強の竜 参」|
+||マツロワヌモノ||18,000|0/0|BGCOLOR(#c4adff):闇50↓|Active|次元の聖堂|-|デッドエンド&br;ブラックアート&br;ハウルアウト&br;石化ガス|セラエノの依頼&br;ラハブ、オケアノスの取り巻き|
+||オケアノス|90||0/0|BGCOLOR(#98fb98):土|Active|【ディメンション廃炭鉱】&br;次元の聖堂|-|アースクライ&br;パープルガス&br;マツロワヌモノ召喚|セラエノの依頼|
+||ラハブ|100|&color(gray){1600000};|0/0|BGCOLOR(#bbffff):水|Active|【ディメンションノーザンダンジョン】&br;次元の聖堂|-|ファイアシャッター&br;アクアウェーブ&br;アイシクルテンペスト&br;ライフスティール&br;マツロワヌモノ召喚|セラエノの依頼|
+||オートメディック改|45|6000||BGCOLOR(#c4adff):闇|Active|【ドミニオン界】&br;旧アクロポリス司令室|-|ブラックアート&br;リジェネレート&br;ヒーリング&br;一閃|110武器作成&br;DEF30-?/闇50～54|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/DEMDragon.jpg,nolink,100x100);|DEM－ドラゴン|250|推定10,000,000|0/0|BGCOLOR(#c4adff):闇|Active|【ドミニオン界】&br;旧アクロポリス司令室|-|ヘルファイア&br;ホーリーライズ&br;レインボー&br;ゼーレゲリヒト&br;咆哮&br;オートメディック改召喚|110武器作成|
+|自キャラが&br;女ならマーシャ&br;男ならエミル&br;の姿で登場|未完の魂（記憶体）|50|||無|Active|【ドミニオン界】&br;旧アクロポリス司令室|-|ブロウ&br;スタンブロウ&br;カオスウィドウ&br;ディレイキャンセル|BOSS&br;110武器作成|
+
+***デルタサーガ [#DeltaSaga]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HagureHakurou.jpg,nolink,100x100);|はぐれ白狼|50|120,000|2,800/3,600|BGCOLOR(#bbffff):水|Active|はぐれ白狼の隠れ森&br;（デルタサーガコミック連動イベント ）|上等な肉&br;上等なくんせい肉&br;革&br;&color(slateblue){おおかみの耳};&br;&color(red){ベルベット};|ワー・クライ|BOSS&br;HPが減ると逃走(残4分の1程度？)|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/VenomasStinger.jpg,nolink,100x100);|ヴェノマススティンガー|60||10,000/14,000|BGCOLOR(#fff68f):風|Active|毒の湿原&br;（デルタサーガ第8話連動イベント）|ロイヤルゼリー|スーパーサンダーボルト&br;猛毒針&br;ポイズンパフューム|BOSS&br;攻撃射程２マス&br;HPが減ると逃走(残4分の1程度？)|
+
+***よそもの行商人 [#Stranger]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/GoldInsmaus.JPG,nolink,100x100);|金のインスマウス|40|200|50/50||Active|【[[よそもの行商人の倉庫掃除>Quest/StrangerMerchantStorehouse]]】&br;倉庫（インスＤ）|%%ライギョーの汗%%&br;ライギョーのウロコ&br;魚のウロコ&br;&color(orange){魚の金のうろこ};&br;&color(orange){ライギョーの金のうろこ};|ヴァニッシュメント&br;ライフスティール&br;怒&br;ゴゥアウト|低レベル倉庫|
+|~|~||300|100/100|~|Active|~|~|ヴァニッシュメント&br;ライフスティール&br;怒&br;ノクシャスブラスト&br;ゴゥアウト|中レベル倉庫|
+|~|~|100|400|150/150|~|Active|~|~|~|高レベル倉庫|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kibako.jpg,nolink,100x100);|木箱||1|/||NonActive|~||ブラックアート|自爆トラップ|
+|~|~||999999|/|~|NonActive|~||アースクライ|超高DEF&br;超高M.DEF&br;固定ダメージ攻撃以外ほぼ無効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Takarabako.jpg,nolink,100x100);|宝箱||1|/||NonActive|~||セイントアート|自爆トラップ|
+|~|~||999999|50/50|~|NonActive|~||ハウリングスクイーザー|超高DEF&br;超高M.DEF&br;固定ダメージ攻撃以外ほぼ無効|
+
+***ネットカフェ [#NetCafe]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DorobouInns.jpg,nolink,100x100);|ドロボウインス|30|10000|350/350||Escape|インスタンスダンジョン|干し魚&br;天空のコック帽（どじっこ）&br;天空のコックコート（どじっこ）&br;天空のコックズボン♂（どじっこ）&br;天空のコックスカート♀（どじっこ）&br;&color(slateblue){マリオネット・ドロボウインス};|捕まってたまるか！|近付くと逃亡&br;2007/9/28～2007/11/9&br;『ECO公認ネットカフェ&br;ドロボウインスキャンペーン』限定|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SantaDorobouInnsmouth.jpg,nolink,100x100);|サンタドロボウインス|30|10000|350/350||Escape|インスタンスダンジョン|干し魚&br;天空のコック帽（赤）&br;天空のコックコート（赤）&br;天空のコックズボン♂（赤）&br;天空のコックスカート♀（赤）&br;&color(slateblue){マリオネット・サンタドロボウインス};|かんべんしてくださいよー|近付くと逃亡&br;2007/12/7～2007/12/27&br;『ECO公認ネットカフェ&br;サンタドロボウインスキャンペーン』限定|
+
+***カーマインブリック[#CarmineBrick]
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+||ガーディアンフェザー||約400,000|-/-|BGCOLOR(#c4adff):闇|Active|カーマインブリック遺跡地下||常に使用&br;　ヒーリング&br;　ツイステットプラント&br;　ゼーレゲリヒト&br;　アースランチャー&br;　ディバインブレーカー&br;死亡時に一定確率&br;　インパクトプロポーション|フェリオンの取り巻き&br;初期数5体　全滅で5体召喚&br;ブレーカーは長詠唱&br;ヒーリングで10kほど回復&br;インパクトプロポーションは憑依貫通の7割ダメージ|
+||フェリオン|120|8,550,000|6,480,000/6,480,000|無|Active|カーマインブリック遺跡地下|各種メダル（PT）&br;各種ポーション&サプリ系（PT）&br;各種強化結晶（PT）&br;ロゼッタ・ストーン&br;形状記憶金属&br;形状記憶粘性金属γ|常に使用&br;　こら……逃げるなよ&br;（神速斬り→一閃→ジリオンブレイド）&br;　&br;　……足がとまってるよ&br;　（無属性のライトオブダークネス）&br;　（除算DEF-30の効果つき、追撃で射程1ジリオン）&br;　&br;　さぁ……美しく舞うんだ&br;　（3*3スパイラルスピア）&br;　&br;　次はそこかな？&br;　（幻視空蝉　→　アブソリューションジョルト）&br;　&br;HP50%以下&br;　いい加減にしろよ虫ケラぁ！&br;　&br;死亡時&br;　リザレクション|次はそこかな？のジョルトは背後にワープ→9*9のアブソリューションジョルト&br;　&br;旧虫ケラぁ！は最大HPの95%のダメージに毒、睡眠、スタン、沈黙、鈍足、移動力低下、ATK低下、MATK低下の追加効果&br;自分中心9×9、反射不可、憑依貫通、HPがゲージの50%以下で、前回の使用から40秒以上経過すると使用&br;　&br;13/09/26頃の仕様変更後&br;　最大HPの100%のダメージ、範囲13*13、ツイステッドプラントが貫通しなくなった&br;　&br;リザレクションは2回使用&br;ヒーリングで108k回復|
+
+***エレキテル・ラボラトリー [#ElekitelLab]
+エレキテル・ラボラトリーの[[モンスター>Quest/ElekitelLab#s69be81c]]を参照
+
+***無限回廊 [#MobCorridor]
+[[モンスター（無限回廊）>MobCorridor]]を参照
+
+***エンシェント・アーク [#AncientArk]
+[[モンスター（エンシェントアーク）>MobAncientArk]]を参照

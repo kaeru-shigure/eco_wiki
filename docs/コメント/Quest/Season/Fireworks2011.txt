@@ -1,0 +1,5 @@
+# コメント/Quest/Season/Fireworks2011
+
+[[Quest/Season/Fireworks2011]]
+
+-縁日アイテムの効果が大幅アップしていたのを反映。 --  &new{2011-07-27 (水) 21:55:17};

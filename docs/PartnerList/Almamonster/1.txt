@@ -1,0 +1,34 @@
+# PartnerList/Almamonster/1
+
+&#x2f;/#include(Partner/PartnerMenu,notitle)
+*テストページ パートナー一覧表（第1期アルマモンスター） [#a1eee33d]
+&size(20){&color(black,yellow){''このページはテストページです''};};
+テストページですがページの存在自体は確定しています（中身について議論スレで議論中）
+
+#contents
+
+**アルマモンスターとは [#about]
+[[PartnerList/Almamonster]]を参照してください
+第1期(2012年) /[[ 第2期(2013年) >PartnerList/Almamonster/2]]/[[ 第3期(2015年) >PartnerList/Almamonster/3]]/[[ 第4期(2016年) >PartnerList/Almamonster/4]]/[[ その他(イベント・特典・コラボ)>PartnerList/Almamonster/0]]
+**第1期アルマ（2012年） [#m472d8ae]
+***ダークフェザー・アルマ [#DarkFeatherAlma]
+***バウ・アルマ [#BauAlma]
+***シャボタン・アルマ [#SyabotanAlma]
+***ローキー・アルマ [#LowkeyAlma]
+***バルル・アルマ [#BaruruAlma]
+***シーホース・アルマ [#SeahorseAlma]
+***ペペン・アルマ [#PepenAlma]
+***サラマンダー・アルマ [#SalamanderAlma]
+***ミニー・ドゥ・アルマ [#MinnieDoAlma]
+***白い使い魔・アルマ [#ShiroAlma]
+***オートメディック・アルマ [#AutoMedicAlma]
+***デス・アルマ [#DeathAlma]
+***プルル・アルマ [#PururuAlma]
+***プルル [#Pururu]
+
+----
+第1期(2012年) /[[ 第2期(2013年) >PartnerList/Almamonster/2]]/[[ 第3期(2015年) >PartnerList/Almamonster/3]]/[[ 第4期(2016年) >PartnerList/Almamonster/4]]/[[ その他(イベント・特典・コラボ)>PartnerList/Almamonster/0]]
+**コメント欄（第1期） [#comment]
+&#x2f;/#pcomment(コメント/PartnerList/Almamonster/1,5,noname);
+**コメント欄（アルマ総合） [#ac80636d]
+&#x2f;/#pcomment(コメント/PartnerList/Almamonster,5,noname)

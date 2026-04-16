@@ -1,0 +1,18 @@
+# Hairsalon/Manatu
+
+#author("2017-04-07T17:22:57+00:00","","")
+#include(Hairsalon/Menu,notitle)
+*真夏の紹介状（ECOくじ第15弾） [#Manatsu]
+-男性
+|~前髪長めのツンツンへアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/MaegamiNagameNoTsunTsunHair.png,nolink,649x160);|
+-女性
+|~ロングのミニツイン付きヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/LongNoMiniTwinTsukiHair.jpg,nolink,803x228);|
+
+*真夏の紹介状☆（ECOくじ「エンジョイ夏休み☆」） [#ManatuStar]
+-男性
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/manatsustar_00.jpg,nolink,661x311);|
+-女性
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mantu%E2%98%86.JPG,nolink,110%);|

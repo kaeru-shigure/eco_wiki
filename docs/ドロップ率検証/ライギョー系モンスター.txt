@@ -1,0 +1,31 @@
+# ドロップ率検証/ライギョー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[水中生物知識>ドロップ率検証#qf2e06cc]]
+
+***ライギョー [#m59d99ef]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|干し魚|ライギョーの汗|不思議な干し魚|ライギョーのウロコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（170体）|59個（34.71％）|41個（24.12％）|3個（1.76％）|1個（0.59％）|66個（38.82％）|
+
+***モクギョー [#r5301220]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|干し魚|ライギョーの汗|不思議な干し魚|ライギョーのウロコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|101個（50.50％）|92個（46.00％）|4個（2.00％）|2個（1.00％）|1個（0.50％）|
+|知識あり（100体）|36個（36.00％）|28個（28.00％）|2個（2.00％）|1個（1.00％）|33個（33.00％）|
+
+***ふんどしマン！ [#q0f12395]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||干し魚|干しフカヒレ|不思議な干し魚|マリオネット・インスマウス|背負い魔・ブースト|インスマウスの布地|スタンプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（14体）|8個（57.14％）|4個（28.57％）|2個（14.29％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（52体）|21個（40.38％）|18個（34.62％）|9個（17.31％）|1個（1.92％）|1個（1.92％）|1個（1.92％）|1個（1.92％）|
+
+***ドロボウインス [#mef64a7a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||干し魚|天空のコック帽子（どじっこ）|天空のコックコート（どじっこ）|天空のコックスカート♀（どじっこ）|天空のコックズボン♂（どじっこ）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（21体）|6個（28.57％）|8個（38.10％）|3個（14.29％）|2個（9.52％）|2個（9.52％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

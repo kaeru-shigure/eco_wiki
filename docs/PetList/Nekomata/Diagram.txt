@@ -1,0 +1,42 @@
+# PetList/Nekomata/Diagram
+
+#author("2017-04-07T17:40:29+00:00","","")
+*ネコマタ相関図 [#h58a8d63]
+
+-年齢順
+(姉) 白＞黒＞菫＞空＞桃＞緑＞茜＞藍＞山吹＞杏＞胡桃≧若菜 (妹・弟)
+
+--“・”＝相手への呼びかけ方、”⇒”愛情のカタチ、抱いている気持ち
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+||&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/shiro.jpg,nolink,80x80);&br;''白''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/kuro.jpg,nolink,80x80);&br;''黒''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/sumire.jpg,nolink,80x80);&br;''菫''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/sora.jpg,nolink,80x80);&br;''空''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/momo.jpg,nolink,80x80);&br;''桃''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/midori.jpg,nolink,80x80);&br;''緑''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/akane.jpg,nolink,80x80);&br;''茜''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/ai.jpg,nolink,80x80);&br;''藍''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/yamabuki.jpg,nolink,80x80);&br;''山吹''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/anzu.jpg,nolink,80x80);&br;''杏''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/kurumi.jpg,nolink,80x80);&br;''胡桃''|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/wakana.jpg,nolink,80x80);&br;''若菜''|
+|CENTER:|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|CENTER:SIZE(10):|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/shiro.jpg,nolink,80x80);&br;''白''|-|&color(gray){・黒さん&br;⇒信頼&br;⇒お父さんみたい};|&color(gray){・菫さん&br;⇒溺愛&br;⇒頑張り屋さん};|&color(gray){・空さん&br;⇒溺愛&br;⇒元気屋さん};|&color(gray){・桃さん&br;⇒溺愛&br;⇒突風屋さん};|&color(gray){・緑さん&br;⇒溺愛&br;⇒照れ屋さん};|&color(gray){・茜さん&br;⇒溺愛};|&color(gray){・藍さん&br;⇒溺愛};|&color(gray){・山吹さん&br;⇒溺愛};|&color(gray){・杏さん&br;⇒溺愛};|&color(gray){・胡桃さん&br;⇒溺愛};|&color(gray){・若菜さん&br;⇒溺愛&br;⇒甘えんぼさん};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/kuro.jpg,nolink,80x80);&br;''黒''|・白&br;⇒信頼&br;⇒お父さん言うな|-|・菫&br;⇒可愛い&br;⇒信頼|・空&br;⇒可愛い&br;⇒お馬鹿な子1|・桃&br;⇒可愛い&br;⇒安心する|・緑&br;⇒可愛い&br;⇒信頼|・茜&br;⇒可愛い&br;⇒お馬鹿な子2|・藍&br;⇒可愛い&br;⇒信頼|・山吹&br;⇒可愛い&br;⇒お馬鹿な子3|・杏&br;⇒可愛い&br;⇒甘い|・胡桃&br;⇒可愛い&br;⇒甘い|・若菜&br;⇒可愛い&br;⇒甘い|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/sumire.jpg,nolink,80x80);&br;''菫''|&color(violet){・お姉さん&br;⇒敬愛&br;⇒甘え};|&color(violet){・お姉さん&br;⇒畏敬&br;⇒信頼};|-|&color(violet){・空&br;⇒可愛い&br;⇒少し問題児};|&color(violet){・桃&br;⇒可愛い&br;⇒信頼};|&color(violet){・緑&br;⇒可愛い&br;⇒信頼};|&color(violet){・茜&br;⇒可愛い&br;⇒少し問題児};|&color(violet){・藍&br;⇒可愛い&br;⇒信頼};|&color(violet){・山吹&br;⇒可愛い&br;⇒甘い};|&color(violet){・杏ちゃん&br;⇒可愛い};|&color(violet){・胡桃ちゃん&br;⇒可愛い};|&color(violet){・若菜ちゃん&br;⇒可愛い&br;⇒甘い};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/sora.jpg,nolink,80x80);&br;''空''|&color(skyblue){・ねえちゃん&br;⇒思慕&br;⇒甘え};|&color(skyblue){・ねえちゃん&br;⇒畏敬&br;⇒逆らえない};|&color(skyblue){・ねえちゃん&br;⇒思慕&br;⇒少し怖い};|-|&color(skyblue){・桃&br;⇒可愛い&br;⇒普通の子};|&color(skyblue){・緑&br;⇒可愛い&br;⇒何気に怖い};|&color(skyblue){・茜&br;⇒可愛い&br;⇒少しうるさい};|&color(skyblue){・藍&br;⇒可愛い&br;⇒少し怖い};|&color(skyblue){・山吹&br;⇒可愛い&br;⇒面白い};|&color(skyblue){・杏&br;⇒可愛い&br;⇒子分};|&color(skyblue){・胡桃ちゃん&br;⇒可愛い&br;⇒からかい易い};|&color(skyblue){・若菜ちゃん&br;⇒可愛い&br;⇒甘い};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/momo.jpg,nolink,80x80);&br;''桃''|&color(pink){・お姉ちゃん&br;⇒思慕&br;⇒優しい};|&color(pink){・お姉ちゃん&br;⇒畏敬&br;⇒知的};|&color(pink){・お姉ちゃん&br;⇒思慕&br;⇒しっかり者};|&color(pink){・お姉ちゃん&br;⇒思慕&br;⇒すごく元気};|-|&color(pink){・緑ちゃん&br;⇒可愛い&br;⇒頼れる};|&color(pink){・茜ちゃん&br;⇒可愛い&br;⇒照れ屋さん};|&color(pink){・藍ちゃん&br;⇒可愛い&br;⇒美人};|&color(pink){・山吹ちゃん&br;⇒可愛い&br;⇒面白い};|&color(pink){・杏ちゃん&br;⇒可愛い&br;⇒元気};|&color(pink){・胡桃ちゃん&br;⇒可愛い&br;⇒純真};|&color(pink){・若菜ちゃん&br;⇒可愛い&br;⇒甘えんぼさん};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/midori.jpg,nolink,80x80);&br;''緑''|&color(green){・ねえさん&br;⇒思慕&br;⇒気後れする};|&color(green){・ねえさん&br;⇒敬愛&br;⇒安心する};|&color(green){・ねえさん&br;⇒思慕&br;⇒気後れする};|&color(green){・ねえさん&br;⇒思慕&br;⇒少し問題児};|&color(green){・ねえさん&br;⇒思慕&br;⇒安心する};|-|&color(green){・茜&br;⇒可愛い&br;⇒少し問題児};|&color(green){・藍&br;⇒可愛い&br;⇒安心する};|&color(green){・山吹&br;⇒可愛い&br;⇒少し問題児};|&color(green){・杏&br;⇒可愛い&br;⇒少し問題児};|&color(green){・胡桃&br;⇒可愛い&br;⇒安心する};|&color(green){・若菜&br;⇒可愛い&br;⇒気後れする};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/akane.jpg,nolink,80x80);&br;''茜''|&color(red){・姉さん&br;⇒思慕&br;⇒甘え};|&color(red){・姉さん&br;⇒畏敬&br;⇒沈黙が苦手};|&color(red){・姉さん&br;⇒憧憬&br;⇒逆らえない};|&color(red){・姉さん&br;⇒思慕&br;⇒少しうるさい};|&color(red){・姉さん&br;⇒思慕&br;⇒安心する};|&color(red){・姉さん&br;⇒思慕&br;⇒沈黙が苦手};|-|&color(red){・藍&br;⇒可愛い&br;⇒安心する};|&color(red){・山吹&br;⇒可愛い&br;⇒少し問題児};|&color(red){・杏&br;⇒可愛い&br;⇒天然が苦手};|&color(red){・胡桃&br;⇒可愛い&br;⇒甘い};|&color(red){・若菜ちゃん&br;⇒可愛い&br;⇒甘い};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/ai.jpg,nolink,80x80);&br;''藍''|&color(slateblue){・あね様&br;⇒思慕&br;⇒甘え};|&color(slateblue){・あね様&br;⇒畏敬&br;⇒甘え};|&color(slateblue){・あね様&br;⇒憧憬&br;⇒甘え};|&color(slateblue){・あね様&br;⇒思慕&br;⇒信頼};|&color(slateblue){・あね様&br;⇒思慕&br;⇒信頼};|&color(slateblue){・あね様&br;⇒敬愛&br;⇒信頼};|&color(slateblue){・あね様&br;⇒思慕&br;⇒信頼};|-|&color(slateblue){・山吹&br;⇒可愛い&br;⇒少し問題児};|&color(slateblue){・杏&br;⇒可愛い&br;⇒少し問題児};|&color(slateblue){・胡桃&br;⇒可愛い&br;⇒甘い};|&color(slateblue){・若菜&br;⇒可愛い&br;⇒甘い};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/yamabuki.jpg,nolink,80x80);&br;''山吹''|&color(orange){・姉やん&br;⇒一番偉い&br;⇒会長};|&color(orange){・姉やん&br;⇒畏敬&br;⇒社長};|&color(orange){・姉やん&br;⇒できる上司&br;⇒専務};|&color(orange){・姉やん&br;⇒困った上司&br;⇒部長};|&color(orange){・桃ちゃん&br;⇒優しい上司&br;⇒課長};|&color(orange){・緑ちゃん&br;⇒厳しい上司&br;⇒係長};|&color(orange){・茜ちゃん&br;⇒少し困った&br;⇒先輩};|&color(orange){・藍ちゃん&br;⇒少し厳しい&br;⇒先輩};|-|&color(orange){・杏&br;⇒可愛い&br;⇒後輩};|&color(orange){・胡桃&br;⇒可愛い&br;⇒部下};|&color(orange){・若菜&br;⇒特に可愛い&br;⇒部下の部下};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/anzu.jpg,nolink,80x80);&br;''杏''|&color(#f7b977){・おねえちゃん&br;⇒思慕&br;⇒甘え};|&color(#f7b977){・おねえちゃん&br;⇒畏敬&br;⇒気後れする};|&color(#f7b977){・おねえちゃん&br;⇒思慕&br;⇒少し怖い};|&color(#f7b977){・おねえちゃん&br;⇒敬愛&br;⇒親分};|&color(#f7b977){・おねえちゃん&br;⇒思慕&br;⇒安心する};|&color(#f7b977){・おねえちゃん&br;⇒思慕&br;⇒遊びたいけど…};|&color(#f7b977){・おねえちゃん&br;⇒思慕&br;⇒少し怖い};|&color(#f7b977){・おねえちゃん&br;⇒憧憬&br;⇒甘え};|&color(#f7b977){・おねえちゃん&br;⇒思慕&br;⇒甘え};|-|&color(#f7b977){・胡桃ちゃん&br;⇒可愛い&br;⇒甘い};|&color(#f7b977){・若菜ちゃん&br;⇒可愛い&br;⇒甘い};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/kurumi.jpg,nolink,80x80);&br;''胡桃''|&color(#a86f4c){・おねえさん&br;⇒思慕&br;⇒甘え};|&color(#a86f4c){・おねえさん&br;⇒畏敬&br;⇒信頼};|&color(#a86f4c){・おねえさん&br;⇒思慕&br;⇒甘え};|&color(#a86f4c){・おねえさん&br;⇒思慕&br;⇒少し怖い};|&color(#a86f4c){・おねえさん&br;⇒特に思慕&br;⇒安心する};|&color(#a86f4c){・おねえさん&br;⇒思慕&br;⇒信頼};|&color(#a86f4c){・おねえさん&br;⇒思慕&br;⇒少し怖い};|&color(#a86f4c){・おねえさん&br;⇒思慕&br;⇒甘え};|&color(#a86f4c){・おねえさん&br;⇒思慕&br;⇒甘え};|&color(#a86f4c){・おにいちゃん&br;⇒思慕&br;⇒安心する};|-|&color(#a86f4c){・若菜ちゃん&br;⇒可愛い&br;⇒甘い};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Pet/Detail/wakana.jpg,nolink,80x80);&br;''若菜''|&color(#d8e698){・おねえちゃん&br;⇒敬愛&br;⇒甘え};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒甘え};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒甘え};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒少し怖い};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒甘え};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒甘え};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒少し怖い};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒甘え};|&color(#d8e698){・おねえちゃん&br;⇒思慕&br;⇒甘え};|&color(#d8e698){・おにいちゃん&br;⇒思慕&br;⇒甘え};|&color(#d8e698){・胡桃ちゃん&br;⇒思慕&br;⇒甘え};|-|
+
+【用語補足】
+　敬愛＝尊敬と親しみの気持ちを持つこと。
+　畏敬＝心からおそれ敬うこと。
+　思慕＝したうこと。恋しく思うこと。(親子兄弟間でも用いる)
+　甘え＝相手に甘えたい気持ちがあること。
+　憧憬＝あこがれること。
+　信頼＝信じて頼ること。
+　溺愛＝相手を客観的に見る目を失い、むやみにかわいがること。
+　可愛い＝深い愛情をもって大切に扱ってやりたい気持ちがあること。
+　甘い＝相手に対して甘いこと。
+
+// ↓加筆されたのでコメントアウトしました
+//(※1)…ソースの文字が小さすぎて読めませんでしたorz　分かった方、加筆お願いします。
+
+イラスト：かわすみ氏
+出展：『ECO祭2008 in 秋葉原、浅間教授によるネコマタ相関図』
+　　　　http://www.4gamer.net/games/020/G002086/20081213002/screenshot.html?num=041

@@ -1,0 +1,38 @@
+# ドロップ率検証/ゼレブ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***ゼレブ [#h15ebd6d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マナウォーター|にんじん|破れた魔法書|ユニコーンの角|ゼレブスタンプ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（500体）|266個（53.20％）|177個（35.40％）|52個（10.40％）|4個（0.80％）|0個（0.00％）|1個（0.20％）|
+|知識あり（572体）|249個（43.53％）|256個（44.76％）|59個（10.31％）|7個（1.22％）|1個（0.17％）|0個（0.00％）|
+
+***ベガ [#cf7a38f0]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|にんじん|パートナーフード|だいこん|ペガサス|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1150体）|611個（53.13％）|391個（34.00％）|134個（11.65％）|13個（1.13％）|1個（0.09％）|
+|知識あり（1610体）|539個（33.48％）|913個（56.71％）|143個（8.88％）|14個（0.87％）|1個（0.06％）|
+
+***ヘブンリーベガ [#nf404106]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|にんじん|パートナーフード|だいこん|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（610体）|296個（48.52％）|253個（41.48％）|52個（8.52％）|9個（1.48％）|
+|知識あり（610体）|244個（40.00％）|283個（46.39％）|72個（11.80％）|11個（1.80％）|
+
+***ソーラーゼレブ [#i301c757]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|だいこん|丈夫な革|リザレクトポーション|パートナーフード|サーロイン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|45個（45.00％）|42個（42.00％）|12個（12.00％）|1個（1.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（855体）|315個（36.84％）|232個（27.13％）|54個（6.32％）|4個（0.47％）|1個（0.12％）|249個（29.12％）|
+
+***ベイヤール [#f585596c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|だいこん|パートナーフード|スウェード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（50体）|21個（42.00％）|29個（58.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（20体）|11個（55.00％）|7個（35.00％）|1個（5.00％）|1個（5.00％）|

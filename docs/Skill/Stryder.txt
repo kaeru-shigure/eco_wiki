@@ -1,0 +1,67 @@
+# Skill/Stryder
+
+[[ レンジャー >Skill/Ranger]]([[詳細>Skill/Ranger/Explanation]])/[[ エクスプローラー >Skill/Explorer]]([[詳細>Skill/Explorer/Explanation]])/[[ トレジャーハンター >Skill/Treasurehunter]]([[詳細>Skill/Treasurehunter/Explanation]])/ ''ストライダー'' ([[詳細>Skill/Stryder/Explanation]])
+*ストライダー [#ef713432]
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+[[''レンジャースレッド''>Skill/Ranger#y916bf44]]を参照
+
+** 特徴 [#idedca87]
+公式サイト：[[ストライダー:http://www.econline.jp/data/job/3rd-chronicle/job_c11.html]]
+
+-孤独をものともせず、荒野を渡るさすらい人です。
+-新たな鞭系技能に加え、旅を支えてくれるパートナーをさらに強化することができます。
+-孤高の旅人とはいえ、その精神的な強さは、ひとたび仲間となれば強力な支えとなるでしょう。
+-''HP係数：5.60''、''MP係数：2.05''、''SP係数：4.01''
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|''一次職''|二次転職|''ニ次職''|三次転生|''三次''|h
+|[[レンジャー>Skill/Ranger]]|→|[[エクスプローラー>Skill/Explorer]]（エキスパートジョブ）|→|''ストライダー''|
+|||↓　スイッチ　↑||~|
+|~|~|[[トレジャーハンター>Skill/Treasurehunter]]（テクニカルジョブ）|→|~|
+
+** 転職方法 [#l27ef6dd]
+「三次クロニクル」の「[[職上位転生の手順>Job/Change/Chronicle#kyoutuu]]」を参照
+
+** スキル早見表とスキル詳細 [#t48ea0bb]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#accd9aa5]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|6|10|4|7|8|2||~26|11|18|8|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''15''|4|
+|~2|6|10|COLOR(red):BGCOLOR(#EDEDFF):''5''|COLOR(red):BGCOLOR(#EDEDFF):''8''|8|2||~27|11|18|COLOR(red):BGCOLOR(#EDEDFF):''9''|14|15|4|
+|~3|6|10|5|8|8|2||~28|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''19''|9|14|15|4|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''11''|5|8|COLOR(red):BGCOLOR(#EDEDFF):''9''|2||~29|12|19|9|14|15|4|
+|~5|7|11|5|8|9|2||~30|12|19|9|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''16''|4|
+|~6|7|11|5|COLOR(red):BGCOLOR(#EDEDFF):''9''|9|2||~31|12|COLOR(red):BGCOLOR(#EDEDFF):''20''|9|15|16|4|
+|~7|7|COLOR(red):BGCOLOR(#EDEDFF):''12''|5|9|9|2||~32|COLOR(red):BGCOLOR(#EDEDFF):''13''|20|9|15|16|4|
+|~8|7|12|COLOR(red):BGCOLOR(#EDEDFF):''6''|9|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''3''||~33|13|20|COLOR(red):BGCOLOR(#EDEDFF):''10''|15|COLOR(red):BGCOLOR(#EDEDFF):''17''|COLOR(red):BGCOLOR(#EDEDFF):''5''|
+|~9|COLOR(red):BGCOLOR(#EDEDFF):''8''|12|6|9|10|3||~34|13|COLOR(red):BGCOLOR(#EDEDFF):''21''|10|COLOR(red):BGCOLOR(#EDEDFF):''16''|17|5|
+|~10|8|COLOR(red):BGCOLOR(#EDEDFF):''13''|6|COLOR(red):BGCOLOR(#EDEDFF):''10''|10|3||~35|13|21|10|16|17|5|
+|~11|8|13|6|10|COLOR(red):BGCOLOR(#EDEDFF):''11''|3||~36|13|21|10|16|17|5|
+|~12|8|13|6|10|11|3||~37|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''22''|10|16|COLOR(red):BGCOLOR(#EDEDFF):''18''|5|
+|~13|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''14''|6|10|11|3||~38|14|22|10|COLOR(red):BGCOLOR(#EDEDFF):''17''|18|5|
+|~14|9|14|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''11''|11|3||~39|14|22|COLOR(red):BGCOLOR(#EDEDFF):''11''|17|18|5|
+|~15|9|14|7|11|COLOR(red):BGCOLOR(#EDEDFF):''12''|3||~40|14|COLOR(red):BGCOLOR(#EDEDFF):''23''|11|17|18|5|
+|~16|9|COLOR(red):BGCOLOR(#EDEDFF):''15''|7|11|12|3||~41|14|23|11|17|COLOR(red):BGCOLOR(#EDEDFF):''19''|5|
+|~17|9|15|7|11|12|3||~42|COLOR(red):BGCOLOR(#EDEDFF):''15''|23|11|COLOR(red):BGCOLOR(#EDEDFF):''18''|19|5|
+|~18|COLOR(red):BGCOLOR(#EDEDFF):''10''|15|7|COLOR(red):BGCOLOR(#EDEDFF):''12''|12|3||~43|15|COLOR(red):BGCOLOR(#EDEDFF):''24''|11|18|19|5|
+|~19|10|COLOR(red):BGCOLOR(#EDEDFF):''16''|7|12|COLOR(red):BGCOLOR(#EDEDFF):''13''|3||~44|15|24|11|18|19|5|
+|~20|10|16|COLOR(red):BGCOLOR(#EDEDFF):''8''|12|13|COLOR(red):BGCOLOR(#EDEDFF):''4''||~45|15|24|COLOR(red):BGCOLOR(#EDEDFF):''12''|18|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''6''|
+|~21|10|16|8|12|13|4||~46|15|COLOR(red):BGCOLOR(#EDEDFF):''25''|12|COLOR(red):BGCOLOR(#EDEDFF):''19''|20|6|
+|~22|10|COLOR(red):BGCOLOR(#EDEDFF):''17''|8|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''14''|4||~47|COLOR(red):BGCOLOR(#EDEDFF):''16''|25|12|19|20|6|
+|~23|COLOR(red):BGCOLOR(#EDEDFF):''11''|17|8|13|14|4||~48|16|25|12|19|COLOR(red):BGCOLOR(#EDEDFF):''21''|6|
+|~24|11|17|8|13|14|4||~49|16|COLOR(red):BGCOLOR(#EDEDFF):''26''|12|19|21|6|
+|~25|11|COLOR(red):BGCOLOR(#EDEDFF):''18''|8|13|14|4||~50|16|26|12|COLOR(red):BGCOLOR(#EDEDFF):''20''|21|6|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#m055949d]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Ranger#y916bf44]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

@@ -1,0 +1,31 @@
+# ドロップ率検証/エコ坊系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[動物知識>ドロップ率検証#o5733b01]]
+
+***エコ坊 [#t6d59936]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ルーン草|タムタム草|赤い花の種|上等な毛皮|四葉のクローバー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（235体）|143個（60.85％）|85個（36.17％）|5個（2.13％）|2個（0.85％）|0個（0.00％）|0個（0.00％）|
+|知識あり（795体）|310個（38.99％）|255個（32.08％）|14個（1.76％）|4個（0.50％）|211個（26.54％）|1個（0.13％）|
+
+***ワイルドボア [#d83b0c91]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|革|橙の花の種|スウェード|四葉のクローバー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（290体）|143個（49.31％）|139個（47.93％）|4個（1.38％）|4個（1.38％）|0個（0.00％）|0個（0.00％）|
+|知識あり（638体）|242個（37.93％）|197個（30.88％）|8個（1.25％）|3個（0.47％）|187個（29.31％）|1個（0.16％）|
+
+***ウメボア [#xbe8c448]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|梅のど飴|パートナーフード|ベルベット|いのちの結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（583体）|259個（44.43％）|245個（42.02％）|74個（12.69％）|5個（0.86％）|0個（0.00％）|
+|知識あり（501体）|240個（47.90％）|207個（41.32％）|48個（9.58％）|5個（1.00％）|1個（0.20％）|
+
+***エンジェルボア [#b4428d09]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|異界の羽|珍しい種|破れた魔法書|するどい牙|タイタニアレザー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（880体）|532個（60.45％）|283個（32.16％）|53個（6.02％）|9個（1.02％）|1個（0.11％）|2個（0.23％）|

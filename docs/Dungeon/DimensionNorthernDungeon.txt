@@ -1,0 +1,64 @@
+# Dungeon/DimensionNorthernDungeon
+
+#author("2017-04-07T16:53:40+00:00","","")
+*ディメンションノーザンダンジョン [#k29e32f8]
+
+-適正Lv：99～102
+
+-[[ダンジョン>Dungeon]]
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+
+#contents
+
+**ディメンションノーザンダンジョン [#peb23bbe]
+&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionNorthernDungeon/DimensionNorthernDungeon.jpg,nolink,256x256,ディメンションノーザンダンジョン);
+-隣接マップ：[[ノース中央山脈>Kariba#wfe0e276]]
+-属性：水50
+-常時HP減少（寒波、5秒毎にHPが3減少）
+
+-出現モンスター（北東、南西）
+--[[D-使い魔>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv96/光)[HP:?][10000/10500]
+--[[D-ダークフェザー>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv99/闇)[HP:28800?][11000/12000]
+--[[D-スケルトンアーチャー>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv99/闇)[HP:33000?][13000/12000]
+--[[D-オーガ>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv99/闇)[HP:41000?][17000/15000]
+--[[D-リビングアーマー>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv100/闇)[HP:35000?][16000/18000]
+
+-出現モンスター（北西）
+--[[D-スケルトンアーチャー>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv99/闇)[HP:33000?][13000/12000]
+--[[D-アルカナハート>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv101/水)[HP:38000?][17000/17000]
+--[[D-アルカナダイヤ>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv101/土)[HP:37000?][17000/17000]
+--[[D-アルカナスペード>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv101/火)[HP:36000?][17000/17000]
+--[[D-アルカナクラブ>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv101/風)[HP:36000?][17000/17000]
+
+-出現モンスター（南東）
+--[[D-使い魔>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv96/光)[HP:?][10000/10500]
+--[[D-ダークフェザー>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv99/闇)[HP:28800?][11000/12000]
+--[[D-スケルトンアーチャー>MobDimension#NorthernDungeon]]（アクティブ）
+　(Lv99/闇)[HP:33000?][13000/12000]）
+--[[D-アルカナジャック>MobDimension#NorthernDungeon]]（BOSS）
+　(Lv104/光)[HP:?][32000/30000]
+--[[D-アルカナクイーン>MobDimension#NorthernDungeon]]（BOSS）
+　(Lv108/光)[HP:?][39000/38000]
+--[[ナイツ・オブ・ラウンドテーブル>MobDimension#NorthernDungeon]]（BOSS）
+　(Lv110/闇)[HP:?][70000/70000]
+--[[ペンドラゴン>MobDimension#NorthernDungeon]]（アクティブ、瀕死時ノンアクティブ、BOSS、取り巻き：ナイツ・オブ・ラウンドテーブル）
+　(Lv120/火)[HP:?][840000/840000]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**コメント欄 [#y82e8bcc]
+#pcomment

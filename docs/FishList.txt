@@ -1,0 +1,438 @@
+# FishList
+
+#author("2017-09-12T13:57:03+00:00","","")
+*釣り場と釣果一覧 [#wba310fd]
+←[[釣り>Fishing]]へ戻る
+-[[淡水>#Tansui]]
+-[[海水>#Kaisui]]
+-[[泥水>#Deisui]]
+-[[秘密の釣り場>#Secret]]
+
+''記号の見方''
+-◯：釣れる（釣れる頻度は問わない）
+-△：レアが釣れやすくなる状態（レアが釣れやすくなる竿((恵比寿の高級釣竿))や餌((練り餌、レアー))の使用時、公認ネットカフェ）で釣れる
+-×：釣れない
+-(空白)：データ不足のため判断保留((△は◯、×は△の可能性が残るものもある))
+-&COLOR(,#ffd1d8){番号の背景がピンク色};はアイテム詳細に「レア食材」表記あり
+
+飛空城の釣り堀はそのキャラクターの所属するリングの城か否かで釣れるものが変わります。
+表では所属リングを「自城」、それ以外を「他城」と表記します。
+[[天空のオープンカフェ>Quest/InstanceDungeonFromNcafe]]内の釣り堀は所属リングの城と同じ扱いになります。
+
+//2014/12のデータベース移行によりアイテム編集の不具合は解消されました。
+//%%2012/02現在、アイテムデータベースに不具合が発生しています。%%
+//%%一部のアイテムを編集するとその内容で「ドジョウ」（＃17310）が変更されます。%%
+//%%URLを直接指定しても、更新決定した際に＃17310が変更されてしまいます。%%
+//%%釣り関連のアイテムが幾つか対象になっているので、編集する際は注意してください。%%
+
+***淡水 [#Tansui]
+-飛空城の釣堀（淡水）
+-南ウテナ開拓地
+-ファーイースト街道
+-アクロニア丘陵
+-ウテナ湖
+-カーマイン砂漠のオアシス（昼）（夜）
+
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~南開拓|~街道|~丘陵|~ウテナ湖|~オアシス&br;（昼）|~オアシス&br;（夜）|
+|||CENTER:140||||||||>|>|>|>|>|>|>|CENTER:50|c
+|~淡水&br;P1|01-01|[[イワナ>http://eco.acronia.net/itemdb/#id=234]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|01-02|[[ヤマメ>http://eco.acronia.net/itemdb/#id=2636]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|01-03|[[ヒメマス>http://eco.acronia.net/itemdb/#id=2087]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|01-04|[[ニジマス>http://eco.acronia.net/itemdb/#id=1793]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|01-05|[[桜和金>http://eco.acronia.net/itemdb/#id=1067]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|×|×|◯|◯|
+|~|01-06|[[朱文金>http://eco.acronia.net/itemdb/#id=1193]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|×|×|◯|◯|
+|~|01-07|[[庄内金魚>http://eco.acronia.net/itemdb/#id=1234]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|×|×|◯|◯|
+|~|01-08|[[鉄魚>http://eco.acronia.net/itemdb/#id=1594]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|×|×|◯|◯|
+|~|01-09|[[和金>http://eco.acronia.net/itemdb/#id=2834]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|×|×|　|　|
+|~|01-10|[[出目金>http://eco.acronia.net/itemdb/#id=1621]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|×|×|　|　|
+|~|01-11|[[鏡鯉>http://eco.acronia.net/itemdb/#id=528]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|◯|×|◯|◯|
+|~|01-12|[[緋鯉>http://eco.acronia.net/itemdb/#id=2050]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|◯|×|◯|◯|
+|~|01-13|[[黒鯉>http://eco.acronia.net/itemdb/#id=855]]|||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|◯|×|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-14|[[アユ>http://eco.acronia.net/itemdb/#id=112]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|◯|◯|◯||×|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-15|[[マリモ>http://eco.acronia.net/itemdb/#id=2473]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-16|[[錦鯉>http://eco.acronia.net/itemdb/#id=1789]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×||×|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~淡水P1　コンプリート報酬：「[[海賊の眼帯>http://eco.acronia.net/equipdb/#id=3909]]」＆1500G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~南開拓|~街道|~丘陵|~ウテナ湖|~オアシス&br;（昼）|~オアシス&br;（夜）|
+|~淡水&br;P2|02-01|[[テナガエビ>http://eco.acronia.net/itemdb/#id=1616]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|◯|◯|◯|◯|
+|~|02-02|[[サワガニ>http://eco.acronia.net/itemdb/#id=1088]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|◯|◯|　|　|
+|~|02-03|[[ワカサギ>http://eco.acronia.net/itemdb/#id=2830]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|×|◯|◯|　|　|
+|~|02-04|[[クロメダカ>http://eco.acronia.net/itemdb/#id=864]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||◯|◯|◯|◯|◯|×|　|　|
+|~|02-05|[[ヒメダカ>http://eco.acronia.net/itemdb/#id=2086]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|×|　|　|
+|~|02-06|[[アオメダカ>http://eco.acronia.net/itemdb/#id=38]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|×|　|　|
+|~|02-07|[[ダルマメダカ>http://eco.acronia.net/itemdb/#id=1494]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|×|　|　|
+|~|02-08|[[ヒカリメダカ>http://eco.acronia.net/itemdb/#id=2033]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|×|　|　|
+|~|02-09|[[アカハライモリ>http://eco.acronia.net/itemdb/#id=53]]||BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|02-10|[[マダライモリ>http://eco.acronia.net/itemdb/#id=2414]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|02-11|[[シジミ>http://eco.acronia.net/itemdb/#id=1127]]|BGCOLOR(red):|BGCOLOR(blue):|||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|02-12|[[サンショウウオ>http://eco.acronia.net/itemdb/#id=1093]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-13|[[アルビノメダカ>http://eco.acronia.net/itemdb/#id=133]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-14|[[アルビノイモリ>http://eco.acronia.net/itemdb/#id=124]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-15|[[オオサンショウウオ>http://eco.acronia.net/itemdb/#id=371]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-16|[[チョウザメ>http://eco.acronia.net/itemdb/#id=1537]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~淡水P2　コンプリート報酬：「[[クラゲワンピ♀>http://eco.acronia.net/equipdb/#id=3910]]」＆2000G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~南開拓|~街道|~丘陵|~ウテナ湖|~オアシス&br;（昼）|~オアシス&br;（夜）|
+|~淡水&br;P3|03-01|[[クサフグ>http://eco.acronia.net/itemdb/#id=803]]||||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|×|×|△|×|×|　|　|
+|~|03-02|[[レッドグラミー>http://eco.acronia.net/itemdb/#id=2771]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|||||◯|×|×|△|×|×|　|　|
+|~|03-03|[[サンセットグラミー>http://eco.acronia.net/itemdb/#id=1094]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|×|×|△|×|×|　|　|
+|~|03-04|[[バンデッドグラミー>http://eco.acronia.net/itemdb/#id=1998]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|×|×|△|×|×|　|　|
+|~|03-05|[[マーブルグラミー>http://eco.acronia.net/itemdb/#id=2385]]|||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|×|×|△|×|×|　|　|
+|~|03-06|[[パールグラミー>http://eco.acronia.net/itemdb/#id=1912]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|×|×|△|×|×|　|　|
+|~|03-07|[[シルバーグラミー>http://eco.acronia.net/itemdb/#id=1261]]|BGCOLOR(red):|||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|◯|×|◯|×|×|◯|◯|
+|~|03-08|[[チョコレートグラミー>http://eco.acronia.net/itemdb/#id=1549]]|BGCOLOR(red):|||BGCOLOR(green):||BGCOLOR(#330033):||×|◯|×|◯|×|×|◯|◯|
+|~|03-09|[[ピグミーグラミー>http://eco.acronia.net/itemdb/#id=2048]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|◯|×|◯|×|×|◯|◯|
+|~|03-10|[[ジャイアントグラミー>http://eco.acronia.net/itemdb/#id=1140]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|◯|×|◯|×|×|◯|◯|
+|~|03-11|[[ハヤ>http://eco.acronia.net/itemdb/#id=1971]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||||×|◯|×|◯|◯|◯|◯|◯|
+|~|03-12|[[ウグイ>http://eco.acronia.net/itemdb/#id=256]]||||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|◯|×|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):03-13|[[グッピー>http://eco.acronia.net/itemdb/#id=812]]||BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||×|×|×|◯||×|◯|◯|
+|~|BGCOLOR(#ffd1d8):03-14|[[アルビノグッピー>http://eco.acronia.net/itemdb/#id=125]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×|×|◯||◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):03-15|[[アルビノグラミー>http://eco.acronia.net/itemdb/#id=126]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×|×|◯||◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):03-16|[[イクラ>http://eco.acronia.net/itemdb/#id=165]]|BGCOLOR(red):|||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|◯|◯|×|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~淡水P3　コンプリート報酬：「大漁旗」＆2500G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~南開拓|~街道|~丘陵|~ウテナ湖|~オアシス&br;（昼）|~オアシス&br;（夜）|
+|~淡水&br;P4|04-01|[[ネオンテトラ>http://eco.acronia.net/itemdb/#id=1812]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×|×|×|×|◯|◯|◯|
+|~|04-02|[[カーディナルテトラ>http://eco.acronia.net/itemdb/#id=475]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|×|×|◯|◯|◯|
+|~|04-03|[[グローライトテトラ>http://eco.acronia.net/itemdb/#id=852]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×|×|×|×|◯|◯|◯|
+|~|04-04|[[レモンテトラ>http://eco.acronia.net/itemdb/#id=2783]]|||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×|×|×|×|◯|◯|◯|
+|~|04-05|[[ラミーノーズテトラ>http://eco.acronia.net/itemdb/#id=2697]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|×|×|◯|◯|◯|
+|~|04-06|[[キャッスルテトラ>http://eco.acronia.net/itemdb/#id=728]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|×|×|◯|◯|◯|
+|~|04-07|[[ブラックファントムテトラ>http://eco.acronia.net/itemdb/#id=2191]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×|×|×|×|◯|◯|◯|
+|~|04-08|[[フレームテトラ>http://eco.acronia.net/itemdb/#id=2240]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||×|×|×|×|×|◯|　|　|
+|~|04-09|[[ブラックテール&br;エンジェルフィッシュ>http://eco.acronia.net/itemdb/#id=2187]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|×|×|◯|　|　|
+|~|04-10|[[イエローテール&br;エンジェルフィッシュ>http://eco.acronia.net/itemdb/#id=154]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×|×|×|×|◯|　|　|
+|~|04-11|[[レッドテール&br;エンジェルフィッシュ>http://eco.acronia.net/itemdb/#id=2772]]|BGCOLOR(red):|BGCOLOR(blue):|||BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×|×|×|×|◯|　|　|
+|~|04-12|[[ブルーテール&br;エンジェルフィッシュ>http://eco.acronia.net/itemdb/#id=2224]]|BGCOLOR(red):|BGCOLOR(blue):|||BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×|×|×|×|◯|　|　|
+|~|04-13|[[ブラックバス>http://eco.acronia.net/itemdb/#id=2188]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|×|×|◯|　|　|
+|~|BGCOLOR(#ffd1d8):04-14|[[アルビノテトラ>http://eco.acronia.net/itemdb/#id=128]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):||||||||◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):04-15|[[シャベルノーズ&br;ギターフィッシュ>http://eco.acronia.net/itemdb/#id=1150]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):|||||||◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):04-16|[[アルビノバス>http://eco.acronia.net/itemdb/#id=130]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):||||||||◯|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~淡水P4　コンプリート報酬：「[[流水の羽衣>http://eco.acronia.net/equipdb/#id=4775]]」&2500G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+//|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~その他|
+|~ |>|>|>|>|>|>|>|~ |~ |~自城|~他城|~南開拓|~街道|~丘陵|~ウテナ湖|~オアシス&br;（昼）|~オアシス&br;（夜）|
+|||CENTER:140||||||||>|>|>|>|>|>|>|CENTER:50|c
+|~その他|-|[[釣りの宝箱（淡水）>Fishing#FishTakarabako]]|>|>|>|>|>|||◯|◯|◯|◯|◯|◯|◯|◯|
+|~|-|[[イブルフィッシュ>MobUnderwater#Fish]]|>|>|>|>|>|||×|×|×|◯|◯|◯((南岸の東端から最南端付近（87,127）までの安全地帯では釣れない。))|×|×|
+|~|-|[[オアシスの水>http://eco.acronia.net/itemdb/#id=344]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[オアシスの糸>http://eco.acronia.net/itemdb/#id=341]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[オアシスの布>http://eco.acronia.net/itemdb/#id=343]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[オアシスの輝石>http://eco.acronia.net/itemdb/#id=342]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[カーマインツリー（大）>http://eco.acronia.net/itemdb/#id=487]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[カーマインツリー（小）>http://eco.acronia.net/itemdb/#id=486]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[カーマイングラス（緑）>http://eco.acronia.net/itemdb/#id=485]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[カーマイングラス（赤）>http://eco.acronia.net/itemdb/#id=483]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+|~|-|[[カーマイングラス（細・赤）>http://eco.acronia.net/itemdb/#id=484]]|>|>|>|>|>|||×|×|×|×|×|×|◯|◯|
+
+***海水 [#Kaisui]
+-飛空城の釣堀（海水）
+-東アクロニア段丘の釣り場
+-モーモー草原の海岸の釣り場
+-ウェストー開拓地の海岸
+-ノーザリン岬の海岸
+-マイマイ島の海岸
+
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~段丘|~草原|~西開拓|~北岬|~マイマイ|
+|||CENTER:140||||||||>|>|>|>|>|>|CENTER:50|c
+|~海水&br;P1|01-01|[[イカ>http://eco.acronia.net/itemdb/#id=158]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|×|
+|~|01-02|[[アジ>http://eco.acronia.net/itemdb/#id=78]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|
+|~|01-03|[[アンコウ>http://eco.acronia.net/itemdb/#id=140]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|×|
+|~|01-04|[[クマノミ>http://eco.acronia.net/itemdb/#id=815]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|×|◯|
+|~|01-05|[[カレイ>http://eco.acronia.net/itemdb/#id=602]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|
+|~|01-06|[[ヒラメ>http://eco.acronia.net/itemdb/#id=2102]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|
+|~|01-07|[[サンマ>http://eco.acronia.net/itemdb/#id=1099]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|×|
+|~|01-08|[[ハコフグ>http://eco.acronia.net/itemdb/#id=1939]]|BGCOLOR(red):|||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|×|
+|~|01-09|[[タコ>http://eco.acronia.net/itemdb/#id=1468]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|
+|~|01-10|[[マンボウ>http://eco.acronia.net/itemdb/#id=2488]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|×|◯|
+|~|01-11|[[ウミウシ>http://eco.acronia.net/itemdb/#id=274]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-12|[[クロマグロ>http://eco.acronia.net/itemdb/#id=862]]|||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-13|[[カジキマグロ>http://eco.acronia.net/itemdb/#id=539]]|BGCOLOR(red):|||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|×|×|
+|~|BGCOLOR(#ffd1d8):01-14|[[タツノオトシゴ>http://eco.acronia.net/itemdb/#id=1473]]|BGCOLOR(red):|BGCOLOR(blue):|||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|△|×|×|
+|~|BGCOLOR(#ffd1d8):01-15|[[イトマキエイ>http://eco.acronia.net/itemdb/#id=192]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-16|[[タイ>http://eco.acronia.net/itemdb/#id=1428]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|△|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~海水P1　コンプリート報酬：「[[ワカメニーソ>http://eco.acronia.net/itemdb/#id=1695]]」＆1500G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~段丘|~草原|~西開拓|~北岬|~マイマイ|
+|~海水&br;P2|BGCOLOR(#ffd1d8):02-01|[[イセエビ>http://eco.acronia.net/itemdb/#id=171]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|
+|~|02-02|[[シャチ>http://eco.acronia.net/itemdb/#id=1147]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|×|
+|~|02-03|[[トラフグ>http://eco.acronia.net/itemdb/#id=1715]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|×|
+|~|02-04|[[バンドウイルカ>http://eco.acronia.net/itemdb/#id=1999]]|BGCOLOR(red):|BGCOLOR(blue):|||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|
+|~|02-05|[[ネコザメ>http://eco.acronia.net/itemdb/#id=1814]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|×|
+|~|02-06|[[ホオジロザメ>http://eco.acronia.net/itemdb/#id=2318]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|
+|~|02-07|[[ミズクラゲ>http://eco.acronia.net/itemdb/#id=2499]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|
+|~|02-08|[[アカクラゲ>http://eco.acronia.net/itemdb/#id=50]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|◯|
+|~|02-09|[[カツオノエボシ>http://eco.acronia.net/itemdb/#id=567]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||||◯|◯|◯|◯|◯|◯|◯|
+|~|02-10|[[ワカメ>http://eco.acronia.net/itemdb/#id=2833]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||◯|◯|◯|◯|◯|◯|×|
+|~|02-11|[[ヒトデ>http://eco.acronia.net/itemdb/#id=2072]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|×|
+|~|02-12|[[ムラサキウニ>http://eco.acronia.net/itemdb/#id=2556]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-13|[[アワビ>http://eco.acronia.net/itemdb/#id=137]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||◯|◯|◯|◯|△|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-14|[[シーラカンス>http://eco.acronia.net/itemdb/#id=1108]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|△|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-15|[[リュウグウノツカイ>http://eco.acronia.net/itemdb/#id=2709]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯||◯|◯|
+|~|BGCOLOR(#ffd1d8):02-16|[[ジンベイザメ>http://eco.acronia.net/itemdb/#id=1292]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|△|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~海水P2　コンプリート報酬：「[[クマノミオーバーオール>http://eco.acronia.net/equipdb/#id=4712]]」＆2000G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~段丘|~草原|~西開拓|~北岬|~マイマイ|
+|~海水&br;P3|03-01|[[アナゴ>http://eco.acronia.net/itemdb/#id=91]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|×|×|×|×|△|×|
+|~|03-02|[[イシダイ>http://eco.acronia.net/itemdb/#id=169]]|||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|×|×|×|×|△|×|
+|~|03-03|[[ウミヘビ>http://eco.acronia.net/itemdb/#id=275]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|×|×|×|×|△|×|
+|~|03-04|[[ベニジャケ>http://eco.acronia.net/itemdb/#id=2300]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||||◯|×|×|×|×|△|×|
+|~|03-05|[[シシャモ>http://eco.acronia.net/itemdb/#id=1130]]|BGCOLOR(red):|||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|×|×|×|×|△|×|
+|~|03-06|[[タチウオ>http://eco.acronia.net/itemdb/#id=1472]]||BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||◯|×|×|×|×|△|×|
+|~|03-07|[[ハモ>http://eco.acronia.net/itemdb/#id=1970]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|×|×|×|×|△|×|
+|~|03-08|[[ハリセンボン>http://eco.acronia.net/itemdb/#id=1977]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|◯|×|×|×|◯|×|
+|~|03-09|[[ブリ>http://eco.acronia.net/itemdb/#id=2204]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|◯|×|×|×|◯|×|
+|~|03-10|[[サバ>http://eco.acronia.net/itemdb/#id=1078]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||×|◯|×|×|×|◯|×|
+|~|03-11|[[ホッケ>http://eco.acronia.net/itemdb/#id=2345]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||×|◯|×|×|×|◯|×|
+|~|03-12|[[ニシン>http://eco.acronia.net/itemdb/#id=1796]]|||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|◯|×|×|×|◯|×|
+|~|03-13|[[ホタテ>http://eco.acronia.net/itemdb/#id=2341]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||||×|◯|×|×|×|◯|×|
+|~|03-14|[[アサリ>http://eco.acronia.net/itemdb/#id=75]]|||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||×|◯|×|×|×|◯|×|
+|~|BGCOLOR(#ffd1d8):03-15|[[キハダマグロ>http://eco.acronia.net/itemdb/#id=720]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|×|×|◯|×|
+|~|BGCOLOR(#ffd1d8):03-16|[[ダイオウイカ>http://eco.acronia.net/itemdb/#id=1429]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×|×|×|×|◯|×|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~海水P3　コンプリート報酬：「&color(blue){●};海水３コンプリートBOX」＆2500G&br;（使用して「[[マリンニーソックス>http://eco.acronia.net/equipdb/#id=4766]]」か「[[マリンハイソックス>http://eco.acronia.net/equipdb/#id=4767]]」から選択する）|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~段丘|~草原|~西開拓|~北岬|~マイマイ|
+|~海水&br;P4|04-01|[[ウツボ>http://eco.acronia.net/itemdb/#id=269]]||||||BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-02|[[キス>http://eco.acronia.net/itemdb/#id=657]]||||||BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-03|[[カワハギ>http://eco.acronia.net/itemdb/#id=610]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×||||×|◯|
+|~|04-04|[[チョウチョウウオ>http://eco.acronia.net/itemdb/#id=1542]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×||||×|◯|
+|~|04-05|[[トビウオ>http://eco.acronia.net/itemdb/#id=1701]]||BGCOLOR(blue):||||||×|×||||×|◯|
+|~|04-06|[[イワシ>http://eco.acronia.net/itemdb/#id=233]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-07|[[カタクチイワシ>http://eco.acronia.net/itemdb/#id=554]]|||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-08|[[コンブ>http://eco.acronia.net/itemdb/#id=1033]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×||||×|◯|
+|~|04-09|[[バフンウニ>http://eco.acronia.net/itemdb/#id=1969]]|||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-10|[[コバンザメ>http://eco.acronia.net/itemdb/#id=1004]]||BGCOLOR(blue):||||BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-11|[[シュモクザメ>http://eco.acronia.net/itemdb/#id=1194]]|BGCOLOR(red):|BGCOLOR(blue):||||BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-12|[[ノコギリザメ>http://eco.acronia.net/itemdb/#id=1889]]|BGCOLOR(red):|||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×||||×|◯|
+|~|04-13|[[イタチザメ>http://eco.acronia.net/itemdb/#id=175]]|BGCOLOR(red):||||BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×||||×|◯|
+|~|04-14|[[イイダコ>http://eco.acronia.net/itemdb/#id=151]]|BGCOLOR(red):||BGCOLOR(yellow):|||BGCOLOR(#330033):||×|×||||×|◯|
+|~|BGCOLOR(#ffd1d8):04-15|[[カツオ>http://eco.acronia.net/itemdb/#id=566]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×||||×|◯|
+|~|BGCOLOR(#ffd1d8):04-16|[[モンハナシャコ>http://eco.acronia.net/itemdb/#id=2611]]|BGCOLOR(red):||||BGCOLOR(#88ffff):|||×|×||||×|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~海水P4　コンプリート報酬：「カジキスピア」|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~その他|
+|-|-|[[釣りの宝箱（海水）>Fishing#FishTakarabako]]|>|>|>|>|>|||◯|◯|◯|◯|◯|◯|◯|
+|-|-|[[イブルフィッシュ>MobUnderwater#Fish]]|>|>|>|>|>|||×|×|◯|◯|◯|◯|×|
+
+***泥水 [#Deisui]
+-飛空城の釣堀（泥水）
+-モーモー草原の沼の釣り場
+-ウェストー開拓地の沼
+
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~草原|~西開拓|
+|||CENTER:140||||||||>|>|>|CENTER:50|c
+|~泥水&br;P1|01-01|[[ウナギ>http://eco.acronia.net/itemdb/#id=270]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|01-02|[[オオウナギ>http://eco.acronia.net/itemdb/#id=351]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|
+|~|01-03|[[ナマズ>http://eco.acronia.net/itemdb/#id=1763]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|01-04|[[ムツゴロウ>http://eco.acronia.net/itemdb/#id=2552]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|
+|~|01-05|[[ゴールデンアロワナ>http://eco.acronia.net/itemdb/#id=964]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|
+|~|01-06|[[シルバーアロワナ>http://eco.acronia.net/itemdb/#id=1260]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|×|
+|~|01-07|[[ブラックアロワナ>http://eco.acronia.net/itemdb/#id=2184]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|
+|~|01-08|[[ホワイトアロワナ>http://eco.acronia.net/itemdb/#id=2373]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|◯|◯|×|
+|~|01-09|[[グリーンアロワナ>http://eco.acronia.net/itemdb/#id=829]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|
+|~|01-10|[[レッドアロワナ>http://eco.acronia.net/itemdb/#id=2770]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|
+|~|01-11|[[イエローアロワナ>http://eco.acronia.net/itemdb/#id=153]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|
+|~|BGCOLOR(#ffd1d8):01-12|[[電気ウナギ>http://eco.acronia.net/itemdb/#id=1625]]|BGCOLOR(red):|||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-13|[[アルビノナマズ>http://eco.acronia.net/itemdb/#id=129]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-14|[[オオナマズ>http://eco.acronia.net/itemdb/#id=376]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-15|[[アルビノアロワナ>http://eco.acronia.net/itemdb/#id=123]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):01-16|[[スッポン>http://eco.acronia.net/itemdb/#id=1356]]|BGCOLOR(red):|BGCOLOR(blue):|||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|~泥水P1　コンプリート報酬：「[[ゴム長靴（黒）>http://eco.acronia.net/equipdb/#id=4719]]」＆1500G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~草原|~西開拓|
+|~泥水&br;P2|02-01|[[フナ>http://eco.acronia.net/itemdb/#id=2160]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||◯|◯|◯|×|
+|~|02-02|[[タニシ>http://eco.acronia.net/itemdb/#id=1479]]|||BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|
+|~|02-03|[[ヒキガエル>http://eco.acronia.net/itemdb/#id=2035]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|
+|~|02-04|[[オオヒキガエル>http://eco.acronia.net/itemdb/#id=377]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|
+|~|02-05|[[アリゲーター>http://eco.acronia.net/itemdb/#id=115]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|×|
+|~|02-06|[[クロコダイル>http://eco.acronia.net/itemdb/#id=856]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|×|
+|~|02-07|[[ヤゴ>http://eco.acronia.net/itemdb/#id=2615]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|
+|~|02-08|[[ウキクサ>http://eco.acronia.net/itemdb/#id=255]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|02-09|[[スイレン>http://eco.acronia.net/itemdb/#id=1309]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||◯|◯|◯|◯|
+|~|02-10|[[オタマジャクシ>http://eco.acronia.net/itemdb/#id=403]]|BGCOLOR(red):|BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|02-11|[[ザリガニ>http://eco.acronia.net/itemdb/#id=1087]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-12|[[キンブナ>http://eco.acronia.net/itemdb/#id=789]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||||◯|◯|◯|×|
+|~|BGCOLOR(#ffd1d8):02-13|[[ギンブナ>http://eco.acronia.net/itemdb/#id=790]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|×|
+|~|BGCOLOR(#ffd1d8):02-14|[[アルビノザリガニ>http://eco.acronia.net/itemdb/#id=127]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-15|[[トノサマガエル>http://eco.acronia.net/itemdb/#id=1698]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||◯|◯|◯|◯|
+|~|BGCOLOR(#ffd1d8):02-16|[[アホロートル>http://eco.acronia.net/itemdb/#id=97]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|◯|◯|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|~泥水P2　コンプリート報酬：「前縛りのパーカー水着」＆2000G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~草原|~西開拓|
+|~泥水&br;P3|03-01|[[ブルーギル>http://eco.acronia.net/itemdb/#id=2221]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||◯|×|△|×|
+|~|03-02|[[ドジョウ>http://eco.acronia.net/itemdb/#id=1695]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||◯|×|△|×|
+|~|03-03|[[アマガエル>http://eco.acronia.net/itemdb/#id=100]]||BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||||◯|×|△|×|
+|~|03-04|[[ヤドクガエル>http://eco.acronia.net/itemdb/#id=2628]]|BGCOLOR(red):|||BGCOLOR(green):|BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|×|△|×|
+|~|03-05|[[タナゴ>http://eco.acronia.net/itemdb/#id=1478]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|×|△|×|
+|~|03-06|[[ゲンゴロウ>http://eco.acronia.net/itemdb/#id=898]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||◯|×|△|×|
+|~|03-07|[[ピラルク>http://eco.acronia.net/itemdb/#id=2103]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||||◯|×|△|×|
+|~|03-08|[[ヤドカリ>http://eco.acronia.net/itemdb/#id=2627]]||BGCOLOR(blue):|BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|◯|×|×|
+|~|03-09|[[ヤシガニ>http://eco.acronia.net/itemdb/#id=2621]]|BGCOLOR(red):|BGCOLOR(blue):|||BGCOLOR(#88ffff):|||×|◯|×|×|
+|~|03-10|[[マレーコッド>http://eco.acronia.net/itemdb/#id=2483]]||BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||×|◯|×|×|
+|~|03-11|[[アカミミガメ>http://eco.acronia.net/itemdb/#id=55]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||||×|◯|×|◯|
+|~|03-12|[[ワニガメ>http://eco.acronia.net/itemdb/#id=2839]]|BGCOLOR(red):|BGCOLOR(blue):|BGCOLOR(yellow):|BGCOLOR(green):||BGCOLOR(#330033):||×|◯|×|◯|
+|~|03-13|[[キンセンガメ>http://eco.acronia.net/itemdb/#id=767]]|||BGCOLOR(yellow):|||BGCOLOR(#330033):||×|◯|×|◯|
+|~|03-14|[[クサガメ>http://eco.acronia.net/itemdb/#id=800]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|◯|×|◯|
+|~|BGCOLOR(#ffd1d8):03-15|[[アルビノピラルク>http://eco.acronia.net/itemdb/#id=132]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×|◯|×|
+|~|BGCOLOR(#ffd1d8):03-16|[[アルビノヤシガニ>http://eco.acronia.net/itemdb/#id=134]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×|◯|×|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|~泥水P3　コンプリート報酬：「[[シャケソード>http://eco.acronia.net/equipdb/#id=4144]]」＆2500G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|~ページ|~番号|~名前|>|>|>|>|>|~好きな餌の色|~ |~自城|~他城|~草原|~西開拓|
+|~泥水&br;P4|04-01|[[ハゼ>http://eco.acronia.net/itemdb/#id=1943]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|◯|
+|~|04-02|[[トビハゼ>http://eco.acronia.net/itemdb/#id=1703]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×|×|◯|
+|~|04-03|[[メガロドラス>http://eco.acronia.net/itemdb/#id=2567]]|BGCOLOR(red):||BGCOLOR(yellow):||BGCOLOR(#88ffff):|||×|×|×|◯|
+|~|04-04|[[アカンソドラス>http://eco.acronia.net/itemdb/#id=57]]||BGCOLOR(blue):||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|◯|
+|~|04-05|[[チャカ・チャカ>http://eco.acronia.net/itemdb/#id=1530]]|BGCOLOR(red):||||BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×|×|◯|
+|~|04-06|[[ブルーアロワナ>http://eco.acronia.net/itemdb/#id=2220]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×|×|◯|
+|~|04-07|[[ブラックピラニア>http://eco.acronia.net/itemdb/#id=2190]]|BGCOLOR(red):|BGCOLOR(blue):||||BGCOLOR(#330033):||×|×|×|◯|
+|~|04-08|[[イエローピラニア>http://eco.acronia.net/itemdb/#id=155]]|||BGCOLOR(yellow):||BGCOLOR(#88ffff):|BGCOLOR(#330033):||×|×|×|◯|
+|~|04-09|[[レッドピラニア>http://eco.acronia.net/itemdb/#id=2774]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||||×|×|×|◯|
+|~|04-10|[[ブルーピラニア>http://eco.acronia.net/itemdb/#id=2227]]||BGCOLOR(blue):||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×|×|◯|
+|~|04-11|[[コメツキガニ>http://eco.acronia.net/itemdb/#id=1012]]|BGCOLOR(red):|BGCOLOR(blue):||||BGCOLOR(#330033):||×|×|×|◯|
+|~|04-12|[[ワタリガニ>http://eco.acronia.net/itemdb/#id=2837]]|BGCOLOR(red):||BGCOLOR(yellow):|BGCOLOR(green):||||×|×|×|◯|
+|~|04-13|[[アリゲーターガー>http://eco.acronia.net/itemdb/#id=116]]|BGCOLOR(red):|||BGCOLOR(green):||BGCOLOR(#330033):||×|×|×|◯|
+|~|04-14|[[ナイフフィッシュ>http://eco.acronia.net/itemdb/#id=1735]]||BGCOLOR(blue):||||||×|×|×|◯|
+|~|BGCOLOR(#ffd1d8):04-15|[[アルビノピラニア>http://eco.acronia.net/itemdb/#id=131]]|BGCOLOR(red):|||BGCOLOR(green):|BGCOLOR(#88ffff):|||×|×|×|◯|
+|~|BGCOLOR(#ffd1d8):04-16|[[ブラックゴースト>http://eco.acronia.net/itemdb/#id=2185]]||BGCOLOR(blue):|BGCOLOR(yellow):|||BGCOLOR(#330033):||×|×|×|◯|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|~泥水P4　コンプリート報酬：「[[シャチフロート>http://eco.acronia.net/equipdb/#id=4733]]」＆2500G|
+|>|>|>|>|>|>|>|>|>|>|>|>|>||
+|>|>|>|>|>|>|>|>|>|>|>|>|>|~その他|
+|-|-|[[釣りの宝箱（泥水）>Fishing#FishTakarabako]]|>|>|>|>|>|||◯|◯|◯|◯|
+|-|-|[[イブルフィッシュ>MobUnderwater#Fish]]|>|>|>|>|>|||×|×|◯|◯|
+
+//BGCOLOR(red):
+//BGCOLOR(blue):
+//BGCOLOR(yellow):
+//BGCOLOR(green):
+//BGCOLOR(#88ffff):
+//BGCOLOR(#330033):
+
+***秘密の釣り場 [#Secret]
+-サウスリン岬
+-鬼ノ寝床岩
+
+|~種別|~名前|~南岬|~寝床岩|
+|||CENTER:|CENTER:|c
+|~食べ物|[[青いゼリコ>http://eco.acronia.net/itemdb/#id=27]]||◯|
+|~|[[赤いゼリコ>http://eco.acronia.net/itemdb/#id=45]]|◯||
+|~|[[あんず>http://eco.acronia.net/itemdb/#id=143]]||◯|
+|~|[[いちじく>http://eco.acronia.net/itemdb/#id=186]]||◯|
+|~|[[オレンジ>http://eco.acronia.net/itemdb/#id=470]]||◯|
+|~|[[カカオ豆>http://eco.acronia.net/itemdb/#id=526]]||◯|
+|~|[[岩塩>http://eco.acronia.net/itemdb/#id=614]]|◯||
+|~|[[黄色いゼリコ>http://eco.acronia.net/itemdb/#id=632]]||◯|
+|~|[[黄緑のゼリコ>http://eco.acronia.net/itemdb/#id=722]]||◯|
+|~|[[黒いゼリコ>http://eco.acronia.net/itemdb/#id=848]]||◯|
+|~|[[高級卵>http://eco.acronia.net/itemdb/#id=933]]|◯||
+|~|[[高級ゆで卵>http://eco.acronia.net/itemdb/#id=943]]|◯||
+|~|[[香辛料>http://eco.acronia.net/itemdb/#id=948]]|◯||
+|~|[[氷砂糖>http://eco.acronia.net/itemdb/#id=963]]|◯||
+|~|[[さくらんぼ>http://eco.acronia.net/itemdb/#id=1068]]||◯|
+|~|[[シナモン缶>http://eco.acronia.net/itemdb/#id=1135]]|◯|◯|
+|~|[[じゃがいも>http://eco.acronia.net/itemdb/#id=1141]]||◯|
+|~|[[白いゼリコ>http://eco.acronia.net/itemdb/#id=1271]]||◯|
+|~|[[ゼリコ>http://eco.acronia.net/itemdb/#id=1404]]|◯|◯|
+|~|[[橙色のゼリコ>http://eco.acronia.net/itemdb/#id=1433]]||◯|
+|~|[[卵>http://eco.acronia.net/itemdb/#id=1485]]|◯||
+|~|[[チーズ>http://eco.acronia.net/itemdb/#id=1508]]|◯||
+|~|[[チョコレート>http://eco.acronia.net/itemdb/#id=1548]]|◯||
+|~|[[菜っ葉>http://eco.acronia.net/itemdb/#id=1749]]||◯|
+|~|[[にんじん>http://eco.acronia.net/itemdb/#id=1805]]||◯|
+|~|[[バター>http://eco.acronia.net/itemdb/#id=1947]]|◯||
+|~|[[ぶどう>http://eco.acronia.net/itemdb/#id=2159]]||◯|
+|~|[[プルーン>http://eco.acronia.net/itemdb/#id=2232]]||◯|
+|~|[[ベーコン>http://eco.acronia.net/itemdb/#id=2293]]||◯|
+|~|[[ペッパー>http://eco.acronia.net/itemdb/#id=2299]]|◯||
+|~|[[マシュマロ>http://eco.acronia.net/itemdb/#id=2405]]|◯||
+|~|[[水色のゼリコ>http://eco.acronia.net/itemdb/#id=2496]]|◯||
+|~|[[緑のゼリコ>http://eco.acronia.net/itemdb/#id=2519]]|◯||
+|~|[[紫のゼリコ>http://eco.acronia.net/itemdb/#id=2557]]|◯||
+|~|[[ゆで卵>http://eco.acronia.net/itemdb/#id=2660]]|◯||
+|~|[[ラズベリー>http://eco.acronia.net/itemdb/#id=2685]]||◯|
+|~|[[りんご>http://eco.acronia.net/itemdb/#id=2718]]||◯|
+|~|[[レタス>http://eco.acronia.net/itemdb/#id=2769]]||◯|
+|>|>|>||
+|~鉱物|[[石ころ>http://eco.acronia.net/itemdb/#id=168]]|◯|◯|
+|~|[[アクアマリン>http://eco.acronia.net/itemdb/#id=64]]|◯|◯|
+|~|[[アメジスト>http://eco.acronia.net/itemdb/#id=105]]|◯|◯|
+|~|[[インペリアルトパーズ>http://eco.acronia.net/itemdb/#id=243]]|◯|◯|
+|~|[[エメラルド>http://eco.acronia.net/itemdb/#id=302]]|◯|◯|
+|~|[[オリハルコン>http://eco.acronia.net/itemdb/#id=463]]|◯|◯|
+|~|[[火山岩>http://eco.acronia.net/itemdb/#id=538]]|◯|◯|
+|~|[[固い石ころ>http://eco.acronia.net/itemdb/#id=549]]|◯|◯|
+|~|[[ガーネット>http://eco.acronia.net/itemdb/#id=482]]|◯|◯|
+|~|[[キュービック・ジルコニア>http://eco.acronia.net/itemdb/#id=739]]|◯|◯|
+|~|[[金のナゲット>http://eco.acronia.net/itemdb/#id=784]]|◯|◯|
+|~|[[銀のナゲット>http://eco.acronia.net/itemdb/#id=785]]|◯|◯|
+|~|[[硅石>http://eco.acronia.net/itemdb/#id=878]]|◯|◯|
+|~|[[黒色火薬>http://eco.acronia.net/itemdb/#id=977]]|◯|◯|
+|~|[[琥珀>http://eco.acronia.net/itemdb/#id=1002]]|◯|◯|
+|~|[[砂金>http://eco.acronia.net/itemdb/#id=1059]]|◯|◯|
+|~|[[砂鉄>http://eco.acronia.net/itemdb/#id=1073]]|◯|◯|
+|~|[[水晶>http://eco.acronia.net/itemdb/#id=1302]]|◯|◯|
+|~|[[水晶のかけら>http://eco.acronia.net/itemdb/#id=1304]]|◯|◯|
+|~|[[砂>http://eco.acronia.net/itemdb/#id=1359]]|◯|◯|
+|~|[[ダイヤモンド>http://eco.acronia.net/itemdb/#id=1456]]|◯|◯|
+|~|[[大理石>http://eco.acronia.net/itemdb/#id=1461]]|◯|◯|
+|~|[[チタニウム塊>http://eco.acronia.net/itemdb/#id=1524]]|◯|◯|
+|~|[[チーターロック>http://eco.acronia.net/itemdb/#id=1511]]|◯|◯|
+|~|[[超硬石>http://eco.acronia.net/itemdb/#id=1536]]|◯|◯|
+|~|[[鉄のナゲット>http://eco.acronia.net/itemdb/#id=1610]]|◯|◯|
+|~|[[銅のナゲット>http://eco.acronia.net/itemdb/#id=1666]]|◯|◯|
+|~|[[ナニカの入った宝石>http://eco.acronia.net/itemdb/#id=1758]]|◯|◯|
+|~|[[鉛のナゲット>http://eco.acronia.net/itemdb/#id=1764]]|◯|◯|
+|~|[[ハートルビー>http://eco.acronia.net/itemdb/#id=1908]]|◯|◯|
+|~|[[火打石>http://eco.acronia.net/itemdb/#id=2022]]|◯|◯|
+|~|[[ヒスイ>http://eco.acronia.net/itemdb/#id=2063]]|◯|◯|
+|~|[[ファルコンアイ>http://eco.acronia.net/itemdb/#id=2115]]|◯|◯|
+|~|[[プラチナ塊>http://eco.acronia.net/itemdb/#id=2178]]|◯|◯|
+|~|[[ペリドット>http://eco.acronia.net/itemdb/#id=2303]]|◯|◯|
+|~|[[母樹石>http://eco.acronia.net/itemdb/#id=2334]]|◯|◯|
+|~|[[メロディーストーン>http://eco.acronia.net/itemdb/#id=2578]]|◯|◯|
+|~|[[ラピス・ラズリ>http://eco.acronia.net/itemdb/#id=2689]]|◯|◯|
+|~|[[ラピスラズリのかけら>http://eco.acronia.net/itemdb/#id=2690]]|◯|◯|
+|~|[[ルチル>http://eco.acronia.net/itemdb/#id=2724]]|◯|◯|
+|>|>|>||
+|~その他|[[空き瓶>http://eco.acronia.net/itemdb/#id=63]]|◯|◯|
+|~|[[炎鉄の刀身>http://eco.acronia.net/itemdb/#id=336]]|◯||
+|~|[[オリハルコンの斧の刃>http://eco.acronia.net/itemdb/#id=464]]||◯|
+|~|[[オリハルコンの弦>http://eco.acronia.net/itemdb/#id=465]]||◯|
+|~|[[オリハルコンの刀身>http://eco.acronia.net/itemdb/#id=466]]|◯||
+|~|[[オリハルコンの棒>http://eco.acronia.net/itemdb/#id=468]]|◯||
+|~|[[ガラス玉>http://eco.acronia.net/itemdb/#id=596]]|◯|◯|
+|~|[[キャリアオイル>http://eco.acronia.net/itemdb/#id=734]]|◯|◯|
+|~|[[銀製の小さな刀身>http://eco.acronia.net/itemdb/#id=766]]|◯|◯|
+|~|[[金の柄>http://eco.acronia.net/itemdb/#id=783]]|◯||
+|~|[[金の延べ棒>http://eco.acronia.net/itemdb/#id=786]]||◯|
+|~|[[四角い石>http://eco.acronia.net/itemdb/#id=1113]]|◯|◯|
+|~|[[ダイヤモンドの粉>http://eco.acronia.net/itemdb/#id=1457]]|◯|◯|
+|~|[[タタラ炉>http://eco.acronia.net/itemdb/#id=1471]]|◯|◯|
+|~|[[玉鋼>http://eco.acronia.net/itemdb/#id=1490]]|◯|◯|
+|~|[[チタニウムの針金>http://eco.acronia.net/itemdb/#id=1525]]|◯||
+|~|[[チタニウムの棒>http://eco.acronia.net/itemdb/#id=1526]]|◯||
+|~|[[鉄くず>http://eco.acronia.net/itemdb/#id=1595]]|◯|◯|
+|~|[[鉄製の小さな刀身>http://eco.acronia.net/itemdb/#id=1600]]|◯||
+|~|[[鉄製の刀身>http://eco.acronia.net/itemdb/#id=1601]]|◯||
+|~|[[鉄の板>http://eco.acronia.net/itemdb/#id=1602]]|◯|◯|
+|~|[[鉄の斧の刃>http://eco.acronia.net/itemdb/#id=1604]]||◯|
+|~|[[鉄の柄>http://eco.acronia.net/itemdb/#id=1606]]|◯||
+|~|[[鉄の鎚>http://eco.acronia.net/itemdb/#id=1607]]||◯|
+|~|[[鉄のつば>http://eco.acronia.net/itemdb/#id=1608]]||◯|
+|~|[[鉄の延べ棒>http://eco.acronia.net/itemdb/#id=1611]]||◯|
+|~|[[鉄の棒>http://eco.acronia.net/itemdb/#id=1613]]||◯|
+|~|[[鉄の槍先>http://eco.acronia.net/itemdb/#id=1614]]||◯|
+|~|[[鉄の枠>http://eco.acronia.net/itemdb/#id=1615]]|◯||
+|~|[[砥石>http://eco.acronia.net/itemdb/#id=1658]]|◯|◯|
+|~|[[とがった石>http://eco.acronia.net/itemdb/#id=1678]]|◯|◯|
+|~|[[鋼の斧の刃>http://eco.acronia.net/itemdb/#id=1924]]||◯|
+|~|[[鋼の刀身>http://eco.acronia.net/itemdb/#id=1926]]|◯||
+|~|[[鋼の槍先>http://eco.acronia.net/itemdb/#id=1928]]||◯|
+|~|[[プラチナの弦>http://eco.acronia.net/itemdb/#id=2180]]||◯|
+|~|[[プラチナのつば>http://eco.acronia.net/itemdb/#id=2181]]||◯|
+|~|[[プラチナの棒>http://eco.acronia.net/itemdb/#id=2183]]|◯||
+|~|[[プラチナ製の刀身>http://eco.acronia.net/itemdb/#id=2179]]|◯||
+|~|[[ブリキの板>http://eco.acronia.net/itemdb/#id=2205]]|◯|◯|
+|~|[[マタタビ>http://eco.acronia.net/itemdb/#id=2413]]|◯|◯|
+|~|[[ライギョーの汗>http://eco.acronia.net/itemdb/#id=2675]]|◯||
+|>|>|>||
+||[[イブルフィッシュ>MobUnderwater#Fish]]|×|×|

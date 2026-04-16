@@ -1,0 +1,45 @@
+# ドロップ率検証/クリスタルアーチン系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鉱物知識>ドロップ率検証#g76f84d7]]
+
+***クリスタルアーチン [#v253f54f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|金属の混じった石（５）|鉄のとげ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|42個（42.00％）|48個（48.00％）|10個（10.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***グレイシャー [#i15fd561]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|鉄のとげ|金属の混じった石（５）|金属の混じった石（２）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（320体）|178個（55.63％）|116個（36.25％）|24個（7.50％）|2個（0.63％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***シュルズレイ [#yf607822]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|固い石ころ|破れた魔法書|ボルト|オリハルコン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（80体）|37個（46.25％）|35個（43.75％）|4個（5.00％）|4個（5.00％）|0個（0.00％）|
+|知識あり（400体）|181個（45.25％）|180個（45.00％）|7個（1.75％）|30個（7.50％）|2個（0.50％）|
+
+***ファーニス [#j605031b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|強力磁石|鉛のナゲット|ドクロ|破れた魔法書|オリハルコン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（480体）|331個（68.96％）|131個（27.29％）|11個（2.29％）|4個（0.83％）|3個（0.63％）|0個（0.00％）|
+|知識あり（420体）|203個（48.33％）|176個（41.90％）|29個（6.90％）|1個（0.24％）|9個（2.14％）|2個（0.48％）|
+
+***ディトライテス [#f77ee7dd]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ハーブのど飴|ケセランパサラン|毒薬|緑の結晶|破れた魔法書|ペリドットのとげ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|44個（44.00％）|29個（29.00％）|17個（17.00％）|7個（7.00％）|2個（2.00％）|0個（0.00％）|1個（1.00％）|
+|知識あり（500体）|170個（34.00％）|182個（36.40％）|91個（18.20％）|36個（7.20％）|16個（3.20％）|3個（0.60％）|2個（0.40％）|
+
+***マーレ [#l7e4d4c6]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|流氷詰めの缶|水の召喚石|青い結晶|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|55個（55.00％）|32個（32.00％）|13個（13.00％）|0個（0.00％）|
+|知識あり（100体）|39個（39.00％）|38個（38.00％）|20個（20.00％）|3個（3.00％）|

@@ -1,0 +1,42 @@
+# OldPages
+
+*廃止された要素 [#d234ec06]
+ゲーム内の仕様変更などにより不要となったwikiページの保管庫です。
+
+-[[アプリコンテンツ>ECOi]]:サービス終了
+--[[超絶合体エレキテル>ECOi/Elekitel_Union]]
+--[[タイニーアドベンチャー>ECOi/Tiny Adventure]]
+-[[ECOプレイチケット>PlayTicket]]:仕様変更(基本無料化)
+-[[パチンコ・パチスロ>pachinko]]:サービス終了
+-[[ペットシステム・背負い魔システム>Pet]]:仕様変更→[[パートナーシステム>Partner]]
+--[[ペットメニュー>Pet/PetMenu]]
+--[[ユニオンペットシステム>Pet/UnionPet]]
+--[[ペット一覧表>PetList/List]]
+--%%ペット・背負い魔の台詞%%:継続利用中の生きているページです
+//--[[ペット・背負い魔の台詞>PetSpeech]]
+--[[ペット一覧表（通常ペット）>PetList/Normal]]
+---[[トップメニュー>PetList/NormalHeader]]
+---[[犬系ペット～タイニー系ペット>PetList/NormalDogTiny]]
+---[[その他>PetList/NormalOtherwise]]
+--[[ペット一覧表（ライドパートナー）>PetList/Ride]]
+---[[ケット・シー>PetList/Ride/CaitSith]]
+--%%ペット一覧表（背中装備ペット）%%:継続利用中の生きているページです
+//--[[ペット一覧表（背中装備ペット）>PetList/Shoulder]]
+--[[ペット一覧表（背負い魔・ネコマタ）>PetList/nekomata]]
+---%%ネコマタ相関図%%:継続利用中の生きているページです
+//--[[ネコマタ相関図>PetList/Nekomata/Diagram]]
+--[[ペット一覧表（背負い魔・オートマタ）>PetList/automata]]
+--[[ペット一覧表（武神）>busin]]
+--[[PetList/HeartmateSyugoma]]
+---[[ペット一覧表（守護魔）>PetList/Syugoma]]
+---[[ペット一覧表（ハートメイト）>PetList/Heartmate]]
+--[[ペット一覧表（アルマ・モンスター）>PetList/Almamonster]]
+--[[ペット一覧表（ロア）>PetList/Lore]]
+--[[ペット一覧表（御魂）>PetList/Mitama]]
+-[[アイテムBOX>olditembox]]:仕様変更→[[アイテムBOX>itembox]]
+-[[外見一覧>外見一覧]]:wiki内整理に伴いフェードアウト
+-[[髪型の変更>髪型の変更]]:wiki内整理に伴いフェードアウト
+-[[男性ヘアサロン>男性ヘアサロン]]:wiki内整理に伴いフェードアウト
+-[[女性ヘアサロン>女性ヘアサロン]]:wiki内整理に伴いフェードアウト
+-[[最新パッチ情報>パッチ情報]]:wiki内整理に伴いフェードアウト
+-[[モンスター（都市攻防戦）>MobCityBattle]]:仕様変更→[[モンスター（都市攻防戦）>MobCityBattle2]]

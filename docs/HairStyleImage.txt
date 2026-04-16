@@ -1,0 +1,34 @@
+# HairStyleImage
+
+#author("2017-04-07T17:14:25+00:00","","")
+[[←外見ページへ戻る>face]]
+*髪型画像 [#t8c27f27]
+**キャラクター作成時に選択できる髪型(初期髪型) [#fc3d5c19]
+|~男&br;性|~ナチュラル|~ワイルド|~ボーイズ|~コンサバティブ|~ロング|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_05.jpg,nolink,100x100);|
+|~|~オールバック|~ワンレングス|~スキンヘッド|~クールカット|-|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_09.jpg,nolink,100x100);|-|
+~
+-DEMの女性にはショート２種が存在しません。
+
+|~女&br;性|~セミロング|~レイヤー|~アンティーク|~ロング|~外巻きヘア|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_05.jpg,nolink,100x100);|
+|~|~内巻きヘア|~ナチュラル|~ベリーショート|~ショート|-|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_09.jpg,nolink,100x100);|-|
+~
+**ウェストー開拓地で変更できる髪型 [#p902a8df]
+|~男&br;性|~リファインナチュラル|~リファインワイルド|~リファインボーイズ|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReNa_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReWild_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReBoy_s.png,nolink,150x150);|
+|~|~リファインコンサバティブ|~リファインロング|~リファインオールバック|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReCon_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReLong_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReAll_s.png,nolink,150x150);|
+|~|~リファインワンレングス|~リファインクールカット|-|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReOne_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReCool_s.png,nolink,150x150);|-|
+~
+-DEMの女性にはショート２種が存在しません。
+
+|~女&br;性|~リファインセミロング|~リファインレイヤー|~リファインアンティーク|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine01s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine02s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine03s.jpg,nolink,150x150);|
+|~|~リファインロング|~リファイン外巻きヘア|~リファイン内巻きヘア|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine04s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine05s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine06s.jpg,nolink,150x150);|
+|~|~リファインナチュラル|~リファインベリーショート|~リファインショート|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine07s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine08s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine09s.jpg,nolink,150x150);|

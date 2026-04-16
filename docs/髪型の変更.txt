@@ -1,0 +1,126 @@
+# 髪型の変更
+
+#author("2017-04-07T18:01:23+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*髪型の変更 [#ice1e00b]
+#contents
+
+髪型の変更にはいくつかの手段があります。
+-「[[スキャルプエッセンス:http://eco.acronia.net/itemdb/#id=1318]]」を使用する。ロング系以外の髪型から「ロング」になる。
+ロング系で使用した場合、変化は無いがエッセンスも消費しない。
+-ヘアサロンでカットあるいはセットしてもらう。
+-ヘアサロンで「○○紹介状」を使ってセットしてもらう。
+--紹介状リスト（[[ 男 >男性ヘアサロン#HairsalonM]]/[[ 女 >女性ヘアサロン#HairsalonF]]）
+-「ウェストー開拓地」にNPC「フリート」を招く。
+-「[[フシギな鏡>#mirror]]」を使用して変更する。
+-「[[特殊な髪型に変わる頭装備>#xe405413]]」を装備する
+
+**フシギな鏡 [#mirror]
+[[公式サイト>http://econline.gungho.jp/gamedata/item/extraitem/mirror.html]]
+-入手方法
+--アップタウン、ニーベルングのヘアサロン近くの「フシギな鏡のタイニー」に「[[フシギな鏡の契約証（３０日）>ECOShop#PetFunnyItem]]」（ECO Shop）をもって話しかけると受け取れる。
+-使用方法・その他
+--''現在の自分の髪型''を保存することが出来る
+--フシギな鏡を使用すると髪型保存ウィンドウが現れ、''入れ替え''ができる
+--契約証1枚につき1枠、最大で''4枠''保持できる。
+--ヘアカラーで変更した''髪色は保存できない''
+--フシギな鏡の契約証の期間中であれば、何度でも変更することができる
+--フシギな鏡の契約証の期間が切れても登録は保持される
+--髪型は&color(red){''キャラクター単位''};で保存される
+''鏡をトレードしても他のキャラクタに髪型を移せません''
+
+**ヘアカタログチャレンジ！ [#ccf05935]
+[[公式>http://econline.gungho.jp/special/termeasterbunny2014/dalyweeklyquest.html]]
+
+-アップタウンに居る「ＥＣＯ券収集家」に「[[ＥＣＯ券>http://eco.acronia.net/itemdb/#id=287]]」30枚を渡す
+
+ヘアサロン特別紹介状
+魔女の紹介状
+プリティ紹介状
+ワイルドな紹介状
+ちょいかわ紹介状
+武家の紹介状
+ゴージャス紹介状
+バレンタイン紹介状
+おてんば紹介状
+スイートな紹介状
+おめかし紹介状
+おとぎの紹介状
+姫さまの紹介状
+マネージャーの紹介状
+ラブモテ紹介状
+歌姫の紹介状
+プリンセスの紹介状
+真夏の紹介状
+クラシックな紹介状
+委員長の紹介状
+ふたご座の紹介状
+ハロウィンの紹介状
+ラテンの紹介状
+真冬の紹介状
+
+**フシギなヘアカタログ１ [#if7e6c7e]
+-おてんば・おめかし・ゴージャス・ラブモテ・姫さまのうちどれか１種に変更可能
+--「色は変更できません」と注意書きがあるが、「変更は髪型のみで髪色は変わらない」という意味であって髪色固定ではない。
+通常と同じように、髪型変更後にヘアカラーで好きな色に変更できる。
+--2007年夏コミ・2007年冬コミにて配布。特定パッケージの購入特典
+%%[[http://www.econline.jp/news/newslog/information/626.html]]%%
+--[[''タイニーの特別ひきかえ補助券''>ECOShop#TinyTicket]]１０枚交換
+
+**フシギなヘアカタログ２ [#u4566beb]
+-プリティ・ラテン・ワイルド・プリンセス・ゴージャスのうちどれか１種に変更可能
+--「ECOアニバ！BOX」イーフロストア限定スペシャルパッケージの購入特典
+%%[[http://www.econline.jp/news/newslog/information/754.html]]%%
+--[[''タイニーの特別ひきかえ補助券''>ECOShop#TinyTicket]]１０枚交換
+
+**フシギなヘアカタログ３ [#oca1d56f]
+-魔女・ふたご座・真夏・ハロウィン・マネージャーのうちどれか１種に変更可能
+
+**ウェストー開拓地・フリート [#fleet]
+-ウェストー開拓地にフリートを招くことによって、以降5,000G（初回のみ無料）で髪型を以下に変えることが出来る
+-招く手順については「[[ウェストー開拓地>Quest/WestReclaimedVillage#y04f842c]]」を参照（その際「[[はさみ>http://eco.acronia.net/itemdb/#id=1940]]」が1個必要）
+|~[[男&br;性>Hairsalon/Fleet#man]]|~リファインナチュラル|~リファインワイルド|~リファインボーイズ|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReNa_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReWild_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReBoy_s.png,nolink,150x150);|
+|~|~リファインコンサバティブ|~リファインロング|~リファインオールバック|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReCon_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReLong_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReAll_s.png,nolink,150x150);|
+|~|~リファインワンレングス|~リファインクールカット|-|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReOne_s.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/ReCool_s.png,nolink,150x150);|-|
+~
+|~[[女&br;性>Hairsalon/Fleet#woman]]|~リファインセミロング|~リファインレイヤー|~リファインアンティーク|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine01s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine02s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine03s.jpg,nolink,150x150);|
+|~|~リファインロング|~リファイン外巻きヘア|~リファイン内巻きヘア|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine04s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine05s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine06s.jpg,nolink,150x150);|
+|~|~リファインナチュラル|~リファインベリーショート|~リファインショート|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine07s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine08s.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/w_refine09s.jpg,nolink,150x150);|
+
+**髪型が変わる頭装備（仮） [#xe405413]
+|~[[柊のシルクハット>http://eco.acronia.net/equipdb/#id=1361]]|~[[祭りのはちまき>http://eco.acronia.net/equipdb/#id=1483]]|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/hiiraginosilkhat.jpg,nolink,150x150);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/maturinohatimaki.jpg,nolink,150x150);|
+|~[[竜宮レナの帽子>http://eco.acronia.net/equipdb/#id=1727]]|~[[レイの包帯>http://eco.acronia.net/equipdb/#id=998]]|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/renanoboushi.jpg,nolink,150x150);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/reinohoutai.jpg,nolink,150x150);|
+
+|~[[まげのかつら>http://eco.acronia.net/equipdb/#id=4764]]|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/mage.png,nolink,300x150);|
+
+|~[[うさだのウサミミ（サイコロ付）♀>http://eco.acronia.net/equipdb/#id=861]]|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/usadanousamimi.jpg,nolink,400x150);|
+
+
+**ヘアカラーによってリボン等の色が変わる頭装備 [#k606bcdf]
+&br;
+|~怪盗のウサギ耳帽子(ヘアカラーによって羽の色が変わります)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/Haircolor_usa_hat.jpg,nolink,624x721);|
+
+|~うさぎのたれ耳(ヘアカラーによってリボンの色が変わります)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/Haircolor_tare_usa.jpg,nolink,624x721);|
+
+|~くるくるホーン(ヘアカラーによって角の色が変わります)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E9%AB%AA%E5%9E%8B%E3%81%AE%E5%A4%89%E6%9B%B4/Haircolor_kisaragi_horn.jpg,nolink,624x721);|
+
+*コメント欄 [#u0abcf8e]
+#pcomment

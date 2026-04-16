@@ -1,0 +1,41 @@
+# Skill/Warlock/Table
+
+//-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+--STR型：近接特化型　MAG型：魔法特化型　両：ハイブリッド型。
+--評価は、あくまでも目安であり絶対的なものではない。
+☆:必須クラス
+◎:取得推奨
+○:あると便利
+△:限定状況でのみ役に立つ
+×:全く役に立たない
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #ウォーロック>Dungeon/InfiniteCorridorAbyssSkill#sb85e9ad]]''
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+|~Job&br;Lv|~名称|~Max&br;Lv|~消費|~射&br;程|~目標|~効果|~STR型|~MAG型|~両|h
+|CENTER:|CENTER:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|c
+|1|[[ブラックウィドウ(BW)>Skill/Warlock/Explanation#t110sen1]]|5|MP 10/12/14/16/18|6|敵単体|指定対象に闇属性魔法ダメージ|△|○|○|
+|3|[[最大ＭＰ上昇>Skill/Warlock/Explanation#t110sen4]]|5|-|-|パッシブ|最大ＭＰが増加する。|○|◎|◎|
+|5|[[ＭＰ回復率上昇>Skill/Warlock/Explanation#t110sen3]]|5|-|-|パッシブ|ＭＰ回復率が増加|○|◎|◎|
+|7|[[ショートソードマスタリー>Skill/Warlock/Explanation#t110sen2]]|5|-|-|パッシブ|短剣装備時に最低攻撃力・命中率を上昇させる。|☆|×|○|
+|9|[[メイスマスタリー>Skill/Warlock/Explanation#t110sen5]]|5|-|-|パッシブ|鈍器装備時に最低攻撃力・命中率を上昇させる。|☆|×|☆|
+|10|[[ブロウ>Skill/Warlock/Explanation#t110sen6]]|5|SP 4/5/6/7/8|1|敵単体|相手を叩き属性で攻撃する。|☆|×|☆|
+|12|[[死霊知識>Skill/Warlock/Explanation#i7380c4c]]|1|-|-|パッシブ|アンデッドからアイテムを上手く取得できる。|○|○|○|
+|14|[[マジックスタン>Skill/Warlock/Explanation#t110sen10]]|5|MP 18/25/32/39/46|5|敵単体|対象者を一定確率でスタン状態にする。|○|○|○|
+|16|[[マジックコンフュージョン>Skill/Warlock/Explanation#t110sen11]]|5|MP 16/22/28/34/40|5|敵単体|対象者を一定確率で混乱状態にする。|○|○|○|
+|16|[[パリィ>Skill/Warlock/Explanation#t110sen12]]|5|SP 9/13/17/21/25|-|自分専用|一定時間内に攻撃を受けた場合、&br;攻撃を受け流すことが出来る。|○|○|○|
+|18|[[カウンター>Skill/Warlock/Explanation#t110sen8]]|5|SP 4/6/8/10/12|-|自分専用|一定時間内に攻撃を受けた場合、&br;一度だけ即座に反撃を行う。|◎|△|○|
+|20|[[フェイント>Skill/Warlock/Explanation#t110sen13]]|5|SP 3|1|単体|対象がパリィ・カウンターを使用したときに相手の体勢を崩す。&br;失敗したときは自分が一定時間硬直する。|○|○|△|
+|21|[[メイス命中率上昇>Skill/Warlock/Explanation#ee62b9ca]]|5|-|-|パッシブ|鈍器装備時に命中率を上昇させる。|◯|×|◯|
+|24|[[マジックスロウ>Skill/Warlock/Explanation#t110sen14]]|5|MP 15/20/25/30/35|5|敵単体|対象者を一定確率で遅滞状態にする。|○|○|○|
+|26|[[マジックフリーズ>Skill/Warlock/Explanation#t110sen17]]|5|MP 16/22/28/34/40|5|敵単体|対象者を一定確率で凍結状態にする。|○|○|○|
+|27|[[マジックサイレンス>Skill/Warlock/Explanation#t110sen15]]|5|MP 15/20/25/30/35|5|敵単体|対象者を一定確率で沈黙状態にする。|○|○|○|
+|30|[[カオスウィドウ(CW)>Skill/Warlock/Explanation#t110sen16]]|5|MP 30/35/40/45/50|6|敵単体|敵に闇の力を持つ魔法攻撃を行う。|△|◎|○|
+|32|[[ダークシールド>Skill/Warlock/Explanation#t110sen98]]|5|MP 10/15/20/25/30|6|味方単体|対象の体を闇属性に変更する。|○|○|○|
+|35|[[ダークウェポン>Skill/Warlock/Explanation#t110sen99]]|5|MP 15|6|味方単体|対象の武器に闇の力を与える。|○|○|○|
+|37|[[マジックメデューサ>Skill/Warlock/Explanation#g8d717b4]]|5|MP 16/22/28/34/40|5|敵単体|対象者を一定確率で石化状態にする。|○|○|○|
+|38|[[シールドマスタリー>Skill/Warlock/Explanation#t110sen77]]|5|-|-|パッシブ|盾装備時に防御成功率を上昇させる。|○|○|○|
+|40|[[シャドウブラスト(SB)>Skill/Warlock/Explanation#t110sen23]]|5|MP&br;13/21/29/37/45|6|敵範囲|対象の範囲に闇の力を持つ魔法攻撃を行う。&br;(敵の数に比例して威力分散)|×|☆|☆|
+|45|[[マジックポイズン>Skill/Warlock/Explanation#la9cfc53]]|5|MP&br;12/16/20/24/28|5|敵単体|対象者を一定確率で毒状態にする。|○|○|○|
+|50|[[ダークグローブ>Skill/Warlock/Explanation#content_1_26]]|5|MP&br;18/21/24/27/30|6|敵範囲&br;（特殊）|全てを貫通しながら飛翔する闇の力の魔法球を飛ばす。|×|△|△|

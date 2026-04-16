@@ -1,0 +1,25 @@
+# Skill/Breeder/Table
+
+&color(red){※一次職・二次職と違い、習得Lvに達すると自動的に獲得出来ます。};
+※スキルポイント制ではないので、ブリーダーのスキルは&color(red){全て最大Lv1です。};
+-スキル名の色は''&color(red){アクティブスキル};''と''&color(blue){パッシブスキル};''の違いです。
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~名称|~消費|~目標|~射程|~効果|~評価|~コメント|h
+|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|~1|[[&color(red){ゴー!};>Skill/Breeder#r946143e]]|-|単体||パートナーに単体を攻撃するように命令する|○|パートナーシステムによって簡単に自分から攻撃を仕掛けられるようになった|
+|~3|[[&color(red){戻れ！};>Skill/Breeder#hcaeddca]]|-|自分|10|パートナーに攻撃をやめるように命令する|◎|途中で追従に切り替えてもこれを使わないと戻せない状況もある|
+|~5|[[&color(blue){グローアップ};>Skill/Breeder#d0efa15e]]|-|-|-|パートナーの基本経験値取得量を上昇させる|☆||
+|~8|[[&color(red){信頼の証};>Skill/Breeder#ic9c3bcc]]|-||-|パートナーにポーズを取らせることができる|-||
+|~10|[[&color(red){癒し火};>Skill/Breeder#wabe4971]]|SP25|地面指定||マップに焚き火を設置する|○|触媒不要|
+|~13|[[&color(blue){手綱};>Skill/Breeder#wf54bb4d]]|-|-|-|専用のライドパートナーに乗ることの出来る免許|-|ダークドラゴのみ|
+|~14|[[&color(red){激励};>Skill/Breeder#j7b90c1f]]|SP12|単体|5|対象の物理攻撃力を一時的に上昇させる|△|プレイヤーも対象可|
+|~15|[[&color(blue){ハイグローアップ};>Skill/Breeder#o8cec028]]|-|-|-|パートナーの基本経験値取得量を上昇させる|☆||
+|~20|[[&color(red){メタモルフォーゼ};>Skill/Breeder#n2379d65]]|SP25|自分|-|見た目を装備しているパートナーに変更する&br;（騎乗時使用不可）|○|パートナーによっては攻撃モーションが短くなる|
+|~23|[[&color(blue){獅子の力};>Skill/Breeder#icf0b887]]|-|-|-|パートナーの能力を上昇させる|◎|最大HPが上昇する|
+|~27|[[&color(red){アクロバットイベイジョン};>Skill/Breeder#h3f0fe25]]|SP25|自分中心の&br;円||自分をターゲットしている対象をパートナーに向かわせる&br;一定時間パートナーは回避に専念する|☆|%%防御育成用%%|
+|~30|[[&color(red){Ｐ・ディレイキャンセル};>Skill/Breeder#s543032e]]|SP36||||☆|%%攻撃育成用%%|
+|||||||||
+|~-|[[&color(red){プロミネンス};>Skill/Breeder#o0b10bea]]|SP25|自分中心の&br;扇型||ダークドラゴに放射状に火を吐かせる|||

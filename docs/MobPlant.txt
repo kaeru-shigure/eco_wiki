@@ -1,0 +1,87 @@
+# MobPlant
+
+#author("2017-04-07T17:36:44+00:00","","")
+*モンスター・エミル世界（植物） [#x7c194d6]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***エスカルゴ系 [#Escargot]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Escargot.jpg,nolink,100x100);|エスカルゴ|75|4,750|3,450/3,600|無|NonActive|バオバブの森|ソーダ水&br;ねばねば&br;ロウ&br;キャベツ&br;&color(red){透明シール};|アイスグローブ&br;マジックスロウ&br;マジックポイズン&br;ディフェンス・バースト|攻撃を受けると近くにいる人に&br;タゲが行くことがあるので注意|
+
+***シャボタン系 [#Shabotan]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Shabotan.jpg,nolink,100x100);|シャボタン|28|360|137/156|BGCOLOR(#98fb98):水/''土''|NonActive|南ウテナ開拓地|花&br;シャボタンの花&br;サボテンの種|マジックスリープ&br;ハイパーチャージ&br;アークパワーライズ&br;バイタリティダウン|M.DEF低め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/popokina.jpg,nolink,100x100);|ポポキナ|80|8,900|3,718/4,147|BGCOLOR(#bbffff):水|NonActive|神託の風穴|ベビーリーフ&br;野菜の種（しましま）&br;ルーン草|ヒーリング&br;ブロウ||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/wild_shabotan.jpg,nolink,100x100);|ワイルドシャボタン|76||15,216/12,243|BGCOLOR(#bbffff):水|NonActive|カーマイン砂漠（昼）&br;カーマイン砂漠（夕）|シャボタンの花&br;サボテンの種&br;&color(orange){ちっちゃいサボテン};|エナジーショック&br;アースストーム&br;プラントポイズン&br;ライフスティール||
+
+***ドリアード系 [#Dori]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Akasnonno.jpg,nolink,100x100);|アーカスノンノ|80|9,400|3,861/4,004|BGCOLOR(#bbffff):水|詠唱反応|神託の風穴|花&br;蔦&br;果物の種（とげとげ）|キャッチ&br;アースアタック&br;ライフスティール|詠唱反応率は低め|
+
+***プルル系 [#Pururu]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Pururu.jpg,nolink,100x100);|プルル|1|23|3/1|無|NonActive|アクロニア平原&br;アクロニアの林&br;ウテナ湖&br;スノップの山道|ゼリコ&br;ゼリコポーション&br;ソーダ水&br;青いゼリコ&br;&color(orange){ロウ};&br;&color(red){ワックス};&br;&color(slateblue){プルルスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MilkPitcher.jpg,nolink,100x100);|ミルクピッチャー|6|41|7/9|BGCOLOR(#bbffff):水|NonActive|アクロニアの林&br;ファーイースト街道&br;イストー岬|ミルク&br;バター&br;白いゼリコ&br;破れた魔法書&br;魔力の結晶&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){ミルクピッチャースタンプ};|アースアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/UmberJelly.jpg,nolink,100x100);|アンバージェリー|7|60|10/8|BGCOLOR(#98fb98):土|NonActive|南アクロニア平原&br;西アクロニア平原&br;ウテナ川河口&br;ステップ砂漠|ゼリコ&br;氷砂糖&br;&color(red){砂糖};&br;橙色のゼリコ&br;ワックス&br;いのちの結晶&br;&color(slateblue){アンバージェリースタンプ};|ウィンドアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cool.jpg,nolink,100x100);|クール|10|75|16/17|BGCOLOR(#bbffff):水|NonActive|スノップ雪原&br;スノップの山道&br;スノップ追分&br;ノーザリン岬|にごった水&br;ミネラルウォーター&br;破れた魔法書&br;&color(red){ロウ};&br;&color(red){水色のゼリコ};&br;&color(slateblue){クールスタンプ};|ウォータアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/YellowPururu.jpg,nolink,100x100);|イエロープルル|11|78|11/19|BGCOLOR(#fff68f):風|NonActive|アンデッド島・大陸&br;キラービーの峠道&br;ビーの巣穴&br;モースグ崖&br;軍艦島|ゼリコ&br;&color(orange){バター};&br;&color(#cccccc){橙色のゼリコ};&br;黄色いゼリコ&br;ロウ&br;ブランクイリスカード&br;&color(slateblue){イエロープルルスタンプ};|ファイアアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/CoalTar.jpg,nolink,100x100);|コールタール|11|80|19/11|BGCOLOR(#ffdddd):火|NonActive|軍艦島&br;|オイル&br;黒いゼリコ&br;マシンオイル&br;&color(red){スムージーワックス};&br;&color(slateblue){コールタールスタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/GreenPururu.jpg,nolink,100x100);|グリーンプルル|12|80|18/17|BGCOLOR(#98fb98):土|NonActive|東アクロニア海岸&br;イストー岬&br;ファーイースト街道|青汁&br;毒消しの実&br;緑のゼリコ&br;魔力の結晶&br;&color(orange){四つ葉のクローバー};&br;&color(red){シルバーメダル};&br;&color(slateblue){グリーンプルルスタンプ};|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MagePururu.jpg,nolink,100x100);|メイジプルル|15|110|30/27|BGCOLOR(#ffffff):光|Link|ノース台地&br;ノース中央山脈&br;&br;【氷結の坑道】&br;B1F,B2F|ゼリコ&br;マナ・ウォーター&br;紫のゼリコ&br;破れた魔法書&br;&color(red){ワックス};&br;&color(red){スムージーワックス};&br;&color(slateblue){メイジプルルスタンプ};|ヒーリング&br;ホーリーライト||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/PutiMetallica.jpg,nolink,100x100);|プチメタリカ|15|7|77/7|無|Escape|アクロニアの林&br;アクロニア平原（北西東南）&br;ウテナ湖&br;キラービーの峠道&br;%%ステップ砂漠%%|鉄のナゲット&br;銀のナゲット&br;金のナゲット&br;&color(red){プラチナ塊};|-|超高DEF&br;超高M.DEF&br;%%魔法攻撃無効（DS、RS除）%%&br;近付くと逃亡&br;壁に追い詰めると反撃&br;高確率被クリティカル|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/OchreJelly.jpg,nolink,100x100);|オーカージェリー|21|210|86/112|BGCOLOR(#ffdddd):火|Link|【大陸の洞窟】&br;B1F,B2F|ゼリコ&br;氷砂糖&br;破れた魔法書&br;ロウ&br;ワックス&br;スムージーワックス&br;赤いゼリコ&br;&color(slateblue){オーカージェリースタンプ};|スタンアタック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MaigoNoMetallica.jpg,nolink,100x100);|迷子のメタリカ|24|14|333/33|無|Escape|アンデッド島&br;イストー岬&br;ファーイースト街道&br;永遠への北限&br;軍艦島&br;スノップの山道&br;スノップ追分&br;モースグ崖&br;ウテナ川河口&br;ステップ砂漠&br;果物の森&br;サウスリン岬&br;ノーザリン岬&br;スノップ雪原&br;ノース台地&br;ノース中央山脈&br;東アクロニア海岸&br;バオバブの森&br;&br;【インスタンスダンジョン】&br;地下迷宮|鉄のナゲット&br;銅のナゲット&br;鉛のナゲット&br;銀のナゲット&br;金のナゲット&br;プラチナ塊&br;&color(red){オリハルコン};&br;&color(slateblue){迷子のメタリカスタンプ};|-|超高DEF&br;超高M.DEF&br;%%魔法攻撃無効（DS、RS除）%%&br;近付くと逃亡&br;壁に追い詰めると反撃&br;高確率被クリティカル|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Oily.jpg,nolink,100x100);|オイリー|28|380|226/209|BGCOLOR(#ffdddd):火|Link|【廃炭鉱】&br;B1F|オイル&br;マシンオイル&br;黒いゼリコ|エクスクラメーション||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Metallica.jpg,nolink,100x100);|メタリカ|40|25|777/77|無|Escape|永遠への北限&br;&br;【廃炭鉱】&br;B2F,B3F|鉄のナゲット&br;銀のナゲット&br;金のナゲット&br;ブリキの板&br;&color(slateblue){メタリカスタンプ};|-|超高DEF&br;超高M.DEF&br;%%魔法攻撃無効（DS、RS除）%%&br;近付くと逃亡&br;壁に追い詰めると反撃&br;高確率被クリティカル|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/FrozenPururu.jpg,nolink,100x100);|フローズンプルル|42|900|907/1025|BGCOLOR(#bbffff):水|Active|【氷結の坑道】&br;B3F|ミネラルウォーター&br;にごった水&br;破れた魔法書&br;水色のゼリコ|アースライズ||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Gloodnesupururu.JPG,nolink,100x100);|グラットネスプルル|||0/0||Active|カセドラル鉱山B1・B2|アルモフの欠片|リジェネート||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/JumboPururu.jpg,nolink,100x100);|ジャンボプルル|28|10,000|1,000/1,500|無||【インスタンスダンジョン】&br;迷宮探索|ソーダ水(PT)|ワークライ&br;リフレクション|BOSS|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MeikyuuNoPutiMetallica.jpg,nolink,100x100);|迷宮のプチメタリカ|40|10|0/0|無|Active|【インスタンスダンジョン】&br;地下迷宮|-|チャージ|迷宮のプチメタリカ召喚でのみ出現&br;魔法攻撃無効|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/MeikyuuNoMetallica.jpg,nolink,100x100);|迷宮のメタリカ|40|100||無|Escape|【インスタンスダンジョン】&br;地下迷宮|-|ハイパーチャージ&br;迷宮のプチメタリカ召喚|BOSS&br;一律1ダメージしか与えられない？&br;魔法攻撃無効|
+
+***マタンゴ系 [#Matango]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Fungus.png,nolink,100x100);|ファンガス|21|400|78/102|BGCOLOR(#98fb98):土|NonActive|アクロニア丘陵|胞子袋&br;からふるきのこ&br;いけないきのこ|マジックスリープ||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Shiitakke.jpg,nolink,100x100);|シイタッケ|32|580|178/202|BGCOLOR(#98fb98):土|Active|東アクロニア段丘|干し椎茸&br;まつたけさま|ブロウ&br;スリープストライク||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Surkukarusi.jpg,nolink,100x100);|スルクカルシ|90|14,690|7,218/7,930|BGCOLOR(#bbffff):水|Active|神託の風穴|いけないきのこ&br;あぶないきのこ&br;毒の胞子袋|パープルガス||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sabakutake.jpg,nolink,100x100);|サバクタケ|105||93,246/105,280|BGCOLOR(#98fb98):土|Active|【カーマイン遺跡】&br;1F中央&br;1F東居住区&br;1F西居住区&br;2F|胞子袋&br;&color(orange){からふるきのこ&br;砂キノコ};&br;まつたけさま|サイレントポゼション&br;スリープストライク&br;ロックドライブ||
+
+***マンドラ系 [#Mandora]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/MandoraWasabi.jpg,nolink,100x100);|マンドラワサビ|69|5,800|2,000/2,000|BGCOLOR(#98fb98):土|Active|イストー岬&br;&br;【インスタンスダンジョン】&br;遺跡荒らしを追い出せ|タムタム草&br;マリカ草&br;アボリー草&br;毒薬&br;&color(red){魔力の結晶};&br;&color(red){シルバーメダル};|プラントポイズン&br;ディビリテイト&br;ディープフォレスト&br;ヒーリング&br;ライフスティール|ネノオウMAPに出現|
+
+***モーラン系 [#af07dea5]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Moren.jpg,nolink,100x100);|モーレン|90||10,266/10,399|BGCOLOR(#bbffff):水||【ノーザン地下】&br;市民街|緑のゼリコ&br;香辛料&br;マリカ草&br;タムタム草|ランドクラッグ&br;アイスギャザー&br;プラントポイズン||
+
+***ローパー系 [#Roper]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Roper.jpg,nolink,100x100);|ローパー|21|120|80/75|BGCOLOR(#98fb98):土|NonActive|果物の森&br;ステップ砂漠&br;サウスリン岬|ゼリコ&br;破れた魔法書&br;ローパーの触手&br;マジックキャンディー&br;魔力の結晶&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){ローパースタンプ};|スタンアタック|DEF高め&br;M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tentacle.jpg,nolink,100x100);|テンタクル|33|430|286/290|BGCOLOR(#bbffff):水|Active|ステップ砂漠&br;サウスリン岬|マジックキャンディー&br;破れた魔法書&br;ローパーの触手&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){テンタクルスタンプ};|スタンアタック|水属性値75～79&br;高ATK&br;高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Numaginchaku.png,nolink,100x100);|ヌマギンチャク|34||200/203|無|NonActive|ウェストー開拓地|マジックキャンディー&br;ローパーの触手&br;魔力の結晶|足払い|DEF高め&br;M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Furufuru.jpg,nolink,100x100);|フルフル|40|660|336/312|BGCOLOR(#bbffff):水|Active|鬼ノ寝床岩&br;鉄火山|マジックキャンディー&br;ローパーの触手&br;橙色のゼリコ&br;&color(red){カッパーメダル};&br;&color(red){シルバーメダル};&br;&color(slateblue){フルフルスタンプ};|スタンアタック|高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KingRoper.jpg,nolink,100x100);|キングローパー|10|10,400|9,900/6,500|BGCOLOR(#98fb98):土|Active|ステップ砂漠|ローパーの触手&br;ペルソナ&br;ラピス･ラズリ&br;&color(slateblue){背負い魔・ブースト};&br;&color(slateblue){キングローパースタンプ};|猛毒スロウガス&br;アースアタック&br;スロウロジック&br;テンタクル召喚|フィールドBOSS&br;30～180分毎&br;取り巻き(テンタクル)&br;高DEF|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/kabif_roper.jpg,nolink,100x100);|カビーフローパー|104||92,330/93,333|BGCOLOR(#bbffff):水|Active|【カーマイン遺跡】&br;1F中央&br;1F東居住区&br;1F西居住区&br;B1F|ローパーの触手&br;&color(orange){魔力の結晶};|ロックドライブ&br;アースゲイン&br;リストリクトリバース&br;アイスギャザー|S.AVOID高め|

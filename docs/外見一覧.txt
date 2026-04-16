@@ -1,0 +1,236 @@
+# 外見一覧
+
+#author("2017-04-06T18:03:36+00:00","","")
+#include(Hairsalon/Menu,notitle)
+*外見一覧 [#w2e4bbae]
+#contents
+
+**顔型 [#uf3f08ca]
+-「[[キャラクター作成時に選択できる顔>#h7e0b7f6]]」と「[[課金アイテムで変更出来る顔>#FaceSwitch01]]」がある。
+(初期選択できる3種族用と特殊は100円、課金専用は200円)
+-[[見た目変更ウィンドウ>#mirror]]で顔を入れ替える事ができる。
+
+
+//公式サイト：[[お顔スイッチャー、マホウの鏡の契約証とは:http://www.econline.jp/md/motion/face_switchers.html]]
+公式サイト：[[「顔」・「髪型」・「髪色」保存の鏡、お顔スイッチャーについて:http://econline.gungho.jp/gamedata/item/extraitem/mirror.html]]
+公式サイト：[[気分によっていろいろお顔を変えられる新エクストラアイテムが登場！待望のイリスカード第16弾も登場！:http://www.econline.jp/news/information/updateinfo3_111027.html]]
+公式サイト：[[新しい顔で楽しんじゃおう！お顔スイッチャーにネコマタ顔が登場！>http://www.econline.jp/news/information/20120322_swich.html]]
+公式ブログ：[[お顔をスイッチ!!:http://eco-blog.livedoor.biz/archives/51887815.html]]
+
+***キャラクター作成時に選択出来る顔型 [#h7e0b7f6]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+||~エミル♂|~エミル♀|~タイタニア♂|~タイタニア♀|~ドミニオン♂|~ドミニオン♀|~DEM♂|~DEM♀|h
+|顔1|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_01.jpg,nolink,100x100);|
+|顔2|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_02.jpg,nolink,100x100);|
+|顔3|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_03.jpg,nolink,100x100);|
+|顔4|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_04.jpg,nolink,100x100);|
+|顔5|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_05.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_05.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_05.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_05.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_05.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_05.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_05.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_05.jpg,nolink,100x100);|
+|顔6|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_06.jpg,nolink,100x100);|
+|顔7|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_07.jpg,nolink,100x100);|
+|顔8|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_08.jpg,nolink,100x100);|
+|顔9|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_09.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_09.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_09.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_09.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_09.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_09.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_09.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_09.jpg,nolink,100x100);|
+|顔10|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_10.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_10.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_10.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_10.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_10.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_10.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_10.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_10.jpg,nolink,100x100);|
+|顔11|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_11.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_11.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_11.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_11.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_11.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_11.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_11.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_11.jpg,nolink,100x100);|
+|顔12|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_12.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_12.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_12.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_12.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_12.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_12.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_12.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_12.jpg,nolink,100x100);|
+|顔13|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_13.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_13.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_13.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_13.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_13.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_13.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_13.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_13.jpg,nolink,100x100);|
+|顔14|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_14.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_14.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_14.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_14.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_14.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_14.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_14.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_14.jpg,nolink,100x100);|
+|顔15|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_15.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_15.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_15.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_15.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_15.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_15.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_15.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_15.jpg,nolink,100x100);|
+|顔16|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_16.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_16.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_16.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_16.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_16.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_16.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_16.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_16.jpg,nolink,100x100);|
+|顔17|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_17.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_17.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_17.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_17.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_17.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_17.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_17.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_17.jpg,nolink,100x100);|
+|顔18|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_18.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_18.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_18.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_18.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_18.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_18.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_18.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_18.jpg,nolink,100x100);|
+|顔19|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_19.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_19.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_19.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_19.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_19.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_19.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_19.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_19.jpg,nolink,100x100);|
+|顔20|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_m_20.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_emil_w_20.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_m_20.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_tit_w_20.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_m_20.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/face_domi_w_20.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_m_20.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_dem_w_20.jpg,nolink,100x100);|
+
+
+***お顔スイッチャー（エミル）（タイタニア）（ドミニオン）（ＤＥＭ） [#FaceSwitchEml]
+-キャラクター作成時に選択出来る顔1～15に変更できる。
+%%自種族のもののみ使用可能。%%　他種族のも使用可能になった。（2012/1/26）
+--色は固定されているため、選択不能。
+男性用・女性用が区別されており、性別の異なる顔は使用できない。
+
+***お顔スイッチャー（特殊） [#FaceSwitchSp]
+-キャラクター作成時に選択出来る顔16～20に変更できる。
+--色は固定されているため、選択不能。
+男性用・女性用が区別されており、性別の異なる顔は使用できない。
+
+***お顔スイッチャー１ [#FaceSwitch01]
+|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch1.jpg,nolink,740x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　顔105　|　顔106　|　顔107　|　顔108　|　顔109　|
+-「顔」と「目の色」を選択して変更できる。
+ここより下に記載するスイッチャーは全て、性別を問わず選択した顔になる。
+//&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/face_1.jpg,nolink);
+//公式からの転載画像の為削除
+//http://www.econline.jp/md/motion/images/switchers/01.jpg
+//あとで男女、アイカラーと分けます
+
+***お顔スイッチャー２ [#FaceSwitch02]
+|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch2.jpg,nolink,740x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　顔110　|　顔111　|　顔112　|　顔113　|　顔114　|
+-「顔」と「目の色」を選択して変更できる。
+
+***お顔スイッチャーEX１ [#Faceex01]
+|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitchEX1.jpg,nolink,592x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　守護魔・カナデ　|　ネコマタハート・フリル　|　タイニー・アルマ　|　ダンプティー・アルマ　|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+-グッズ特典パートナーの顔に変更することができる。
+「顔」と「目の色」を選択して変更できる。
+--瞬きのほか、待機中に目を細める機能がついている。
+
+
+***お顔スイッチャー（ネコマタ） [#FaceSwitchNekomata]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_nekomata.jpg,nolink,888x310);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　ネコマタ(桃)　|　ネコマタ(藍)　|　ネコマタ(緑)　|　ネコマタ(山吹)　|　ネコマタ(菫)　|　ネコマタ(茜)　|
+|　ネコマタ(杏　|　ネコマタ(空)　|　ネコマタ(胡桃)　|　ネコマタ(若菜)　|　ネコマタ(白)　|　ネコマタ(黒)　|
+-ネコマタハートの顔に変更することができる。
+「顔」と「目の色」を選択出来る。
+
+***お顔スイッチャー（守護魔） [#FaceSwitchSyugoma]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_syugoma_kai.jpg,nolink,888x465);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　守護魔・ムツキ　|　守護魔・キサラギ　|　守護魔・ヤヨイ　|　守護魔・ウヅキ　|　守護魔・サツキ　|　守護魔・ミナヅキ　|
+|　守護魔・フミツキ　|　守護魔・ハヅキ　|　守護魔・キクヅキ　|　守護魔・カミア　|　守護魔・シモツキ　|　守護魔・ロウゲツ　|
+|　守護魔・カンナ　|　守護魔・ナガツキ　|　|　　|　　|　　|
+-[[守護魔ハート>PetList/Heartmate#HaertmateSyugoma]]の顔に変更することができる。
+「顔」と「目の色」を選択して変更できる。
+--一部のフェイスには瞬きのほか、待機中に目を細める機能がついている。
+
+***お顔スイッチャー（アルマ・１） [#Facealma01]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_alma1_kai.jpg,nolink,888x465);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　ダークフェザー・アルマ　|　バウ・アルマ　|　シャボタン・アルマ　|　ローキー・アルマ　|　バルル・アルマ　|　シーホース・アルマ　|
+|　ペペン・アルマ　|　サラマンダー・アルマ　|　ミニー・ドゥ・アルマ　|　白い使い魔・アルマ　|　オートメディック・アルマ　|　デス・アルマ　|
+|　プルル・アルマ　|　　|　　|　　|　　|　　|
+-アルマ(2012年)の顔に変更することができる。
+「顔」と「目の色」を選択して変更できる。
+--瞬きのほか、待機中に目を細める機能がついている。
+
+***お顔スイッチャー（アルマ・２） [#Facealma02]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_alma2.jpg,nolink,888x310);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　エンジェルフェザー・アルマ　|　モーモー・アルマ　|　ネクロアーマー・アルマ　|　アンブレラ・アルマ　|　ココッコー・アルマ　|　タランチュラ・アルマ　|
+|　ベア・アルマ　|　フライフィッシュ・アルマ　|　テンタクル・アルマ　|　マミー・アルマ　|　ドラッキー・アルマ　|　ブーフ・アルマ　|
+-アルマ(2013年)の顔に変更することができる。
+「顔」と「目の色」を選択して変更できる。
+--瞬きのほか、待機中に目を細める機能がついている。
+
+***お顔スイッチャー（ロア） [#Facelore]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_lore2.jpg,nolink,888x465);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　アルカード・ロア　|　清姫・ロア　|　ル・フェイ・ロア　|　バステト・ロア　|　キッド・ロア　|　玉藻・ロア　|
+|　ローレライ・ロア　|　パラケルスス・ロア　|　ワーウルフ・ロア　|　メフィスト・ロア　|　ルチフェロ・ロア　|　ステラ・ロア　|
+|　アイリス・ロア||||||
+-ロアの顔に変更することができる。
+「顔」と「目の色」を選択して変更できる。
+--一部フェイスには瞬きのほか、待機中に目を細める機能がついている。
+
+***お顔スイッチャー（御魂） [#Facemitama]
+-御魂の顔に変更することができる。
+「顔」と「目の色」を選択して変更できる。
+--一部フェイスには瞬きのほか、待機中に目を細める機能がついている。
+
+**表情 [#Expression]
+-課金アイテムを使用することで表情を変更する「ＥＸエモーション」を取得出来る。
+
+|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceEmotion_106.jpg,nolink,596x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|嬉しい|怒り3|涙目|楽しい|
+
+-4種類の表情から1種選択して取得でき、エモーションを使用すると一定時間その表情に変化する。
+同じ表情でも各フェイスによって変化は異なる。
+(※参考用の画像は106顔)
+
+
+//公式サイト：[[ＥＸエモーションとは:http://www.econline.jp/md/motion/ex_emotion.html]]
+
+
+**髪型 [#ic018783]
+公式サイト：システム＞[[髪型・髪色変更:http://econline.gungho.jp/gamedata/system/hair.html]]
+
+***ゲーム開始時に選択できるもの [#y3a5d4c3]
+-ＤＥＭの女性にはショート２種が存在しません。
+
+|~男&br;性|~ナチュラル|~ワイルド|~ボーイズ|~コンサバティブ|~ロング|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_05.jpg,nolink,100x100);|
+|~|~オールバック|~ワンレングス|~スキンヘッド|~クールカット|-|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/m_09.jpg,nolink,100x100);|-|
+~
+|~女&br;性|~セミロング|~レイヤー|~アンティーク|~ロング|~外巻きヘア|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_03.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_04.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_05.jpg,nolink,100x100);|
+|~|~内巻きヘア|~ナチュラル|~ベリーショート|~ショート|-|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_06.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_07.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_08.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/w_09.jpg,nolink,100x100);|-|
+~
+
+***ヘアサロンにて変更可 [#q676182e]
+--[[髪型の変更]]参照
+~
+**髪色 [#kc52228d]
+
+***ゲーム開始時に選択可 [#u6625fdf]
+|~エミル♂♀|~[[ハニーベージュ>http://eco.acronia.net/itemdb/#id=2256]]|~[[ココアブラウン>http://eco.acronia.net/itemdb/#id=2255]]|~[[ビターブラウン>http://eco.acronia.net/itemdb/#id=2254]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_emil_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_emil_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_emil_m_03.jpg,nolink,100x100);|
+|~タイタニア♂♀|~[[ホワイトゴールド>http://eco.acronia.net/itemdb/#id=2267]]|~[[プラチナブロンド>http://eco.acronia.net/itemdb/#id=2266]]|~[[シャンパンゴールド>http://eco.acronia.net/itemdb/#id=2265]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_tit_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_tit_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_tit_m_03.jpg,nolink,100x100);|
+|~ドミニオン♂|~[[アクアブルー>http://eco.acronia.net/itemdb/#id=2272]]|~[[オーシャン>http://eco.acronia.net/itemdb/#id=2271]]|~[[ウルトラマリン>http://eco.acronia.net/itemdb/#id=2270]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_m_03.jpg,nolink,100x100);|
+|~ドミニオン♀|~[[ローズ>http://eco.acronia.net/itemdb/#id=2272]]|~[[ワインレッド>http://eco.acronia.net/itemdb/#id=2271]]|~[[ダークチェリー>http://eco.acronia.net/itemdb/#id=2270]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_w_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_w_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_w_03.jpg,nolink,100x100);|
+|~DEM♂♀|~セラミックホワイト|~[[ダークブルー>http://eco.acronia.net/itemdb/#id=2282]]|~[[ライトバイオレット>http://eco.acronia.net/itemdb/#id=2288]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/color_dem_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/color_dem_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/color_dem_m_03.jpg,nolink,100x100);|
+
+
+***ヘアカラー剤にて変更可 [#nddc5acf]
+-色替えはヘアカラーアイテムをダブルクリックすることで変更できます。
+-ドミニオンカラー○○はキャラクターの性別によって変化
+-3種族のヘアカラー９種類は木箱・宝箱・ECO券交換で入手。
+セラミックホワイトはエレキテルラボのポイント交換(19000P)で入手。
+ダークブルー、ライトバイオレットは軍艦島地下のCP交換(4000P)で入手。
+
+|>||~ライト|~ミドル|~へビー|
+|>|~エミルカラー|ハニーベージュ|ココアブラウン|ビターブラウン|
+|>|~タイタニアカラー|ホワイトゴールド|プラチナブロンド|シャンパンゴールド|
+|~ドミニオンカラー|~♂|アクアブルー|オーシャン|ウルトラマリン|
+|~|~♀|ローズ|ワインレッド|ダークチェリー|
+|>|~DEMカラー|セラミックホワイト|ダークブルー|ライトバイオレット|
+#br
+
+-AAはエンシェントアークでの入手のみ、クジはクジでのみ入手。
+全種類の半分程度は[[ECO券>Quest/Cleanup#dcedaf09]]で交換可能。
+//タイニーはもてなしタイニーからの意
+//もてなしタイニーから入手不能になったため消去
+-特に筆記されていないのは、木箱・宝箱か薬品合成で入手可能。
+
+|~[[チェリーレッド>http://eco.acronia.net/itemdb/#id=2269]]|~[[オレンジ>http://eco.acronia.net/itemdb/#id=2258]]|~[[キャンディーイエロー>http://eco.acronia.net/itemdb/#id=2259]]|~[[ライトグリーン>http://eco.acronia.net/itemdb/#id=2276]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_cherryred.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_orange.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_candyyellow.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_lightgreen.jpg,nolink,120x120);|
+|~[[グリーン>http://eco.acronia.net/itemdb/#id=2260]]|~[[アイスブルー>http://eco.acronia.net/itemdb/#id=2253]]|~[[ブルー>http://eco.acronia.net/itemdb/#id=2273]]|~[[ジェードパープル>http://eco.acronia.net/itemdb/#id=2262]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_green.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_iceblue.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_blue.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_jiedopurple.jpg,nolink,120x120);|
+|~[[マットブラック>http://eco.acronia.net/itemdb/#id=2274]]|~[[モイストシルバー>http://eco.acronia.net/itemdb/#id=2275]]|~[[シルバー>http://eco.acronia.net/itemdb/#id=2263]]|~[[ダルグレー>http://eco.acronia.net/itemdb/#id=2268]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_matblack.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_moistsilver.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_silver.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_dullgray.jpg,nolink,120x120);|
+|~[[オータム（くじ）>http://eco.acronia.net/itemdb/#id=2257]]|~[[ウィンター（くじ）>http://eco.acronia.net/itemdb/#id=2279]]|~[[スプリング（くじ）>http://eco.acronia.net/itemdb/#id=2281]]|~[[サマー（くじ）>http://eco.acronia.net/itemdb/#id=2261]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_autumn.jpg,nolink,113x109);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_winter.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_spring2.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_summer.jpg,nolink,107x105);|
+|~[[ペールゴールド（くじ）>http://eco.acronia.net/itemdb/#id=2284]]|~[[メタリックピンク（くじ）>http://eco.acronia.net/itemdb/#id=2286]]|~[[モスグリーン（くじ）>http://eco.acronia.net/itemdb/#id=2287]]|~[[エメラルドグリーン（くじ）>http://eco.acronia.net/itemdb/#id=2280]]|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_pgold.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_mpink2.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_mgreen.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_egreen.jpg,nolink,120x120);|
+|~[[バイオレット（AA）>http://eco.acronia.net/itemdb/#id=2283]]|~[[アッシュブラウン（AA）>http://eco.acronia.net/itemdb/#id=2277]]|~[[リリーホワイト（AA）>http://eco.acronia.net/itemdb/#id=2289]]|~[[ミルクティー（くじ）>http://eco.acronia.net/itemdb/#id=2285]]|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_violet.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_ashbrown.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/HC_rilywhite.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_milktea.jpg,nolink,120x120);|
+|~[[アンティークパープル（くじ）>http://eco.acronia.net/itemdb/#id=2278]]||||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_antiquepurple.jpg,nolink,120x120);|ライトバイオレット(CP)|ダークブルー(CP)|セラミックホワイト(ラボ)|
+
+**見た目変更ウィンドウ [#mirror]
+-開き方
+装備ウィンドウの鏡のアイコンをクッリクする。
+-使用方法・その他
+--''現在の自分の顔・ヘアカラー・髪型''を保存することが出来る。
+--現在の見た目と保存している見た目を''入れ替え''ることが出来る。
+--保存枠は初期状態では1枠。&br;「お顔スイッチャー保存の鏡」・「ヘアスタイル保存の鏡」・「ヘアカラー保存の鏡」を1枚使用する毎に保存枠が1枠増加し、最大で各''8枠''まで保持できる。
+--アイカラーもそのまま保存される。
+--拡張した枠の期限は無期限で、ずっと保持される。
+--各項目は&color(red){''キャラクター単位''};で保存される。
+//''鏡をトレードしても他のキャラクタに顔を移せません''
+
+
+**コメント欄（Wikiの編集が苦手な方はこちらに） [#eb2de96a]
+
+#pcomment

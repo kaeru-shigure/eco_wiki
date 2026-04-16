@@ -1,0 +1,42 @@
+# Dungeon/BeeNest
+
+#author("2017-04-06T18:00:12+00:00","","")
+←[[ダンジョン>Dungeon]]へ戻る
+*ビーの巣穴 [#f4fce9ee]
+
+COLOR(red):レベル1～15のキャラクターのみが進入可能なダンジョン。
+15以上でも外に出なければ居続ける事が可能だが、メンテ時に排除される可能性がある。
+憑依抜け不可能
+専用討伐クエストについては「[[ビーの巣穴クエスト>Quest/BeesNest]]」参照。
+
+
+#contents
+
+**ビーの巣穴 [#q5833a58]
+&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/BeeNest/1f.jpg,nolink,128x128,ビーの巣穴);
+-隣接マップ：[[キラービーの峠道>Quest/Acropolis#c8a2663b]]
+--チュートリアルイベント「[[初めての迷宮探索>Event/Nheartful#step5]]」中は条件を満たせばダウンタウンに直帰できる。
+-属性：無
+
+-出現モンスター
+--[[チビー>MobInsect#KillerBee]] （アクティブ）
+　(Lv4/風)[HP:81][6/5]
+--[[キラービー>MobInsect#KillerBee]] （リンク）
+　(Lv7/風)[HP:50][11/9]
+--[[イエロープルル>MobPlant#Pururu]] 
+　(Lv11/風)[HP:78][11/19]
+--[[幼虫>MobInsect#Crawler]] （リンク）
+　(Lv16/光)[HP:160][30/30]
+--[[ワスプ>MobInsect#KillerBee]] （リンク）
+　(Lv20/火)[HP:155][51/49]
+--[[スティンガー>MobInsect#KillerBee]] （BOSS、取り巻き：ワスプ、周期：5分）
+　(Lv10/風)[HP:4500][150/80]
+
+-自然物
+--[[草>Nature#u70b48b9]]
+--[[スウィートキノコ>Nature#g9486245]]
+--[[宝箱６>takarahako#t6]]
+
+*情報提供・コメント欄（Wikiの編集が苦手な方はこちらに） [#y078f792]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Tutorial#p39618b7]]にどうぞ。~
+#pcomment

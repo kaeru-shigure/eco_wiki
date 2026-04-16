@@ -1,0 +1,45 @@
+# ドロップ率検証/キラービー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[昆虫知識>ドロップ率検証#m2e39283]]
+
+***キラービー [#x4748f7e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|蜂蜜|ビーの針|クリティカルの結晶|ロウ|ロイヤルゼリー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（801体）|411個（51.31％）|285個（35.58％）|95個（11.86％）|1個（0.12％）|4個（0.50％）|5個（0.62％）|
+|知識あり（3158体）|1565個（49.56％）|914個（28.94％）|448個（14.19％）|1個（0.03％）|222個（7.03％）|8個（0.25％）|
+
+***ワスプ [#wd01f663]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ビーの針|ロイヤルゼリー|クリティカルの結晶|カッパーメダル|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（2200体）|1113個（50.59％）|725個（32.95％）|360個（16.36％）|2個（0.09％）|0個（0.00％）|0個（0.00％）|
+|知識あり（1135体）|527個（46.43％）|437個（38.50％）|163個（14.36％）|1個（0.09％）|2個（0.18％）|5個（0.44％）|
+
+***クイーンビー [#r5d4de75]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|蜂蜜|ロイヤルゼリー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|53個（53.00％）|39個（39.00％）|8個（8.00％）|
+|知識あり（200体）|83個（41.50％）|80個（40.00％）|37個（18.50％）|
+
+***スティンガー [#y17f8685]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||ロイヤルゼリー|ロイヤルゼリー（PT）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（20体）|12個（60.00％）|8個（40.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|
+
+***シャインビー（バオバブの森） [#p584d59d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|強力磁石|氷砂糖|蜂蜜|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（20体）|4個（20.00％）|8個（40.00％）|4個（20.00％）|4個（20.00％）|
+
+***シャインビー（バオバブの森（夜）） [#xa448308]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|氷砂糖|ケセランパサラン|禁断の果実|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|11個（11.00％）|37個（37.00％）|32個（32.00％）|19個（19.00％）|1個（1.00％）|

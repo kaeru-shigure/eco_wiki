@@ -1,0 +1,172 @@
+# PluginMobdb
+
+#freeze
+#author("2017-03-17T16:32:44+00:00","","")
+* mobdb プラグイン [#d4904457]
+#contents
+
+** 概要 [#p2006bde]
+[[モンスターデータベース>http://eco.acronia.net/mobdb/]]の内容をWikiページ上に表示します。
+
+モンスターデータが[[モンスターデータベース>http://eco.acronia.net/mobdb/]]とWikiで二重管理になることを避けるために導入しました。
+Wiki上のモンスターデータ表示はできるだけ本プラグインを利用してください。
+
+*** mobdbプラグインへの移行手順について [#ec024ee9]
+Wikiには記載されているが、[[モンスターデータベース>http://eco.acronia.net/mobdb/]]には記載されていない情報を移行する場合、以下のような手順で移行してください。
++ 既存のモンスター一覧表の上にmobdbプラグインで同じ内容の表を作成してください。
+-- 一時的に表が2つになります。
+-- 「※移行作業中のため一時的に表が二重になっています。」のような注意書きを記載してください。
++ 2つの表を見比べて[[モンスターデータベース>http://eco.acronia.net/mobdb/]]側に足りない情報を「編集」で追加してください。
++ 移行が完了したら既存のモンスター一覧表を削除します。
+
+** 書式・引数 [#k5bcff3e]
+:種別|
+~ブロック型プラグイン
+
+:書式|
+~''#mobdb(''
+[&color(blue){id=モンスターIDリスト};]
+[,&color(blue){addcol_name=追加列の名前};]
+[,&color(blue){addcol_list=追加列のリスト};]
+[,&color(blue){addcol_color=追加列内の指定セルの背景色};]
+[,&color(blue){order=種族ID};]
+[,&color(blue){family=系統ID};]
+[,&color(blue){habitat=生息地ID};]
+[,&color(blue){boss=ボスフラグ};]
+[,&color(blue){material=自然物フラグ};]
+[,&color(blue){lv_min=LV下限};]
+[,&color(blue){lv_max=LV上限};]
+[,&color(blue){nolv};]
+[,&color(blue){noimage};]
+[,&color(blue){noexp};]
+[,&color(blue){noelement};]
+[,&color(blue){noorder};]
+[,&color(blue){noattribute};]
+[,&color(blue){nohabitat};]
+[,&color(blue){noitem};]
+[,&color(blue){noskill};]
+[,&color(blue){nonote};]
+'')''
+
+:引数について|
+全ての引数がOptionalですが、表示するモンスターを選択するための引数をいずれか1つは指定する必要があります。
+:ID指定時に指定可能な引数|
+表示順はidの指定順です。
+--id: モンスターIDを / で区切って指定します。例: id=1/2/3
+---追加列を使用するときは、各IDに紐付ける追加列要素を[]で指定できます。紐付ける要素が複数存在する場合は&amp;で繋ぎます。例: id=[一階&amp;三階]/2[二階]/3[三階]
+---モンスターIDは[[モンスターデータベース>http://eco.acronia.net/mobdb/]]のID列に表示されています。
+--addcol_name: 追加列を表示するときの列タイトルを指定します。例: addcol_name=階数
+--addcol_list: 追加列を構成する要素を / で区切って指定します。例: addcol_list=一階/二階/三階
+--addcol_color: IDと紐付けられた追加列要素の背景色を指定します。デフォルトは #fc8c8e です。
+--- 色名(red、blueなど)、シャープで始まる3桁の16進数値(#000～#FFF)、同じく6桁の16進数値(#000000 ～ #FFFFFF)のいずれかで指定することができます。
+:検索条件指定時に指定可能な引数|
+複数指定すると、全ての条件に合致したモンスターが表示されます。表示順はLVの昇順です。
+--order:種族IDを指定します。例: order=1
+---種族IDは[[MobDB種族一覧>http://eco.acronia.net/mobdb/#mode=order]]に掲載されているIDの左側（1-2なら1）の値です。
+--family:系統IDを指定します。例: family=2
+---系統IDは[[MobDB種族一覧>http://eco.acronia.net/mobdb/#mode=order]]に掲載されているIDの右側（1-2なら2）の値です。
+---種族IDを指定せずに系統IDだけを指定することはできません。
+--habitat:生息地IDを指定します。例: habitat=0-0-0
+---生息地IDは[[MobDB地域一覧>http://eco.acronia.net/mobdb/#mode=area]]に掲載されています。
+--boss: ボスフラグを指定します。
+--- boss=0: 非ボス
+--- boss=1: ボス
+--material:自然物フラグを指定します。
+--- material=0: 非自然物
+--- material=1: 自然物
+--lv_min:LV下限を指定します。
+--lv_max:LV上限を指定します。
+:非表示にする列を指定する引数|
+--nolv: LV列を非表示にします。
+--noimage: 画像列を非表示にします。
+--noexp: Exp/Job列を非表示にします。
+--noelement: 属性列を非表示にします。
+--noorder: 種族列を非表示にします。
+--noattribute: 性格列を非表示にします。
+--nohabitat: 生息地列を非表示にします。
+--noitem: ドロップアイテム列を非表示にします。
+--noskill: スキル列を非表示にします。
+--nonote: 備考列を非表示にします。
+
+** 制限 [#k538736c]
+- 一度のプラグイン呼び出しで表示できるモンスター数は最大100です。
+-- 100以上のモンスターが該当する条件指定を行った場合、101以降は表示されません。
+-idとその他の検索条件(habitatなど)を同時に指定した場合、idの指定が優先され、その他の検索条件を無視します。
+
+** 使用例 [#n029297b]
+***ID指定 [#u6d9454b]
+[[モンスターデータベース>http://eco.acronia.net/mobdb/]]の検索結果の「ECO-Wiki mobdbプラグイン形式で出力」をクリックすると、ID指定によるmobdbプラグイン呼び出しソースコードが表示されます。
+:ソース|
+ #mobdb(id=1/2/3/4/100)
+:表示|
+#mobdb(id=1/2/3/4/100)
+
+*** 追加列 [#k9471e70]
+:ソース|
+ #mobdb(id=1[62&70]/2[65]/3[63]/4[70]/100[65],addcol_name=出現場所(B○F),addcol_list=62/63/64/65/67/68/69/70,addcol_color=#fc8c8e)
+:表示|
+#mobdb(id=1[62&70]/2[65]/3[63]/4[70]/100[65],addcol_name=出現場所(B○F),addcol_list=62/63/64/65/67/68/69/70,addcol_color=#fc8c8e)
+
+*** 生息地指定 [#pf60da71]
+Ｄ－氷結の坑道 B2Fの例
+:ソース|
+ #mobdb(habitat=0-2-1-1)
+:表示|
+#mobdb(habitat=0-2-1-1)
+
+生息地IDは[[MobDB地域一覧>http://eco.acronia.net/mobdb/#mode=area]]に掲載されています。
+
+*** 種族指定 [#t71eeedd]
+水中生物系/フィッシュ系の例
+:ソース|
+ #mobdb(order=4,family=5)
+:表示|
+#mobdb(order=4,family=5)
+
+種族ID(order)は[[MobDB種族一覧>http://eco.acronia.net/mobdb/#mode=order]]に掲載されているIDの左側（1-2なら1）の値です。
+系統ID(family)は[[MobDB種族一覧>http://eco.acronia.net/mobdb/#mode=order]]に掲載されているIDの右側（1-2なら2）の値です。
+
+*** 種族＆生息地指定 [#b5780408]
+エミル世界の水中生物系/フィッシュ系の例
+:ソース|
+ #mobdb(order=4,family=5,habitat=0)
+:表示|
+#mobdb(order=4,family=5,habitat=0)
+
+*** 非ボス指定 [#y4100b19]
+廃炭鉱 B3F/非ボスの例
+:ソース|
+ #mobdb(boss=0,habitat=0-1-6-2)
+:表示|
+#mobdb(boss=0,habitat=0-1-6-2)
+
+*** ボス指定 [#yc48c305]
+廃炭鉱 B3F/ボスの例
+:ソース|
+ #mobdb(boss=1,habitat=0-1-6-2)
+:表示|
+#mobdb(boss=1,habitat=0-1-6-2)
+
+*** 非自然物指定 [#m7cb44d6]
+北アクロニア平原/非自然物の例
+:ソース|
+ #mobdb(material=0,habitat=0-0-0)
+:表示|
+#mobdb(material=0,habitat=0-0-0)
+
+*** 自然物指定 [#o1e25cfd]
+北アクロニア平原/自然物の例
+:ソース|
+ #mobdb(material=1,habitat=0-0-0)
+:表示|
+#mobdb(material=1,habitat=0-0-0)
+
+*** LV指定 [#f3c571a3]
+タイタニア世界/LV30～39の例
+:ソース|
+ #mobdb(habitat=1,lv_min=30,lv_max=39)
+:表示|
+#mobdb(habitat=1,lv_min=30,lv_max=39)
+
+*コメント欄 [#comment]
+#pcomment

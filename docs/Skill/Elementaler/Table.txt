@@ -1,0 +1,47 @@
+# Skill/Elementaler/Table
+
+#author("2016-11-02T08:19:57+00:00","","")
+-エレメンタラーのスキルは全体的にMOBの属性に左右されやすいため、一概にどれがいいとは言い切れません。
+狩場や状況にあわせて自分で構成を考えることもしてみましょう。
+-型：アクティブスキル＝''&color(red){A};''、パッシブスキル＝''&color(blue){P};''
+-評価
+--上位互換スキルがある場合は習得Lv近辺で評価
+☆:必須クラス
+◎:取得推奨
+◯:あると便利
+△:状況次第で役に立つけど基本役に立たない
+×:不要
+-[[無限回廊（奈落階層）>Dungeon/InfiniteCorridorAbyss]]でのスキル評価はこちら→''[[無限回廊奈落でのスキル考察 #エレメンタラー>Dungeon/InfiniteCorridorAbyssSkill#m551fdc8]]''
+
+
+RIGHT:&edit(,noicon){スキル早見表を編集};
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~名称|~型|~属性|~対象|~Max&br;Lv|~射程|~効果|~評価|~コメント|h
+|CENTER:|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|~1|''[[フードファイター>../Explanation#foodfighter]]''|''&color(blue){P};''|-|-|5|-|食べ物の効果を上昇させる|◯|飴やビスケットなどにも効果あり。&br;飲み物には効果なし。|
+|~|''[[精霊分析>../Explanation#analysis]]''|''&color(red){A};''|-|敵単体|3|3|精霊知識の上位版&br;分析に成功するとより多くのアイテムを採取することができる|△|精霊の敵自体が少ない。&br;本当にスキルポイント余ってる時だけ取ればいい。|
+|~3|''[[ファイアグローブ>../Explanation#glove]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|地面単体|5|1+Lv|全てを貫通しながら飛翔する炎の魔法球を飛ばす&br;&color(red){憑依中使用不可　ゼン効果無し};|◯|フロスティゲイルから連続Hitするのでソロ狩りで役に立つ。&br;慣れないと使用が難しい|
+|~6|''[[アイスグローブ>../Explanation#glove]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|地面単体|5|1+Lv|全てを貫通しながら飛翔する水の魔法球を飛ばす&br;&color(red){憑依中使用不可　ゼン効果無し};|◯|ファシライズから連続Hitするのでソロ狩りで役に立つ。&br;慣れないと使用が難しい|
+|~12|''[[ランドグローブ>../Explanation#glove]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|地面単体|5|1+Lv|全てを貫通しながら飛翔する大地の力の魔法球を飛ばす&br;&color(red){憑依中使用不可　ゼン効果無し};|◯|土属性が有効なMOBは群れている事が多いのであまり役に立たない。&br;慣れないと使用が難しい|
+|~15|''[[サンダーグローブ>../Explanation#glove]]''|''&color(red){A};''|BGCOLOR(#fff68f):風|地面単体|5|1+Lv|全てを貫通しながら飛翔する雷の魔法球を飛ばす&br;&color(red){憑依中使用不可　ゼン効果無し};|◯|光の塔等、機械の敵には効果抜群&br;慣れないと使用が難しい|
+|~18|''[[フロスティゲイル>../Explanation#frosty]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|敵単体|5|6|対象を凍える風を吹きかけ、一定確率で凍結状態にする。&br;対象が水属性を持っている場合、成功率が上昇する|◎|凍結中は水属性が付加されるため凍結中に火スキルを使うと効果大。&br;ファシライズとどちらかは持っているとよいかもしれない。|
+|~|''[[ファシライズ>../Explanation#fasy]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|敵単体|5|6|対象を一定確率で石化させる。&br;対象が土属性を持っている場合、成功率が上昇する|◎|石化中は土属性が付加されるため石化中に水スキルを使うと効果大。&br;フロスティゲイルとどちらかは持っているとよいかもしれない。|
+|~21|''[[ファイアストーム>../Explanation#storm]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|地面を中心にした円|5|6|地面の広い範囲に火焔の竜巻を発生させる|◯|ノーザンダンジョンのトランプを一掃したいなら&br;[[ラーヴァフロウ>Skill/Elementaler/Explanation#lavaflow]]を使うなら☆|
+|~24|''[[アクアストーム>../Explanation#storm]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|地面を中心にした円|5|6|地面の広い範囲に水の渦を発生させる|◯|土属性メインの狩場で有用&br;[[アイシクルテンペスト>Skill/Elementaler/Explanation#icicletempest]]を使うなら☆|
+|~27|''[[アースストーム>../Explanation#storm]]''|''&color(red){A};''|BGCOLOR(#98fb98):土|地面を中心にした円|5|6|地面の広い範囲に大きな地割れを発生させる|◯|風属性メインの狩場での範囲狩りに&br;[[グラヴィティフォール>Skill/Enchanter/Explanation#gravityfall]]があるなら×&br;[[ラーヴァフロウ>Skill/Elementaler/Explanation#lavaflow]]や[[アースクライ>Skill/Astralist/Explanation#earthcry]]を使うなら☆|
+|~30|''[[サンダーストーム>../Explanation#storm]]''|''&color(red){A};''|BGCOLOR(#fff68f):風|地面を中心にした円|5|6|地面の広い範囲に雷撃を発生させる|◯|火属性のMOBは他属性のMOBに比べて多いため有効な場面が多い&br;[[アイシクルテンペスト>Skill/Elementaler/Explanation#icicletempest]]や[[アースクライ>Skill/Astralist/Explanation#earthcry]]を使うなら☆|
+|~|''[[ゼン>../Explanation#zen]]''|''&color(red){A};''|-|自分専用|5|-|通常よりＭＰを多く使用し、魔法効果アップ|☆|詠唱は長めだが、設置系以外の魔法の火力が大幅に上がる。&br;ラーヴァフロウのような設置系魔法には乗らない。&br;憑依時に使うと効果は宿主にかかる。憑依支援にも向いている。|
+|~|''[[精霊使いの魂>../Explanation#spirit]]''|''&color(blue){P};''|-|-|1|-|憑依時、宿主の戦闘能力を上昇させる。&br;上昇量は自身の能力に依存する|◎|あると何かと便利。|
+|~33|''[[ガトリングブレイズ>../Explanation#gatlingblaze]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|敵単体|5|5|自身の頭上に炎の玉を出現させる&br;炎の玉からは一定時間間隔でファイアボールが放たれる&br;火属性スキル習得数で効果が変わる&br;&color(red){憑依中使用不可　ゼン効果無し};|×|地面に設置するだけで頭上には出ない。&br;初弾に使えばガトリングにタゲが行く→劣化デコイ？&br;火壁併用○&br;魔法を使うMOBには瞬時に消されて×|
+|~|''[[チェインライトニング>../Explanation#chainlightning]]''|''&color(red){A};''|BGCOLOR(#fff68f):風|地面を中心とした直線|5|6|自身から指定座標へ向かって直線上に雷を放つ&br;風属性スキル習得数、ＬＶにより威力が上昇する|◯|Lvが上がるごとに詠唱時間が短くなる&br;[[ウインドエクスプロージョン>Skill/Astralist/Explanation#windexp]]を使うなら☆&br;当てづらいが威力は一級品でゼンも乗る。|
+|~35|''[[炎の契約>../Explanation#contract]]''|''&color(blue){P};''|-|-|3|-|自身に付与される火属性の上限値を上昇させる|△|上限を上昇させるよりも付属効果である付与時の属性値追加上昇効果がメイン。&br;三次終盤になるとあるといいが、それまでは不要。|
+|~|''[[水の契約>../Explanation#contract]]''|''&color(blue){P};''|-|-|3|-|自身に付与される水属性の上限値を上昇させる|△|~|
+|~|''[[風の契約>../Explanation#contract]]''|''&color(blue){P};''|-|-|3|-|自身に付与される風属性の上限値を上昇させる|△|~|
+|~|''[[土の契約>../Explanation#contract]]''|''&color(blue){P};''|-|-|3|-|自身に付与される土属性の上限値を上昇させる|△|~|
+|~40|''[[アイシクルテンペスト>../Explanation#icicletempest]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|地面を中心にした円|5|6|指定座標に氷柱を含む嵐を発生させる&br;アクアストーム、サンダーストーム習得ＬＶにより威力補正が上昇する&br;&color(red){憑依中使用不可　ゼン効果無し};|◎|ダメージ発生回数はラーヴァフロウより少ないが１回あたりのダメージが大きい。&br;ディレイが短く小回りが利く。&br;取得するならLV5推奨。&br;詠唱が長めでディレイが少ない。DEXが高いほど有効性が増す&br;三次で[[ウインドエクスプロージョン>Skill/Astralist/Explanation#windexp]]の威力を強化|
+|~|''[[ラーヴァフロウ>../Explanation#lavaflow]]''|''&color(red){A};''|BGCOLOR(#ffdddd):火|地面を中心にした円|5|6|指定座標に溶岩流を発生させる&br;ファイアストーム習得ＬＶにより威力補正が上昇、&br;アースストーム習得ＬＶによりダメージ発生間隔が変化する&br;&color(red){憑依中使用不可　ゼン効果無し};|◎|１回あたりのダメージはアイシクルテンペストに劣るがダメージ発生回数が多い。&br;転生前の最終狩場として海底洞窟・寒流で狩るなら非常に有効。&br;詠唱、ディレイはやや長め。|
+|~|''[[スペルキャンセル>../Explanation#spellcancel]]''|''&color(red){A};''|-|自分専用|1|-|詠唱中の魔法スキルをキャンセルできるようになる|×|詠唱の長い魔法をキャンセルしたい時に。|
+|~45|''[[アクアウェーブ>../Explanation#aquawave]]''|''&color(red){A};''|BGCOLOR(#bbffff):水|自分を中心とした円|3|-|対象を押し流す津波を発生させる&br;&color(red){憑依中使用不可、ゼン効果無し};|◎|非常に広範囲なので使用の際は注意|
+|~50|''[[エレメンタルカルテット>../Explanation#elementalquartet]]''|''&color(red){A};''|BGCOLOR(#cccccc):火水&br;風土|自分専用|3|-|自分中心に４属性のグローブの渦を発生させる&br;各属性スキルの習得数、ＬＶにより威力が変わる&br;&color(red){憑依中使用不可、ゼン効果無し};|△|見た目は綺麗。光ライズと組み合わせると効果が高い。&br;まぶしいという事もあるが何より処理が重い。|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~名称|~型|~属性|~対象|~Max&br;Lv|~射程|~効果|~評価|~コメント|f

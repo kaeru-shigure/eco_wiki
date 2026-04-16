@@ -1,0 +1,6 @@
+# kurumiwakanamap
+
+胡桃・若菜の入手イベント時のゴミ箱マップです。
+それぞれのマークが対になるゴミ箱で、
+絵合わせイベント後のフラグアイテム入手場所が★印のゴミ箱になります。
+#ref(http://eco.acronia.net/img/gamedb_info/eco/quest/NekomataKurumiWakanaGomiBako.jpg,nolink,392x579)

@@ -1,0 +1,12 @@
+# 職クエ/ソードマン
+
+RIGHT:&edit(,noicon){職クエ/ソードマンを編集};
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~Lv|~条件|~クエスト名|~時間|~内容|~EXP&br;GOLD|~備考|h
+|>|>|>|>|>|>|LEFT:~討伐|
+|LEFT:|CENTER:|LEFT:|RIGHT:|RIGHT:|CENTER:|LEFT:|c
+|54|-|砕け、聖なる石（アンデッドの城）|∞|コランダム3体|6841/20523&br;4400G||
+|59|-|炎の化身|∞|サウスダンジョンB3F&br;ホウオウ3体|8858/26575&br;4800G||
+
+***ソードマン情報提供フォーム [#ua340974]
+#pcomment(コメント/職クエ/ソードマン,10)

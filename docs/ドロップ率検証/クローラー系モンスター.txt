@@ -1,0 +1,59 @@
+# ドロップ率検証/クローラー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[昆虫知識>ドロップ率検証#m2e39283]]
+
+***クローラー [#zb608abc]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|キチン|青汁|緑のゼリコ|さなぎ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（720体）|475個（65.97％）|162個（22.50％）|75個（10.42％）|8個（1.11％）|0個（0.00％）|
+|知識あり（1057体）|728個（68.87％）|204個（19.30％）|115個（10.88％）|9個（0.85％）|1個（0.09％）|
+
+***サンドクローラー [#u0ee93e8]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|キチン|クローラーのまゆ|黄色いゼリコ|さなぎ|不思議なさなぎ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（160体）|112個（70.00％）|32個（20.00％）|15個（9.38％）|1個（0.63％）|0個（0.00％）|0個（0.00％）|
+|知識あり（2140体）|1471個（68.74％）|439個（20.51％）|206個（9.63％）|20個（0.93％）|3個（0.14％）|1個（0.05％）|
+
+***でかクローラー [#h908965e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|キチン|青汁|緑のゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（77体）|38個（49.35％）|31個（40.26％）|8個（10.39％）|0個（0.00％）|
+|知識あり（140体）|57個（40.71％）|70個（50.00％）|12個（8.57％）|1個（0.71％）|
+
+***キャタピラー [#t70208f9]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|キチン|赤ゼリコ|さなぎ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|67個（67.00％）|32個（32.00％）|1個（1.00％）|0個（0.00％）|
+|知識あり（300体）|181個（60.33％）|114個（38.00％）|4個（1.33％）|1個（0.33％）|
+
+***幼虫 [#ba03ddce]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ロウ|巨麦粉|クリティカルの結晶|卵|ミルク|バター|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（194体）|124個（63.92％）|16個（8.25％）|31個（15.98％）|0個（0.00％）|23個（11.86％）|0個（0.00％）|0個（0.00％）|
+|知識あり（500体）|203個（40.60％）|184個（36.80％）|86個（17.20％）|1個（0.20％）|8個（1.60％）|17個（3.40％）|1個（0.20％）|
+
+***エルダーワーム [#me7d3190]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|キチン|クローラーのまゆ|紫のゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|102個（51.00％）|81個（40.50％）|14個（7.00％）|3個（1.50％）|
+
+***ジャージーワーム [#w7d964f1]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|キチン|パートナーフード|毛皮|白い毛皮|クローラーキャリアー（緑）|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|65個（65.00％）|34個（34.00％）|1個（1.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（1108体）|442個（39.89％）|331個（29.87％）|12個（1.08％）|10個（0.90％）|312個（28.16％）|1個（0.09％）|
+
+***ロックイーター [#h3b4d258]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|固い石ころ|金属の混じった石（４）|砂鉄|金属の混じった石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（2043体）|1073個（52.52％）|692個（33.87％）|257個（12.58％）|21個（1.03％）|0個（0.00％）|
+|知識あり（301体）|140個（46.51％）|91個（30.23％）|55個（18.27％）|3個（1.00％）|12個（3.99％）|

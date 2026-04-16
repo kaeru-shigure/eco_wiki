@@ -1,0 +1,304 @@
+# PartnerList/Shinma
+
+#author("2017-11-07T13:08:13+00:00","","")
+#title(パートナー一覧表 （神魔）)
+#include(Partner/PartnerMenu,notitle)
+----
+#contents
+----
+*神魔とは [#about]
+-主に2016年の通年イベントに登場するキャラクター
+--イベント内容については以下を参照
+---[[神魔の来訪 タイニー・かんぱにー ～憑依研究編～>Quest/Season/TinyCompanyShinmaHyoui]]
+-神魔を装備中のキャラは、スキル「神憑依」が使用可能になる。(ベースタブに追加される)
+--2016/12/29現在では新規入手はクロノスのみ可能。
+
+**2017年 [#s8fb95a8]
+-2017年通年イベントのサブキャラクター種族のうちの1種。(本年の通年イベントサブキャラクターは複数の系統が存在する。)
+-比較的最近のキャラクターであるためか、他の通年サブキャラクター達と比べて既存とは決定的に違う要素を持たない。
+
+**神憑依 [#SkillShinhyoui]
+-''&color(red){Active Skill};''
+-効果：神魔の能力、プレイヤーの能力を一定時間上昇させる
+-目標：自分
+-装備条件：なし
+-憑依時使用：×
+|~効果＼SkillLv|Lv1|h
+|CENTER:|CENTER:|c
+|継続時間(s)|1800|
+
+-キャラの背後に、神憑依スキル発動時に装備していた神魔のミニキャラが表示される。
+-キャラの装備の耐久度減少確率が減少する (耐久が減りにくくなる)
+--どの装備にこの効果が適用されるかは神魔ごとに異なる
+-全ての効果は、マップ移動や装備変更で解除されない。
+--スキルというより、経験値ふえーるのような課金アイテムに近い。
+--以下の場合に効果が解除される
+---時間経過
+---効果時間内に神憑依スキルを再使用
+---ログアウト
+-別の神魔による神憑依の重ね掛けは不可
+--後から使用した神憑依で上書きされる
+
+-神魔別効果
+|~神魔|~ステータス上昇値|>|~保護される装備部位|h
+|~|~|~3種族|~DEMマシナフォーム|
+|~アスモデウス|HP+200,MP+20,SP+60,最小物理攻撃力+50,最大物理攻撃力+50|下半身装備|ボディパーツ|
+|~ワルキューレ|HP+300,SP+50,近距離命中+45,遠距離命中+40|右手装備|アームパーツ（右）|
+|~ヤタガラス|HP+300,物理防御力+50,近距離回避力+50,遠距離回避力+50|靴装備|レッグパーツ|
+|~リヴァイアサン|MP+30,最小魔法攻撃力+80,最大魔法攻撃力+80,物理防御力(減算)+70,魔法防御力(減算)+70|上半身装備|ヘッドパーツ|
+|~イシス|HP＋300,MP＋120,最小魔法攻撃力+40,最大魔法攻撃力+40,遠距離命中+30|右手装備|アームパーツ（右）|
+|~イザナミ|HP＋400,SP＋110,最小物理攻撃力+90,最大物理攻撃力+90,近距離命中+55|胸アクセサリー装備|ボディパーツ|
+|~ケルベロス|HP＋300,SP＋60,近距離命中+40,近距離回避+40,遠距離回避+40|頭装備|ヘッドパーツ|
+|~バフォメット|MP+100,最小魔法攻撃力+40,最大魔法攻撃力+40,物理防御力(減算)+80,魔法防御力(減算)+80|靴下装備|レッグパーツ|
+|~カグヤ|HP+300,SP+100,最小物理攻撃力+70,最大物理攻撃力+70,遠距離命中+40,近距離回避+30,遠距離回避+30|背中装備|バックパーツ|
+|~リリム|HP+300,MP+100,最小魔法攻撃力+100,最大魔法攻撃力+100,物理防御力(減算)+50,魔法防御力(減算)+50|顔装備|ヘッドパーツ|
+|~麒麟|HP+300,物理防御力(減算)+120,魔法防御力(減算)+120,近距離回避+20,遠距離回避+20,|下半身装備|ボディパーツ|
+|~バハムート|HP+100,MP+200,SP+200,最小物理攻撃力+100,最大物理攻撃力+100,最小魔法攻撃力+100,最大魔法攻撃力+100|左手装備|アームパーツ（右）|
+|~クロノス|HP+100,MP+150,最小魔法攻撃力+70,最大魔法攻撃力+70,魔法防御力(減算)+100,遠距離命中+50|胸アクセサリー装備|ボディパーツ|
+|~ジャバウォック|HP+100,SP+100,最小物理攻撃力+120,最大物理攻撃力+120,クリティカル力+10|頭装備|ヘッドパーツ|
+|~ルシファー / サタン|最小物理攻撃力+100,最大物理攻撃力+100,物理防御力(減算)+60,魔法防御力(減算)+60,近距離命中+50,遠距離命中+50,クリティカル力+13?|靴装備|レッグパーツ|
+*一覧表（2016） [#wf42a77e]
+**アスモデウス [#Asmodeus]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/00s.jpg,nolink,200x260);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;60&br;100&br;46&br;56&br;11&br;11&br;40&br;40&br;&br;60&br;10&br;60&br;10&br;20&br;20&br;220&br;140&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27200&br;600&br;1500&br;1450&br;1501&br;630&br;690&br;450&br;320&br;&br;440&br;25&br;400&br;22&br;140&br;170&br;500&br;390&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;神魔の一種&br;異世界から来たと言われる大悪魔&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Asmodeus]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（浮遊、ゴゴゴゴゴ、土下座、服従、てへっ☆、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;下半身装備 / ボディパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;大悪魔の威容&br;ラースオブアエーシュマ&br;お見通しですわよっ☆（イクスパンジアーム）&br;私がお守りしますわっ！（旧ディバインバリア）&br;&br;【入手法】&br;[[ECOくじ「レジェンド・オブ・アスモデウス」1等>Kuji/2016#y2167233]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲大悪魔の威容|?|自分中心円|-|&color(blue){MP10};/&color(red){SP15};|対象を押し流す衝撃波を発生させる|
+|▲ラースオブアエーシュマ|?|単体中心円|3|&color(blue){MP200};/&color(red){SP100};|範囲の中心に引き寄せ直線上の敵に対して突きをする&br;引寄せはM.ATK280% 3Hit 直線攻撃はATK2500% &br;プレッシャー等と同じ攻撃設置|
+|▲お見通しですわよっ☆|?|単体|1|&color(blue){MP15};/&color(red){SP20};|一定確率で状態異常を消去する攻撃を行う|
+|▲私がお守りしますわっ！|?|単体中心円|5|&color(blue){MP32};|対象の物理防御力と魔法防御力を上昇させる&br;DEF13/10 MDEF20/15|
+//|神憑依効果|CENTER:|CENTER:|CENTER:|CENTER:|HP+200、MP+20、SP+60、最小物理攻撃力+50、最大物理攻撃力+50|
+
+**ワルキューレ [#Valkyrie]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/02.jpg,nolink,200x215);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;600&br;90&br;90&br;65&br;66&br;30&br;35&br;35&br;30&br;&br;30&br;20&br;45&br;15&br;45&br;45&br;220&br;200&br;&br;120&br;100&br;100|110&br;黒&br;&br;26350&br;490&br;1500&br;1570&br;1721&br;528&br;685&br;435&br;290&br;&br;410&br;20&br;380&br;15&br;155&br;170&br;540&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;神魔の一種&br;異世界から来たと言われる戦乙女&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Valkyrie]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（浄化する、ほくそ笑む、ウキウキする、祈る、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;右手装備 / アームパーツ（右）&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;もっとがんばりなさい&br;ヘアドアエガ&br;レギンレイブ&br;強固な護りを（ソリッドオーラ）&br;&br;【入手法】&br;[[ECOくじ「ヴァルハラの戦乙女」1等>Kuji/2016#i312f906]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲もっとがんばりなさい|敵|単体中心円|5|&color(blue){MP33};|指定対象とその周囲の物理防御力、魔法防御力、クリティカル回避力を一定時間低下させる|
+|▲ヘアドアエガ|敵|単体|3|&color(red){SP250};|4回単体物理攻撃をする&br;ATK800%×3HIT+ATK1300%|
+|▲レギンレイブ|敵|単体中心円|5|&color(blue){MP80};|「鈍足」「沈黙」「物理攻撃不可」を付与する|
+|▲強固な護りを|自分&br;主人|単体|3|&color(blue){MP20};|指定対象を指定回数物理攻撃無効状態にする|
+//|神憑依効果|CENTER:|CENTER:|CENTER:|CENTER:|最大HP+300、最大SP+50、近距離命中力+45、遠距離命中力+40|
+
+**ヤタガラス [#Yatagarasu]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Yatagarasu.png,nolink,200x317);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;黒&br;&br;530&br;50&br;80&br;46&br;56&br;10&br;12&br;45&br;30&br;&br;55&br;9&br;60&br;5&br;20&br;20&br;150&br;180&br;&br;100&br;100&br;100|Lv&br;黒&br;&br;25000&br;620&br;1510&br;1630&br;1721&br;630&br;680&br;440&br;290&br;&br;430&br;22&br;340&br;20&br;165&br;140&br;430&br;490&br;&br;210&br;M.RCV&br;S.RCV|【説明】&br;神魔の一種&br;異世界から来たと言われる神鳥&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Yatagarasu]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（俺は戦う、導きたまえ、嘆く、あらぶるポーズ、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;靴装備/ レッグパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;俺の真の力を見せてやる！&br;幻影一殺&br;いざっ、参る！（ディレイキャンセル）&br;ガイアの力を与えたまえ（スタミナテイク）&br;&br;【入手法】&br;[[ECOくじ「煌めく宵の狂宴‐ヤタガラス‐」1等>Kuji/2016#kj160301]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲俺の真の力を見せてやる！|自分|単体|-|&color(blue){MP45};|使用時に最大HPの20％を消費し一定時間ATK、MATK1.5倍、除算DEF+5、除算MDEF+5の効果を付与する。効果時間中は回復可。効果時間35秒。&br;※スキル対象が<自分>の条件でしか発動しない。|
+|▲幻影一殺|敵|単体中心円|6|&color(red){SP380};|一瞬の間に対象の範囲を攻撃する。&br;攻撃後対象の後ろに移動する。&br;倍率850％、単体中心5×5の範囲攻撃。|
+|▲いざっ、参る！|自分&br;主人|単体中心円|6|&color(red){SP18};|一定時間、攻撃後に素早く次の行動に移ることができる。&br;効果時間15秒。|
+|▲ガイアの力を与えたまえ|自分&br;主人|単体|6|&color(blue){MP8};&br;&color(red){SP12};|対象の武器にその武器が与えたダメージの一部を持ち主がSPとして吸収できる効果を与える。&br;吸収量は最大SPの3％、効果時間30秒。|
+
+**リヴァイアサン [#Leviathan]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Leviathan.png,nolink,200x260);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;520&br;100&br;60&br;10&br;16&br;60&br;70&br;15&br;15&br;&br;65&br;10&br;65&br;10&br;10&br;10&br;150&br;180&br;&br;120&br;100&br;100|Lv&br;黒&br;&br;23600&br;1940&br;1040&br;465&br;531&br;2065&br;2160&br;240&br;240&br;&br;355&br;25&br;435&br;25&br;75&br;75&br;420&br;420&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;神魔の一種&br;異世界から&br;来たと言われる海竜&br;その実態は定かでない&br;&br;・[[台詞>PetSpeech/Shinma/Leviathan]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（ＺＺＺ、荒ぶる海竜、立腹、抱擁、我慢できない、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;上半身装備 / ヘッドパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;マグナ・メルム&br;海神障壁（旧ディバインバリア）&br;ウェリタス・ウィス&br;止まってくれるかな？（ファランクス？）&br;&br;【入手法】&br;[[ECOドリーム「渦巻く大海のリヴァイアサン」1等>Kuji/2016#kj160404]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲マグナ・メルム|敵|単体|5|&color(blue){MP100};|敵を追いかけるエネルギー体を召喚し定期的に範囲で魔法攻撃を行う。|
+|▲海神障壁|自分&br;主人&br;仲間|単体中心円|5|&color(blue){MP32};|対象の物理防御力と魔法防御力を上昇させる。&br;左DEF+13 右DEF+10 左M.DEF+20 右M.DEF+15 効果時間125秒|
+|▲ウェリタス・ウィス|自分|自分中心円|-|&color(blue){MP35};&br;&color(red){SP20};|一定時間、物理攻撃力、魔法攻撃力を上昇させる。 効果時間60秒|
+|▲止まってくれるかな？|自分|自分中心円|-|&color(red){SP16};|尻尾を振り回し自分の周囲を攻撃する。対象は一定確率で硬直する。|
+
+
+**イシス [#Isis]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Isis.jpg,nolink,224x364);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;黒&br;&br;680&br;120&br;90&br;22&br;28&br;55&br;60&br;30&br;30&br;&br;45&br;23&br;45&br;23&br;20&br;10&br;158&br;240&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;28800&br;1300&br;1000&br;1200&br;1261&br;1340&br;1400&br;320&br;320&br;&br;345&br;23&br;345&br;23&br;90&br;120&br;430&br;590&br;&br;300&br;300&br;300|【説明】&br;神魔の一種&br;異世界から&br;来たと言われる女神&br;その実態は定かではない&br;&br;&br;・[[台詞>PetSpeech/Shinma/Isis]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（渡す/喜び/よちよち/任せなさい/君に憑依/座る）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;右手装備 / アームパーツ（右）&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;神聖の守護（アレス＋リヴァイブ）&br;安心して♪&br;わたしががみんなを守る（旧ディバインバリア）&br;めっ、だよ♪&br;&br;【入手法】&br;[[ECOドリーム「聖母イシス」A賞>Kuji/2016#i08e286b]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲神聖の守護|自分&br;主人|単体|6|&color(blue){MP66};&br;&color(red){SP44};|対象のHPを回復し一定の確率で状態異常を解除する。さらに戦闘不能になった時まれに蘇生する。|
+|▲安心して♪|自分&br;主人|単体|6|&color(blue){MP50};|対象の物理攻撃力、魔法攻撃力、クリティカル力、クリティカル回避力を上昇させる。&br;効果?。効果時間180秒。|
+|▲わたしががみんなを守る|自分&br;主人|単体中心円|5|&color(blue){MP32};|対象とその周囲の物理防御力と魔法防御力を上昇させる。&br;左DEF+13 右DEF+10 左M.DEF+20 右M.DEF+15。効果時間125秒。|
+|▲めっ、だよ♪|敵|単体|6|&color(blue){MP120};|一発の威力は小さいがHIT数が多い物理攻撃魔法。&br;M.ATK500%×4HIT|
+
+**イザナミ [#Izanami]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/izanami.jpg,nolink,200x253);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;780&br;55&br;100&br;78&br;92&br;40&br;51&br;58&br;35&br;&br;90&br;10&br;59&br;10&br;20&br;18&br;235&br;140&br;&br;100&br;100&br;100|110&br;黒&br;&br;27000&br;690&br;1565&br;1650&br;1751&br;520&br;600&br;478&br;270&br;&br;420&br;25&br;350&br;20&br;174&br;168&br;550&br;400&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;神魔の一種&br;異世界から来たと言われる神様&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Izanami]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（照れる、首輪を差し出す、型、居合、突きつける、キミに憑依、座る)&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;胸アクセサリー装備/ ボディパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;伊邪那美式抜刀術　千斬り&br;闇罔象&br;黄泉還り（ライフスティール）&br;誰が倒れて良い……と&br;&br;【入手法】&br;[[ECOドリーム「誘うは黒き花嫁」A賞>Kuji/2016#wff99f66]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲伊邪那美式抜刀術　千斬り|敵|単体中心円|6|&color(red){SP150};|一太刀で無数の斬撃を放ったかの如く敵の周囲を攻撃する。倍率1100% 射程6 単体中心3*3の物理範囲攻撃。|
+|▲闇罔象|自分&br;主人|単体|5|&color(blue){MP15};/&color(red){SP10};|対象の攻撃属性を闇属性にする力を与え物理攻撃力を上昇させる。&br;武器属性値 闇+10 最大ATK+13 効果時間30秒。&br;技名は「クラミズハ」と読む。|
+|▲黄泉還り|敵|単体|5|&color(blue){MP10};/&color(red){SP35};|対象のHPを吸収し、自分のHPを回復する。&br;倍率350% 与ダメージ分HP吸収。|
+|▲誰が倒れて良い……と？|敵|単体|5|&color(blue){MP40};|対象の防御属性を火属性にし、物理防御力を低下させる。効果時間30秒。|
+
+**ケルベロス [#Kerberos]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Kerberos_s.jpg,nolink,200x241);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;黒&br;&br;350&br;39&br;51&br;42&br;53&br;18&br;22&br;29&br;17&br;&br;10&br;10&br;10&br;10&br;7&br;9&br;266&br;266&br;&br;RCV&br;M.RCV&br;S.RCV|Lv110&br;黒&br;&br;29500&br;990&br;1110&br;1380&br;1481&br;578&br;619&br;412&br;230&br;&br;350&br;22&br;350&br;22&br;145&br;105&br;450&br;400&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;神魔の一種&br;異世界から&br;来たと言われる番犬&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Kerberos]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（ぽかぽかパンチ、じゃれる、くるっと回って、遠吠え、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;頭装備 / ヘッドパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;トリニティハウル&br;トリニティブロウ（悪鬼）&br;次元の番犬&br;トリニティソウル（フレイムハート）&br;&br;【入手法】&br;[[ECOドリーム「冥府の守護者ケルベロス」A賞>Kuji/2016#gcd05703]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲トリニティハウル|敵|単体中心円|4|&color(red){SP150};|対象と周囲に3回遠吠えを行う。&br;一定確率で2回目には毒状態に、3回目には沈黙状態にする。|
+|▲トリニティブロウ|敵|単体|1|&color(red){SP25};|AGI、VIT、DEXを低下させる攻撃を連続で行う。&br;対象がモンスターの場合、回避率、命中率、防御力を低下させる。|
+|▲次元の番犬|主人&br;自分&br;仲間|単体|1|&color(red){SP45};|一定時間、物理最大攻撃力、物理防御、魔法防御、近距離回避率を上昇させる。効果時間60秒|
+|▲トリニティソウル|主人&br;自分&br;仲間|単体|5|&color(blue){MP50};&br;&color(red){SP50};|一定時間ダメージにボーナスが加わる。効果時間15秒|
+
+**バフォメット[#Baphomet]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Baphomet.jpg,nolink,301x374);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;390&br;90&br;90&br;47&br;51&br;35&br;40&br;60&br;55&br;&br;26&br;20&br;29&br;20&br;30&br;25&br;200&br;200&br;&br;120&br;100&br;100|110&br;黒&br;&br;31130&br;1300&br;750&br;950&br;1011&br;1550&br;1610&br;400&br;370&br;&br;556&br;26&br;505&br;25&br;55&br;55&br;450&br;518&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;&br;・[[台詞>PetSpeech/Shinma/Baphomet]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（撫でる、抱きつく、決めポーズ！、うっとり、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;靴下装備 / レッグパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;溶かし固めよ&br;魔女の夜宴(ディバインバリア)&br;魔女の祝福(ラウズメンタル)&br;異教の加護(ディスペルオーラ)&br;&br;【入手法】&br;ECOドリーム「バフォメットはパンがお好き？」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲溶かし固めよ|単体|単体中心円|5|&color(blue){MP40};|魔法1200%　範囲3x3　与ダメの10%回復&br;追加効果にデフィート|
+|▲魔女の夜宴|自分&br;主人&br;仲間|単体中心円|5|&color(blue){MP32};|旧ディバンバリア|
+|▲魔女の祝宴|自分&br;主人&br;仲間|単体|3|&color(blue){MP16};|ラウズメンタルLv3|
+|▲異教の加護|自分&br;主人&br;仲間|単体|3|&color(blue){MP65};|ディスペルフィールド　魔法３回無効|
+
+**カグヤ[#Kaguya]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Shinma_KaguyaR2_s.jpg,nolink,280x309);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;390&br;70&br;70&br;68&br;71&br;40&br;51&br;60&br;55&br;&br;26&br;20&br;29&br;20&br;30&br;25&br;200&br;200&br;&br;120&br;100&br;100|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;&br;・[[台詞>PetSpeech/Shinma/Kaguya]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（狙撃構え、めっ！、照れる、ナビゲート、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;背中装備 / バックパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;フガクインジェクション&br;武器のメンテナンスを開始します&br;EMLスタンバイ&br;医療ナノマシン散布&br;&br;【入手法】&br;ECOドリーム「ムーン・ナビゲーター・カグヤ」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲フガク　インジェクション|敵|単体を中心にした円|7|&color(red){SP200};|攻撃要請を行い、指定対象とその付近にダメージを与え、一定確率で持続ダメージ状態にする&br;範囲7x7の倍率10000%の物理攻撃＋確率でフレア化&br;詠唱時間固定10秒、固有ディレイ10秒|
+|▲武装のメンテナンスを開始します|自分&br;主人|単体を中心にした円|5|&color(blue){MP15};&br;&color(red){SP40};|ウェポンエンハンス&br;持続150秒|
+|▲ＥＭＬスタンバイ|敵|単体|7|&color(red){SP55};|指定対象に対し遠距離から攻撃を行う&br;倍率1000%|
+|▲医療ナノマシン散布|自分&br;主人|単体|7|&color(blue){MP40};|単体用ホーリーフェザー、持続150秒|
+
+**リリム [#Lilim]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Lilim.jpg,nolink,268x350);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;400&br;100&br;60&br;50&br;61&br;75&br;80&br;35&br;40&br;&br;30&br;10&br;30&br;20&br;20&br;10&br;200&br;200&br;&br;150&br;120&br;100|110&br;黒&br;&br;29400&br;1850&br;900&br;550&br;641&br;1980&br;2110&br;335&br;310&br;&br;375&br;20&br;570&br;30&br;100&br;110&br;400&br;590&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;神魔の一種&br;異世界から来たと言われる小悪魔&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Lilim]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（決めポーズ！、じらし、旋回、くつろぐ、キミに憑依）&br;・ブリーダーのスキル「メタモルフォーゼ」中にリラックス(/relax)で専用ポーズをとる&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;顔装備 / ヘッドパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;せくしーびーむ！&br;すわれてみる？&br;受ける覚悟はイイ？&br;イイことしてあげよっか？&br;&br;【入手法】&br;ECOドリーム「魅惑のリリムルーム」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲せくしーびーむ！|敵|単体中心円|5|&color(blue){MP100};|指定対象とその周囲を攻撃し被弾対象の被ダメージ率を上昇させる&br;範囲5x5　倍率2000%　ダメージ率1.4　効果時間10秒|
+|▲すわれてみる？|敵|単体中心円|5|&color(blue){MP30};|対象のHPを吸収し自分のHPとMPを回復する&br;範囲5x5　倍率1000%&br;回復量はダメージ関係なし最大HP20％　最大MP10％|
+|▲受ける覚悟はイイ？|自分&br;主人&br;仲間|単体|1|&color(red){SP19};|効果時間は防御力がアップしクリティカル攻撃を受けなくなる&br;左DEF+9　効果時間60秒|
+|▲イイことしてあげよっか？|自分&br;主人&br;仲間|単体|5|&color(blue){MP28};|通常よりMPを多く使用&br;魔法効果アップ&br;効果1.6倍　効果時間35秒|
+
+**麒麟 [#Kirin]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Kirin_s.jpg,nolink,300x381);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;50&br;90&br;54&br;63&br;15&br;20&br;60&br;55&br;&br;70&br;12&br;62&br;20&br;25&br;20&br;210&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;31000&br;620&br;1720&br;1350&br;1451&br;600&br;660&br;375&br;370&br;&br;540&br;22&br;570&br;30&br;145&br;155&br;470&br;440&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;神魔の一種&br;異世界から来たと言われる霊獣&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Kirin]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;下半身装備 / ボディパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;霊獣の蹄&br;麒麟の猛進&br;不吉ないななき&br;霊獣の災厄&br;&br;【入手法】&br;ECOドリーム「麒麟・雲霞之交」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲霊獣の蹄|敵|単体中心円|3|&color(red){SP80};|指定対象とその周囲に、引き寄せと硬直効果のある3回の連続攻撃を行う。&br;範囲5x5　倍率250%+500%+400%　クールタイム10秒|
+|▲麒麟の猛進|敵|地面を中心とした直線|3|&color(red){SP70};|指定座標の対象を一瞬の間に攻撃する。&br;倍率1000%&br;スキルの発動の射程(移動距離)は無限。攻撃範囲は敵との距離に関係なく常に前方3×3の範囲。|
+|▲不吉ないななき|敵|単体|5|&color(red){SP20};|一定確率で対象のクリティカル力、クリティカル回避力を減少させる。|
+|▲霊獣の災厄|自分|単体|-|&color(red){SP30};|自身を固有のカウンター状態にする。効果時間中に攻撃してきた敵は、一定確率で、一定時間、物理防御力、魔法防御力を低下させる状態異常になる。&br;効果時間120秒&br;カウンター時 相手左DEF＆左MDEF-18(固定値) 右DEF＆右MDEF-40　効果時間20秒&br;※スキル対象が＜自分＞の条件でしか発動しません|
+
+**バハムート [#Bahamut]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Bahamut_s.jpg,nolink,200x188);>http://eco.acronia.net/img/wiki/PetList/Shinma/Bahamut_s.jpg]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;400&br;80&br;120&br;150&br;201&br;30&br;50&br;40&br;40&br;&br;30&br;10&br;30&br;20&br;25&br;20&br;250&br;170&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;24500&br;900&br;1550&br;1800&br;2051&br;650&br;670&br;440&br;370&br;&br;525&br;26&br;500&br;28&br;170&br;160&br;555&br;475&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;神魔の一種&br;異世界から来たと言われる竜&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Bahamut]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;左手装備 / アームパーツ（右） &br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;穿つ魔弾&br;我にひれふせ！&br;攻め続けよ！（ディレイアウト）&br;覇王の加護（ツイステッドプラント）&br;&br;【入手法】&br;ECOドリーム「覇王竜バハムート」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲穿つ魔弾|敵|単体|4|&color(red){SP120};|対象に邪悪なる攻撃を行い、確率で状態異常にさせる。|
+|▲我にひれふせ！|敵|単体を中心にした円|4|&color(red){SP200};|対象範囲に攻撃を行い、弱点属性を付与する。&br;範囲3x3|
+|▲攻め続けよ！|敵|単体|4|&color(red){SP80};|現在ディレイタイム中にあるものをすべてキャンセルさせる。※一部例外あり|
+|▲覇王の加護|自分|単体|5|&color(blue){MP50};|対象にHPを肩代わりするオーラを付与する。|
+
+
+**クロノス [#Khronos]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Khronos.jpg,nolink,295x450);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;370&br;100&br;60&br;45&br;51&br;60&br;65&br;35&br;45&br;&br;30&br;12&br;50&br;13&br;20&br;20&br;180&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25300&br;1300&br;650&br;580&br;631&br;1450&br;1500&br;300&br;360&br;&br;420&br;15&br;470&br;22&br;100&br;125&br;440&br;520&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;神魔の一種&br;異世界から来たと言われる時間の神&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Khronos]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（勉強の時間、いじける、混乱、決めポーズ！、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;胸装備 / ボディパーツ &br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：5&br;&br;【使用スキル】&br;これが研究の成果よ！(プレッシャー)&br;次元断層にはこういう使い方もある！&br;念の為にね？（リヴァイブ）&br;時間は人の意識によって変わるもの（スピードエンチャント）&br;&br;【入手法】&br;[[2016年イベント「神魔の来訪 タイニー・かんぱにー ～憑依研究編～ 」>#Top_TinyCompanyShinmaHyoui]]の報酬|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲これが研究の成果よ！|自分|自分中心円|-|&color(blue){MP50};|一定範囲内に行動を鈍化させる結界を発生させる。&br;結界内にいる者は移動速度、攻撃速度、詠唱速度が減少し、ダメージを受ける。&br;効果時間15s、秒間ダメージ400%、分散なし&br;設置範囲のエフェクトはクロノスオリジナル|
+|▲次元断層にはこういう使い方もある！|敵|単体を中心にした円|5|&color(blue){MP70};|指定対象を中心に&br;周囲の敵を引き寄せながら3回連続でダメージを与える。&br;範囲5x5 600%*3 硬直2秒付与 詠唱・ディレイ共に無し&br;設置ではなく自動連携スキルに該当しゼンやリフレクションの対象になる。|
+|▲念の為にね？|自分|単体|4|&color(blue){MP20};|戦闘不能になったとき、稀に生き返る。|
+|▲時間は人の意識によって変わるもの|主人&br;自分&br;仲間|単体|6|&color(blue){MP46};|対象の物理攻撃速度、回避率、魔法抵抗率、魔法詠唱速度を上昇させる。60秒|
+
+*2017～ [#m710a494]
+
+**ジャバウォック [#Jabberwock]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Jabberwock.jpg,nolink,250x480);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;504&br;52&br;105&br;64&br;86&br;40&br;51&br;58&br;35&br;&br;59&br;11&br;60&br;10&br;20&br;18&br;235&br;140&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27250&br;670&br;1603&br;1615&br;1791&br;520&br;600&br;478&br;270&br;&br;350&br;21&br;420&br;25&br;174&br;168&br;550&br;400&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;神魔の一種&br;異世界から来たと言われるバケモノ&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Jabberwock]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（やせ我慢、照れる、誘惑する、怖がる、喜ぶ、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;頭装備 / ヘッドパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;デモリッション&br;タイムデストラクション&br;バンダースナッチ&br;ビビってなんか、いないんだから！(警戒)&br;もっと褒めてもいいのよ！(エフィカスLV3)&br;&br;【入手法】&br;ECOドリーム「ジャバウォック・イン・ワンダーランド」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲デモリッション|敵|単体|1|&color(red){SP100};|物理1800%&br;一定確率で、スキル詠唱を止めて&br;スキル発動を無効化させ&br;稀に即死させる|
+|▲タイムデストラクション|敵|単体を中心にした円|5|&color(red){SP120};|物理5×5分散なし1000% 短詠唱ディレイ無し&br;回避素ステ−50%？ ASPD素ステ−15%？クリティカル回避率不明&br;異常必中 効果時間60s|
+|▲バンダースナッチ|自分|自分専用|-|&color(red){SP80};|一定時間、最大ATK+100&br;対象の除算防御35固定無視？&br;効果時間120s|
+|▲ビビってなんか、いないんだから！|主人&br;自分&br;仲間|単体|1|&color(red){SP40};|効果時間は防御力がアップし&br;クリティカル攻撃を受けなくなる|
+|▲もっと褒めてもいいのよ！|自分|自分専用|-|&color(red){SP36};|エフィカスLV3 上昇上限20体の+100%|
+
+**ルシファー [#Lucifer]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shinma/Lucifer.jpg,nolink,200x699);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;80&br;112&br;135&br;216&br;30&br;50&br;40&br;40&br;&br;30&br;20&br;65&br;10&br;20&br;20&br;250&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;26900&br;1200&br;1610&br;1585&br;1866&br;650&br;670&br;480&br;340&br;&br;550&br;28&br;495&br;26&br;174&br;170&br;555&br;470&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;神魔の一種&br;異世界から来たと言われる堕天使&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shinma/Lucifer]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・非装備時に「チェンジ」することで「サタン」になる&br;サタン時のステータス変化はないが、セリフやモーションが一部変化する&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（撫でる（ルシファー）、高笑い（サタン）、苦悩、決めポーズ、キミに憑依）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;靴装備 / レッグパーツ&br;&br;系統：神魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;天獄の試練&br;堕天&br;光闇封印&br;翼の眷族&br;ダークシード&br;ホーリーシード&br;&br;【入手法】&br;ECOドリーム「堕ちた明けの明星・ルシファー」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲天獄の試練|敵|単体中心円|5|&color(red){SP120};|対象を中心に範囲攻撃を行い、一定時間スキルが使用できない状態にする|
+|▲堕天|敵|単体中心円|3|&color(red){SP15};|対象の武器に闇の力を宿らせる|
+|▲光闇封印|自分&br;主人&br;仲間|単体|5|&color(red){SP50};|光属性、闇属性の攻撃を受けたとき、ダメージを軽減する&br;効果時間120s|
+|▲翼の眷族|自分|自分専用|-|&color(blue){MP60};&br;&color(red){SP60};|エンジェルフェザーの群れとダークフェザーの群れを召喚する。召喚した眷族が倒れる毎に自分のHP、MP、SPを回復させる&br;※スキル対象が＜自分＞の条件でしか発動しません|
+|▲ダークシード|自分&br;主人&br;仲間|単体|6|&color(blue){MP60};|対象の武器に闇の力を与えて、一定時間、闇属性のダメージを上昇させる&br;効果時間50s|
+|▲ホーリーシード|自分&br;主人&br;仲間|単体|6|&color(blue){MP60};|対象の武器に光の力を与えて、一定時間、光属性のダメージを上昇させる&br;効果時間50s|
+
+
+*コメント欄 [#s0d24491]
+#pcomment(,noname,10)
+
+//13-10　20-15
+//テンプレート
+//**●● [#●●]
+//|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+//|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+//|画像募集中|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;&br;・[[台詞>PetSpeech/Shinma/●●]] &br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（）&br;&br;【[[神憑依>#SkillShinhyoui]]の耐久保護部位】&br;装備 / パーツ&br;&br;系統：&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;&br;【入手法】&br;ECOドリーム「●●」A賞|
+//|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+//|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+//|||||||
+//
+
+//テンプレート（台詞ページ）
+//#include(Partner/PartnerMenu,notitle)
+//「●●」の[[ステータス>PartnerList/Shinma#●●]]
+//*「●●」の台詞
+//※プレイヤーが男なら？、女なら？になる // ←不要なら削除
+//-装備時
+//-戦闘時
+//-囲まれた時
+//-状態異常時
+//-戦闘不能時
+//-レベルアップした時
+//-パーティーに参加した時
+//-パーティーから抜けた時
+//-ダンジョンでワープした時
+//-飛空庭(自)に入った時(装備中)
+//-飛空庭(自)から出る時(装備中)
+//-飛空庭(他)に入った時(装備中)
+//-飛空庭(他)から出る時(装備中)
+//-飛空庭(自)の室内に設置した時
+//-飛空庭(自)の屋外に設置した時
+//-飛空庭(自)で話しかけた時
+//-飛空庭(自)に(自)が入った時(屋外に設置中)
+//-飛空庭(自)から(自)が出る時(屋外に設置中)
+//-飛空庭(自)の家に(自)が入った時(屋内に設置中)
+//-飛空庭(自)の家から(自)が出た時(屋外に設置中)
+//-飛空庭(自)で(他)が話しかけた時
+//-飛空庭(自)に(他)が入った時(屋外に設置中)
+//-飛空庭(自)から(他)が出る時
+//-飛空庭(自)の家に(他)が来た時(屋内に設置中)
+//-飛空庭(自)の家から(他)が出た時(屋外に設置中)
+//-憑依した時
+//-憑依された時
+//-CAPA/PAYLオーバーした時
+//-ログアウトする時
+//-ターン系(/turn1、/turn2、/joy、/yahoo) 
+//-座り(座る、/chair) 
+//-休憩(/relax、/break) 
+//-土下座(/dogeza) 
+//-めげる(/disappoint、/orz) 
+//-挨拶(/bow)
+//-？(信頼の証)
+//*信頼度で追加される台詞
+//-ログイン時
+//-信頼度、色変化時
+//-おやつ使用時
+//-食事ができるようになった時
+//-パートナーがレベルアップした時
+//-パートナーに装備品を装備時
+//-パートナー負傷中
+//-パートナー負傷回復時
+//-かんたんAI攻撃重視設定時
+//-かんたんAI主人重視設定時
+//-かんたんAI追従設定時
+//-かんたんAIカスタム設定時
+//

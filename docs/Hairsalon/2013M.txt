@@ -1,0 +1,160 @@
+# Hairsalon/2013M
+
+#author("2017-04-07T17:21:05+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*男性ヘアサロン（2013年） [#Hairsalon2013M]
+#contents
+
+**アルカードの紹介状（ECOくじ「ヴァンパイア・ロマンス」） [#VampireRomance]
+|~アルカード・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+
+**エンジェルフェザーの紹介状（ECOくじ「ブランシュ・プチ・アンジュ」） [#PetitAnge]
+|~エンジェルフェザー・アルマとおそろいの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/Angel%20feather.png,nolink,661x311);|
+
+**春風の紹介状 [#harukaze]
+|~毛先カールセミロング|
+|CENTER:画像募集中|
+|~でこ隠しショート|
+|CENTER:画像募集中|
+
+**清姫の紹介状（ECOくじ「古今戦国絵巻」） [#kiyohime]
+|~清姫・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+
+**モーモーの紹介状（ECOくじ「カントリー・カウガール」） [#CountryCowgirl]
+|~モーモー・アルマとおそろいの髪型（付け毛（うし耳）・バンダナ有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/mo_mo_bandana_mimi.png,nolink,661x311);|
+|~モーモー・アルマとおそろいの髪型（バンダナ有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/mo_mo_bandana.png,nolink,661x311);|
+|~モーモー・アルマとおそろいの髪型（付け毛（うし耳）有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/mo_mo_mimi.png,nolink,661x311);|
+|~モーモー・アルマとおそろいの髪型（オプションなし）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/mo_mo.png,nolink,661x311);|
+|ヘアカラー・バンダナの色一覧|
+
+**ル・フェイの紹介状（ECOくじ「ケルティック・ファンタジー」） [#CelticFantasy]
+|~ル・フェイ・ロアとおそろいの髪型（髪飾り有り）|
+|CENTER:画像募集中|
+|~ル・フェイ・ロアとおそろいの髪型（髪飾りなし）|
+|CENTER:画像募集中|
+|ヘアカラー・髪飾りの色一覧|
+
+**ネクロアーマーの紹介状（ECOくじ「黒鉄の騎士団」） [#KuroganeNoKishidan]
+|~ネクロアーマー・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+
+**バステトの紹介状（ECOくじ「ブバスティスの仔猫たち」） [#BubasutisuNoKoneko]
+|~バステト・ロアとおそろいの髪型（猫耳有り）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/basuteto_mimiari.jpg,nolink,661x311);|
+|~バステト・ロアとおそろいの髪型（猫耳無し）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/basuteto_miminashi.jpg,nolink,661x311);|
+
+**アンブレラの紹介状（ECOくじ「スイートフレンチ＆クラシック」） 　[#SuiitoAndKurashikku]
+|~アンブレラ・アルマとおそろいの髪型（おだんごスタイル（帽子つき））|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/umbrella_h.jpg,nolink,661x311);|
+|~アンブレラ・アルマとおそろいの髪型（おたんごスタイル）|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/umbrella.jpg,nolink,661x311);|
+
+**キャプテンキッドの紹介状（ECOくじ「パイレーツ・クロニクル」） [#PaireetuKuronikuru]
+|~キャプテンキッド・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+
+**ココッコーの紹介状（ECOくじ「ぴよぴよぴくにっく」） [#PiyoPiyoPicnic]
+|~ココッコー・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+
+**夏草の紹介状 [#natukusa]
+|~ボンバ外はねショート|
+|CENTER:画像募集中|
+|~ふんわりバルーンボブ|
+|CENTER:画像募集中|
+
+**玉藻の紹介状（ECOくじ「御伽の国のお狐様」） [#Okitunesama]
+
+|~玉藻・ロアとおそろいの髪型（狐耳・あり）|
+|CENTER:画像募集中|
+|~玉藻・ロアとおそろいの髪型（狐耳・なし）|
+|CENTER:画像募集中|
+
+**タランチュラの紹介状（ECOくじ「スパイダー＆パンキッシュ」） [#tarantula]
+|~タランチュラ・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+
+**ローレライの紹介状（ECOくじ「マーメイド・オン・ステージ」） [#MermaidOnStage]
+|~ローレライ・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+
+**ベアの紹介状（ECOくじ「ふぁん☆ふぁん　ファンフェアー！」） [#FanFanFanFair]
+|~ベア・アルマとおそろいの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/bear.jpg,nolink,661x311);|
+
+**パラケルススの紹介状（ECOくじ「シークレットラボラトリー」） [#SecretLaboratory]
+|~パラケルスス・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+|~ホムンクルスとおそろいの髪型|
+|CENTER:画像募集中|
+
+**フライフィッシュの紹介状（ECOくじ「夏色の放課後」） [#FlyFish]
+|~フライフィッシュ・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+
+**秋月の紹介状 [#akiduki]
+|~すっきりショートヘア|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2013M/akiduki.JPG,nolink,661x311);|
+|~ヘアピンセミロング|
+|CENTER:画像募集中|
+
+**ワーウルフの紹介状（ECOくじ「ワーキング・ワーウルフ」） [#WalkingWerewolf]
+|~ワーウルフ・ロアとおそろいの髪型（耳あり）|
+|CENTER:画像募集中|
+|~ワーウルフ・ロアとおそろいの髪型（耳なし）|
+|CENTER:画像募集中|
+
+**テンタクルの紹介状（ECOくじ「ドキドキ・クッキング！」） [#DokidokiCocking]
+|~テンタクル・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+
+**メフィストフェレスの紹介状（ECOくじ「デーモニック・ディテクティブ」） [#DemonicDetective]
+|~メフィストフェレス・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+
+**マミーの紹介状（ECOくじ「ローズウィッチ・ハロウィーン」） [#RoseWitchHalloween]
+|~マミー・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+
+**ルチフェロの紹介状（ECOくじ「終幕オペラハウス」） [#SyumakuOperaHouse]
+|~ルチフェロ・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+
+**ドラッキーの紹介状（ECOくじ「大正レトロモダニズム」） [#TaisyouRetroModernism]
+|~ドラッキー・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+|~ドラッキー・アルマとおそろいの髪型(耳付き)|
+|CENTER:画像募集中|
+
+**ステラの紹介状（ECOくじ「星降る夜の物語」） [#HoshihuruyoruNoMonogatari]
+|~ステラ・ロアとおそろいの髪型|
+|CENTER:画像募集中|
+
+**BABYの紹介状（ECOくじ「ECO×BABY＋A&P」） [#BABY-AP2013]
+|~上品な可愛らしさを演出する髪型（リボンあり）|
+|CENTER:画像募集中|
+|~上品な可愛らしさを演出する髪型（リボンなし）|
+|CENTER:画像募集中|
+
+**記憶の書架の紹介状 [#iris]
+|~アイリスとおそろい|
+|CENTER:画像募集中|
+
+**ブーフの紹介状（ECOくじ「記憶の図書館」） [#KiokuNotosyokan]
+|~ブーフ・アルマとおそろいの髪型|
+|CENTER:画像募集中|
+
+●[ [[ トップメニュー >#TopMenu]] ][ [[ 2014年へ続く >Hairsalon/2014M]] ]&aname(Last);

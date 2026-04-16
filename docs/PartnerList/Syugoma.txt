@@ -1,0 +1,102 @@
+# PartnerList/Syugoma
+
+#author("2021-10-02T09:35:22+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （守護魔） [#h19b7b98]
+#contents
+
+ステータスの表記は本wikiのレイアウトの関係で英語にしています (表示順序はゲーム内と同じ)
+ステータス数値のうちM.RCVとS.RCVが&color(silver){灰色};の場合、信頼度換算の際に信頼度黒での数値が算出できなかったことを示します(上限300に達していたため)。確定次第黒文字に要修正
+
+**守護魔 [#syugoma]
+-主に2011年の通年イベントのキャラクター
+-実装当時はくじ(2016現、ECOドリーム)で月替わりで1等(A賞)枠で排出されていたが
+-現在ではいずれも新規入手方法は無い。
+--ただし不定期にびっくりアイテムBOXに収録される「ヒトトセの守護魔BOX」にて新規入手が可能になることがある。
+--通年報酬枠であったウル、ルゥ、ウルゥと関連グッズ特典であったカナデは上記BOXからは入手できない。
+//--(ただし、運営からのキャンペーンで何らかの形で復刻することが稀にある)
+
+***守護魔・ムツキ [#Muthuki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/mutiki.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;90&br;90&br;30&br;43&br;30&br;44&br;32&br;20&br;&br;33&br;12&br;30&br;15&br;20&br;10&br;130&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;24890&br;690&br;1190&br;1438&br;1499&br;723&br;903&br;441&br;248&br;&br;422&br;12&br;304&br;15&br;154&br;155&br;440&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;月の精とも言われているが&br;その事実は確かではない&br;&br;・[[台詞>PetSpeech/Muthuki]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;エリアヒール&br;ララバイ&br;リヴァイブ&br;ラウズボディ&br;&br;【入手法】&br;[[ECOくじ「あけおめ兎年」1等>Kuji/2011#log_akeome]]|
+
+***守護魔・キサラギ [#kisaragi]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/kisaragi1.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;90&br;90&br;30&br;43&br;30&br;44&br;32&br;20&br;&br;33&br;12&br;30&br;15&br;20&br;10&br;130&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25140&br;690&br;1190&br;1438&br;1499&br;723&br;903&br;441&br;248&br;&br;422&br;12&br;304&br;15&br;154&br;155&br;440&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;魔力の源とも言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Kisaragi]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;カウンター&br;スタンブロウ&br;マジックリベレイション&br;ブラックウィドウ&br;ルミナリィノヴァ&br;グラビディフォール&br;&br;【入手法】&br;[[ECOくじ「ハンドメイド・バレンタイン」1等>Kuji/2011#log_valentine2011]]|
+
+***守護魔・ヤヨイ[#yayoi]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/yayoi1.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;90&br;90&br;30&br;43&br;30&br;44&br;32&br;20&br;&br;33&br;12&br;30&br;15&br;20&br;10&br;130&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25040&br;690&br;1190&br;1438&br;1499&br;723&br;903&br;441&br;248&br;&br;422&br;12&br;304&br;15&br;154&br;155&br;440&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;春を導くとも言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Yayoi]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;パリィ&br;カウンター&br;クリティカル&br;一閃&br;ヒーリング(自分のみ)&br;スタンブロウ&br;&br;【入手法】&br;[[ECOくじ「アジアンファンタジア」1等>Kuji/2011#log_asian_fantasia]]|
+
+***守護魔・ウヅキ [#uduki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/uduki.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;40&br;41&br;45&br;45&br;28&br;30&br;&br;30&br;20&br;35&br;28&br;20&br;10&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;21500&br;1890&br;1040&br;519&br;580&br;1891&br;2071&br;278&br;250&br;&br;331&br;20&br;399&br;28&br;94&br;95&br;410&br;490&br;&br;250&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;守護魔の一種&br;出会いを導くとも言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Uduki]]&br;&br;系統：守護魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;旋風剣&br;せ～の！&br;みね打ち&br;パリィ&br;カウンター&br;&br;【入手法】&br;[[ECOくじ「風雲！アクロニア学園」1等>Kuji/2011#log_academy]]|
+
+***守護魔・サツキ [#satsuki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/satsuki1.jpg,nolink,128x122);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;40&br;41&br;45&br;45&br;28&br;30&br;&br;30&br;20&br;35&br;28&br;20&br;10&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;21500&br;1890&br;1040&br;519&br;580&br;1891&br;2071&br;278&br;250&br;&br;331&br;20&br;399&br;28&br;94&br;95&br;410&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;新緑の風を導くとも言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Satsuki]]&br;&br;系統：守護魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;応援&br;アヴォイドバースト&br;ファイアボール&br;アイスアロー&br;エナジークロウ&br;ルミナリィノヴァ&br;&br;【入手法】&br;[[ECOくじ「フェアリーテイル」1等>Kuji/2011#log_fairytail]]|
+
+***守護魔・ミナヅキ [#minaduki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/minaduki.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;40&br;41&br;45&br;45&br;28&br;30&br;&br;30&br;20&br;35&br;28&br;20&br;10&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;21500&br;1890&br;1040&br;519&br;580&br;1891&br;2071&br;278&br;250&br;&br;331&br;20&br;399&br;28&br;94&br;95&br;410&br;490&br;&br;250&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;守護魔の一種&br;穏やかな雨を導くとも言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Minaduki]]&br;&br;系統：守護魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;ライフテイク&br;応援&br;ディフェンスバースト&br;クリティカルアシスト&br;リヴァイブ&br;クリティカル(ユニオン時？)&br;&br;【入手法】&br;[[ECOくじ「プレシャスウェディング」1等>Kuji/2011#log_precious_wedding]]|
+
+***守護魔・フミツキ [#Fumitsuki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/fumitsuki.jpg,nolink,137x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;夏を導くとも言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Fumitsuki]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;応援&br;スタンブロウ&br;せ～の！&br;くらえ！必殺！&br;エナジーバリア&br;アイスアロー&br;&br;【入手法】&br;[[ECOくじ「夢見るアクアマリン」1等>Kuji/2011#log_aquamarine]]|
+
+***守護魔・ハヅキ [#Haduki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/haduki.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;&color(,pink){桃};&br;&br;32520&br;1535&br;3035&br;1735&br;1797&br;624&br;803&br;606&br;639&br;&br;521&br;20&br;449&br;28&br;214&br;329&br;490&br;420&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;夏雷を引き起こすとも言われているが&br;その実態は定かではない &br;&br;・[[台詞>PetSpeech/Haduki]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：&br;射程：3&br;&br;【使用スキル】&br;アサルト&br;デフラグ&br;バーストショット&br;クロスクレスト&br;エナジーバリア&br;&br;【入手法】&br;[[ECOくじ「エレクトロメモリーズ」1等>Kuji/2011#log_electromemories]]|
+
+***守護魔・キクヅキ [#Kikuduki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/Kikuduki.jpg,nolink,128x129);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;夏の終わりと秋の訪れを告げると言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Kikuduki]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;応援&br;バックラッシュ&br;ウィップラッシュ&br;ヒーリング&br;サンダーボルト&br;&br;【入手法】&br;[[ECOくじ「古の大和神話」1等>Kuji/2011#log_legend]]|
+
+***守護魔・カミア・カンナ [#KamiaKanna]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/kamia_kannna.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;22100&br;1890&br;1040&br;519&br;580&br;1891&br;2071&br;278&br;250&br;&br;331&br;20&br;399&br;28&br;94&br;95&br;410&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;神と悪魔の使いと言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/KamiaKanna]]&br;&br;系統：守護魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;ブラックウィドウ&br;ホーリーライト&br;応援&br;ソリッドオーラ&br;グラヴィティフォール（範囲鈍足・ダメージ無し）&br;ライフテイク&br;リザレクション&br;&br;【入手法】&br;[[ECOくじ「ホーリーハロウィン」1等>Kuji/2011#log_holy_halloween]]|
+
+***守護魔・シモツキ [#Shimotsuki]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/Simotuki.jpg,nolink,120x120);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;華麗で高貴な守護魔と言われているが（シモツキ談）&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Shimotsuki]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;応援&br;ヒーリング&br;ダストエクスプロージョン&br;せーの！&br;連続投げ&br;マジックポイズン&br;&br;【入手法】&br;[[ECOくじ「森の中の童話」1等>Kuji/2011#log_foreststory]]|
+
+***守護魔・ロウゲツ [#Rougetsu]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/Rougetsu.jpg,nolink,126x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;何事も完璧にこなせる守護魔と言われているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Rougetsu]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ライフテイク&br;ブラックウィドウ&br;グラヴィティフォール&br;応援&br;一閃&br;旋風剣&br;&br;【入手法】&br;[[ECOくじ「クラシカルサーバント」1等>Kuji/2011#log_servant]]|
+
+***守護魔・ウル [#Uru]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/Uru.jpg,nolink,125x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;50&br;61&br;30&br;40&br;40&br;35&br;&br;50&br;25&br;30&br;28&br;20&br;20&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;24900&br;490&br;1490&br;1490&br;1621&br;630&br;690&br;450&br;280&br;&br;420&br;25&br;340&br;28&br;130&br;130&br;510&br;400&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の半身&br;ルゥと合体することで真の能力を発揮する&br;&br;・[[台詞>PetSpeech/Uru]]&br;・装備中はスキル「ゴー！」が使用可&br;&br;系統：守護魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;くらえ！必殺！&br;せーの！&br;ラウドソング&br;ララバイ&br;クリティカル&br;アタック・バースト&br;リザレクション&br;&br;※以下は南平原NPC「ザナフ」から専用キューブを貰う事で覚える&br;ソリッドオーラ（専）&br;ディフェンス・バースト（専）&br;キュアポイズン（専）&br;ゼン（専）&br;セイクリッドエンブレイス（専）&br;バックラッシュ（専）&br;&br;【入手法】&br;[[2011年イベント「ヒトトセのフシギなたまご」最終章>Quest/Season/MysteriousEggEnd]]の報酬|
+
+***守護魔・ルゥ [#Ruxu]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/Ruxu.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;90&br;90&br;30&br;41&br;50&br;60&br;30&br;35&br;&br;30&br;15&br;50&br;28&br;20&br;10&br;130&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;21350&br;1890&br;1040&br;510&br;571&br;1894&br;2090&br;230&br;245&br;&br;290&br;15&br;430&br;28&br;80&br;70&br;370&br;580&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の半身&br;ウルと合体することで真の能力を発揮する&br;&br;・[[台詞>PetSpeech/Ruxu]]&br;・装備中はスキル「戻れ！」が使用可&br;&br;系統：守護魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ノクシャスブラスト&br;パリィ&br;ソリッドオーラ&br;ディフェンス・バースト&br;マジックバリア&br;リザレクション&br;キュアポイズン&br;&br;※以下は南平原NPC「ザナフ」から専用キューブを貰う事で覚える&br;ララバイ（専）&br;アタック・バースト（専）&br;ゼン（専）&br;セイクリッドエンブレイス（専）&br;バックラッシュ（専）&br;&br;【入手法】&br;[[2011年イベント「ヒトトセのフシギなたまご」最終章>Quest/Season/MysteriousEggEnd]]の報酬|
+
+***守護魔・ウルゥ [#Uruxu]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/Uruxu.jpg,nolink,130x118);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;800&br;100&br;100&br;124&br;125&br;91&br;91&br;87&br;71&br;&br;10&br;25&br;10&br;28&br;10&br;15&br;150&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;30723&br;990&br;990&br;1340&br;1465&br;1450&br;1580&br;420&br;420&br;&br;370&br;25&br;350&br;28&br;121&br;100&br;450&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;新しい年を導くといわれているが&br;その実態は定かではない&br;&br;・[[台詞>PetSpeech/Uruxu]]&br;・装備中はスキル「戻れ！」が使用可&br;・育成によるステータス上昇が無い&br;・レベル、キューブ、成長ポイントはベースになった方を引き継ぐ&br; (ステータスはウルゥのステータスが、チェンジ時に元になったほうのレベルで計算される)&br;・守護魔・ウル、守護魔・ルゥに戻す事も可能&br; (キューブ等もリセットされず、ごきげんは30にリセットされる)&br;・[[無地のネームプレート>http://eco.acronia.net/itemdb/#id=2547]]使用不可(2015/10/03時点)&br;&br;系統：守護魔系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;守護魔・ウル、守護魔・ルゥのうち&br;アイテムチェンジ時に元にしたほうのスキルをそのまま引き継ぐ&br;(ザナフから貰った専用キューブも含む)&br;&br;【入手法】&br;ウルとルゥをアイテムチェンジ|
+
+***守護魔・カナデ [#Kanade]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/Kanade.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;380&br;90&br;90&br;40&br;41&br;50&br;50&br;28&br;30&br;&br;30&br;20&br;35&br;30&br;20&br;20&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;守護魔の一種&br;はるか昔から音楽や歌、歌舞音曲に&br;関わる人々・芸事の守護魔。&br;ただし、代替わりをしており&br;当代はまだ未熟なところがある６代目。&br;&br;・[[台詞>PetSpeech/Kanade]]&br;&br;系統：守護魔系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;リヴァイブ&br;セイクリッドエンブレイス&br;ラウドソング&br;ララバイ&br;エリアヒール&br;応援&br;&br;【入手法】&br;[[6thアニバーサリーメモリアルサウンドトラックCD>Package#f97bc9a7]](期限：2013年12月)|
+
+*コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment

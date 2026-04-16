@@ -1,0 +1,320 @@
+# PetList/Almamonster
+
+#author("2017-04-07T17:39:45+00:00","","")
+#include(Pet/PetMenu,notitle)
+*ペット一覧表 （アルマ・モンスター） [#h19b7b98]
+#contents
+
+パラメーターは、レイアウトの関係で英語表記としています。
+パラメーターの表示順序はゲーム内の説明と同じです。
+初期パラメーターのうち、&color(#a0a0a0){''灰色で表示''};されたものはかつて隠しステータスであり、数値が確定出来ませんでした。確定したもののみ黒で表示に戻してください。
+
+**アルマ・モンスター [#alma]
+-2012年および2013年の通年イベントのキャラクターたちのことである（一部例外あり）
+-2014/7/21以降、チュートリアルのナビゲーターキャラクターに昇格した。
+***ダークフェザー・アルマ [#DarkFeatherAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|~画像|~固有命令スキル&br;習得可能職業|~初期&br;パラメーター|~成長(転生前)((黒は限界値が確定していると思われるパラメーター、灰色はまだ限界値が確定していないと思われるパラメーターです。))|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/DarkFeatherAlma.jpg,nolink,128x192);|-|HP:350&br;ATK:40&br;M.ATK:40&br;DEF:30&br;M.DEF:30&br;S.HIT:30&br;L.HIT:30&br;M.HIT:30&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:20&br;&br;A.SPD:130&br;C.SPD:200&br;C.AVOID:4&br;RCV:120&br;M.RCV:1&br;S.RCV:0|&color(#000006){+600};&br;&color(#000007){+196};&br;&color(#000008){+129};&br;&color(#000009){+111};&br;&color(#000000){+54};&br;&color(#000001){+100};&br;&color(#000002){+70};&br;&color(#000003){+50};&br;&color(#000004){+84};&br;&color(#000005){+45};&br;&color(#000006){+28};&br;&color(#000007){+63};&br;&br;&color(#000000){+200};&br;&color(#000009){+200};&br;&color(#000000){+16};&br;&color(#000001){+120};&br;&color(#000002){+12};&br;&color(#000003){+100};|【説明】&br;アルマの一種&br;ダークフェザーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（むくれる・踏みつけ）がある。&br;[[台詞>PetSpeech/DarkFeatherAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：28&br;&color(#0000FF){(130328変更)};&br;&br;【使用スキル】&br;グリムリーパー&br;デッドリーアタック&br;ダークミスト&br;スタンブロウ&br;ダークウェポン&br;アタックバースト&br;コンセントレート&br;ナッシングネス&br;&br;【入手法】&br;ECOくじ「チェック＆ウィング」&br;スペシャルECOくじ「アルマたちとの絆」|
+
+***バウ・アルマ [#BauAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/BauAlma.jpg,nolink,128x182);|エクスプローラー|HP:400&br;ATK:40&br;M.ATK:30&br;DEF:30&br;M.DEF:30&br;S.HIT:30&br;L.HIT:20&br;M.HIT:20&br;S.AVOID:25&br;L.AVOID:20&br;M.RST:25&br;CRITICAL:20&br;&br;A.SPD:130&br;C.SPD:200&br;C.AVOID:5&br;RCV:120&br;M.RCV:1&br;&color(#000000){S.RCV:0};|&color(#000006){+900};&br;&color(#000007){+200};&br;&color(#000000){+129};&br;&color(#000009){+111};&br;&color(#000007){+54};&br;&color(#000001){+120};&br;&color(#000002){+48};&br;&color(#000000){+50};&br;&color(#000004){+84};&br;&color(#000005){+45};&br;&color(#000006){+28};&br;&color(#000007){+63};&br;&br;&color(#000008){+200};&br;&color(#000009){+200};&br;&color(#000000){+16};&br;&color(#000001){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};|【説明】&br;アルマの一種&br;バウが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（おびえる・じたばた）がある。&br;バウが元になっているためレンジャー系の命令スキルに対応する。&br;[[台詞>PetSpeech/BauAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：15&br;&br;【使用スキル】&br;応援&br;アサルト&br;ワー・クライ&br;コンフュージョンアタック&br;チャージアタック&br;せ～の！&br;ラッシュ&color(#cccccc){(スキル名は表示されない)};&br;&br;【入手法】&br;ECOくじ「もこもこファーコーデ」&br;スペシャルECOくじ「アルマたちとの絆」|
+
+***シャボタン・アルマ [#SyabotanAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/SyabotanAlma.jpg,nolink,128x215);|アルケミスト|HP:380&br;ATK:30&br;M.ATK:40&br;DEF:40&br;M.DEF:35&br;S.HIT:32&br;L.HIT:20&br;M.HIT:35&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:17&br;CRITICAL:20&br;&br;&color(#000000){A.SPD:130};&br;&color(#000000){C.SPD:180};&br;&color(#000000){C.AVOID:4};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1200};&br;&color(#000007){+160};&br;&color(#000000){+180};&br;&color(#000000){+120};&br;&color(#000000){+100};&br;&color(#000001){+130};&br;&color(#000002){+48};&br;&color(#000000){+80};&br;&color(#000000){+84};&br;&color(#000000){+45};&br;&color(#000000){+28};&br;&color(#000007){+63};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+16};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};|【説明】&br;アルマの一種&br;シャボタンが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（照れる・応援）がある。&br;シャボタンが元になっているため&br;ファーマー系の命令スキルに対応する。&br;但し植物系ではないため『ハーヴェストマスター』対象外。&br;[[台詞>PetSpeech/SyabotanAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：15&br;MDEF(%)：28&br;&br;【使用スキル】&br;ヒーリング&br;応援&br;エナジークロウ&br;アタックバースト&br;ディフェンスバースト&br;マジックポイズン&br;マジックスリープ&br;バイタリティダウン&br;ライフスティール&br;&br;【入手法】&br;ECOくじ「萌黄色のゆりかご」&br;スペシャルECOくじ「アルマたちとの絆」|
+
+***ローキー・アルマ [#LowkeyAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/LawkeyAlma.jpg,nolink,128x192);|ストライカー|HP:390&br;ATK:47&br;M.ATK:35&br;DEF:25&br;M.DEF:29&br;S.HIT:40&br;L.HIT:13&br;M.HIT:37&br;S.AVOID:45&br;L.AVOID:18&br;M.RST:26&br;CRITICAL:20&br;&br;&color(#a0a0a8){A.SPD:200};&br;&color(#a0a0a9){C.SPD:200};&br;&color(#a0a0a2){C.AVOID:};&br;&color(#a0a0a3){RCV:120};&br;&color(#a0a0a4){M.RCV:};&br;&color(#a0a0a5){S.RCV:};|&color(#000006){+1550};&br;&color(#000007){+146};&br;&color(#000000){+111};&br;&color(#000009){+106};&br;&color(#000007){+69};&br;&color(#000001){+120};&br;&color(#000002){+38};&br;&color(#000000){+110};&br;&color(#000004){+132};&br;&color(#000005){+54};&br;&color(#000006){+76};&br;&color(#000007){+61};&br;&br;&color(#a0a0a2){+200};&br;&color(#a0a0a9){+200};&br;&color(#a0a0a0){+0};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};|【説明】】&br;アルマの一種&br;ローキーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（変身っ！！・身震い・かばう）がある。&br;ローキーが元になっているため&br;アーチャー系の命令スキルに対応する。&br;但し狼系ではないため『ペイシェントボディ』対象外。&br;[[台詞>PetSpeech/LowkeyAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：25&br;&br;【使用スキル】&br;ラッシュ&color(#cccccc){(スキル名は表示されない)};&br;ヒーリング&br;アタック・バースト&br;ディフェンス・バースト&br;グリッターボディ&br;エンミティーロア&br;レイジアバウト&br;ガオーッ！！&color(#cccccc){(大車輪Lv3)};&br;応援&br;&br;【入手法】&br;ECOくじ「春色御伽草子」&br;スペシャルECOくじ「アルマたちとの絆」|
+
+***バルル・アルマ [#BaruruAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/barurualma00.jpg,nolink,126x216);|-|HP:550&br;ATK:40&br;M.ATK:25&br;DEF:37&br;M.DEF:29&br;S.HIT:40&br;L.HIT:13&br;M.HIT:30&br;S.AVOID:25&br;L.AVOID:18&br;M.RST:26&br;CRITICAL:30&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:4};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000006){+1800};&br;&color(#000007){+126};&br;&color(#000000){+90};&br;&color(#000009){+120};&br;&color(#000007){+50};&br;&color(#000001){+120};&br;&color(#000002){+38};&br;&color(#000000){+110};&br;&color(#000004){+132};&br;&color(#000005){+54};&br;&color(#000006){+76};&br;&color(#000007){+65};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+17};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#a0a0a3){+0};&br;|【説明】】&br;アルマの一種&br;バルルが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（あっかんべー・泣き）がある。&br;座りモーションが２種類（胡坐・体育座り）ある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にExモーション&br;「体育座り」を行うと体育座りのポーズを再現出来る。&br;[[台詞>PetSpeech/BaruruAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：30&br;MDEF(%)：25&br;&br;【使用スキル】&br;スタンアタック&br;足払い&br;アヴォイド・バースト&br;アタック・バースト&br;ガオーッ！！&color(#cccccc){(大車輪Lv3)};&br;&br;【入手法】&br;ECOくじ「ノーティ・スクールガールズ」&br;スペシャルECOくじ「アルマたちとの絆」|
+
+***シーホース・アルマ [#SeahorseAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/SeahorseAlma00.jpg,nolink,128x202);|-|HP:480&br;ATK:45&br;M.ATK:45&br;DEF:30&br;M.DEF:35&br;S.HIT:40&br;L.HIT:15&br;M.HIT:30&br;S.AVOID:30&br;L.AVOID:18&br;M.RST:26&br;CRITICAL:30&br;&br;A.SPD:200&br;C.SPD:200&br;C.AVOID:4&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+1450&br;+140&br;+120&br;+120&br;+90&br;+120&br;+60&br;+115&br;+100&br;+55&br;+76&br;+60&br;&br;+200&br;+200&br;+20&br;+120&br;+12&br;+100&br;|【説明】&br;アルマの一種&br;シーホースが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（つんつん・パージ！・待機（パージ後）・こんらん・謡う・キス）&br;がある。&br;[[台詞>PetSpeech/SeahorseAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：突き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：30&br;&br;【使用スキル】&br;アクアストーム&br;連続攻撃&br;マジックシールド&br;アムラーム&color(#cccccc){(水属性追尾型グローブ)};&br;&br;【入手法】&br;ECOくじ「エピック オブ ロマンス」&br;スペシャルECOくじ「アルマたちとの絆」|
+
+***ペペン・アルマ [#PepenAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/PepenAlma00.jpg,nolink,128x192);|ストライカー|HP:520&br;ATK:15&br;M.ATK:30&br;DEF:20&br;M.DEF:35&br;S.HIT:20&br;L.HIT:20&br;M.HIT:30&br;S.AVOID:20&br;L.AVOID:20&br;M.RST:25&br;CRITICAL:25&br;&br;A.SPD:200&br;C.SPD:200&br;&color(#a0a0a2){C.AVOID:};&br;RCV:150&br;M.RCV:1&br;S.RCV:0|&color(#a0a0a9){+1900};&br;&color(#a0a0a9){+180};&br;&color(#a0a0a9){+190};&br;&color(#a0a0a9){+130};&br;&color(#a0a0a9){+90};&br;&color(#a0a0a9){+145};&br;&color(#a0a0a9){+48};&br;&color(#a0a0a9){+135};&br;&color(#a0a0a9){+160};&br;&color(#a0a0a9){+70};&br;&color(#a0a0a9){+90};&br;&color(#a0a0a9){+72};&br;&br;&color(#a0a0a9){+200};&br;&color(#a0a0a9){+200};&br;&color(#a0a0a0){+12};&br;&color(#a0a0a9){+150};&br;&color(#a0a0a2){+12};&br;&color(#a0a0a3){+100};&br;|【説明】&br;アルマの一種&br;ペペンが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（激励・鼓舞・添い寝・おやつ・脱帽）&br;がある。&br;アーチャー系の命令スキルに対応する。&br;[[台詞>PetSpeech/PepenAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：30&br;&br;【使用スキル】&br;ヒーリング&br;マジックリベレイション&br;アイスアロー&br;ウォータアタック&br;アイスフェード&br;ウォーターバーン&br;ちぇすとーっ！&br;&br;【入手法】&br;ECOくじ「ピング アクアリウム」&br;スペシャルECOくじ「アルマたちとの絆」|
+///////////固有スキル
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|~スキル名称|~必要&br;LV|~必要&br;信頼度|~条件&br;＜対象＞|~目標|~射程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ちぇすとーっ！|1|黒|＜敵＞|単体|1|&color(red){SP30};|リミテイションエッジ Lv4相当？|
+///////////
+
+***サラマンダー・アルマ [#SalamanderAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/SalamanderAlma00.jpg,nolink,128x191);|-|HP:380&br;ATK:35&br;M.ATK:50&br;DEF:25&br;M.DEF:35&br;S.HIT:30&br;L.HIT:50&br;M.HIT:40&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:30&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;C.AVOID:4&br;&color(#000000){RCV:150};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000006){+1500};&br;&color(#000007){+126};&br;&color(#000000){+200};&br;&color(#000009){+106};&br;&color(#000007){+100};&br;&color(#000001){+110};&br;&color(#000002){+80};&br;&color(#000000){+150};&br;&color(#000004){+125};&br;&color(#000005){+60};&br;&color(#000006){+150};&br;&color(#000007){+65};&br;&br;&color(#000008){+200};&br;&color(#000009){+200};&br;&color(#000000){+20};&br;&color(#000000){+150};&br;&color(#000000){+12};&br;&color(#000000){+100};|【説明】&br;アルマの一種&br;サラマンダーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（じたばた・決めポーズっ！・添い寝・くるくるダンス）がある。&br;座りモーションが２種類（胡坐・体育座り）ある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にモーション&br;「リラックス」で添い寝、「体育座り」で体育座りを再現出来る。&br;[[台詞>PetSpeech/SalamanderAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：25&br;&br;【使用スキル】&br;ファイアブラスト&br;ファイアボール&br;ファイアストーム&br;エナジーシールド&br;ちょばばばバーンっ！&color(#cccccc){(火属性フォトンランチャー？)};&br;&br;【入手法】&br;ECOくじ「スカーレット・フレイム」&br;スペシャルECOくじ「アルマたちとの絆」|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ちょばばばバーンっ！|1|黒|＜敵＞|単体|5|&color(blue){MP66};|フォトンランチャーLv2相当だがダメージは敵のM.DEF依存&br;M.ATK依存50％x6回　火属性|
+///////////
+
+***ミニー・ドゥ・アルマ [#MinnieDoAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/MinnieDoAlma00.jpg,nolink,128x192);|-|HP:400&br;ATK:60&br;M.ATK:50&br;DEF:30&br;M.DEF:30&br;S.HIT:35&br;L.HIT:40&br;M.HIT:40&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:30&br;&br;A.SPD:200&br;C.SPD:200&br;C.AVOID:5&br;RCV:150&br;M.RCV:1&br;S.RCV:0|&color(#000000){+1700};&br;&color(#000000){+180};&br;&color(#000000){+160};&br;&color(#000000){+130};&br;&color(#000000){+120};&br;&color(#000000){+120};&br;&color(#000000){+120};&br;&color(#000000){+100};&br;&color(#000000){+100};&br;&color(#000000){+80};&br;&color(#000000){+100};&br;&color(#000000){+70};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+25};&br;&color(#000000){+150};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;ミニー・ドゥが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（おやつ・決めポーズっ!・決めポーズっ!!・決めポーズっ!!!&br;トホホ・ののしり・ありがたいお言葉）がある。&br;座りモーションが２種類（玉に座る・地面に座る）ある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にExモーション&br;「体育座り」を行うと地面に座るポーズを再現出来る。&br;[[台詞>PetSpeech/MinnieDoeAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：20&br;&br;【使用スキル】&br;リヴァイブ&br;エリアヒール&br;ヒーリング&br;ソリッドオーラ&br;ゼン&br;ホーリーライト&br;&br;【入手法】&br;ECOくじ「マッド・ティータイム」&br;スペシャルECOくじ「アルマたちとの絆」|
+
+***白い使い魔・アルマ [#ShiroAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/WhiteFamiliarAlma.jpg,nolink,128x169);|-|HP:370&br;ATK:40&br;M.ATK:40&br;DEF:30&br;M.DEF:30&br;S.HIT:30&br;L.HIT:20&br;M.HIT:30&br;S.AVOID:25&br;L.AVOID:15&br;M.RST:25&br;CRITICAL:30&br;&br;&color(#000000){A.SPD:130};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:5};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1400};&br;&color(#000000){+150};&br;&color(#000000){+160};&br;&color(#000000){+110};&br;&color(#000000){+90};&br;&color(#000000){+120};&br;&color(#000000){+40};&br;&color(#000000){+120};&br;&color(#000000){+110};&br;&color(#000000){+50};&br;&color(#000000){+85};&br;&color(#000000){+65};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+20};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;白い使い魔が&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（抱擁・拒絶・転倒・褒める・おびえる）がある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にモーション&br;「疲れ」で疲れ、「リラックス」で仰向け&br;「こける」で転倒を再現できる。&br;[[台詞>PetSpeech/WhiteFamiliarAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：30&br;&br;【使用スキル】&br;リヴァイブ&br;エリアヒール&br;エナジーシールド&br;ライフスティール&br;ホーリーライト&br;サンクチュアリ&br;サテライトムーン&br;こっちこないで！（範囲吹き飛ばし物理攻撃・確率で混乱（鈍足？）付与）&br;&br;【入手法】&br;ECOくじ「プリティ・サーヴァント！」&br;スペシャルECOくじ「アルマたちとの絆」|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲こっちこないで！|1|黒|＜自分＞|自分&br;中心円|-|&color(red){SP62};|自分を中心とした5x5の範囲に吹き飛ばし＋鈍足&br;ATK依存　見た目はエンジェルリング|
+///////////
+
+***オートメディック・アルマ [#AutoMedicAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/AutoMedicAlma.jpg,nolink,128x217);|-|HP:350&br;ATK:40&br;M.ATK:50&br;DEF:25&br;M.DEF:30&br;S.HIT:35&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:35&br;&br;A.SPD:200&br;C.SPD:200&br;C.AVOID:5&br;RCV:150&br;M.RCV:1&br;S.RCV:0|&color(#000000){+1600};&br;&color(#000000){+200};&br;&color(#000000){+180};&br;&color(#000000){+100};&br;&color(#000000){+70};&br;&color(#000000){+150};&br;&color(#000000){+70};&br;&color(#000000){+150};&br;&color(#000000){+95};&br;&color(#000000){+50};&br;&color(#000000){+70};&br;&color(#000000){+75};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+25};&br;&color(#000000){+150};&br;&color(#000000){+12};&br;&color(#a0a0a0){+0};&br;|【説明】&br;アルマの一種&br;オートメディックが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（メンテナンス・感謝・蔑み・友達・貧血）がある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にモーション&br;「リラックス」で寝そべり、「拍手」で拍手&br;「疲れ」で貧血、「体育座り」で体育座りを行う。&br;[[台詞>PetSpeech/AutoMedicAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：突き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：30&br;&br;【使用スキル】&br;リヴァイブ&br;エリアヒール&br;ファイアウェポン(属性値+30）&br;活動阻害を行う（毒スタン範囲攻撃）&br;ディバインバリア（旧仕様Lv2相当・単体）&br;キュアオール&br;&br;【入手法】&br;ECOくじ「スチームパンク」&br;スペシャルECOくじ「アルマたちとの絆」|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲活動阻害を行う|1|黒|＜敵＞|単体&br;中心円|1|&color(red){SP8};|ATK依存250%。範囲は対象を中心とした5&#10005;5。分散なし。一定確率で対象に毒とスタンを付与。|
+///////////
+
+***デス・アルマ [#DeathAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/DeathAlma.jpg,nolink,128x180);|-|HP:400&br;ATK:65&br;M.ATK:55&br;DEF:50&br;M.DEF:50&br;S.HIT:45&br;L.HIT:25&br;M.HIT:40&br;S.AVOID:30&br;L.AVOID:30&br;M.RST:30&br;CRITICAL:45&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:7};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1200};&br;&color(#000000){+170};&br;&color(#000000){+200};&br;&color(#000000){+100};&br;&color(#000000){+75};&br;&color(#000000){+140};&br;&color(#000000){+50};&br;&color(#000000){+130};&br;&color(#000000){+150};&br;&color(#000000){+40};&br;&color(#000000){+100};&br;&color(#000000){+80};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+25};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;デスが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（高揚・待機（フード無し）・待機（仮面付き）&br;脱帽・説教・いばる・差し伸べる）がある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にモーション&br;「リラックス」で鎌を置いて休む&br;「体育座り」を行うと地面に刺した鎌の上に座る。&br;&br;[[台詞>PetSpeech/DeathAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：斬り&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：25&br;&br;【使用スキル】&br;居合い&br;ブラックウィドウ&br;ナッシングネス&br;刈り取ってやろう&color(#cccccc){(死鎌演舞？）};&br;余の力、分けてやろう（ライフテイクLv1）&br;動かないでもらおう（パペットLv3）&br;&br;【入手法】&br;ECOくじ「ウィキッド・ナイトパレード」&br;スペシャルECOくじ「アルマたちとの絆」|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲刈り取ってやろう|1|黒|＜敵＞|単体&br;中心円|6|&color(blue){MP21};|５×５の闇属性範囲魔法。威力６４０％。|
+|▲余の力、分けてやろう|1|黒|＜自分＞&br;＜主人＞|単体|6|&color(blue){MP20};|物理ダメージの１０％をHPに変換して吸収する。上限値：最大HPの１０％。|
+|▲動かないでもらおう|1|黒|＜敵＞|単体|5|&color(red){SP15};|硬直魔法。効果時間５秒。|
+///////////
+
+***プルル・アルマ [#PururuAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/PururuAlma00.jpg,nolink,127x231);|-|HP:450&br;ATK:35&br;M.ATK:30&br;DEF:25&br;M.DEF:30&br;S.HIT:25&br;L.HIT:25&br;M.HIT:30&br;S.AVOID:30&br;L.AVOID:20&br;M.RST:20&br;CRITICAL:25&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:6};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1600};&br;&color(#000000){+170};&br;&color(#000000){+160};&br;&color(#000000){+120};&br;&color(#000000){+100};&br;&color(#000000){+130};&br;&color(#000000){+50};&br;&color(#000000){+80};&br;&color(#000000){+120};&br;&color(#000000){+60};&br;&color(#000000){+70};&br;&color(#000000){+65};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+18};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;プルルが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（決めポーズっ！・決めポーズっ！！&br;ありがたいお言葉・魔法詠唱！）がある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にモーション&br;「頷く」「喜び」で話す、&br;「体育座り」「シャキーン」で地面に座るポーズを行う。&br;[[台詞>PetSpeech/PururuAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き　種別：人&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：10&br;&br;【使用スキル】&br;リザレクション&br;ヒーリング&br;エリアヒール&br;アタック・バースト&br;ディフェンス・バースト&br;ごめんねっ♪&color(#cccccc){(ルミナリィノヴァ？）};&br;ちょっと黙ってて！(レストスキル)&br;&br;【入手法】&br;アルマたちと絆の樹イベント（2012年）&br;&br;【備考】&br;下記のプルル状態とは違い、こちらはアルマモンスター系のため&br;ハーヴェストマスターは乗らない。|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ごめんねっ♪|1|黒|＜敵＞|単体&br;中心円|6|&color(blue){MP30};|対象を中心とした7x7の範囲に攻撃&br;M.ATK依存　一定確率でフレア状態にする|
+|▲ちょっと黙ってて！|1|黒|＜敵＞|単体|5|&color(red){SP40};|対象を一定時間スキルが使用できない状態にする&br;「スキル封じ」状態付与。成功率低、効果時間約15秒|
+
+///////////
+
+***プルル [#Pururu]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/Pururu.jpg,nolink,126x124);|-|HP:250&br;ATK:20&br;M.ATK:20&br;DEF:15&br;M.DEF:15&br;S.HIT:30&br;L.HIT:25&br;M.HIT:30&br;S.AVOID:20&br;L.AVOID:20&br;M.RST:20&br;CRITICAL:20&br;&br;&color(#000000){A.SPD:170};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:5};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1025};&br;&color(#000000){+102};&br;&color(#000000){+95};&br;&color(#000000){+72};&br;&color(#000000){+65};&br;&color(#000000){+77};&br;&color(#000000){+37};&br;&color(#000000){+55};&br;&color(#000000){+75};&br;&color(#000000){+40};&br;&color(#000000){+45};&br;&color(#000000){+45};&br;&br;&color(#a0a0a0){+};&br;&color(#a0a0a0){+};&br;&color(#000000){+12};&br;&color(#000000){+120};&br;&color(#000000){+6};&br;&color(#a0a0a0){+};|【説明】&br;冒険者の戦いをサポートする&br;プルル（ぷるぷる）&br;&br;【ユニオン時】&br;系統：植物系　攻撃タイプ：叩き　種別：植&br;MP：30&br;SP：30&br;DEF(%)：10&br;MDEF(%)：10&br;&br;【使用スキル】&br;リザレクション&br;ヒーリング&br;エリアヒール&br;アタック・バースト&br;ディフェンス・バースト&br;ごめんねっ♪&color(#cccccc){(ルミナリィノヴァ？）};&br;ちょっと黙ってて！(レストスキル)&br;&br;【入手法】&br;アルマたちと絆の樹イベント（2012年）&br;プルル・アルマのアイテム詳細ウィンドウの「change」ボタンで入れ替わる。&br;&br;【備考】&br;プルル・アルマのステータス値の半分が補正になり、&br;プルルの状態では育成によるステータス上昇はない。&br;プルル状態は植物系のため、ハーヴェストマスターが乗る。&br;（しかし生きている植物とは言い難いのかプラントヒーリング等には反応しない）|
+
+***タイニー・アルマ [#TinyAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/TinyAlma.jpg,nolink,128x199);|-|HP:380&br;ATK:30&br;M.ATK:30&br;DEF:25&br;M.DEF:25&br;S.HIT:30&br;L.HIT:30&br;M.HIT:100&br;S.AVOID:25&br;L.AVOID:30&br;M.RST:0&br;CRITICAL:30&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:5};&br;&color(#000000){RCV:100};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1750};&br;&color(#000000){+130};&br;&color(#000000){+200};&br;&color(#000000){+125};&br;&color(#000000){+125};&br;&color(#000000){+130};&br;&color(#000000){+50};&br;&color(#000000){+150};&br;&color(#000000){+160};&br;&color(#000000){+45};&br;&color(#000000){+130};&br;&color(#000000){+60};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+30};&br;&color(#000000){+150};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;タイニーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（脱帽・まほうつかい・かなしい・えいえいおー！）&br;がある。&br;[[台詞>PetSpeech/TinyAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：25&br;&br;【使用スキル】&br;ヒーリング&br;エリアヒール&br;ポケポケ&br;アタック・バースト&br;ディフェンス・バースト&br;せ～の！&br;&br;【入手法】&br;7thアニバーサリーソングCD「生命の樹」初回生産分特典|
+
+***ダンプティー・アルマ [#DumptyAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/DumptyAlma.jpg,nolink,128x178);|-|HP:380&br;ATK:30&br;M.ATK:30&br;DEF:25&br;M.DEF:25&br;S.HIT:30&br;L.HIT:30&br;M.HIT:100&br;S.AVOID:25&br;L.AVOID:30&br;M.RST:0&br;CRITICAL:30&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:5};&br;&color(#000000){RCV:100};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1800};&br;&color(#000000){+200};&br;&color(#000000){+150};&br;&color(#000000){+125};&br;&color(#000000){+125};&br;&color(#000000){+150};&br;&color(#000000){+60};&br;&color(#000000){+120};&br;&color(#000000){+170};&br;&color(#000000){+50};&br;&color(#000000){+120};&br;&color(#000000){+65};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+25};&br;&color(#000000){+150};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;ダンプティーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（はずかしい・おやつ・かなしい・つんつん）&br;がある。&br;[[台詞>PetSpeech/DumptyAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：25&br;&br;【使用スキル】&br;ヒーリング&br;エリアヒール&br;ポケポケ&br;アタック・バースト&br;ディフェンス・バースト&br;ガオーッ！！&br;&br;【入手法】&br;7thアニバーサリー オフィシャルデザインワークス 特典|
+
+***エンジェルフェザー・アルマ [#AngelFeatherAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/AngelFeatherAlma.jpg,nolink,128x199);|-|HP:350&br;ATK:40&br;M.ATK:55&br;DEF:25&br;M.DEF:30&br;S.HIT:35&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:35&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:5};&br;&color(#000000){RCV:150};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1500};&br;&color(#000000){+125};&br;&color(#000000){+180};&br;&color(#000000){+100};&br;&color(#000000){+100};&br;&color(#000000){+140};&br;&color(#000000){+50};&br;&color(#000000){+130};&br;&color(#000000){+160};&br;&color(#000000){+45};&br;&color(#000000){+120};&br;&color(#000000){+60};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+25};&br;&color(#000000){+140};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;エンジェルフェザーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（体育座り・うっとり・さびしい・むうう！・お祈り・掲げる・&br;しゃがむ・くるん！・決めポーズ！）&br;がある。&br;[[台詞>PetSpeech/AngelFeatherAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：30&br;&br;【使用スキル】&br;ホーリーライト&br;ラウズボディ&br;リザレクション&br;マーベリック&br;エンジェルリング&br;サルベイション(対象:単体 回復量は△アレスの6割程度)&br;&br;【入手法】&br;ECOくじ「ブランシュ・プチ・アンジュ」|
+
+***モーモー・アルマ [#MouMouAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/MomoAlma.jpg,nolink,128x213);|-|HP:900&br;ATK:55&br;M.ATK:20&br;DEF:25&br;M.DEF:25&br;S.HIT:30&br;L.HIT:20&br;M.HIT:40&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:10&br;&br;A.SPD:200&br;C.SPD:200&br;C.AVOID:4&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+2900&br;&color(#000000){+150};&br;&color(#000000){+100};&br;&color(#000000){+160};&br;&color(#000000){+155};&br;&color(#000000){+110};&br;&color(#000000){+60};&br;&color(#000000){+150};&br;&color(#000000){+125};&br;&color(#000000){+60};&br;&color(#000000){+80};&br;&color(#000000){+65};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+20};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;モーモーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（リラックス・ため息・心配・苦悩・行儀良く・&br;一気に・先輩に教わりました）&br;がある。&br;[[台詞>PetSpeech/MouMouAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90 &br;SP：90 &br;DEF(%)：20 &br;MDEF(%)：10 &br;&br;【使用スキル】&br;スタンブロウ&br;ワー・クライ&br;クリティカル&br;デッドリーアタック&br;ヒーリング&br;アースクラッシュ &br;&br;【入手法】&br;ECOくじ「カントリー・カウガール」|
+
+***ネクロアーマー・アルマ [#NecroArmorAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/NecroArmorAlma.jpg,nolink,128x192);|-|HP:600&br;ATK:65&br;M.ATK:10&br;DEF:15&br;M.DEF:20&br;S.HIT:40&br;L.HIT:30&br;M.HIT:40&br;S.AVOID:5&br;L.AVOID:5&br;M.RST:5&br;CRITICAL:20&br;&br;&color(#000000){A.SPD:200 };&br;&color(#000000){C.SPD:200 };&br;&color(#a0a0a2){C.AVOID: };&br;&color(#000000){RCV:120};&br;&color(#a0a0a4){M.RCV:0};&br;&color(#a0a0a5){S.RCV:0};|+2600&br;&color(#000000){+190};&br;&color(#000000){+90};&br;&color(#000000){+145};&br;&color(#000000){+100};&br;&color(#000000){+140};&br;&color(#000000){+80};&br;&color(#000000){+170};&br;&color(#000000){+100};&br;&color(#000000){+40};&br;&color(#000000){+60};&br;&color(#000000){+70};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#a0a0a0){+ };&br;&color(#000000){+120};&br;&color(#a0a0a0){+ };&br;&color(#a0a0a0){+ };&br;|【説明】&br;アルマの一種&br;ネクロアーマーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（や。・ぺろり・やれやれ・戦意・ふうん…・ひとやすみ１・&br;ひとやすみ２・忠誠）&br;がある。&br;[[台詞>PetSpeech/NecroArmorAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：斬り&br;MP：90 &br;SP：90 &br;DEF(%)：30 &br;MDEF(%)：20 &br;&br;【使用スキル】&br;ハイパーチャージ（6セル分吹き飛ばす）&br;ストライクブロウ（PC同名スキルとは若干ディレイや射程が異なる）&br;シールドインパクト（PC同名スキルと違い単体を中心にした円に一定確率で鈍足効果）&br;スタンアタック&br;居合い&br;エナジーバリア&br;&br;【入手法】&br;ECOくじ「黒鉄の騎士団」|
+//色合いや模様は「デスブリンガー」ですよね…
+
+***アンブレラ・アルマ [#UmbrellaAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/UmbrellaAlma.jpg,nolink,128x199);|-|HP:500&br;ATK:50&br;M.ATK:45&br;DEF:35&br;M.DEF:40&br;S.HIT:30&br;L.HIT:35&br;M.HIT:40&br;S.AVOID:15&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:25&br;&br;&color(#000000){A.SPD:200 };&br;&color(#000000){C.SPD:200 };&br;&color(#a0a0a2){C.AVOID:5 };&br;&color(#000000){RCV:140};&br;&color(#a0a0a4){M.RCV:0};&br;&color(#a0a0a5){S.RCV:0};|+2100&br;&color(#000000){+150};&br;&color(#000000){+150};&br;&color(#000000){+150};&br;&color(#000000){+160};&br;&color(#000000){+125};&br;&color(#000000){+80};&br;&color(#000000){+160};&br;&color(#000000){+110};&br;&color(#000000){+50};&br;&color(#000000){+70};&br;&color(#000000){+60};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#a0a0a0){+25};&br;&color(#000000){+130};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;アンブレラが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（むすっ・はああ・ぺたん・くるん！・いじけ・ん～・ポーズ！）&br;がある。&br;[[台詞>PetSpeech/UmbrellaAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90 &br;SP：90 &br;DEF(%)：20 &br;MDEF(%)：20 &br;&br;【使用スキル】&br;ヒーリング&br;急所攻撃&br;マジックシールド&br;ララバイ&br;ヤケドしないでね！&color(#cccccc){(火属性フォトンランチャー？)};&br;メデューサスキン&br;&br;【入手法】&br;ECOくじ「スイートフレンチ＆クラシック」|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ヤケドしないでね！|1|黒|＜敵＞|単体|5|&color(blue){MP66};|フォトンランチャーLv2相当だがダメージは敵のM.DEF依存&br;M.ATK依存50％x6回　火属性|
+///////////
+
+***ココッコー・アルマ [#KokokoAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/KokokoAlma.jpg,nolink,128x199);|-|HP:400&br;ATK:40&br;M.ATK:55&br;DEF:15&br;M.DEF:25&br;S.HIT:40&br;L.HIT:30&br;M.HIT:35&br;S.AVOID:35&br;L.AVOID:25&br;M.RST:25&br;CRITICAL:15&br;&br;&color(#000000){A.SPD:200};&br;&color(#000000){C.SPD:200};&br;&color(#000000){C.AVOID:5};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+2300};&br;&color(#000000){+220};&br;&color(#000000){+140};&br;&color(#000000){+100};&br;&color(#000000){+100};&br;&color(#000000){+140};&br;&color(#000000){+100};&br;&color(#000000){+150};&br;&color(#000000){+150};&br;&color(#000000){+130};&br;&color(#000000){+140};&br;&color(#000000){+40};&br;&br;&color(#000003){+200};&br;&color(#000004){+200};&br;&color(#000000){+30};&br;&color(#000006){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;ココッコーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（何かを伝えたい・ご機嫌・ぼー&br;お近づき・おともだち・つんつん・汗・休眠中）&br;がある。&br;[[台詞>PetSpeech/KokokoAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90 &br;SP：90 &br;DEF(%)：20 &br;MDEF(%)：25 &br;&br;【使用スキル】&br;ぴいにもできること、やる！（エリアヒール）&br;こわい……っ おなかいたいぃ&color(#a0a0a0){（リミテイションエッジ？）};&br;ピ？&color(#a0a0a0){（自分中心混乱）};&br;こわいのこないでえ……！&color(#a0a0a0){（自分中心物理攻撃、確率で混乱）};&br;応援&br;&br;【入手法】&br;ECOくじ「ぴよぴよぴくにっく」|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ぴいにもできること、やる！|1|黒|＜自分＞&br;＜主人＞|単体&br;中心円|5|&color(blue){MP12};|対象とその周辺3x3のキャラクターのHPを回復させる|
+|▲こわい……っ おなかいたいぃ|1|黒|＜敵＞|単体|1|&color(red){SP30};|？|
+|▲ピ？|1|黒|＜自分＞|自分&br;中心円|-|&color(blue){MP15};|自分を中心とした範囲5x5に混乱|
+|▲こわいのこないでえ……！|1|黒|＜自分＞|自分&br;中心円|-|&color(red){SP62};|自分を中心とした5x5の範囲に吹き飛ばし＋混乱&br;ATK依存　見た目はエンジェルリング|
+///////////
+
+***タランチュラ・アルマ [#TarantulaAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/TarantulaAlma.jpg,nolink,128x199);|-|HP:500&br;ATK:65&br;M.ATK:50&br;DEF:25&br;M.DEF:35&br;S.HIT:40&br;L.HIT:30&br;M.HIT:40&br;S.AVOID:20&br;L.AVOID:20&br;M.RST:20&br;CRITICAL:15&br;&br;&color(#000000){A.SPD:150};&br;&color(#000000){C.SPD:130};&br;&color(#000000){C.AVOID:4};&br;&color(#000000){RCV:120};&br;&color(#000000){M.RCV:1};&br;&color(#000000){S.RCV:0};|&color(#000000){+1000};&br;&color(#000000){+175};&br;&color(#000000){+160};&br;&color(#000000){+100};&br;&color(#000000){+110};&br;&color(#000000){+140};&br;&color(#000000){+90};&br;&color(#000000){+200};&br;&color(#000000){+80};&br;&color(#000000){+40};&br;&color(#000000){+45};&br;&color(#000000){+45};&br;&br;&color(#000000){+200};&br;&color(#000000){+200};&br;&color(#000000){+20};&br;&color(#000000){+120};&br;&color(#000000){+12};&br;&color(#000000){+100};&br;|【説明】&br;アルマの一種&br;タランチュラが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（照れ・ぺこり・やめてっ！・うぅっ・任せて！&br;守る・おとぼけ）がある。&br;[[台詞>PetSpeech/TarantulaAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：突き&br;MP：90 &br;SP：90 &br;DEF(%)：25 &br;MDEF(%)：25 &br;&br;【使用スキル】&br;じっとしてなさい！&color(#a0a0a0){（マーレシスシャドウ？）};&br;これでもくらいなさい！（ヴェノムブラスト）&br;私が咬むと痛いのよ？（リミテイションエッジ）&br;あなたの援護は私がするわ&color(#a0a0a0){（マジックバリア？）};&br;私が行きます！&color(#a0a0a0){（10回連続攻撃）};&br;&br;【入手法】&br;ECOくじ「スパイダー＆パンキッシュ」|
+///////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲じっとしてなさい！|1|黒|＜敵＞|単体&br;中心円|5|&color(red){SP26};|単体指定3x3範囲攻撃＋硬直&br;ATK依存200％|
+|▲これでもくらいなさい！|1|黒|＜敵＞|単体|1|&color(red){SP20};|ATK依存　初撃260％、追撃150％（5x5範囲攻撃）&br;追撃に毒・沈黙・鈍足・スタンの状態異常あり|
+|▲私が咬むと痛いのよ？|1|黒|＜敵＞|単体|1|&color(red){SP30};||
+|▲あなたの援護は私がするわ|1|黒|＜自分＞|自分&br;中心円|-|&color(blue){MP39};|魔法防御アップ　効果時間420秒&br;M.DEF12-10上昇　範囲内の憑依者にも効果あり|
+|▲私がいきます！|1|黒|＜敵＞|単体|1|&color(red){SP70};|ATK依存120％x10回連続攻撃|
+///////////
+
+
+***ベア・アルマ [#BearAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/BearAlma.jpg,nolink,128x199);|-|HP:650&br;ATK:70&br;M.ATK:50&br;DEF:35&br;M.DEF:20&br;S.HIT:35&br;L.HIT:25&br;M.HIT:35&br;S.AVOID:25&br;L.AVOID:20&br;M.RST:10&br;CRITICAL:20&br;&br;A.SPD:160&br;C.SPD:130&br;C.AVOID:4&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+2800&br;+200&br;+160&br;+100&br;+90&br;+120&br;+100&br;+200&br;+70&br;+50&br;+30&br;+45&br;&br;+200&br;+200&br;+25&br;+120&br;+12&br;+100|【説明】&br;アルマの一種&br;ベアが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（あこがれる・不機嫌・ぼうしをとる・だっこして？）&br;がある。&br;[[台詞>PetSpeech/Alma/BearAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：20&br;&br;【使用スキル】&br;スタンアタック&br;ウィンドアタック&br;ふしゃーっ！（怒）&br;おこったぞ！（グラヴィティ＋鈍足効果付与）&br;さてはおまえばかだな！（自分中心範囲に挑発）&br;&br;【入手法】&br;ECOくじ「ふぁん☆ふぁん　ファンフェアー！」|
+/////////固有スキル
+//|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ふしゃーっ！|1|黒|＜自分＞|自分|-|&color(red){SP20};|自身をバーサーク状態にする|
+|▲おこったぞ！|1|黒|＜？＞|自分&br;中心円|-|&color(red){SP62};|自分の周囲に重力場を発生させながら武器を振り回し、自分の周囲を攻撃する&br;確率により受けた対象は鈍足状態になる|
+|▲さてはおまえばかだな！|1|黒|＜？＞|自分&br;中心円|-|&color(red){SP4};|広範囲の相手を挑発し、相手のターゲットを自分に変えることができる|
+/////////
+
+***フライフィッシュ・アルマ [#FlyFishAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/FlyFishAlma.jpg,nolink,128x216);|-|HP:500&br;ATK:50&br;M.ATK:45&br;DEF:45&br;M.DEF:25&br;S.HIT:40&br;L.HIT:35&br;M.HIT:40&br;S.AVOID:15&br;L.AVOID:15&br;M.RST:15&br;CRITICAL:15&br;&br;C.AVOID:4&br;A.SPD:150&br;C.SPD:130&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+2500&br;+175&br;+160&br;+140&br;+100&br;+120&br;+90&br;+200&br;+90&br;+70&br;+70&br;50&br;&br;+16&br;+200&br;+200&br;+120&br;+12&br;+100|【説明】&br;アルマの一種&br;フライフィッシュが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（うとうと・えいえいおーだよ！・ひとりあそび&br;あまえんぼ・照れ・おすわり）がある。&br;メタモルフォーゼ時、課金モーション「体育座り」で「おすわり」と同じポーズをとる。&br;[[台詞>PetSpeech/Alma/FlyFishAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：20&br;&br;【使用スキル】&br;エリアヒール&br;ラウズボディ&br;ダーリン、さがっててねー！&br;お仕置きだよー！&br;おやすみー♪&br;せーのっ♪&br;動いちゃだめだよー！&br;&br;【入手法】&br;ECOくじ「夏色の放課後」|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ダーリン、さがっててねー！|1|黒|＜？＞|単体|1|&color(red){SP30};|守りを考えず全力で攻撃し防御力を無効化する一撃を与える|
+|▲お仕置きだよー！|1|黒|＜？＞|自分&br;中心円|-|&color(blue){MP18};|対象に水属性魔法攻撃をする|
+|▲おやすみー♪|1|黒|＜？＞|単体|1|&color(blue){MP15};|対象を睡眠状態にする攻撃をする|
+|▲せーのっ♪|1|黒|＜？＞|自分&br;中心円|-|&color(red){SP8};&br;&color(blue){MP8};|魔力を爆発させ攻撃して弾き飛ばしスタン判定を与える|
+|▲動いちゃだめだよー！|1|黒|＜？＞|単体|1|&color(blue){MP15};|対象を氷状態にする攻撃をする |
+///////
+
+
+***テンタクル・アルマ [#TentacleAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/TentacleAlma.jpg,nolink,128x199);|-|HP:450&br;ATK:50&br;M.ATK:45&br;DEF:45&br;M.DEF:30&br;S.HIT:40&br;L.HIT:35&br;M.HIT:40&br;S.AVOID:15&br;L.AVOID:15&br;M.RST:15&br;CRITICAL:30&br;C.AVOID:4&br;&br;A.SPD:150&br;C.SPD:150&br;RCV:130&br;M.RCV:1&br;S.RCV:0|+2600&br;+160&br;+160&br;+140&br;+120&br;+120&br;+100&br;+200&br;+100&br;+100&br;+100&br;+50&br;+16&br;&br;+200&br;+200&br;+130&br;+12&br;+100|【説明】&br;アルマの一種&br;テンタクルが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（ふりふり・うふふふっ・ぺろり♪・くるん・ぺこり・ゆらり）がある。&br;[[台詞>PetSpeech/Alma/TentacleAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：突き&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：25&br;&br;【使用スキル】&br;お料理、お料理っふふふ&br;いい食材になりそう♪&br;塩を塗りこんであげます♪&br;食べてください！！&br;ご主人様、栄養を♪&br;&br;【入手法】&br;ECOくじ「ドキドキ・クッキング！」|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲お料理、お料理っふふふ|1|黒|＜敵＞|単体|1|&color(red){SP50};|連続した命中率の高い突き攻撃を行う&br;ATK依存150％x4回|
+|▲いい食材になりそう♪|1|黒|＜敵＞|単体&br;中心円|6|&color(blue){MP15};|対象の範囲に火焔攻撃を行う|
+|▲塩を塗りこんであげます♪|1|黒|＜敵＞|単体|1|&color(red){SP15};|対象を鈍足状態にする攻撃をする|
+|▲食べてください！！|1|黒|＜敵＞|単体|1|&color(red){SP15};|対象をスタン状態にする攻撃をする|
+|▲ご主人様、栄養を♪|1|黒|＜＞|単体|5|&color(blue){MP12};|基本的な状態異常をすべて一定確率で回復する|
+///////
+
+
+***マミー・アルマ [#MummyAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/MummyAlma.jpg,nolink,128x195);|-|HP:350&br;ATK:43&br;M.ATK:60&br;DEF:15&br;M.DEF:30&br;S.HIT:30&br;L.HIT:23&br;M.HIT:60&br;S.AVOID:15&br;L.AVOID:13&br;M.RST:25&br;CRITICAL:10&br;C.AVOID:4&br;&br;A.SPD:150&br;C.SPD:200&br;RCV:140&br;M.RCV:1&br;S.RCV:0|+1800&br;+120&br;+200&br;+95&br;+150&br;+120&br;+80&br;+210&br;+100&br;+60&br;+140&br;+20&br;+40&br;&br;+200&br;+200&br;+140&br;+12&br;+100|【説明】&br;アルマの一種&br;マミーが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（したがえ・しょうがないな・そっぽ・パン・&br;愛情表現・ひとみしり・さみしい）がある。&br;[[台詞>PetSpeech/Alma/MummyAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：22&br;MDEF(%)：25&br;&br;【使用スキル】&br;マミに近寄らないで&br;くさい、きたない&br;こっちくるな&br;……きもちわるい&br;マミの包帯わけてあげる。&br;&br;【入手法】&br;ECOくじ「ローズウィッチ・ハロウィーン」|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲マミに近寄らないで|1|黒|＜自分＞|自分&br;中心円|-|&color(red){SP62};|自分の周囲に重力場を発生させ、自分の周囲を攻撃する&br;確率により受けた対象は毒状態になる|
+|▲くさい、きたない|1|黒|＜敵＞|単体|1|&color(red){SP30};|守りを考えず全力で切りかかり&br;防御を無効化する一撃を与える|
+|▲こっちくるな|1|黒|＜自分＞|自分&br;中心円|-|&color(blue){MP15};|自身とその周囲を対象として防御力を上昇させる|
+|▲……きもちわるい|1|黒|＜敵＞|単体|6|&color(blue){MP18};|敵に闇の力を持つ魔法攻撃を行う&br;一定確率で持続ダメージを与える|
+|▲マミの包帯わけてあげる。|1|黒|＜主人＞&br;＜自分＞&br;＜仲間＞|単体|5|&color(blue){MP6};|対象のHPを回復する|
+///////
+
+
+***ドラッキー・アルマ [#DrackyAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/DrackyAlma.jpg,nolink,128x188);|-|HP:400&br;ATK:45&br;M.ATK:50&br;DEF:30&br;M.DEF:20&br;S.HIT:50&br;L.HIT:30&br;M.HIT:35&br;S.AVOID:30&br;L.AVOID:30&br;M.RST:35&br;CRITICAL:35&br;C.AVOID:4&br;&br;A.SPD:160&br;C.SPD:200&br;RCV:125&br;M.RCV:1&br;S.RCV:0|+2100&br;+155&br;+125&br;+125&br;+140&br;+150&br;+110&br;+200&br;+130&br;+120&br;+110&br;+60&br;+20&br;&br;+200&br;+200&br;+120&br;+12&br;+100|【説明】&br;アルマの一種&br;ドラッキーが人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（照れる・泣く・戸惑う・手を振る・「真・旋風剣」）がある。&br;[[台詞>PetSpeech/Alma/DrackyAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：斬り&br;MP：90&br;SP：90&br;DEF(%)：25&br;MDEF(%)：20&br;&br;【使用スキル】&br;真・旋風剣！&br;忍法・影縫いの術！&br;疾風の如く！&br;みね打ち&br;足払い&br;&br;【入手法】&br;ECOくじ「大正レトロモダニズム」|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲真・旋風剣！|1|黒|＜自分＞|自分&br;中心円|?|&color(red){SP62};|自分の周囲に攻撃&br;一定確率で対象を鈍足にする|
+|▲忍法・影縫いの術！|1|黒|＜自分＞|自分&br;中心円|9|&color(red){SP16};&br;&color(blue){MP4};|相手を拘束する&br;範囲内の対象を硬直させる|
+|▲疾風の如く！|1|黒|＜自分＞|自分|?|&color(red){SP9};&br;&color(blue){MP3};|一定時間近距離回避率を上昇させる（表示は遠距離のバグあり）|
+///////
+
+***ダークフェザー・アルマ（BABY）[#DarkFeatherBABY]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/DFarumaBABY.png,nolink,128x173);|-|HP:350&br;ATK:40&br;M.ATK:40&br;DEF:30&br;M.DEF:30&br;S.HIT:30&br;L.HIT:30&br;M.HIT:30&br;S.AVOID:20&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:20&br;&br;A.SPD:130&br;C.SPD:200&br;C.AVOID:4&br;RCV:120&br;M.RCV:1&br;S.RCV:0|&color(#000006){+600};&br;&color(#000007){+196};&br;&color(#000008){+129};&br;&color(#000009){+111};&br;&color(#000000){+54};&br;&color(#000001){+100};&br;&color(#000002){+70};&br;&color(#000003){+50};&br;&color(#000004){+84};&br;&color(#000005){+45};&br;&color(#000006){+28};&br;&color(#000007){+63};&br;&br;&color(#000000){+200};&br;&color(#000009){+200};&br;&color(#000000){+16};&br;&color(#000001){+120};&br;&color(#000002){+12};&br;&color(#000003){+100};|【説明】&br;アルマの一種&br;ダークフェザーが&br;人になった姿と言われているが&br;その実態は定かではない&br;上品なBABYのアイテムを&br;コーディネートしている&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（むくれる・踏みつけ）がある。&br;[[台詞>PetSpeech/DarkFeatherAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：28&br;&br;【使用スキル】&br;グリムリーパー&br;デッドリーアタック&br;ダークミスト&br;ソリッドオーラ&br;ダークウェポン&br;エリアヒール&br;コンセントレート&br;ナッシングネス&br;&br;【入手法】&br;ECOくじ「BABY, THE STARS SHINE BRIGHT」＆「ALICE and the PIRATES」|
+
+***ブーフ・アルマ [#BuchAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/BuchAlma.jpg,nolink,128x239);|-|HP:300&br;ATK:15&br;M.ATK:80&br;DEF:25&br;M.DEF:25&br;S.HIT:15&br;L.HIT:15&br;M.HIT:80&br;S.AVOID:10&br;L.AVOID:10&br;M.RST:10&br;CRITICAL:30&br;C.AVOID:4&br;&br;A.SPD:200&br;C.SPD:200&br;RCV:120&br;M.RCV:1&br;S.RCV:0|+1500&br;+50&br;+230&br;+90&br;+130&br;+100&br;+30&br;+220&br;+70&br;+40&br;+150&br;+50&br;+20&br;&br;+200&br;+200&br;+120&br;+12&br;+100|【説明】&br;アルマの一種&br;ブーフが&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（おはなし・ぷかぷか・すやすや・あいさつ・あくしゅ♪・おねがいね）がある。&br;[[台詞>PetSpeech/Alma/BuchAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩き&br;MP：90&br;SP：90&br;DEF(%)：10&br;MDEF(%)：15&br;&br;【使用スキル】&br;えいっ♪（エナジーバーン）&br;キミの力になれてるかな？（ヒール）&br;キミのことは、私が守る！（新生魔法ウィンドエクスプロージョンLv1相当）&br;ごめんネ、じっとしてて！（フォトンランチャーLv1相当）&br;動いちゃ、だめ♪（ディビリテイトLv3相当、必中）&br;&br;【入手法】&br;ECOくじ「記憶の図書館」|
+/////////固有スキル
+////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲えいっ♪|1|黒|＜敵＞|単体|6|&color(blue){MP35};|対象に着弾後爆破するエナジー攻撃を行う|
+|▲キミの力になれてるかな？|1|黒|＜自分＞&br;＜主人＞&br;＜仲間＞|単体|5|&color(blue){MP7};|対象のHPを回復する|
+|▲キミのことは、私が守る！|1|黒|＜敵＞|範囲円|6|&color(blue){MP120};|新生属性の範囲攻撃魔法|
+|▲ごめんネ、じっとしてて！|1|黒|＜敵＞|単体|4|&color(blue){MP66};|一発の威力は小さいが、HIT数が多い物理攻撃魔法|
+|▲動いちゃ、だめ♪|1|黒|＜敵＞|単体|3|&color(blue){MP10};|対象の体力を減少させ&br;物理攻撃力、近距離回避力、&br;物理防御力を低下させる|
+
+***タイニーゼロ / タイニーゼロ・アルマ / タイニーゼロ・アルマ＋[#TinyzeroAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/TinyZero.jpg,nolink,127x127);&br;&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Almamonster/tinyzero_alma.jpg,nolink,128x199);&br;&ref(http://eco.acronia.net/img/wiki/PetList/Almamonster/tinyzero_alma_p.jpg,nolink,128x199);|-|HP:350&br;ATK:27&br;M.ATK:26&br;DEF:30&br;M.DEF:23&br;S.HIT:35&br;L.HIT:35&br;M.HIT:？&br;S.AVOID:20&br;L.AVOID:25&br;M.RST:？&br;CRITICAL:？&br;C.AVOID:？&br;&br;A.SPD:200&br;C.SPD:200&br;RCV:？&br;M.RCV:？&br;S.RCV:？|+HP&br;+ATK&br;+MATK&br;+DEF&br;+MDEF&br;+S.HIT&br;+L.HIT&br;+M.HIT&br;+S.A&br;+L.A&br;+M.RST&br;+CRI&br;+C.A&br;&br;+A.SPD&br;+C.SPD&br;+RCV&br;+M.RCV&br;+S.RCV|【説明】&br;冒険に憧れるタイニー&br;実は人間のような姿に&br;変身できる個体がいるとか……？（タイニーゼロ）&br;&br;アルマの一種&br;タイニー・アルマとは姿が違うが&br;こちらもタイニーが人になった姿と言われている&br;しかし、その実態は定かではない（タイニーゼロ・アルマ)&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（ダンス・考える・君に憑依っ☆・動揺する・み～つけた！・決めポーズ）がある。&br;[[台詞>PetSpeech/Alma/TinyZeroAlma]]&br;&br;【ユニオン時】&br;系統：タイニー系(タイニーゼロ)&br;　　　アルマモンスター系(タイニーゼロ・アルマ　タイニーゼロ・アルマ＋)&br;種別：動(タイニーゼロ)&br;　　　人(タイニーゼロ・アルマ　タイニーゼロ・アルマ＋)&br;攻撃タイプ：叩&br;MP：80&br;SP：80&br;DEF(%)：18&br;MDEF(%)：23&br;&br;【使用スキル】&br;ポケポケしちゃえ？！(ポケポケ)&br;スピードボーナスたーいむ！(ディレイキャンセル)&br;マジックボーナスたーいむ！(ゼン)&br;ふひひ、力が入らないでしょう？？(ディビリテイト)&br;ほーら！回復だよー！(エリアヒール)&br;まだまだ！冒険はこれからだよ！(リザレクション)&br;そーれっ！(リミテイションエッジ)&br;まだっ……！戦えるから！(リヴァイブ)&br;全てを打ち消す必殺奥義！(イクスパンジアーム)&br;&br;【入手法】&br;[[チュートリアルイベント>Event/Nheartful#newtutorial]]&br;・ゼロ：チュートリアル&br;・アルマ：ゼロが変化。チュートリアル（パートナーLv50以上）&br;・アルマ＋：アルマをパートナー転生で変化|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ポケポケしちゃえ？！|1|黒|＜敵＞|単体|1|&color(red){SP10};&br;&color(blue){MP10};|対象をすごい萎えさせる（？）|
+|▲スピードボーナスたーいむ！|1|黒|＜自分＞&br;＜主人＞|単体|6|&color(red){SP8};|一定時間、攻撃後に素早く&br;次の行動に移ることが出来る|
+|▲マジックボーナスたーいむ！|1|黒|＜自分＞&br;＜主人＞|単体|1|&color(blue){MP10};|通常よりＭＰを多く使用&br;魔法効果アップ|
+|▲ふひひ、力が入らないでしょ？？|1|黒|＜敵＞|単体|3|&color(blue){MP10};|対象の体力を減少させ&br;物理攻撃力、近距離回避力、&br;物理防御力を低下させる|
+|▲ほーら！回復だよー！|1|黒|＜自分＞|自分&br;中心円|-|&color(blue){MP12};|自身とその周囲の対象を回復させる|
+|▲まだまだ！冒険はこれからだよ！|1|黒|＜主人＞|単体|5|&color(blue){MP40};|行動不能になった対象を蘇らせる|
+|▲そーれっ！|1|黒|＜敵＞|単体|1|&color(red){SP30};|守りを考えず全力で斬りかかり&br;防御力を無効化する一撃を与える&br;※チュートリアル「くらやみとぼうけん」クリア時に専用キューブ入手|
+|▲まだっ……！戦えるから！|1|黒|＜自分＞|単体|3|&color(red){SP12};|戦闘不能になったとき、&br;稀に生き返る&br;※お楽しみBOX2(LV50)より専用キューブ入手|
+|▲全てを打ち消す必殺奥義！|転生後|黒|＜敵＞|単体|4|&color(red){SP23};&br;&color(blue){MP23};|一定確率で状態異常を&br;消去する攻撃を行う&br;※転生時に専用キューブ入手|
+///////
+
+***ヘビメタイニー・アルマ[#HeavyMetalTinyAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+||-|HP:532&br;ATK:30&br;M.ATK:30&br;DEF:25&br;M.DEF:25&br;S.HIT:30&br;L.HIT:30&br;M.HIT:？&br;S.AVOID:25&br;L.AVOID:30&br;M.RST:？&br;CRITICAL:？&br;C.AVOID:？&br;&br;A.SPD:200&br;C.SPD:200&br;RCV:？&br;M.RCV:？&br;S.RCV:？|+HP&br;+ATK&br;+MATK&br;+DEF&br;+MDEF&br;+S.HIT&br;+L.HIT&br;+M.HIT&br;+S.A&br;+L.A&br;+M.RST&br;+CRI&br;+C.A&br;&br;+A.SPD&br;+C.SPD&br;+RCV&br;+M.RCV&br;+S.RCV|【説明】&br;？&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（？）がある。&br;[[台詞>PetSpeech/Alma/HeavyMetalTinyAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩&br;MP：117&br;SP：117&br;DEF(%)：5&br;MDEF(%)：5&br;&br;【使用スキル】&br;シャウト！&br;デスメタル&br;スラッシュメタル&br;ブラックメタル&br;デッドマーチ&br;ラウドソング&br;&br;【入手法】&br;EMIL CHRONICLE ONLINE METAL ARRANGE CD 【ECOMETA】初回限定生産特典|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲シャウト！|1|黒|＜自分＞|自分を中心とした円|-|&color(blue){MP18};&br;&color(red){SP6};|大声を出して周りの対象を一時的にスタン状態にする。|
+|▲デスメタル|1|黒|＜自分＞|自分を中心としたひし形|6|&color(blue){MP50};|闇属性の魔法攻撃を行う。|
+|▲スラッシュメタル|1|黒|＜敵＞|単体|1|&color(red){SP50};|対象に無数の斬撃を浴びせる。|
+|▲ブラックメタル|1|黒|＜自分＞|自分専用|-|&color(blue){MP12};|自身の闇属性の魔法攻撃力を効果時間中アップさせる。|
+|▲デッドマーチ|1|黒|＜自分＞|自分を中心とした円|-|&color(blue){MP8};&br;&color(red){SP8};|広範囲にダメージと共に状態異常になる音波を発生させる。|
+|▲ラウドソング|1|黒|＜自分＞|自分を中心とした扇形|-|&color(blue){MP12};|放射状範囲に音波攻撃を行う。&br;※スキル対象が＜自分＞の条件でしか発動しません。|
+///////
+
+***ファントム・アルマ[#PhantomAlma]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+||-|HP:380&br;ATK:45&br;M.ATK:55&br;DEF:25&br;M.DEF:40&br;S.HIT:30&br;L.HIT:30&br;M.HIT:？&br;S.AVOID:25&br;L.AVOID:30&br;M.RST:？&br;CRITICAL:？&br;C.AVOID:？&br;&br;A.SPD:130&br;C.SPD:150&br;RCV:？&br;M.RCV:？&br;S.RCV:？|+HP&br;+ATK&br;+MATK&br;+DEF&br;+MDEF&br;+S.HIT&br;+L.HIT&br;+M.HIT&br;+S.A&br;+L.A&br;+M.RST&br;+CRI&br;+C.A&br;&br;+A.SPD&br;+C.SPD&br;+RCV&br;+M.RCV&br;+S.RCV|【説明】&br;アルマ?の一種&br;ファントムが&br;人になった姿と言われているが&br;他のアルマとは何か&br;違うようであり&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（抱擁・拒絶・転倒・褒める・おびえる）がある。&br;ブリーダーのスキル「メタモルフォーゼ」使用時にモーション&br;「疲れ」で疲れ、「リラックス」で仰向け&br;「こける」で転倒を再現できる。&br;[[台詞>PetSpeech/Alma/PhantomAlma]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系　攻撃タイプ：叩&br;MP：90&br;SP：90&br;DEF(%)：20&br;MDEF(%)：25&br;&br;【使用スキル】&br;こ、これで、どう……！？&br;ふ、触れたら、痛いわよ……っ！&br;こ、この距離なら……っ！&br;ち、近寄らないでえぇーっ！&br;わ、私だってやれるんだからー！！&br;&br;【入手法】&br;9thアニバーサリーソングCD「はじまる」特典|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲こ、これで、どう……！？|1|黒|＜敵＞|単体|3|&color(blue){MP12};|対象の集中力を乱す&br;プレイヤーが対象の場合はMAG、INT、DEX&br;モンスターが対象の場合は魔法攻撃力、魔法抵抗力、魔法防御力を低下させる|
+|▲ふ、触れたら、痛いわよ……っ！|1|黒|＜自分＞|自分専用|-|&color(blue){MP30};|自分を中心に渦巻き状に動くダークグローブを出現させる&br;※スキル対象が＜自分＞の条件でしか発動しません|
+|▲こ、この距離なら……っ！|1|黒|＜敵＞|単体|5|&color(blue){MP6};&br;&color(red){SP18};|闇の力を持つ矢を放つ|
+|▲ち、近寄らないでえぇーっ！|1|黒|＜自分＞|自分を中心とした円|-|&color(blue){MP8};&br;&color(red){SP8};|魔力を爆発させ自分の周囲を攻撃して弾き飛ばしスタンを判定を与える&br;※スキル対象が＜自分＞の条件でしか発動しません|
+|▲わ、私だってやれるんだからー！！|1|黒|＜敵＞|単体を中心にしたひし形|6|&color(blue){MP50};|闇属性の魔法攻撃|
+///////
+
+***タイニーゼロ・アルマ（Mary）[#TinyzeroMary]
+|CENTER:128|CENTER:100|RIGHT:100|RIGHT:60|LEFT:370|c
+||-|HP:？&br;ATK:？&br;M.ATK:？&br;DEF:？&br;M.DEF:？&br;S.HIT:？&br;L.HIT:？&br;M.HIT:？&br;S.AVOID:？&br;L.AVOID:？&br;M.RST:？&br;CRITICAL:？&br;C.AVOID:？&br;&br;A.SPD:？&br;C.SPD:？&br;RCV:？&br;M.RCV:？&br;S.RCV:？|+HP&br;+ATK&br;+MATK&br;+DEF&br;+MDEF&br;+S.HIT&br;+L.HIT&br;+M.HIT&br;+S.A&br;+L.A&br;+M.RST&br;+CRI&br;+C.A&br;&br;+A.SPD&br;+C.SPD&br;+RCV&br;+M.RCV&br;+S.RCV|【説明】&br;？&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（ダンス・考える・君に憑依っ☆・動揺する・み～つけた！・決めポーズ）がある。&br;[[台詞>PetSpeech/Alma/TinyzeroMary]]&br;&br;【ユニオン時】&br;系統：アルマモンスター系&br;種別：人&br;攻撃タイプ：叩&br;MP：？&br;SP：？&br;DEF(%)：？&br;MDEF(%)：？&br;&br;【使用スキル】&br;ポケポケしちゃえ？！(ポケポケ)&br;スピードボーナスたーいむ！(ディレイキャンセル)&br;マジックボーナスたーいむ！(ゼン)&br;ふひひ、力が入らないでしょう？？(ディビリテイト)&br;ほーら！回復だよー！(エリアヒール)&br;まだまだ！冒険はこれからだよ！(リザレクション)&br;そーれっ！(リミテイションエッジ)&br;まだっ……！戦えるから！(リヴァイブ)&br;はいぱー癒し空間！(セイクリッドエンブレイス)&br;ぐれーと☆タイニーレーザー！(ディバインブレーカー)&br;&br;【入手法】&br;ECOくじ「ECO × Mary Magdalene」|
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+|▲ポケポケしちゃえ？！|1|黒|＜敵＞|単体|1|&color(red){SP10};&br;&color(blue){MP10};|対象をすごい萎えさせる（？）|
+|▲スピードボーナスたーいむ！|1|黒|＜自分＞&br;＜主人＞|単体|6|&color(red){SP8};|一定時間、攻撃後に素早く&br;次の行動に移ることが出来る|
+|▲マジックボーナスたーいむ！|1|黒|＜自分＞&br;＜主人＞|単体|1|&color(blue){MP10};|通常よりＭＰを多く使用&br;魔法効果アップ|
+|▲ふひひ、力が入らないでしょ？？|1|黒|＜敵＞|単体|3|&color(blue){MP10};|対象の体力を減少させ&br;物理攻撃力、近距離回避力、&br;物理防御力を低下させる|
+|▲ほーら！回復だよー！|1|黒|＜自分＞|自分&br;中心円|-|&color(blue){MP12};|自身とその周囲の対象を回復させる|
+|▲まだまだ！冒険はこれからだよ！|1|黒|＜主人＞|単体|5|&color(blue){MP40};|行動不能になった対象を蘇らせる|
+|▲そーれっ！|1|黒|＜敵＞|単体|1|&color(red){SP30};|守りを考えず全力で斬りかかり&br;防御力を無効化する一撃を与える|
+|▲まだっ……！戦えるから！|1|黒|＜自分＞|単体|3|&color(red){SP12};|戦闘不能になったとき、&br;稀に生き返る|
+|▲はいぱー癒し空間！|1|黒|＜自分＞&br;＜主人＞&br;＜仲間＞|単体|5|&color(blue){MP50};|指定範囲内にいる者を対象とし&br;HP大回復効果とHP、MP、SP回復力上昇効果を付与させ、&br;さらには行動不能状態から蘇らせることができる|
+|▲ぐれーと☆タイニーレーザー！|1|黒|＜敵＞|単体|？|？|長距離光属性魔法攻撃&br;魔法防御を無視する&br;但しボスには無効|
+///////
+
+//テンプレート
+//***アルマ名 [#NameAlma]
+//|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+//|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+//|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+//|&ref(http://eco.acronia.net/img/wiki/PetList/.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;アルマの一種&br;？が&br;人になった姿と言われているが&br;その実態は定かではない&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（？）がある。&br;&br;[[台詞>PetSpeech/]]&br;&br;系統：アルマモンスター系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;?&br;&br;【入手法】&br;?|
+
+///////////固有スキル
+//////|スキル名|LV|信頼度|条件＜対象＞|目標|射程|消費|効果･備考|h
+|LEFT:170|CENTER:30|CENTER:45|CENTER:60|CENTER:40|CENTER:15|CENTER:55|LEFT:310|c
+//|▲？|1|黒|＜？＞|？||&color(red){SP};&br;&color(blue){MP};|？|
+///////
+
+*情報提供などコメント欄（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){情報提供欄はゲーム内容を質問する場ではありません。}質問等は[[''外部スレッド''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、ペットの種類（転生している場合は転生回数）、ステータス名、ステータス値を記入して下さい。};
+#pcomment

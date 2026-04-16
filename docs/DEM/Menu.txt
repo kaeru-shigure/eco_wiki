@@ -1,0 +1,4 @@
+# DEM/Menu
+
+[[DEM >DEM]]/[[ パーツ >DEM/Parts]]/[[ DEMIC >DEM/DEMIC]]（[[ステータスチップ>DEM/Chip]]、[[スキルチップ>DEM/Chip/SkillChip]]）/[[ スキル>DEM/Skill]]（[[詳細>DEM/Skill/Explanation]]）/[[ タイプ考察 >DEM/Status]]
+RIGHT:&edit(,noicon){DEMメニューを編集};

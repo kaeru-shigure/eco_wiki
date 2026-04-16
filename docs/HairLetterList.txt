@@ -1,0 +1,238 @@
+# HairLetterList
+
+[[←外見ページへ戻る>face]]
+*紹介状一覧 [#aa6098ef]
+-下表の掲載順は、基本的にゲーム内ヘアサロンの髪型カタログと同じ。一部、この表の見やすさ優先で前後する。
+-「フシギなヘアカタログ４」の不具合について(詳細は[[公式サイト>http://econline.gungho.jp/news/play/bug/20ujqj000000yp1p.html]]参照)
+--(修正済) 2014年6月4日まで、本来の「お城の紹介状」ではなく「森の中への紹介状」の髪型が選択できた。
+-下表のアイテム名灰色のものは、ゲーム内髪型カタログに未掲載。（2015/12/26時点で2つ該当）
+　（新春の紹介状、雪国の紹介状、小悪魔の紹介状、手作りの紹介状、ロリポップの紹介状もカタログに未掲載のようです）
+-下表のECOくじ名の後ろに「※リサイクル」と付記のあるものは、ゲーム内のECOくじ自販機で引くことが可能。詳細は[[リサイクルシステム>Recycle#EcoMedalUse]]を参照。
+-ECOくじ・リサイクルによる入手は全て&color(red){ランダム};、新規入手方法はランダム表記が無ければ選択して確実に入手可能。
+
+|~アイテム名|~ECOくじ名|~新規入手方法 &size(14){(くじ・リサイクル以外)};|~備考|
+|セレブの紹介状 &size(12){&color(red){※女性専用};};||[[木箱>http://eco.acronia.net/wiki/?cmd=read&page=kihako&word=%E3%82%BB%E3%83%AC%E3%83%96%E3%81%AE%E7%B4%B9%E4%BB%8B%E7%8A%B6]]・[[宝箱>http://eco.acronia.net/wiki/?cmd=read&page=takarahako&word=%E3%82%BB%E3%83%AC%E3%83%96%E3%81%AE%E7%B4%B9%E4%BB%8B%E7%8A%B6]] &size(12){&color(red){※ランダム};};&br;[[古びたコイン5個>Quest/Acropolis#OldCoin]]||
+|ヘアサロンの紹介状 &size(12){&color(red){※女性専用};};||[[木箱>http://eco.acronia.net/wiki/?cmd=read&page=kihako&word=%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3%E3%81%AE%E7%B4%B9%E4%BB%8B%E7%8A%B6]]・[[宝箱>http://eco.acronia.net/wiki/?cmd=read&page=takarahako&word=%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3%E3%81%AE%E7%B4%B9%E4%BB%8B%E7%8A%B6]] &size(12){&color(red){※ランダム};};|季節イベントでも入手可（ハロウィン等）|
+|ヘアサロン特別紹介状 &size(12){&color(red){※女性専用};};|[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#14]]|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|アニキの紹介状 &size(12){&color(blue){※男性専用};};|[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#15]]|||
+|ドミニオンのヘアカタログ||[[モンスタードロップ>http://eco.acronia.net/mobdb/#item=%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3%E3%81%AE%E3%83%98%E3%82%A2%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0]](メイオウ) &size(12){&color(red){※ランダム};};||
+|プリティ紹介状 &size(12){&color(red){※女性専用};};|[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#8]]|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ２内のものと同等|
+|ルチルのヘアカタログ &size(12){&color(red){※女性専用};};|||[[CD特典(2006年)>Package#n4979de3]]|
+|機械時代のヘアカタログ||[[モンスタードロップ>http://eco.acronia.net/mobdb/#item=%E6%A9%9F%E6%A2%B0%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%98%E3%82%A2%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0]](パーティザン) &size(12){&color(red){※ランダム};};||
+|ちょいかわ紹介状|[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#9]]|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|ゴージャス紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};&br;DLパッケージ5([[復刻プレチケ1>Package#uae22847]]) &size(12){&color(red){※ランダム};};|フシギなヘアカタログ１内のものと同等&br;フシギなヘアカタログ２内のものと同等|
+|おてんば紹介状|[[第5弾(2006年)>http://econline.gungho.jp/econetstore/2006/ecokuji05/#3]] &size(12){※リサイクル};&br;[[アニバ☆スペシャル！(2007年)>http://econline.gungho.jp/econetstore/2007/AnnivSpecial/#4]] &size(12){※リサイクル};&br;[[初夏☆スペシャル(2008年)>http://econline.gungho.jp/econetstore/2008/SummerSpecial/#3]] &size(12){※リサイクル};&br;[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#3]]|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ１内のものと同等|
+|おめかし紹介状|[[第6弾(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji06/#3]] &size(12){※リサイクル};&br;[[春☆スペシャル(2008年)>http://econline.gungho.jp/econetstore/2008/SpringSpecial/#4]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ１内のものと同等|
+|姫さまの紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};&br;DLパッケージ6([[復刻プレチケ2>Package#wa3a6969]]) &size(12){&color(red){※ランダム};};|フシギなヘアカタログ１内のものと同等|
+|ラブモテ紹介状|[[第7弾(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji07/#3]] &size(12){※リサイクル};&br;[[復刻7弾 雨のち晴れ(2010年)>http://econline.gungho.jp/econetstore/2010/Re-AmeNochiHare/#4]]|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ１内のものと同等|
+|プリンセスの紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};&br;DLパッケージ7([[復刻プレチケ3>Package#b3cd86c3]]) &size(12){&color(red){※ランダム};};|フシギなヘアカタログ２内のものと同等|
+|クラシックな紹介状|[[第8弾(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji08/#3]] &size(12){※リサイクル};&br;[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#6]]|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|少佐の紹介状|||コラボアイテム、[[コラボパッケージ(2007年)>Package#yba0d7d6]]|
+|&aname(hc1);フシギなヘアカタログ１||[[タイニーの特別ひきかえ補助券10枚>ECOShop#TinyTicket]]&br;[[三井住友VISAカード>http://econline.gungho.jp/news/event/campaign/eco-cardrenewal201405.html]](ポイント景品)|紹介状5種((ゴージャス紹介状・おてんば紹介状・おめかし紹介状・姫さまの紹介状・ラブモテ紹介状))と同等|
+|ふたご座の紹介状|[[第9弾(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji09/#4]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ３内のものと同等?|
+|ラテンの紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ２内のものと同等|
+|魔女の紹介状|[[第10弾(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji10/#6]] &size(12){※リサイクル};&br;[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#2]]|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ３内のものと同等?|
+|ワイルドな紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ２内のものと同等|
+|武家の紹介状|[[第11弾(2007年)>http://econline.gungho.jp/econetstore/2007/ecokuji11/#4]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|&aname(hc2);フシギなヘアカタログ２||[[タイニーの特別ひきかえ補助券10枚>ECOShop#TinyTicket]]&br;[[三井住友VISAカード>http://econline.gungho.jp/news/event/campaign/eco-cardrenewal201405.html]](ポイント景品)|紹介状5種((ラテンの紹介状・プリンセスの紹介状・ゴージャス紹介状・ワイルドな紹介状・プリティ紹介状))と同等|
+|バレンタイン紹介状|[[第12弾(2008年)>http://econline.gungho.jp/econetstore/2008/ecokuji12/#5]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|デビューへの紹介状|||イベント報酬(2009年)&br;[[キャンペーン景品(2015年)>http://econline.gungho.jp/special/eco201510welcome/]]|
+|スイートな紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|おとぎの紹介状|[[第13弾(2008年)>http://econline.gungho.jp/econetstore/2008/ecokuji13/#4]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|歌姫の紹介状|[[第14弾(2008年)>http://econline.gungho.jp/econetstore/2008/ecokuji14/#2]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|マネージャーの紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ３内のものと同等?|
+|ひぐらしの紹介状|||コラボアイテム、[[コラボパッケージ(2008年)>Package#yd9cfcc6]]|
+|空賊の紹介状|||[[CD特典(2009年)>Package#h59586c5]]|
+|真夏の紹介状|[[第15弾(2008年)>http://econline.gungho.jp/econetstore/2008/ecokuji15/#3]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ３内のものと同等?|
+|委員長の紹介状||[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|貴族の紹介状||[[三井住友VISAカード>http://econline.gungho.jp/news/event/campaign/eco-cardrenewal201405.html]](入会特典)||
+|レナの紹介状|||コラボアイテム、コラボパッケージ(2008年)|
+|ハロウィン紹介状|[[第16弾(2008年)>http://econline.gungho.jp/econetstore/2008/ecokuji16/#5]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};|フシギなヘアカタログ３内のものと同等?|
+|真冬の紹介状|[[第17弾(2008年)>http://econline.gungho.jp/econetstore/2008/ecokuji17/#3]] &size(12){※リサイクル};|[[ECO券30枚>Quest/Cleanup#dcedaf09]] &size(12){&color(red){※ランダム};};||
+|ハイカラ紹介状|[[第18弾(2009年)>http://econline.gungho.jp/econetstore/2009/ecokuji18/#4]] &size(12){※リサイクル};|||
+|アルバイトの紹介状|[[DX ver.2(2009年)>http://econline.gungho.jp/econetstore/2009/ecokujiDX2/#3]] &size(12){※リサイクル};&br;[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#2]]|||
+|軍式紹介状|[[第19弾(2009年)>http://econline.gungho.jp/econetstore/2009/ecokuji19/#4]] &size(12){※リサイクル};|||
+|伝説の紹介状|[[RPG(2009年)>http://econline.gungho.jp/econetstore/2009/RPG/#3]] &size(12){※リサイクル};&br;[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#5]]|||
+|マーシャの紹介状 &size(12){&color(red){※女性専用};};|||[[CD特典(2009年)>Package#r0627537]]|
+|ティタの紹介状 &size(12){&color(red){※女性専用};};|||[[CD特典(2009年)>Package#x9039155]]|
+|愛され紹介状|[[シンフォニックウェディング(2009年)>http://econline.gungho.jp/econetstore/2009/SymphonicWedding/#3]] &size(12){※リサイクル};&br;[[復刻 シンフォニックウェディング(2010年)>http://econline.gungho.jp/econetstore/2010/Re-SymphonicWedding/#4]]|||
+|北斗の紹介状|||コラボアイテム、[[コラボくじ(2009年)>Kuji/2009#r1647002]]|
+|夏休みの紹介状|[[スプラッシュサマー(2009年)>http://econline.gungho.jp/econetstore/2009/SplashSummer/#3]] &size(12){※リサイクル};|||
+|BGCOLOR(#FAFFF6):&aname(alucard);アルカードの紹介状|BGCOLOR(#FAFFF6):[[ヴァンパイア・ロマンス(2013年)>http://econline.gungho.jp/econetstore/2013/VampireRomance/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|BGCOLOR(#FAFFF6):|BGCOLOR(#FAFFF6):ゲーム内髪型カタログの最下部に掲載|
+|BGCOLOR(#FAFFF6):エンジェルフェザーの紹介状|BGCOLOR(#FAFFF6):[[ブランシュ・プチ・アンジュ(2013年)>http://econline.gungho.jp/econetstore/2013/BlanchePetitAnge/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|BGCOLOR(#FAFFF6):|~|
+|BGCOLOR(#FAFFF6):&aname(kiyohime);清姫の紹介状|BGCOLOR(#FAFFF6):[[古今戦国絵巻(2013年)>http://econline.gungho.jp/econetstore/2013/KokinSengokuEmaki/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|BGCOLOR(#FAFFF6):|~|
+|BGCOLOR(#FAFFF6):モーモーの紹介状|BGCOLOR(#FAFFF6):[[カントリー・カウガール(2013年)>http://econline.gungho.jp/econetstore/2013/CountryCowgirl/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|BGCOLOR(#FAFFF6):|~|
+|ル・フェイの紹介状|[[ケルティック・ファンタジー(2013年)>http://econline.gungho.jp/econetstore/2013/CelticFantasy/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|ネクロアーマーの紹介状|[[黒鉄の騎士団(2013年)>http://econline.gungho.jp/econetstore/2013/KuroganeNoKishidan/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|バステトの紹介状|[[ブバスティスの仔猫たち(2013年)>http://econline.gungho.jp/econetstore/2013/BubasutisuNoKoneko/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|アンブレラの紹介状|[[スイートフレンチ＆クラシック(2013年)>http://econline.gungho.jp/econetstore/2013/FrenchSuiteClassic/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|キャプテンキッドの紹介状|[[パイレーツ・クロニクル(2013年)>http://econline.gungho.jp/econetstore/2013/PiratesChronicle/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|ココッコーの紹介状|[[ぴよぴよぴくにっく(2013年)>http://econline.gungho.jp/econetstore/2013/PiyoPiyoPicnic/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|スーパーアイドルの紹介状||[[古びたコイン100個>Quest/Acropolis#OldCoin]]|[[宝箱15>http://econline.gungho.jp/netcafe/news/info/exclusiveitem.html]](新規入手不可)|
+|若緑の紹介状||[[ECO券200枚>Quest/Cleanup#dcedaf09]]||
+|∽プリンセスの紹介状||[[お楽しみBOX2(チュートリアル)>Event/Nheartful#bec5a611]]|プリンセスの紹介状(∽無し)と同等？|
+|玉藻の紹介状|[[御伽の国のお狐様(2013年)>http://econline.gungho.jp/econetstore/2013/OtogiNoKuniNoOkitunesama/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|タランチュラの紹介状|[[スパイダー＆パンキッシュ(2013年)>http://econline.gungho.jp/econetstore/2013/SpiderAndPankish/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|ローレライの紹介状|[[マーメイド・オン・ステージ(2013年)>http://econline.gungho.jp/econetstore/2013/MermaidOnStage/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|ベアの紹介状|[[ふぁん☆ふぁん ファンフェアー！(2013年)>http://econline.gungho.jp/econetstore/2013/FanFanFanFair/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|パラケルススの紹介状|[[シークレットラボラトリー(2013年)>http://econline.gungho.jp/econetstore/2013/SecretLaboratory/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|フライフィッシュの紹介状|[[夏色の放課後(2013年)>http://econline.gungho.jp/econetstore/2013/NatuiroNoHoukago/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|ワーウルフの紹介状|[[ワーキング・ワーウルフ(2013年)>http://econline.gungho.jp/econetstore/2013/WorkingWerewolf/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|テンタクルの紹介状|[[ドキドキ・クッキング！(2013年)>http://econline.gungho.jp/econetstore/2013/DokidokiCooking/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|メフィストフェレスの紹介状|[[デーモニック・ディテクティブ(2013年)>http://econline.gungho.jp/econetstore/2013/DemonicDetective/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|マミーの紹介状|[[ローズウィッチ・ハロウィーン(2013年)>http://econline.gungho.jp/econetstore/2013/RoseWitchHalloween/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|ルチフェロの紹介状|[[終幕オペラハウス(2013年)>http://econline.gungho.jp/econetstore/2013/SyumakuOperaHouse/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|ドラッキーの紹介状|[[大正レトロモダニズム(2013年)>http://econline.gungho.jp/econetstore/2013/TaisyouRetroModernism/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|BABYの紹介状|[[BABY＋A&P(2013年)>http://econline.gungho.jp/econetstore/2013/BABY-AP/#4]]||コラボアイテム|
+|記憶の書架の紹介状||[[EXイベントチケット10枚>Quest/Season/BookshelvesAndMemoryIris#EX_Event_Lore]]|[[イベント報酬(2013年)>Quest/Season/BookshelvesAndMemoryIrisEnd#g26f8a02]]|
+|ステラの紹介状|[[星降る夜の物語(2013年)>http://econline.gungho.jp/econetstore/2013/HoshihuruyoruNoMonogatari/#6]]&br;[[ロアたちの記憶(2015年)>http://econline.gungho.jp/econetstore/2015/loretachitonokioku/]] &size(12){&color(red){※発売中};};|||
+|ブーフの紹介状|[[記憶の図書館(2013年)>http://econline.gungho.jp/econetstore/2013/KiokuNotosyokan/#6]]&br;[[アルマたちとの絆２(2015年)>http://econline.gungho.jp/econetstore/2015/arumatachitonokizuna2/]] &size(12){&color(red){※発売中};};|||
+|ミコトの紹介状|[[雪国あやかし絵巻(2014年)>http://econline.gungho.jp/econetstore/2014/YukiguniAyakasiEmaki/#6]]|||
+|吸血姫の紹介状|[[ホワイト＆ミリタリー(2014年)>http://econline.gungho.jp/econetstore/2014/WhiteMilitary/#6]]|||
+|メイの紹介状|[[こぎつねアプレンティス(2014年)>http://econline.gungho.jp/econetstore/2014/KogituneApprentice/#6]]|||
+|蛇姫の紹介状|[[早春スクールライフ(2014年)>http://econline.gungho.jp/econetstore/2014/SousyunSchoolLife/#6]]|||
+|ライの紹介状|[[迅雷の鳳雛(2014年)>http://econline.gungho.jp/econetstore/2014/JinraiNoHousu/#6]]|||
+|隠者の紹介状|[[荒野の旅路(2014年)>http://econline.gungho.jp/econetstore/2014/KouyaNoTabiji/#6]]|||
+|キリエの紹介状|[[メイド・イン・グランドハウス(2014年)>http://econline.gungho.jp/econetstore/2014/MaidInGrandHouse/#6]]|||
+|バステトカジュアルの紹介状|[[にゃんにゃん☆ぱらだいす(2014年)>http://econline.gungho.jp/econetstore/2014/nyannyan-paradise/#6]]|||
+|セレスの紹介状|[[ラジカル・セルフコンシャス(2014年)>http://econline.gungho.jp/econetstore/2014/radical-selfconscious/#6]]|||
+|大空賊の紹介状|[[スチームエイジ・アドベンチャー(2014年)>http://econline.gungho.jp/econetstore/2014/steamage-adventure/#6]]|||
+|ラグジュアリーな紹介状||[[三井住友VISAカード>http://econline.gungho.jp/news/event/campaign/eco-cardrenewal201405.html]](ポイント景品)||
+|ルリの紹介状|[[今世東洋怪異譚(2014年)>http://econline.gungho.jp/econetstore/2014/konseitouyoukaiitan/#6]]|||
+|黒衣の天使の紹介状|[[ジェイルハウス・インプリズン(2014年)>http://econline.gungho.jp/econetstore/2014/jailhouse-imprison/#6]]|||
+|フォルテの紹介状|[[スターライト・ステージ(2014年)>http://econline.gungho.jp/econetstore/2014/starlight-stage/#6]]|||
+|きらめく人魚姫の紹介状|[[水辺の納涼夜会(2014年)>http://econline.gungho.jp/econetstore/2014/mizubeno-nouryouyakai/#6]]|||
+|エリーゼの紹介状|[[ナイツ・オブ・ナーサリーライム(2014年)>http://econline.gungho.jp/econetstore/2014/knights-of-nurseryrhyme/#6]]|||
+|時空の迷子の紹介状|[[時計塔のヒミツの研究(2014年)>http://econline.gungho.jp/econetstore/2014/tokeito-no-himitunokenkyu/#6]]|||
+|アリアの紹介状|[[エンシェント・サイバーウェポン(2014年)>http://econline.gungho.jp/econetstore/2014/ancient-cyber-weapon/#6]]|||
+|礼装の紳士の紹介状|[[夜会への招待状(2014年)>http://econline.gungho.jp/econetstore/2014/yakaiheno-syoutaijyou/#6]]|||
+|ナナイの紹介状|[[モンスター☆パレード(2014年)>http://econline.gungho.jp/econetstore/2014/monster-parade/#6]]|||
+|小悪魔少女の紹介状|[[プリティロリータデビル(2014年)>http://econline.gungho.jp/econetstore/2014/pretty-lolita-devil/#6]]|||
+|リーリエの紹介状|[[優しい森の住人(2014年)>http://econline.gungho.jp/econetstore/2014/yasashii-morino-jyuunin/#6]]|||
+|小さな魔王の紹介状|[[ウィンターストリートカフェ(2014年)>http://econline.gungho.jp/econetstore/2014/winter-street-cafe/#6]]|||
+|ヒスイの紹介状|[[悠久の古物商(2014年)>http://econline.gungho.jp/econetstore/2014/yuukyuu-no-kobutusyou/#6]]|||
+|聖夜の天使の紹介状|[[イルミネーション・クリスマス(2014年)>http://econline.gungho.jp/econetstore/2014/illumination-christmas/#6]]|||
+|Maryの紹介状|[[Mary Magdalene(2014年)>http://econline.gungho.jp/econetstore/2014/mary-magdalene/#6]]||コラボアイテム|
+|ブリキングＲＸ１の紹介状|[[鉄腕少女ブリキング(2015年)>http://econline.gungho.jp/econetstore/2015/tetuwansyoujyo-buriking/#6]] &size(12){&color(red){※発売中};};&br;[[おめかし巫女装束(2015年)>http://econline.gungho.jp/econetstore/2015/omekashi-mikoshouzoku/#6]] &size(12){&color(red){※発売中};};|||
+|クイーンビーの紹介状|[[ロイヤルハニー・クイーンビー(2015年)>http://econline.gungho.jp/econetstore/2015/royalhoney-queenbee/#6]] &size(12){&color(red){※発売中};};&br;[[スイートバレンタイン(2015年)>http://econline.gungho.jp/econetstore/2015/sweet-valentine/#6]] &size(12){&color(red){※発売中};};|||
+|アルカナハートの紹介状|[[ティーンエイジ・アウトロースタイル(2015年)>http://econline.gungho.jp/econetstore/2015/teenage-outlaw-style/#6]] &size(12){&color(red){※発売中};};&br;[[アルカナハート・イン・ザ・サーカス(2015年)>http://econline.gungho.jp/econetstore/2015/arcanaheart-in-the-circus/#6]] &size(12){&color(red){※発売中};};|||
+|ウィスプの紹介状|[[オリエンタル・ウィル・オ・ウィスプ(2015年)>http://econline.gungho.jp/econetstore/2015/oriental-will-o-wisp/#6]] &size(12){&color(red){※発売中};};&br;[[精霊の国のウィスプ(2015年)>http://econline.gungho.jp/econetstore/2015/seireinokuninowisp/#6]] &size(12){&color(red){※発売中};};|||
+|プリンセスヴァルキュリーの紹介状||コラボイベント|コラボアイテム、[[コラボイベント(2015年)>Quest/Season/PuzzleAndDragons4]]|
+|スケルトンシューターの紹介状|[[ミリタリールック・リトルシューター(2015年)>http://econline.gungho.jp/econetstore/2015/militarylook-little-shooter/#6]] &size(12){&color(red){※発売中};};|||
+|フシギなヘアカタログ４|||紹介状11種((雪国の紹介状・ロリポップの紹介状・大江戸の紹介状・商店街の紹介状・海賊の紹介状・ゴーストの紹介状・お泊り会の紹介状・北欧神話の紹介状・地獄の紹介状・お城の紹介状・カーニバルの紹介状))と同等?|
+|スペクターの紹介状|[[トリップ・オブ・スペクター・トゥ・チャイナ>http://econline.gungho.jp/econetstore/2015/trip-of-spector-to-china/#6]] &size(12){&color(red){※発売中};};|||
+|アベンジャーの紹介状|[[アベンジャー・イン・ダークテリトリー>http://econline.gungho.jp/econetstore/2015/avenger-in-dark-territory/#6]] &size(12){&color(red){※発売中};};|||
+|ニドエッグの紹介状|[[ざぶーん！ニドエッグ>http://econline.gungho.jp/econetstore/2015/zabuoon-nidoeggu/#6]] &size(12){&color(red){※発売中};};|||
+|ギーゴの紹介状|[[ばきゅーん！ギーゴ>http://econline.gungho.jp/econetstore/2015/bakyuun-gigo/#6]] &size(12){&color(red){※発売中};};|||
+|ホウオウの紹介状|[[サムライガール・ホウオウ>http://econline.gungho.jp/econetstore/2015/samurai-girl-houou/]] &size(12){&color(red){※発売中};};|||
+|キラーマシーンの紹介状|[[キラキラ☆キラーマシーン>http://econline.gungho.jp/econetstore/2015/kirakira-killer-machine/#6]] &size(12){&color(red){※発売中};};|||
+|モーランの紹介状|[[華やぐ街角のモーラン>http://econline.gungho.jp/econetstore/2015/hanayagu-matino-moran/#6]] &size(12){&color(red){※発売中};};|||
+|アルケーの紹介状|[[旋律のアルケーさん>http://econline.gungho.jp/econetstore/2015/senritsu-no-arukesan/]] &size(12){&color(red){※発売中};};|||
+|ベイヤールの紹介状|[[ベイヤール・イン・ゴシックナイト>http://econline.gungho.jp/econetstore/2015/beiyaru-in-gothicnight/]] &size(12){&color(red){※発売中};};|||
+|スタートラーの紹介状|[[豊饒の村のスタートラー>http://econline.gungho.jp/econetstore/2015/houjyouno-starter/#6]] &size(12){&color(red){※発売中};};|||
+|&color(silver){Favoriteの紹介状};|[[ECO×Favorite>http://econline.gungho.jp/econetstore/2015/favorite-one/#6]] &size(12){&color(red){※発売中};};||コラボアイテム|
+|サンドラットの紹介状|[[秋空の下のサンドラット>http://econline.gungho.jp/econetstore/2015/akizorano-sitano-sandoratto/#6]] &size(12){&color(red){※発売中};};|||
+|マタンガの紹介状|[[マタンガ・ラボラトリー>http://econline.gungho.jp/econetstore/2015/matanga-laboratory/#6]] &size(12){&color(red){※発売中};};|||
+|&color(silver){エコ坊の紹介状};|||キャンペーン景品&br;[[～2015/11/26>http://econline.gungho.jp/special/houjyounoaki2015/welcome.html]]、[[～2015/12/24>http://econline.gungho.jp/special/anniversary10thwelcome/]]|
+|クリスタルの紹介状|[[氷の都のクリスタル>http://econline.gungho.jp/econetstore/2015/koorino-miyakono-crystal/#6]] &size(12){&color(red){※発売中};};|||
+|アーチンの紹介状|[[ストイック・パンキッシュ・アーチン>http://econline.gungho.jp/econetstore/2015/stoic-punkish-urchin/#6]] &size(12){&color(red){※発売中};};|||
+|アスモデウスの紹介状|||未実装だがヘアサロンで試着可|
+|ホワイトファングの紹介状|||未実装だがヘアサロンで試着可|
+|ふたご座の紹介状☆|[[真夏のアンコール(2009年)>http://econline.gungho.jp/econetstore/2009/manau-no-encore/#3]] &size(12){※リサイクル};||ふたご座の紹介状(☆無し)とは髪型が微妙に異なる|
+|ロビン・グッドフェロウの紹介状|[[アクエリアンエイジ(2009年)>http://econline.gungho.jp/econetstore/lotae.html#1]] &size(12){&color(red){※発売中};};||コラボアイテム|
+|厳島 美晴の紹介状|[[アクエリアンエイジ(2009年)>http://econline.gungho.jp/econetstore/lotae.html#2]] &size(12){&color(red){※発売中};};||コラボアイテム|
+|アングリー紹介状|[[HANGRY&ANGRY(2015年)>http://econline.gungho.jp/econetstore/2015/kincs-hangry-angry/#6]]||コラボアイテム|
+|コウモリタ紹介状||[[DLパッケージ(HANGRY&ANGRY)>Package#taa2bf57]]|コラボアイテム|
+|ハングリー紹介状||[[DLパッケージ(HANGRY&ANGRY)>Package#mbc1a62e]]|コラボアイテム|
+|西洋ロマンの紹介状|[[西洋ファンタジーロマン(2009年)>http://econline.gungho.jp/econetstore/2009/FantasyRomance/#3]] &size(12){※リサイクル};|||
+|しゅごキャラ！の紹介状|||コラボアイテム、[[コラボくじ(2010年)>Kuji/2010#Shugochara]]|
+|あむちゃんの紹介状|||コラボアイテム、[[コラボパッケージ(2010年)>Package#ShugocharaAmu]]|
+|イクトの紹介状|||コラボアイテム、[[コラボパッケージ(2010年)>Package#ShugocharaIkuto]]|
+|歌姫の紹介状（ゴージャス）|[[アニバゴージャス(2009年)>http://econline.gungho.jp/econetstore/2009/AnibaGorgeous/#2]] &size(12){※リサイクル};|||
+|わがまま紹介状|[[ウィンターホリデー(2010年)>http://econline.gungho.jp/econetstore/2010/WinterHoliday/#2]] &size(12){※リサイクル};|||
+|ライブの紹介状|[[バレンタインライブ(2010年)>http://econline.gungho.jp/econetstore/2010/ValentainLive/#4]] &size(12){※リサイクル};|||
+|妹の紹介状 &size(12){&color(red){※女性専用};};|[[イメチェン！(2010年)>http://econline.gungho.jp/econetstore/2010/ImageChange/#4]]|||
+|ふんわり紹介状|[[さんぽ日和(2010年)>http://econline.gungho.jp/econetstore/2010/SanpoBiyori/#4]] &size(12){※リサイクル};|||
+|上級生の紹介状|[[新生活(2010年)>http://econline.gungho.jp/econetstore/2010/ShinSeikatsu/#3]] &size(12){※リサイクル};|||
+|新入生の紹介状|[[新生活(2010年)>http://econline.gungho.jp/econetstore/2010/ShinSeikatsu/#6]] &size(12){※リサイクル};|||
+|チェスの紹介状|[[盤上の騎士団(2010年)>http://econline.gungho.jp/econetstore/2010/BanjoNoKishidan/#6]] &size(12){※リサイクル};|||
+|バカンスの紹介状|[[ハネムーンバカンス(2010年)>http://econline.gungho.jp/econetstore/2010/HoneymoonVacation/#5]] &size(12){※リサイクル};|||
+|ハイカラ紹介状☆|[[復刻18弾 大正浪漫(2010年)>http://econline.gungho.jp/econetstore/2010/Re-TaishoRoman/#4]] &size(12){※リサイクル};||ハイカラ紹介状(☆無し)とは髪型が微妙に異なる|
+|星屑の紹介状|[[サマーナイトカーニバル(2010年)>http://econline.gungho.jp/econetstore/2010/SummerNnightCarnival/#2]] &size(12){※リサイクル};|||
+|縁日の紹介状|[[サマーナイトカーニバル(2010年)>http://econline.gungho.jp/econetstore/2010/SummerNnightCarnival/#7]] &size(12){※リサイクル};|||
+|真夏の紹介状☆|[[復刻15弾 エンジョイ夏休み☆(2010年)>http://econline.gungho.jp/econetstore/2010/Re-EnjoyNatsuyasumi/#3]] &size(12){※リサイクル};||真夏の紹介状(☆無し)とは髪型が微妙に異なる|
+|超キティラーの紹介状|[[ハローキティといっしょ！(2010年)>http://econline.gungho.jp/econetstore/2010/HelloKitty/#3]]||コラボアイテム|
+|収穫祭の紹介状|[[やすらぎカントリーライフ(2010年)>http://econline.gungho.jp/econetstore/2010/YasuragiCountryLife/#6]] &size(12){※リサイクル};|||
+|トップモデルの紹介状|[[あこがれアートコレクション(2010年)>http://econline.gungho.jp/econetstore/2010/AkogareArtCollection/#5]] &size(12){※リサイクル};|||
+|物怪の紹介状|[[和風はろうぃん(2010年)>http://econline.gungho.jp/econetstore/2010/WafuHalloween/#6]] &size(12){※リサイクル};|||
+|イタズラっ子の紹介状|[[洋風ハロウィン(2010年)>http://econline.gungho.jp/econetstore/2010/YofuHalloween/#6]] &size(12){※リサイクル};|||
+|エミリーの紹介状|[[フシギの国のEmily(2010年)>http://econline.gungho.jp/econetstore/2010/FushigiNoKuniNoEMILY/#3]]||コラボアイテム|
+|怪盗の紹介状|[[怪盗★ハード＆ワイルド(2010年)>http://econline.gungho.jp/econetstore/2010/KaitoHardWild/#6]] &size(12){※リサイクル};|||
+|エンシェントアークの紹介状１||[[ダンジョンクリア報酬>Quest/AncientArkBoxDrop#Page1_3]] &size(12){&color(red){※ランダム};};||
+|エンシェントアークの紹介状２||[[ダンジョンクリア報酬>Quest/AncientArkBoxDrop#Page4_6]] &size(12){&color(red){※ランダム};};||
+|祝祭の紹介状|[[あけましアニバ(2010年)>http://econline.gungho.jp/econetstore/2010/AkemashiAnniv/#6]] &size(12){※リサイクル};|||
+|聖夜の紹介状|[[粉雪のプレゼント(2010年)>http://econline.gungho.jp/econetstore/2010/KonayukiNoPresent/#6]] &size(12){※リサイクル};|||
+|新春の紹介状|[[あけまし兎年(2011年)>http://econline.gungho.jp/econetstore/2011/AkeomeUsagidoshi/#4]]|[[ECO SHOP(3000円)>ECOShop#o0a1d0c8]] &size(12){&color(red){※発売中};};||
+|雪国の紹介状|[[雪国アニマルズ(2011年)>http://econline.gungho.jp/econetstore/2011/YukiguniAnimals/#4]]|[[ECO SHOP(3000円)>ECOShop#o0a1d0c8]] &size(12){&color(red){※発売中};};|フシギなヘアカタログ４内のものと同等?|
+|小悪魔の紹介状|[[ハンドメイド・バレンタイン(2011年)>http://econline.gungho.jp/econetstore/2011/HandmadeValentain/#4]]|||
+|手作りの紹介状|[[ハンドメイド・バレンタイン(2011年)>http://econline.gungho.jp/econetstore/2011/HandmadeValentain/#6]]|||
+|ロリポップの紹介状|[[スウィート・ロリポップ(2011年)>http://econline.gungho.jp/econetstore/2011/SweetLolipop/#4]]||フシギなヘアカタログ４内のものと同等?|
+|アジアン紹介状|[[アジアンファンタジア(2011年)>http://econline.gungho.jp/econetstore/2011/AsianFantasia/#4]]|||
+|大江戸の紹介状|[[くのいち絵巻(2011年)>http://econline.gungho.jp/econetstore/2011/KunoichiEmaki/#4]]||フシギなヘアカタログ４内のものと同等?|
+|学園の紹介状|[[風雲アクロニア学園(2011年)>http://econline.gungho.jp/econetstore/2011/FuunAcroniaGakuen/#4]]|||
+|商店街の紹介状|[[花咲く！アクロニア便り(2011年)>http://econline.gungho.jp/econetstore/2011/HanasakuAcroniaDayori/#4]]||フシギなヘアカタログ４内のものと同等?|
+|妖精の紹介状|[[フェアリーテイル(2011年)>http://econline.gungho.jp/econetstore/2011/Fairytail/#4]]|||
+|海賊の紹介状|[[パイレーツアドベンチャー(2011年)>http://econline.gungho.jp/econetstore/2011/PiratesAdventure/#4]]||フシギなヘアカタログ４内のものと同等?|
+|サーニャの紹介状|[[ストライクウィッチーズ(2011年)>http://econline.gungho.jp/econetstore/2011/StrikeWitches/#6]]||コラボアイテム|
+|シャーリーの紹介状|[[ストライクウィッチーズ(2011年)>http://econline.gungho.jp/econetstore/2011/StrikeWitches/#8]]||コラボアイテム|
+|ハルトマンの紹介状|[[ストライクウィッチーズ(2011年)>http://econline.gungho.jp/econetstore/2011/StrikeWitches/#7]]||コラボアイテム|
+|坂本少佐の紹介状|[[ストライクウィッチーズ(2011年)>http://econline.gungho.jp/econetstore/2011/StrikeWitches/#9]]||コラボアイテム|
+|誓いの紹介状|[[プレシャスウェディング(2011年)>http://econline.gungho.jp/econetstore/2011/PreciousWedding/#4]]|||
+|匠の紹介状||[[SSコンテスト優秀賞(2015年)>http://econline.gungho.jp/screenshot/]]|歴代のSSコンテスト景品|
+|深海の紹介状|[[夢見るアクアマリン(2011年)>http://econline.gungho.jp/econetstore/2011/YumemiruAquamarine/#4]]|||
+|ゴーストの紹介状|[[ゴシックパーティー(2011年)>http://econline.gungho.jp/econetstore/2011/GothicParty/#4]]||フシギなヘアカタログ４内のものと同等?|
+|サイバーの紹介状|[[エレクトロメモリーズ(2011年)>http://econline.gungho.jp/econetstore/2011/ElectroMemories/#4]]|||
+|お泊り会の紹介状|[[ドリーミーナイト(2011年)>http://econline.gungho.jp/econetstore/2011/DreamyNight/#4]]||フシギなヘアカタログ４内のものと同等?|
+|大和神話の紹介状|[[古の大和神話(2011年)>http://econline.gungho.jp/econetstore/2011/InishieNoYamatoshinwa/#4]]|||
+|北欧神話の紹介状|[[古の北欧神話(2011年)>http://econline.gungho.jp/econetstore/2011/InishieNoHokuohshinwa/#4]]||フシギなヘアカタログ４内のものと同等?|
+|魔法少女の紹介状|[[魔法少女まどか☆マギカ(2011年)>http://econline.gungho.jp/econetstore/2011/MadokaMagica/#3]]||コラボアイテム|
+|天国の紹介状|[[ホーリーハロウィン(2011年)>http://econline.gungho.jp/econetstore/2011/HolyHalloween/#4]]|||
+|地獄の紹介状|[[デビルズハロウィン(2011年)>http://econline.gungho.jp/econetstore/2011/DevilsHalloween/#4]]||フシギなヘアカタログ４内のものと同等?|
+|森の中への紹介状|[[森の中の童話(2011年)>http://econline.gungho.jp/econetstore/2011/MorhiNoDowa/#4]]||[[コーディネートBOX>ECOShop#o0a1d0c8]](2015年)|
+|お城の紹介状|[[お城の童話(2011年)>http://econline.gungho.jp/econetstore/2011/OshiroNoDowa/#4]]||[[コーディネートBOX>ECOShop#o0a1d0c8]](2015年)&br;フシギなヘアカタログ４内のものと同等?|
+|FRILLの紹介状|[[FRILL(2011年)>http://econline.gungho.jp/econetstore/2011/FRILL/#5]]&br;[[FRILL(2015年)>http://econline.gungho.jp/econetstore/2015/kincs-frill/#5]]||コラボアイテム|
+|カーニバルの紹介状|[[ハートメイトカーニバル(2011年)>http://econline.gungho.jp/econetstore/2011/HeartMateCarnival/#4]]||[[コーディネートBOX>ECOShop#o0a1d0c8]](2015年)&br;フシギなヘアカタログ４内のものと同等?|
+|召使の紹介状|[[クラシカルサーバント(2011年)>http://econline.gungho.jp/econetstore/2011/ClassicalServant/#4]]||[[コーディネートBOX>ECOShop#o0a1d0c8]](2015年)|
+|フシギなヘアカタログ３|||紹介状5種((真夏の紹介状・魔女の紹介状・ハロウィン紹介状・ふたご座の紹介状・マネージャーの紹介状))と同等?|
+|黒き翼の紹介状|[[チェック＆ウィング(2012年)>http://econline.gungho.jp/econetstore/2012/CheckAndWing/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|ムツキの紹介状|[[初春の巫女(2012年)>http://econline.gungho.jp/econetstore/2012/SyosyunNoMiko/#4]]|[[ECO SHOP(3000円)>ECOShop#o0a1d0c8]] &size(12){&color(red){※発売中};};||
+|忠犬の紹介状|[[もこもこファーコーデ(2012年)>http://econline.gungho.jp/econetstore/2012/MocomocoFurCorde/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|キサラギの紹介状|[[令月の盗賊(2012年)>http://econline.gungho.jp/econetstore/2012/ReigetsuNoTouzoku/#4]]|||
+|萌芽の紹介状|[[萌黄色のゆりかご(2012年)>http://econline.gungho.jp/econetstore/2012/MoegiiroNoYurikago/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|ヤヨイの紹介状|[[花月の桃源郷(2012年)>http://econline.gungho.jp/econetstore/2012/KagetsuNoTougenkyou/#4]]|||
+|あやかしの紹介状|[[春色御伽草子(2012年)>http://econline.gungho.jp/econetstore/2012/HaruiroOtogiZoushi/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|ウヅキの紹介状|[[陰月の契約者(2012年)>http://econline.gungho.jp/econetstore/2012/IngetsuNoKeiyakusya/#4]]|||
+|やんちゃ娘の紹介状|[[ノーティ・スクールガールズ(2012年)>http://econline.gungho.jp/econetstore/2012/NaughtySchoolGirls/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|サツキの紹介状|[[雨月の妖精物語(2012年)>http://econline.gungho.jp/econetstore/2012/UgetsuNoYouseiMonogatari/#4]]|||
+|潮風の紹介状|[[エピック オブ ロマンス(2012年)>http://econline.gungho.jp/econetstore/2012/EpicOfRomance/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|ミナヅキの紹介状|[[水月の待ち人(2012年)>http://econline.gungho.jp/econetstore/2012/SuigetsuNoMachibito/#4]]|||
+|南極の紹介状|[[ピングアクアリウム(2012年)>http://econline.gungho.jp/econetstore/2012/PenguinAquarium/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|フミツキの紹介状|[[涼月の姫君(2012年)>http://econline.gungho.jp/econetstore/2012/RyougetsuNoHimegimi/#4]]|||
+|アラビアンナイトの紹介状|[[スカーレット・フレイム(2012年)>http://econline.gungho.jp/econetstore/2012/ScarletFlame/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|ハヅキの紹介状|[[清月の電脳幻想(2012年)>http://econline.gungho.jp/econetstore/2012/SeigetsuNoDennouGensou/#4]]|||
+|おかしな紹介状|[[マッド・ティータイム(2012年)>http://econline.gungho.jp/econetstore/2012/MadTeaTime/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|キクヅキの紹介状|[[詠月の郷愁(2012年)>http://econline.gungho.jp/econetstore/2012/EigetsuNoKyousyu/#4]]|||
+|AMNESIAの紹介状|[[AMNESIA(2012年)>http://econline.gungho.jp/econetstore/2012/AMNESIA/#3]]||コラボアイテム|
+|使い魔の紹介状|[[プリティ・サーヴァント！(2012年)>http://econline.gungho.jp/econetstore/2012/PrettyServant/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|カミア・カンナの紹介状|[[鏡祭月の双子(2012年)>http://econline.gungho.jp/econetstore/2012/KyousaigetuNoFutago/#4]]|||
+|スチームパンクの紹介状|[[スチームパンク(2012年)>http://econline.gungho.jp/econetstore/2012/Steampunk/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|シモツキの紹介状|[[天正月の赤頭巾(2012年)>http://econline.gungho.jp/econetstore/2012/TensyougetuNoAkazukin/#4]]||[[コーディネートBOX>ECOShop#o0a1d0c8]](2015年)|
+|h.NAOTOの紹介状|[[h.NAOTO(2012年)>http://econline.gungho.jp/econetstore/2012/hNAOTO/#3]]&br;[[h.NAOTO(2015年)>http://econline.gungho.jp/econetstore/2015/kincs-h-naoto/#3]]||コラボアイテム|
+|闇夜の紹介状|[[ウィキッド・ナイトパレード(2012年)>http://econline.gungho.jp/econetstore/2012/WickedNightParade/#4]]&br;[[アルマたちとの絆(2014年)>http://econline.gungho.jp/econetstore/2014/arumatachitonokizuna/]] &size(12){&color(red){※発売中};};|||
+|ロウゲツの紹介状|[[臘月の守り手(2012年)>http://econline.gungho.jp/econetstore/2012/RougetuNoMamorite/#4]]||[[コーディネートBOX>ECOShop#o0a1d0c8]](2015年)|
+|BGCOLOR(#FAFFF6):アルカードの紹介状&br;エンジェルフェザーの紹介状|>|>|BGCOLOR(#FAFFF6):[[上記参照>#alucard]]|
+|冬雪の紹介状||[[釣りランキング15位以内>http://econline.gungho.jp/gamedata/system/fishing.html#ranking]](2月～4月)||
+|春風の紹介状||〃(5月～7月)||
+|夏草の紹介状||〃(8月～10月)||
+|秋月の紹介状||〃(11月～1月)||
+|BGCOLOR(#FAFFF6):清姫の紹介状&br;モーモーの紹介状|>|>|BGCOLOR(#FAFFF6):[[上記参照>#kiyohime]]|

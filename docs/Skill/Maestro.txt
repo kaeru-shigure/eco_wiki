@@ -1,0 +1,88 @@
+# Skill/Maestro
+
+[[ タタラベ >Skill/Tatarabe]] ([[スキル>Skill/Tatarabe/Explanation]])/[[ ブラックスミス >Skill/Blacksmith]]([[スキル>Skill/Blacksmith/Explanation]])/[[ マシンナリー >Skill/Machinery]]([[スキル>Skill/Machinery/Explanation]])/ ''マエストロ'' ([[スキル>Skill/Maestro/Explanation]])
+*マエストロ [#cd8acda2]
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+タタラベの[[''外部スレッド''>Skill/Tatarabe#tc2fedc2]]を参照
+
+#clear
+** 特徴 [#m53ef8c7]
+公式サイト：[[マエストロ:http://www.econline.jp/data/job/3rd-chronicle/job_c09.html]]
+-現場で鍛え上げた技と心意気で、世界をめぐる匠です。
+-武具強化などの新たな技能を獲得し、メカに対してもより造詣が深めることができます。
+-その技が産み出すものと、心意気がつむぐ連帯感は、世界に新たな要素を加えていくことでしょう。
+
+【現状】
+-スキルの大半がロボのステータスブーストであり、非ロボ騎乗用のスキルがほとんどない。
+-武器強化や武器の潜在強化もできるのは生産職らしいが、リアル・ゲーム内マネーがあればNPCでも代用できてしまうのでイマイチ扱いが悪い。
+-また、二足歩行ロボに依存する割合が強く、ロボの強化のための費用がとてもかさみやすい。
+-しかし、ロボの強化や強化装甲の確保などを極めれば、憑依装備を使わずとも他職での憑依装備込みに相当する能力を引き出しやすいため、マリオネットの自動回復等も活かしやすい。
+-二足歩行ロボに依存するため、パートナーを実質装備できないのが欠点。
+--機械系のライドパートナーもいくらか存在するが、使用スキル群の関係でマエストロが全力を発揮するにはどうあがいても二足歩行ロボになってしまう。
+//-ロボ強化系スキルが充実。マシンナリーはここからが本番だと言える。
+//-スキルの大半はロボ系であり、潜在強化も現段階ではリスクが高すぎることから、ロボを活用しないのであれば転生する意義は薄い。
+-''HP係数：6.00''、''MP係数：2.14''、''SP係数：3.14''
+|~''派&br;生''|~一次職|~二次職|~三次職|h
+|~|[[タタラベ>Skill/Tatarabe]]|[[ブラックスミス>Skill/Blacksmith]]（エキスパート）|マエストロ|
+|~|~|[[マシンナリー>Skill/Machinery]]（テクニカル）|~|
+
+** 転職方法 [#u857384f]
+
+[[三次クロニクル職共通ルート>Job/Change/Chronicle#kyoutuu]]
+
+//以後は、各職個別ルート
+//武神ツバキを倒す
+//力の解放と上位転生を行う を選択
+//以上で、転職までの長い道のりが終了である。
+//ツバキ攻略
+//
+//決して強くはないが、負けるとやり直しなので準備を怠らずに挑もう。
+//命中は低いのでAGI型だと楽か。ただしグラビティフォールを使ってくるため、マルチコンディションの用意を忘れずに。
+//ＤＣを多用するため、フェイントが非常に有効。
+//ベース・ジョブ共に１に戻り、種族と職業は上位になり、アバターも入手できる。
+//また、アバターの調整も、この場所で何時でも変更できる
+//&br;&color(red){''上位転生時のレベルによって変更箇所が増える。''};
+//レベル110で上位転生すれば全ての箇所が選択可能
+** スキル早見表とスキル詳細 [#le57b017]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#ve39aeb5]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|7|8|6|7|6|3||~26|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''16''|11|12|11|6|
+|~2|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''9''|6|7|6|3||~27|14|16|11|COLOR(red):BGCOLOR(#EDEDFF):''13''|11|6|
+|~3|8|9|6|7|6|3||~28|14|16|COLOR(red):BGCOLOR(#EDEDFF):''12''|13|11|6|
+|~4|8|9|COLOR(red):BGCOLOR(#EDEDFF):''7''|7|6|COLOR(red):BGCOLOR(#EDEDFF):''4''||~29|14|COLOR(red):BGCOLOR(#EDEDFF):''17''|12|13|11|COLOR(red):BGCOLOR(#EDEDFF):''7''|
+|~5|8|COLOR(red):BGCOLOR(#EDEDFF):''10''|7|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''7''|4||~30|COLOR(red):BGCOLOR(#EDEDFF):''15''|17|12|13|COLOR(red):BGCOLOR(#EDEDFF):''12''|7|
+|~6|COLOR(red):BGCOLOR(#EDEDFF):''9''|10|7|8|7|4||~31|15|17|12|COLOR(red):BGCOLOR(#EDEDFF):''14''|12|7|
+|~7|9|10|7|8|7|4||~32|15|17|13|14|12|7|
+|~8|9|COLOR(red):BGCOLOR(#EDEDFF):''11''|7|8|7|4||~33|15|COLOR(red):BGCOLOR(#EDEDFF):''18''|13|14|12|7|
+|~9|9|11|COLOR(red):BGCOLOR(#EDEDFF):''8''|8|7|4||~34|COLOR(red):BGCOLOR(#EDEDFF):''16''|18|13|14|12|7|
+|~10|COLOR(red):BGCOLOR(#EDEDFF):''10''|11|8|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''8''|4||~35|16|18|13|14|COLOR(red):BGCOLOR(#EDEDFF):''13''|7|
+|~11|10|11|8|9|8|4||~36|16|COLOR(red):BGCOLOR(#EDEDFF):''19''|13|COLOR(red):BGCOLOR(#EDEDFF):''15''|13|7|
+|~12|10|COLOR(red):BGCOLOR(#EDEDFF):''12''|8|9|8|COLOR(red):BGCOLOR(#EDEDFF):''5''||~37|-|-|-|-|-|-|
+|~13|10|12|COLOR(red):BGCOLOR(#EDEDFF):''9''|9|8|5||~38|17|19|14|15|13|8|
+|~14|COLOR(red):BGCOLOR(#EDEDFF):''11''|12|9|COLOR(red):BGCOLOR(#EDEDFF):''10''|8|5||~39|17|COLOR(red):BGCOLOR(#EDEDFF):''20''|14|15|13|8|
+|~15|11|COLOR(red):BGCOLOR(#EDEDFF):''13''|9|10|COLOR(red):BGCOLOR(#EDEDFF):''9''|5||~40|17|20|14|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''14''|8|
+|~16|11|13|9|10|9|5||~41|17|20|14|16|14|8|
+|~17|11|13|9|10|9|5||~42|COLOR(red):BGCOLOR(#EDEDFF):''18''|20|COLOR(red):BGCOLOR(#EDEDFF):''15''|16|14|8|
+|~18|COLOR(red):BGCOLOR(#EDEDFF):''12''|13|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''11''|9|5||~43|18|COLOR(red):BGCOLOR(#EDEDFF):''21''|15|16|14|8|
+|~19|12|COLOR(red):BGCOLOR(#EDEDFF):''14''|10|11|9|5||~44|18|21|15|COLOR(red):BGCOLOR(#EDEDFF):''17''|14|8|
+|~20|12|14|10|11|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''6''||~45|18|21|15|17|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''9''|
+|~21|12|14|10|11|10|6||~46|COLOR(red):BGCOLOR(#EDEDFF):''19''|COLOR(red):BGCOLOR(#EDEDFF):''22''|15|17|15|9|
+|~22|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''15''|10|11|10|6||~47|19|22|COLOR(red):BGCOLOR(#EDEDFF):''16''|17|15|9|
+|~23|13|15|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''12''|10|6||~48|19|22|16|17|15|9|
+|~24|13|15|11|12|10|6||~49|19|22|16|COLOR(red):BGCOLOR(#EDEDFF):''18''|15|9|
+|~25|13|15|11|12|COLOR(red):BGCOLOR(#EDEDFF):''11''|6||~50|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''23''|16|18|COLOR(red):BGCOLOR(#EDEDFF):''16''|9|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#lcef61c6]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[外部スレッド>Skill/Tatarabe#tc2fedc2]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

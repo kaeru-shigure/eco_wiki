@@ -1,0 +1,211 @@
+# FlyGarden/Coordinate
+
+#author("2017-05-06T14:41:11+00:00","","")
+#include(FlyGarden/Menu,notitle)
+*飛空庭コーディネート（外装） [#e8a8a02c]
+//新規追加の画像編集時のテンプレ
+//   &ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/%3E%3E%E3%81%93%E3%81%93%E3%81%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%3C%3C,nolink,150x150);
+
+#contents
+-[[飛空庭システム>FlyGarden]]
+-[[飛空庭コーディネート（内装）>FlyGarden/Coordinate/Interior]]
+-[[飛空庭コーディネート（装飾品）>FlyGarden/Coordinate/Accessories]]
+-[[飛空庭コーディネート（その他）>FlyGarden/Coordinate/Other]]
+-公式サイト
+--[[飛空庭システム:http://www.econline.jp/option/garden/index.html]]
+-したらば掲示板：[[飛空庭スレッド>FlyGarden#thread]]
+-SS掲示板
+--[[ECO飛空庭関連あぷろだ>http://ecossup.my.land.to/FlyGarden/FlyGarden.htm]]
+--[[ECO飛空庭内装あぷろだ>http://ecossup.my.land.to/interior/interior.htm]]
+
+**画像アップロードのお願い[#notice]
+画像のアップロードは以下の点に留意してください。
+
+-COLOR(red):画像の大きさは150ｘ150で統一してください。
+-COLOR(blue):画像操作に不慣れな方はトリミングせずに大きめの画像をアップしてください。
+-色の比較が重要なものがありますので、ビデオドライバ及び、ソフトウェア的にRGB/CYMKを補整した画像は使用しないでください。
+-極端なアップではなく、全体や大きさがわかるような構図で撮影をお願いします。(特に壁紙や屋内の床)
+-アップロードには以下の場所を使用してください。
+--直接アップロード（[[ECO-Wiki (acronia) 用画像アップローダー:http://eco.acronia.net/imgup/#dir=wiki/FlyGarden/Coordinate]]）
+--%%ECO飛空庭関連あぷろだ（[[こちら:http://ecossup.my.land.to/FlyGarden/FlyGarden.htm]]）%%
+
+//FlyGarden/Coordinate/Miscへ移動します
+//**飛空庭のカスタマイズ[#d0187b00]
+//あなたの「家」を思いのままカスタマイズするためのガイドです。
+//-一口メモ
+//-家具を積み重ねた後下の家具を撤去すると上の家具は浮いたままになります。
+
+**飛空庭の外装[#FlyingGarden_Parts]
+***家の外観[#HuedHouse]
+//ノーマルの家の３面図と各ディティールのアップが欲しいと思うのですが・・
+家の基本形及び細部（検討中）
+//（青・紫・赤・橙色・黄色・黄緑・緑・白色・黒・水色）ペンキの１０種
+入手方法については[[こちらを参照>FlyGarden/Furniture#t6ea9d77]]してください。
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|LEFT:~塗装による家の色・外観の変化|h
+|>|>|>|>|>|LEFT:現在のところ塗装で外観まで変化するのはタイニーハウスのみのようです|
+|>|>|>|>|>|LEFT:~小さな家|
+|塗装不可|>|>|>|>|>|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ChiisanaIe.jpg,nolink,150x150);|>|>|>|>|-|
+//
+|>|>|>|>|>|LEFT:~アクロポリスハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisHouse.jpg,nolink,150x170);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisPurple.jpg,nolink,159x151);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisGreen.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/AcropolisCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~アーリーハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FarEastHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastOrange.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FareastCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~モーグハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeHouse2.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogePurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MogeCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~アイアンサウスハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronsouthPurple.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronsouthYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthLimeyellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronsouthWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IronSouthCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ノーザンハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernLimeyellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NorthernCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ベリルハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BerylCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~イグルーハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooLymeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IglooCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~オリエントハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientYellowGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OrientCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~キャッスルハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastleHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastleBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastlePurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastleRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/CastleOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastleYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/CastleLimeyellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastleGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastleWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CastleBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/CastleCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~マジカルハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalHouse2.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalYellowGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MagicalCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~バックパッカーハウス|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BackPackerCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~タイニーハウス　※色によって外観も変化|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TinyCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~マリンハウス（巻貝）|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarinePurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarineCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~その他|
+|LEFT:~スリーピーハウス　&size(12){☆HOME MADE STAR☆～嘉陽愛子のテーマ～特典};|LEFT:~お菓子の家　&size(12){ECOプレイチケット7弾};&br;ECO券ハウスチャレンジ|LEFT:~不気味な古城風ハウス　&size(12){ECOくじVer.10};&br;ECO券ハウスチャレンジ|LEFT:~森の音楽家の家　&size(12){ECOくじVer.14};&br;ECO券ハウスチャレンジ|LEFT:~なつかしの学び舎　&size(12){ECOプレイチケット12弾};&br;ECO券ハウスチャレンジ|LEFT:~わらぶき屋根の家　&size(12){ECOくじVer.17};&br;ECO券ハウスチャレンジ|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/SleepyHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OkashiNoIe.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/BukimiNaKojouFuuHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/morinoongakukanoie.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NatsukashiNoManabiya.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WarabukiYaneNoIe.jpg,nolink,150x150);|
+|LEFT:~ねこねこコンビニ店舗　&size(12){ECOくじDX ver.2};|LEFT:~契りのカテドラル　&size(12){ECOくじ シンフォニックウェディング};|LEFT:~秘密のツリーハウス　&size(12){ECOくじ スプラッシュサマー};|LEFT:~古手神社の祭具殿　&size(12){コラボレーションパッケージ ひぐらしのなく頃に};|LEFT:~チェスハウス　&size(12){ECOくじ 盤上の騎士団};|LEFT:~バカンスの水上コテージ　&size(12){ECOくじ ハネムーンバカンス};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/nekonekokonnbinitennpo.jpeg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ChigiriNoCatedral.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1258581486915.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/ecossup/FlyGarden/src/1252145227111.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ChessHouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/VacancesNoSuijouCottage.jpg,nolink,150x150);|
+|LEFT:~陽夜子のおうち　&size(12){ECOくじ ハローキティと一緒！};|LEFT:~海賊のアジト　&size(12){ECOくじ パイレーツアドベンチャー};|LEFT:~聖樹・ユグドラシル　&size(12){ECOくじ 古の北欧神話};|LEFT:~お姫さまの城　　&size(12){ECOくじ お城の童話};|LEFT:~ペンギンハウス　&size(12){ECOくじ ピングアクアリウム};|LEFT:~かやぶき屋根の家　&size(12){ECOくじ 詠月の郷愁};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HiyakoNoOuchi.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/kaizokunoajito.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/yugudorasiru.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/ohimesamanosiro.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/penginhausu.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/kayabukiyanenoie.jpg,nolink,150x150);|
+|LEFT:~シモツキハウス　&size(12){ECOくじ 天正月の赤頭巾};|LEFT:~バー・ワイルドウルフ　&size(12){ECOくじ ワーキング・ワーウルフ};|LEFT:~苔むした教会　&size(12){ECOくじ 荒野の旅路};|LEFT:~春陽の家　&br;&size(12){5000shopポイント};|LEFT:~高床式ロッジ　&size(12){5000shopポイント};|LEFT:~機械仕掛けの時計台　&size(12){ECOくじ 時計塔のヒミツの研究};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/shimotsukihouse.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/barwildwolf.jpg,nolink,150x150);|-|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Syunyohouse.jpg,nolink,150x150);|-|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Clocktower.jpg,nolink,150x150);|
+|LEFT:~アルティの工房　&size(12){通年イベント&br;（空飛ぶ工房とフシギな武器）};|LEFT:~あかね色の水車小屋　&size(12){ECOshop 5,000SP};|LEFT:~ゆきんこハウス　&size(12){ECOshop 5,000SP};|LEFT:~オープンカフェ　&size(12){ECOくじ ウィンターストリートカフェ};|LEFT:~お菓子のお城　&size(12){ECOくじ ロイヤルハニー・クイーンビー&br;ECOくじ スイートバレンタイン};|LEFT:~サーカス団のテント　&size(12){ECOくじ ティーンエイジ・アウトロースタイル&br;ECOくじ アルカナハート・イン・ザ・サーカス};|
+|-|-|-|-|-|-|
+|LEFT:~扉しかない家　&size(12){まいにちダンジョン（信頼度）まいにちBOX};|-|-|-|-|-|
+|-|-|-|-|-|-|
+//
+
+***家の外壁[#HouseWall]
+現在は未実装です
+
+***家の屋根[#HouseRoof]
+現在は未実装です
+
+***飛空庭の庭[#Garden]
+|>|>|>|>|>|LEFT:~庭（庭土）|h
+|>|>|>|>|>|LEFT:コントロールパネル『Garden』|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//
+|>|>|>|>|>|LEFT:~初期（板張り）　&color(red){&size(12){※染色後に他の庭素材を使用した場合、無塗装の状態に戻るので注意};};|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabari.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiItabariCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~石レンガ　&size(12){高度金属精錬};|
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRenga.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/IshiRengaCyan.jpg,nolink,150x150);|
+//
+|LEFT:~土盛り　&size(12){園芸Lv1};|LEFT:~芝生　&size(12){園芸Lv1};|LEFT:~チーク材のパッチワーク　&size(12){木材加工Lv3};|LEFT:~チーク材の板張り　&size(12){木材加工Lv3};|LEFT:~コンクリート　&size(12){高度金属精錬};|LEFT:~リノリューム　&size(12){コンテナ2};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Tsuchimori.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Shibafu.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TeakZaiNoPatchwork.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/TeakZaiNoItabari.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Concrete.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Linoleum.jpg,nolink,150x150);|
+|LEFT:~敷きレンガと芝生　&size(12){ガーデンマイスター+園芸LV1};|LEFT:~ウォーターガーデン　&size(12){ECOくじ ハネムーンバカンス&br;ECOくじ 夢見るアクアマリン};|LEFT:~ハロウィンの召喚陣　&size(12){ECOくじ 西洋ハロウィン&br;ローズウィッチ・ハロウィーン};|LEFT:~フェアリーリング　&size(12){ECOくじ フェアリーテイル};|LEFT:~スイートゴシックタイル　&size(12){ECOくじ FRILL};|LEFT:~雪のゲレンデ　&size(12){クリスマスイベント};|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShikiRengaToShibafu.jpg,nolink,150x114);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WaterGarden.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HalloweenNoShoukanJin.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Fairy_ring.jpg,nolink,150x136);|-|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/yukinogerende.jpg,nolink,150x150);|
+|LEFT:~Bloodゴシックタイル　&size(12){ECOくじ h.NAOTO};|LEFT:~お散歩ガーデン　&size(12){ECOくじ　ぴよぴよぴくにっく};|LEFT:~枯れすすきの荒野　&size(12){ECOくじ 荒野の旅路};|LEFT:~石畳の床　&size(12){ECOくじ ジェイルハウスインプリズン};|LEFT:~蛍の光　&size(12){ECOくじ 水辺の納涼夜会};|LEFT:~石畳の雪化粧　&size(12){ECOくじ イルミネーション・クリスマス};|
+|-|-|-|-|-|-|
+|LEFT:~春陽の庭　&size(12){ECOshop 5,000SP};|LEFT:~雨上がりの夏庭　&size(12){ECOshop 5,000SP};|LEFT:~落ち葉の庭　&size(12){ECOshop 5,000SP};|LEFT:~ゆきんこガーデン　&size(12){ECOshop 5,000SP};|LEFT:~砂浜の庭　&size(12){2015年季節イベント&br;（フミツキのお願い事）};|LEFT:~ハロウィンチェックの床　&size(12){2015年季節イベント&br;（カミアとカンナとトリックオアトリート）};|
+|-|-|-|-|&ref(http://eco.acronia.net/img/wiki/FlyGarden/sunahamanoniwa.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/wiki/flygarden/harowinntyekkunoyuka.jpg,nolink,150x150);|
+|LEFT:~幾何学模様の床　&size(12){ECOくじ ティーンエイジ・アウトロースタイル};|LEFT:~星空の床　&size(12){ECOくじ 精霊の国のウィスプ};|LEFT:~小麦畑の床　&size(12){ECOくじ 豊穣の村のスタートラー};|LEFT:~アイシクル・フロア（庭）　&size(12){ECOくじ 氷の都のクリスタル};|LEFT:~大渦の床　&size(12){ECOくじ 渦巻く大海のリヴァイアサン};|-|
+|-|-|-|-|-|-|
+//
+
+***飛空庭の土台[#Base]
+
+|>|>|>|>|>|LEFT:~ペイントしたときの変化|h
+|>|>|>|>|>|LEFT:&size(10){　};|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Dodai.jpg,nolink,200x143);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiPurple.jpg,nolink,150x145);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiYellow.jpg,nolink,149x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiWhite.jpg,nolink,150x87);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiBlack.jpg,nolink,200x96);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/DodaiCyan.jpg,nolink,150x150);|
+
+***飛空庭の帆[#Sail]
+
+|>|>|>|>|>|LEFT:~ペイントしたときの変化|h
+|>|>|>|>|>|LEFT:&size(10){　};|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|初　期|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/Ho.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoPurple.jpg,nolink,177x172);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoOrange.jpg,nolink,163x154);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoYellowGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HoCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~その他|
+|LEFT:~ロケット飛行帆|LEFT:~ウィング飛行帆|LEFT:~ブースト飛行帆|LEFT:~ライブ用飛行帆　&size(12){ECOくじ ヴァレンタインライブ};|LEFT:~パンプキン飛行帆　&size(12){ECOくじ Ver.16};|LEFT:~神域・アヴァロン　&size(12){ECOくじ ケルティック・ファンタジー};|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/lockethikouho.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/winghikouho.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/boosthikouho.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/liveyouhikouho.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/pumpkinhikouho.jpg,nolink,150x150);|-|
+|LEFT:~アイドル用飛行帆　&size(12){ECOくじ スターライト・ステージ};|LEFT:~キルミー島飛行帆　&size(12){ECOくじ HANGRY＆ANGRY};|-|-|-|-|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Idolhikouho.jpg,nolink,150x150);|-|-|-|-|-|
+
+
+
+**コメント欄 [#bffb1775]
+分類の誤りの指摘・分類細目の追加などの意見もおねがいします。
+&color(slateblue){※作業を円滑に進めるために、箱産出の報告は[[飛空庭メインページ>FlyGarden]]のコメントにお願いいたします。};
+#pcomment

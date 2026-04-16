@@ -1,0 +1,24 @@
+# ドロップ率検証/フォックスハウンド系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[機械知識>ドロップ率検証#gc548967]]
+
+***フォックスハウンドR1 [#jfe39c9a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||機械の破片|実包|ミサイル|メモリ|力のトランジスタ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（660体）|336個（50.90％）|253個（38.33％）|59個（8.93％）|5個（0.75％）|7個（1.06％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***フォックスハウンドC2 [#b17f39ae]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||機械の破片|マグナム弾|ミサイル|ＣＰＵ|魔法のトランジスタ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（500体）|241個（48.20％）|203個（40.60％）|46個（9.20％）|8個（1.60％）|2個（0.40％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***フォックスハウンドS5 [#w0426dd6]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|強力磁石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（50体）|38個（76.00％）|12個（24.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|

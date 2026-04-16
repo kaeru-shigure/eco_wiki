@@ -1,0 +1,424 @@
+# MarionetteList
+
+#author("2024-04-27T03:38:48+09:00","","")
+[[マリオネット >/Marionette]]/ マリオネット一覧表
+*マリオネット一覧表 [#l11d15e4]
+#contents
+
+**防御属性別マリオネット回復スキル逆引き表 [#qbe4a4a4]
+|CENTER:40|CENTER:180|CENTER:180|CENTER:180|c
+|CENTER:属性|CENTER:HP|CENTER:MP|CENTER:SP|CENTER:MP+SP|CENTER:HP＋SP|h
+|火|[[サラマンドラ>#db204977]]&br;[[サラマンドラ(セレヌ)>#ub208054]]&br;[[ホムラ>#c7323adf]]&br;[[スーパーマリオネット・ホムラ>#c7323adg]]|CENTER:-|[[スチーマー>#i8d672ee]]|CENTER:-|CENTER:-|
+|水|CENTER:-|[[アイシー>#d0301407]]&br;[[マーメイド>#wa39cb6c]]&br;[[かえるの王さま>#v6bbe873]]&br;[[スーパーマリオネット・アイシー>#d0301408]]|[[インスマウス>#rbe0b0ca]]&br;[[金のインスマウス>#ja65df76]]&br;[[歌舞伎インスマウス>#da8eb883]]&br;[[黒のインスマウス>#le3d5a9]]&br;[[ドロボウインス>#yc5fcda1]]&br;[[ドロボウインス>#yc5fcda1]]|CENTER:-|CENTER:-|
+|風|[[エレキテル>#b0d7cbdc]]&br;[[探索用エレキテル・特>#lf7cc6af]]&br;[[エレキテル・特(黒)>#r6dcd89b]]|[[ニンフ>#n8f0022a]]&br;[[スーパーマリオネット・ニンフ>#n8f0022b]]|CENTER:‐|[[フウジン>#i2319a4a]]&br;|CENTER:-|
+|土|CENTER:‐|[[マンドラゴラ>#d441264d]]&br;[[ピーノ>#c16d163b]]&br;[[スーパーマリオネット・ピーノ>#c16d163c]]|[[ベリル>#v45535ab]]&br;|CENTER:‐|[[クレイゴーレム>#ke314f26]]|
+|光|CENTER:-|[[スーパーマリオネット・タイニー>#j46f9922]]|CENTER:-|CENTER:-|CENTER:-|
+|闇|[[ブラフスキー>#bluff121]]|CENTER:-|[[ホネホネ>#ub812aec]]|CENTER:-|CENTER:-|
+|無|[[ドロイド>#mb37edd8]]&br;[[ネコグルミ（青）>#NekoBlue]]|[[タイニー>#j46f9921]]&br;[[サンタ・タイニー>#m2e129f4]]&br;[[パイレーツ>#b7da9341]]&br;[[ネイティブ>#odb59714]]&br;[[タイニーゼロ>#xb65d884]]&br;[[ベイビー>#c9b9113f]]&br;[[ベイビー（緑）>#s3c68d8e]]&br;[[ベイビー（オレンジ）>#k1d004c9]]&br;[[ベイビー（ダンプティ）>#pd84c7b6]]&br;[[ネコグルミ（紫）>#NekoPurple]]&br;[[スムージー>#k8ce53e9]]|[[ピボット>#p84e3eba]]&br;[[ネコグルミ（橙）>#NekoOrange]]|CENTER:-|CENTER:-|
+
+**マリオネット [#de44faf0]
+-特殊アイテムの[[マリオネット(消耗品)>SpecialItem#Marionette]]も参照
+
+***サラマンドラ [#db204977]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Salamandra.jpg,nolink,96x128);|火30|STR&br;+5|DEX&br;-5|INT&br;0|VIT&br;+7|AGI&br;-6|MAG&br;+2|HP&br;+30|MP&br;+5|SP&br;+13|HP|1/2|+50|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【オーラルウィップ】&br;自分を中心とした範囲に炎の鞭を走らせる（周囲5*5に炎属性範囲魔法攻撃）&br;消費MP20、M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.[[サラマンドラの首飾り:http://eco.acronia.net/itemdb/#id=1085]]を合成し、炎の精霊に持っていくとサラマンドラになる。&br;以前はインスマウスを作ったことがあると作れなかったが、現在は可能になっている。&br;2.ドクトカゲが稀にドロップ。水中生物知識があると良い。|
+
+***サラマンドラ&br;（セレヌ） [#ub208054]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/Salamandra-selene.png,nolink,123x211);|火50|STR&br;+5|DEX&br;-5|INT&br;0|VIT&br;+7|AGI&br;-6|MAG&br;+2|HP&br;+30|MP&br;+5|SP&br;+13|HP|1/2|+50|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【炎の下僕召喚】&br;4体のサラマンドラを召還。指定したMOBの他周囲にいるMOBへもそれぞれが攻撃&br;消費MP25+SP25|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[デルタサーガ第2巻特典>http://www.econline.jp/news/information/585.html]]|
+
+***インスマウス [#rbe0b0ca]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Innsmouth.jpg,nolink,96x128);|水30|STR&br;+10|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-10|HP&br;0|MP&br;0|SP&br;+17|SP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【キャッチアンドリリース】&br;離れた敵を引き寄せて攻撃した後弾き飛ばす（射程3で対象に水属性攻撃）&br;消費SP20、ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.ギルド元宮5Fのギョニンに「[[干し魚>http://eco.acronia.net/itemdb/#id=2325]]」か「[[不思議な干し魚>http://eco.acronia.net/itemdb/#id=2149]]」を持って話しかけ（マリオネット憑依不要）頼みを聞く。&br;「[[不思議な干し魚>http://eco.acronia.net/itemdb/#id=2149]]」を[[インスマウスの隠れ里>Dungeon/ContinentalCave#oadfe09c]]の長老に渡すと「[[ライギョーの汗>http://eco.acronia.net/itemdb/#id=2675]]」を貰える。&br;そこで長老に''もう一度話しかける''と「ライギョーの汗」と交換で入手。&br;2.ライギョー、ふんどしマン！が稀にドロップ。水中生物知識があると良い。|
+
+***金のインスマウス [#ja65df76]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/KinNoInnsmouth.jpg,nolink,108x145);|水50|STR&br;+10|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-3|HP&br;0|MP&br;0|SP&br;+17|SP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【キャッチアンドリリース】&br;離れた敵を引き寄せて攻撃した後弾き飛ばす（射程3で対象に水属性攻撃）&br;消費SP20、ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.[[ネットカフェWチャンスキャンペーン>http://www.econline.jp/news/information/211.html]]&br;2.[[宝箱１５（ネットカフェ）>takarahako#t15]]|
+
+***歌舞伎インスマウス [#da8eb883]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/KabukiInnsmouth.jpg,nolink,120x120);|水50|STR&br;+10|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-3|HP&br;0|MP&br;0|SP&br;+17|SP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【キャッチアンドリリース】&br;離れた敵を引き寄せて攻撃した後弾き飛ばす（射程3で対象に水属性攻撃）&br;消費SP20、ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.[[ECOくじ第三弾>http://www.econline.jp/event/kuji.html]]&br;2.[[宝箱１５（ネットカフェ）>takarahako#t15]]|
+
+***黒のインスマウス [#le3d5a91]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/KuroNoInnsmouth.jpg,nolink,100x100);|水50|STR&br;+10|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-3|HP&br;0|MP&br;0|SP&br;+17|SP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【キャッチアンドリリース】&br;離れた敵を引き寄せて攻撃した後弾き飛ばす（射程3で対象に水属性攻撃）&br;消費SP20、ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:ネットカフェのインスタンスダンジョンのネノオウが稀にドロップ&br;「古びたコイン」70枚と交換（2015/6/25追加）|
+
+***ドロボウインス [#yc5fcda1]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DorobouInns.jpg,nolink,100x100);|水|STR&br;+10|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-3|HP&br;0|MP&br;0|SP&br;+17|SP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【男の荒波】&br;対象を押し流す津波を発生させる&br;消費SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.ネットカフェのインスタンスダンジョンの[[ドロボウインス>http://www.econline.jp/netcafe/cafenews/33.html]]が稀にドロップ&br;2.ネットカフェのあやしい池にてロマンのつまった布１～４のセットと交換したときに稀に出る（期間限定）|
+
+***サンタドロボウインス [#n0f0e517]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SantaDorobouInnsmouth.jpg,nolink,100x100);|水50|STR&br;+10|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-3|HP&br;0|MP&br;0|SP&br;+17|SP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【男の荒波】&br;対象を押し流す津波を発生させる&br;消費SP20&br;（ドロボウインスとまったく同じもの。雪崩だったりはしない）|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:ネットカフェのインスタンスダンジョンの[[サンタドロボウインス>http://www.econline.jp/netcafe/cafenews/45.html]]が稀にドロップ|
+
+***赤のインスマウス [#y78d3d68]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|-|水|STR&br;+10|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-3|HP&br;0|MP&br;0|SP&br;+17|SP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【キャッチアンドリリース】&br;離れた敵を引き寄せて攻撃した後弾き飛ばす（射程3で対象に水属性攻撃）&br;消費SP20、ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[わくわく！GWはECOで遊ぼう2010>Quest/Season/GoldenWeek2010]]|
+
+***マンドラゴラ [#d441264d]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Mandragora.jpg,nolink,96x128);|地30|STR&br;0|DEX&br;0|INT&br;0|VIT&br;-2|AGI&br;-4|MAG&br;+2|HP&br;+25|MP&br;+10|SP&br;+8|MP|4/4|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【エクスクラメーション】&br;周囲の敵を混乱させる（周囲2*2にINT依存で成功率の上がる混乱効果）|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.「不思議な木の種」をファーマーの栽培で植え、出てきたモクジュ（少し強め、Lv20程度必要）を倒すと確率（五割もない）でドロップ。精霊知識があると良い。&br;2.モーリーが稀にドロップ|
+
+***エレキテル [#b0d7cbdc]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Elecitel.jpg,nolink,96x128);|風30|STR&br;+11|DEX&br;+3|INT&br;-8|VIT&br;+20|AGI&br;-13|MAG&br;-7|HP&br;+40|MP&br;0|SP&br;+11|HP|3/4|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ショートサーキット】&br;自分を中心とした範囲に電気攻撃（周囲5*5に風属性範囲魔法攻撃）&br;消費MP20、M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.ジャンク屋へ[[エレキテルの模型:http://eco.acronia.net/itemdb/#id=306]]の材料（[[ブリキの板:http://eco.acronia.net/itemdb/#id=2205]]か[[ブリキの部品:http://eco.acronia.net/itemdb/#id=2209]]。ブリキの歯車には反応しない）を持って話しかけると[[ブリキの歯車:http://eco.acronia.net/itemdb/#id=2208]]を渡されて残りを集めて[[ブリキの体:http://eco.acronia.net/itemdb/#id=2206]]を作るようにいわれる。体が完成したら次へ。&br;''ジャンク屋でハートルビー''を''ハートの器''にしてもらい、それに聖堂で心を吹き込み[[ブリキの心:http://eco.acronia.net/itemdb/#id=2207]]にする。代償として黒の聖堂ではSTR・MAG・AGIのどれかを-1、白の聖堂ではHP・MP・SPのどれかを-10することを求めるが、これは覚悟を試すためのもので本当に減ることはない。&br;ジャンク屋で[[ブリキの体:http://eco.acronia.net/itemdb/#id=2206]]と[[ブリキの心:http://eco.acronia.net/itemdb/#id=2207]]を合成して入手。※合成自体はマリオネストマスターでも可能。&br;2.ブリキングＲＸ１、ブリキングＭＫIIが稀にドロップ。&br;3.エレキテルラボの景品(700P)|
+
+***探索用エレキテル・特 [#lf7cc6af]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|-|風50|STR&br;+3|DEX&br;0|INT&br;-3|VIT&br;+5|AGI&br;0|MAG&br;0|HP&br;+20|MP&br;0|SP&br;+6|HP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【E-ライトニングブラスト】&br;M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT: [[エレキテル・ラボラトリー>Quest/ElekitelLab#lcfb70d8]] 700p(交換にはエレキテルの設計図が必要)|
+
+***エレキテル・特（黒） [#r6dcd89b]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Marionette/ElecitelTokuKuro.png,nolink,127x127);|風50|STR&br;+3|DEX&br;0|INT&br;-2|VIT&br;+5|AGI&br;0|MAG&br;-|HP&br;？|MP&br;？|SP&br;？|HP|3/4|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【E-ライトニングブラスト】&br;対象の範囲に雷攻撃を行う&br;消費MP38&br;M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT: ECOくじDX|
+
+***タイニー [#j46f9921]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Tiny.jpg,nolink,96x108);|-|STR&br;-3|DEX&br;-|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加（魔法扱い、INT依存で成功率増加、毎回かかる異常はランダム）&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.「[[ぬいぐるみの生地:http://eco.acronia.net/itemdb/#id=1808]]」を持って裁縫おばさんに話しかける。&br;[[朝の針:http://eco.acronia.net/itemdb/#id=74]]、[[昼の針:http://eco.acronia.net/itemdb/#id=2104]]、[[夜の針:http://eco.acronia.net/itemdb/#id=2672]]、「アラクネーの糸」、「綿花」を集めるように頼まれ、全て揃えて持っていくと作ってもらえる。&br;針3種は裁縫おばさんに頼まれた後、各地にいる裁縫蝶へ「縫い針」を持って話しかける度に縫い針が1本ずつ変化する。&br;（朝の針：ウテナ湖、昼の針：ファーイースト街道、夜の針：果物の森）&br;2.ダンプティー、壊れたぬいぐるみが稀にドロップ。魔法生物知識があると良い。|
+
+***サンタ・タイニー [#m2e129f4]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/SantaTiny.jpg,nolink,96x116);|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ハッピーメリークリスマスイベント>Quest/Season/HappyMerryXmas2006#t21fc944]]|
+
+***パイレーツ [#b7da9341]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/PirateTiny.jpg,nolink,127x127);|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[エレキテル・ラボラトリー(期間限定)>Quest/ElekitelLab#lcfb70d8]]|
+
+***ネイティブ [#odb59714]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/NativeTiny.jpg,nolink,127x127);|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[エレキテル・ラボラトリー(期間限定)>Quest/ElekitelLab#lcfb70d8]]|
+
+***タイニーゼロ [#xb65d884]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/TinyZero.jpg,nolink,127x127);|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[エレキテル・ラボラトリー(期間限定)>Quest/ElekitelLab#lcfb70d8]]|
+
+***ベイビー [#c9b9113f]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|-|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.モンスタースタンプ通常コンプリート&br;2.[[宝箱１５（ネットカフェ）>takarahako#t15]]|
+
+***ベイビー（緑） [#s3c68d8e]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/BabyMidori.jpg,nolink,120x120);|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ファミマ特典>http://www.econline.jp/news/information/217.html]]|
+
+***ベイビー（オレンジ） [#k1d004c9]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|-|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ECOくじ第二弾>http://www.econline.jp/md/kuji/log02.html]]|
+
+***ベイビー（ダンプティ） [#pd84c7b6]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|-|-|STR&br;-3|DEX&br;0|INT&br;+3|VIT&br;-5|AGI&br;+2|MAG&br;+7|HP&br;0|MP&br;+10|SP&br;+2|MP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ECOくじ アニバ☆スペシャル！>http://www.econline.jp/md/kuji/log_anv2.html]]|
+
+***ベリル [#v45535ab]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Beryl.jpg,nolink,96x204);|地30|STR&br;-12|DEX&br;+8|INT&br;+9|VIT&br;-10|AGI&br;+12|MAG&br;0|HP&br;+20|MP&br;+20|SP&br;0|SP|4/3|+30|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【インビジブル】&br;自分の周りにいるPTメンバーの姿を消し、アクティブの敵が反応しなくなる。&br;移動以外の行動で効果は解除される。&br;ソーサラーの同名スキルと全く同じ&br;消費MP40、持続時間30秒|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.木箱、ジルコン1・2・3ドロップの[[ナニカの入った宝石:http://eco.acronia.net/itemdb/#id=1758]]をアップタウンの宝石店に持っていくとイベントが発生、磨いてもらって入手。&br;2.ジルコン1・2・3が稀にドロップ&br;&br;耐久度が尽きると消滅する際に一定の確率で上位型マリオネットに成長する（現在は未実装）|
+
+***アイシー [#d0301407]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Icy.jpg,nolink,96x161);|水30|STR&br;0|DEX&br;0|INT&br;+7|VIT&br;-3|AGI&br;+5|MAG&br;+8|HP&br;+20|MP&br;+30|SP&br;+3|MP|6/4|+50|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【クーリング】&br;自分を中心にした範囲を氷漬けにして対象の移動を妨害する。（周囲5*5の敵を凍結、凍結時間は約5秒）&br;消費MP20、M.ATK依存、持続時間5秒|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:不思議な水晶をアイシー島(永遠への北限から行ける)のアイシー族長へ渡すと、その場でマリオネット・アイシーを入手。&br;アイシー島への地下通路にあるバリアは不思議な水晶を持っていれば通行可能。失えばアイシーを持っていても通れない。|
+
+***ホムラ [#c7323adf]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Homura.jpg,nolink,96x87);|火30|STR&br;+4|DEX&br;-4|INT&br;+5|VIT&br;0|AGI&br;-3|MAG&br;+7|HP&br;+30|MP&br;+30|SP&br;+15|HP|1/1|+20|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【バックドラフト】&br;自分を中心とした範囲に炎の渦を作る。一定時間、効果が持続する（周囲5*5に炎属性範囲魔法攻撃、接続時間は範囲内の敵の数等で変化）&br;消費MP40、HPの約1/20のダメージ|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.「[[炎の翼>http://eco.acronia.net/itemdb/#id=2862]]」を使用するとサウスダンジョン３階北のホムラに会うことができ、そこで薬を作るよう言われる。&br;（一回話すと鉄橋部に飛ばされる。間違っても「いいえ」を選ばないように注意すること。）&br;鉄火山山頂のサラマンドラに「[[くちばし>http://eco.acronia.net/itemdb/#id=811]]」「[[火山岩>http://eco.acronia.net/itemdb/#id=538]]」「[[アンダンテの灰>http://eco.acronia.net/itemdb/#id=145]]」を渡して「[[炎の特効薬>http://eco.acronia.net/itemdb/#id=2357]]」を入手する。&br;再び「[[炎の翼>http://eco.acronia.net/itemdb/#id=2862]]」を使用しホムラに会い、「[[炎の特効薬>http://eco.acronia.net/itemdb/#id=2357]]」を渡すとホムラを入手できる。&br;&color(red){「炎の翼」が2個必要};なことに注意。&br;2.無限回廊の35F、40Fの指輪を交換することで出ることがある（？）|
+
+***ニンフ [#n8f0022a]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Nymph.jpg,nolink,96x105);|風30|STR&br;-8|DEX&br;0|INT&br;+10|VIT&br;-8|AGI&br;+8|MAG&br;+8|HP&br;+20|MP&br;+30|SP&br;+10|MP|3/1|+60|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【プティートルネード】&br;自分を中心に小さな竜巻を発生させる。（風属性で接続時間5秒程度）&br;消費MP30、M.ATK依存、竜巻の軌道はランダム|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.ヒスイを持った状態で原初の森左下の落とし穴（座標[39.245]）へ。&br;ニンフ族長と話し、ヒスイと不思議なさなぎを渡すとニンフを入手。&br;ヒスイはドロップの他にLv45以上のキャラクターがファーイーストシティの東の警備犬と話すと手に入る（1アカウント1個）。&br;ヒスイによるテレポートは[[遺言状開封の立ち会い>Event/Others#o2e9e49b]]でも必要なのでそちらを済ませてからニンフにするといい。&br;2.無限回廊の40Fの指輪ミンラを交換することで出ることがある（？）|
+
+***ピーノ [#c16d163b]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Pino.jpg,nolink,96x179);|地30|STR&br;-|DEX&br;+7|INT&br;0|VIT&br;-5|AGI&br;+10|MAG&br;+3|HP&br;+10|MP&br;+20|SP&br;+5|MP|6/6|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ソイレントグリーン】&br;自分を中心とした範囲にツタを生やして一定時間対象の動きを妨害する&br;消費MP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.[[トンカイベント>Quest/Tonka#f4c2d9b8]]で入手。&br;2.フシギな木材から作成してもらう。|
+
+***ピボット [#p84e3eba]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Pivot.jpg,nolink,96x151);|-|STR&br;-8|DEX&br;+5|INT&br;+10|VIT&br;-8|AGI&br;+8|MAG&br;0|HP&br;+20|MP&br;+0|SP&br;+21|SP|1/1|+30|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ミラー】&br;デコイを３体同時に出現させる。&br;ウィザードのスキルと異なり、ミラーで出現したデコイは攻撃されると爆発し、&br;周囲の%%(本人・PTメンバー・無関係の第三者含む)全てのプレイヤー及び%%モンスターにダメージを与える。&br;(ダメージは術者のVIT依存？)&br;%%※擬似的なPK行為になりかねないので使用する際は注意すること！%%&br;消費MP20+SP30|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:1.無限回廊の40Fの指輪ミンラを交換することで出ることがある。&br;2.アニバーサリーＢＯＸ（06/12/08～06/12/22時季節イベント）&br;3.[[マリオネット・ピボット入手イベント>Quest/Maimai#cb8a6184]]&br;4.コンテナ７から入手。&br;5.まいにちＢＯＸ３から入手。|
+
+***マーメイド [#wa39cb6c]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Mermaid.jpg,nolink,98x131);|水30|STR&br;0|DEX&br;0|INT&br;+7|VIT&br;-3|AGI&br;+5|MAG&br;+8|HP&br;+20|MP&br;+30|SP&br;+3|MP|3/1|+50|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【バブリースパイラル】&br;自分を中心にした範囲に大きな泡の渦を作る。対象を引き寄せてダメージを与え、行動不能にする。&br;（周囲5*5に水属性範囲魔法攻撃）消費MP20、M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ウォーターレイアーイベント>Quest/Waterlayer#pafd7dce]]で入手。&br;宝箱17から入手。|
+
+***かえるの王さま [#v6bbe873]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/KaeruNoOusama.jpg,nolink,104x121);|水50|STR&br;-5|DEX&br;-5|INT&br;+8|VIT&br;0|AGI&br;+3|MAG&br;+5|HP&br;0|MP&br;+21|SP&br;0|MP|6/6|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【バブリースパイラル】&br;自分を中心にした範囲に大きな泡の渦を作る。対象を引き寄せて行動不能にする。&br;消費MP20、M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ECOくじ第十三弾>http://www.econline.jp/md/kuji/log13.html]]|
+
+***ブラフスキー [#bluff121]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/system/Bravsky.jpg,nolink,99x129);|闇30|STR&br;+13|DEX&br;-3|INT&br;-10|VIT&br;+23|AGI&br;-15|MAG&br;-10|HP&br;+30|MP&br;0|SP&br;+30|HP|4/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【スチームボム】&br;自分を中心とした範囲に水蒸気爆発を起こす&br;消費MP20、M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:ドミニオン世界イベント[[覚醒する悪魔の力！>Quest/Westfort#pb08ce2e]]|
+
+***ホネホネ [#ub812aec]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|-|闇15|STR&br;+5|DEX&br;-3|INT&br;-7|VIT&br;+7|AGI&br;+3|MAG&br;-10|HP&br;0|MP&br;0|SP&br;0|SP|6/6|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【オーラルウィップ】&br;自分を中心とした範囲に炎の鞭を走らせる（周囲5*5に炎属性範囲魔法攻撃）&br;消費MP20、M.ATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ECOチケット第十二弾>http://www.econline.jp/md/ticket/log12.html]]|
+
+***ドロイド [#mb37edd8]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|&ref(http://eco.acronia.net/img/wiki/MarionetteList/Droid.png,nolink,140x250);|-|STR&br;+9|DEX&br;0|INT&br;-15|VIT&br;+5|AGI&br;0|MAG&br;+8|HP&br;+25|MP&br;+15|SP&br;+20|HP|4/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【放電】&br;自分を中心とした範囲にスタン効果のある電撃攻撃を行う（周囲3*3）&br;消費MP25、ATK依存 |
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[クロスイベント2 -キオクのアリカ->Event/Cross#r7ad6e6d]]|
+
+***ネコグルミ（青） [#NekoBlue]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/nekoblue.jpg,nolink,176x177);|-|STR&br;+13|DEX&br;-15|INT&br;0|VIT&br;+4|AGI&br;+4|MAG&br;+3|HP&br;？|MP&br;？|SP&br;？|HP|3/3|+60|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ライフリターン】&br;ダメージの一部を一定確率でHPとして吸収する|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[エミル上位転生特典>Job/Change/Chronicle#j725762b]]|
+
+***ネコグルミ（橙） [#NekoOrange]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/nekoorange.jpg,nolink,176x177);|-|STR&br;+14|DEX&br;-15|INT&br;0|VIT&br;+5|AGI&br;+3|MAG&br;+2|HP&br;？|MP&br;？|SP&br;？|SP|3/3|+60|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【スタミナリターン】&br;ダメージの一部を一定確率でSPとして吸収する|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[エミル上位転生特典>Job/Change/Chronicle#j725762b]]|
+
+***ネコグルミ（紫） [#NekoPurple]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/nekopurple.jpg,nolink,176x177);|-|STR&br;+5|DEX&br;-15|INT&br;+1|VIT&br;+2|AGI&br;+1|MAG&br;+14|HP&br;0|MP&br;0|SP&br;0|MP|3/3|+60|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【マジックリターン】&br;ダメージの一部を一定確率でMPとして吸収する|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[エミル上位転生特典>Job/Change/Chronicle#j725762b]]|
+
+***フウジン [#i2319a4a]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/fujin.jpg,nolink,150x183);|風40|STR&br;-12|DEX&br;+15|INT&br;+8|VIT&br;-12|AGI&br;0|MAG&br;+15|HP&br;0|MP&br;+30|SP&br;20|SP&MP|3/3|+70|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【サイクロン】&br;自分を中心とした範囲に旋風を巻き起こし敵を吹き飛ばす。|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:神託の風穴B1Fにいる「マリオネット研究員」に烈風石の欠片を100個一度に渡す。(1キャラクター1個)&br;※烈風石の欠片は神託の風穴内にいる全モンスターが一定確率でドロップ&br;入手イベントには事前に必要フラグあり→詳細は [[神託の風穴>Quest/Maimai#dc111b47]]|
+
+***クレイゴーレム [#ke314f26]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/clay%20g.jpg,nolink,150x193);|土40|STR&br;+12|DEX&br;-3|INT&br;0|VIT&br;+25|AGI&br;-6|MAG&br;-12|HP&br;+40|MP&br;0|SP&br;+10|HP&SP|3/3|+10|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ソイレントグリーン】&br;自分を中心とした範囲にツタを生やして一定時間対象の動きを妨害する&br;消費MP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:神託の風穴1F(ダンジョン入口)にいるマリオネット研究員に「肥沃な泥」 100個、「金の心臓」 5個を渡す。(1キャラクター1個)&br;※「肥沃な泥」を落とすトイニポポのドロップ率が全体的に極めて低いため根気が必要。&br;フウジン同様、事前に必要フラグあり→詳細は [[神託の風穴>Quest/Maimai#dc111b47]]&br;※無限回廊の中層と下層にも「肥沃な泥」を落とすMOBが実装された。|
+
+***スムージー [#k8ce53e9]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/smoozy.jpg,nolink,160x251);|-|STR&br;-15|DEX&br;+8|INT&br;+7|VIT&br;-5|AGI&br;0|MAG&br;+25|HP&br;+10|MP&br;+60|SP&br;0|MP| 3/3 |+0|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ミミックリー】&br;指定したモンスターに変身できる。攻撃を受けるか、時間が来ると変身が解ける&br;およそ30分で解除&br;消費SP10MP10|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[カーマインブリックシティ>Quest/CarmineBrick#dffebf6c]]の屋内にいる「スムージー」に「緑色の液体」を一度に100個渡す。(1キャラクター1個)&br;※「緑色の液体」はカーマイン遺跡に出現する「ブルガルスムージー」がやや低確率でドロップする。|
+
+***スチーマー [#i8d672ee]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/steamer.jpg,nolink,120x120);|火30|STR&br;+6|DEX&br;-12|INT&br;-15|VIT&br;+20|AGI&br;+20|MAG&br;0|HP&br;？|MP&br;？|SP&br;？|SP| 3/3 |+80|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【スチームボム】&br;自分を中心とした範囲に水蒸気爆発を起こす&br;消費MP20、MATK依存|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:カーマインブリック遺跡１Ｆ中央にいる「ボロボロの機械」に「怪しい歯車」を10個渡す。(1キャラクター1個)&br;※怪しい歯車はカーマイン砂漠（夜）に出現するスチーマーがドロップ。機械知識があると出やすい。|
+
+
+**スーパーマリオネット[#de44faf1]
+[[ECOShop>ECOShop#PetMarionette]]で販売される課金アイテム(2010/08/19販売終了)
+2015/6/25以降「古びたコイン」70枚と交換できるようになった。
+
+***スーパーマリオネット・ニンフ [#n8f0022b]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/orange%20Nymph.jpg,nolink,130x130);|風50|STR&br;-8|DEX&br;0|INT&br;+15|VIT&br;-8|AGI&br;+12|MAG&br;+12|HP&br;+30|MP&br;+45|SP&br;+7|MP|3/1|???|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【プティートルネード】&br;自分を中心に小さな竜巻を発生させる。（風属性で接続時間5秒程度）&br;消費MP30、M.ATK依存、竜巻の軌道はランダム|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ECOShop>ECOShop#PetMarionette]]にて5,000Shop Pointで販売(販売終了)&br;「古びたコイン」70枚と交換（2015/6/25追加）|
+
+***スーパーマリオネット・アイシー [#d0301408]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/red%20icey.JPG,nolink,155x278);|水50|STR&br;0|DEX&br;0|INT&br;+10|VIT&br;-3|AGI&br;+7|MAG&br;+12|HP&br;+30|MP&br;+45|SP&br;+4|MP|6/4|???|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【クーリング】&br;自分を中心にした範囲を氷漬けにして対象の移動を妨害する。（周囲5*5の敵を凍結、凍結時間は約5秒）&br;消費MP20、M.ATK依存、持続時間5秒|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ECOShop>ECOShop#PetMarionette]]にて5,000Shop Pointで販売(販売終了)&br;「古びたコイン」70枚と交換（2015/6/25追加）|
+
+***スーパーマリオネット・ホムラ [#c7323adg]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/whitehomura.jpg,nolink,253x249);|火50|STR&br;+6|DEX&br;-4|INT&br;+7|VIT&br;0|AGI&br;-3|MAG&br;+10|HP&br;+45|MP&br;+45|SP&br;+22|HP|1/1|???|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【バックドラフト】&br;自分を中心とした範囲に炎の渦を作る。一定時間、効果が持続する（周囲5*5に炎属性範囲魔法攻撃、接続時間は範囲内の敵の数等で変化）&br;消費MP40、HPの約1/20のダメージ|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:LEFT:[[ECOShop>ECOShop#PetMarionette]]にて5,000Shop Pointで販売(販売終了)&br;「古びたコイン」70枚と交換（2015/6/25追加）|
+
+***スーパーマリオネット・タイニー [#j46f9922]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/tainywh.jpg,nolink,170x240);|光50|STR&br;-3|DEX&br;0|INT&br;+4|VIT&br;-5|AGI&br;+3|MAG&br;+10|HP&br;0|MP&br;+15|SP&br;+3|MP|3/3|???|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ポケポケ】&br;射程距離2・ほぼ全てのステータス異常を付加（魔法扱い、INT依存で成功率増加、毎回かかる異常はランダム）&br;消費MP20+SP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:[[ECOShop>ECOShop#PetMarionette]]にて5,000Shop Pointで販売(販売終了)&br;「古びたコイン」70枚と交換（2015/6/25追加）|
+
+***スーパーマリオネット・ピーノ [#c16d163c]
+|CENTER:125|CENTER:20|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:60|CENTER:60|c
+|~画像|~属性|>|>|>|>|>|>|>|>|~能力値|~回復スキル|~重量/容量|~移動速度|h
+|#ref(http://eco.acronia.net/img/gamedb_wiki/MarionetteList/pino.JPG,nolink,96x157);|地50|STR&br;0|DEX&br;+10|INT&br;0|VIT&br;-5|AGI&br;+15|MAG&br;+4|HP&br;+15|MP&br;+30|SP&br;+7|MP|6/6|???|
+|~|~スキル|>|>|>|>|>|>|>|>|>|>|>|LEFT:【ソイレントグリーン】&br;自分を中心とした範囲にツタを生やして一定時間対象の動きを妨害する&br;消費MP20|
+|~|~入手法|>|>|>|>|>|>|>|>|>|>|>|LEFT:LEFT:[[ECOShop>ECOShop#PetMarionette]]にて5,000Shop Pointで販売(販売終了)&br;「古びたコイン」70枚と交換（2015/6/25追加）|
+
+**騎士団演習用マリオネット[#abc201cb]
+-''大まかな概要''
+--2012年12月20日に騎士団演習が新騎士団演習にリニューアルされた際に実装されたマリオネット
+--各軍の館長室にて所属軍の隊長からプレイヤーが所属している軍に対応した演習用マリオネットを500Gで購入できる
+--それぞれ東軍がニンフ、西軍がピーノ、南軍がホムラ、北軍がアイシー。外見はスーパーマリオネットと同じ
+--3次職と一定レベル以上のDEMを除いた全てのプレイヤーが演習中のみ使用可能
+--通常のマリオネット同様効果時間は3分
+---マリオネストのスキルやイリスカードのリリースアビリティを用いることで通常マリオネット同様に効果時間延長と再使用時間短縮が可能
+--使用条件に軍所属の条件は無い。他人から買ったり受け取ったものや他軍のマリオネットでも演習中に使用できる
+--他プレイヤーが憑依していても使用可能
+--マリオネットディスチャージで解除される
+--リーダー演習でリーダーに選ばれている場合は使用出来ない
+--騎士団演習用マリオネット・ニンフは元のマリオネット同様に浮遊属性持ち
+#fold{{{
+使用時のステータス
+●1次職、2次職
+STR　+80
+DEX　+80
+INT　+40
+VIT　+40
+AGI　+80
+MAG　+80
+
+●DEMのみ
+STR　+50
+DEX　+50
+INT　+40
+VIT　+40
+AGI　+50
+MAG　+50
+
+●DEM、1次職、2次職共通
+HP　+10000
+MP　+500
+SP　+500
+
+ATK　+256-256
+MATK　+256-256
+
+S.HIT　+1500
+L.HIT　+1500
+
+DEF　+20-100
+MDEF　+20-100
+
+SAVO　+200
+LAVO　+200
+
+超高クリティカル率
+
+以下未検証または曖昧な部分
+--体属性値
+--移動速度は元となったマリオネット準拠？
+--パッシブスキルはHP自然回復、MP自然回復、SP自然回復？
+}}}
+--要するに&color(red){''物凄く強い使い捨てマリオネット''};
+//[#00000000]の重複に注意。トップのコンテンツ一覧から正確に飛べないので
+
+//|~スムージー|-|STR&br;-|DEX&br;-|INT&br;-|VIT&br;-|AGI&br;-|MAG&br;-|HP&br;?|MP&br;?|SP&br;?|？|？|
+//|-|~スキル|>|>|>|>|>|>|>|>|>|>|LEFT:【ミミックリー】&br;指定したモンスターに変身できる。攻撃を受けるか、時間が来ると変身が解ける。|
+//|~|~入手法|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~マタンゴ|-|STR&br;-|DEX&br;-|INT&br;-|VIT&br;-|AGI&br;-|MAG&br;-|HP&br;?|MP&br;?|SP&br;?|【カウンターポイズン】&br;パッシブスキル。&br;自分に攻撃してきた対象を高確率で毒化する。|-|
+//|-|~スキル|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~|~入手法|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~ベリーベリル|-|STR&br;-|DEX&br;-|INT&br;-|VIT&br;-|AGI&br;-|MAG&br;-|HP&br;?|MP&br;?|SP&br;?|【リフレクション】&br;パッシブスキル。&br;魔法攻撃を発動者に跳ね返す。|-|
+//|-|~スキル|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~|~|~入手法|>|>|>|>|>|>|>|>|>|>|
+//|~ベリスト|-|STR&br;-|DEX&br;-|INT&br;-|VIT&br;-|AGI&br;-|MAG&br;-|HP&br;?|MP&br;?|SP&br;?|【トランスミット】&br;パッシブスキル。&br;魔法で作られた壁や範囲攻撃の効果を透過、移動できる。ベリルの進化系マリオネット。|-|
+//|-|~スキル|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~|~入手法|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~スチーマー|-|STR&br;-|DEX&br;-|INT&br;-|VIT&br;-|AGI&br;-|MAG&br;-|HP&br;?|MP&br;?|SP&br;?|【スチームボム】&br;自分を中心とした範囲に水蒸気爆発を起こす。|-|
+//|-|~スキル|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~|~入手法|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~ゴーレム|-|STR&br;-|DEX&br;-|INT&br;-|VIT&br;-|AGI&br;-|MAG&br;-|HP&br;?|MP&br;?|SP&br;?|【ブルズラン】&br;自分指定、移動、猛烈な突撃（現在のディレクションへ２ヘックス分の突撃を行う）|-|
+//|-|~スキル|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~|~入手法|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~ハレルヤ|-|STR&br;-|DEX&br;-|INT&br;-|VIT&br;-|AGI&br;-|MAG&br;-|HP&br;?|MP&br;?|SP&br;?|【メリーメーキング】&br;対象者を一定時間、混乱させる。対象者はその間ピエロ姿になる。|-|
+//|-|~スキル|>|>|>|>|>|>|>|>|>|>|LEFT:|
+//|~|~入手法|>|>|>|>|>|>|>|>|>|>|LEFT:|
+
+*情報提供・コメント欄（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません、コメント欄以外も同じです。質問は[[こちら>Tutorial#rdccae80]]を参照
+#pcomment

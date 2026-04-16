@@ -1,0 +1,19 @@
+# 職クエ/SU
+
+*スペルユーザー・クエスト一覧[#JobQueSU]
+#contents
+
+情報提供の際はできるだけ正確なクエスト名・Lv・性別・種族・時間・内容・報酬を添えて下さい。
+内容や報酬に幅があるもの、同じ名前の違うクエストに注意して下さい。
+
+**ウィザード [#Wizard]
+#include(職クエ/ウィザード,notitle)
+
+**シャーマン [#Shaman]
+#include(職クエ/シャーマン,notitle)
+
+**ウァテス [#Wotes]
+#include(職クエ/ウァテス,notitle)
+
+**ウォーロック [#Warlock]
+#include(職クエ/ウォーロック,notitle)

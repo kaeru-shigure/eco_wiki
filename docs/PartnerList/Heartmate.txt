@@ -1,0 +1,374 @@
+# PartnerList/Heartmate
+
+#author("2017-08-09T22:56:22+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （ハートメイト） [#h19b7b98]
+#contents
+
+ステータスの表記は本wikiのレイアウトの関係で英語にしています (表示順序はゲーム内と同じ)
+ステータス数値のうちM.RCVとS.RCVが&color(silver){灰色};の場合、信頼度換算の際に信頼度黒での数値が算出できなかったことを示します(上限300に達していたため)。確定次第黒文字に要修正
+
+**ハートメイト [#Haertmate]
+-メインキャラクターハートメイト
+--2011年の通年イベントキャラクター
+--メインストーリーや要所のイベントで登場するメインキャラクター達のもの。
+--フシギなタマゴの力でココロが具現化したパートナー(主にキャラクター達の思ったちょっとした憧れ等の具現化)
+--基本的に新規入手方法は無い
+---2015/10/22以降、[[びっくりアイテムＢＯＸ>ECOShop#BikkuriItemBox]]1等のパートナー引き換え券から入手可能
+-守護魔ハートメイト（2012年）
+--主に2012年の通年イベントキャラクター
+--守護魔がフシギなタマゴの力で人の姿になったもの
+--基本的に新規入手方法は無い
+--ほんの一部を除き、プレイヤーキャラがモデルのベースになっているため、メタモル時はプレイヤーの持つほとんどのモーションで全く同じ動作をする。
+//---カナデのメイガスハートは2016年9月まで入手できる
+//---ネコマタハート（フリル）は2015年12月まで入手できる
+--ムツキのシャーマンハート（朱）～ロウゲツのフェンサーハートに専用アイテムを使用すると見た目が変化する。[[詳細はこちら>Quest/タイニーアイランド#xdfa8b36]]
+--ステータス（BaseLvによる上昇を含む）は守護魔と守護魔ハートで同じ（公式twitterによる）が、一部ハートメイトは異なる仕様となっている。
+---ミナヅキのエレガントハートは、守護魔ミナヅキとステータスが異なる。
+//---ナガツキの守護神ハートとカンナのエクソシストハートは、それぞれアイテムチェンジ前でのステータス値の半分を補正として引き継ぐ。
+-守護魔ハートメイト（2017年）
+--2017年の通年イベントキャラクター
+--ECOドリーム(期間限定)から新規入手可能
+--アイテム欄のパートナー詳細欄から守護魔形態にアイテムチェンジが可能
+--パートナー憑依可能。憑依中はパートナーの一部スキルを使用することができる。
+
+***エミルの狩人ハート [#EmilHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/EmilHeartKari.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;300&br;60&br;60&br;30&br;43&br;30&br;44&br;32&br;20&br;&br;33&br;12&br;30&br;15&br;20&br;10&br;130&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27450&br;1660&br;1110&br;638&br;799&br;1073&br;1253&br;311&br;218&br;&br;434&br;12&br;394&br;15&br;89&br;103&br;390&br;590&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;エミルの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/EmilHeart]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;エリアヒール&br;デュアルアロー&br;パラージアロー&br;チャージショット&br;アヴォイドバースト&br;&br;【入手法】&br;[[ECOくじ「雪国アニマルズ」2等>Kuji/2011#log_snowanimals]]|
+
+***ルルイエのあまえんぼハート [#RlyehHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/RuruieHeartAmaenbo.jpg,nolink,128x224);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;300&br;60&br;60&br;30&br;43&br;30&br;44&br;32&br;20&br;&br;33&br;12&br;30&br;15&br;20&br;10&br;130&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27450&br;1660&br;1110&br;638&br;799&br;1073&br;1253&br;311&br;218&br;&br;434&br;12&br;394&br;15&br;89&br;103&br;390&br;590&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ルルイエの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/RlyehHeart]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;エリアヒール&br;ラウズボディ&br;アイスアロー&br;リヴァイブ&br;&br;&br;【入手法】&br;[[ECOくじ「スウィート・ロリポップ」2等>Kuji/2011#log_sweet_lolipop]]|
+
+***マーシャのくのいちハート [#MarciaHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/MarciaHeartKunoiti.jpg,nolink,128x267);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;マーシャの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/MarciaHeart]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;パリィ&br;スキャターポイズン&br;アサルト&br;デッドリーアタック&br;くらえ！必殺！&br;アヴォイドバースト&br;スタミナテイク&br;&br;【入手法】&br;[[ECOくじ「くのいち絵巻」2等>Kuji/2011#log_kunoichi]]|
+
+***タイタスのなごやかハート [#TaitasuHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/TaitasuHeartNagoyaka.jpg,nolink,128x276);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;タイタスの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/TaitasuHeart]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;コンセントレート&br;アタック・バースト&br;マジックシールド&br;ヒーリング&br;スタンブロウ&br;ホーリーライト&br;&br;【入手法】&br;[[ECOくじ「花咲く！アクロニア便り」2等>Kuji/2011#log_flower_bloom]]|
+
+***ティタの冒険ハート [#ThitaHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/ThitaHeartBouken.jpg,nolink,128x273);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ティタの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/ThitaHeart]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;アタックバースト&br;ポケポケ&br;みね打ち&br;ハードスラッシュ&br;せ～の！&br;&br;【入手法】&br;[[ECOくじ「パイレーツアドベンチャー」2等>Kuji/2011#log_pirates_adventure]]|
+
+***ベリアルの守護ハート [#BeriaruHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/BeriaruHeartSyugo.jpg,nolink,128x268);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ベリアルの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/BeriaruHeart]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;ヒーリング（主人にのみ使用）&br;ディフェンス・バースト&br;アースクラッシュ&br;挑発&br;一閃&br;旋風剣&br;ハードスラッシュ&br;&br;【入手法】&br;[[ECOくじ「ゴシックパーティ」2等>Kuji/2011#log_gothicparty]]|
+
+***ルクスのエスコートハート [#LUXHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/LuxHeartEscort.jpg,nolink,128x269);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ルクスの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/luxHeart]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;デッドリーアタック&br;ファランクス&br;兜割り&br;ハードスラッシュ&br;最適化&br;デフラグ（自分にのみ使用）&br;エナジーバリア&br;&br;&br;【入手法】&br;[[ECOくじ「ドリーミーナイト」2等>Kuji/2011#log_dreamynight]]|
+
+***リリのワルキューレハート [#LiliHeartValkyrie]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/LiliHeartValkyrie.jpg,nolink,128x264);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;リリの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/LiliHeartValkyrie]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;連続突き&br;ダークワールウィンド&br;一騎当千&br;最適化&br;デフラグ(自分にのみ使用)&br;ヒーリング（主人にのみ使用）&br;エナジーバリア&br;&br;&br;【入手法】&br;[[ECOくじ「古の北欧神話」2等>Kuji/2011#log_legend_myth]]|
+
+***ルルイエの魔女っ子ハート [#RlyehHeartMajyo]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/RuruieHeartMajokko.jpg,nolink,128x193);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ルルイエの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/RlyehHeartMajyo]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;ファイアボール&br;チェインライトニング&br;アースオーラ&br;フロスティゲイル&br;エンチャントウェポン&br;ヒーリング&br;&br;&br;【入手法】&br;[[ECOくじ「デビルズハロウィン」2等>Kuji/2011#log_devils_halloween]]|
+
+***ティタのお姫さまハート [#ThitaHeart2]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/HeartmateSyugoma/ThitaHeartHime.jpg,nolink,128x224);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ティタの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/ThitaHeart2]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;エリアヒール&br;応援&br;ディフェンスバースト&br;クリティカルアシスト&br;ラウドソング&br;デッドマーチ&br;&br;【入手法】&br;[[ECOくじ「お城の童話」2等>Kuji/2011#log_castlestory]]|
+
+***マーシャのマーチングハート[#MarciaHeart2]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/MarciaHeart2.jpg,nolink,128x217);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;マーシャの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/MarciaHeart2]]&br;&br;系統：ハートメイト系&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;エリアヒール&br;応援&br;エナジーバリア&br;ソリッドオーラ&br;ラウズボディ&br;ライフテイク&br;&br;【入手法】&br;[[ECOくじ「ハートメイトカーニバル」2等>Kuji/2011#log_heartmate]]|
+
+**守護魔ハート（2012年） [#HaertmateSyugoma]
+
+***ムツキのシャーマンハート（朱） [#MuthukiShamanHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/mutsuki.jpg,nolink,128x472);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ムツキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Muthuki]]&br;・「[[ムツキ用シャーマンハート（青）>Quest/タイニーアイランド#xdfa8b36]]」で服の色が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;エリアヒール&br;ララバイ&br;リヴァイブ&br;ラウズボディ&br;&br;【入手法】&br;[[ECOくじ「初春の巫女」1等>Kuji/2012#SyosyunNoMiko]]|
+
+***キサラギの盗賊ハート [#KisaragiTouzokuHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/Kisaragi%20the%20Bandit%20heart.jpg,nolink,128x267);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;キサラギの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Kisaragi]]&br;・「[[キサラギ用盗賊ハート（紺）>Quest/タイニーアイランド#xdfa8b36]]」で服の色が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;ルミナリィノヴァ&br;グラヴィティフォ－ル&br;ブラックウィドウ&br;スタンブロウ&br;カウンター&br;マジックリベレイション&br;&br;【入手法】&br;[[ECOくじ「令月の盗賊」1等>Kuji/2012#ReigetsuNoTouzoku]]|
+
+***ヤヨイのカンフーハート[#yayoikanhuHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/yayoi_heart.jpg,nolink,127x238);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;240&br;90&br;90&br;30&br;43&br;30&br;44&br;32&br;20&br;&br;33&br;12&br;30&br;12&br;20&br;10&br;130&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;25040&br;690&br;1190&br;1438&br;1499&br;723&br;903&br;441&br;248&br;&br;422&br;12&br;304&br;12&br;154&br;155&br;440&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ヤヨイの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Yayoi]]&br;・「[[ヤヨイ用カンフーハート（ドレス）>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;パリィ&br;カウンター&br;クリティカル&br;一閃&br;ヒーリング&br;スタンブロウ&br;&br;【入手法】&br;[[ECOくじ「花月の桃源郷」2等>Kuji/2012#KagetsuNoTougenkyou]]|
+
+***ウヅキのチルドレンハート [#UzukiChildrenHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/uzuki_heart.png,nolink,128x224);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ウヅキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Uduki]]&br;・「[[ウヅキ用チルドレンハート（戦闘）>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;旋風剣&br;せ～の！&br;みね打ち&br;カウンター&br;パリィ&br;応援&br;&br;【入手法】&br;[[ECOくじ「陰月の“契約者”」1等>Kuji/2012#IngetsuNoKeiyakusya]]|
+
+***サツキのフェアリーハート [#SatsukiFairyHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/SatsukiFairyHeart.jpg,nolink,128x333);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;サツキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Satsuki]]&br;・「[[サツキ用フェアリーハート（ローズ）>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;応援&br;アヴォイドバースト&br;ファイアボール&br;アイスアロー&br;エナジークロウ&br;ルミナリィノヴァ&br;&br;【入手法】&br;[[ECOくじ「雨月の妖精物語」1等>Kuji/2012#UgetsuNoYouseiMonogatari]]|
+
+***ミナヅキのエレガントハート [#MinadukiElegantHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/minaduki_elegant%20heart.jpg,nolink,128x472);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;40&br;41&br;45&br;45&br;28&br;30&br;&br;30&br;20&br;35&br;28&br;20&br;10&br;150&br;130&br;&br;120&br;&color(silver){1};&br;&color(silver){0};|110&br;黒&br;&br;21500&br;1690&br;1040&br;519&br;580&br;1541&br;1721&br;278&br;250&br;&br;301&br;20&br;349&br;28&br;154&br;155&br;410&br;490&br;&br;250&br;&color(silver){300};&br;&color(silver){300};|【説明】&br;ハートメイトの一種&br;ミナヅキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Minaduki]]&br;・「[[ミナヅキ用エレガントハート（白）>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;・守護魔ミナヅキとはステータスが異なる&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;ヒーリング&br;ライフテイク&br;応援&br;クリティカルアシスト&br;ディフェンスバースト&br;リヴァイブ&br;&br;【入手法】&br;[[ECOくじ「水月の待ち人」1等>Kuji/2012#SuigetsuNoMachibito]]|
+
+***フミツキのぷりてぃハート [#FumitsukiPrettyHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/FumitsukiPrettyHeart.jpg,nolink,128x443);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;黒&br;&br;21500&br;1890&br;1040&br;519&br;647&br;1891&br;2004&br;307&br;250&br;&br;331&br;20&br;399&br;28&br;94&br;95&br;410&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;フミツキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Fumitsuki]]&br;・「[[フミツキ用ぷりてぃハート（触手解放）>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;応援&br;スタンブロウ&br;せ～の！&br;くらえ！必殺！&br;エナジーバリア&br;アイスアロー&br;&br;【入手法】&br;[[ECOくじ「涼月の姫君」1等>Kuji/2012#RyougetsuNoHimegimi]]|
+
+
+***ハヅキのサイバーハート [#HadukiCyberHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/HadukiCyberHeart00.jpg,nolink,128x408);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ハヅキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Haduki]]&br;・「[[ハヅキ用サイバーハート（スーツ）>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：突き&br;射程：2&br;&br;【使用スキル】&br;クロスクレスト&br;バーストショット&br;デフラグ&br;アサルト&br;エナジーバリア&br;&br;【入手法】&br;[[ECOくじ「清月の電脳幻想」1等>Kuji/2012#SeigetsuNoDennouGensou]]|
+
+***キクヅキの守護魔ハート [#KikudukiShugomaHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/KikudukiShugomaHeart.jpg,nolink,128x222);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;&color(,#ffafcf){桃};&br;&br;29388&br;3635&br;2360&br;619&br;680&br;1991&br;2171&br;478&br;500&br;&br;431&br;20&br;499&br;28&br;194&br;195&br;410&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;キクヅキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Kikuduki]]&br;・「[[晩秋紅葉>Quest/タイニーアイランド#xdfa8b36]]」使用後はナガツキの守護神ハートにアイテムチェンジできるようになる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;応援&br;バックラッシュ&br;ウィップラッシュ&br;ヒーリング&br;サンダーボルト&br;&br;【入手法】&br;[[ECOくじ「詠月の郷愁」2等>Kuji/2012#EigetsuNoKyousyu]]|
+
+***ナガツキの守護神ハート [#NagatsukiShugoshinHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/NagatsukiShugoshinHeart.jpg,nolink,128x221);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;&color(,#ffafcf){桃};&br;&br;32934&br;1550&br;3050&br;1650&br;1715&br;700&br;730&br;607&br;535&br;&br;530&br;25&br;480&br;28&br;256&br;235&br;430&br;370&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ナガツキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Nagatsuki]]&br;・育成によるステータス上昇が無い&br;・キクヅキハート時のステータス値の半分が補正となる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;応援&br;クリティカル&br;ヒーリング&br;ノクシャスブラスト&br;滅！&br;アースクラッシュ&br;サンダーボルト&br;&br;【入手法】&br;キクヅキの守護魔ハートから入れ替わる|
+
+***カミアのエクソシストハート [#KamiaExorcistHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/Kamia%20Exorcist%20Heart.jpg,nolink,227x182);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;カミアの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/KamiaKanna]]&br;・「[[双天輪廻>Quest/タイニーアイランド#xdfa8b36]]」使用後はカンナのエクソシストハートにアイテムチェンジできるようになる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ホーリーライト&br;ブラックウィドウ&br;グラヴィティフォール&br;ソリッドオーラ&br;ヒーリング&br;ライフテイク&br;リザレクション&br;応援&br;&br;【入手法】&br;[[ECOくじ「鏡祭月の双子」1等>Kuji/2012#KyousaigetuNoFutago]]&br;ECOドリーム「翼が欲しい」A賞|
+
+***カンナのエクソシストハート [#KannaExorcistHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/Kanna%20Exorcist%20Heart.jpg,nolink,211x187);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;カンナの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/KamiaKanna]]&br;・育成によるステータス上昇が無い&br;・カミアハート時のステータス値の半分が補正となる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;ホーリーライト&br;ブラックウィドウ&br;グラヴィティフォール&br;ソリッドオーラ&br;ヒーリング&br;ライフテイク&br;リザレクション&br;応援&br;&br;【入手法】&br;カミアのエクソシストハートから入れ替わる|
+
+***シモツキのフェイブルハート [#ShimotsukiFableHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/simotuki.png,nolink,128x374);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;22050&br;1890&br;1040&br;519&br;647&br;1891&br;2004&br;307&br;250&br;&br;346&br;20&br;419&br;28&br;94&br;95&br;410&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;シモツキの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Shimotsuki]]&br;・「[[シモツキ用フェイブルハート（白）>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;連続投げ&br;せ～の！&br;ダストエクスプロージョン&br;マジックポイズン&br;ヒーリング&br;応援&br;&br;【入手法】&br;[[ECOくじ「天正月の赤頭巾」1等>Kuji/2012#TensyougetuNoAkazukin]]|
+
+***ロウゲツのフェンサーハート [#RougetsuFencerHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/rougetsufencerhart.jpg,nolink,128x388);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ロウゲツの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Rougetsu]]&br;・「[[ロウゲツ用破壊魔ハート>Quest/タイニーアイランド#xdfa8b36]]」で服装が変わる&br;&br;系統：守護魔ハート系&br;種別：&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;ライフテイク&br;ブラックウィドウ&br;グラヴィティフォール&br;応援&br;一閃&br;旋風剣&br;&br;【入手法】&br;[[ECOくじ「臘月の守り手」1等>Kuji/2012#RougetuNoMamorite]]|
+
+**守護魔ハート（2015～16年） [#h2cc9b26]
+***ウルのワクワクハート [#UruWkwkHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/uruhtw.jpg,nolink,128x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;50&br;61&br;30&br;40&br;40&br;35&br;&br;50&br;25&br;30&br;28&br;20&br;20&br;150&br;130&br;&br;120&br;100&br;100|110&br;黒&br;&br;24900&br;490&br;1490&br;1490&br;1621&br;630&br;690&br;450&br;280&br;&br;420&br;25&br;340&br;28&br;130&br;130&br;510&br;400&br;&br;220&br;100&br;300|【説明】&br;ハートメイトの一種&br;ウルの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Uru]]&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ラウドソング&br;せ～の！ (リミテイションエッジLv3)&br;負けないぞ！ (ソリッドオーラLv5)&br;くらえ～っ！ (ダンシングソードLv2)&br;ラウズボディ&br;ウルが助けるぞ！ (エリアヒールLv3)&br;リザレクション&br;&br;【入手法】&br;2015年季節イベント「[[ウルと4つの花とこんぺいとう>Quest/Season/Fireworks2015#rf1f5b7e]]」|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲せ～の！|敵|単体|1|&color(red){SP30};|物理300% クリティカル100%攻撃|
+|▲負けないぞ！|主人&br;自分&br;仲間|単体|3|&color(blue){MP30};|ソリッドオーラ状態にする 効果時間16秒|
+|▲くらえ～っ！|敵|単体|5|&color(blue){MP45};|魔法300% 対象の物理防御を参照&br;詠唱時間4秒|
+|▲ウルが助けるぞ！|自分|自分中心&br;3x3|-|&color(blue){MP12};|HP回復倍率2.2|
+
+***ルゥのドキドキハート [#RuuDkdkHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Almamonster/ruudkh.jpg,nolink,128x264);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;90&br;90&br;30&br;41&br;50&br;60&br;30&br;35&br;&br;30&br;15&br;50&br;28&br;20&br;10&br;130&br;200&br;&br;120&br;100&br;100|110&br;黒&br;&br;21350&br;1890&br;1040&br;510&br;571&br;1894&br;2090&br;230&br;245&br;&br;290&br;15&br;430&br;28&br;80&br;70&br;370&br;580&br;&br;250&br;300&br;200|【説明】&br;ハートメイトの一種&br;ルゥの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Ruxu]]&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ソリッドオーラ&br;ルミナリィノヴァ&br;え～いっ！&br;がんばる…… (ゼン)&br;ルゥが守るの！ (旧ディバインバリアLv2)&br;リザレクション&br;アレス (HP回復倍率1.0)&br;&br;【入手法】&br;2015年季節イベント「[[ルゥと食材の山とフルコース>Quest/Season/Mushrooming2015#v5cc19e0]]」|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲え～いっ！|敵|単体|6|&color(blue){MP18};|M.ATK依存620%＋フレア 新生属性？ 詠唱1秒|
+|▲がんばる……|主人&br;自分&br;仲間|単体|1|&color(blue){MP28};|ゼン状態にする 効果時間35秒 詠唱6秒&br;魔法効果・消費MP1.2倍|
+|▲ルゥが守るの！|主人&br;自分|単体中心&br;3x3|5|&color(blue){MP32};|左DEF+13 右DEF+10 左M.DEF+20&br;右M.DEF+15 効果時間125秒 詠唱3秒&br;%%説明文には周囲とあるが実際は単体%%&br;2016/2/25のアップデートで説明文通りに修正された|
+
+***ウルゥのヒトトセハート [#UruuHttsHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/uruhheart.jpg,nolink,128x288);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;800&br;100&br;100&br;124&br;126&br;91&br;92&br;87&br;81&br;&br;40&br;25&br;60&br;28&br;20&br;25&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;30723&br;990&br;990&br;1340&br;1466&br;1450&br;1580&br;420&br;420&br;&br;400&br;25&br;400&br;28&br;210&br;210&br;540&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ウルゥの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Uruxu]]&br;・ブリーダーのスキル「信頼の証」に座るが無い&size(10){&color(silver){※2016/3/10時点};};&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;『はじまりの記憶』&br;ディバインバリア(旧Lv2)&br;リザレクション(Lv1)&br;アレス(HP回復倍率1.0)&br;ゼン(Lv1)&br;ウルの活力を！&br;ルゥの護りを！&br;おしおきです……！&br;&br;【入手法】&br;2016年イベント「[[ウルゥと世界のひずみ>Quest/Season/Uruu2016_2]]」|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲『はじまりの記憶』|主人&br;自分&br;仲間|地面中心&br;5x5|5|&color(blue){MP50};|セイクリッドエンブレイス&br;詠唱5秒 ディレイ7秒 効果時間30秒&br;HP回復倍率3.2&br;HP回復率+15 MP回復率+15 SP回復率+15|
+|▲ディバインバリア|主人&br;自分&br;仲間|&color(red){単体};|5|&color(blue){MP32};|旧Lv2相当&br;詠唱3秒 効果時間125秒 ディレイ1秒&br;左DEF+13 右DEF+10&br;左M.DEF+20 右M.DEF+15|
+|▲リザレクション|主人&br;仲間|単体|5|&color(blue){MP40};|詠唱5秒 ディレイ10秒 蘇生時HP10%回復|
+|▲アレス|主人&br;自分&br;仲間|単体|5|&color(blue){MP30};|HP回復倍率1.0 詠唱0.7秒? ディレイ0.5秒|
+|▲ゼン|主人&br;自分&br;仲間|単体|1|&color(blue){MP10};|詠唱6秒 効果時間15秒 ディレイ0.5秒|
+|▲ウルの活力を！|主人&br;自分&br;仲間|単体|6|&color(red){SP8};|ディレイキャンセル&br;詠唱&color(red){0秒}; ディレイ&color(red){0秒}; 効果時間10秒|
+|▲ルゥの護りを！|主人&br;自分&br;仲間|単体|3|&color(blue){MP30};|ソリッドオーラ&br;詠唱&color(red){0秒}; ディレイ2秒 効果時間16秒|
+|▲おしおきです……！|敵|単体|5|&color(blue){MP45};|ダンシングソードLv2&br;M.ATK300% 詠唱4秒 ディレイ1秒&br;敵の物理防御を参照する|
+
+**守護魔ハート（2017年） [#rabf6fc6]
+***アカリの守護魔ハート[#AkariHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/AkariHeart.jpg,nolink,200x423);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;黒&br;&br;500&br;70&br;100&br;75&br;81&br;25&br;30&br;58&br;50&br;&br;65&br;10&br;60&br;10&br;25&br;25&br;220&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv110&br;黒&br;&br;24900&br;720&br;1530&br;1520&br;1561&br;620&br;660&br;430&br;370&br;&br;455&br;26&br;475&br;24&br;140&br;160&br;520&br;470&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;アカリの心の力が具現化したもの&br;&br;火を司る守護魔&br;&br;・[[台詞>PetSpeech/AkariHeart]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（怒る、恥ずかしがる、決めポーズ！、じゃんけん・グー、じゃんけん・チョキ、じゃんけん・パー、じゃんけん・ぽん！）&br;&br;・メタモルフォーゼ中にEXモーション「体育座り」でモモンガと遊ぶモーションをとる&br;&br;【アイテムチェンジ】&br;守護魔・アカリ&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：斬り&br;射程：&br;&br;【使用スキル】&br;業火爆&br;内心炎&br;炎魂&br;火封印&br;吸炎(ライフテイクLv1相当)&br;&br;【憑依時使用可能スキル】&br;業火爆&br;&br;【入手法】&br;[[ECOドリーム「大自然の灯火」A賞>http://econline.gungho.jp/econetstore/2016/daishizenno-tomosibi/]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲業火爆|敵|単体|1|&color(red){SP90};|対象に斬撃を行った範囲攻撃を発動させ持続ダメージと一定時間、物理防御力、魔法防御力を低下させる状態異常を与える&br;初撃740%(3x3)+追撃1500%(5x5) (憑依時400％単体+800％範囲)&br;追撃には除算DEF12%減算DEF12%低下＋フレア状態&br;初撃・追撃共に武器依存属性で各種ウェポンが有効。|
+|▲内心炎|敵|単体中心円|3|&color(red){SP15};|対象の武器に炎の力を宿らせる&br;効果時間80秒 |
+|▲炎魂|自分専用|-|-|&color(red){SP15};|一定時間、自分の物理攻撃力を上昇させる。対象が状態異常の場合ダメージが上昇する|
+|▲火封印|主人&br;自分&br;仲間|単体|5|&color(red){SP25};|火属性の攻撃を受けた時、ダメージを軽減する&br;効果時間120秒|
+|▲吸炎|主人&br;自分&br;仲間|単体|6|&color(red){SP20};|対象の武器に、その武器が与えたダメージの一部を持ち主がHPとして吸収できる効果を与える|
+
+***フェールの守護魔ハート[#FerHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/FerHeart1.jpg,nolink,200x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;黒&br;&br;550&br;70&br;90&br;63&br;69&br;12&br;15&br;48&br;38&br;&br;70&br;22&br;65&br;22&br;20&br;20&br;200&br;200&br;&br;100&br;100&br;120|Lv110&br;黒&br;&br;27000&br;700&br;1710&br;1360&br;1431&br;560&br;610&br;345&br;290&br;&br;580&br;30&br;560&br;25&br;110&br;120&br;460&br;440&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;フェールの心の力が具現化したもの&br;&br;鋼の守護魔&br;&br;・[[台詞>PetSpeech/FerHeart]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（盾を構える、迫る、決めポーズ、負傷ポーズ）&br;&br;&br;【アイテムチェンジ】&br;守護魔・フェール&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;張り切っちゃいますよ！&br;たまには攻めますよっ！&br;お護りしますっ！&br;攻防一体！&br;鋼の加護 (旧ディバインバリアLv2)&br;&br;【憑依時使用可能スキル】&br;お護りしますっ！&br;&br;【入手法】&br;[[ECOドリーム「ディフェンシブナイト・フェール」A賞>http://econline.gungho.jp/econetstore/2017/defensive-night-fer/]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲張り切っちゃいますよ！|自分|自分中心&br;7x7|-|&color(red){SP35};|自身の周囲に対して物理攻撃力と魔法攻撃力を減少させる攻撃を行う&br;最大・最小ATK/M.ATK 20%低下＋600％&br;ハーヴェストの効果は優先される|
+|▲たまには攻めますよっ！|敵|単体|1|&color(red){SP128};|相手を凄い力で攻撃する 700%|
+|▲お護りしますっ！|主人&br;自分&br;仲間|単体中心&br;3x3|5|&color(red){SP12};|魔法攻撃ダメージを軽減する(20%)&br;効果時間15秒(憑依時20秒)|
+|▲攻防一体！|自分|自分中心&br;5x5|-|&color(red){SP80};|一定時間、ダメージの一部を敵に反射する&br;(80~95%? 対人に10~20%?)&br;効果時間120秒 即死させれば発動しない 演習使用不可|
+|▲鋼の加護|主人&br;自分&br;仲間|単体中心&br;3x3|5|&color(blue){MP32};|旧Lv2相当&br;詠唱3秒 効果時間125秒 ディレイ1秒&br;左DEF+13 右DEF+10&br;左M.DEF+20 右M.DEF+15|
+
+***ランの守護魔ハート[#RunHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/RanHeart.jpg,nolink,200x354);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;黒&br;&br;420&br;105&br;54&br;45&br;55&br;72&br;82&br;35&br;40&br;&br;45&br;12&br;33&br;20&br;30&br;30&br;180&br;180&br;&br;RCV&br;M.RCV&br;S.RCV|Lv110&br;黒&br;&br;29570&br;1880&br;870&br;525&br;607&br;1958&br;2135&br;335&br;310&br;&br;345&br;23&br;585&br;30&br;350&br;350&br;360&br;530&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;ランの心の力が具現化したもの&br;&br;雷を司る守護魔&br;&br;・[[台詞>PetSpeech/RunHeart]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（決めポーズ！、ハグ、興奮する、驚く、照れる）&br;&br;&br;【アイテムチェンジ】&br;守護魔・ラン&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;天雷&br;鳴神&br;雷神の加護&br;電光石火&br;これはスキンシップですから！&br;&br;【憑依時使用可能スキル】&br;雷神の加護&br;&br;【入手法】&br;[[ECOドリーム「孤独の森のラン」A賞>http://econline.gungho.jp/econetstore/2017/kodokuno-morino-run/]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲天雷|敵|単体中心&br;5x5|5|&color(blue){MP180};|対象の上空に雷雲を発生させ&br;一定間隔で対象とその周囲に風の力を持つ魔法攻撃を行う&br;風属性2300%、指定対象の1体に雷雲を付与&br;雷雲：4秒毎に5x5範囲に風魔法2000%の追加攻撃 持続30秒|
+|▲鳴神|敵|単体中心&br;5x5|5|&color(blue){MP60};|一定確率で対象とその周囲の&br;スキル詠唱を止めて&br;スキル発動を無効化させ&br;物理攻撃速度、魔法詠唱速度&br;クリティカル率を減少させる|
+|▲雷神の加護|自分|単体|-|&color(blue){MP90};|一定時間、自身に雷を纏わせる&br;触れた対象に風の力を持つ魔法ダメージを与え(1200% 憑依時400%)&br;属性相性によるダメージ減少量を軽減する(敵防御属性-50として計算 憑依時-15)&br;※効果中、透明化などの特殊効果が解除されます&br;範囲3x3、効果時間120秒(憑依時60秒)、中心への引きよせ効果あり|
+|▲電光石火|自分|単体|-|&color(blue){MP60};|一定時間回避率、魔法詠唱速度を上昇させ&br;一定確率で、物理・魔法攻撃を回避することが出来る&br;ただし、ダメージ反射などの特殊な攻撃を回避することが出来ない|
+|▲これはスキンシップですから！|主人&br;自分&br;仲間|単体|7|&color(blue){MP40};|指定対象に微量のHP、MP、SP回復力上昇効果と&br;MP、SPの自然回復を一定時間発生させる&br;PC版ホーリーフェザーの1/2の自動回復効果|
+
+***トワの守護魔ハート[#TowaHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/TowaHeart.jpg,nolink,200x326);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv1&br;黒&br;&br;900&br;120&br;60&br;30&br;41&br;75&br;80&br;35&br;40&br;&br;43&br;10&br;45&br;22&br;20&br;10&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv110&br;黒&br;&br;35680&br;1950&br;910&br;620&br;801&br;1980&br;2110&br;335&br;310&br;&br;343&br;20&br;595&br;23&br;100&br;110&br;400&br;590&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;トワの心の力が具現化したもの&br;&br;命を司る守護魔&br;&br;・[[台詞>PetSpeech/TowaHeart]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（じらし、祈り、ぽかぽかパンチ、飲む）&br;&br;&br;【アイテムチェンジ】&br;守護魔・トワ&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;死魅霊還&br;桜花爛漫&br;適者生存&br;仮初ノ命&br;幸ノ魂&br;&br;【憑依時使用可能スキル】&br;幸ノ魂&br;&br;【入手法】&br;[[ECOドリーム「トワに花を」A賞>http://econline.gungho.jp/econetstore/2017/towani-hanawo/]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲死魅霊還|敵|単体中心円|5|&color(blue){MP350};|対象にアンデット属性になる魔法攻撃を行った後&br;アンデッドに対して効果の高いＨＰ吸収攻撃を行い自分のＨＰとＭＰを回復する&br;威力：1500％＋1000％(敵がアンデット状態の場合、２HIT目に追加＋2500％)|
+|▲桜花爛漫|自分専用|自分中心円&br;範囲3X3|-|&color(blue){MP300};|一定時間、自身とその周囲のＨＰと基本的な状態異常を一定間隔で回復するオーラを纏う&br;※スキル対象が＜自分＞の条件でしか発動しません&br;※効果中、透明化などの特殊効果が解除されます&br;&br;各キャラクター最大HPの10％（闘技場モード時5％）と状態異常を2秒間隔で回復(状態異常は回復率100%)、持続時間1分、ヴァニッシュメントなどでアイコンを消されても効果が持続する&br;通常の状態異常＋リボーン、ゾンビ、アンデッド状態が解除できる|
+|▲適者生存|主人&br;自分&br;仲間|単体|5|&color(blue){MP60};|対象にトランスボディ効果を付与する&br;&br;＜トランスボディ＞&br;火、水、風、土属性攻撃を受けると、その属性耐性を得る。&br;火盾、風盾、水盾、地盾の習得LVにより効果が上昇。&br;※ただし、地面設置系魔法移動系魔法(アースクライ、ファイアランチャー等)は適用外&br;&br;効果時間300秒、付与防御属性値+30|
+|▲仮初ノ命|自分専用|単体|-|&color(blue){MP80};&br;&color(red){SP80};|スキルの効果中、残りＨＰ以上のダメージを１度だけ敵にそのまま反射する仮初の魂を纏う。&br;※一部反射できないダメージ有り&br;※黒薔薇の棘で反射したダメージは仮初ノ命では反射不可&br;※スキル対象が＜自分＞の条件でしか発動しません&br;効果時間180秒|
+|▲幸ノ魂|自分専用|単体|-|&color(blue){MP30};&br;&color(red){SP30};|効果時間中、消費ＭＰと消費ＳＰを軽減する(軽減率50%、憑依時20%、持続時間180秒)&br;※スキル対象が＜自分＞の条件でしか発動しません|
+
+***メイリーの守護魔ハート[#MaryHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/MaryHeart1.jpg,nolink,200x320);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;60&br;120&br;50&br;71&br;35&br;55&br;38&br;18&br;&br;53&br;17&br;45&br;12&br;30&br;20&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;23200&br;910&br;1950&br;1170&br;1271&br;740&br;890&br;440&br;270&br;&br;535&br;27&br;438&br;22&br;170&br;185&br;560&br;470&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;メイリーの心の力が具現化したもの&br;&br;愛の守護魔&br;&br;・[[台詞>PetSpeech/MaryHeart]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（愛の戦士登場、隠れる、とぼける、休憩）&br;&br;&br;【アイテムチェンジ】&br;守護魔・メイリー&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：突き&br;射程：&br;&br;【使用スキル】&br;愛の守護戦士、登場！&br;これが愛の力です！&br;愛のオーラあたっく！&br;愛のおすそわけ&br;愛の限り戦いましょう！&br;&br;【憑依時使用可能スキル】&br;愛のオーラあたっく！&br;&br;【入手法】&br;[[ECOドリーム「愛の守護戦士・メイリー」A賞>http://econline.gungho.jp/econetstore/2017/aino-syugosenhi-mary/]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲愛の守護戦士、登場！|自分|自分中心|-|&color(red){SP120};|自分の周囲が爆発し愛の守護戦士が登場する&br;一定時間、自分の通常攻撃と攻撃スキルの威力が物理攻撃力と魔法攻撃力に依存するようになる|
+|▲これが愛の力です！|敵|単体を中心とした円|5|&color(red){SP80};|対象を中心に範囲攻撃を行い&br;一定時間、対象をメロメロにする&br;一定確率で、メロメロ状態中の敵から受けるダメージが軽減される&br;<これが愛の力です！>はメロメロ状態中の対象に対しダメージがさらに上昇する|
+|▲愛のおーらあたっく！|敵|単体中心||&color(red){SP60};|対象に対して攻撃を行い与えたダメージの一部を自身とその周囲のHPを肩代わりするオーラに変換する|
+|▲愛のおすそわけ|自分|自分中心|-|&color(red){SP100};|一定時間、自分の物理最大攻撃力と魔法最大攻撃力を上昇させる&br;その後、自分とその周囲のパーティーメンバーのステータス上昇効果を共有する|
+|▲愛の限り戦いましょう！|主人&br;自分&br;仲間|単体|3|&color(blue){MP20};|指定対象を一定回数物理攻撃無効状態にする|
+
+***オリジンの守護神ハート[#OriginHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/OriginHeart.jpg,nolink,200x364);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;370&br;100&br;100&br;60&br;66&br;42&br;45&br;45&br;45&br;&br;39&br;15&br;65&br;14&br;30&br;30&br;200&br;120&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25300&br;1200&br;1200&br;1350&br;1401&br;855&br;890&br;360&br;360&br;&br;453&br;18&br;506&br;23&br;110&br;135&br;520&br;440&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;オリジンの心の力が具現化したもの&br;&br;星の守護神&br;&br;・[[台詞>PetSpeech/OriginHeart]]&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（疑問、体操、見たいの？、どこに行くの？）&br;&br;&br;【アイテムチェンジ】&br;守護神・オリジン&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;星に想いを&br;想いの力・アカリ&br;想いの力・フェール(ディバインバリア)&br;想いの力・ラン&br;想いの力・トワ&br;想いの力・メイリー(ソリッドオーラ)&br;&br;【憑依時使用可能スキル】&br;星に想いを&br;&br;【入手法】&br;[[通年イベント「星を守る者」報酬>http://econline.gungho.jp/special/syugoma-ele/]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲星に想いを|敵|単体中心円&br;(5x5)|-|&color(red){SP50};&br;&color(blue){MP50};|指定した範囲に流星を落下させて物理攻撃力と魔法攻撃力に依存した物理ダメージを与える&br;威力ATK+M.ATK比2400%|
+|▲想いの力・アカリ|自分専用|単体|-|&color(red){SP15};|火の守護魔から受け取った想いの力を呼び起こす。&br;一定時間、自分の最大物理攻撃力を上昇させる&br;対象が状態異常の場合、ダメージが増加する。&br;最大ATK+50、効果時間120秒|
+|▲想いの力・フェール|主人&br;自分&br;仲間|単体中心円&br;(3x3)|5|&color(blue){MP10};|鋼の守護魔から受け取った想いの力を呼び起こす。&br;対象とその周囲の物理防御力と魔法防御力を上昇させる&br;割合DEF+10、減算DEF+10、割合M.DEF+15、割合M.DEF+15、効果時間60秒|
+|▲想いの力・ラン|敵|単体中心円|5|&color(blue){MP30};|雷の守護魔から受け取った想いの力を呼び起こす。&br;一定確率で対象とその周囲のスキル詠唱を止めてスキル発動を無効化させ、&br;クリティカル率を減少させる|
+|▲想いの力・トワ|自分専用|単体|-|&color(red){SP40};&br;&color(blue){MP40};|命の守護魔から受け取った想いの力を呼び起こす。&br;スキルの効果中、残りHP以上のダメージを一度だけ敵にそのまま反射する仮初めの魂を纏う。&br;※一部反射できないダメージ有。&br;※黒薔薇の棘で反射したダメージの再反射は不可&br;効果時間120秒|
+|▲想いの力・メイリー|主人&br;自分&br;仲間|単体|5|&color(blue){MP0};&br;&color(blue){MP20};|愛の守護魔から受け取った想いの力を呼び起こす。&br;指定対象を一定回数物理攻撃無効状態にする&br;効果時間12秒|
+
+**守護魔ハート（付属特典系） [#pfaf9585]
+***カナデのメモリーハート [#Kanade_Memory_Heart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/KanadeMemory2.jpg,nolink,128x345);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;380&br;90&br;90&br;40&br;41&br;50&br;50&br;28&br;30&br;&br;30&br;20&br;35&br;30&br;20&br;20&br;150&br;130&br;&br;120&br;100&br;100|110&br;黒&br;&br;28030&br;990&br;990&br;1290&br;1351&br;1250&br;1380&br;368&br;310&br;&br;370&br;20&br;355&br;30&br;194&br;175&br;460&br;440&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;カナデの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Kanade]]（守護魔カナデと同一&color(silver){(?)};）&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;リヴァイブ&br;セイクリッドエンブレイス&br;エリアヒール&br;ララバイ&br;ラウドソング&br;応援&br;&br;【入手法】&br;[[8周年記念アニバーサリーソングCD『INFINITY～あの日を越えて～』>Package#h7d7fda6]](期限：2015年10月)|
+
+***カナデのメイガスハート [#KanadeMagusHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/kanade-magus.jpg,nolink,200x240);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;380&br;90&br;90&br;40&br;41&br;50&br;50&br;28&br;30&br;&br;30&br;20&br;35&br;30&br;20&br;20&br;150&br;130&br;&br;120&br;100&br;100|110&br;黒&br;&br;28030&br;990&br;990&br;1290&br;1351&br;1250&br;1380&br;368&br;310&br;&br;370&br;20&br;355&br;30&br;194&br;175&br;460&br;440&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;カナデの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Kanade]]（守護魔カナデと少し異なる）&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（決めポーズっ！、くつろぐ、応援、泣く、ウインク）&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;リヴァイブ&br;セイクリッドエンブレイス&br;ラウドソング&br;ララバイ&br;音の防壁 (旧ディバインバリアLv2)&br;光の旋律&br;魔法の杖アタック！&br;魔法使いのエンチャント (アドバンスアビリティー)&br;&br;【入手法】&br;[[10thアニバソング配信「ハートフルコレクション」>Package#cc5d33ed]](購入特典付属期限：2015年12月 チケット期限：2016年9月)|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲音の防壁|主人&br;自分&br;仲間|単体中心&br;3x3|5|&color(blue){MP32};|左DEF+13、右DEF+10&br;左M.DEF+20、右M.DEF+15 効果時間125秒|
+|▲光の旋律|敵|単体中心&br;7x7|6|&color(blue){MP30};|M.ATK依存520%＋フレア20秒 詠唱時間5秒|
+|▲魔法の杖アタック！|敵|単体|1|&color(red){SP70};|ATK依存450%|
+|▲魔法使いのエンチャント|主人&br;自分&br;仲間|単体|5|&color(blue){MP30};|最小M.ATK補完率50% 効果時間100秒|
+
+***カナデのアニバーサリーハート [#KanadeAnniversaryHeart]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/wiki/PetList/Heartmate/kanade-anniversary.jpg,nolink,170x200);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;430&br;100&br;100&br;40&br;51&br;30&br;40&br;40&br;30&br;&br;30&br;26&br;20&br;28&br;10&br;5&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;28700&br;1100&br;920&br;1300&br;1401&br;1500&br;1600&br;380&br;370&br;&br;500&br;26&br;390&br;28&br;160&br;155&br;420&br;530&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ハートメイトの一種&br;カナデの心の力が具現化したもの&br;&br;・[[台詞>PetSpeech/Kanade]]（守護魔カナデと少し異なる）&br;・[[セリフカスタマイズ可>Partner#CustomComment]]&br;・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（決めポーズっ！、くつろぐ、応援、泣く、ウインク）&br;&br;系統：守護魔ハート系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;癒しと活性の音結界(セイクリッドエンブレイス)&br;音の防壁(旧ディバインバリアLv2)&br;痛そうな魔法の杖アタック！(450%スマッシュ)&br;魔歌・契約の悪魔(アドバンスアビリティー)&br;呪歌・盟約の吸血鬼&br;恋歌・恋慕の人魚姫(リカバリー)&br;星歌・想送の流れ星(光属性デストラクショングレアー)&br;&br;【入手法】&br;[[11thアニバーサリー記念ECOドリーム長期利用感謝キャンペーン>http://econline.gungho.jp/news/event/campaign/ecokansyacp20160929.html]]|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲痛そうな魔法の杖アタック！|敵|単体|1|&color(red){SP70};|ATK依存450%|
+|▲魔歌・契約の悪魔|主人&br;自分&br;仲間|単体|5|&color(blue){MP30};|最小M.ATK補完率50% 効果時間100秒|
+|▲呪歌・盟約の吸血鬼|敵|単体中心円|5|&color(blue){MP30};|対象のHPを吸収し自分のHPとMPを回復する&br;範囲5x5　倍率1000%&br;回復量はダメージ関係なし最大HP20％　最大MP10％|
+|▲恋歌・恋慕の人魚姫|主人&br;自分&br;仲間|単体|9|&color(blue){MP16};|リカバリー40% 短ディレイ|
+|▲星歌・想送の流れ星|敵|単体中心円|5|&color(blue){MP150};|対象範囲に着弾後爆破する&br;光属性のエナジー爆破を起こす&br;威力初撃1000%追撃1000%光属性|
+
+**その他ハート [#k2d9c624]
+***ネコマタハート（フリル）[#FrillHeart1]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Heartmate/frillheart.png,nolink,128x196);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;20&br;10&br;20&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24600&br;1480&br;1130&br;690&br;791&br;1125&br;1305&br;286&br;230&br;&br;294&br;20&br;350&br;20&br;280&br;270&br;500&br;500&br;&br;200&br;200&br;200|【説明】&br;ハートメイトの一種&br;ネコマタ（フリル）の心の力が具現化したもの&br;忘れっぽい性格は変わらない？&br;&br;・[[台詞>PetSpeech/FrillHeart1]]&br;・ブリーダーのスキル「信頼の証」に専用のポーズがある&br;（踊る、謡う、決めポーズ！）&br;・ブリーダーのスキル「メタモルフォーゼ」使用時は&br;　攻撃モーションが武器によらず固有のものになる&br;・ネコマタ用装備は装備不可&br;・マタタビは使用不可&br;&br;系統：ハートメイト系&br;種別：人&br;攻撃タイプ：叩き&br;射程：1&br;&br;【使用スキル】&br;ポケポケ&br;エリアヒール&br;リザレクション&br;モータルフィアー&br;エンジェルリング&br;ソウルブレイク&br;&br;【入手法】&br;[[ECOくじ「ECO×h.NAOTO(2012年)」1等>Kuji/2012#hNAOTO]]&br;[[ECOくじ「ECO×h.NAOTO(2015年)」1等>Kuji/2015#gaa328b6]]&br;&br;【備考】&br;ハートメイトなので、ネコマタ用装備は使用不可&br;通常のハートメイトと違い、メタモルフォーゼを使用しても武器に関わらず固有モーションになる&br;マタタビは使用できない|
+
+***ちなつの追跡ハート [#e1c3582d]
+-ハートメイトではなく人系パートナー、[[ちなつの追跡ハート>PartnerList/Normal#ChinatsuNoTsuisekiHeart]]を参照
+
+*コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、パートナーの種類、転生状況、ステータス名、ステータス値を記入して下さい。};
+#pcomment
+
+
+//台詞ページ内容のテンプレート
+//#include(Pet/PetMenu,notitle)
+//「？」の[[ステータス>PartnerList/Heartmate#?]]
+//*「？」の台詞
+//※プレイヤーが男なら？、女なら？になる // ←不要なら削除
+//-装備時
+//-戦闘時
+//-囲まれた時
+//-状態異常時
+//-戦闘不能時
+//-レベルアップした時
+//-パーティーに参加した時
+//-パーティーから抜けた時
+//-ダンジョンでワープした時
+//-飛空庭(自)に入った時(装備中)
+//-飛空庭(自)から出る時(装備中)
+//-飛空庭(他)に入った時(装備中)
+//-飛空庭(他)から出る時(装備中)
+//-飛空庭(自)の室内に設置した時
+//-飛空庭(自)の屋外に設置した時
+//-飛空庭(自)で話しかけた時
+//-飛空庭(自)に(自)が入った時(屋外に設置中)
+//-飛空庭(自)から(自)が出る時(屋外に設置中)
+//-飛空庭(自)の家に(自)が入った時(屋内に設置中)
+//-飛空庭(自)の家から(自)が出た時(屋外に設置中)
+//-飛空庭(自)で(他)が話しかけた時
+//-飛空庭(自)に(他)が入った時（屋外に設置中）
+//-飛空庭(自)から(他)が出る時
+//-飛空庭(自)の家に(他)が来た時（屋内に設置中）
+//-飛空庭(自)の家から(他)が出た時(屋外に設置中)
+//-憑依した時
+//-憑依された時
+//-CAPA/PAYLオーバーした時
+//-ログアウトする時
+//-ターン系(/turn1、/turn2、/joy、/yahoo) 
+//-座り(座る、/chair) 
+//-休憩(/relax、/break) 
+//-土下座(/dogeza) 
+//-めげる(/disappoint、/orz) 
+//-挨拶(/bow)
+//-？(信頼の証)
+//*信頼度で追加される台詞
+//-ログイン時 
+//-信頼度、色変化時 
+//-おやつ使用時 
+//-食事ができるようになった時 
+//-パートナーがレベルアップした時 
+//-パートナーに装備品を装備時 
+//-パートナー負傷中 
+//-パートナー負傷回復時 
+//-かんたんAI攻撃重視設定時 
+//-かんたんAI主人重視設定時 
+//-かんたんAI追従設定時 
+//-かんたんAIカスタム設定時

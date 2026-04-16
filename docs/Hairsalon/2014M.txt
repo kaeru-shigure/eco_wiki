@@ -1,0 +1,30 @@
+# Hairsalon/2014M
+
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*男性ヘアサロン（2014年） [#Hairsalon2014M]
+#contents
+
+**ミコトの紹介状（ECOくじ「[[雪国あやかし絵巻:http://econline.gungho.jp/econetstore/2014/YukiguniAyakasiEmaki/#6]]」） [#YukiguniAyakasiEmaki]
+|~「御魂・ミコト」とおそろいの髪型|
+|CENTER:画像募集中|
+
+**吸血姫の紹介状（ECOくじ「[[ホワイト＆ミリタリー:http://econline.gungho.jp/econetstore/2014/WhiteMilitary/#6]]」） [#WhiteMilitary]
+|~「北国の吸血姫アルカード」とおそろいの髪型|
+|CENTER:画像募集中|
+
+**メイの紹介状（ECOくじ「[[こぎつねアプレンティス:http://econline.gungho.jp/econetstore/2014/KogituneApprentice/#6]]」） [#KogituneApprentice]
+|~「御魂・メイ」とおそろいの髪型|
+|CENTER:画像募集中|
+
+**蛇姫の紹介状（ECOくじ「[[早春スクールライフ:http://econline.gungho.jp/econetstore/2014/SousyunSchoolLife/#6]]」） [#SousyunSchoolLife]
+|~「燐火の女学生・清姫」とおそろいの髪型|
+|CENTER:画像募集中|
+
+**ライの紹介状（ECOくじ「[[迅雷の鳳雛:http://econline.gungho.jp/econetstore/2014/JinraiNoHousu/#6]]」） [#Rai]
+|~「御魂・ライ」とおそろいの髪型|
+|CENTER:画像募集中|

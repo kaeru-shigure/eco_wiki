@@ -1,0 +1,24 @@
+# ドロップ率検証/フェザー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***エンゼルフェザー [#o463e4d1]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|コッコーの羽|たましいの粉|魔力の結晶|こころのかけら|リザレクションポーション|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（500体）|246個（49.20％）|170個（34.00％）|79個（15.80％）|1個（0.20％）|4個（0.80％）|0個（0.00％）|
+|知識あり（205体）|107個（52.20％）|64個（31.22％）|28個（13.66％）|0個（0.00％）|3個（1.46％）|3個（1.46％）|
+
+***ダークフェザー [#i9d5e443]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ダークフェザーの羽|紋章紙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|103個（51.50％）|66個（33.00％）|31個（15.50％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***ルミナスフェザー [#s59f5af7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|やわらかな羽|たましいの粉|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|61個（61.00％）|38個（38.00％）|1個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

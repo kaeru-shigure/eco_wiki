@@ -1,0 +1,385 @@
+# girls_hairstyle_testpage.html
+
+#author("2017-04-07T17:57:49+00:00","","")
+SIZE(20){COLOR(#FF0000){''テストページとして仮設してみました。''}}
+
+ヘアサロンの紹介状に関して、作成者がSSを用意できないので現行ページにある物を使用しました。
+無装備状態の画像を用意できる方がおられましたら、随時差し替えをお願い致します。
+
+ヘアカラーについては別途「ヘアカラーページ」を作り、ここからカラーページへリンクできるようにしてページの軽量化を図ります。
+どなたかヘアカラーページの作成をお願い致します。
+
+ご意見などはこちらに→[[【Puki】Wiki編集者の集い【Wiki】02議論目>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1253723681/l25]]
+ガイドラインはこちらへ→[[【ガイドライン】>hairstyle_guideline]]
+
+*女性ヘアサロンガイドライン検証ページ[#z1797875]
+
+-通常の髪型変更・紹介状での髪型変更、いずれもアップタウンギルド元宮の東側「ニーベルングのヘアサロン」で行う。
+
+#contents
+
+**通常の髪型変更 [#Tsujo] 
+-セット10,000G カット3,000G
+|~髪の長さ|~セットする|~髪型|h
+|~ロング系|ストレートパーマーをかけて|ロング|
+|~|内巻きパーマをかけて|内巻きヘア|
+|~|外巻きパーマをかけて|外巻きヘア|
+|~|ちょっと大人っぽく|ナチュラル|
+|>|>|CENTER:↓カットする↓|
+|~セミロング系|全体的に軽くする|レイヤー|
+|~|前髪ぱっつんにして|アンティーク|
+|>|>|CENTER:↓カットする↓|
+|~ショート|不可|ショート|
+|>|>|CENTER:↓カットする↓|
+|~ベリーショート|不可|ベリーショート|
+~
+-''&color(red){※紹介状を使用して髪型を変えると、元がどの髪型であっても完全に下図と同じ髪形に変更されます。(前髪含む)};''
+
+**ヘアサロンの紹介状 [#Hairsalon]
+|~１つに結んで|~アップで三つ編みに|~三つ編みに&br;|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-1.jpg,nolink,279x141);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-2.jpg,nolink,279x141);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-3.jpg,nolink,279x141);|
+|~アップできつく三つ編みに|~きつく三つ編みに|~アップで結んでゴムでまとめて&br;|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-4.jpg,nolink,279x141);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-5.jpg,nolink,279x141);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-6.jpg,nolink,279x141);|
+|~結んでゴムでまとめて|~アップでお団子に|~お団子に&br;|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-7.jpg,nolink,279x141);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-8.jpg,nolink,279x141);|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/2-9.jpg,nolink,279x141);|
+
+**セレブの紹介状 [#Celeb]
+|~アップで三つ編みにしてリボンをつけて|~三つ編みにしてリボンをつけて|~左で三つ編みにしてリボンをつけて|
+|CENTER:(画像募集中)|CENTER:(画像募集中)|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/3-3.jpg,nolink,279x141);|
+|~右サイドで結んで|~左サイドで結んで|~左で三つ編みにして|
+|CENTER:(画像募集中)|CENTER:(画像募集中)|CENTER:(画像募集中)|
+|~右で三つ編みにして|~両サイドできつく三つ編みに|~左できつく三つ編みに|
+|CENTER:(画像募集中)|CENTER:(画像募集中)|CENTER:(画像募集中)|
+|~右できつく三つ編みに|~ポニーテールにして|~両サイドでお団子に|
+|CENTER:(画像募集中)|CENTER:(画像募集中)|CENTER:(画像募集中)|
+|~左でお団子に|~右でお団子に|~両サイドでお団子三つ編みに|
+|CENTER:(画像募集中)|CENTER:(画像募集中)|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/3-16.jpg,nolink,279x141);|
+|~左でお団子三つ編みに|~右でお団子三つ編みに|~サイドで結んでヘアゴムでまとめて|
+|CENTER:(画像募集中)|CENTER:(画像募集中)|CENTER:(画像募集中)|
+|~左で結んでヘアゴムでまとめて|~右で結んでヘアゴムでまとめて||
+|CENTER:(画像募集中)|CENTER:(画像募集中)||
+
+**ヘアサロン特別紹介状 (ECOプレイチケット第1弾) [#Tokubetsu]
+|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~ツインテール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/4-1.jpg,nolink,661x311);|
+|~特別なポニーテール(テール部分は羽々キロ氏デザイン)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/4-2.jpg,nolink,661x311);|
+
+**ドミニオンのヘアカタログ [#Dominion]
+|~ルルイエの髪型(羽々キロ氏デザイン)　※「ショート」「ベリーショート」からは変更不可|
+|CENTER:(画像募集中)|
+
+**プリティ紹介状 (ECOプレイチケット第3弾) [#Pretty]
+|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~ショートツインテール|
+|CENTER:(画像募集中)|
+|~外はねぼぶ|
+|CENTER:(画像募集中)|
+
+**ルチルのヘアカタログ (は～とふるMAP Vol.1) [#Rutil]
+|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~ルチルの髪型(羽々キロ氏デザイン)|
+|CENTER:(画像募集中)|
+
+**ちょいかわ紹介状 (ECOプレイチケット第4弾) [#Choikawa]
+|~スポーティーポニー|
+|CENTER:(画像募集中)|
+|~ショート＆エクステ|
+|CENTER:(画像募集中)|
+
+**ゴージャス紹介状 (ECOプレイチケット第5弾) [#Gorgeous]
+|~縦ロール(羽々キロ氏デザイン)|
+|CENTER:(画像募集中)|
+|~正統派おさげ|
+|CENTER:(画像募集中)|
+
+**おてんば紹介状 (アニバーサリーチャンス・ECOくじ) [#Otenba]
+|~元気のいい妹の髪形(羽々キロ氏デザイン)&br;※ECO祭り2007で浅間教授が名称に言及|
+|CENTER:(画像募集中)|
+
+**おめかし紹介状 (ECOくじ第6弾) [#Omekashi]
+|~ロングツイン(羽々キロ氏デザイン)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/12.jpg,nolink,661x311);|
+
+**姫様紹介状 (ECOプレイチケット第6弾) [#Himesama]
+|~姫様の髪型(春・夏カラーのみリボンの色変化)|
+|CENTER:(画像募集中)|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**ラブモテ紹介状 (ECOくじ第7弾) [#Lovemote]
+|~新しい出会いを予感させる髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/14.jpg,nolink,661x311);|
+
+**クラシックな紹介状 (ECOくじ第8弾) [#Classic]
+|~片側ロールヘアー|
+|CENTER:(画像募集中)|
+
+**プリンセスの紹介状 (ECOプレイチケット第7弾) [#Princess]
+|~プリンスの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/16-1.jpg,nolink,661x311);|
+|~プリンセスの髪型　※男性も可能|
+|CENTER:(画像募集中)|
+
+**少佐の紹介状 (ECOコラボレーションパッケージ 攻殻機動隊S.A.C.シリーズ) [#Shosa]
+|~草薙素子の髪型(ちょっとしたボブ) ※男性も可能|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/17.jpg,nolink,661x311);|
+
+**ふたご座の紹介状 (ECOくじ第9弾) [#Futagoza]
+|~後ろで髪の一部を結ったロングヘア|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/18.jpg,nolink,661x311);|
+
+**機械時代のヘアカタログ [#Kikai]
+|~女の子用|
+|CENTER:(画像募集中)|
+
+**ラテンの紹介状 (ECOプレイチケット第8弾) [#Latin]
+|~情熱的なアップ|
+|CENTER:(画像募集中)|
+|~情熱的なショート|
+|CENTER:(画像募集中)|
+
+**魔女の紹介状 (ECOくじ第10弾) [#Majo]
+|~アンニュイ|
+|CENTER:(画像募集中)|
+|~ヘアピン|
+|CENTER:(画像募集中)|
+
+**ワイルドな紹介状（ECOプレイチケット第9弾） [#Wild]
+|~ワイルドショート|
+|CENTER:(画像募集中)|
+|~ワイルドミディアム|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/22-2.jpg,nolink,661x311);|
+
+**武家の紹介状（ECOくじ第11弾） [#Buke]
+|~小花の髪飾り付きのアップヘア(髪色によって髪飾りの色変化)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/23.jpg,nolink,661x311);|
+--髪飾りの色一覧はこちら(ページ作成後リンク貼ります)
+
+**バレンタイン紹介状（ECOくじ第12弾） [#Valentine]
+|~かわいいツーサイドアップ|
+|CENTER:(画像募集中)|
+
+**スイートな紹介状（ECOプレイチケット第10弾） [#Sweet]
+|~シュークリームボブ(ぐーじん氏デザイン)|
+|CENTER:(画像募集中)|
+|~ロールツインテール(ぐーじん氏デザイン)|
+|CENTER:(画像募集中)|
+
+**デビューへの紹介状(目指せ新人王！初心者応援キャンペーン・セカンド) [#Debut]
+|~優等生ぽいロングヘアー|
+|CENTER:(画像募集中)|
+
+**おとぎの紹介状（ECOくじ第13弾） [#Otogi]
+|~くりんくりんショート|
+|CENTER:(画像募集中)|
+|~ゆる三つ編み(髪色によってゴムの色変化)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/27-2.jpg,nolink,661x311);|
+--ヘアゴムの色一覧はこちら(ページ作成後リンク貼ります)
+
+**マネージャーの紹介状（ECOプレイチケット第11弾） [#Manager]
+|~なまいきポニー(椎名悠氏デザイン)|
+|CENTER:(画像募集中)|
+|~世話焼きショート(椎名悠氏デザイン)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/28-2.jpg,nolink,661x311);|
+
+**歌姫の紹介状（ECOくじ第14弾） [#Utahime]
+|~歌姫らしいふわふわロングヘアー|
+|CENTER:(画像募集中)|
+
+**真夏の紹介状（ECOくじ第15弾） [#Manatsu]
+|~ロングのミニツイン付きヘアー|
+|CENTER:(画像募集中)|
+
+**ひぐらしの紹介状（コラボレーションパッケージ「ひぐらしのなく頃に」シリーズ） [#Higurashi]
+|~梨花の髪型|
+|CENTER:(画像募集中)|
+|~沙都子の髪型|
+|CENTER:(画像募集中)|
+
+**レナの紹介状（ECOひぐらしのなく頃にスペシャルパック「コミックマーケット74」限定） [#Rena]
+|~竜宮レナの髪形|
+|CENTER:(画像募集中)|
+
+**貴族の紹介状（エミル・クロニクル・オンライン　VISAカード特典） [#Kizoku]
+|~儚げなくるくるショート|
+|CENTER:(画像募集中)|
+|~麗しのミニ縦ロール|
+|CENTER:(画像募集中)|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**委員長の紹介状（ECOプレイチケット第12弾）[#Iincho]
+|~イケてるベリーショート|
+|CENTER:(画像募集中)|
+|~イケてるボブ|
+|CENTER:(画像募集中)|
+
+**ハロウィン紹介状（ECOくじ第16弾） [#Halloween]
+|~リボン付きツインテール(リボンの有無はヘアサロンで随時変更可能、髪色でリボンの色変化)|
+|CENTER:(画像募集中)|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**真冬の紹介状（ECOくじ第17弾） [#Mafuyu]
+|~憧れのストレートロングヘアー|
+|CENTER:(画像募集中)|
+
+**空賊の紹介状（ドラマCD「エミる☆みらくる Vol.3」特典） [#Kuzoku]
+|~キャリーの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/37.jpg,nolink,661x311);|
+
+**ハイカラ紹介状（ECOくじ第18弾） [#Highcolor]
+|~ボーイッシュなサラサラショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/38-1.jpg,nolink,661x311);|
+|~清楚なストレートロング(つけ毛の有無選択可能)|
+|CENTER:(画像募集中)|
+
+**アルバイトの紹介状（ECOくじDX ver.2） [#Arbeit]
+|~清潔感のあるミディアム|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/39-1.jpg,nolink,661x311);|
+|~清潔感のあるショート|
+|CENTER:(画像募集中)|
+
+**軍式紹介状（ECOくじ第19弾） [#Gunshiki]
+|~半人前ショートおさげ|
+|CENTER:(画像募集中)|
+|~風格あるロングおさげ(髪色によるゴムの色変化なし？)|
+|CENTER:(画像募集中)|
+
+**伝説の紹介状（ECOくじ「RPG」） [#Densetsu]
+|~おとぎ話の主人公風ショート|
+|CENTER:(画像募集中)|
+|~おとぎ話の主人公風ロング(髪色によるゴムの色変化なし)|
+|CENTER:(画像募集中)|
+
+**愛され紹介状（ECOくじ「シンフォニックウェディング」） [#Aisare]
+|~愛されポニー(リボンの有無が選べます)|
+|CENTER:(画像募集中)|
+|~マニッシュボブ|
+|CENTER:(画像募集中)|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**ティタの紹介状（エミル・クロニクル・オンライン　キャラクターイメージCD SPRINGティタ） [#Tita]
+|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~ティタの髪型|
+|CENTER:(画像募集中)|
+
+**北斗の紹介状（ECOくじ「北斗の拳ONLINE HEROES」） [#Hokuto]
+|~ユリアの髪型|
+|CENTER:(画像募集中)|
+
+**ふたご座の紹介状☆（ECOくじ「真夏のアンコール(12星座)」） [#Natsuyasumi]
+|~後ろで髪の一部を結ったセミロングヘア|
+|CENTER:画像募集中|
+
+**夏休みの紹介状（ECOくじ「スプラッシュサマー」） [#Natsuyasumi]
+|~ワイルドオールバック|
+|CENTER:画像募集中|
+|~ニードルショート|
+|CENTER:(画像募集中)|
+
+**厳島 美晴の紹介状（ECOくじ「アクエリアンエイジ」） [#Miharu]
+|~厳島美晴の髪型|
+|CENTER:(画像募集中)|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**ロビン・グッドフェロウの紹介状（ECOくじ「アクエリアンエイジ」） [#Robin]
+|~ロビン・グッドフェロウの髪型(ヘアバンドの有無は随時変更可能)|
+|CENTER:(画像募集中)|
+--ヘアバンドの色一覧はこちら(ページ作成後リンク貼ります)
+
+**アングリー紹介状（ECOくじ「HANGRY ＆ ANGRY」） [#Angry]
+|~ドーリーカールヘア(ヘッドセットの有無が選べます)|
+|CENTER:(画像募集中)|
+|~スイートドーリーヘア|
+|CENTER:(画像募集中)|
+
+**ハングリーの紹介状（HANGRY ＆ ANGRY ダウンロードパッケージ「秋の新作セット」）| [#Hungry]
+|~斬新なモヒカン(髪色によるモヒカンの色変化なし)|
+|CENTER:(画像募集中)|
+
+**コウモリタ紹介状（HANGRY ＆ ANGRY ダウンロードパッケージ「キャンディ＆プリンセット」） [#Koumorita]
+|~クラシカルマッシュ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/51.jpg,nolink,661x311);|
+
+**マーシャの紹介状（エミル・クロニクル・オンライン　キャラクターイメージCD AUTUMN マーシャ） [#Masha]
+|COLOR(#000000):BGCOLOR(#FFFF99):~※女性専用の紹介状※|
+|~マーシャの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/52.jpg,nolink,661x311);|
+
+**西洋ロマンの紹介状（ECOくじ 「西洋ファンタジーロマン」） [#Seiyouroman]
+|~シャギーハイレイヤー|
+|CENTER:(画像募集中)|
+|~ナチュラルロングウェーブ|
+|CENTER:(画像募集中)|
+
+**歌姫の紹介状(ゴージャス)（ECOくじ 「アニバゴージャス」） [#utahimeGorgeous]
+|~歌姫の髪型|
+|CENTER:(画像募集中)|
+
+**わがまま紹介状（ECOくじ 「ウィンターホリデー」） [#Wagamama]
+|~ウェーブセミロング|
+|CENTER:(画像募集中)|
+|~ウェーブツインテール|
+|CENTER:(画像募集中)|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**ライブの紹介状（ECOくじ 「バレンタインライブ」） [#Live]
+|~ロング三つ編みおさげ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/56-1.jpg,nolink,661x311);|
+|~セミロング三つ編みおさげ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/56-2.jpg,nolink,661x311);|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**妹の紹介状（ECOくじ 「イメチェン！」） [#Imouto]
+|~妹の髪型(仮称)|
+|CENTER:(画像募集中)|
+
+**しゅごキャラ！の紹介状（ECOくじ 「しゅごキャラ！」） [#Shugochara]
+|~ほしな歌唄の髪型|
+|CENTER:(画像募集中)|
+|~辺里唯世の髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/58-2.jpg,nolink,661x311);|
+
+**あむちゃんの紹介状（ダウンロードパッケージ：しゅごキャラ！「あむちゃんの制服セット」） [#Amuchan]
+|~あむちゃんの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/59.jpg,nolink,661x311);|
+
+**イクトの紹介状（ダウンロードパッケージ：しゅごキャラ！「イクトの制服セット」） [#Ikuto]
+|~イクトの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/60.jpg,nolink,661x311);|
+
+**ふんわり紹介状（ECOくじ「さんぽ日和」） [#Funwari]
+|~ふんわりサイドテール(リボンの有無が選べます)|
+|CENTER:(画像募集中)|
+|~ゆるふわショートヘア|
+|CENTER:(画像募集中)|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**上級生の紹介状（ECOくじ「新生活」） [#Jokyusei]
+|~ヘアピン付きロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/62-1.jpg,nolink,661x311);|
+|~セミロング|
+|CENTER:(画像募集中)|
+--ヘアピンの色一覧はこちら(ページ作成後リンク貼ります)
+
+**新入生の紹介状（ECOくじ「新生活」） [#Shinnyusei]
+|~優等生風ショート|
+|CENTER:(画像募集中)|
+|~前流しお下げ|
+|CENTER:(画像募集中)|
+
+**チェスの紹介状（ECOくじ「盤上の騎士団」） [#Chess]
+|~ゴージャスポニテ|
+|CENTER:(画像募集中)|
+
+**バカンスの紹介状（ECOくじ「ハネムーンバカンス」） [#Vacances]
+|~ロングお下げ(髪色によりリボンの色変化)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/65-1.jpg,nolink,661x311);|
+|~ショートアップ(髪色によりリボンの色変化)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/girls_hairstyle_testpage.html/65-2.jpg,nolink,661x311);|
+--リボンの色一覧はこちら(ページ作成後リンク貼ります)
+
+*情報提供などコメント欄 [#z0fdfa66]
+''編集議論は、[[【Puki】Wiki編集者の集い【Wiki】02議論目>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1253723681/]]で行われています。''
+
+#pcomment

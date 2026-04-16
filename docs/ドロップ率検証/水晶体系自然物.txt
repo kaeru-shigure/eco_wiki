@@ -1,0 +1,59 @@
+# ドロップ率検証/水晶体系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[鉱物知識>ドロップ率検証#g76f84d7]]
+
+***水晶体 [#l0c444ed]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|融けない氷|水晶のかけら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（165体）|62個（37.58％）|66個（40.00％）|29個（17.58％）|8個（4.85％）|
+|知識あり（123体）|47個（38.21％）|60個（48.78％）|14個（11.38％）|2個（1.63％）|
+
+***土の水晶体 [#s1b4cee3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|大地の召喚石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（10体）|2個（20.00％）|6個（60.00％）|2個（20.00％）|
+|知識あり（30体）|12個（40.00％）|13個（43.33％）|5個（16.67％）|
+
+***炎の水晶体 [#f115c72f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|炎の召喚石|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（30体）|16個（53.33％）|14個（46.67％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|
+
+***風の水晶体 [#va90a438]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|風の召喚石|水晶のかけら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（145体）|57個（39.31％）|58個（40.00％）|28個（19.31％）|2個（1.38％）|
+|知識あり（100体）|36個（36.00％）|48個（48.00％）|16個（16.00％）|0個（0.00％）|
+
+***水の水晶体 [#f2e5c28c]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|水の召喚石|青い結晶４|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（70体）|26個（37.14％）|29個（41.43％）|14個（20.00％）|1個（1.43％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+
+***光の水晶体 [#r18f5bb7]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|光の召喚石|水晶のかけら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（34体）|10個（29.41％）|16個（47.06％）|7個（20.59％）|1個（2.94％）|
+|知識あり（115体）|39個（33.91％）|51個（44.35％）|24個（20.87％）|1個（0.87％）|
+
+***闇の水晶体 [#m495ccc2]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ミネラルウォーター|闇の召喚石|水晶のかけら|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（50体）|22個（44.00％）|16個（32.00％）|8個（16.00％）|4個（8.00％）|
+|知識あり（50体）|22個（44.00％）|22個（44.00％）|6個（12.00％）|0個（0.00％）|
+
+***森の水晶体 [#ud030268]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||蒸留水|大地の召喚石|大地のコロン|エーテル|ヒスイ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（158体）|75個（47.47％）|60個（37.97％）|19個（12.03％）|3個（1.90％）|1個（0.63％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

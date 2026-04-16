@@ -1,0 +1,37 @@
+# PartnerList/Almamonster/0
+
+&#x2f;/#include(Partner/PartnerMenu,notitle)
+*テストページ パートナー一覧表（その他アルマモンスター） [#a1eee33d]
+&size(20){&color(black,yellow){''このページはテストページです''};};
+テストページですがページの存在自体は確定しています（中身について議論スレで議論中）
+
+#contents
+
+**アルマモンスターとは [#about]
+[[PartnerList/Almamonster]]を参照してください
+[[第1期(2012年) >PartnerList/Almamonster/1]]/[[ 第2期(2013年) >PartnerList/Almamonster/2]]/[[ 第3期(2015年) >PartnerList/Almamonster/3]]/[[ 第4期(2016年) >PartnerList/Almamonster/4]]/ その他(イベント・特典・コラボ)
+**ゲーム内イベントで入手 [#hc2fc2d6]
+***プルル・アルマ [#PururuAlma]
+[[第1期(2012年)>PartnerList/Almamonster/1#PururuAlma]]を参照してください
+***プルル [#Pururu]
+[[第1期(2012年)>PartnerList/Almamonster/1#Pururu]]を参照してください
+***タイニーゼロ / タイニーゼロ・アルマ / タイニーゼロ・アルマ＋ [#TinyzeroAlma]
+***エコ坊・アルマ [#EkobouAlma]
+***モクジュ・アルマ [#MokujuAlma]
+[[第3期(2015年)>PartnerList/Almamonster/3#MokujuAlma]]を参照してください
+**付属特典系アルマ [#c6a13bd5]
+***タイニー・アルマ [#TinyAlma]
+***ダンプティー・アルマ [#DumptyAlma]
+***ヘビメタイニー・アルマ [#HeavyMetalTinyAlma]
+***ファントム・アルマ [#PhantomAlma]
+**コラボレーション系アルマ [#ra1ae249]
+***ダークフェザー・アルマ（BABY） [#DarkFeatherBABY]
+***タイニーゼロ・アルマ（Mary） [#TinyzeroMary]
+***ダンプティー・アルマ（Mary） [#DumptyAlmaMary]
+
+----
+[[第1期(2012年) >PartnerList/Almamonster/1]]/[[ 第2期(2013年) >PartnerList/Almamonster/2]]/[[ 第3期(2015年) >PartnerList/Almamonster/3]]/[[ 第4期(2016年) >PartnerList/Almamonster/4]]/ その他(イベント・特典・コラボ)
+**コメント欄（その他アルマ） [#comment]
+&#x2f;/#pcomment(コメント/PartnerList/Almamonster/0,5,noname);
+**コメント欄（アルマ総合） [#t4242f63]
+&#x2f;/#pcomment(コメント/PartnerList/Almamonster,5,noname)

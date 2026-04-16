@@ -1,0 +1,201 @@
+# FlyGarden/Coordinate/Interior
+
+#author("2017-05-07T01:45:19+00:00","","")
+#include(FlyGarden/Menu,notitle)
+*飛空庭コーディネート（内装）[#FlyingGarden_Interior]
+#contents
+-[[飛空庭システム>FlyGarden]]
+-[[飛空庭コーディネート（外装）>FlyGarden/Coordinate]]
+-[[飛空庭コーディネート（装飾品）>FlyGarden/Coordinate/Accessories]]
+-[[飛空庭コーディネート（その他）>FlyGarden/Coordinate/Other]]
+-公式サイト
+--[[飛空庭システム:http://www.econline.jp/option/garden/index.html]]
+-したらば掲示板：[[飛空庭スレッド>FlyGarden#thread]]
+-SS掲示板
+--[[ECO飛空庭関連あぷろだ>http://ecossup.my.land.to/FlyGarden/FlyGarden.htm]]
+--[[ECO飛空庭内装あぷろだ>http://ecossup.my.land.to/interior/interior.htm]]
+　
+
+**画像アップロードのお願い [#k51e17b6]
+画像のアップロードは以下の点に留意してください。
+
+-COLOR(red):壁紙や床の画像の大きさは150ｘ150で統一してください。COLOR(black):家具類は、長辺が150で統一で。
+-COLOR(blue):画像操作に不慣れな方はトリミングせずに大きめの画像をアップしてください。
+-色の比較が重要なものがありますので、ビデオドライバ及び、ソフトウェア的にRGB/CYMKを補整した画像は使用しないでください。
+-極端なアップではなく、全体や大きさがわかるような構図で撮影をお願いします。(特に壁紙や屋内の床)
+-アップロードには以下の場所を使用してください。
+--直接アップロード（[[ECO-Wiki (acronia) 用画像アップローダー:http://eco.acronia.net/imgup/#dir=wiki/FlyGarden/Coordinate/Interior]]）
+--%%ECO飛空庭関連あぷろだ（[[こちら:http://ecossup.my.land.to/FlyGarden/FlyGarden.htm]]）%%
+
+**部屋の壁紙[#RoomWall]
+|>|>|>|>|>|LEFT:~壁紙|h
+|>|>|>|>|>|LEFT:コントロールパネル『RoomWall』|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//
+|>|>|>|>|>|LEFT:~初期の壁紙　&size(12){　};|
+|無塗装|>|>|>|>|塗装不可能|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiNoKabegami.jpg,nolink,150x150);|>|>|>|>|-|
+//
+|>|>|>|>|>|LEFT:~ノルマンな壁紙　&size(12){廃炭鉱家具職人 10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/NormanNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/NormanNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegamiLimeyellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/NormanNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/NormanNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~クラシックな壁紙　&size(12){アップタウン家具職人 10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/ClassicNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/ClassicNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaKabegamiLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/ClassicNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/ClassicNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/ClassicNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~マイナーな壁紙　&size(12){アイアンシティー家具職人 10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MinorNaKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MinorNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MinorNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/MinorNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/MinorNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/MinorNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/MinorNaKabegamiLimeyellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/MinorNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MinorNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/MinorNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/MinorNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~クールな壁紙　&size(12){ノーザリン家具職人 10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegami.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/CoolNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegamiRed.jpg,nolink,161x161);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/CoolNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegamiLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/CoolNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~カントリーな壁紙　&size(12){フシギ団家具職人 10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ファンシーな壁紙　&size(12){木箱1/2/3};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiOrange.jpg,nolink,149x149);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiLimeyellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ポップな壁紙　&size(12){木箱1/2/3　コンテナ1};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ウッディーな壁紙　&size(12){木箱7};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/WoodyNaKabegamiCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ワイルドな壁紙　&size(12){木箱6};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegami.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WildNaKabegamiCyan.jpg,nolink,150x150);|
+// 
+|LEFT:~ハートの壁紙　&size(12){季節イベント2月};|LEFT:~絆が続く壁紙　&size(12){季節イベント6月};|LEFT:~雪の壁紙　&size(12){季節イベント12月};|LEFT:~高級な和室の壁紙　&size(12){「ゲーマガ」06年7月号付録 他};|LEFT:~おもちゃ壁紙　&size(12){春のECO友キャンペーン};|LEFT:~おもちゃ壁紙(ピンク)　&size(12){祝！新ワールドオープン！ECO友キャンペーン};|
+|染色不可|染色不可|染色不可|染色不可|染色不可|染色不可|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HeartNoKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KizunaGaTsuzukuKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/YukiNoKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KoukyuuNaWashitsuNoKabegami.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/OmochaKabegami.jpg,nolink,150x150);|画像募集中|
+// 
+|LEFT:~ねこねこコンビニ内装壁　&size(12){ECOくじ DXver.2};|LEFT:~一花の壁紙　&size(12){ECOくじ ハローキティと一緒！};|LEFT:~教会の壁　&size(12){ECOくじ 鏡祭月の双子};|>|>|LEFT:~武家屋敷の壁　&size(12){ECOくじ 古今戦国絵巻};|
+|染色不可|染色不可|染色不可|ノーマル|家具無し|壁のみ|
+|画像募集中|画像募集中|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/ChurchWall.jpg,nolink,150x149);|画像募集中|画像募集中|画像募集中|
+//
+|>|LEFT:~クラシック・ウォール　&size(12){ECOくじ スイートフレンチ＆クラシック};|>|LEFT:~異人館の壁&br;&size(12){ECOくじ 御伽の国のお狐様&br;ECOくじ トリップ・オブ・スペクター・トゥ・チャイナ};|LEFT:~思い出の教室　&size(12){ECOくじ 夏色の放課後&br;ECOくじ シナモンのドキドキ学園生活};|LEFT:~お屋敷の壁　&size(12){ECOくじ メイド・イン・グランドハウス};|
+|ノーマル|カーテンなし|ノーマル|窓開放|染色不可|染色不可|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/ClassicWall_c.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/ClassicWall_nc.jpg,nolink,150x149);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/Ijinkan_cw.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/Ijinkan_ow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/ClassRoom.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/OyashikiWall.jpg,nolink,150x150);|
+//
+|>|LEFT:~魔法図書館　&size(12){ECOくじ 記憶の図書館};|LEFT:~春陽の壁　&size(12){ECOshop 5,000SP};|LEFT:~ぬくもりの壁　&size(12){ECOshop 5,000SP};|LEFT:~輪窓のある土壁　&size(12){ECOshop 5,000SP};|LEFT:~雪景色の壁　&size(12){ECOshop 5,000SP};|
+|ノーマル|天上高|染色不可|染色不可|染色不可|染色不可|
+|画像募集中|画像募集中|画像募集中|画像募集中|画像募集中|画像募集中|
+//
+|LEFT:~機械部屋の壁　&size(12){ECOくじ エンシェント・サイバーウェポン};|LEFT:~夜会の壁　&size(12){ECOくじ 夜会への招待状};|LEFT:~レトロモダンな壁　&size(12){ECOくじ 悠久の古物商&br;ECOくじ 洋装仕立てのホワイトファング};|LEFT:~ブリキの壁紙　&size(12){ECOくじ 鉄腕少女ブリキング};|>|LEFT:~アンティークな壁　&size(12){ECOくじ ミリタリールック・リトルシューター};|
+|染色不可|染色不可|染色不可|染色不可|緑|赤|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/CyberRoom.jpg,nolink,150x149);|画像募集中|画像募集中|画像募集中|画像募集中|画像募集中|
+//
+|LEFT:~金色の壁　&size(12){ECOくじ サムライガール・ホウオウ};|LEFT:~オペラ座風の壁　&size(12){ECOくじ 旋律のアルケーさん};|>|LEFT:~お城の壁　&size(12){ECOくじ ベイヤール・イン・ゴシックナイト};|>|LEFT:~廃教会の壁　&size(12){ECOくじ レジェンド・オブ・アスモデウス};|
+|染色不可|染色不可|黒|金|グレー|ブラック|
+|画像募集中|画像募集中|画像募集中|画像募集中|画像募集中|画像募集中|
+|LEFT:~室内の壁表示なしにする壁　&size(12){まいにちダンジョン（信頼度）まいにちBOX};|LEFT:~古代宮殿の壁　&size(12){ECOﾄﾞﾘｰﾑ 聖母イシス};|LEFT:~-|LEFT:~-|LEFT:~-|LEFT:~-|
+|染色不可|染色不可|-|-|-|-|
+|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/situnainokabehyoujinasinisurukabe.jpg,nolink,150x150);|-|-|-|-|-|
+//
+
+**部屋の床[#RoomFloor]
+|>|>|>|>|>|LEFT:~屋内の床|h
+|>|>|>|>|>|LEFT:コントロールパネル『RoomFloor』|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+//
+|>|>|>|>|>|LEFT:~初期の床　&size(12){　};|
+|無塗装|>|>|>|>|塗装不可能|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ShokiNoYuka.jpg,nolink,150x150);|>|>|>|>|-|
+//
+|>|>|>|>|>|LEFT:~フローリングの床　&size(12){廃炭鉱家具職人　10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYukaBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYukaPurple.jpg,nolink,150x150);|red|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYukaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYukaLimeyellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYukaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FlooringNoYukaWhite.jpg,nolink,150x150);|black|cyan|
+//
+|>|>|>|>|>|LEFT:~クラシックな床　&size(12){アップタウン家具職人　10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYuka.png,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaBlue.jpg,nolink,150x150);|purple|red|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/ClassicNaYukaCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~金属の床　&size(12){アイアンシティー家具職人　10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KinzokuNoYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KinzokuNoYukaBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KinzokuNoYukaPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/red.jpg,nolink,150x150);|orange|yellow|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|limeyellow|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KinzokuNoYukaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/wiki/FlyGarden/Coordinate/InteriorF/white.jpg,nolink,150x150);|black|cyan|
+//
+|>|>|>|>|>|LEFT:~クールな床　&size(12){ノーザリン岬家具職人　10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYuka.png,nolink,150x150);|blue|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaRed.jpg,nolink,160x160);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CoolNaYukaBlack.jpg,nolink,150x150);|cyan|
+//
+|>|>|>|>|>|LEFT:~カントリーな床　&size(12){フシギ団家具職人　10000G};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/CountryNaYukaCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ファンシーな床　&size(12){木箱1/2/3};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaYellow.png,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/FancyNaYukaCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ポップなレンガ造りの床　&size(12){木箱1/2/3};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYuka.jpg,nolink,151x151);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaBlue.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaPurple.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaLimeYellow.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaGreen.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/PopNaRengaZukuriNoYukaCyan.jpg,nolink,150x150);|
+//
+|>|>|>|>|>|LEFT:~ウッディーな床　&size(12){木箱7};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaYuka.jpg,nolink,150x150);|blue|purple|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaYukaRed.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaYukaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|limeyellow|green|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaYukaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/WoodyNaYukaBlack.jpg,nolink,150x150);|cyan|
+//
+|>|>|>|>|>|LEFT:~マーブルな床　&size(12){木箱6};|
+|無塗装|青　色|紫　色|赤　色|橙　色|黄　色|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarbleNaYuka.jpg,nolink,150x150);|blue|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarbleNaYukaPurple.jpg,nolink,150x150);|red|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarbleNaYukaOrange.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarbleNaYukaYellow.jpg,nolink,150x150);|
+|~|黄緑色|緑　色|白　色|黒　色|水　色|
+|~|limeyellow|green|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarbleNaYukaWhite.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarbleNaYukaBlack.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/MarbleNaYukaCyan.jpg,nolink,150x150);|
+//
+|LEFT:~高級な和室の床　&size(12){木材加工Lv2};|LEFT:~ハートの床　&size(12){季節イベント2月};|LEFT:~絆が深まる床　&size(12){季節イベント6月};|LEFT:~雪の床　&size(12){季節イベント12月};|LEFT:~クリスマスの夜の床　&size(12){アニバーサリーチャンス・ECOくじ(ver.5)};|LEFT:~ねこねこコンビニ内装床　&size(12){ECOくじ DXver.2};|
+|染色不可|染色不可|染色不可|染色不可|染色不可|染色不可|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KoukyuuNaWashitsuNoYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/HeartNoYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/KizunaGaFukamaruYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/gamedb_info/eco/flygarden/YukiNoYuka.jpg,nolink,150x150);|&ref(http://eco.acronia.net/img/wiki/FlyGarden/kurisumasunoyorunoyuka.jpg,nolink,150x150);|画像募集中|
+//
+|LEFT:~こども部屋の床　&size(12){ECOくじ 萌黄色のゆりかご};|LEFT:~教会の床　&size(12){ECOくじ 鏡祭月の双子};|>|>|LEFT:~武家屋敷の床&br;&size(12){ECOくじ 古今戦国絵巻&br;ECOくじ サムライガール・ホウオウ};|LEFT:~クラシック・フロア　&size(12){ECOくじ スイートフレンチ＆クラシック&br;ECOくじ 夜会への招待状};|
+|染色不可|染色不可|畳|床|床・畳|染色不可|
+|画像募集中|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/ChurchFloor.jpg,nolink,150x149);|画像募集中|画像募集中|画像募集中|&ref(http://eco.acronia.net/img/gamedb_wiki/FlyGarden/Coordinate/Interior/ClasscFloor.jpg,nolink,150x150);|
+//
+|LEFT:~春陽の床　&size(12){ECOshop 5,000SP};|LEFT:~ぬくもりの床　&size(12){ECOshop 5,000SP};|LEFT:~風合いのある床　&size(12){ECOshop 5,000SP};|LEFT:~ポカポカーペット　&size(12){ECOshop 5,000SP};|>|LEFT:~市松模様の床　&size(12){ECOくじ ミリタリールック・リトルシューター};|
+|染色不可|染色不可|染色不可|染色不可|緑|赤|
+|画像募集中|画像募集中|画像募集中|画像募集中|画像募集中|画像募集中|
+//
+|LEFT:~アイシクル・フロア　&size(12){ECOくじ 氷の都のクリスタル};|LEFT:~古代宮殿の床　&size(12){ECOﾄﾞﾘｰﾑ 聖母イシス};|LEFT:~-|LEFT:~-|LEFT:~-|LEFT:~-|
+|（床）|染色不可|-|-|-|-|
+|画像募集中|-|-|-|-|-|
+//
+
+#pcomment

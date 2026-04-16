@@ -1,0 +1,10 @@
+# ドロップ率検証/使い魔系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[魔法生物知識>ドロップ率検証#i8a0d16c]]
+
+***使い魔 [#kc9fa206]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|毒消しの実|マジックキャンディー|クリティカルの結晶|ラピスラズリのかけら|マルチコンディション|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（400体）|202個（50.50％）|124個（31.00％）|64個（16.00％）|1個（0.25％）|5個（1.25％）|4個（1.00％）|0個（0.00％）|
+|知識あり（200体）|87個（43.50％）|86個（43.00％）|23個（11.50％）|0個（0.00％）|0個（0.00％）|3個（1.50％）|1個（0.50％）|

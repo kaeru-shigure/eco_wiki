@@ -1,0 +1,88 @@
+# Skill/Joker
+
+#author("2016-10-23T23:10:24+00:00","","")
+*ジョーカー [#jdffac16]
+
+-[[公式サイト>http://econline.gungho.jp/gamedata/job/joker.html]]
+
+#contents
+
+#clear
+** 特徴 [#n63eefa1]
+-まったく無垢のままに生きてきた、自由人の目覚めた境地です。
+-職業にとらわれずに装備を選択できるようになります。
+-活かされることのなかった可能性から得た能力は、まさに切り札となりうるでしょう。
+-''HP係数：3.00''、''MP係数：3.00''、''SP係数：3.00''
+
+・実際には―
+-HP係数3.00というのは二次職ダークストーカーと同じ。つまり三次職にもかかわらず''二次程度の耐久力''しかない。
+-対象のバフ剥がしやPT全体に作用するディレイキャンセルなど、Lv50までは火力とは別の意味で強力なスキルを習得できる。
+--ただし、習得できるほぼすべてのバフスキルがヴァニッシュメントで問答無用で吹き飛び、中でも特に強力なものは固有ディレイが設定されている。
+--そのため、全職で最も相手のバフ消しスキルに弱く、受けた瞬間自身は壊滅状態になることも少なくない。
+-補正の伸びが全てフラットなので、持ち味の自由な装備の選択が育成の鍵となる。
+-マスタリや補正の関係で近接・遠距離から魔法までもいけるが…
+--魔法はjob50になってから。
+--遠距離はホークアイのように消費抑制や自給自足・範囲攻撃ができない。そしてPAYL･CAPAが絶望的に低い
+--といった具合で基本的には本職に及ばない。
+--びっくりエフェクト(積載)といったPAYL・CAPAを補助する装備もしくはイリス(◆ティティルのサポート等)が一つあるとグッと楽になる。
+
+-デュアルジョブの実装により、様々な可能性が出てきた。
+--例えば、シャーマンでは、ディレイアウトでジョーカーの固有ディレイをなかったことにしつつ、高ステータスを維持したまま魔法ジョーカーで攻撃したりできる。
+--物理型のステータスでも、ウォーロックのコラプスオブロウで魔法型に転化して、魔法ジョーカー、なんてこともできる。
+--近接、遠距離、魔法のどの選び方にしても、フルウェポンマスタリーと重複させることで恐ろしい攻撃力が実現可能。
+打たれ弱い以外は、まさに切り札といえるようになった。
+もっとも、デュアルジョブの育成は非常に厳しいが。
+
+** 転職方法 [#efd4de7a]
+-他職と同様に、ベースレベル100以上・エミルドラゴン(手加減)の討伐が前提条件。
+ただしジョブが存在しないためジョブレベルについては不問。
+他職の転生とは途中から手順が異なり、百戦錬磨の札/士魂商才の札を必要としない。
+-その代わり、各街で『転生の書：自分探しの旅』を使用する必要がある。
+
+詳細は「[[上位転生の手順>Job/Change/Chronicle#kyoutuu]]」「[[転生の書：自分探しの旅>Job/Change/Chronicle#Joker]]」を参照
+
+** スキル早見表とスキル詳細 [#cb26e48f]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#w97f0017]
+
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|6|6|6|6|6|6|~26|-|-|-|-|-|-|
+|~2|6|6|6|6|6|6|~27|-|-|-|-|-|-|
+|~3|6|6|6|6|6|6|~28|-|-|-|-|-|-|
+|~4|6|6|6|6|6|6|~29|-|-|-|-|-|-|
+|~5|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''7''|COLOR(red):BGCOLOR(#EDEDFF):''7''|~30|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''12''|
+|~6|7|7|7|7|7|7|~31|-|-|-|-|-|-|
+|~7|7|7|7|7|7|7|~32|-|-|-|-|-|-|
+|~8|7|7|7|7|7|7|~33|-|-|-|-|-|-|
+|~9|7|7|7|7|7|7|~34|-|-|-|-|-|-|
+|~10|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''8''|~35|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''13''|
+|~11|8|8|8|8|8|8|~36|-|-|-|-|-|-|
+|~12|8|8|8|8|8|8|~37|-|-|-|-|-|-|
+|~13|8|8|8|8|8|8|~38|-|-|-|-|-|-|
+|~14|8|8|8|8|8|8|~39|-|-|-|-|-|-|
+|~15|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''9''|~40|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''14''|
+|~16|9|9|9|9|9|9|~41|-|-|-|-|-|-|
+|~17|9|9|9|9|9|9|~42|-|-|-|-|-|-|
+|~18|9|9|9|9|9|9|~43|-|-|-|-|-|-|
+|~19|9|9|9|9|9|9|~44|-|-|-|-|-|-|
+|~20|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''10''|~45|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''15''|
+|~21|-|-|-|-|-|-|~46|-|-|-|-|-|-|
+|~22|-|-|-|-|-|-|~47|-|-|-|-|-|-|
+|~23|-|-|-|-|-|-|~48|-|-|-|-|-|-|
+|~24|-|-|-|-|-|-|~49|-|-|-|-|-|-|
+|~25|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''11''|~50|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''16''|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+**外部スレッド [#shitaraba]
+-現行スレ
+--[[ジョーカー系の心得>http://jbbs.shitaraba.net/bbs/read.cgi/netgame/11977/1363509083/]]
+
+** コメント欄（Wikiの編集の苦手な方はこちらに） [#y985b50f]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[外部スレッド>#shitaraba]]にどうぞ。
+
+どんな些細な情報でもこちらに。
+
+#pcomment

@@ -1,0 +1,10 @@
+# ドロップ率検証/アルケー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[人間知識>ドロップ率検証#lb6d67cf]]
+
+***アルケー [#xecf5f0b]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||禁断の果実(PT)|古い紙幣(PT)|破れた魔法書(PT)|金糸のリボン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（1000体）|619個（61.90％）|331個（33.10％）|40個（4.00％）|10個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

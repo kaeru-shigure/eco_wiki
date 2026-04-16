@@ -1,0 +1,65 @@
+# Skill/Harvest
+
+[[ファーマー >Skill/Farmer]]([[詳細>Skill/Farmer/Explanation]])/[[ アルケミスト >Skill/Alchemist]]([[詳細>Skill/Alchemist/Explanation]])/[[ マリオネスト >Skill/Marionest]]([[詳細>Skill/Marionest/Explanation]])/ ''ハーヴェスト''([[詳細>Skill/Harvest/Explanation]])
+*ハーヴェスト [#z592624f]
+//http://www.econline.jp/data/job/3rd-chronicle/job_c10.html
+#contents
+
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ファーマーの[[''外部スレッド''>Skill/Farmer#p81644f8]]を参照
+
+** 特徴 [#xa35848c]
+公式サイト：データ > ジョブ > 三次職クロニクルジョブ > [[ハーヴェスト:http://www.econline.jp/data/job/3rd-chronicle/job_c10.html]]
+
+-大自然の友であり、超自然に関わる、生命の司です。
+-武具融合などの新分野に加え、自然やマリオネットに関わる新たな技能を獲得します。
+-その存在と能力は、仲間たちに物質的にも、精神的にも豊穣をもたらすことでしょう。
+
+-''HP係数：5.00''、''MP係数：4.20''、''SP係数：2.82''
+|~一次職|~二次職|~三次職|h
+|[[ファーマー>Skill/Farmer]]|[[アルケミスト>Skill/Alchemist]](エキスパートジョブ)|ハーヴェスト|
+|~|[[マリオネスト>Skill/Marionest]](テクニカルジョブ)|~|
+
+** 転職方法 [#x080343c]
+[[三次クロニクル職共通ルート>Job/Change/Chronicle#kyoutuu]]こちらを参照。
+
+** スキル早見表とスキル詳細 [#m74b7873]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#bc82ae9c]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|5|7|7|6|6|6||~26|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''14''|13|12|11|11|
+|~2|5|COLOR(red):BGCOLOR(#EDEDFF):''8''|7|COLOR(red):BGCOLOR(#EDEDFF):''7''|6|6||~27|10|14|13|12|11|11|
+|~3|5|8|7|7|6|6||~28|10|14|13|12|COLOR(red):BGCOLOR(#EDEDFF):''12''|11|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''6''|8|COLOR(red):BGCOLOR(#EDEDFF):''8''|7|COLOR(red):BGCOLOR(#EDEDFF):''7''|6||~29|10|14|COLOR(red):BGCOLOR(#EDEDFF):''14''|12|12|11|
+|~5|6|8|8|7|7|COLOR(red):BGCOLOR(#EDEDFF):''7''||~30|10|COLOR(red):BGCOLOR(#EDEDFF):''15''|14|COLOR(red):BGCOLOR(#EDEDFF):''13''|12|COLOR(red):BGCOLOR(#EDEDFF):''12''|
+|~6|6|COLOR(red):BGCOLOR(#EDEDFF):''9''|8|7|7|7||~31|10|15|14|13|12|12|
+|~7|6|9|8|COLOR(red):BGCOLOR(#EDEDFF):''8''|7|7||~32|COLOR(red):BGCOLOR(#EDEDFF):''11''|15|14|13|COLOR(red):BGCOLOR(#EDEDFF):''13''|12|
+|~8|6|9|COLOR(red):BGCOLOR(#EDEDFF):''9''|8|7|7||~33|11|15|COLOR(red):BGCOLOR(#EDEDFF):''15''|13|13|12|
+|~9|COLOR(red):BGCOLOR(#EDEDFF):''7''|9|9|8|COLOR(red):BGCOLOR(#EDEDFF):''8''|7||~34|11|COLOR(red):BGCOLOR(#EDEDFF):''16''|15|COLOR(red):BGCOLOR(#EDEDFF):''14''|13|12|
+|~10|7|COLOR(red):BGCOLOR(#EDEDFF):''10''|9|8|8|COLOR(red):BGCOLOR(#EDEDFF):''8''||~35|11|16|15|14|13|COLOR(red):BGCOLOR(#EDEDFF):''13''|
+|~11|7|10|9|COLOR(red):BGCOLOR(#EDEDFF):''9''|8|8||~36|11|16|15|14|13|13|
+|~12|7|10|COLOR(red):BGCOLOR(#EDEDFF):''10''|9|8|8||~37|COLOR(red):BGCOLOR(#EDEDFF):''12''|16|COLOR(red):BGCOLOR(#EDEDFF):''16''|14|COLOR(red):BGCOLOR(#EDEDFF):''14''|13|
+|~13|7|10|10|9|COLOR(red):BGCOLOR(#EDEDFF):''9''|8||~38|12|COLOR(red):BGCOLOR(#EDEDFF):''17''|16|14|14|13|
+|~14|7|COLOR(red):BGCOLOR(#EDEDFF):''11''|10|9|9|8||~39|12|17|16|COLOR(red):BGCOLOR(#EDEDFF):''15''|14|13|
+|~15|COLOR(red):BGCOLOR(#EDEDFF):''8''|11|10|9|9|COLOR(red):BGCOLOR(#EDEDFF):''9''||~40|12|17|16|15|14|COLOR(red):BGCOLOR(#EDEDFF):''14''|
+|~16|8|11|COLOR(red):BGCOLOR(#EDEDFF):''11''|COLOR(red):BGCOLOR(#EDEDFF):''10''|9|9||~41|12|17|COLOR(red):BGCOLOR(#EDEDFF):''17''|15|14|14|
+|~17|8|11|11|10|9|9||~42|12|COLOR(red):BGCOLOR(#EDEDFF):''18''|17|15|15|14|
+|~18|8|COLOR(red):BGCOLOR(#EDEDFF):''12''|11|10|COLOR(red):BGCOLOR(#EDEDFF):''10''|9||~43|COLOR(red):BGCOLOR(#EDEDFF):''13''|18|17|COLOR(red):BGCOLOR(#EDEDFF):''16''|15|14|
+|~19|8|12|11|10|10|9||~44|13|18|17|16|15|14|
+|~20|COLOR(red):BGCOLOR(#EDEDFF):''9''|12|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''11''|10|COLOR(red):BGCOLOR(#EDEDFF):''10''||~45|13|18|COLOR(red):BGCOLOR(#EDEDFF):''18''|16|15|COLOR(red):BGCOLOR(#EDEDFF):''15''|
+|~21|9|12|12|11|10|10||~46|13|COLOR(red):BGCOLOR(#EDEDFF):''19''|18|16|15|15|
+|~22|9|COLOR(red):BGCOLOR(#EDEDFF):''13''|12|11|10|10||~47|13|19|18|16|COLOR(red):BGCOLOR(#EDEDFF):''16''|15|
+|~23|9|13|12|11|COLOR(red):BGCOLOR(#EDEDFF):''11''|10||~48|COLOR(red):BGCOLOR(#EDEDFF):''14''|19|18|COLOR(red):BGCOLOR(#EDEDFF):''17''|16|15|
+|~24|9|13|12|11|11|10||~49|14|19|18|17|16|15|
+|~25|9|13|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''12''|11|COLOR(red):BGCOLOR(#EDEDFF):''11''||~50|14|COLOR(red):BGCOLOR(#EDEDFF):''20''|19|17|16|COLOR(red):BGCOLOR(#EDEDFF):''16''|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#ocd9ecd0]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''外部スレッド''>Skill/Farmer#p81644f8]]にどうぞ。
+どんな些細な情報でもこちらに。
+#pcomment

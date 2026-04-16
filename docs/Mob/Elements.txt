@@ -1,0 +1,17 @@
+# Mob/Elements
+
+#author("2017-04-07T17:31:03+00:00","","")
+*属性別モンスター [#ge83e98b]
+
+#include(MobMenu,notitle)
+
+|CENTER:100|CENTER:100|CENTER:100|CENTER:100|CENTER:100|c
+|無属性|火属性|土属性|水属性|風属性|
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Cinnamon.jpg,nolink,100x100);>Mob/Elements/NoElement]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Houou.jpg,nolink,100x100);>Mob/Elements/Fire]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Baruru.jpg,nolink,100x100);>Mob/Elements/Earth]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SeaSerpent.jpg,nolink,100x100);>Mob/Elements/Water]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TropicalGi-go.jpg,nolink,100x100);>Mob/Elements/Wind]]|
+|光属性|闇属性|複合属性|属性不明||
+|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/AngelFeather.jpg,nolink,100x100);>Mob/Elements/Light]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DominionMalicious.jpg,nolink,100x100);>Mob/Elements/Dark]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Vega.jpg,nolink,100x101);>Mob/Elements/ComplexElements]]|[[&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Kibako.jpg,nolink,100x100);>Mob/Elements/Unknown]]||
+
+-属性別ページは、種族別ページ（動物～岩）に含まれるモンスターのみ掲載されています。
+-属性別ページは最新の情報が反映されていない場合があるため、詳細は「[[種族別モンスター>Mob/Races]]」も参照してください。
+-属性について詳しくは、「[[属性のページ>Elements]]」を参照してください。
+&ref(http://eco.acronia.net/img/gamedb_info/eco/skill/Zokusei.jpg,nolink,500x350,属性表);

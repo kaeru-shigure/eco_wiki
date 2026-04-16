@@ -1,0 +1,142 @@
+# PetList/Shoulder
+
+#author("2021-02-10T16:46:30+00:00","","")
+#include(Partner/PartnerMenu,notitle)
+*パートナー一覧表 （背中装備） [#a8f8e4bf]
+#contents
+
+**背中装備パートナー [#w09a80be]
+//-''背中装備+PARTNER装備を占有します。''
+//2015/7/30アプデで変更され、PARTNER装備を占有しなくなったため、コメントアウト。
+-「背負い魔」という種別の装備アイテムで、背中防具の一種。
+--パートナーではないので、HPなどのステータスは存在しない。
+--%%ごきげん度が存在しますが、減少することはありません。%%&br;他装備と異なり、耐久度は存在せず、壊れない。
+--[[融合>CombinationEquipment]]不可
+-昔はパートナー装備として扱われていた（パートナー装備部位を占有）
+--「''背負い魔''・ネコマタ」などにその名残が見られる
+--現在のゲーム内での扱いは、背負い袋などと同様の背中防具であるが、&br;経緯や装備としての特殊性から、このwikiではパートナーと同列の位置にこのページが置かれています。
+-大きく2種類に分けられる
+--キャラの移動速度を上昇させる「ブースト」
+---ブースト以外の速度上昇効果に、ブーストによる効果が加算される。
+（[[マリオネット>Marionette]]や[[騎乗パートナー>PartnerList/Ride]]など）
+---ほぼ全てのブーストは、装備に&color(red){''種族制限''};がある。(「背負い・ブースター」のみ種族制限無し)
+他種族用ブーストへの変更は基本的に不可。(「背負い魔・ブースト」のみ可能)
+--&color(red){''エミル種族専用''};の防御用装備「シールダー」「メダマー」
+---装備キャラにパッシブスキルが付与され、規定のスキルが自動発動する。
+
+***背負い魔・ブースト [#mcbdb225]
+|~画像|~説明と入手法|
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Boost.jpg,nolink,128x128);|&color(red){エミル族専用};&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は+90 (参考：[[パートナーの移動速度>Partner#ka8f1700]])&br;・飛空庭改造部品「[[ブースト飛空帆>FlyGarden#jee86322]]」と交換可（要装備）&br;・アイテム「ブースト転生石」使用でブーストパパに変化する&br;&br;【入手法】&br;・特定BOSSモンスタードロップ（ジャイアントコッケー、ふんどしマン！、壊れたぬいぐるみ、白熊くん、最強の魔獣、アルカナキング、ブリキングMkII、キングローパー、メイオウ、マザードラゴ）&br;・宝箱10，11，18，19&br;・「背負い魔・ブースト（光）」か「背負い魔・ブースト（闇）」をアイテム精製|
+
+***背負い魔・ブースト（光） [#fa07381f]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/BoostHikari.jpg,nolink,128x128);|&color(red){タイタニア族専用};の羽のある白いブースト&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブースト」と同じ&br;・飛空庭改造部品「[[ブースト飛空帆>FlyGarden#jee86322]]」と交換可（要装備）&br;・上位転生特典の羽変更は反映されない&br;・アイテム「ブースト転生石」使用でブーストパパ（光）に変化する&br;&br;【入手法】&br;「背負い魔・ブースト」と[[光の召喚石>http://eco.acronia.net/itemdb/#id=2031]]100個と[[ハートフルビーンズ>http://eco.acronia.net/itemdb/#id=1905]]をアイテム精製|
+
+***背負い魔・ブースト（闇） [#rafec1d7]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/BoostYami.jpg,nolink,128x128);|&color(red){ドミニオン族専用};の羽のある黒いブースト&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブースト」と同じ&br;・飛空庭改造部品「[[ブースト飛空帆>FlyGarden#jee86322]]」と交換可（要装備）&br;・上位転生特典の羽変更は反映されない&br;・アイテム「ブースト転生石」使用でブーストパパ（闇）に変化する&br;&br;【入手法】&br;「背負い魔・ブースト」と[[闇の召喚石>http://eco.acronia.net/itemdb/#id=2643]]100個と[[ハートフルビーンズ>http://eco.acronia.net/itemdb/#id=1905]]をアイテム精製|
+
+***背負い魔・ゴールデンブースト [#hef1b8ea]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/gbe.jpg,nolink,128x128);|&color(red){エミル族専用};&br;黄金色に輝くブーストの亜種。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブースト」と同じ&br;・アイテム「ゴールデンブースト転生石」使用でGブーストパパに変化する&br;&br;【入手法】&br;[[ネットカフェSP宝箱>Quest/InstanceDungeonFromNcafe#m173584b]]|
+
+***背負い魔・ゴールデンブースト（光） [#sb5d6547]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/gbt.jpg,nolink,279x138);|&color(red){タイタニア族専用};&br;黄金色に輝くブーストの亜種。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブースト」と同じ&br;・上位転生特典の羽変更は反映されない&br;・アイテム「ゴールデンブースト転生石」使用でGブーストパパ（光）に変化する&br;&br;【入手法】&br;[[ネットカフェSP宝箱>Quest/InstanceDungeonFromNcafe#m173584b]]|
+
+***背負い魔・ゴールデンブースト（闇） [#v2f3914f]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/gby.jpg,nolink,291x97);|&color(red){ドミニオン族専用};&br;黄金色に輝くブーストの亜種。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブースト」と同じ&br;・上位転生特典の羽変更は反映されない&br;・アイテム「ゴールデンブースト転生石」使用でGブーストパパ（闇）に変化する&br;&br;【入手法】&br;[[ネットカフェSP宝箱>Quest/InstanceDungeonFromNcafe#m173584b]]|
+
+***背負い魔・ブーストパパ [#s72d6ada]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/BoostPapa.jpg,nolink,128x128);|&color(red){エミル族専用};&br;口ひげも御立派なブーストの御父様。&br;大きな口から蒼い炎を吹いてキャラクターの移動速度を増加させます。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は+110 (参考：[[パートナーの移動速度>Partner#ka8f1700]])&br;・アイテム「ブースト転生石」使用でブーストグランパに変化する&br;&br;【入手法】&br;[[モンスタースタンプ景品>Stamp#d11d5586]](スタンプ張１)&br;「背負い魔・ブースト」を装備した状態で「ブースト転生石」を使用する|
+
+***背負い魔・ブーストパパ（光） [#sffabd76]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/BoostPapaHikari.png,nolink,128x127);|&color(red){タイタニア族専用};の羽のある白いブーストパパ&br;口ひげも御立派なブーストの御父様。&br;大きな口から蒼い炎を吹いてキャラクターの移動速度を増加させます。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;・上位転生特典の羽変更は反映されない&br;・アイテム「ブースト転生石」使用でブーストグランパ（光）に変化する&br;&br;【入手法】&br;[[モンスタースタンプ景品>Stamp#d11d5586]](スタンプ張１)&br;「背負い魔・ブースト（光）」を装備した状態で「ブースト転生石」を使用する|
+
+***背負い魔・ブーストパパ（闇） [#x64aa489]
+|CENTER:128|LEFT:437|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/BoostPapaYami.jpg,nolink,291x103);|&color(red){ドミニオン族専用};の羽のある黒いブーストパパ&br;口ひげも御立派なブーストの御父様。&br;大きな口から蒼い炎を吹いてキャラクターの移動速度を増加させます。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;・上位転生特典の羽変更は反映されない&br;・アイテム「ブースト転生石」使用でブーストグランパ（闇）に変化する&br;&br;【入手法】&br;[[モンスタースタンプ景品>Stamp#d11d5586]](スタンプ張１)&br;「背負い魔・ブースト（闇）」を装備した状態で「ブースト転生石」を使用する|
+
+***背負い魔・Gブーストパパ [#vf556adf]
+|CENTER:128|LEFT:600|c
+|[[画像募集中>PartnerList#h8a29c75]]|&color(red){エミル族専用};&br;・アイテム「ゴールデンブースト転生石」使用でGブーストグランパに変化する&br;&br;【入手法】&br;「背負い魔・ゴールデンブースト」を装備した状態で「ゴールデンブースト転生石」を使用する|
+
+***背負い魔・Gブーストパパ（光） [#k54ae0a8]
+|CENTER:128|LEFT:600|c
+|[[画像募集中>PartnerList#h8a29c75]]|&color(red){タイタニア族専用};&br;・アイテム「ゴールデンブースト転生石」使用でGブーストグランパ（光）に変化する&br;&br;【入手法】&br;「背負い魔・ゴールデンブースト（光）」を装備した状態で「ゴールデンブースト転生石」を使用する|
+
+***背負い魔・Gブーストパパ（闇） [#fb722b56]
+|CENTER:128|LEFT:600|c
+|[[画像募集中>PartnerList#h8a29c75]]|&color(red){ドミニオン族専用};&br;・アイテム「ゴールデンブースト転生石」使用でGブーストグランパ（闇）に変化する&br;&br;【入手法】&br;「背負い魔・ゴールデンブースト（闇）」を装備した状態で「ゴールデンブースト転生石」を使用する|
+
+***背負い魔・ブーストママ [#sda7c2d4]
+|CENTER:128|LEFT:600|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Shoulder/BoostMama.png,nolink,128x128);>http://eco.acronia.net/img/wiki/PetList/Shoulder/BoostMama_big.png]]|&color(red){ドミニオン族専用};&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;&br;【入手法】&br;[[モンスタースタンプ景品>Stamp#d11d5586]](スタンプ張２)|
+
+***背負い魔・ブーストママ（光） [#zac2b9c7]
+|CENTER:128|LEFT:600|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Shoulder/BoostMamaHikari.png,nolink,128x128);>http://eco.acronia.net/img/wiki/PetList/Shoulder/BoostMamaHikari_big.png]]|&color(red){タイタニア族専用};&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;&br;【入手法】&br;[[モンスタースタンプ景品>Stamp#d11d5586]](スタンプ張２)|
+
+***背負い魔・ブーストママ（闇） [#b0c46642]
+|CENTER:128|LEFT:600|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Shoulder/BoostMamaYami.png,nolink,128x128);>http://eco.acronia.net/img/wiki/PetList/Shoulder/BoostMamaYami_big.png]]|&color(red){ドミニオン族専用};&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;&br;【入手法】&br;[[モンスタースタンプ景品>Stamp#d11d5586]](スタンプ張２)|
+
+***背負い魔・ブーストグランパ [#j4dbdb53]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/BoostGrandpa.jpg,nolink,160x149);|&color(red){エミル族専用};&br;孫ブーストに囲まれて幸せそうなブーストの御爺ちゃん。&br;大きな口から紫の炎を吹いてキャラクターの移動速度を増加させます。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;・アイテムチェンジにより常時点火状態⇔通常状態(スキル点火所持)の切替え可&br;&br;【入手法】&br;「背負い魔・ブーストパパ」を装備した状態で「ブースト転生石」を使用する|
+
+***背負い魔・ブーストグランパ（光） [#h1dcdba4]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/BoostGranpa_Light.jpg,nolink,240x192);|&color(red){タイタニア族専用};の羽のある白いブーストグランパ&br;孫ブーストに囲まれて幸せそうなブーストの御爺ちゃん。&br;大きな口から紫の炎を吹いてキャラクターの移動速度を増加させます。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;・アイテムチェンジにより常時点火状態⇔通常状態(スキル点火所持)の切替え可&br;・上位転生特典の羽変更は反映されない&br;&br;【入手法】&br;「背負い魔・ブーストパパ（光）」を装備した状態で「ブースト転生石」を使用する|
+
+***背負い魔・ブーストグランパ（闇） [#e2f86663]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/gurannpa.jpg,nolink,300x180);|&color(red){ドミニオン族専用};の羽のある黒いブーストグランパ&br;孫ブーストに囲まれて幸せそうなブーストの御爺ちゃん。&br;大きな口から紫の炎を吹いてキャラクターの移動速度を増加させます。&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;・アイテムチェンジにより常時点火状態⇔通常状態(スキル点火所持)の切替え可&br;・上位転生特典の羽変更は反映されない&br;&br;【入手法】&br;「背負い魔・ブーストパパ（闇）」を装備した状態で「ブースト転生石」を使用する|
+
+***背負い魔・Gブーストグランパ [#a2d9986c]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shoulder/Nekomata%20Booster%20Grandpa.jpg,nolink,274x274);|&color(red){エミル族専用};&br;&br;【入手法】&br;「背負い魔・Gブーストパパ」を装備した状態で「ゴールデンブースト転生石」を使用する|
+
+***背負い魔・Gブーストグランパ（光） [#m8dcca52]
+|CENTER:128|LEFT:600|c
+|[[画像募集中>PartnerList#h8a29c75]]|&color(red){タイタニア族専用};&br;&br;【入手法】&br;「背負い魔・Gブーストパパ（光）」を装備した状態で「ゴールデンブースト転生石」を使用する|
+
+***背負い魔・Gブーストグランパ（闇） [#kdb180e5]
+|CENTER:128|LEFT:600|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Shoulder/Nekomata%20Booster%20Grandpa%28Dark%29_S.jpg,nolink,232x232);>http://eco.acronia.net/img/wiki/PetList/Shoulder/Nekomata%20Booster%20Grandpa%28Dark%29.jpg]]|&color(red){ドミニオン族専用};&br;&br;【入手法】&br;「背負い魔・Gブーストパパ（闇）」を装備した状態で「ゴールデンブースト転生石」を使用する|
+
+***ロケットブースター [#rocket]
+|CENTER:128|LEFT:600|c
+|[[画像募集中>PartnerList#h8a29c75]]|装備すると移動速度が上がるスキル「[[点火>Skill/Special#m69fb2df]]」を使用可能になります。&br;【入手法】&br;ECOSHOP「快適セレブセット」(45,000ShopPoint)付属&COLOR(red){''貸し出し期間30日''};&br;「お楽しみＢＯＸ（Ｌｖ１０）」(ECO LightGGチュートリアル)&COLOR(red){''貸し出し期間7H''};&br;【装備制限】&br;エミル、タイタニア、ドミニオン|
+
+***背負い・ブースター [#f9d3b6bb]
+|CENTER:128|LEFT:600|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Shoulder/Booster.png,nolink,128x128);>http://eco.acronia.net/img/wiki/PetList/Shoulder/Booster_big.png]]|&color(red){全種族装備可};&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブーストパパ」と同じ&br;&br;【入手法】&br;[[モンスタースタンプ景品>Stamp#d11d5586]](スタンプ張２)|
+***背負い・ブーストチャイルド [#tyairudo]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Shoulder/BoostChild.jpg,nolink,128x128);|&color(red){エミル族専用};&br;・装備中はアクティブスキル「点火」使用可（消費SP25、効果時間90秒）&br;・点火時の速度は「背負い魔・ブースト」と同じ&br;&br;【入手法】&br;まいにちBOX|
+
+***背負い魔・シールダー [#l1f4a56b]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Shielder.jpg,nolink,177x219);|&br;生物というより機械のような構造です。&br;装備すると背中からシールドを持った腕が伸び、キャラクターの防御力を向上させます。&br;&br;【入手法】&br;[[モンスタースタンプ>Stamp]]の景品として、低確率で入手。&br;数字が上がるにつれ、確率が上がります。&br;1.通常コンプリートの景品&br;2.100種コンプリートの防具の景品&br;3.100種コンプリートの一か八かの景品&br;&br;攻略情報誌「オンラインゲーム すごい攻略やってます。」Vol.16より。&br;&br;【効果】&br;装備パッシブ：シールドオブシールド&br;一定確率で宿主に対する物理攻撃と魔法攻撃を回避する&br;（実際には回復魔法・状態異常を含む全ての単体指定スキル・攻撃をブロック（無効化）します）&br;&br;【注意】&br;ペイキャパは30/30、また&color(#f00000){エミルのみ装備可能};です&br;&color(#f00000){ブースト類と違い他種族用への合成もありません};|
+
+***背負い魔・メダマーキーパー [#w1ab0972]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/medama.png,nolink,138x176);|&br;[[上位種族転生>Job/Change/Chronicle#kyoutuu]]時にエミル種族のみが貰える特典ペット&br;【入手法】&br;エミルで[[上位種族転生時>Job/Change/Chronicle]]に''Lv103''を越えていると入手できます。&br;&br;【効果】&br;装備パッシブ：メダマーキーパー&br;行動時ランダムで以下のスキルを自動発動する。効果はプレイヤーのステータスに依存する&br;アレス（Lv1相当・HP回復無し）&br;エリアヒール&br;ソリッドオーラ&br;リフレクション&br;物理防御・魔法防御上昇(左＋10右＋7・左＋15右＋15)&br;&br;【注意】&br;装備条件：転生後可能&br;&color(#f00000){''ハイエミルのみ装備可能''　};|
+
+***背負い魔・メダマーアサルト [#a47dfd5c]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/medamaAssult.jpg,nolink,138x176);|&br;[[上位種族転生>Job/Change/Chronicle#kyoutuu]]時にエミル種族のみが貰える特典ペット&br;【入手法】&br;エミルで[[上位種族転生時>Job/Change/Chronicle]]に''Lv104''を越えていると入手できます。&br;&br;【効果】&br;装備パッシブ：メダマーアサルト&br;行動時ランダムで以下のスキルを自動発動する。効果はプレイヤーのステータスに依存する&br;ヒール&br;クリティカル&br;範囲スタン(見た目風サークル)&br;範囲氷化(水サークル)&br;範囲石化(闇サークル)&br;&br;【注意】&br;装備条件：転生後可能&br;&color(#f00000){''ハイエミルのみ装備可能''　};|
+
+***背負い魔・メダマージェネラル [#h6fcc4a8]
+|CENTER:128|LEFT:600|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/medamaGeneral.jpg,nolink,138x176);|&br;[[上位種族転生>Job/Change/Chronicle#kyoutuu]]時にエミル種族のみが貰える特典ペット&br;【入手法】&br;エミルで[[上位種族転生時>Job/Change/Chronicle]]に''Lv105''を越えていると入手できます。&br;&br;【効果】&br;装備パッシブ：メダマージェネラル&br;行動時ランダムで以下のスキルを自動発動する。効果はプレイヤーのステータスに依存する&br;ヒール&br;最大ATK上昇(＋15)&br;近距離回避上昇(＋10)&br;範囲石化（見た目闇サークル）&br;物理防御・魔法防御上昇（左＋10右＋15・左＋10＋右10）&br;&br;【注意】&br;装備条件：転生後可能&br;&color(#f00000){''ハイエミルのみ装備可能''　};|
+
+**コメント（Wikiの編集が苦手な方はこちらに） [#comment]
+COLOR(red){コメント欄はゲーム内容を質問する場ではありません。}質問等は[[''こちら''>Tutorial#rdccae80]]にどうぞ。
+&color(#0000ff){ステータスを報告する場合は、ペットの種類（転生している場合は転生回数）、ステータス名、ステータス値を記入して下さい。};
+#pcomment

@@ -1,0 +1,6 @@
+# Links
+
+#freeze
+''&color(red){ウィルス感染や垢ハックの可能性があるので怪しいリンクは開かないでください};''
+RIGHT:&edit(Links/contents,noicon){編集};
+#include(./contents,notitle)

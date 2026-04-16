@@ -1,0 +1,40 @@
+# PartnerList/Almamonster/3
+
+&#x2f;/#include(Partner/PartnerMenu,notitle)
+*テストページ パートナー一覧表（第3期アルマモンスター） [#i5064144]
+&size(20){&color(black,yellow){''このページはテストページです''};};
+テストページですがページの存在自体は確定しています（中身について議論スレで議論中）
+
+#contents
+
+**アルマモンスターとは [#about]
+[[PartnerList/Almamonster]]を参照してください
+[[第1期(2012年) >PartnerList/Almamonster/1]]/[[ 第2期(2013年) >PartnerList/Almamonster/2]]/ 第3期(2015年) /[[ 第4期(2016年) >PartnerList/Almamonster/4]]/[[ その他(イベント・特典・コラボ)>PartnerList/Almamonster/0]]
+**第3期アルマ（2015年） [#i749fc93]
+***ブリキングＲＸ１・アルマ [#BrikingRX1Alma]
+***クイーンビー・アルマ [#QueenBeeAlma]
+***アルカナハート・アルマ [#ArcanaHeartAlma]
+***ウィスプ・アルマ [#WispAlma]
+***スケルトンシューター・アルマ [#SkeletonShooterAlma]
+***スペクター・アルマ [#SpecterAlma]
+***アベンジャー・アルマ [#AvengerAlma]
+***ニドエッグ・アルマ [#NidoeggAlma]
+***ギーゴ・アルマ [#GigoAlma]
+***ホウオウ・アルマ [#HououAlma]
+***キラーマシーン・アルマ [#KillerMachineAlma]
+***モーラン・アルマ [#MoranAlma]
+***アルケー・アルマ [#ArukeAlma]
+***ベイヤール・アルマ [#BeiyaruAlma]
+***スタートラー・アルマ [#StarterAlma]
+***サンドラット・アルマ [#SandratAlma]
+***マタンガ・アルマ [#MatangaAlma]
+***クリスタル・アルマ [#CrystalAlma]
+***アーチン・アルマ [#urchinAlma]
+***モクジュ・アルマ [#MokujuAlma]
+
+----
+[[第1期(2012年) >PartnerList/Almamonster/1]]/[[ 第2期(2013年) >PartnerList/Almamonster/2]]/ 第3期(2015年) /[[ 第4期(2016年) >PartnerList/Almamonster/4]]/[[ その他(イベント・特典・コラボ)>PartnerList/Almamonster/0]]
+**コメント欄（第3期） [#comment]
+&#x2f;/#pcomment(コメント/PartnerList/Almamonster/3,5,noname);
+**コメント欄（アルマ総合） [#ac80636d]
+&#x2f;/#pcomment(コメント/PartnerList/Almamonster,5,noname)

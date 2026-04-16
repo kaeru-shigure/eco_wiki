@@ -1,0 +1,196 @@
+# Skill/Wizard
+
+#author("2016-06-20T08:47:02+00:00","","")
+''ウィザード'' ([[詳細>Skill/Wizard/Explanation]]) / [[ソーサラー>Skill/Sorcerer]] ([[詳細>Skill/Sorcerer/Explanation]]) / [[セージ>Skill/Sage]] ([[詳細>Skill/Sage/Explanation]]) / [[フォースマスター>Skill/ForceMaster]]([[詳細>Skill/ForceMaster/Explanation]])
+*ウィザード [#mbbabc9c]
+//#ref(http://eco.acronia.net/img/gamedb_info/eco/kit/fan_datjob/%83E%83B%83U%81%5b%83h.jpg,nolink,right,around,zoom);
+//#ref(http://eco.acronia.net/img/gamedb_wiki/Skill/Wizard/Wizard.jpg,nolink,right,around,zoom);
+
+
+#contents
+
+#clear
+
+-''&size(20){[[ウィザードスキル詳細ページ>./Explanation]]};''
+
+-[[新ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/skill/Wizard2.jpg]]
+-[[旧ジョブイラスト>http://eco.acronia.net/img/gamedb_info/eco/kit/fan_datjob/%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89.jpg]]
+
+
+** 外部スレッド [#p81644f8]
+-現行スレ
+
+--[[ウィザード系列の心得 18>http://jbbs.livedoor.jp/bbs/read.cgi/netgame/11977/1376699320/]]
+--[[ウィザード系列交歓所【職スレ】>http://jbbs.livedoor.jp/bbs/read.cgi/game/36140/1171988947/]]
+--[[殴りSU総合スレ>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1163322066/]]
+
+-過去スレ
+--[[1次職業ウィザードの心得 01>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1121949405/]]
+--[[1次職業ウィザードの心得 02>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1125999752/]]
+--[[1次職業ウィザードの心得 03>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1129439943/]]
+--[[ウィザード・ソーサラーの心得 04>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1134746825/]]
+--[[ウィザード・ソーサラーの心得 05>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1138068489/]]
+--[[ウィザード・ソーサラーの心得 06>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1139485065/]]
+--[[ウィザード・ソーサラーの心得 07>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1146128936/]]
+--[[ウィザード・ソーサラーの心得 08>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1150299324/]]
+--[[ウィザード・ソーサラー・セージの心得 09>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1154433978/]]
+--[[ウィザード・ソーサラー・セージの心得 10>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1161708261/]]
+--[[ウィザード・ソーサラー・セージの心得 11>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1168696393/]]
+--[[ウィザード・ソーサラー・セージの心得 12>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1171630271/]]
+--[[ウィザード・ソーサラー・セージの心得 13>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1184501334/]]
+--[[ウィザード・ソーサラー・セージの心得 14>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1198966090/]]
+--[[ウィザード・ソーサラー・セージの心得 15:http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1253683996/]]
+--[[ウィザード系列の心得 16:http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1290336844/]]
+--[[ウィザード系列の心得 17>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1338706855/]]
+#clear
+
+**ウィザード系列職の特徴 [#y7521096]
+-火・水・土・風・光・闇の６属性のいずれにも属さない、''新生魔法''の使い手です。
+-属性の影響を受けず、どのような敵や場所でも安定した戦力を発揮します。
+(高レベルでは他職の属性ライズにより影が薄くなる)
+-防御魔法や状態異常魔法等、さまざまな補助スキルを使いこなすことでパーティのサポート役として活躍します。
+--ただし火力面では伸び悩むため、ソロよりもパーティ向けの職業です。
+-''HP係数：1.10''、''MP係数：1.20''、''SP係数：1.05''
+
+**転職方法 [#m985e7b]
+-ギルド元宮3Ｆ東側の部屋で、スペルユーザーマスターと会話して
+「ウィザードになりたい」と答える事で転職できます。
+※旧転職方法は2014年7月24日アップデートで撤廃されました。
+
+//--ギルド元宮3F東側の部屋にて転職可能。(注：要MAG10) 
+//--ウィザードになりたい　を選択すると、ダウンタウンのマジック（ダウンタウン占い//の館付近に居ます）から新生魔法について学んでくるように言われます。 
+//--マジックに話しかけた後、ギルド元宮にもどると、簡単なテストを行います。 
+//--テスト内容は、マスターの問いに対しどの魔法が正しいかを答えるものです。(注：失敗すると、再度マジックから学んでくるように言われます。) 
+//--テスト終了後、装備をすべてはずして話しかけると晴れてウィザードとなります。
+
+***二次職以降 [#c21b291b]
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ウィザード>Skill/Wizard]]|⇒|[[ソーサラー>Skill/Sorcerer]]|⇔|[[セージ>Skill/Sage]]|⇒|[[フォースマスター>Skill/ForceMaster]]|
+
+**種族別適正 [#wac598b1]
+
+CENTER:各種族ステータス初期値
+|BGCOLOR(E4E8F7):CENTER:|BGCOLOR(E4E8F7):CENTER:|BGCOLOR(E4E8F7):CENTER:|BGCOLOR(E4E8F7):CENTER:|BGCOLOR(E4E8F7):CENTER:|BGCOLOR(E4E8F7):CENTER:|BGCOLOR(E4E8F7):CENTER:|c
+|種族|STR|DEX|INT|VIT|AGI|MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|エミル|8|3|3|''&color(red){10};''|4|''&color(blue){3};''|
+|CENTER:BGCOLOR(DBFEED):|CENTER:BGCOLOR(DBFEED):|CENTER:BGCOLOR(DBFEED):|CENTER:BGCOLOR(DBFEED):|CENTER:BGCOLOR(DBFEED):|CENTER:BGCOLOR(DBFEED):|CENTER:BGCOLOR(DBFEED):|c
+|タイタニア|6|3|6|4|2|''&color(red){10};''|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|ドミニオン|10|5|1|''&color(blue){1};''|5|''&color(red){8};''|
+
+-''&color(blue){エミル};''
+--MAGが低いのが欠点。VITが高いのは事故死を防ぐという意味では好ましい。
+どちらかというと向いてはいない種族かもしれないが気にするほどではない。
+
+-''&color(blue){タイタニア};''
+--MAGが高くウィザードにうってつけといえる種族である。
+
+-''&color(blue){ドミニオン};''
+--MAGが比較的高い。ただ、ウィザードには重要でないSTRが高いのは少々もったいないし、VITが1からというのは少々厳しいかもしれない。
+
+
+※ただし、上で述べたことは序盤のアドバンテージの比較についてのものでありキャラクターが成長するとその差はほぼ誤差範囲である。
+　ステータスポイントをギリギリまで突き詰めるなどの意図がなければ、どの種族を選ぶのかについてはプレイヤー自身の信念がすべてであろう。
+
+**ウィザードの型 [#q3c6ca04]
+
+//長くて見づらいと思ったので別ページへ移転させました
+//レイアウトは基本的にいじってはいません
+//この項目を加筆、修正する場合は、下記リンクからSkill/Wizard/Typeへ飛んで、
+//そのページを修正してください
+
+-ウィザードには様々な「型」が考えられる
+ここでは、その「型」について簡単な説明を交えて紹介する
+***[[''ウィザードの「型」とは？''>Skill/Wizard/Type]] [#n1ab3439]
+-ここでは、ウィザードにとってのステータス意味を説明する基礎知識編とそれぞれの型についての説明がある。
+何を読めばいいかよく分からない場合は、基礎知識編から一通り目を通すことをおすすめする
+--[[基礎知識編>Skill/Wizard/Type#k1e7e676]]
+--[[MAG特化型>Skill/Wizard/Type#c144fbcb]]
+--[[MAG重視バランス型>Skill/Wizard/Type#fd005c56]]
+--[[高速詠唱型>Skill/Wizard/Type#e3cf64a4]]
+--[[近接特化型>Skill/Wizard/Type#d506fc53]]
+--[[INT特化型>Skill/Wizard/Type#o5f953df]]
+
+
+**ステータス補正 [#d5bc0049]
+-補正率は[[ステータス>Status#jobrev]]を参照
+
+***補正値一覧 [#m7550de1]
+-SU系らしく、MAGが良く伸びるがSTRとVITがほとんど上がらない。状態異常の成功率に関わるINTが良く伸びるため、状態異常系スキルを多用するタイプの型にはありがたい。
+
+//[[せーぶ>Skill/Wizard/AddPoint]]
+表はLv1とステータス補正が上昇するレベルだけ表示するように変更しました。
+//従来のLv1～Lv50まで全て書いてある補正値一覧はSkill/Wizard/AddPointに保管してます
+//以前のページに戻す際は、//[[せーぶ>Skill/Wizard/AddPoint]]の//を消して、そこのページへ行って内容をコピペすれば大丈夫です
+
+
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|Joblv|STR|DEX|INT|VIT|AGI|MAG|Joblv|STR|DEX|INT|VIT|AGI|MAG|h
+|~1|0|0|0|0|0|0|~29|0|2|COLOR(red):BGCOLOR(#EDEDFF):''6''|COLOR(red):BGCOLOR(#EDEDFF):''2''|2|8|
+|~4|0|0|0|0|0|COLOR(red):BGCOLOR(#EDEDFF):''1''|~30|0|COLOR(red):BGCOLOR(#EDEDFF):''3''|6|2|COLOR(red):BGCOLOR(#EDEDFF):''3''|COLOR(red):BGCOLOR(#EDEDFF):''9''|
+|~5|0|0|COLOR(red):BGCOLOR(#EDEDFF):''1''|0|0|1|~34|0|3|COLOR(red):BGCOLOR(#EDEDFF):''7''|2|3|COLOR(red):BGCOLOR(#EDEDFF):''10''|
+|~7|0|0|1|0|0|COLOR(red):BGCOLOR(#EDEDFF):''2''|~37|0|3|7|2|3|COLOR(red):BGCOLOR(#EDEDFF):''11''|
+|~10|0|COLOR(red):BGCOLOR(#EDEDFF):''1''|COLOR(red):BGCOLOR(#EDEDFF):''2''|0|COLOR(red):BGCOLOR(#EDEDFF):''1''|COLOR(red):BGCOLOR(#EDEDFF):''3''|~39|0|3|COLOR(red):BGCOLOR(#EDEDFF):''8''|2|3|11|
+|~14|0|1|2|0|1|COLOR(red):BGCOLOR(#EDEDFF):''4''|~40|0|COLOR(red):BGCOLOR(#EDEDFF):''4''|8|2|COLOR(red):BGCOLOR(#EDEDFF):''4''|COLOR(red):BGCOLOR(#EDEDFF):''12''|
+|~15|0|1|COLOR(red):BGCOLOR(#EDEDFF):''3''|COLOR(red):BGCOLOR(#EDEDFF):''1''|1|4|~43|0|4|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''3''|4|12|
+|~17|0|1|3|1|1|COLOR(red):BGCOLOR(#EDEDFF):''5''|~44|0|4|9|3|4|COLOR(red):BGCOLOR(#EDEDFF):''13''|
+|~20|0|COLOR(red):BGCOLOR(#EDEDFF):''2''|COLOR(red):BGCOLOR(#EDEDFF):''4''|1|COLOR(red):BGCOLOR(#EDEDFF):''2''|COLOR(red):BGCOLOR(#EDEDFF):''6''|~47|0|4|9|3|4|COLOR(red):BGCOLOR(#EDEDFF):''14''|
+|~24|0|2|COLOR(red):BGCOLOR(#EDEDFF):''5''|1|2|COLOR(red):BGCOLOR(#EDEDFF):''7''|~48|0|4|COLOR(red):BGCOLOR(#EDEDFF):''10''|3|4|14|
+|~27|0|2|5|1|2|COLOR(red):BGCOLOR(#EDEDFF):''8''|~50|COLOR(red):BGCOLOR(#EDEDFF):''1''|COLOR(red):BGCOLOR(#EDEDFF):''5''|10|3|COLOR(red):BGCOLOR(#EDEDFF):''5''|COLOR(red):BGCOLOR(#EDEDFF):''15''|
+|Joblv|STR|DEX|INT|VIT|AGI|MAG|Joblv|STR|DEX|INT|VIT|AGI|MAG|f
+
+**スキル早見表 [#u3ca4b20]
+
+スキルの詳細・解説、検証などはこちらのページ→&size(18){”[[''ウィザードスキル考察''>./Explanation]]”};
+#include(./Table,notitle)
+//[[てすと>Skill/Wizard/Table]]
+//他職と同様のレイアウトにしました
+//具体的にはスキル早見表のページ(Skill/Wizard/Table)の作成し、
+//#includeでウィザードトップとスキル詳細ページに早見表を設置
+//修正、変更をする場合は、早見表右下の「スキル早見表を編集する」をクリックすると、直接編集ページへ飛びます
+
+**Ｌｖ別適正狩場[#mafe3842]
+
+-狩場情報
+--主な狩場は[[こちら>Kariba]]を参照し、自分に合った狩場を探しましょう。
+
+-クエストは基本的に''BaseLvの5の倍数－1''で更新されていくことを覚えておきましょう(Lv4、9、14、19、24、・・・）。
+-序盤は武器・防具による強化のほうがステ振りよりも影響率が大きいため、それを区切りにするのも良い。
+-Lv40程度まではスキル一回、もしくはスキル1回+ショックでの追撃1回で倒せる敵を狙うと効率的に稼げます。
+安定して狩れないときや、効率や燃費を良くしたいなら表の一つ上のMAPで狩ると良いでしょう。
+-一方で、自分の今の実力でどこまで狩りに行けるのか挑戦してみることも、スキルや立ち回りなどを覚えるひとつの方法です。
+-ウィザードは火力面で伸び悩むため、パートナーの育成もしっかり行いましょう。
+
+**確殺必要MATK [#h15adadf]
+
+-スキル名は簡易表示を使用。
+--EB　エナジーボルト
+--ESh　エナジーショック
+--ESp　エナジースピア
+--DS　ダンシングソード
+--EBst　エナジーブラスト
+--MG　マジックグローブ
+
+#include(./Monster,notitle)
+
+**ウィザードLV別最適装備[#t51b4bd3]
+#include(./Equip,notitle)
+
+//職クエの種族性別枠より「 &br;人－&br;天－&br;悪－　」
+//OKなら→○、未確定→－　NG→×で分けてみました
+//読み込みが重くなるので、装備とかは別のページに分けた方がいいかも。
+ 
+*コメント欄（Wikiの編集の苦手な方はこちらに） [#pf002a86]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>#p81644f8]]にどうぞ。~
+
+#pcomment
+
+&size(8){　　　(C)2005 [[BROCCOLI:http://www.broccoli.co.jp/]]/[[GungHo Online Entertainment,Inc.:http://www.gungho.jp/]],/[[HEADLOCK Inc.:http://www.headlock.co.jp/]],};
+&size(8){　　　このページ内におけるECOから転載された全てのコンテンツの著作権につきましては、[[株式会社ブロッコリー:http://www.broccoli.co.jp/]]と[[ガンホー・オンライン・エンターテイメント株式会社:http://www.gungho.jp/]]および[[株式会社ヘッドロック:http://www.headlock.co.jp/]]に帰属します。};
+&size(8){　　　なお、当ページに掲載しているコンテンツの再利用（再転載・配布など）は、禁止しています。};
+&size(8){　　　当ページは、[[ECO公式サイト:http://www.econline.jp/]]（または、[[ガンホー公式サイト:http://www.gungho.jp/]]）のテキストを利用しております。};
+&size(8){　　　※改変・修正したテキストを利用することは、禁止いたします。};
+&size(8){　　　[[&color(red){エミル・クロニクル・オンライン著作物の利用に関するガイドライン};:http://www.econline.jp/ecommunity/fan_guid.html]]より};

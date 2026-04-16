@@ -1,0 +1,77 @@
+# Skill/ForceMaster
+
+[[ウィザード>Skill/Wizard]] ([[詳細>Skill/Wizard/Explanation]]) / [[ソーサラー>Skill/Sorcerer]] ([[詳細>Skill/Sorcerer/Explanation]]) / [[セージ>Skill/Sage]] ([[詳細>Skill/Sage/Explanation]]) / ''フォースマスター'' ([[詳細>Skill/ForceMaster/Explanation]])
+
+*フォースマスター [#Force_Master_Top]
+
+#contents
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+ウィザード の[[''外部スレッド''>Skill/Wizard#p81644f8]]を参照
+
+#clear
+** 特徴 [#a006c1ae]
+-新生魔法を究極まで高められる存在です。
+-装備に付与された六属性を変換することで、新生魔法の威力を飛躍的に高めます。
+-練りこまれた新生魔法は、時に魔法防御を突破し、計り知れないダメージをもたらすでしょう。
+-[[ジョブイラスト>http://econline.gungho.jp/gamedata/job/_img/305forcemaster/for_MainImg.jpg]]
+-''HP係数：3.46''、''MP係数：4.60''、''SP係数：1.49''
+|~一次職|転職|>|>|~二次職|転生|~三次職|
+|~|~|~エキスパートジョブ|スイッチ|~テクニカルジョブ|~|~|
+|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|CENTER:|LEFT:|c
+|[[ウィザード>Skill/Wizard]]|⇒|[[ソーサラー>Skill/Sorcerer]]|⇔|[[セージ>Skill/Sage]]|⇒|[[フォースマスター>Skill/ForceMaster]]|
+
+** 転職方法 [#m935f0df]
+
+[[三次クロニクル職共通ルート>Job/Change/Chronicle#kyoutuu]]
+
+以後は、各職個別ルート
+武神を倒す
+力の解放と上位転生を行う を選択
+
+以上で、転職までの長い道のりが終了である。
+
+ベース・ジョブ共に１に戻り、種族と職業は上位になり、アバターも入手できる。
+また、アバターの調整も、この場所で何時でも変更できる
+&br;&color(red){''上位転生時のレベルによって変更箇所が増える。''};
+レベル110で上位転生すれば全ての箇所が選択可能
+** スキル早見表とスキル詳細 [#u81c223e]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#q81fdd02]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|1|9|8|4|4|11||~26|3|16|COLOR(red):BGCOLOR(#EDEDFF):''15''|8|8|COLOR(red):BGCOLOR(#EDEDFF):''20''|
+|~2|1|9|8|4|COLOR(red):BGCOLOR(#EDEDFF):''5''|11||~27|3|COLOR(red):BGCOLOR(#EDEDFF):''17''|15|8|COLOR(red):BGCOLOR(#EDEDFF):''9''|20|
+|~3|1|9|8|4|5|11||~28|3|17|15|8|9|20|
+|~4|COLOR(red):BGCOLOR(#EDEDFF):''2''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''5''|5|COLOR(red):BGCOLOR(#EDEDFF):''12''||~29|3|17|15|8|9|COLOR(red):BGCOLOR(#EDEDFF):''21''|
+|~5|2|10|9|5|5|12||~30|3|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''9''|9|21|
+|~6|2|10|9|5|5|12||~31|3|18|16|9|9|21|
+|~7|2|COLOR(red):BGCOLOR(#EDEDFF):''11''|9|5|5|COLOR(red):BGCOLOR(#EDEDFF):''13''||~32|3|18|16|9|9|COLOR(red):BGCOLOR(#EDEDFF):''22''|
+|~8|2|11|COLOR(red):BGCOLOR(#EDEDFF):''10''|5|COLOR(red):BGCOLOR(#EDEDFF):''6''|13||~33|3|18|COLOR(red):BGCOLOR(#EDEDFF):''17''|9|COLOR(red):BGCOLOR(#EDEDFF):''10''|22|
+|~9|2|11|10|5|6|COLOR(red):BGCOLOR(#EDEDFF):''14''||~34|3|COLOR(red):BGCOLOR(#EDEDFF):''19''|17|9|10|COLOR(red):BGCOLOR(#EDEDFF):''23''|
+|~10|2|COLOR(red):BGCOLOR(#EDEDFF):''12''|10|COLOR(red):BGCOLOR(#EDEDFF):''6''|6|14||~35|3|19|17|9|10|23|
+|~11|2|12|COLOR(red):BGCOLOR(#EDEDFF):''11''|6|6|14||~36|3|19|17|9|10|23|
+|~12|2|12|11|6|6|14||~37|COLOR(red):BGCOLOR(#EDEDFF):''4''|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''10''|10|COLOR(red):BGCOLOR(#EDEDFF):''24''|
+|~13|2|12|11|6|6|COLOR(red):BGCOLOR(#EDEDFF):''15''||~38|4|20|18|10|10|24|
+|~14|2|COLOR(red):BGCOLOR(#EDEDFF):''13''|11|6|COLOR(red):BGCOLOR(#EDEDFF):''7''|15||~39|4|20|18|10|COLOR(red):BGCOLOR(#EDEDFF):''11''|24|
+|~15|2|13|COLOR(red):BGCOLOR(#EDEDFF):''12''|6|7|COLOR(red):BGCOLOR(#EDEDFF):''16''||~40|4|COLOR(red):BGCOLOR(#EDEDFF):''21''|18|10|11|COLOR(red):BGCOLOR(#EDEDFF):''25''|
+|~16|2|13|12|6|7|16||~41|4|21|COLOR(red):BGCOLOR(#EDEDFF):''19''|10|11|25|
+|~17|2|COLOR(red):BGCOLOR(#EDEDFF):''14''|12|COLOR(red):BGCOLOR(#EDEDFF):''7''|7|16||~42|4|21|19|10|11|25|
+|~18|2|14|12|7|7|COLOR(red):BGCOLOR(#EDEDFF):''17''||~43|4|21|19|10|11|COLOR(red):BGCOLOR(#EDEDFF):''26''|
+|~19|2|14|COLOR(red):BGCOLOR(#EDEDFF):''13''|7|7|17||~44|4|COLOR(red):BGCOLOR(#EDEDFF):''22''|19|COLOR(red):BGCOLOR(#EDEDFF):''11''|11|26|
+|~20|COLOR(red):BGCOLOR(#EDEDFF):''3''|COLOR(red):BGCOLOR(#EDEDFF):''15''|13|7|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''18''||~45|4|22|COLOR(red):BGCOLOR(#EDEDFF):''20''|11|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''27''|
+|~21|3|15|13|7|8|18||~46|4|22|20|11|12|27|
+|~22|3|15|COLOR(red):BGCOLOR(#EDEDFF):''14''|7|8|18||~47|4|COLOR(red):BGCOLOR(#EDEDFF):''23''|20|11|12|27|
+|~23|3|15|14|7|8|COLOR(red):BGCOLOR(#EDEDFF):''19''||~48|4|23|COLOR(red):BGCOLOR(#EDEDFF):''21''|11|12|COLOR(red):BGCOLOR(#EDEDFF):''28''|
+|~24|3|COLOR(red):BGCOLOR(#EDEDFF):''16''|14|COLOR(red):BGCOLOR(#EDEDFF):''8''|8|19||~49|4|23|21|11|12|28|
+|~25|3|16|14|8|8|19||~50|4|COLOR(red):BGCOLOR(#EDEDFF):''24''|21|COLOR(red):BGCOLOR(#EDEDFF):''12''|12|28|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#g75ad6a7]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Wizard#p81644f8]]にどうぞ。~
+
+どんな些細な情報でもこちらに。
+
+#pcomment

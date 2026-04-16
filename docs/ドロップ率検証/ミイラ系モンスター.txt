@@ -1,0 +1,24 @@
+# ドロップ率検証/ミイラ系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[死霊知識>ドロップ率検証#qc2da4d1]]
+
+***ミイラ [#yd77b5fb]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|紋章紙|布|丈夫な布|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|42個（42.00％）|47個（47.00％）|10個（10.00％）|1個（1.00％）|
+|知識あり（100体）|47個（47.00％）|42個（42.00％）|11個（11.00％）|0個（0.00％）|
+
+***マミー [#u259990a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|紋章紙|布|丈夫な布|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（221体）|110個（49.77％）|83個（37.56％）|24個（10.86％）|4個（1.81％）|
+|知識あり（189体）|85個（44.97％）|82個（43.39％）|21個（11.11％）|1個（0.53％）|
+
+***マミーベイン [#weaefb15]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||ねばねば|毒消しの実|ロウ|シルク|赤のタリスマン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（1156体）|514個（44.46％）|479個（41.43％）|141個（12.19％）|18個（1.55％）|4個（0.34％）|

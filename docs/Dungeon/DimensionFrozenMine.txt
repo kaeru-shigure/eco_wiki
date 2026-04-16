@@ -1,0 +1,97 @@
+# Dungeon/DimensionFrozenMine
+
+#author("2017-04-07T16:53:10+00:00","","")
+*ディメンション氷結の坑道 [#f101f0f9]
+
+-適正Lv：105～108
+
+-[[ダンジョン>Dungeon]]
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+
+#contents
+
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+[[ディメンションダンジョン情報スレッド>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1274141602/]]
+//第１弾
+//以下、テンプレとしての信ぴょう性が無く誤解を招く内容のためにコメントアウト
+//[[狩りテンプレ>http://jbbs.livedoor.jp/bbs/read.cgi/game/23423/1274141602/343-373]]
+
+
+**ディメンション氷結の坑道B1F [#b1f589f8]
+&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionFrozenMine/DimensionFrozenMineB1F.jpg,nolink,128x128,ディメンション氷結の坑道B1F);
+-隣接マップ：[[スノップ雪原>Kariba#SnopSnowField]]、ディメンション氷結の坑道B2F
+-属性：水
+
+-出現モンスター
+--[[D-メイジプルル>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv105/光)[HP:?][36000/35000]
+--[[D-エッジ>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv105/土)[HP:?][37000/36000]
+--[[D-グレイハウンド>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv106/闇)[HP:?][45000/40000]
+--[[D-ダンプティー>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv107/闇)[HP:?][64000/63000]
+--[[D-デス>MobDimension#FrozenTunnel]]（アクティブ、BOSS、一匹のみ、即湧き）
+　(Lv124/土＋光)[HP:?][182000/175000]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション氷結の坑道B2F [#x95e96cd]
+&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionFrozenMine/DimensionFrozenMineB2F.jpg,nolink,128x128,ディメンション氷結の坑道B2F);
+-隣接マップ：ディメンション氷結の坑道B1F、ディメンション氷結の坑道B3F
+-属性：水
+
+-出現モンスター
+--[[D-フローズンプルル>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv107/水)[HP:59000][62000/60000]
+--[[D-スノークリスタル>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv107/水)[HP:64500][66000/64000]
+--[[D-アイシクール>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv108/水)[HP:68000][69000/63000]
+--[[D-アイスドール>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv109/水)[HP:72000][70000/61000]
+--[[D-アイスエレメント>MobDimension#FrozenTunnel]]（アクティブ、BOSS、二匹のみ、即湧き）
+　(Lv124/水)[HP:150000][235000/200000]
+--[[D-デス>MobDimension#FrozenTunnel]]（アクティブ、BOSS、二匹のみ、即湧き）
+　(Lv124/土＋光)[HP:?][182000/175000]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**ディメンション氷結の坑道B3F [#n44009d5]
+&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionFrozenMine/DimensionFrozenMineB3F.jpg,nolink,128x128,ディメンション氷結の坑道B3F);
+-侵入条件：Lv100以上
+-隣接マップ：ディメンション氷結の坑道B2F
+-属性：水
+
+-出現モンスター
+--[[D-ロッティープルル>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv115/闇)[HP:?][128000/1]
+--[[D-スメルマン>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv118/闇)[HP:?][136000/1]
+--[[D-アンデッドアーマー>MobDimension#FrozenTunnel]]（アクティブ）
+　(Lv122/闇)[HP:?][139000/1]
+--[[D-デス>MobDimension#FrozenTunnel]]（アクティブ、BOSS）
+　(Lv124/土＋光)[HP:?][182000/175000]
+--[[D-ガーズ>MobDimension#FrozenTunnel]]（BOSS、アクティブ）
+　(Lv125/闇)[HP:?][196000/1]
+--[[D-ソウルーター>MobDimension#FrozenTunnel]]（BOSS、アクティブ）
+　(Lv125/闇)[HP:?][194000/1]
+--[[D-オルクス>MobDimension#FrozenTunnel]]（BOSS、アクティブ）
+　(Lv126/闇)[HP:?][203000/1]
+--[[D-ダークエレメント>MobDimension#FrozenTunnel]]（BOSS、アクティブ）
+　(Lv127/闇)[HP:?][290000/260000]
+--[[D-ナイトメア>MobDimension#FrozenTunnel]]（BOSS、アクティブ）
+　(Lv128/闇)[HP:?][750000/750000]
+--[[ドラゴンゾンビ>MobDimension#FrozenTunnel]]（BOSS、取り巻き：D-ナイトメア、アクティブ）
+　(Lv129/闇)[HP:?][?/?]
+--[[ノーライフキング>MobDimension#FrozenTunnel]]（BOSS、取り巻き：ドラゴンゾンビ、アクティブ）
+　(Lv129/闇)[HP:?][?/?]
+
+-自然物
+--[[宝箱１８>takarahako#t18]]
+
+**コメント欄 [#o87ef77c]
+#pcomment

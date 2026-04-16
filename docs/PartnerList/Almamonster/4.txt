@@ -1,0 +1,111 @@
+# PartnerList/Almamonster/4
+
+[[パートナーシステム>Partner]] ([[初心者向け説明>TutorialPartner]]) / [[ステータス>Partner/Status]] / [[スキル>Partner/Skill]] / [[装備>Partner/Equip]] / [[AI>Partner/AI]] ([[考察>Partner/AI/Study]])
+一覧：[[通常 >PartnerList/Normal]]/[[ 騎乗(ライド) >PartnerList/Ride]]/[[ 背中装備 >PetList/Shoulder]]/[[ ネコマタ >PartnerList/nekomata]]/[[ オートマタ >PartnerList/automata]]/[[ 武神 >PartnerList/busin]]/[[ 守護魔 >PartnerList/Syugoma]]/[[ ハートメイト >PartnerList/Heartmate]]/[[ ロア >PartnerList/Lore]]/[[ 御魂 >PartnerList/Mitama]]/ 神魔
+　　　[[アルマモンスター >PartnerList/Almamonster]]([[第1期 >PartnerList/Almamonster/1]]/[[ 第2期 >PartnerList/Almamonster/2]]/[[ 第3期 >PartnerList/Almamonster/3]]/[[ 第4期 >PartnerList/Almamonster/4]]/[[ その他>PartnerList/Almamonster/0]])
+RIGHT:&size(14){パートナーメニューを編集};
+
+*テストページ パートナー一覧表（アルマモンスター） [#m605565f]
+&size(20){&color(black,yellow){''このページはテストページです''};};
+テストページですがページの存在自体は確定しています（中身について議論スレで議論中）
+
+#contents
+
+**アルマモンスターとは [#about]
+-主に2012・2013・2015・2016年の通年イベントのキャラクター
+--このwikiでは各年のイベントに登場したアルマ達を「第1期アルマ」「第2期アルマ」のように数えて区別することがあり、
+どの期にも属さないアルマ（通年でない別イベント、他社コラボ、製品特典など）を「その他アルマ」などと表記しています。
+--通年イベントについては以下を参照してください
+---2012年(第1期)：[[アルマたちと絆の樹～１時間目>Quest/Season/ArumaAndBondsTree01]] ※プレイ不可(2015年12月時点)
+---2013年(第2期)：[[イリスと記憶の書架>Quest/Season/BookshelvesAndMemoryIris]]
+---2015年(第3期)：[[タイニー・かんぱにー～人材発掘編～>Quest/Season/TinyCompanyTalentScout]]
+---2016年(第4期)：[[神魔の来訪 タイニー・かんぱにー ～憑依研究編～>Quest/Season/TinyCompanyShinmaHyoui]]
+-2012・2013年のアルマは[[チュートリアル>Event/Nheartful#newtutorial]]のナビゲーターとして登場する。(2014/7/21～)
+-2012・2013年のアルマは2015年の季節イベントにモブとして登場した。
+//-2013年のアルマは[[イベント「イリスと記憶の書架」>Quest/Season/BookshelvesAndMemoryIris]]のナビゲーターとして登場する。
+-[[ECOくじ>kuji]]等から新規入手可能
+--一部アルマは新規入手不可 (過去イベント報酬、特典系、コラボ系アルマ)
+-一部アルマには元モンスターの影響による特徴がみられる
+--特定職業の命令スキルに対応する
+---バウ・アルマ（元が犬）、シャボタン・アルマ（元が植物）、ローキー・アルマ（元が狼）、ペペン・アルマ（元が鳥）。
+---以下は非対応　オートメディック・アルマ（元が機械）、ココッコー・アルマ（元が鳥）、プルル・アルマ（元が植物）、ブリキングRX1・アルマ（元が機械）、ギーゴ・アルマ（元が鳥）。
+---以下は未確認　ホウオウ・アルマ（元が鳥）、キラーマシーン・アルマ（元が機械）、モーラン・アルマ（元が植物）。
+--ライドパートナー変化時、常時アンデッド状態となる（ヒーリング等により逆にダメージを受ける）
+---スケルトンシューター・アルマのライド、スペクター・アルマのライド。
+--ライドパートナー変化時、[[ストライダー>Skill/Stryder/Explanation#reino3]]以外の能力上乗せスキルが適用される（通常はストライダーのみ）
+---ブリキングＲＸ１・アルマ（[[マエストロ>Skill/Maestro/Explanation#reino3]]のみ）、モーラン・アルマ（ストライダー・[[ハーヴェストマスター>Skill/Harvest/Explanation#HarvestMaster]]）
+---他のライドチェンジ可能アルマは未確認
+
+[[第1期(2012年) >PartnerList/Almamonster/1]]/[[ 第2期(2013年) >PartnerList/Almamonster/2]]/[[ 第3期(2015年) >PartnerList/Almamonster/3]]/[[ 第4期(2016年) >PartnerList/Almamonster/4]]/[[ その他(イベント・特典・コラボ)>PartnerList/Almamonster/0]]
+-[[第1期アルマ（2012年）>PartnerList/Almamonster/1]]
+---[[ダークフェザー・アルマ>PartnerList/Almamonster/1#DarkFeatherAlma]]
+---[[バウ・アルマ>PartnerList/Almamonster/1#BauAlma]]
+---[[シャボタン・アルマ>PartnerList/Almamonster/1#SyabotanAlma]]
+---[[ローキー・アルマ>PartnerList/Almamonster/1#LowkeyAlma]]
+---[[バルル・アルマ>PartnerList/Almamonster/1#BaruruAlma]]
+---[[シーホース・アルマ>PartnerList/Almamonster/1#SeahorseAlma]]
+---[[ペペン・アルマ>PartnerList/Almamonster/1#PepenAlma]]
+---[[サラマンダー・アルマ>PartnerList/Almamonster/1#SalamanderAlma]]
+---[[ミニー・ドゥ・アルマ>PartnerList/Almamonster/1#MinnieDoAlma]]
+---[[白い使い魔・アルマ>PartnerList/Almamonster/1#ShiroAlma]]
+---[[オートメディック・アルマ>PartnerList/Almamonster/1#AutoMedicAlma]]
+---[[デス・アルマ>PartnerList/Almamonster/1#DeathAlma]]
+---[[プルル・アルマ>PartnerList/Almamonster/1#PururuAlma]]
+---[[プルル>PartnerList/Almamonster/1#Pururu]]
+-[[第2期アルマ（2013年）>PartnerList/Almamonster/2]]
+---[[エンジェルフェザー・アルマ>PartnerList/Almamonster/2#AngelFeatherAlma]]
+---[[モーモー・アルマ>PartnerList/Almamonster/2#MouMouAlma]]
+---[[ネクロアーマー・アルマ>PartnerList/Almamonster/2#NecroArmorAlma]]
+---[[アンブレラ・アルマ>PartnerList/Almamonster/2#UmbrellaAlma]]
+---[[ココッコー・アルマ>PartnerList/Almamonster/2#KokokoAlma]]
+---[[タランチュラ・アルマ>PartnerList/Almamonster/2#TarantulaAlma]]
+---[[ベア・アルマ>PartnerList/Almamonster/2#BearAlma]]
+---[[フライフィッシュ・アルマ>PartnerList/Almamonster/2#FlyFishAlma]]
+---[[テンタクル・アルマ>PartnerList/Almamonster/2#TentacleAlma]]
+---[[マミー・アルマ>PartnerList/Almamonster/2#MummyAlma]]
+---[[ドラッキー・アルマ>PartnerList/Almamonster/2#DrackyAlma]]
+---[[ブーフ・アルマ>PartnerList/Almamonster/2#BuchAlma]]
+-[[第3期アルマ（2015年）>PartnerList/Almamonster/3]]
+---[[ブリキングＲＸ１・アルマ>PartnerList/Almamonster/3#BrikingRX1Alma]]
+---[[クイーンビー・アルマ>PartnerList/Almamonster/3#QueenBeeAlma]]
+---[[アルカナハート・アルマ>PartnerList/Almamonster/3#ArcanaHeartAlma]]
+---[[ウィスプ・アルマ>PartnerList/Almamonster/3#WispAlma]]
+---[[スケルトンシューター・アルマ>PartnerList/Almamonster/3#SkeletonShooterAlma]]
+---[[スペクター・アルマ>PartnerList/Almamonster/3#SpecterAlma]]
+---[[アベンジャー・アルマ>PartnerList/Almamonster/3#AvengerAlma]]
+---[[ニドエッグ・アルマ>PartnerList/Almamonster/3#NidoeggAlma]]
+---[[ギーゴ・アルマ>PartnerList/Almamonster/3#GigoAlma]]
+---[[ホウオウ・アルマ>PartnerList/Almamonster/3#HououAlma]]
+---[[キラーマシーン・アルマ>PartnerList/Almamonster/3#KillerMachineAlma]]
+---[[モーラン・アルマ>PartnerList/Almamonster/3#MoranAlma]]
+---[[アルケー・アルマ>PartnerList/Almamonster/3#ArukeAlma]]
+---[[ベイヤール・アルマ>PartnerList/Almamonster/3#BeiyaruAlma]]
+---[[スタートラー・アルマ>PartnerList/Almamonster/3#StarterAlma]]
+---[[サンドラット・アルマ>PartnerList/Almamonster/3#SandratAlma]]
+---[[マタンガ・アルマ>PartnerList/Almamonster/3#MatangaAlma]]
+---[[クリスタル・アルマ>PartnerList/Almamonster/3#CrystalAlma]]
+---[[アーチン・アルマ>PartnerList/Almamonster/3#urchinAlma]]
+---[[モクジュ・アルマ>PartnerList/Almamonster/3#MokujuAlma]]
+-[[第4期アルマ（2016年）>PartnerList/Almamonster/4]]
+---ホワイトファング・アルマ
+-[[その他アルマ>PartnerList/Almamonster/0]]
+--[[ゲーム内イベントで入手>PartnerList/Almamonster/0#hc2fc2d6]]
+---[[プルル・アルマ>PartnerList/Almamonster/1#PururuAlma]]（第1期）
+---[[プルル>PartnerList/Almamonster/1#Pururu]]（第1期）
+---[[タイニーゼロ / タイニーゼロ・アルマ / タイニーゼロ・アルマ＋>PartnerList/Almamonster/0#TinyzeroAlma]]
+---[[エコ坊・アルマ>PartnerList/Almamonster/0#EkobouAlma]]
+---[[モクジュ・アルマ>PartnerList/Almamonster/3#MokujuAlma]]（第3期）
+--[[付属特典系アルマ>PartnerList/Almamonster/0#c6a13bd5]]
+---[[タイニー・アルマ>PartnerList/Almamonster/0#TinyAlma]]
+---[[ダンプティー・アルマ>PartnerList/Almamonster/0#DumptyAlma]]
+---[[ヘビメタイニー・アルマ>PartnerList/Almamonster/0#HeavyMetalTinyAlma]]
+---[[ファントム・アルマ>PartnerList/Almamonster/0#PhantomAlma]]
+--[[コラボレーション系アルマ>PartnerList/Almamonster/0#ra1ae249]]
+---[[ダークフェザー・アルマ（BABY）>PartnerList/Almamonster/0#DarkFeatherBABY]]
+---[[タイニーゼロ・アルマ（Mary）>PartnerList/Almamonster/0#TinyzeroMary]]
+---[[ダンプティー・アルマ（Mary）>PartnerList/Almamonster/0#DumptyAlmaMary]]
+
+----
+[[第1期(2012年) >PartnerList/Almamonster/1]]/[[ 第2期(2013年) >PartnerList/Almamonster/2]]/[[ 第3期(2015年) >PartnerList/Almamonster/3]]/[[ 第4期(2016年) >PartnerList/Almamonster/4]]/[[ その他(イベント・特典・コラボ)>PartnerList/Almamonster/0]]
+**コメント欄（アルマ総合） [#ha3041d3]
+&#x2f;/#pcomment(コメント/PartnerList/Almamonster,5,noname)

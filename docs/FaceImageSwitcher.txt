@@ -1,0 +1,105 @@
+# FaceImageSwitcher
+
+#author("2017-04-07T17:08:12+00:00","","")
+[[←外見ページへ戻る>face]]
+*お顔スイッチャーによる顔の画像一覧 [#v2f2cd11]
+#contents
+
+**お顔スイッチャー（エミル）（タイタニア）（ドミニオン）（ＤＥＭ） [#p7460290]
+-画像は[[初期顔の画像一覧>FaceImage]]を参照
+-キャラクター作成時に選択出来る顔1～15に変更できる。
+%%自種族のもののみ使用可能。%%　他種族のも使用可能になった。（2012/1/26）
+-目の色は固定されているため、選択不能。
+-男性用・女性用が区別されており、性別の異なる顔は使用できない。
+
+**お顔スイッチャー（特殊） [#z0b0573a]
+-画像は[[初期顔の画像一覧>FaceImage]]を参照
+-キャラクター作成時に選択出来る顔16～20に変更できる。
+-目の色は固定されているため、選択不能。
+-男性用・女性用が区別されており、性別の異なる顔は使用できない。
+
+**お顔スイッチャー１ [#zf1e0f23]
+|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch1.jpg,nolink,740x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　顔105　|　顔106　|　顔107　|　顔108　|　顔109　|
+
+**お顔スイッチャー２ [#u4aa5e81]
+|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch2.jpg,nolink,740x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　顔110　|　顔111　|　顔112　|　顔113　|　顔114　|
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+--顔112
+
+**お顔スイッチャー３ [#u4aa5e81]
+|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch3.jpg,nolink,745x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　ネコ目　|　おっとり　|ミステリアス|　クール　|　中性　|
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+
+
+
+**お顔スイッチャーEX１ [#pfbb4cc3]
+|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitchEX1.jpg,nolink,592x155);|
+|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　守護魔・カナデ　|　ネコマタハート・フリル　|　タイニー・アルマ　|　ダンプティー・アルマ　|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+-瞬きのほか、待機中に目を細める表情をする。
+--守護魔・カナデ、ネコマタハート(フリル)、タイニー・アルマ、ダンプティー・アルマ
+
+**お顔スイッチャー（ネコマタ） [#g14ab1e0]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_nekomata.jpg,nolink,888x310);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　ネコマタ(桃)　|　ネコマタ(藍)　|　ネコマタ(緑)　|　ネコマタ(山吹)　|　ネコマタ(菫)　|　ネコマタ(茜)　|
+|　ネコマタ(杏　|　ネコマタ(空)　|　ネコマタ(胡桃)　|　ネコマタ(若菜)　|　ネコマタ(白)　|　ネコマタ(黒)　|
+
+**お顔スイッチャー（守護魔） [#d6b61439]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_syugoma_kai.jpg,nolink,888x465);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　守護魔・ムツキ　|　守護魔・キサラギ　|　守護魔・ヤヨイ　|　守護魔・ウヅキ　|　守護魔・サツキ　|　守護魔・ミナヅキ　|
+|　守護魔・フミツキ　|　守護魔・ハヅキ　|　守護魔・キクヅキ　|　守護魔・カミア　|　守護魔・シモツキ　|　守護魔・ロウゲツ　|
+|　守護魔・カンナ　|　守護魔・ナガツキ　|　|　　|　　|　　|
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+--守護魔・サツキ、守護魔・ミナヅキ、守護魔・ハヅキ、守護魔・カミア、守護魔・カンナ、守護魔・ナガツキ
+
+**お顔スイッチャー（アルマ・１） [#cb27434e]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_alma1_kai.jpg,nolink,888x465);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　ダークフェザー・アルマ　|　バウ・アルマ　|　シャボタン・アルマ　|　ローキー・アルマ　|　バルル・アルマ　|　シーホース・アルマ　|
+|　ペペン・アルマ　|　サラマンダー・アルマ　|　ミニー・ドゥ・アルマ　|　白い使い魔・アルマ　|　オートメディック・アルマ　|　デス・アルマ　|
+|　プルル・アルマ　|　　|　　|　　|　　|　　|
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+--ダークフェザー・アルマ、バルル・アルマ、白い使い魔・アルマ、オートメディック・アルマ、デス・アルマ
+
+**お顔スイッチャー（アルマ・２） [#n97f98c5]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_alma2.jpg,nolink,888x310);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　エンジェルフェザー・アルマ　|　モーモー・アルマ　|　ネクロアーマー・アルマ　|　アンブレラ・アルマ　|　ココッコー・アルマ　|　タランチュラ・アルマ　|
+|　ベア・アルマ　|　フライフィッシュ・アルマ　|　テンタクル・アルマ　|　マミー・アルマ　|　ドラッキー・アルマ　|　ブーフ・アルマ　|
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+--エンジェルフェザー・アルマ、ネクロアーマー・アルマ、アンブレラ・アルマ、タランチュラ・アルマ、マミー・アルマ
+
+
+**お顔スイッチャー（アルマ・３） [#e71fe5be]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_alma3c.jpg,nolink,894x310);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　エコ坊・アルマ　|　ブリキングRX1・アルマ　|　クイーンビー・アルマ　|　アルカナハート・アルマ　|　ウィスプ・アルマ　|　スケルトンシューター・アルマ　|
+|　スペクター・アルマ　|　アベンジャー・アルマ　|　クリスタル・アルマ　|　アーチン・アルマ　|　モクジュ・アルマ　|　　|
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+
+
+**お顔スイッチャー（ロア） [#xe40fb73]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_lore2.jpg,nolink,888x465);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　アルカード・ロア　|　清姫・ロア　|　ル・フェイ・ロア　|　バステト・ロア　|　キッド・ロア　|　玉藻・ロア　|
+|　ローレライ・ロア　|　パラケルスス・ロア　|　ワーウルフ・ロア　|　メフィスト・ロア　|　ルチフェロ・ロア　|　ステラ・ロア　|
+|　アイリス・ロア||||||
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+--アルカード・ロア、玉藻・ロア、ワーウルフ・ロア、メフィスト・ロア
+
+**お顔スイッチャー（御魂） [#z4627dcb]
+|>|>|>|>|>|&ref(http://eco.acronia.net/img/wiki/FaceSwitch/FaceSwitch_mitama.jpg,nolink,888x310);|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|　御魂・ミコト　|　御魂・メイ　|　御魂・ライ　|　御魂・キリエ　|　御魂・セレス　|　御魂・ルリ　|
+|　御魂・フォルテ　|　御魂・エリーゼ　|　御魂・アリア　|　御魂・ナナイ　|　御魂・リーリエ　|　御魂・ヒスイ　|
+-一部の顔は瞬きのほか、待機中に目を細める表情をする。
+--御魂・ミコト、御魂・ライ、御魂・キリエ、御魂・セレス、御魂・ルリ、御魂・フォルテ、御魂・アリア、御魂・ヒスイ

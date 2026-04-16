@@ -1,0 +1,17 @@
+# ドロップ率検証/ドラッキー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鳥知識>ドロップ率検証#kd456d9b]]
+
+***ドラッキー [#p4e1e714]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|力の結晶|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|65個（65.00％）|35個（35.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|144個（72.00％）|48個（24.00％）|1個（0.50％）|7個（3.50％）|
+
+***ヘビーバット [#t3393d5e]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|上等な肉|金色の牙|破れた魔法書|金属の混じった石(３)|するどい牙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（500体）|252個（50.40％）|181個（36.20％）|55個（11.00％）|12個（2.40％）|0個（0.00％）|0個（0.00％）|
+|知識あり（10811体）|5280個（48.84％）|4351個（40.25％）|1047個（9.68％）|114個（1.05％）|15個（0.14％）|4個（0.04％）|

@@ -1,0 +1,52 @@
+# ドロップ率検証/その他の植物系自然物
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***パンの木 [#t600c823]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|パンの実|パンの木の種|上等なパンの実|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（9体）|4個（44.44％）|3個（33.33％）|2個（22.22％）|0個（0.00％）|
+|知識あり（50体）|23個（46.00％）|14個（28.00％）|4個（8.00％）|9個（18.00％）|
+
+***綿花 [#de578ecd]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|綿花|糸|上等な綿花|綿花の種|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|54個（54.00％）|33個（33.00％）|12個（12.00％）|0個（0.00％）|1個（1.00％）|
+|知識あり（370体）|135個（36.49％）|93個（25.14％）|35個（9.46％）|107個（28.92％）|0個（0.00％）|
+
+***綿花草 [#vd5c1da4]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|綿花|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（100体）|75個（75.00％）|15個（15.00％）|
+|知識あり（200体）|128個（64.00％）|72個（36.00％）|
+
+***巨麦 [#ud9e9730]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|巨麦|巨麦の穂|園芸巨麦の種|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|55個（55.00％）|31個（31.00％）|11個（11.00％）|3個（3.00％）|
+|知識あり（100体）|40個（40.00％）|30個（30.00％）|29個（29.00％）|1個（1.00％）|
+
+***巨麦草 [#yb4e100f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|巨麦|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|49個（49.00％）|51個（51.00％）|
+
+***えんどう豆 [#y4c4fd82]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|えんどう豆|つる|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（200体）|127個（63.50％）|72個（35.00％）|1個（0.50％）|
+
+***キョナッツ [#r62a8f5d]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|キョナッツ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|
+|知識あり（50体）|23個（46.00％）|27個（54.00％）|

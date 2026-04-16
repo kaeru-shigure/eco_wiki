@@ -1,0 +1,97 @@
+# Dungeon/DimensionSouthDungeon
+
+*ディメンションサウスダンジョン [#d19b65b4]
+
+-適正Lv：108～110
+
+-[[ダンジョン>Dungeon]]
+-[[ディメンションダンジョン>Dungeon#cd3af85f]]
+-[[プライベートダンジョン>Dungeon#v261e508]]
+
+#contents
+
+**ディメンションサウスダンジョンB1F [#e976a2e6]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionSouthDungeon/DimensionSouthDungeonB1F.jpg,nolink,ディメンションサウスダンジョンB1F);
+-隣接マップ：アイアンシティ下層階、ディメンションサウスダンジョンB2F
+-属性：不明
+
+-出現モンスター
+//--[[ディメンションサウスダンジョンモンスター>MobDimension#SouthDungeon]]
+--[[D-アンダンテ>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv106/火)[HP:?][59000/55000]
+--[[D-ジルコンIII>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv107/闇)[HP:?][63000/61000]
+--[[D-デバステイター>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv107/火)[HP:?][65000/63000]
+--[[D-スペルキャスター>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv108/闇)[HP:?][69000/66000]
+--[[D-ブロックス>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv110/火＋土)[HP:76000][76000/72000]
+
+-自然物
+
+**ディメンションサウスダンジョンB2F [#i81ff85f]
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionSouthDungeon/DimensionSouthDungeonB2F.jpg,nolink,ディメンションサウスダンジョンB2F);
+-隣接マップ：ディメンションサウスダンジョンB1F、ディメンションサウスダンジョンB3F
+-属性：不明
+
+-出現モンスター
+//--[[ディメンションサウスダンジョンモンスター>MobDimension#SouthDungeon]]
+--[[D-ブロックス>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv110/火＋土)[HP:76000][76000/72000]
+--[[D-キメラ>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv110/火)[HP:68000][79000/80000]
+--[[D-ブリキングRX3>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv111/土)[HP:69000][82000/84000]
+--[[D-ブリキングキャノン>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv113/火)[HP:64000][86000/87000]
+--[[D-ブリキングカスタム>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv114/土)[HP:72000][89000/90000]
+--[[D-ラーミア>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv114/土)[HP:69000][86000/89000]
+--[[D-ドミニオン背徳者>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv120/闇)[HP:85000][160000/150000]
+
+-自然物
+
+**ディメンションサウスダンジョンB3F [#k0d133a9]
+-侵入条件：Lv100以上
+//&ref(http://eco.acronia.net/img/gamedb_wiki/Dungeon/DimensionSouthDungeon/DimensionSouthDungeonB3F.jpg,nolink,ディメンションサウスダンジョンB3F);
+-隣接マップ：ディメンションサウスダンジョンB2F、ディメンションマルクトの船着場
+-属性：不明
+
+-出現モンスター
+//--[[ディメンションサウスダンジョンモンスター>MobDimension#SouthDungeon]]
+--[[D-ドミニオン背徳者>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv120/闇)[HP:85000][160000/150000]
+--[[D-白い使い魔>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv120/光)[HP:83000][157000/1]
+--[[D-シュバリス>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv126/火)[HP:?][193000/1]
+--[[D-ノーブルアーマー>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv127/光)[HP:?][207000/1]
+--[[D-ネクロアーマー>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv128/闇)[HP:100000][215000/1]
+--[[D-ホウオウ>MobDimension#SouthDungeon]]（アクティブ）
+　(Lv129/火)[HP:?][222000/1]
+--[[D-ドミニオン高位背徳者>MobDimension#SouthDungeon]]（BOSS、アクティブ）
+　(Lv130/光)[HP:?][230000/1]
+--[[ベルゼビュートの分身体>MobDimension#SouthDungeon]]（BOSS、アクティブ）
+　(Lv131/闇)[HP:5000000?][666666/666666]
+--[[ベルゼビュート>MobDimension#SouthDungeon]]（BOSS、アクティブ、取り巻き：ベルゼビュートの分身体）
+　(Lv131/光＋闇)[HP:?][?/?]
+
+-自然物
+
+**ディメンションマルクトの船着場 [#b820d990]
+-隣接マップ：ディメンションサウスダンジョンB3F
+
+-自然物
+--[[Ｄ－タタラベ石>Nature#i77e753e]]
+--[[Ｄ－サウス石>Nature#i77e753e]]
+--[[Ｄ－水晶体>Nature#i77e753e]]
+--[[Ｄ－古壷>Nature#i77e753e]]
+--[[Ｄ－大壷>Nature#i77e753e]]
+
+**コメント欄 [#g8e01d79]
+#pcomment

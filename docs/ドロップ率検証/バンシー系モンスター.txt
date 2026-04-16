@@ -1,0 +1,17 @@
+# ドロップ率検証/バンシー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[精霊知識>ドロップ率検証#cf2c3a58]]
+
+***バンシー [#ff218d49]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|燐粉|パートナーフード|マナウォーター|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（430体）|207個（48.14％）|169個（39.30％）|51個（11.86％）|3個（0.70％）|
+|知識あり（100体）|49個（49.00％）|38個（38.00％）|10個（10.00％）|3個（3.00％）|
+
+***フューリー [#r9d4da24]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|流氷詰めの缶|パートナーフード|マジックポーション|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（558体）|256個（45.88％）|225個（40.32％）|69個（12.37％）|8個（1.43％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

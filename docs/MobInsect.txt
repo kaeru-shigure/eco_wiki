@@ -1,0 +1,95 @@
+# MobInsect
+
+#author("2017-01-21T05:46:48+00:00","","")
+*モンスター・エミル世界（昆虫） [#f201c53d]
+#contents
+#include(MobMenu,notitle)
+
+-ドロップ品凡例
+--&color(orange){オレンジ色};：知識があると出やすいもの
+--&color(red){赤色};：知識が無ければ出ないもの
+--&color(slateblue){紫色};：極めて稀なもの
+--&color(#cccccc){灰色};：未確定のもの（情報待ち保留中です）
+
+***蜘蛛系 [#Kumo]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/TsuchiGumo.jpg,nolink,zoom,100x100);|土蜘蛛|16|225|31/29|BGCOLOR(#98fb98):土|Link|ウテナ湖&br;東アクロニア海岸|蜘蛛のワイン&br;糸&br;アラクネーの糸&br;&color(red){丈夫な糸};&br;力の結晶&br;&color(red){タランチュラの糸};&br;&color(slateblue){土蜘蛛スタンプ};|ポイズンパフューム|M.DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/StainedSpider.png,nolink,zoom,100x100);|ステンドスパイダー|20|265?|66/48|BGCOLOR(#98fb98):土||アクロニア丘陵|蜘蛛のワイン&br;糸&br;ガラス生地|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaKumo.jpg,nolink,zoom,100x100);|でか蜘蛛|27|8,400|140/150|BGCOLOR(#98fb98):土|Link|ウテナ湖|蜘蛛のワイン&br;糸&br;アラクネーの糸&br;&color(slateblue){ブランクイリスカード};|ポイズンパフューム|鈍足&br;高HP|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Tarantula.jpg,nolink,zoom,100x100);|タランチュラ|27|840|222/162|BGCOLOR(#98fb98):土|Active|【廃炭鉱】&br;B1F,B2F|蜘蛛のワイン&br;糸&br;丈夫な糸&br;アラクネーの糸&br;力の結晶&br;&color(red){タランチュラの糸};&br;&color(slateblue){タランチュラスタンプ};|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/HannyaGumo.jpg,nolink,zoom,100x100);|般若蜘蛛|62|2,400|750/1,000||Link|【インスタンスダンジョン】&br;戦慄のプリズン|蜘蛛のワイン&br;アラクネーの糸&br;力の結晶&br;&color(red){丈夫な糸};&br;&color(red){タランチュラの糸};|ポイズンパフューム&br;スロウロジック|数を集めると憑依して&br;ジャンボ般若蜘蛛に変身|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KoganeGumo.jpg,nolink,zoom,100x100);|コガネグモ|77|5,100|3,500/3,400|BGCOLOR(#98fb98):''土''/闇|Link&br;→昆虫系|バオバブの森|青汁&br;梅のど飴&br;鉛のナゲット&br;アラクネーの糸&br;クリティカルの結晶&br;&color(red){ハーブのど飴};&br;&color(red){琥珀};|ランドクラッグ&br;ロックストーン&br;アースストーム&br;コンフューズスタッド|高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KoganeGumoN.jpg,nolink,zoom,100x100);|コガネグモ|91|12,000|4,200/4,100|BGCOLOR(#98fb98):土|Link&br;→コガネグモ&br;→シャインビー|バオバブの森(夜)|青汁&br;蜘蛛の白ワイン&br;金のナゲット&br;クリティカルの結晶&br;&color(red){琥珀};|スケア&br;バイタリティダウン&br;コンフューズスタッド&br;セイントアート|高M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KuroOniGumo.jpg,nolink,zoom,100x100);|黒鬼蜘蛛|49||3,400/5,400|BGCOLOR(#98fb98):土||【インスタンスダンジョン】&br;集う魔物|毒針|オブセッション&br;サテライトタイタン|BOSS|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/YashaGumo.jpg,nolink,zoom,100x100);|夜叉蜘蛛|50||5,400/4,400|BGCOLOR(#98fb98):土||【インスタンスダンジョン】&br;集う魔物|毒消しの実|アースパウダー&br;※グランドクロス|BOSS&br;※HP50%以下の時&br;ダメージを与えると&br;カウンターとして無詠唱で使用|
+
+***クローラー系 [#Crawler]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Crawler.jpg,nolink,zoom,100x100);|クローラー|3|60|5/3|無|NonActive|アクロニア周辺地域&br;アクロニアの林&br;ファーイースト街道&br;ウテナ湖|キチン&br;青汁&br;緑のゼリコ&br;&color(#cccccc){魔力の結晶};&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){クローラースタンプ};|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/SandCrawler.jpg,nolink,zoom,100x100);|サンドクローラー|14|135|28/18|BGCOLOR(#ffdddd):火|NonActive|ウテナ川河口&br;ウテナ湖&br;ステップ砂漠&br;サウスリン岬|キチン&br;クローラーのまゆ&br;黄色のゼリコ&br;いのちの結晶&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){サンドクローラスタンプ};|スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaCrawler.jpg,nolink,zoom,100x100);|でかクローラー|15|3,000|100/60|無|Link|東アクロニア海岸|キチン&br;青汁&br;緑のゼリコ&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){でかクローラースタンプ};|-|高HP&br;鈍足|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Youchuu.jpg,nolink,zoom,100x100);|幼虫|16|160|30/30|BGCOLOR(#ffffff):光|NonActive&br;Link→ビー系|ビーの巣穴|ロウ&br;巨麦粉&br;卵&br;ミルク&br;&color(red){バター};&br;クリティカルの結晶|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Caterpillar.jpg,nolink,zoom,100x86);|キャタピラー|16|160|35/25|BGCOLOR(#ffdddd):火|NonActive|東アクロニア海岸|キチン&br;クローラーのまゆ&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){赤いゼリコ};&br;&color(slateblue){キャタピラースタンプ};|スロウロジック||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ElderWorm.jpg,nolink,zoom,100x86);|エルダーワーム|20|160|50/50|BGCOLOR(#ffffff):光|Link|東アクロニア海岸|キチン&br;クローラーのまゆ&br;紫のゼリコ&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};&br;&color(slateblue){エルダーワームスタンプ};|ヒーリング||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/JerseyWorm.jpg,nolink,zoom,100x100);|ジャージーワーム|26|385|100/72|無|NonActive|モーモー草原&br;穀倉地帯|キチン&br;毛皮&br;パートナーフード&br;&color(orange){白い毛皮};&br;&color(slateblue){クローラーキャリアー(緑)};|-||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/GrassyWorm.png,nolink,zoom,100x100);|グラッシーワーム|28|400?|176/162|無|NonActive|アクロニア丘陵|キチン&br;青汁&br;&color(red){青いゼリコ};&br;&color(red){さなぎ};&br;&color(red){不思議なさなぎ};|||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/RockEater.jpg,nolink,zoom,100x100);|ロックイーター|40|930|405/375|BGCOLOR(#98fb98):土|Active|鉄火山&br;アイアンサウス街道|固い石ころ&br;金属の混じった石４&br;砂鉄&br;金属の混じった石&br;クリティカルの結晶&br;&color(slateblue){ロックイータースタンプ};|スタンアタック&br;スロウロジック|高DEF|
+//|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/DekaElderWorm.jpg,nolink,zoom,100x100);|でかエルダーワーム|50|700,000|0/0|BGCOLOR(#c4adff):闇|NonActive|東海岸ペット育成場|-|ディレイキャンセル||
+
+***サンドワーム系 [#SandWorm]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+||サンドワーム|80||850,000/850,000|BGCOLOR(#98fb98):土|NonActive|カーマイン砂漠（昼）|砂&br;白く輝く石&br;力の結晶&br;魔力の結晶&br;想いの真結晶&br;カッパーメダル&br;ゴールドメダル&br;タイニーメダル&br;高級ヒールポーション||BOSS&br;砂漠が昼MAP時に出現|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/sand_worm_n.jpg,nolink,zoom,100x100);|サンドワーム|85||850,000/850,000|BGCOLOR(#c4adff):闇|NonActive|カーマイン砂漠（夜）|砂&br;クリティカルの結晶&br;黒く輝く石&br;魔力の結晶&br;シルバーメダル&br;ゴールドメダル&br;タイニーレインボーメダル&br;カッカラン&br;&color(slateblue){スフィンクス};||BOSS&br;砂漠が夜MAP時に出現|
+
+***スカラーベン系 [#Scaraben]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/scaraben.jpg,nolink,zoom,100x100);|スカラーベン|74||15,500/15,500|BGCOLOR(#98fb98):土|NonActive|カーマイン砂漠（昼）|火山岩&br;スカラベの足&br;&color(orange){ホカホカ石};|ブロウ&br;コンフュージョンブロウ&br;ブランディッシュ|砂漠が昼MAP時に出現|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/scaraben_n.jpg,nolink,zoom,100x100);|スカラーベン|74||15,500/15,500|BGCOLOR(#c4adff):闇|NonActive|カーマイン砂漠（夜）&br;カーマイン砂漠（夕）|火山岩&br;スカラベの足&br;&color(orange){ヒエヒエ石};|ブロウ&br;ファランクス&br;ブランディッシュ&br;ブラスターアート|砂漠が夜または夕MAP時に出現|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/alto_scaraben.jpg,nolink,zoom,100x100);|アルトスカラーベン|103||95,500/75,500|BGCOLOR(#98fb98):土|Active|【カーマイン遺跡】&br;1F中央&br;1F東居住区&br;1F西居住区&br;B1F|火山岩&br;スカラベの足&br;&color(orange){ヒエヒエ石};|応援&br;ブロウ&br;ショックウェーブ&br;ブラックアート||
+
+***スルクオッケ系 [#Okke]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Surkuokke.jpg,nolink,zoom,100x100);|スルクオッケ|80|11,000|3,922/4,602|BGCOLOR(#98fb98):土|NonActive|神託の風穴|マジックキャンディー&br;シザーハンズ&br;毒の尻尾|ポイズンパフューム||
+
+***バタフライ系 [#batafurai]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+||アルモフバタフライ|90|30|0/0||Escape|カセドラル鉱山B1|アルモフの欠片&br;カセドラル鉱山の鍵||かなり小さい|
+
+***ビー系 [#KillerBee]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Chibee.jpg,nolink,zoom,100x100);|チビー|4|81|6/5|BGCOLOR(#fff68f):風|Active&br;Link→ビー系|ビーの巣穴|毒消しの実&br;ブランクイリスカード|-||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/KillerBee.jpg,nolink,zoom,100x100);|キラービー|7|50|11/9|BGCOLOR(#fff68f):風|Link→ビー系|キラービーの峠道&br;ビーの巣穴&br;果物の森&br;モースグ崖&br;軍艦島&br;アンデッド島・大陸&br;アクロニア周辺|蜂蜜&br;&color(orange){ビーの針};&br;ロイヤルゼリー&br;&color(orange){ロウ};&br;&color(red){カッパーメダル};&br;クリティカルの結晶&br;&color(red){シルバーメダル};&br;&color(slateblue){キラービースタンプ};|ポイズンパフューム||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Wasp.jpg,nolink,zoom,100x100);|ワスプ|20|155|51/49|BGCOLOR(#ffdddd):火|Link→ビー系|ビーの巣穴&br;モースグ崖&br;軍艦島&br;アンデッド島・大陸|ビーの針&br;破れた魔法書&br;ロイヤルゼリー&br;クリティカルの結晶&br;&color(red){カッパーメダル};&br;&color(slateblue){ワスプスタンプ};|スロウロジック|スティンガー取り巻き&br;高回避&br;低M.DEF|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/QueenWasp.jpg,nolink,zoom,100x100);|クイーンワスプ|23||||Link→ビー系|【インスタンスダンジョン】&br;迷宮の結晶体の破壊！初級|蜂蜜&br;ビーの針&br;ロウ|ポイズンパフューム|ネカフェクエで登場|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/PoisonHornet.png,nolink,zoom,100x100);|ポイズンホーネット|30||158/177|BGCOLOR(#fff68f):風||ウェストー開拓地|ロイヤルゼリー&br;蜂蜜&br;クリティカルの結晶|ハチの一刺し||
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/QueenBee.jpg,nolink,zoom,100x100);|クイーンビー|32|245|198/221|BGCOLOR(#fff68f):風|Link→ビー系|キラービーの峠道&br;果物の森&br;軍艦島&br;モースグ崖|蜂蜜&br;ビーの針&br;ロイヤルゼリー&br;クリティカルの結晶&br;&color(red){カッパーメダル};&br;&color(slateblue){クイーンビースタンプ};|スロウロジック&br;ポイズンパフューム|高AVOID&br;高Critical|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShineBee.jpg,nolink,zoom,100x100);|シャインビー|75|4,600|3,350/3,500|BGCOLOR(#fff68f):''風''/闇|Link→シャインビー&br;Link→コガネグモ|バオバブの森|氷砂糖&br;蜂蜜&br;強力磁石&br;破れた魔法書&br;&color(slateblue){シャインビースタンプ};|ロラン&br;マジックポイズン&br;ブランディッシュ|超高DEF(左DEF100)&br;高A.SPD&br;高Critical|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/ShineBeeN.jpg,nolink,zoom,100x100);|シャインビー|90|12,000|5,300/5,000|BGCOLOR(#fff68f):風|Link→シャインビー&br;Link→コガネグモ|バオバブの森(夜)|氷砂糖&br;禁断の果実&br;ケセランパサラン&br;魔力の結晶|衝撃波&br;ワー・クライ&br;ホーリーライト&br;ハチの一刺し|高DEF&br;高A.SPD|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/monster/Stinger.jpg,nolink,zoom,100x100);|スティンガー|10|4,500|150/80|BGCOLOR(#fff68f):風|Active|ビーの巣穴|ロイヤルゼリー&br;ハートフルキャンディー|スーパーサンダーボルト&br;猛毒針&br;ワスプ召喚|BOSS|
+
+***ホブニキキリ系 [#Kikiri]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Hobunikikiri.jpg,nolink,zoom,100x100);|ホブニキキリ|85|7,970|5,460/5,980|BGCOLOR(#fff68f):風|詠唱反応|神託の風穴|スタミナポーション&br;蟲の体液&br;鋭い鍵爪&br;烈風石の欠片|ディスペルオーラ&br;スケア&br;トランスマインド|鈍足|
+
+***ヤドスラッグ系 [#clam]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~画像|~名前|~LV|~HP|~Exp&br;/Job|~属性|~性格|~出現場所|~ドロップ品|~使用スキル|~その他|h
+|CENTER:|LEFT:|CENTER:|RIGHT:|RIGHT:|CENTER:|LEFT:|LEFT:|LEFT:|LEFT:|LEFT|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/Yadomamori.png,nolink,zoom,100x100);|ヤドマモリ|31||328/292|BGCOLOR(#bbffff):水|NonActive|ウェストー開拓地|スノードロップ&br;巻貝&br;&color(red){真珠};&br;&color(red){二枚貝};&br;&color(slateblue){青い巻貝};|ヒーリング&br;エナジーシールド&br;マジックシールド|DEF高め|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/Mob/clam.jpg,nolink,zoom,100x100);|ヤドスルージュ|34|650|274/244|BGCOLOR(#bbffff):水|NonActive|東アクロニア段丘|毒消しの実&br;ルージュの巻貝|ウォータアタック&br;ブランディッシュ&br;足払い|高ATK|

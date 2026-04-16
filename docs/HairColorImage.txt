@@ -1,0 +1,32 @@
+# HairColorImage
+
+#author("2017-04-07T17:13:58+00:00","","")
+[[←外見ページへ戻る>face]]
+*ヘアカラー画像 [#ycbe85b8]
+**ゲーム開始時に選択可 [#j9c70864]
+|~エミル♂♀|~[[ハニーベージュ&br;（エミルカラーライト）>http://eco.acronia.net/itemdb/#id=2256]]|~[[ココアブラウン&br;（エミルカラーミドル）>http://eco.acronia.net/itemdb/#id=2255]]|~[[ビターブラウン&br;（エミルカラーヘビー）>http://eco.acronia.net/itemdb/#id=2254]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_emil_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_emil_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_emil_m_03.jpg,nolink,100x100);|
+|~タイタニア♂♀|~[[ホワイトゴールド&br;（タイタニアカラーライト）>http://eco.acronia.net/itemdb/#id=2267]]|~[[プラチナブロンド&br;（タイタニアカラーミドル）>http://eco.acronia.net/itemdb/#id=2266]]|~[[シャンパンゴールド&br;（タイタニアカラーヘビー）>http://eco.acronia.net/itemdb/#id=2265]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_tit_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_tit_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_tit_m_03.jpg,nolink,100x100);|
+|~ドミニオン♂|~[[アクアブルー&br;（ドミニオンカラーライト）>http://eco.acronia.net/itemdb/#id=2272]]|~[[オーシャン&br;（ドミニオンカラーミドル）>http://eco.acronia.net/itemdb/#id=2271]]|~[[ウルトラマリン&br;（ドミニオンカラーヘビー）>http://eco.acronia.net/itemdb/#id=2270]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_m_03.jpg,nolink,100x100);|
+|~ドミニオン♀|~[[ローズ&br;（ドミニオンカラーライト）>http://eco.acronia.net/itemdb/#id=2272]]|~[[ワインレッド&br;（ドミニオンカラーミドル）>http://eco.acronia.net/itemdb/#id=2271]]|~[[ダークチェリー&br;（ドミニオンカラーヘビー）>http://eco.acronia.net/itemdb/#id=2270]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_w_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_w_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_info/eco/mitame/color_domi_w_03.jpg,nolink,100x100);|
+|~DEM♂♀|~セラミックホワイト|~[[ダークブルー>http://eco.acronia.net/itemdb/#id=2282]]|~[[ライトバイオレット>http://eco.acronia.net/itemdb/#id=2288]]|
+|~|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/color_dem_m_01.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/color_dem_m_02.jpg,nolink,100x100);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/color_dem_m_03.jpg,nolink,100x100);|
+
+**ヘアカラー剤にて変更可 [#p7e8f96c]
+|~[[チェリーレッド>http://eco.acronia.net/itemdb/#id=2269]]|~[[オレンジ>http://eco.acronia.net/itemdb/#id=2258]]|~[[キャンディーイエロー>http://eco.acronia.net/itemdb/#id=2259]]|~[[ライトグリーン>http://eco.acronia.net/itemdb/#id=2276]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_cherryred.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_orange.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_candyyellow.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_lightgreen.jpg,nolink,120x120);|
+|~[[グリーン>http://eco.acronia.net/itemdb/#id=2260]]|~[[アイスブルー>http://eco.acronia.net/itemdb/#id=2253]]|~[[ブルー>http://eco.acronia.net/itemdb/#id=2273]]|~[[ジェードパープル>http://eco.acronia.net/itemdb/#id=2262]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_green.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_iceblue.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_blue.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_jiedopurple.jpg,nolink,120x120);|
+|~[[マットブラック>http://eco.acronia.net/itemdb/#id=2274]]|~[[モイストシルバー>http://eco.acronia.net/itemdb/#id=2275]]|~[[シルバー>http://eco.acronia.net/itemdb/#id=2263]]|~[[ダルグレー>http://eco.acronia.net/itemdb/#id=2268]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_matblack.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_moistsilver.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_silver.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_dullgray.jpg,nolink,120x120);|
+|~[[オータム（ECO券）>http://eco.acronia.net/itemdb/#id=2257]]|~[[ウィンター（ECO券）>http://eco.acronia.net/itemdb/#id=2279]]|~[[スプリング（ECO券）>http://eco.acronia.net/itemdb/#id=2281]]|~[[サマー（ECO券）>http://eco.acronia.net/itemdb/#id=2261]]|
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_autumn.jpg,nolink,113x109);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_winter.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_spring2.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_info/eco/hairsalon/hc_summer.jpg,nolink,107x105);|
+|~[[ペールゴールド（くじ）>http://eco.acronia.net/itemdb/#id=2284]]|~[[メタリックピンク（くじ）>http://eco.acronia.net/itemdb/#id=2286]]|~[[モスグリーン（くじ）>http://eco.acronia.net/itemdb/#id=2287]]|~[[エメラルドグリーン（くじ）>http://eco.acronia.net/itemdb/#id=2280]]|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_pgold.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_mpink2.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_mgreen.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_egreen.jpg,nolink,120x120);|
+|~[[バイオレット（AA）>http://eco.acronia.net/itemdb/#id=2283]]|~[[アッシュブラウン（AA）>http://eco.acronia.net/itemdb/#id=2277]]|~[[リリーホワイト（AA）>http://eco.acronia.net/itemdb/#id=2289]]|~[[ミルクティー（くじ）>http://eco.acronia.net/itemdb/#id=2285]]|
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_violet.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_ashbrown.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/HC_rilywhite.jpg,nolink,120x120);|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_milktea.jpg,nolink,120x120);|
+|~[[アンティークパープル（くじ）>http://eco.acronia.net/itemdb/#id=2278]]||||
+|&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A4%96%E8%A6%8B%E4%B8%80%E8%A6%A7/hc_antiquepurple.jpg,nolink,120x120);||||

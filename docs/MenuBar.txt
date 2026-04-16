@@ -1,0 +1,303 @@
+# MenuBar
+
+#freeze
+#author("2021-06-19T00:00:41+00:00","","")
+*ECO攻略Wiki [#d5f25f1b]
+**FAQ [#l6a4a0b2]
+-[[&color(red){''初心者の館''};>Tutorial]]
+-[[ECOの世界観設定>ViewOfTheWorld]]
+-[[FAQ>FAQ]] / [[動作>FAQ/PC]] / [[グラボ>FAQ/VGA]]
+-[[用語>Jargon/Menu]] / [[仕様>Spec]] / [[BGM>BGM]]
+-[[テクニック>Tec]]
+-[[マクロ>Macro]] / [[コマンド>Command]]
+-[[スキン製作>スキン製作の心得]]
+//-[[パッチ情報>パッチ情報]]
+
+**Character [#g270aec1]
+-[[職業>Job]] / [[転職>Job/Change]] / [[転生>Job/Change/Chronicle]] / [[デュアル>Job/DualJob]]
+-[[アナザークロニクル>Job/AnotherChronicle]]
+-[[ステータス>Status]] [[(外部)計算>http://jasmin.sakura.ne.jp/eco/script/eco_sim/]]
+-- [[一覧表>Status/List]] / [[考察>Status/Discussion]]
+-- [[経験値テーブル>exptable]]
+-[[スキル>Skill]] [[(外部)計算>http://www19.atpages.jp/teco/skill/]]
+-- [[特殊>Skill/Special]] / [[スキル石>Skill/Stone]]
+-- [[H.E.ARTシステム>Skill/H.E.ART]]
+-[[種族>Tribe]] / [[顔・髪型・髪色>face]]
+-[[称号>Degree]]
+**Battle System [#f805ab0a]
+- [[属性>Elements]] / [[ステータス異常>StatusBuff]]
+- [[憑依>Hyoui]] / [[パートナー憑依>Hyoui/Partner]]
+- [[たまいれ>tamaire]]
+- [[マリオネット>Marionette]]: [[一覧>MarionetteList]]
+- [[修理>Repair]] / [[強化>EnhancementOfWeapon]] / [[融合>CombinationEquipment]]
+- [[イリス>Iris]]　[[(外部)イリス一覧>http://jasmin.sakura.ne.jp/eco/script/iris_catalog/]]
+-- [[カード一覧 >IrisCard]]/[[ アビリティ>Iris/Explanation]]
+- ''[[性能開放装備>Dungeon/InfiniteCorridorAbyssequip]]''
+
+**Community [#a68fc9d4]
+- [[パーティー>Party]] / [[リング>Ring]]
+- [[師弟>Sitei]]
+-[[飛空庭>FlyGarden]] / [[飛空城>FlyCastle]]
+//--[[ 外 >FlyGarden/Coordinate]]/[[ 内 >FlyGarden/Coordinate/Interior]]/[[ 飾 >FlyGarden/Coordinate/Accessories]]/[[ 他 >FlyGarden/Coordinate/Other]]
+
+**Partner [#ua584044]
+- [[パートナーシステム>Partner]]
+-- [[ステータス>Partner/Status]] / [[スキル>Partner/Skill]]
+-- [[装備>Partner/Equip]] / [[AI>Partner/AI]]（[[考察>Partner/AI/Study]]）
+-- [[ユニットシステム>Partner/UnitSystem]]
+- パートナー一覧（[[台詞>PetSpeech]]）
+-- [[通常>PartnerList/Normal]] / [[騎乗>PartnerList/Ride]]
+-- [[背中装備>PetList/Shoulder]] / [[武神>PartnerList/busin]]
+-- [[ネコマタ>PartnerList/nekomata]] / [[オートマタ>PartnerList/automata]]
+-- [[守護魔>PartnerList/Syugoma]] / [[ハートメイト>PartnerList/Heartmate]]
+-- [[アルマ>PartnerList/Almamonster]] / [[ロア>PartnerList/Lore]] / [[御魂>PartnerList/Mitama]]
+-- [[神魔>PartnerList/Shinma]]
+-- [[(公式)パートナーサーチ>http://ecotool.gungho.jp/partner/]]
+
+**Item [#i380fd43]
+-''DataBase''
+-- &color(#001,#EFD){[[装備品DB:http://eco.acronia.net/equipdb/]]};
+-- &color(#001,#EFD){[[アイテムDB:http://eco.acronia.net/itemdb/]]};
+-- &color(#001,#EFD){[[製法DB:http://eco.acronia.net/recipedb/]]};
+-- [[(外部)装備品SS検索:http://emilwalker.sakura.ne.jp/]]
+- [[(外部)入手法検索:http://www19.atpages.jp/teco/item/]]
+- [[特殊なアイテム>SpecialItem]]
+- [[アイテムBOX>itembox]]
+//[[ゴーレム収集>gathering]]
+- [[染色>染色おばさん]] / [[モンスタースタンプ>Stamp]]
+- [[もてなしタイニー>MotenasiTiny]]
+- [[釣り>Fishing]] / [[リサイクルシステム>Recycle]]
+- [[(公式)露店取引情報>http://ecotool.gungho.jp/torihiki/]]
+
+**Monster & Nature [#b0186b58]
+- [[モンスター基礎知識>MobBasicKnowledge]]
+- [[モンスター>Mob]] / [[狩場>kariba]]
+- [[モンスタースキル>Skill/Mob]]
+- [[自然物>Nature]]
+- [[木箱>kihako]] / [[宝箱>takarahako]] / [[コンテナ>kontena]]
+- [[ドロップ率検証]]
+- &color(#001,#EFD){[[モンスターDB>http://eco.acronia.net/mobdb/]]};
+
+**Event [#l639c98b]
+-''[[イベント>Event]]''　[[（ログ）>Event/Log]]
+//-- [[イベントログ>Event/Log]]
+-- ''[[季節イベント>Quest/Season]]''
+//-- [[NPCリスト>Event/NPCList]] 
+- [[騎士団演習>Enshu]]
+- [[シアタースケジュール>Theater]]
+
+**Quest [#dd9568f4]
+-''[[クエスト>Quest]]''
+-- [[(外部)検索>http://www19.atpages.jp/teco/quest/]]
+- [[デイリークエスト>Quest/DalyWeeklyQuest]]
+- [[まいにちダンジョン>Dungeon/dailydungeon]]
+- [[パートナープロテクト>PartnerProtect]]
+-''全域''
+-- ''[[酒屋>Quest/Pub]]''（[[運搬>Quest/Pub_Conveyance]]/[[討伐>Quest/Pub_Punitive]]/[[採取>Quest/Pub_Pick]]）
+-- [[六姫>Quest/6List]]
+-- [[クリーンアップ>Quest/Cleanup]] （[[ECO券>Quest/Cleanup#dcedaf09]]）
+-''[[アクロポリス周辺>Quest/Acropolis]]''
+-- [[マリオネット>Quest/Marionet]]
+-- [[騎士団>Quest/KnighthoodList]]
+-''職業別クエスト''
+-- [[Ｆ系>職クエ/F]]：[[ 剣 >職クエ/F#SwordMan]]/[[ 槍 >職クエ/F#Fencer]]/[[ 隠 >職クエ/F#Scout]]/[[ 弓 >職クエ/F#Archer]]
+-- [[ＳＵ>職クエ/SU]]：[[ 魔 >職クエ/ウィザード]]/[[ 巫 >職クエ/シャーマン]]/[[ 聖 >職クエ/ウァテス]]/[[ 闇 >職クエ/ウォーロック]]
+-- [[ＢＰ>職クエ/BP]]：[[ 鉱 >職クエ/タタラベ]]/[[ 農 >職クエ/ファーマー]]/[[ 冒 >職クエ/レンジャー]]/[[ 商 >職クエ/マーチャント]]
+
+**World [#y29bc970]
+- [[(外部)マップ>http://ecologie.sakura.ne.jp/map/]]
+***エミル世界 [#m114077d]
+-''アクロニア近辺''
+-- [[アクロポリス周辺>Quest/Acropolis]]
+-- [[タイニーアイランド>Quest/タイニーアイランド]]
+-- [[エレキテル・ラボ>Quest/ElekitelLab]]
+-- [[南ウテナ開拓地>Quest/ReclaimedVillage]]
+-- [[ウェストー開拓地>Quest/WestReclaimedVillage]]
+//-''アクロニア外縁''
+- ''[[ノーザンシティ>Quest/Northern]]''
+- ''[[ファーイースト>Quest/Fareast]]''
+- ''[[モーグシティ>Quest/Morg]]''
+- ''[[アイアンサウス>Quest/IronSouth]]''
+- ''[[トンカシティ>Quest/Tonka]]''
+- ''[[マイマイ島>Quest/Maimai]]''
+- ''[[カーマインブリック>Quest/CarmineBrick]]''
+***[[ドミニオン世界>World/Dominion]] [#v1c723cb]
+-''[[ウェストフォート>Quest/Westfort]]''
+-[[都市攻防戦>defense]] / [[パターン>defense/pattern]]
+***タイタニア世界 [#q60d0e7f]
+-''[[エル・シエル>Quest/AileCiel]]''
+-[[ウォーターレイアー島>Quest/Waterlayer]]
+-''[[ECOタウン>Quest/ECOtown]]''
+
+**Dungeon [#f0e79d71]
+- [[ダンジョン>Dungeon]]
+-- [[インスタンスダンジョン>Quest/InstanceDungeon]]
+//-- [[ディメンションダンジョン>Dungeon#cd3af85f]]
+***エミル世界 [#lca53c8a]
+- [[ビーの巣穴>Dungeon/BeeNest]]: [[クエスト>Quest/BeesNest]]
+- [[大陸>Dungeon/ContinentalCave]] / [[氷結>Dungeon/FrozenMine]] / [[炭鉱>Dungeon/AbolitionColliery]]
+- [[無限回廊>Dungeon/InfiniteCorridor]]: [[クエスト>Quest/Corridor]]
+-- [[奈落階層>Dungeon/InfiniteCorridorAbyss]]([[スキル考察>Dungeon/InfiniteCorridorAbyssSkill]])
+- [[エンシェントアーク>Quest/AncientArk]]
+//--- [[フラグメント>fragment]]
+--[[Exキャプチャー>Quest/AncientArk/ExCapture]]
+- [[ノーザン地下>Dungeon/NorthernUnderground]]
+- [[ノーザンダンジョン>Dungeon/NorthernDungeon]]
+- [[イーストダンジョン>Dungeon/EastDungeon]]
+- [[アンデッド城>Dungeon/UndeadCastle]]
+- [[光の塔>Dungeon/LightTower]]
+- [[サウスダンジョン>Dungeon/SouthDungeon]]
+- [[神託の風穴>Dungeon/OracleWindCave]]
+- [[カーマインブリック遺跡>Dungeon/CarmineBrickRuins]]
+***ドミニオン世界 [#y663a40c]
+-[[軍艦島地下>Dungeon/WarshipIslandUnderground]]
+***タイタニア世界 [#y7c9e8d0]
+-海底洞窟（[[寒流>Dungeon/UnderseaCave#a14fd2e7]]/[[暖流>Dungeon/UnderseaCave#uff09c65]]）
+-[[くじら岩>Dungeon/WhaleRock]]
+
+//**World [#b016c7bf]
+//- [[(外部)マップ>http://ecologie.sakura.ne.jp/map/]]
+//- &color(,#fdf){[[ダンジョン>Dungeon]]};
+//-- &color(,#def){[[インスタンスダンジョン>Quest/InstanceDungeon]]};
+//-- &color(,#ffc){[[ディメンションダンジョン>Dungeon#cd3af85f]]};
+//***エミル世界 [#r6d1491e]
+//-''アクロニア近辺''
+//-- [[アクロポリス周辺>Quest/Acropolis]]
+//-- [[タイニーアイランド>Quest/タイニーアイランド]]
+//-- [[エレキテル・ラボ>Quest/ElekitelLab]]
+//-- [[南ウテナ開拓地>Quest/ReclaimedVillage]]
+//-- [[ウェストー開拓地>Quest/WestReclaimedVillage]]
+//-- &color(,#fdf){[[ビーの巣穴>Dungeon/BeeNest]]};: [[クエスト>Quest/BeesNest]]
+//-- &color(,#ffc){[[大陸>Dungeon/ContinentalCave]]}; / &color(,#ffc){[[氷結>Dungeon/FrozenMine]]}; / &color(,#ffc){[[炭鉱>Dungeon/AbolitionColliery]]};
+//-- &color(,#fdf){[[無限回廊>Dungeon/InfiniteCorridor]]};: [[クエスト>Quest/Corridor]]
+//--- &color(,#def){[[奈落階層>Dungeon/InfiniteCorridorAbyss]]};([[スキル考察>Dungeon/InfiniteCorridorAbyssSkill]])
+////-''アクロニア外縁''
+//- ''[[ノーザンシティ>Quest/Northern]]''
+//-- &color(,#def){[[エンシェントアーク>Quest/AncientArk]]};
+////--- [[フラグメント>fragment]]
+//--- &color(,#def){[[Exキャプチャー>Quest/AncientArk/ExCapture]]};
+//-- &color(,#fdf){[[ノーザン地下>Dungeon/NorthernUnderground]]};
+//-- &color(,#ffc){[[ノーザンダンジョン>Dungeon/NorthernDungeon]]};
+//- ''[[ファーイースト>Quest/Fareast]]''
+//-- &color(,#ffc){[[イーストダンジョン>Dungeon/EastDungeon]]};
+//-- &color(,#fdf){[[アンデッド城>Dungeon/UndeadCastle]]};
+//- ''[[モーグシティ>Quest/Morg]]''
+//--&color(,#fdf){ [[光の塔>Dungeon/LightTower]]};
+//- ''[[アイアンサウス>Quest/IronSouth]]''
+//-- &color(,#ffc){[[サウスダンジョン>Dungeon/SouthDungeon]]};
+//- ''[[トンカシティ>Quest/Tonka]]''
+//- ''[[マイマイ島>Quest/Maimai]]''
+//-- &color(,#fdf){[[神託の風穴>Dungeon/OracleWindCave]]};
+//- ''[[カーマインブリック>Quest/CarmineBrick]]''
+//-- &color(,#ffc){[[カーマインブリック遺跡>Dungeon/CarmineBrickRuins]]};
+//***[[ドミニオン世界>World/Dominion]] [#b8d4b504]
+//-''[[ウェストフォート>Quest/Westfort]]''
+//-[[都市攻防戦>defense]] / [[パターン>defense/pattern]]
+//-&color(,#fdf){[[軍艦島地下>Dungeon/WarshipIslandUnderground]]};
+//***タイタニア世界 [#k2dd738d]
+//-''[[エル・シエル>Quest/AileCiel]]''
+//-[[ウォーターレイアー島>Quest/Waterlayer]]
+//--海底洞窟（&color(,#ffc){[[寒流>Dungeon/UnderseaCave#a14fd2e7]]};/&color(,#ffc){[[暖流>Dungeon/UnderseaCave#uff09c65]]};）
+//-''[[ECOタウン>Quest/ECOtown]]''
+//--&color(,#fdf){[[くじら岩>Dungeon/WhaleRock]]};
+
+**Job [#k49dc8e6]
+-''初期：''[[ノービス>Skill/Novice]]
+--☆ [[ジョーカー(Jo)>Skill/Joker]]
+-''F系：ファイター''
+--''[[ソードマン>Skill/SwordMan]]''
+--- [[ブレイドマスター>Skill/BladeMaster]]
+--- [[バウンティハンター>Skill/Bountyhunter]]
+--- [[グラディエイター(Gl)>Skill/Gladiator]]
+--''[[フェンサー>Skill/Fencer]]''
+--- [[ナイト>Skill/Knight]]
+--- [[ダークストーカー>Skill/Darkstalker]]
+--- [[ガーディアン(Gu)>Skill/Guardian]]
+--''[[スカウト>Skill/Scout]]''
+--- [[アサシン>Skill/Assassin]]
+--- [[コマンド>Skill/Commando]]
+--- [[イレイザー(Er)>Skill/Eraser]]
+--''[[アーチャー>Skill/Archer]]''
+--- [[ストライカー>Skill/Striker]]
+--- [[ガンナー>Skill/Gunner]]
+--- [[ホークアイ(Haw)>Skill/Hawkeye]]
+-''SU系：スペルユーザー''
+--''[[ウィザード>Skill/Wizard]]''
+--- [[ソーサラー>Skill/Sorcerer]]
+--- [[セージ>Skill/Sage]]
+--- [[フォースマスター(Fo)>Skill/ForceMaster]]
+--''[[シャーマン>Skill/Shaman]]''
+--- [[エレメンタラー>Skill/Elementaler]]
+--- [[エンチャンター>Skill/Enchanter]]
+--- [[アストラリスト(As)>Skill/Astralist]]
+--''[[ウァテス>Skill/Wotes]]''
+--- [[ドルイド>Skill/Druid]]
+--- [[バード>Skill/Bard]]
+--- [[カーディナル(Ca)>Skill/Cardinal]]
+--''[[ウォーロック>Skill/Warlock]]''
+--- [[カバリスト>Skill/Cabalist]]
+--- [[ネクロマンサー>Skill/Necromancer]]
+--- [[ソウルテイカー(So)>Skill/SoulTaker]]
+-''BP系：バックパッカー''
+--''[[タタラベ>Skill/Tatarabe]]''
+--- [[ブラックスミス>Skill/Blacksmith]]
+--- [[マシンナリー>Skill/Machinery]]
+--- [[マエストロ(Ma)>Skill/Maestro]]
+--''[[ファーマー>Skill/Farmer]]''
+--- [[アルケミスト>Skill/Alchemist]]
+--- [[マリオネスト>Skill/Marionest]]
+--- [[ハーヴェスト(Ha)>Skill/Harvest]]
+--''[[レンジャー>Skill/Ranger]]''
+--- [[エクスプローラー>Skill/Explorer]]
+--- [[トレジャーハンター>Skill/Treasurehunter]]
+--- [[ストライダー(St)>Skill/Stryder]]
+--''[[マーチャント>Skill/Merchant]]''
+--- [[トレーダー>Skill/Trader]]
+--- [[ギャンブラー>Skill/Gambler]]
+--- [[ロイヤルディーラー(Ro)>Skill/RoyalDealer]]
+-''JJ系：ジョイントジョブ''
+--''[[ブリーダー>Skill/Breeder]]''
+--''[[ガーデナー>Skill/Gardener]]''
+-''[[DEM>DEM]]''
+--[[DEMIC>DEM/DEMIC]] ( [[チップ一覧>DEM/Chip]] )
+--[[スキル>DEM/Skill]]  
+--[[パーツ一覧>DEM/Parts]]
+//--[[ステータス・タイプ>DEM/Status]]
+
+**個別課金 [#p5a923f4]
+//-''[[ECOi>ECOi]]'' (モバイル)
+//-- [[タイニーアドベンチャー>ECOi/Tiny Adventure]]
+//-- [[超絶合体エレキテル>ECOi/Elekitel_Union]]
+- [[パッケージ>Package]]
+//- [[ECOプレイチケット>PlayTicket]]
+- [[ECOくじ>kuji]]
+- [[ECOショップ>ECOShop]]
+- [[公認ネットカフェ専用>Quest/InstanceDungeonFromNcafe]]
+//- [[パチンコ・スロット>pachinko]]
+
+**Links [#k0677e65]
+- [[各種リンク>Links]]
+- [[(外部)公式サイト:http://econline.gungho.jp/]]
+- [[したらば掲示板:https://jbbs.shitaraba.net/game/23423/]]
+- [[新したらば掲示板:https://jbbs.shitaraba.net/netgame/11977/]]
+//- [[(外部)情報交換掲示板:http://jbbs.livedoor.jp/game/36140/]]
+- [[(外部)ECO SSあぷろだ:http://ecoss.ty.land.to/]]
+- [[(外部)服&飛空庭あぷろだ:http://ecossup.my.land.to/]]
+- [[(外部)ECO Skin用アップローダー:http://ecoskin.pa.land.to/]]
+
+**攻略Wikiについて [#y9c0726f]
+-編集する前に [[編集方針>Editor]]
+--[[パートナー一覧編集ガイド>PartnerList]]
+-[[Wiki利用上の注意>Notice]]
+--[[mobdbプラグイン>PluginMobdb]]
+-[[Wiki用画像アップローダー>http://eco.acronia.net/imgup/]]
+//-[[編集者の情報交換>Editor]]
+-[[編集の練習>SandBox]]
+-[[ECOwiki編集・相談スレッド>https://jbbs.shitaraba.net/bbs/read.cgi/netgame/11977/1388806946/]]
+-[[人気ページ>pop]]
+
+SIZE(10){now:       &color(blue){&online;};}
+SIZE(10){today:     &color(blue){&counter(today);};}
+SIZE(10){yesterday: &color(blue){&counter(yesterday);};}
+
+&edit(MenuBar,noicon){&color(#FFF){edit};};

@@ -1,0 +1,31 @@
+# ドロップ率検証/ココッコー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[鳥知識>ドロップ率検証#kd456d9b]]
+
+***ココッコー [#s866e578]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|肉|パートナーフード|カビ|上等な肉|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|111個（55.50％）|84個（42.00％）|5個（2.50％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（605体）|220個（36.36％）|196個（32.40％）|4個（0.66％）|3個（0.50％）|181個（29.92％）|1個（0.17％）|
+
+***イマチュアーコッコー [#y73f14d8]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|卵|肉|ブラックビネガー|上等な肉|カッパーメダル|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（100体）|51個（51.00％）|47個（47.00％）|2個（2.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（723体）|285個（39.42％）|220個（30.43％）|6個（0.83％）|6個（0.83％）|204個（28.22％）|2個（0.28％）|
+
+***コッカラス [#nbf8ca45]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|高級卵|ダークフェザーの羽|パートナーフード|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（994体）|560個（56.34％）|328個（33.00％）|96個（9.66％）|10個（1.01％）|
+|知識あり（1807体）|849個（46.98％）|582個（32.21％）|358個（19.81％）|18個（1.00％）|
+
+***チュンチュン [#kc7e90af]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|上等な肉|ミルク|サーロイン|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（100体）|38個（38.00％）|39個（39.00％）|19個（19.00％）|4個（4.00％）|

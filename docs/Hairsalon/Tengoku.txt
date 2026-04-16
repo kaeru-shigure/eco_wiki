@@ -1,0 +1,19 @@
+# Hairsalon/Tengoku
+
+#author("2017-04-07T17:26:17+00:00","","")
+#include(Hairsalon/Menu,notitle)
+*天国の紹介状 [#tenngoku]
+ECOくじ：[[ホーリーハロウィン>Kuji/2011#log_holy_halloween]]
+
+**男性 [#re3d5d29]
+|~ウェービーロング|
+|CENTER:画像募集中|
+|~カジュアルショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2011M/kazyuaru.jpg,nolink,661x311);|
+
+
+**女性 [#i0bd4951]
+|~ウェービーロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/tengoku_long.jpg,nolink,661x311);|
+|~カジュアルショート|
+|CENTER:画像募集中|

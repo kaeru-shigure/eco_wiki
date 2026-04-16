@@ -1,0 +1,31 @@
+# ドロップ率検証/リヴィングデッド系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[死霊知識>ドロップ率検証#qc2da4d1]]
+
+***リヴィングデッド [#s0dbf322]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|青汁|腐った体液|紋章紙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|91個（45.50％）|87個（43.50％）|21個（10.50％）|1個（0.50％）|
+|知識あり（100体）|40個（40.00％）|49個（49.00％）|11個（11.00％）|0個（0.00％）|
+
+***イヴィルデッド [#x739ff65]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ねばねば|腐った体液|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|c
+|知識なし（200体）|122個（61.00％）|76個（38.00％）|2個（1.00％）|
+|知識あり（150体）|64個（42.67％）|85個（56.67％）|1個（0.67％）|
+
+***ルブナン [#m6eb209f]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ねばねば|ワックス|腐った体液|紋章紙|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（500体）|272個（54.40％）|186個（37.20％）|35個（7.00％）|4個（0.80％）|3個（0.60％）|
+|知識あり（150体）|59個（39.33％）|89個（59.33％）|0個（0.00％）|1個（0.67％）|1個（0.67％）|
+
+***パンサーデット [#d5335bf3]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ワックス|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（200体）|198個（99.00％）|2個（1.00％）|
+|知識あり（200体）|199個（99.50％）|1個（0.50％）|

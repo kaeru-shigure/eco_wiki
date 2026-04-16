@@ -1,0 +1,6 @@
+# FlyGarden/Menu
+
+-[[飛空庭システム>FlyGarden]]（[[ 外装 >FlyGarden/Coordinate]]/[[ 内装 >FlyGarden/Coordinate/Interior]]/[[ 家具 >FlyGarden/Coordinate/Accessories]]/[[ その他 >FlyGarden/Coordinate/Other]]）
+-[[飛空城システム>FlyCastle]]（[[ ブース >FCBooth]]/[[ ファーム >FlyCastle/Farm]]）
+-[[飛空庭コーディネート>FlyGarden/Coordinate/Accessories]]（[[ 大型家具>FlyGarden/Coordinate/BFurniture]]/[[ 小型家具>FlyGarden/Coordinate/SFurniture]]/[[ インテリア>FlyGarden/Coordinate/InteriorF]]/[[ エクステリア>FlyGarden/Coordinate/ExteriorF]]）
+RIGHT:&edit(,noicon){飛空庭メニューを編集};

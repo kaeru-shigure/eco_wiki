@@ -1,0 +1,54 @@
+# Hairsalon/Fleet
+
+#author("2017-04-07T17:22:22+00:00","","")
+#include(Hairsalon/Menu,notitle)
+*ウェストー開拓地・フリート [#fleet]
+参考：[[ウェストー開拓地>Quest/WestReclaimedVillage]]
+
+**男性 [#man]
+|~リファインナチュラル|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReNa.png,nolink,661x311);|
+|~リファインワイルド|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReWild.png,nolink,661x311);|
+|~リファインボーイズ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReBoy.png,nolink,661x311);|
+|~リファインコンサバティブ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReCon.png,nolink,661x311);|
+|~リファインロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReLong.png,nolink,661x311);|
+|~リファインオールバック|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReAll.png,nolink,661x311);|
+|~リファインワンレングス|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReOne.png,nolink,661x311);|
+|~リファインクールカット|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ReCool.png,nolink,661x311);|
+
+
+**女性 [#woman]
+|~リファインセミロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine01.jpg,nolink,661x311);|
+|~リファインレイヤー|
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine02.jpg,nolink);|
+|~リファインアンティーク|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine03.jpg,nolink,661x311);|
+|~リファインロング|
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine04.jpg,nolink);|
+|~リファイン外巻きヘア|
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine05.jpg,nolink);|
+|~リファイン内巻きヘア|
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine06.jpg,nolink);|
+|~リファインナチュラル|
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine07.jpg,nolink);|
+|~リファインベリーショート|
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine08.jpg,nolink);|
+|~リファインショート|
+|CENTER:画像募集中|
+//|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E5%A5%B3%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/w_refine09.jpg,nolink);|
+
+--------------------------------------------------------------------------------

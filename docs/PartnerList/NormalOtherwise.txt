@@ -1,0 +1,468 @@
+# PartnerList/NormalOtherwise
+
+#author("2020-02-06T17:34:39+00:00","","")
+RIGHT:&edit(PartnerList/NormalOtherwise,noicon){その他を編集};
+
+**その他 [#t7674c85]
+***スリーピー [#i50244f5]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Sleepy.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;300&br;80&br;80&br;40&br;41&br;4&br;5&br;35&br;20&br;&br;40&br;25&br;10&br;10&br;40&br;20&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;のんびり雰囲気のスリーピー。でもしっかり戦闘も助けてくれます。&br;（イメージイラスト：加曽利りあら）&br;&br;ひつじ型のかわいいパートナー。&br;とっても気分屋パートナーフードを与えると元気になる。&br;趣味はおひるね♪&br;[[台詞>PetSpeech/Sleepy]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;ララバイ（敵を眠らせる）&br;&br;【入手法】&br;[[オリジナルサウンドトラック 第1弾>Package#sa64c4b6]](期限：2009年3月)|
+
+***ペガサス [#fa838320]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Pegasus.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;400&br;80&br;80&br;28&br;29&br;45&br;45&br;35&br;15&br;&br;30&br;20&br;25&br;15&br;45&br;20&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;27100&br;1680&br;1130&br;540&br;594&br;1141&br;1260&br;290&br;210&br;&br;415&br;20&br;435&br;15&br;75&br;110&br;460&br;590&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;動物系パートナー。とてもおとなしい性格です。&br;&br;天翔るペガサス&br;性格はとてもおとなしい&br;パートナーフードを与えると元気になる&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;マジックシールド：対象のMDEFを一定時間上昇させる&br;チャージ：倍率？％の物理攻撃・対象を１マスのけぞらせる&br;ホーリーライト：対象に光属性の魔法攻撃&br;&br;【入手法】&br;ベガ、ヘブンリーベガ、ベイヤールから稀にドロップ。|
+
+***ムーンペガサス [#k9b53c71]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/MoonPegasus.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27255&br;1680&br;1130&br;524&br;609&br;1150&br;1324&br;365&br;235&br;&br;430&br;22&br;430&br;30&br;85&br;101&br;460&br;590&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ペガサスのチェンジ後です。チェンジ前より使用できる補助スキルが多彩になります。動物系パートナーの中でも防御力・魔法防御力系ステータスの上限が高く、補助・防御に特化したパートナーです。&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;マジックシールド：対象のMDEFを一定時間上昇させる&br;チャージ：倍率？％の物理攻撃・対象を１マスのけぞらせる&br;ホーリーライト：対象に光属性の魔法攻撃&br;ヒーリング：対象のHPを回復させる&br;リザレクション：対象を生き返らせる&br;&br;【入手法】&br;1回以上転生したペガサスを装備した状態で、[[ペガサスの羽根>http://eco.acronia.net/itemdb/#id=2294]]を所持し、タイニーアイランドにいるムーンペガサスに話しかける。|
+
+***モーモー [#zc7976fd]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Mo-Mo-.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;80&br;80&br;46&br;47&br;12&br;12&br;30&br;10&br;&br;26&br;17&br;15&br;10&br;20&br;25&br;80&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;29950&br;480&br;1180&br;1347&br;1452&br;578&br;619&br;370&br;290&br;&br;530&br;17&br;470&br;10&br;65&br;125&br;390&br;290&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;モーモー草原でよく見かけるモンスターですが、あるイベントを経て入手することができます。せっかく授かったモーモーです。大事にしてあげましょう。&br;入手の際、出生に関する衝撃の事実(と言う程でもないが)が判明します。&br;[[台詞>PetSpeech/Mo-Mo-]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ワー・クライ、スタンブロウ&br;&br;【入手法】&br;[[イベント>Quest/Fareast#moomoo]]で入手。&br;&br;【備考】&br;&color(red){装備すると誰でもスキル「戻れ!」を使える};|
+
+***マッスルモーモー [#ua8f6a44]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/MuscleMo-Mo-.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;30450&br;480&br;1180&br;1472&br;1507&br;602&br;692&br;454&br;296&br;&br;548&br;24&br;485&br;15&br;75&br;105&br;390&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;モーモーのチェンジ後です。&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ワー・クライ、スタンブロウ、クリティカル(PCに対してのみ)&br;&br;【入手法】&br;1回以上転生したモーモーを装備した状態で、[[レインボームレタ>http://eco.acronia.net/itemdb/#id=2740]]を所持し、ファーイーストシティの厩屋にいるマッスルモーモーに話しかける。|
+
+***闘魂モーモー [#y49899d2]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/ToukonMo-Mo-.jpg,nolink,128x360);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;80&br;80&br;46&br;47&br;12&br;12&br;30&br;12&br;&br;26&br;17&br;15&br;10&br;20&br;25&br;80&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;28050&br;480&br;1180&br;1246&br;1247&br;462&br;462&br;230&br;230&br;&br;485&br;17&br;435&br;10&br;55&br;60&br;390&br;290&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;二足歩行型のパートナー&br;癒し系&br;パートナーフードを与えると元気になる&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;&br;&br;【使用スキル】&br;ワー・クライ、スタンブロウ&br;&br;【入手法】&br;まいにちBOX2|
+
+***モモンガ [#x998d86f]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Momonga.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;250&br;80&br;80&br;30&br;31&br;10&br;10&br;55&br;10&br;&br;7&br;7&br;10&br;10&br;70&br;1&br;250&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;24100&br;480&br;1280&br;1341&br;1402&br;488&br;647&br;494&br;331&br;&br;305&br;7&br;240&br;10&br;310&br;240&br;640&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;動物系パートナー。つぶらな瞳がなんとも愛くるしいモモンガです。普段は地面をとてとて歩いてついてきますが、戦闘時には颯爽と飛び立って相手を攻撃します。 &br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;アヴォイド・バースト&br;&br;【入手法】&br;果物の木（東西南北どれでも）から稀にドロップ。|
+
+***ポイズンモモンガ [#mc738d9a]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_info/eco/pet/Momonga2.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;24100&br;480&br;1280&br;1361&br;1422&br;499&br;760&br;500&br;336&br;&br;312&br;9&br;250&br;15&br;320&br;270&br;640&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;モモンガのチェンジ後です。かわいいなかにもちょっとだけ毒を持っているのが「おとな」の証？スキルの使用頻度が上がるうえ、パートナーの中でも攻撃速度と近距離回避率が非常に高いのが特徴です。&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;マジックポイズン、アヴォイド・バースト&br;&br;【入手法】&br;1回以上転生したモモンガを装備した状態で、[[おとななナッツ>http://eco.acronia.net/itemdb/#id=418]]を所持し、東アクロニア海岸にいるモモちゃんに話しかける。|
+
+***ピッグー [#r0386cf9]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/piggu.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;80&br;80&br;46&br;47&br;12&br;12&br;30&br;10&br;&br;26&br;16&br;15&br;10&br;20&br;25&br;80&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;服に付いているボタンのようなお鼻が特徴的なぶたさん。&br;尻尾はぐるぐると渦巻いていて、思わず後ろから追いかけたくなる。&br;[[台詞>PetSpeech/pigue]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【入手法】&br;%%ECO Shop(12,000P)販売終了%%&br;アクロポリスシティ西可動橋「コインを集める少年」で「古びたコイン」150枚と交換(2013/06/27～)&br;[[1500NCポイント>ECOShop#NCPoint]]|
+
+***しゅごキャラヨル [#SyugoCharaYoru]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/SyugoCharaYoru.jpg,nolink,128x131);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ノラ猫のように自由奔放で&br;ヤンチャな性格の「しゅごキャラ」。]&br;[[台詞>PetSpeech/SyugoCharaYoru]]&br;&br;系統：&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;&br;【入手法】&br;[[ECOくじ「しゅごキャラ！」1等>Kuji/2010#Shugochara]]|
+
+***黒猫 [#BlackCat]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/BlackCat.jpg,nolink,128x122);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;300&br;90&br;90&br;40&br;41&br;4&br;5&br;35&br;20&br;&br;40&br;25&br;10&br;10&br;40&br;20&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25250&br;440&br;1460&br;1555&br;1627&br;426&br;606&br;454&br;310&br;&br;434&br;25&br;350&br;10&br;160&br;144&br;540&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;過去に絶滅したといわれる&br;“ねこ”の生き残り？&br;&br;[[台詞>PetSpeech/BlackCat]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;なし&br;&br;【入手法】&br;[[エミルの転生特典>Job/Change/Chronicle#j725762b]]|
+
+***ケット・シー　（通常パートナー⇔ライドパートナー） [#CaitSith]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Ride/CaitSith.jpg,nolink,146x299);|>|>|CENTER:~通常|【説明】&br;・通常&br;ケット・シーがほんの少しだけ&br;力を貸してくれるそうだ&br;&br;・騎乗化&br;ケット・シーがほんの少しだけ&br;本気を出したようだ&br;&br;%%※通常時のみ成長します%%&br;%%※通常のステ+育成したステ=騎乗化の右側のステになります%%&br;パートナーアップデートに伴い騎乗化の状態でも成長するようになりました&br;&br;[[台詞>PetSpeech/CaitSith]]&br;&br;系統：&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;なし&br;&br;【通常＜＞騎乗の変更】&br;詳細情報の「change」ボタンを押す&br;インベントリがBodyの場合のみ有効&br;&br;【入手法】&br;[[エミルの転生特典>Job/Change/Chronicle#j725762b]]&br;&br;【注意】&br;装備条件：転生後可能&br;&color(#f00000){''ハイエミルのみ装備可能''　};|
+//
+//ここから通常ステータス
+//
+|~|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25250&br;440&br;1460&br;1555&br;1627&br;426&br;606&br;454&br;310&br;&br;434&br;25&br;350&br;10&br;160&br;144&br;540&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|~|
+//
+//
+//ここから騎乗化ステータス
+//
+|~|>|>|CENTER:~騎乗化|~|
+|~|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|~|
+
+***ベビードラゴ [#e7121c48]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/BabyDorago.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;35&br;80&br;80&br;4&br;6&br;4&br;5&br;15&br;10&br;&br;4&br;5&br;10&br;10&br;15&br;15&br;50&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;25335&br;480&br;1680&br;1597&br;1658&br;356&br;537&br;435&br;315&br;&br;395&br;5&br;281&br;10&br;149&br;155&br;589&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;遥か古代に絶滅した古竜種のヒナ。&br;特別なドラゴの卵から生まれるのだが、&br;孵化するまでに300年という途方もない時間がかかる。&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;チャージ：倍率？％の物理攻撃・対象を１マスのけぞらせる&br;&br;【入手法】&br;[[帰ってきたフシギ団！Episode,August &br;「フシギ時間旅行 ～太古の卵、研究中！」>Quest/Season/EpisodeAugust2010]]|
+
+***おしおきドクロベェさま [#dokurobe]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/osiokidokurobee.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27100&br;1680&br;1130&br;478&br;594&br;1145&br;1260&br;345&br;225&br;&br;415&br;20&br;435&br;15&br;90&br;70&br;460&br;590&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;&br;[[台詞>PetSpeech/dokurobe]]&br;&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;ブラックスミス&br;&br;【使用スキル】&br;おしおきだべぇ（相手の頭上に雷を落とす）、ヒーリング&br;&br;【入手法】&br;[[コラボレーションパッケージ ヤッターマン>Package#d38bfbd0]](期限：2010年10月)|
+
+***狐狸招来 [#h1e951e6]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Shoulder/kori_syorai.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;4&br;6&br;10&br;16&br;60&br;20&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;とってもかわいい二匹の狸と狐があなたをサポートしてくれます。&br;PAYLとCAPAの上昇はありません。&br;スキルはヒーリングのみ&br;[[台詞>PetSpeech/Korisyourai]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング：HPを回復&br;&br;【入手法】&br;[[ECOくじ「和風はろうぃん」1等>Kuji/2010#log_halloween]]|
+
+***シナモン [#cinnamon]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/cinnamon.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;28900&br;720&br;790&br;1517&br;1578&br;910&br;1090&br;470&br;500&br;&br;360&br;20&br;360&br;17&br;80&br;190&br;560&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;冒険者の戦いをサポートするシナモン&br;[[台詞>PetSpeech#cinnamon]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;なし&br;&br;【入手法】&br;5th Anniversary おかえりECOキャンペーン&br;10周年記念 ECOネットストアご愛顧感謝キャンペーン Bコース（[[公式サイト>http://econline.gungho.jp/special/netstore-cp201512/]]）|
+
+***トコトコ・シナモン [#tokotokocinnamon]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/tokotoko_wiki120.jpg,nolink,120x134);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;お手玉をしながら冒険をサポートしてくれる愛くるしいシナモン&br;[[台詞>PetSpeech#cinnamon]]（通常のシナモンと同じ？）&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;ソリッドオーラ&br;ゼン&br;ホーリーライト&br;&br;【入手法】&br;[[ECOくじ「シナモンのドキドキ学園生活」2等>Kuji/2016]]|
+
+***子パンダ [#kopanda]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/kopanda.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;320&br;80&br;80&br;49&br;50&br;43&br;43&br;18&br;10&br;&br;43&br;26&br;37&br;10&br;15&br;15&br;100&br;100&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25370&br;480&br;1480&br;1645&br;1706&br;522&br;702&br;452&br;252&br;&br;428&br;26&br;292&br;10&br;122&br;130&br;490&br;420&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;冒険者の戦いをサポートする愛らしいパンダ&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;エリアヒール：自身とその周囲の対象を回復させる&br;リヴァイブ：使用後３０ｓ以内に戦闘不能になったとき、生き返る&br;ラウドソング：扇状に音符を飛ばして攻撃&br;ラウズボディ：対象がプレイヤーの場合はSTR・VIT・AGI、対象がパートナーの場合は物理攻撃力・近距離回避力・物理防御率が上昇する&br;&br;【入手法】&br;[[公式ビジュアルファンブック>Package#c9dcb387]](期限：2011年12月)|
+
+***カルティー [#karuty]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/karuty.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;21350&br;1880&br;1030&br;390&br;451&br;1814&br;1995&br;278&br;250&br;&br;307&br;6&br;350&br;15&br;94&br;95&br;360&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ファームに潜む妖精&br;[[台詞>PetSpeech/Karuty]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング：ＨＰを回復&br;ディフェンスバースト：一定時間Def,M.Def上昇&br;&br;&br;&br;【入手法】&br;[[飛空城ファーム>FlyCastle/Farm]]|
+
+***キュゥべえ [#QB]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/QB.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;21500&br;1890&br;1040&br;519&br;580&br;1891&br;2071&br;278&br;250&br;&br;331&br;20&br;399&br;28&br;94&br;95&br;410&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;少女の願い事をひとつだけ叶えてくれる魔法の使者]&br;[[台詞>PetSpeech/QB]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ゼン&br;リヴァイブ：使用後３０ｓ以内に戦闘不能になったとき、生き返る&br;ヒーリング&br;[[台詞>PetSpeech/Kyuubee]]&br;&br;【入手法】&br;[[ECOくじ「魔法少女まどか☆マギカ」1等>Kuji/2011#log_madomagi]]|
+
+***ファー [#Fa]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/far.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;30050&br;480&br;1180&br;1410&br;1471&br;608&br;795&br;441&br;315&br;&br;535&br;20&br;475&br;20&br;75&br;78&br;510&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;冒険者の戦いをサポートするファー&br;台詞&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;足払い&br;つむじ風&br;ハウルアウト&br;怒&br;ファイアボール&br;&br;【入手法】&br;SAGA16実装記念BitCashでおトクにチャージキャンペーン|
+
+***AMNESIAの精霊・オリオン[#orion]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/orion.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;24720&br;1480&br;1130&br;690&br;751&br;1125&br;1305&br;286&br;230&br;&br;294&br;6&br;350&br;16&br;280&br;270&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;PARTNER装備&br;アムネシアでヒロインの心に閉じ込められてしまった精霊&br;&br;[[【台詞】>PetSpeech/orion]]&br;こんにちは！&br;キミも疲れていたんだね。ボクも少し疲れちゃった。&br;一休みも大事だね。&br;ちょっと休もうか？&br;ボクは後ろで応援しているね。&br;ボクも、がんばるぞー！&br;※参考&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;「がんばれー！」(応援らしきもの)&br;「ちょっとは心強くなったかな？」(ディバインバリアらしきもの、稀)&br;「これで、もう心配ないね。」(リヴァイブらしきもの)&br;「これでどう？もう少しがんばって！」(ラウズボディらしきもの)　&br;「しばらくは、大丈夫だね」(ソリッドオーラらしきもの)&br;「傷ついたキミを、癒してあげる。」(主人のみ対象のセイクリッドエンブレイスらしきもの)&br;「みんなを元気にするよ！」(セイクリッドエンブレイスらしきもの)&br;「お願い！これで元気になって！」(リザレクションらしきもの)&br;&br;※スキルの対象はすべて主人。&br;&br;【入手法】&br;[[ECOくじ「AMNESIA(アムネシア)」1等>Kuji/2012#dd85ec50]]|
+//110&br;&color(,pink){桃色};&br;&br;32664&br;3020&br;2495&br;790&br;851&br;1225&br;1405&br;486&br;480&br;&br;394&br;6&br;450&br;16&br;380&br;370&br;500&br;500&br;&br;RCV&br;M.RCV&br;S.RCV
+***ボクサーパンダ [#boxerpanda]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/boxerpanda.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;600&br;90&br;90&br;52&br;53&br;24&br;24&br;40&br;10&br;&br;40&br;24&br;15&br;15&br;20&br;25&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25770&br;490&br;1490&br;1648&br;1709&br;502&br;658&br;460&br;235&br;&br;445&br;24&br;290&br;15&br;130&br;140&br;540&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;鍛錬する姿もなんだか愛くるしい&br;ボクサーパンダ&br;[[台詞>PetSpeech/boxerpanda]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;スタンブロウ&br;ラッシュ&br;アタック・バースト&br;ディフェンス・バースト&br;コンセントレート&br;クリティカル&br;&br;【入手法】&br;1.無限回廊42F（隠層）に入ってすぐの場所で「物言いたげなパンダ」の質問に答える&br;2.無限回廊55Fで「物言いたげなパンダ」に「チャンピオンベルト」を渡すとボクサーパンダを入手&br;&br;※チャンピオンベルトは55Fのボス「パンダーチャンピオン」かミッション3で「パンダーチャンピオン・シャドー」からドロップ|
+
+***まきばのポニー　（通常パートナー⇔ライドパートナー） [#kf1f0bd8]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/makibanopony.jpg,nolink,128x256);|>|>|CENTER:~通常|【説明】&br;まきばを駆け回る小さな馬&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;チャージ&br;スタンブロウ&br;アタック・バースト&br;コンセントレート&br;&br;【入手法】&br;[[ECOくじ「カントリー・カウガール」2等>Kuji/2013#z29cece7]]&br;[[スペシャルECOくじ「アルマたちとの絆２」2等>Kuji/2015#sb47c1e0]]|
+//ここから通常ステータス
+|~|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27250&br;1690&br;1140&br;646&br;726&br;1133&br;1270&br;320&br;220&br;&br;375&br;40&br;425&br;15&br;81&br;80&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|~|
+//110&br;&color(,pink){桃色};&br;&br;35700&br;3335&br;2510&br;746&br;826&br;1233&br;1370&br;520&br;470&br;&br;475&br;40&br;525&br;15&br;181&br;180&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV
+//ここから騎乗化ステータス
+|~|>|>|CENTER:~騎乗化|~|
+|~|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;340&br;295&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|~|
+//110&br;&color(,pink){桃色};&br;&br;21012&br;995&br;1056&br;922&br;1102&br;540&br;545&br;&br;538&br;26&br;462&br;10&br;272&br;190&br;410&br;420&br;&br;RCV
+***傀儡のスフィンクス　（通常パートナー⇔ライドパートナー） [#ycec5141]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/kugutsunosphinx.jpg,nolink,128x256);|>|>|CENTER:~通常|【説明】&br;猫を模した&br;神聖な像の姿をしている&br;&br;系統：その他&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;マジックシールド&br;チャージ&br;ヒーリング&br;アタック・バースト&br;&br;【入手法】&br;[[ECOくじ「ブバスティスの仔猫たち」2等>Kuji/2013#d54015c8]]&br;[[ECOくじ「ロアたちの記憶」2等>Kuji/2015#w761e266]]|
+//ここから通常ステータス
+|~|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;55&br;56&br;50&br;50&br;48&br;30&br;&br;45&br;40&br;25&br;15&br;30&br;20&br;200&br;180&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27250&br;1690&br;1140&br;646&br;726&br;1133&br;1270&br;320&br;220&br;&br;375&br;40&br;425&br;15&br;81&br;80&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|~|
+//ここから騎乗化ステータス
+|~|>|>|CENTER:~騎乗化|~|
+|~|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|1&br;黒&br;&br;320&br;49&br;50&br;43&br;43&br;30&br;25&br;&br;37&br;26&br;18&br;10&br;28&br;15&br;150&br;130&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|~|
+
+***白面金毛九尾ノ狐　（通常パートナー⇔ライドパートナー） [#nine-tailedfox]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/nine-tailedfox.jpg,nolink,128x256);|>|>|CENTER:~通常|【説明】&br;美しい毛並みを持ち、九つの尾を持つ狐。&br;[[台詞>PetSpeech/nine-tailedfox]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;エナジークロウ&br;マジックシールド&br;マジックポイズン&br;バイタリティダウン&br;チャージ&br;&br;【入手法】&br;[[ECOくじ「御伽の国のお狐様」2等>Kuji/2013#i2524372]]&br;[[ECOくじ「ロアたちの記憶」2等>Kuji/2015#w761e266]]|
+//ここから通常ステータス
+|~|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;22600&br;1890&br;1040&br;500&br;571&br;2010&br;2070&br;298&br;218&br;&br;317&br;23&br;430&br;20&br;83&br;90&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|~|
+//110&br;&color(,aqua){水色};&br;&br;24530&br;2418&br;1398&br;530&br;601&br;2040&br;2100&br;328&br;278&br;&br;347&br;23&br;470&br;20&br;123&br;130&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV
+//ここから騎乗化ステータス
+|~|>|>|CENTER:~騎乗化|~|
+|~|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|110&br;黒&br;&br;15010&br;895&br;956&br;822&br;1002&br;340&br;295&br;&br;438&br;26&br;362&br;10&br;172&br;90&br;410&br;420&br;&br;RCV|~|
+//110&br;&color(,aqua){水色};&br;&br;16560&br;925&br;986&br;852&br;1032&br;370&br;355&br;&br;478&br;26&br;402&br;10&br;212&br;130&br;410&br;420&br;&br;RCV
+***ホノりん [#honorin]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パズル＆ドラゴンズの世界から飛び出してきたモンスター&br;ほかにも仲間がいるらしい&br;[[台詞>PetSpeech/honorin]]&br;&br;系統：その他&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;ファイアウェポン&br;ファイアブラスト&br;&br;【入手法】&br;コラボイベント「EMIL & DRAGONS ver.2」|
+
+***アワりん [#awarin]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/awa.png,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パズル＆ドラゴンズの世界から飛び出してきたモンスター&br;ほかにも仲間がいるらしい&br;体が水でできているようだが泳げるわけではない&br;[[台詞>PetSpeech/awarin]]&br;&br;系統：その他&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;ディフェンス・バースト&br;アクアブラスト&br;&br;【入手法】&br;コラボイベント「EMIL & DRAGONS ver.2」|
+
+***モリりん [#moririn]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パズル＆ドラゴンズの世界から飛び出してきたモンスター&br;ほかにも仲間がいるらしい&br;頭のてっぺんから生えている若木は成長するとかしないとか&br;[[台詞>PetSpeech/moririn]]&br;&br;系統：その他&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;スタミナテイク&br;プラントポイズン&br;&br;【入手法】&br;コラボイベント「EMIL & DRAGONS ver.2」|
+
+***ヒカりん [#hikarin]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パズル＆ドラゴンズの世界から飛び出してきたモンスター&br;ほかにも仲間がいるらしい&br;おでこのグルグルは何でできているのか知るものはいない&br;[[台詞>PetSpeech/hikarin]]&br;&br;系統：その他&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;ホーリーウェポン&br;リザレクション&br;&br;【入手法】&br;コラボイベント「EMIL & DRAGONS ver.2」|
+
+***ワルりん [#warurin]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/warurin.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;40&br;41&br;50&br;50&br;28&br;30&br;&br;30&br;20&br;35&br;30&br;20&br;20&br;150&br;130&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パズル＆ドラゴンズの世界から飛び出してきたモンスター&br;ほかにも仲間がいるらしい&br;見た目とはうらはらに冒険者にはやさしい一面を見せることもある&br;[[台詞>PetSpeech/warurin]]&br;&br;系統：その他&br;種別：&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ヒーリング&br;ダークウェポン&br;ライフテイク&br;&br;【入手法】&br;コラボイベント「EMIL & DRAGONS ver.2」|
+
+***小鳥遊慧のMIND [#Mind]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/mind.png,nolink,128x168);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;90&br;90&br;45&br;46&br;45&br;45&br;28&br;30&br;&br;30&br;20&br;35&br;25&br;20&br;20&br;150&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;29700&br;990&br;990&br;1265&br;1326&br;1165&br;1345&br;378&br;380&br;&br;350&br;20&br;355&br;25&br;110&br;95&br;460&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;「MIND≒0」との&br;コラボレーション記念アイテム&br;[[台詞>PetSpeech/Mind]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ディレイキャンセル&br;アサルト&br;一閃&br;エナジーバリア&br;リヴァイブ&br;死鎌演舞(死鎌演舞Lv1と同等)&br;&br;【入手法】&br;コラボイベント「ECO×MIND≒0 異世界コラボ」（8月分）&br;２０１３年６月～９月のコラボ|
+//110&br;&color(,orange){橙色};&br;&br;34670&br;1786&br;1786&br;1335&br;1396&br;1235&br;1415&br;448&br;530&br;&br;430&br;20&br;435&br;25&br;190&br;175&br;460&br;510&br;&br;RCV&br;M.RCV&br;S.RCV
+***にしこくん [#nishikokun]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/nishiko.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;40&br;41&br;50&br;50&br;28&br;30&br;&br;30&br;20&br;35&br;30&br;20&br;20&br;150&br;130&br;&br;120&br;100&br;100|110&br;黒&br;&br;26600&br;1690&br;1140&br;590&br;651&br;1000&br;1300&br;308&br;250&br;&br;420&br;20&br;445&br;30&br;75&br;100&br;410&br;520&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;武蔵国からやってきた妖精&br;あぶみ瓦のにしこくん&br; [[台詞>PetSpeech/nishikokun]]&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ファイトブーン（*｀ω´)！！&br;みなぎるブーン（*｀ω´)！！&br;ガンバブーン（*｀ω´)！！ (リヴァイブLv1)&br;元気出すブーン（*｀ω´)！！&color(silver){ (アレスLv1？)};&br;立ち上がるブーン（*｀ω´)！！ (リザレクションLv1)&br;&br;【入手法】&br;コラボイベント「にしこくんがECOの世界にゆる～く登場」（第3弾）&br;タイニーアイランドのにしこくんと会話し「一緒に冒険したい！」を選択(一定以上の名声が必要)|
+//110&br;&color(,red){赤色};&br;&br;33090&br;2966&br;2196&br;670&br;731&br;1080&br;1380&br;388&br;430&br;&br;510&br;20&br;535&br;30&br;165&br;190&br;410&br;520&br;&br;RCV&br;M.RCV&br;S.RCV
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ファイトブーン( *` ω ´）！！|主人&br;自分&br;仲間|単体|3|&color(blue){MP23};|左DEF+6 右DEF+10 効果時間180秒|
+|▲みなぎるブーン( *` ω ´）！！ |主人&br;自分&br;仲間|単体|3|&color(blue){MP35};|左M.DEF+20 右M.DEF+20 効果時間120秒|
+|▲ガンバブーン( *` ω ´）！！|主人&br;自分&br;仲間|単体|3|&color(red){SP12};|リヴァイブ状態にする|
+|▲元気出すブーン( *` ω ´）！！|主人&br;自分&br;仲間|単体|5|&color(blue){MP30};|HP回復倍率1.0 状態異常も回復|
+|▲立ち上がるブーン( *` ω ´）！！|主人&br;仲間|単体|5|&color(blue){MP40};|行動不能になった対象を蘇らせる|
+///////////
+
+***ドモヴォイ [#domovoi]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/domo3.png,nolink,125x148);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;50&br;51&br;43&br;43&br;48&br;40&br;&br;30&br;24&br;35&br;25&br;30&br;45&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;25100&br;490&br;1490&br;1600&br;1661&br;505&br;690&br;480&br;340&br;&br;430&br;24&br;345&br;25&br;140&br;175&br;540&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;ラグナロクオデッセイエースの世界から飛び出してきた&br;もふもふの毛と大きな耳がチャーミングないたずらっ子&br;かわいいヤツではあるが&br;やりたい放題したあとのドヤ顔がちょっと憎たらしい&br; [[台詞>PetSpeech/domovoi]]&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;エリアヒール&br;連続攻撃&br;ホーリーウエポン&br;応援&br;ポケポケ&br;&br;【入手法】&br;ラグナロクオデッセイコラボレーション|
+//110&br;&color(,orange){橙};&br;&br;29610&br;1086&br;2486&br;1670&br;1731&br;575&br;760&br;550&br;490&br;&br;510&br;24&br;425&br;25&br;220&br;255&br;540&br;490&br;&br;RCV&br;M.RCV&br;S.RCV
+***スフィンクス [#Sphinx]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/sphinx00.jpg,nolink,128x210);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;32&br;33&br;50&br;50&br;40&br;20&br;&br;35&br;15&br;30&br;20&br;50&br;25&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;22700&br;1890&br;1040&br;492&br;553&br;1840&br;2020&br;300&br;225&br;&br;320&br;15&br;450&br;20&br;90&br;80&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;砂漠に生息するスフィンクス&br;人に懐く事は滅多に無い&br; [[台詞>PetSpeech/Sphinx]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;アタック・バースト&br;マジックシールド&br;エナジークロウ&br;ヒーリング&br;&br;【入手法】&br;サンドワームから稀にドロップ&br;２０１３年８月に実装|
+
+***ワイズ・スフィンクス [#WiseSphinx]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~転生|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/wisesphinx.jpg,nolink,128x205);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;水色&br;&br;1640&br;318&br;270&br;82&br;83&br;208&br;208&br;90&br;89&br;&br;93&br;30&br;100&br;25&br;111&br;79&br;200&br;200&br;&br;100&br;140&br;140|110&br;黒&br;&br;23000&br;1890&br;1040&br;522&br;563&br;1850&br;2040&br;320&br;240&br;&br;320&br;30&br;450&br;25&br;105&br;90&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;砂漠に生息するスフィンクスが&br;古代の石版を読み解いた事で&br;進化した姿&br;[[台詞>PetSpeech/Sphinx]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br; アタック・バースト&br;マジックシールド&br;エナジークロウ&br;ヒーリング&br;ディバインバリア(旧ディバインバリアLv2)&br;ゼン&br;ルミナリィノヴァ&br;&br;【入手法】&br;スフィンクスにロゼッタ・ストーンを使用(未転生LV70以上もしくは転生後より可)|
+
+***スファル・スフィンクス [#SphalSphinx]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/sphal.jpg,nolink,150x220);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;90&br;90&br;78&br;80&br;42&br;42&br;52&br;46&br;&br;50&br;30&br;48&br;25&br;68&br;36&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;27500&br;590&br;1690&br;1650&br;1850&br;522&br;562&br;480&br;354&br;&br;460&br;30&br;350&br;25&br;165&br;150&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;砂漠に生息するスフィンクス&br;人に懐くことは滅多に無い&br;[[台詞>PetSpeech/SphalSphinx]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br; リミテイションスマイト&br;ネオ・ファランクス&br;疾風走破&br;コンビネーションアタック&br;ハイスピードエンチャント&br;&br;【入手法】&br;スフィンクスにパワー・ストーンを使用（BaseLv、信頼度、スキル初期化）&br;&br;鈍足、スタンに耐性を持つ。&br;２０１５年９月に実装|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲リミテイションスマイト|敵|単体中心&br;3x3|1|&color(red){SP30};|守りを考えず敵の周囲を全力で斬りかかり防御力を無効化する一撃を与える|
+|▲ネオ・ファランクス|自分|自分中心&br;円|-|&color(red){SP10};|武器を振り回し自分の周囲を攻撃する。対象は一定確率で硬直する|
+|▲疾風走破|敵|単体|4|&color(red){SP90};|高速で移動し斬撃を行う。一定確率でスタン効果を与える|
+|▲コンビネーションアタック|敵|単体|1|&color(red){SP35};|スタン判定を与える斬撃による攻撃の後渾身の一撃で攻撃する。飛行している敵に対して使用する事は出来ない|
+|▲ハイスピードエンチャント|自分|単体|6|&color(blue){MP46};|自身の物理攻撃速度、回避率、魔法抵抗率、魔法詠唱速度を上昇させる&br;効果時間60秒|
+
+***いっしょにこもたん [#Issyonikomotan]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;35&br;41&br;35&br;40&br;30&br;20&br;&br;30&br;10&br;20&br;20&br;25&br;30&br;150&br;150&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;22200&br;1890&br;1040&br;510&br;571&br;1810&br;1990&br;300&br;240&br;&br;320&br;10&br;430&br;20&br;80&br;150&br;410&br;510&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;&br;[[台詞>PetSpeech/Issyonikomotan]]&br;&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;ちくわアタック（ポケポケ？）&br;こたつ一体化作戦（エナジーバリア）&br;にゃっ！（アタックバースト＋ディフェンスバースト）&br;御藝大明神の祝福（リザレクション）&br;肉球もふもふ（ヒーリング）&br;&br;【入手法】&br;WebMoney協賛 あけましタイニーのお年玉キャンペーン Cコース|
+
+***フォックスブラザーズ [#FoxBrothers]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/Foxbrothers.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;400&br;90&br;90&br;35&br;36&br;70&br;75&br;38&br;18&br;&br;33&br;23&br;25&br;20&br;45&br;25&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;22600&br;1890&br;1040&br;500&br;571&br;2010&br;2070&br;298&br;218&br;&br;307&br;23&br;430&br;20&br;83&br;90&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;２匹そろって一人前の兄弟狐&br;いつも仲良く寄り添っている&br; [[台詞>PetSpeech/FoxBrothers]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;エナジークロウ&br;マジックバリア&br;ファイアボール&br;バイタリティダウン&br;ラッシュ&br;&br;【入手法】&br;[[ECOくじ「こぎつねアプレンティス」2等>Kuji/2014#KogituneApprentice]]|
+
+***フェアリオン [#Fealion]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/fealion01.jpg,nolink,128x192);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;350&br;90&br;90&br;39&br;40&br;39&br;39&br;35&br;35&br;&br;30&br;20&br;30&br;20&br;35&br;35&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;28060&br;908&br;890&br;1046&br;1096&br;1120&br;1161&br;268&br;264&br;&br;365&br;20&br;389&br;20&br;95&br;95&br;318&br;418&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パズル＆ドラゴンズからの可愛い来訪者フェアリオン&br;「きゅーい♪」 &br;[[台詞>PetSpeech/Fealion]]&br;&br;ブリーダーのスキル「信頼の証」に専用のポーズ&br;（喜ぶ、寝る）がある。&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;防御態勢・光 (エリアヒールLv4)&br;光と木の守り&br;リザレクション&br;サンクチュアリ&br;バインドアタック&br;&br;【入手法】&br;コラボイベント「ECO×パズル＆ドラゴンズ」&br;&br;【備考】&br;&color(red){実装時は防御属性値が光30だったが、2014年7月現在は無属性に修正された。};（公式告知無し）&br;位置が主人と重なる(ネコマタと同じ)|
+///////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲防御態勢・光|自分|自分中心&br;3x3|-|&color(blue){MP12};|HP回復倍率2.2|
+|▲光と木の守り|主人&br;自分&br;仲間|単体中心&br;3x3|6|&color(blue){MP12};|左DEF+10 右DEF+10&br;左M.DEF+15 右M.DEF+15 効果時間120秒|
+
+***レイミ [#Reimi]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/gamedb_wiki/PetList/Normal/Reimi.jpg,nolink,128x250);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;90&br;90&br;32&br;33&br;50&br;50&br;40&br;20&br;&br;35&br;15&br;30&br;20&br;50&br;25&br;200&br;200&br;&br;100&br;100&br;100|110&br;黒&br;&br;26700&br;1790&br;1040&br;492&br;553&br;1290&br;1470&br;300&br;225&br;&br;400&br;15&br;450&br;20&br;85&br;75&br;460&br;560&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;人の言葉を理解する&br;不思議なラーミア&br;[[台詞>PetSpeech/Reimi]]&br;&br;系統：その他&br;種別：&br;攻撃タイプ：叩き&br;射程&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;悪戯しちゃだめっ！ (アサルト)&br;いたいのいたいの、とんでけー♪ (エリアヒール)&br;うふふ、がんばってー♪ (応援)&br;おまじない (リヴァイブ)&br;あらあら、危ないわ (ディフェンス・バースト) &br;&br;【入手法】&br;[[ECOくじ「モンスター☆パレード」2等>Kuji/2014#MonsterParade]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲悪戯しちゃだめっ！||単体|6|&color(red){SP6};|守りを考えずに襲い掛かる&br;効果時間中のクリティカル率上昇、防御率低下|
+|▲いたいのいたいの、とんでけー♪||単体中心&br;円||&color(blue){MP12};&br;|対象とその周囲のHPを回復する|
+|▲うふふ、がんばってー♪||単体|5|&color(red){SP6};|一定時間&br;物理攻撃力を魔法攻撃力を&br;上昇させる|
+|▲おまじない||単体|3|&color(red){SP12};|戦闘不能になったとき&br;稀に生き返る|
+|▲あらあら、危ないわ||単体|6|&color(blue){MP2};&br;&color(red){SP4};|一定時間&br;物理防御と&br;魔法防御を上昇させる|
+
+***トモダチ・コランダム[#Tomodachicorundum]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/corundum.jpg,nolink,128x178);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;240&br;80&br;80&br;10&br;11&br;30&br;30&br;34&br;20&br;&br;10&br;5&br;10&br;15&br;60&br;20&br;200&br;200&br;&br;100&br;100&br;100|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;モンスターの一種。&br;人の言葉を理解する不思議なコランダム。&br;[[台詞>PetSpeech/Tomodachicorundum]]&br;&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;?&br;&br;【入手法】&br;[[ECOくじ「ミリタリールック・リトルシューター」2等>Kuji/2015#t51bde51]]&br;[[ECOくじ「リトルシューターの休日」2等>Kuji/2015#k99f19c3]]|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ライトバラッド||単体|1|&color(blue){MP15};|対象に光属性物理攻撃をする|
+|▲セイントファング|自分||-|&color(blue){MP30};&br;|向いている方向に交差する&br;ホーリーグローブを放つ|
+|▲ホーリーライト||単体|6|&color(blue){MP10};|敵に光の力を持つ&br;魔法攻撃を放つ|
+|▲ミンナゲンキニ||単体中心&br;円|5|&color(blue){MP12};|対象とその周囲のHPを回復する|
+|▲マモルンダカラ||単体|6|&color(blue){MP6};&br;&color(red){SP6};|一定時間近距離回避と&br;物理防御と魔法防御を上昇させる|
+|▲ハジクンダカラ||単体中心&br;円|6|&color(blue){MP40};|対象とその周囲に&br;効果時間中一度だけ魔法効果を&br;反射する効果を与える&br;※全ての演習において使用不可|
+
+***狐紅丸 [#kobenimaru]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/%E7%84%A1%E9%A1%8C1.jpg,nolink,200x292);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;600&br;90&br;90&br;60&br;66&br;10&br;10&br;40&br;30&br;&br;28&br;25&br;20&br;20&br;5&br;5&br;200&br;200&br;&br;120&br;100&br;100|110&br;黒&br;&br;30950&br;490&br;1190&br;1480&br;1551&br;650&br;730&br;340&br;350&br;&br;536&br;25&br;480&br;20&br;45&br;45&br;510&br;490&br;&br;220&br;100&br;250|【説明】&br;妖狐の一種と&br;言われているが&br;その実態は定かではない&br;古き民との噂も&br;[[台詞>PetSpeech/kobenimaru]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：斬り&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;滅&br;斬首&br;心頭滅却&br;狐火嵐&br;炎獄&br;妖狐式抜刀術 狐鬼&br;&br;【入手法】&br;運試しガチャ|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲滅|敵|単体|1|&color(red){SP250};|ATK300%x8回|
+|▲斬首|敵|単体|1|&color(red){SP26};&br;|守りを考えず全力で斬りかかり&br;防御力を無効化する一撃を与える|
+|▲心頭滅却|主人&br;自分&br;仲間|単体|6|&color(blue){MP6};&br;&color(red){SP6};|物理攻撃力(最大)+10 左DEF+5 右DEF+10&br;左M.DEF+4 右M.DEF+7 効果時間30秒|
+|▲狐火嵐|敵|単体中心&br;5x5|6|&color(blue){MP15};|M.ATK180% 火属性 詠唱3秒|
+|▲炎獄|敵|単体|1|&color(red){SP30};|対象の体内で数秒後に爆発する&br;斬撃を与える&br;一定確率で持続ダメージを与える|
+|▲妖狐式抜刀術 狐鬼|敵|単体|1|&color(red){SP70};|AGI・DEX・VITを&br;低下させる攻撃を&br;連続で行う&br;対象がモンスターの場合&br;回避率、命中率&br;防御力を低下させる|
+
+***黒狐丸 [#kurokomaru]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/%E9%BB%92%E7%8B%90%E4%B8%B8.jpg,nolink,170x250);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;450&br;70&br;70&br;42&br;49&br;40&br;45&br;45&br;30&br;&br;15&br;20&br;26&br;15&br;30&br;20&br;200&br;150&br;&br;120&br;100&br;100|110&br;黒&br;&br;29450&br;670&br;1070&br;1396&br;1457&br;723&br;921&br;470&br;340&br;&br;530&br;20&br;412&br;15&br;85&br;105&br;510&br;430&br;&br;220&br;250&br;250|【説明】&br;妖狐の一種と&br;言われているが&br;その実態は定かではない&br;古き民との噂も&br;[[台詞>PetSpeech/kurokomaru]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：斬り&br;射程：&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;滅&br;斬首&br;心頭滅却&br;狐火風&br;閃&br;妖狐式抜刀術 命&br;&br;【入手法】&br;運試しガチャ|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲滅|敵|単体|1|&color(red){SP250};|対象に一瞬で無数の斬撃を浴びせる|
+|▲斬首|敵|単体|1|&color(red){SP26};&br;|守りを考えず全力で斬りかかり&br;防御力を無効化する一撃を与える|
+|▲心頭滅却|主人&br;自分&br;仲間|単体|6|&color(blue){MP6};&br;&color(red){SP6};|一定時間、物理最大攻撃力と&br;物理防御と魔法防御を上昇させる|
+|▲狐火風|敵|単体中心&br;円|6|&color(blue){MP10};|対象の範囲に&br;火焔攻撃を行う|
+|▲閃|自分|自分中心&br;扇型|-|&color(red){SP15};|地面を這う真空波を発生させ&br;間合いの外から対象を攻撃する|
+|▲妖狐式抜刀術 命|敵|単体|1|&color(red){SP23};|対象の急所を狙い命中率&br;回避率低下と鈍足効果を与える|
+
+***もこもこコニグラス [#mocomococonigurasu]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Normal/mocomococonigurasu.jpg,nolink,167x180);>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;500&br;80&br;80&br;30&br;31&br;30&br;30&br;30&br;30&br;&br;30&br;20&br;25&br;20&br;10&br;10&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;19050&br;480&br;1280&br;1460&br;1521&br;508&br;645&br;481&br;255&br;&br;445&br;20&br;325&br;20&br;140&br;143&br;510&br;490&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;冒険者の戦いをサポートする&br;もこもこしたニコグラス&br;[[台詞>PetSpeech/mocomococonigurasu]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;&color(silver){無し};&br;&br;【使用スキル】&br;ポケポケ&br;ディレイキャンセル&br;デッドリーアタック&br;ララバイ&br;連続攻撃&br;ディバインバリア (旧Lv2相当単体対象)&br;ソリッドオーラ&br;&br;【入手法】&br;ECO公認ネットカフェ特典　リニューアルキャンペーン|
+/////////固有スキル
+//|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+//|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+
+
+***白面金毛九尾ノ狐（黒）　（通常パートナー⇔ライドパートナー） [#blackninetailedfox]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Normal/blackninetailedfox.jpg,nolink,140x137);>PartnerList#h8a29c75]]|>|>|CENTER:~通常|【説明】&br;美しい毛並みを持ち　九つの尾を持つ狐&br;[[台詞>PetSpeech/blackninetailedfox]]&br;&br;系統：&br;種別：&br;攻撃タイプ：&br;射程：&br;&br;【固有命令スキル習得職業】&br;&color(silver){無し};&br;&br;【使用スキル】&br;&color(silver){スキル名};&br;&br;【入手法】&br;[[ECOくじ「サムライガール・ホウオウ」2等>Kuji/2015#d71ec34f]]|
+//ここから通常ステータス
+|~|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|~|
+//ここから騎乗化ステータス
+|~|>|>|CENTER:~騎乗化|~|
+|~|Lv&br;信頼度&br;&br;HP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|Lv&br;信頼度&br;&br;HP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV|~|
+
+***ホムンクルス（成熟） [#Homunculus_Maturity]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;380&br;90&br;90&br;30&br;31&br;30&br;30&br;30&br;30&br;&br;25&br;25&br;25&br;25&br;25&br;30&br;200&br;200&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;錬金術によって生み出された人造人間&br;自立稼働する&br;・[[台詞>PetSpeech/Homunculus_Maturity]]&br;&color(gray){・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（）};&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【使用スキル】&br;&br;【入手法】&br;EXキャプチャー「天理人欲の錬金術師」報酬|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|だんしんぐそ～ど|敵||||対象に無数の魔法の剣を繰り出して切り付ける|
+|ビリビリ玉|敵||||触ると感電する光球を発射する。確率でスタンさせる|
+|セイチューセーン|敵||||敵の急所を突いて大きなダメージを狙う。対象を稀に気絶、鈍足化状態にする|
+|アルケミー大爆発|敵||||対象範囲に着弾後、爆破を起こす|
+|応援|||||一定時間最小物理攻撃力を上昇させる|
+|リヴァイブ|||||戦闘不能になったとき稀に生き返る|
+
+***メジェド [#Medjed]
+|LEFT:128|RIGHT:90|RIGHT:45|RIGHT:45|LEFT:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;人間の目には見えない&br;不可視の存在&br;敵を瞳で倒す&br;と言われているが&br;全てが謎に包まれた神&br;&br;・[[台詞>PetSpeech/Medjed]]&br;&color(gray){・ブリーダーのスキル「信頼の証」に専用ポーズがある&br;（）};&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：&br;射程：&br;&br;【使用スキル】&br;&br;【入手法】&br;ECOドリーム「聖母イシス」A賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|ヒーリング||||||
+|ソリッドオーラ||||||
+|ゼン||||||
+|裁きの光|||||ホーリーライトLv2相当|
+
+***カグツチ[#kagututi]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/Normal/kagututi.jpg,nolink,128x128);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;303&br;65&br;40&br;35&br;42&br;65&br;70&br;25&br;20&br;&br;10&br;18&br;10&br;20&br;20&br;25&br;200&br;200&br;&br;100&br;100&br;100|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;パートナー装備&br;イザナミから産みおとされた火の神&br;[[台詞>PetSpeech/kagututi]]&br;&br;&br;系統：その他&br;種別：動魔&br;&br;&br;&br;【固有命令スキル習得職業】&br;無し&br;&br;【使用スキル】&br;蓮火・焔&br;護神火&br;神界の業火&br;炎砲&br;&br;【入手法】&br;[[ECOくじ「誘うは黒き花嫁」2等>Kuji/2016#wff99f66]]&br;|
+/////////固有スキル
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲蓮火・焔||単体|5|&color(blue){MP66};|一発の威力は小さいが&br;ＨＩＴ数が多い&br;火属性魔法攻撃をする|
+|▲護神火||単体|6|&color(blue){MP15};&br;|対象の武器に炎の力を与える|
+|▲神界の業火||単体を中心にした円|5|&color(blue){MP35};|対象範囲に着弾後、爆破を起こす|
+|▲炎砲||単体|6|&color(blue){MP20};|敵に炎の力を持つ魔法攻撃を行う|
+
+***ホウキくん [#hokikun]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;スペルキャスター・アルマが普通のほうきに魔法をかけて作った友達。&br;[[台詞>PetSpeech/hokikun]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;エリアヒール&br;アヴォイド・バースト&br;エナジークロウ&br;お掃除ラッシュ(ラッシュ)&br;&br;【入手法】&br;ECOドリーム「魔法使いの森の家」B賞|
+
+***けんだまさん [#Kendamasan]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;木人の突然変異。&br;会話はできないがとても優しくて力持ち。&br;[[台詞>PetSpeech/Kendamasan]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;アタック・バースト&br;クリティカル&br;スタンブロウ&br;&br;【入手法】&br;ECOドリーム「モックーの駄菓子屋通い」B賞|
+
+***マッスル・パンプキン [#Musclepumpkin]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;南瓜の被り物をしたナイスガイ。&br;見た目はゴツイが心は紳士。&br;[[台詞>PetSpeech/Musclepumpkin]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;ディレイキャンセル&br;ラウズボディ&br;カウンター&br;パンプキンラッシュ(ラッシュ)&br;&br;【入手法】&br;ECOドリーム「魅惑のリリムルーム」B賞|
+
+***コロボックル [#korobokkuru]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|&ref(http://eco.acronia.net/img/wiki/PetList/korobokkuru.jpg,nolink,150x150);|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;北方に隠れ住む小人。&br;背が低いことを指摘されると激怒する。&br;[[台詞>PetSpeech/korobokkuru]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;ヒーリング&br;ゼン&br;アイスアロー&br;フロスティゲイル&br;&br;【入手法】&br;ECOドリーム「大自然の灯火」B賞|
+
+***ネコ執事 [#nekoshitsuji]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Normal/nekosituzi.jpg,nolink,151x218);>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;老猫の主人への想いが具現化したもの。&br;非常に献身的でよく働くが、忘れっぽい性格のため主人の名前を覚えていない。&br;[[台詞>PetSpeech/nekoshitsuji]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;応援&br;ディレイキャンセル&br;アサルト&br;デフィート&br;&br;【入手法】&br;ECOドリーム「見習いメイドの猫耳日記」B賞|
+
+***ぷちポーン [#puchipon]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Normal/puchipon.jpg,nolink,167x288);>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;チェスの駒「ポーン」のイメージが具現化したもの。&br;命尽きるまで主人を護り続ける。&br;[[台詞>PetSpeech/puchipon]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;ディフェンス・バースト&br;マジックバリア&br;パリィ&br;ファランクス&br;&br;【入手法】&br;ECOドリーム「ディフェンシブナイト・フェール」B賞|
+
+***ラム＆シルフィード [#ramushirufido]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;雷と風の妖精。&br;友達の居ない守護魔・ランを心配し、友達になりたいと思っているけど距離感がつかめない。&br;[[台詞>PetSpeech/ramushirufido]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;エリアヒール&br;アヴォイド・バースト&br;サンダーボルト&br;つむじ風&br;&br;【入手法】&br;ECOドリーム「孤独の森のラン」B賞|
+
+***時計うさぎ [#tokeiusagi]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[&ref(http://eco.acronia.net/img/wiki/PetList/Normal/tokeiusagi.jpg,nolink,147x242);>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;長い年月を経て動き出した時計うさぎのぬいぐるみ。&br;喋ることはできないが時間に追われるように忙しなく動く&br;小心者を驚かせることが好き。&br;[[台詞>PetSpeech/tokeiusagi]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：叩き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;ディレイキャンセル&br;エンチャントウエポン&br;ハリーアップ&br;ラガード&br;&br;【入手法】&br;ECOドリーム「ジャバウォック・イン・ワンダーランド」B賞|
+|LEFT:|CENTER:|CENTER:|CENTER:|CENTER:|LEFT:350|c
+|~スキル名称|~使用&br;対象|~効果範囲|~射&br;程|~消費&br;&color(blue){MP};/&color(red){SP};|~効果･備考|h
+|▲ハリーアップ|-|-|-|-|対象の物理攻撃速度、回避率、&br;魔法抵抗率、魔法詠唱速度を&br;上昇させる|
+
+***怪盗ニャンコ [#kaitonyanko]
+|CENTER:128|CENTER:85|CENTER:45|CENTER:45|CENTER:450|c
+|~画像|~ステータス|~初期|~転生|~説明と入手法|h
+|CENTER:128|RIGHT:90|RIGHT:40|RIGHT:40|LEFT:350|c
+|[[画像募集中>PartnerList#h8a29c75]]|Lv&br;信頼度&br;&br;HP&br;MP&br;SP&br;ATK(MIN)&br;ATK(MAX)&br;M.ATK(MIN)&br;M.ATK(MAX)&br;S.HIT&br;L.HIT&br;&br;DEF(-)&br;DEF(%)&br;M.DEF(-)&br;M.DEF(%)&br;S.AVOID&br;L.AVOID&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|1&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|110&br;黒&br;&br;HP&br;MP&br;SP&br;ATK&br;ATK&br;M.ATK&br;M.ATK&br;S.HIT&br;L.HIT&br;&br;DEF&br;DEF&br;M.DEF&br;M.DEF&br;S.AVO&br;L.AVO&br;A.SPD&br;C.SPD&br;&br;RCV&br;M.RCV&br;S.RCV|【説明】&br;これまで数々のお宝を奪ってきた伝説の怪盗。&br;遭遇したら持ち物にご注意を。&br;[[台詞>PetSpeech/kaitonyanko]]&br;&br;系統：その他&br;種別：動魔&br;攻撃タイプ：突き&br;射程：&br;&br;【固有命令スキル習得職業】&br;?&br;&br;【使用スキル】&br;はっー！(ラッシュ)&br;にゃいくろん！&br;強行突破にゃ&br;研ぎ澄ますにゃ(ディレイキャンセル)&br;&br;【入手法】&br;ECOドリーム「愛の守護戦士・メイリー」B賞|

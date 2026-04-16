@@ -1,0 +1,72 @@
+# Skill/RoyalDealer
+
+[[マーチャント >Skill/Merchant]]([[詳細>Skill/Merchant/Explanation]])/[[ トレーダー >Skill/Trader]]([[詳細>Skill/Trader/Explanation]])/[[ ギャンブラー >Skill/Gambler]]([[詳細>Skill/Gambler/Explanation]])/ ''ロイヤルディーラー'' ([[詳細>Skill/RoyalDealer/Explanation]])
+*ロイヤルディーラー [#be29d8fd]
+#contents
+
+-''SIZE(18){ COLOR(#3399cc){外部スレッド}}''
+マーチャントの[[''外部スレッド''>Skill/Merchant#p81644f8]]を参照
+
+** 特徴 [#e782e790]
+公式サイト：[[ロイヤルディーラー:http://www.econline.jp/data/job/3rd-chronicle/job_c12.html]]
+-世の清濁をあわせ呑み、浮名も汚名もどこ吹く風のセレブリティです。
+-カード系の新技能に加え、Goldの力を最大限に使うことができるようになります。
+-商売と賭博の裏も表も知り尽くした彼らには、いずれ世界経済さえ手軽な相手となるでしょう。
+-''HP係数：4.80''、''MP係数：3.28''、''SP係数：3.28''
+
+** 転職方法 [#z5817719]
+
+[[三次クロニクル職共通ルート>Job/Change/Chronicle#kyoutuu]]
+
+以後は、各職個別ルート
+武神を倒す
+力の解放と上位転生を行う を選択
+
+以上で、転職までの長い道のりが終了である。
+
+ベース・ジョブ共に１に戻り、種族と職業は上位になり、アバターも入手できる。
+また、アバターの調整も、この場所で何時でも変更できる
+&br;&color(red){''上位転生時のレベルによって変更箇所が増える。''};
+レベル110で上位転生すれば全ての箇所が選択可能
+** スキル早見表とスキル詳細 [#g38c8bc0]
+スキルの詳細・解説、検証などはこちらのページ→&size(18){[[スキル詳細>./Explanation]]};
+#include(./Table,notitle)
+
+**Job Lvによるステータス補正 [#p9f71ddd]
+//　COLOR(red):BGCOLOR(#EDEDFF):''ここに数値''　←文字を赤色にする
+//
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~1|7|8|9|4|8|2||~26|12|14|16|8|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''5''|
+|~2|7|8|9|4|8|2||~27|COLOR(red):BGCOLOR(#EDEDFF):''13''|14|COLOR(red):BGCOLOR(#EDEDFF):''17''|8|15|5|
+|~3|7|8|9|4|8|2||~28|13|COLOR(red):BGCOLOR(#EDEDFF):''15''|17|8|15|5|
+|~4|7|8|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''5''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''3''||~29|13|15|17|8|15|5|
+|~5|COLOR(red):BGCOLOR(#EDEDFF):''8''|COLOR(red):BGCOLOR(#EDEDFF):''9''|10|5|9|3||~30|13|15|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''9''|COLOR(red):BGCOLOR(#EDEDFF):''16''|5|
+|~6|8|9|10|5|9|3||~31|COLOR(red):BGCOLOR(#EDEDFF):''14''|15|18|9|16|5|
+|~7|8|9|COLOR(red):BGCOLOR(#EDEDFF):''11''|5|9|3||~32|14|COLOR(red):BGCOLOR(#EDEDFF):''16''|18|9|16|5|
+|~8|8|9|11|5|COLOR(red):BGCOLOR(#EDEDFF):''10''|3||~33|14|16|18|9|COLOR(red):BGCOLOR(#EDEDFF):''17''|5|
+|~9|8|COLOR(red):BGCOLOR(#EDEDFF):''10''|11|5|10|3||~34|14|16|COLOR(red):BGCOLOR(#EDEDFF):''19''|9|17|5|
+|~10|COLOR(red):BGCOLOR(#EDEDFF):''9''|10|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''6''|10|3||~35|14|16|19|9|17|5|
+|~11|9|10|12|6|COLOR(red):BGCOLOR(#EDEDFF):''11''|3||~36|COLOR(red):BGCOLOR(#EDEDFF):''15''|COLOR(red):BGCOLOR(#EDEDFF):''17''|19|9|17|5|
+|~12|9|10|12|6|11|3||~37|15|17|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''10''|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''6''|
+|~13|9|COLOR(red):BGCOLOR(#EDEDFF):''11''|12|6|11|3||~38|15|17|20|10|18|6|
+|~14|COLOR(red):BGCOLOR(#EDEDFF):''10''|11|COLOR(red):BGCOLOR(#EDEDFF):''13''|6|11|3||~39|15|17|20|10|18|6|
+|~15|10|11|13|6|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''4''||~40|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''18''|COLOR(red):BGCOLOR(#EDEDFF):''21''|10|18|6|
+|~16|10|11|13|6|12|4||~41|16|18|21|10|COLOR(red):BGCOLOR(#EDEDFF):''19''|6|
+|~17|10|COLOR(red):BGCOLOR(#EDEDFF):''12''|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''7''|12|4||~42|16|18|21|10|19|6|
+|~18|COLOR(red):BGCOLOR(#EDEDFF):''11''|12|14|7|12|4||~43|16|18|21|10|19|6|
+|~19|11|12|14|7|COLOR(red):BGCOLOR(#EDEDFF):''13''|4||~44|COLOR(red):BGCOLOR(#EDEDFF):''17''|COLOR(red):BGCOLOR(#EDEDFF):''19''|COLOR(red):BGCOLOR(#EDEDFF):''22''|COLOR(red):BGCOLOR(#EDEDFF):''11''|19|6|
+|~20|11|COLOR(red):BGCOLOR(#EDEDFF):''13''|COLOR(red):BGCOLOR(#EDEDFF):''15''|7|13|4||~45|17|19|22|11|COLOR(red):BGCOLOR(#EDEDFF):''20''|6|
+|~21|11|13|15|7|13|4||~46|17|19|22|11|20|6|
+|~22|11|13|15|7|COLOR(red):BGCOLOR(#EDEDFF):''14''|4||~47|17|COLOR(red):BGCOLOR(#EDEDFF):''20''|COLOR(red):BGCOLOR(#EDEDFF):''23''|11|20|6|
+|~23|COLOR(red):BGCOLOR(#EDEDFF):''12''|13|15|7|14|4||~48|17|20|23|11|COLOR(red):BGCOLOR(#EDEDFF):''21''|COLOR(red):BGCOLOR(#EDEDFF):''7''|
+|~24|12|COLOR(red):BGCOLOR(#EDEDFF):''14''|COLOR(red):BGCOLOR(#EDEDFF):''16''|COLOR(red):BGCOLOR(#EDEDFF):''8''|14|4||~49|COLOR(red):BGCOLOR(#EDEDFF):''18''|20|23|11|21|7|
+|~25|12|14|16|8|14|4||~50|18|20|COLOR(red):BGCOLOR(#EDEDFF):''24''|COLOR(red):BGCOLOR(#EDEDFF):''12''|21|7|
+|~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG||~JOBLV|~STR|~DEX|~INT|~VIT|~AGI|~MAG|
+
+* コメント欄（Wikiの編集の苦手な方はこちらに） [#zb30bcb8]
+COLOR(red):コメント欄はゲーム内容を質問する場ではありません。質問等は[[こちら>Skill/Merchant#p81644f8]]にどうぞ。
+
+どんな些細な情報でもこちらに。
+
+#pcomment

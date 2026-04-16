@@ -1,0 +1,31 @@
+# ドロップ率検証/ローパー系モンスター
+
+[[ドロップ率検証>ドロップ率検証]]／[[植物知識>ドロップ率検証#b3df450e]]
+
+***ローパー [#g494503a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|ゼリコ|ローパーの触手|マジックキャンディー|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（500体）|252個（50.40％）|194個（38.80％）|50個（10.00％）|4個（0.80％）|
+|知識あり（634体）|329個（51.89％）|237個（37.38％）|67個（10.57％）|1個（0.16％）|
+
+***テンタクル [#ec394204]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マジックキャンディー|ローパーの触手|破れた魔法書|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|
+|知識あり（127体）|85個（66.93％）|35個（27.56％）|5個（3.94％）|2個（1.57％）|
+
+***キングローパー [#d737411a]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||ローパーの触手|ラピス・ラズリ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|c
+|知識なし（2体）|1個（50.00％）|1個（50.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|
+
+***フルフル [#p06c3eb8]
+|BGCOLOR(#f5f8ff):|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|BGCOLOR(#e8ece8):CENTER:|c
+||なし|マジックキャンディー|ローパーの触手|橙色のゼリコ|
+|BGCOLOR(#e8ece8):|CENTER:|CENTER:|CENTER:|CENTER:|c
+|知識なし（300体）|140個（46.67％）|126個（42.00％）|31個（10.33％）|3個（1.00％）|
+|知識あり（0体）|0個（0.00％）|0個（0.00％）|0個（0.00％）|0個（0.00％）|

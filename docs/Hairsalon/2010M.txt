@@ -1,0 +1,159 @@
+# Hairsalon/2010M
+
+#author("2017-04-07T17:19:35+00:00","","")
+&size(20){&color(red){※※ゲーム内にてヘアカタログが実装された為、Wikiのヘアカタログは削除または縮小することに決まりました※※};};
+&size(20){&color(red){※※現在アップされている画像が必要な方は猶予期間中に収集してください※※};};
+&size(20){&color(red){※猶予期間3/20～4/20※};};
+&color(red){※終了日は前後する場合があります　猶予期間中の更新・削除はしないようお願いします※};
+
+#include(Hairsalon/Menu,notitle)
+*男性ヘアサロン（2010年） [#Hairsalon2010M]
+#contents
+
+
+**わがまま紹介状（ECOくじ「ウィンターホリデー」） [#Wagamama]
+|~ランダムショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/WagamamaRandom.jpg,nolink,800x200);|
+|~ナチュラルショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/WagamamaNatural.jpg,nolink,800x200);|
+
+**ライブの紹介状（ECOくじ 「バレンタインライブ」） [#Live]
+|~ロング三つ編みおさげ|
+|CENTER:画像募集中|
+|~セミロング三つ編みおさげ|
+|CENTER:画像募集中|
+|~ヘアカラーとヘアゴム色の一覧図|
+|CENTER:画像募集中|
+
+**しゅごキャラ！の紹介状（ECOくじ 「しゅごキャラ！」） [#Shugochara]
+|~ほしな歌唄の髪型|
+|CENTER:画像募集中|
+|~辺里唯世の髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/yuiyo.jpg,nolink,726x200);|
+
+
+**あむちゃんの紹介状（ダウンロードパッケージ：しゅごキャラ！「あむちゃんの制服セット」） [#Amuchan]
+|~あむちゃんの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/amuchan.jpg,nolink,464x158);|
+
+**イクトの紹介状（ダウンロードパッケージ：しゅごキャラ！「イクトの制服セット」） [#Ikuto]
+|~イクトの髪型|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ikuto.png,nolink,600x200);|
+
+**ふんわり紹介状（ECOくじ「さんぽ日和」） [#Funwari]
+|~ふんわりサイドテール|
+|CENTER:画像募集中|
+|~ヘアカラーとヘアゴム色の一覧図|
+|CENTER:画像募集中|
+|~ゆるふわショートヘア|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/yurufuwa_short.jpg,nolink,800x250);|
+
+**上級生の紹介状（ECOくじ「新生活」） [#Jyokyusei]
+|~ヘアピン付きロング|
+|CENTER:画像募集中|
+|~ヘアカラーとヘアピン色の一覧図|
+|CENTER:画像募集中|
+|~セミロング|
+|CENTER:画像募集中|
+
+**新入生の紹介状（ECOくじ「新生活」） [#Shinnyusei]
+|~優等生風ショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/yuutousei_short.jpg,nolink,800x200);|
+|~前流しお下げ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/Hairsalon/2010M/maenagasiosage.JPG,nolink,865x284);|
+
+**チェスの紹介状（ECOくじ「盤上の騎士団」） [#Chess]
+|~ジェントルマン|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/tyesu.jpg,nolink,499x178);|
+
+**バカンスの紹介状（ECOくじ「ハネムーンバカンス」） [#Vacances]
+|CENTER:画像募集中|
+
+**ハイカラ紹介状☆（ECOくじ「復刻・大正浪漫☆」） [#HighcolorStar]
+|CENTER:画像募集中|
+
+**[[真夏の紹介状☆>Hairsalon/Manatu#ManatuStar]]（ECOくじ「エンジョイ夏休み☆」） [#ManatuStar]
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/manatsustar_00.jpg,nolink,661x311);|
+
+**星屑の紹介状（ECOくじ「サマーナイトカーニバル」） [#StarDust]
+|CENTER:画像募集中|
+
+**縁日の紹介状（ECOくじ「サマーナイトカーニバル」） [#Enniti]
+|~しっかりポニーテール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/sikkariponi-teiru.jpg,nolink,619x157);|
+|~サイドテールのショートカット|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/sidepony.JPG,nolink,590x150);|
+
+**超キティラーの紹介状（ECOくじ「「ECO×ハローキティといっしょ！」） [#Kitty]
+|CENTER:画像募集中|
+
+**収穫祭の紹介状（ECOくじ「やすらぎカントリーライフ」） [#Syukaku]
+|CENTER:画像募集中|
+
+**トップモデルの紹介状（ECOくじ「アートコレクション」） [#Topmodel]
+|~スタイリッシュセミロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Stylish.jpg,nolink,800x200);|
+|~ゆる巻きロング　付け毛（リボン）付き|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/topmodel.jpg,nolink,735x222);|
+|~ゆる巻きロング　付け毛（リボン）無し|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/topmodel2.jpg,nolink,733x223);|
+
+**[[物怪の紹介状>Hairsalon/Mononoke]]（ECOくじ「和風はろうぃん」） [#mononoke]
+|~しっとりロング　※つけ毛の有無・種類選択可能|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke.jpg,nolink,635x383);|
+|~しっとりロング　※つけ毛・たぬき耳|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke2.jpg,nolink,655x383);|
+|~しっとりロング　※つけ毛なし|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/mononoke3.jpg,nolink,705x383);|
+|~くるふわボブ　※つけ毛の有無・種類選択可能|
+|CENTER:画像募集中|
+|~くるふわボブ　※つけ毛・きつね耳|
+|CENTER:画像募集中|
+|~くるふわボブ　※つけ毛なし|
+|CENTER:画像募集中|
+
+**イタズラっ子の紹介状（ECOくじ「洋風ハロウィン」） [#itazura]
+|~ウルフヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Hair-Wolf.jpg,nolink,661x311);|
+|~縦ロールショートツインテール|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/itazura.jpg,nolink,885x249);|
+
+**[[怪盗の紹介状>Hairsalon/Kaitou]]（ECOくじ「怪盗★ハード＆ワイルド」） [#kaitou]
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/kaitou.jpg,nolink,715x239);|
+
+**エンシェントアークの紹介状１ [#AncientArk1]
+|~ふわふわポニテ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ea1_poni.jpg,nolink,680x170);|
+|~ふわふわセミロング|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ea1_semil.jpg,nolink,800x147);|
+
+**エンシェントアークの紹介状２ [#AncientArk2]
+|~ショートツイン|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Ark2twin.JPG,nolink,887x196);|
+|~おかっぱ|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/ark2okappa.jpg,nolink,800x200);|
+
+**[[エミリーの紹介状>Hairsalon/Emily]]（ECOくじ「フシギの国のEmily」） [#Emily]
+|~チルドレンショート|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily_c.jpg,nolink,688x320);|
+|~ヴァーチャルボブ(付け毛なし) ※以下全て付け替え自由|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily4.jpg,nolink,609x159);|
+|~ヴァーチャルボブ(うさ耳風ターバン)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily3.jpg,nolink,635x229);|
+|~ヴァーチャルボブ(ポニーテール)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily2.jpg,nolink,701x274);|
+|~ヴァーチャルボブ(ツインテール)|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/emily.jpg,nolink,768x263);|
+
+**祝祭の紹介状（ECOくじ「あけましアニバ」） [#Syukusai]
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/Syukusai.JPG,nolink,836x311);|
+
+**聖夜の紹介状（ECOくじ「粉雪のプレゼント」） [#Seiya]
+|~ロングヘアー|
+|CENTER:&ref(http://eco.acronia.net/img/gamedb_wiki/%E7%94%B7%E6%80%A7%E3%83%98%E3%82%A2%E3%82%B5%E3%83%AD%E3%83%B3/seiya.jpg,nolink,711x253);|
+|~ショートツインテール(リボン無し)|
+|CENTER:画像募集中|
+|~ショートツインテール(リボン付き)|
+|CENTER:画像募集中|
+
+[ [[ トップメニュー >#TopMenu]] ][ [[ 2011年へ続く >Hairsalon/2011M]] ]
